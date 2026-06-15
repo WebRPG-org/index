@@ -120,7 +120,7 @@ if (failures.length > 0) {
 await writeStepSummary(summary);
 
 if (failed > 0) {
-  process.exitCode = 1;
+  // Individual fork failures are non-fatal; the workflow uses continue-on-error.
 }
 
 function getUniqueSources(entries) {

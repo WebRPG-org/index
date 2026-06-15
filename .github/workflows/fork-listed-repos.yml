@@ -1,6 +1,7 @@
 name: Fork listed repositories
 
 on:
+  workflow_dispatch:
   workflow_run:
     workflows:
       - Index GitHub RPG Maker repositories
@@ -16,7 +17,7 @@ concurrency:
 
 jobs:
   fork:
-    if: github.event.workflow_run.conclusion == 'success'
+    if: github.event_name == 'workflow_dispatch' || github.event.workflow_run.conclusion == 'success'
     runs-on: ubuntu-latest
     steps:
       - name: Check out index
@@ -28,6 +29,7 @@ jobs:
           node-version: "20"
 
       - name: Fork repositories
+        continue-on-error: true
         env:
           WEBRPG_FORK_TOKEN: ${{ secrets.WEBRPG_FORK_TOKEN }}
           TARGET_ORG: WebRPG-org

@@ -1,6 +1,7 @@
 name: Prepare fork repositories
 
 on:
+  workflow_dispatch:
   workflow_run:
     workflows:
       - Fork listed repositories
@@ -16,7 +17,7 @@ concurrency:
 
 jobs:
   plan:
-    if: github.event.workflow_run.conclusion == 'success'
+    if: github.event_name == 'workflow_dispatch' || github.event.workflow_run.conclusion == 'success'
     runs-on: ubuntu-latest
     outputs:
       matrix: ${{ steps.plan.outputs.matrix }}
