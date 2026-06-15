@@ -35,6 +35,11 @@ for (const { query, engine } of queries) {
       const repoKey = fullName.toLowerCase();
       const repoNameKey = repo.name.toLowerCase();
 
+      // Skip fork repositories so the source link points to the original author
+      if (repo.fork) {
+        continue;
+      }
+
       if (existingRepoKeys.has(repoKey) || existingNames.has(repoNameKey) || newNames.has(repoNameKey)) {
         continue;
       }
