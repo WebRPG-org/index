@@ -5,6 +5,7 @@ const apiBase = "https://api.github.com";
 const token = process.env.WEBRPG_APP_TOKEN || process.env.GITHUB_TOKEN || "";
 const targetOrg = process.env.TARGET_ORG || "WebRPG-org";
 const limit = parseNonNegativeInt(process.env.LIMIT || "0");
+const maxMatrixSize = parseNonNegativeInt(process.env.MAX_MATRIX_SIZE || "256");
 
 if (!token) {
   throw new Error("WEBRPG_APP_TOKEN or GITHUB_TOKEN is required.");
@@ -15,8 +16,13 @@ const indexedNames = new Set(getUniqueSources(list).map((item) => item.forkName.
 const orgRepos = await loadOrgRepos(targetOrg);
 const targets = orgRepos
   .filter((repo) => repo.fork && indexedNames.has(repo.name.toLowerCase()))
-  .sort((left, right) => left.name.localeCompare(right.name, "en"));
-const planned = limit > 0 ? targets.slice(0, limit) : targets;
+  .sort((left, right) => {
+    // Most recently updated first, so already-processed repos fall to the back
+    const leftUpdated = new Date(left.updated_at || 0).valueOf();
+    const rightUpdated = new Date(right.updated_at || 0).valueOf();
+    return rightUpdated - leftUpdated;
+  });
+const planned = limit > 0 ? targets.slice(0, limit) : targets.slice(0, maxMatrixSize);
 const matrix = {
   include: planned.map((repo) => ({
     repo: repo.name,
