@@ -116,25 +116,48 @@ function isSkippedEntry(entry) {
 }
 
 async function githubRequest(path, options = {}) {
-  const response = await fetch(`${apiBase}${path}`, {
-    method: options.method || "GET",
-    headers: {
-      Accept: "application/vnd.github+json",
-      Authorization: `Bearer ${token}`,
-      "Content-Type": "application/json",
-      "X-GitHub-Api-Version": "2022-11-28",
-    },
-    body: options.body ? JSON.stringify(options.body) : undefined,
-  });
+  const maxRetries = 5;
+  const baseDelayMs = 10_000;
 
-  const text = await response.text();
-  const data = text ? JSON.parse(text) : null;
+  for (let attempt = 0; attempt <= maxRetries; attempt += 1) {
+    const response = await fetch(`${apiBase}${path}`, {
+      method: options.method || "GET",
+      headers: {
+        Accept: "application/vnd.github+json",
+        Authorization: `Bearer ${token}`,
+        "Content-Type": "application/json",
+        "X-GitHub-Api-Version": "2022-11-28",
+      },
+      body: options.body ? JSON.stringify(options.body) : undefined,
+    });
 
-  if (!response.ok) {
+    const text = await response.text();
+    const data = text ? JSON.parse(text) : null;
+
+    if (response.ok) {
+      return data;
+    }
+
+    // Rate limit: retry with exponential backoff
+    if (response.status === 403 || response.status === 429) {
+      const retryAfter = data?.["retry-after"];
+      const delayMs = retryAfter
+        ? Number.parseInt(retryAfter, 10) * 1000
+        : Math.min(baseDelayMs * (2 ** attempt), 300_000);
+
+      if (attempt < maxRetries) {
+        console.log(`[rate-limit] ${data?.message?.slice(0, 60)}; waiting ${Math.round(delayMs / 1000)}s before retry ${attempt + 1}/${maxRetries}`);
+        await sleep(delayMs);
+        continue;
+      }
+    }
+
     throw new Error(`GitHub API ${response.status}: ${data?.message || response.statusText}`);
   }
+}
 
-  return data;
+function sleep(ms) {
+  return new Promise((resolve) => { setTimeout(resolve, ms); });
 }
 
 function parseNonNegativeInt(value) {
