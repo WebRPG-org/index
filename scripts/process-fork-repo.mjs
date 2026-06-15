@@ -1,3 +1,4 @@
+import crypto from "node:crypto";
 import fs from "node:fs/promises";
 import path from "node:path";
 
@@ -175,9 +176,18 @@ async function run() {
 
   // If cover is a .rpgmvp that was decrypted, add cover.png to the commit
   if (result.coverPngBuffer && !dryRun) {
-    updates.set("cover.png", result.coverPngBuffer);
-    result.cover = `${getPagesUrl()}cover.png`;
-    console.log(`[cover] Added cover.png to commit`);
+    // Check if cover.png already exists with the same content
+    const existingCover = tree.tree.find(
+      (item) => item.path === "cover.png" && item.type === "blob",
+    );
+    const newSha = crypto.createHash("sha1").update(`blob ${result.coverPngBuffer.length}\0`).update(result.coverPngBuffer).digest("hex");
+    if (existingCover && existingCover.sha === newSha) {
+      console.log(`[cover] cover.png unchanged, skipping`);
+    } else {
+      updates.set("cover.png", result.coverPngBuffer);
+      result.cover = `${getPagesUrl()}cover.png`;
+      console.log(`[cover] ${existingCover ? "Updated" : "Added"} cover.png`);
+    }
   }
 
   if (updates.size > 0) {
