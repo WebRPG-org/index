@@ -6095,6 +6095,18 @@
     "sourcePath": "index.html"
   },
   {
+    "id": "zhiwei-zhiwei-game-rpgmaker-magicnomagic",
+    "title": "Nature no Nature",
+    "repo": "https://github.com/zhiwei-zhiwei/Game_RPGMaker_MagicnoMagic",
+    "owner": "zhiwei-zhiwei",
+    "name": "Game_RPGMaker_MagicnoMagic",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "discoveredAt": "2026-06-16T21:41:12.505Z",
+    "source": "github-code-search",
+    "sourcePath": "index.html"
+  },
+  {
     "id": "sunset513-ncu-fresh-map-draft",
     "title": "NCU Frech 2024",
     "repo": "https://github.com/sunset513/ncu-fresh-map-draft",
@@ -7648,6 +7660,18 @@
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "Quillquest 3 - The Finale/index.html"
+  },
+  {
+    "id": "eijialice-raison-d-etre",
+    "title": "Raison D'Etre",
+    "repo": "https://github.com/eijialice/Raison-D-Etre",
+    "owner": "eijialice",
+    "name": "Raison-D-Etre",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "discoveredAt": "2026-06-16T21:41:12.505Z",
+    "source": "github-code-search",
+    "sourcePath": "index.html"
   },
   {
     "id": "rakkiisto-rakkiisto-rmmv",
@@ -9895,6 +9919,18 @@
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "index.html"
+  },
+  {
+    "id": "mysterymagination-weirdwyrdworld",
+    "title": "Weird Wyrd World",
+    "repo": "https://github.com/mysterymagination/WeirdWyrdWorld",
+    "owner": "mysterymagination",
+    "name": "WeirdWyrdWorld",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "discoveredAt": "2026-06-16T21:41:12.505Z",
+    "source": "github-code-search",
+    "sourcePath": "Weird Wyrd World/index.html"
   },
   {
     "id": "emay6-whatliesbeneath",
