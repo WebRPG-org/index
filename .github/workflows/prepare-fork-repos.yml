@@ -46,7 +46,7 @@ jobs:
           WEBRPG_APP_TOKEN: ${{ steps.app-token.outputs.token }}
           TARGET_ORG: WebRPG-org
           LIMIT: "0"
-          MAX_MATRIX_SIZE: "256"
+          MAX_MATRIX_SIZE: "128"
         run: node scripts/plan-fork-repos.mjs
 
   process:
