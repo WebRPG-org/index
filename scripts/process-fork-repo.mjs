@@ -633,31 +633,55 @@ async function ensurePages(branch, sourcePath) {
 }
 
 async function githubRequest(apiPath, options = {}) {
-  const response = await fetch(`${apiBase}${apiPath}`, {
-    method: options.method || "GET",
-    headers: {
-      Accept: "application/vnd.github+json",
-      Authorization: `Bearer ${token}`,
-      "Content-Type": "application/json",
-      "X-GitHub-Api-Version": "2022-11-28",
-    },
-    body: options.body ? JSON.stringify(options.body) : undefined,
-  });
+  const maxRetries = 5;
+  const baseDelayMs = 10_000;
+  const maxDelayMs = 300_000; // 5 min max wait
 
-  const text = await response.text();
-  const data = parseResponseBody(text);
-  const ok = options.ok || [200];
+  for (let attempt = 0; attempt <= maxRetries; attempt += 1) {
+    const response = await fetch(`${apiBase}${apiPath}`, {
+      method: options.method || "GET",
+      headers: {
+        Accept: "application/vnd.github+json",
+        Authorization: `Bearer ${token}`,
+        "Content-Type": "application/json",
+        "X-GitHub-Api-Version": "2022-11-28",
+      },
+      body: options.body ? JSON.stringify(options.body) : undefined,
+    });
 
-  if (!ok.includes(response.status)) {
+    const text = await response.text();
+    const data = parseResponseBody(text);
+    const ok = options.ok || [200];
+
+    if (ok.includes(response.status)) {
+      if (response.status === 404) {
+        return { status: 404 };
+      }
+      return data;
+    }
+
+    // Rate limit: retry with exponential backoff, capped at maxDelayMs
+    if (response.status === 403 || response.status === 429) {
+      const retryAfter = response.headers.get("retry-after");
+      const delayMs = retryAfter
+        ? Number.parseInt(retryAfter, 10) * 1000
+        : Math.min(baseDelayMs * (2 ** attempt), maxDelayMs);
+
+      if (attempt < maxRetries) {
+        const waitSec = Math.round(delayMs / 1000);
+        console.log(`[rate-limit] ${(data?.message || "").slice(0, 60)}; waiting ${waitSec}s before retry ${attempt + 1}/${maxRetries}`);
+        await sleep(delayMs);
+        continue;
+      }
+    }
+
     const message = data?.message || response.statusText;
     throw new Error(`GitHub API ${response.status}: ${message}`);
   }
+}
 
-  if (response.status === 404) {
-    return { status: 404 };
-  }
-
-  return data;
+function sleep(ms) {
+  return new Promise((resolve) => { setTimeout(resolve, ms); });
 }
 
 function shouldSkipPath(repoPath) {
