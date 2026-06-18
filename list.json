@@ -1277,6 +1277,18 @@
     "validationScore": 53
   },
   {
+    "id": "24c49x-24c49x-github-io",
+    "title": "青鬼2016 特典ver.",
+    "repo": "https://github.com/24c49x/24c49x.github.io",
+    "owner": "24c49x",
+    "name": "24c49x.github.io",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "discoveredAt": "2026-06-18T16:29:52.776Z",
+    "source": "github-code-search",
+    "sourcePath": "aooni/index.html"
+  },
+  {
     "id": "tw123777tw-pdlsdyzzh-41ae28b5",
     "title": "请把这个蛋糕完成！否则！",
     "repo": "https://github.com/tw123777tw/pdlsdyzzh",
@@ -3524,6 +3536,18 @@
     "totalSize": 71037,
     "dataSize": 760298,
     "sourceRepo": "Bundtologist/rpgmaker"
+  },
+  {
+    "id": "hashakgik-bullethell-rmmv",
+    "title": "bullethell",
+    "repo": "https://github.com/HashakGik/BulletHell-RMMV",
+    "owner": "HashakGik",
+    "name": "BulletHell-RMMV",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "discoveredAt": "2026-06-18T16:29:52.776Z",
+    "source": "github-code-search",
+    "sourcePath": "demo/index.html"
   },
   {
     "id": "winterdp-projectelfattorney",
@@ -6865,6 +6889,18 @@
     "sourceRepo": "davidcolla11/La-Cruzada-del-Ebola"
   },
   {
+    "id": "dovmantov-lack-of-life",
+    "title": "Lack Of life",
+    "repo": "https://github.com/dovmantov/Lack-of-Life",
+    "owner": "dovmantov",
+    "name": "Lack-of-Life",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "discoveredAt": "2026-06-18T16:29:52.776Z",
+    "source": "github-code-search",
+    "sourcePath": "index.html"
+  },
+  {
     "id": "giltry-lamento-de-las-flores",
     "title": "Lamento",
     "repo": "https://github.com/Giltry/Lamento-de-las-Flores",
@@ -8727,6 +8763,18 @@
     "sourceRepo": "squanky1372/squanky1372.github.io"
   },
   {
+    "id": "kayaphilliaiac-orangeblood",
+    "title": "ORANGEBLOOD",
+    "repo": "https://github.com/kayaphilliaiac/orangeblood",
+    "owner": "kayaphilliaiac",
+    "name": "orangeblood",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "discoveredAt": "2026-06-18T16:29:52.776Z",
+    "source": "github-code-search",
+    "sourcePath": "index.html"
+  },
+  {
     "id": "tiny-country-games-orthographic",
     "title": "Orthographic Demo",
     "repo": "https://github.com/Tiny-Country-Games/Orthographic",
@@ -9069,6 +9117,18 @@
     "sourceRepo": "TheRainbowPhoenix/LDS"
   },
   {
+    "id": "alriosa-awaken-mz",
+    "title": "Project1",
+    "repo": "https://github.com/Alriosa/awaken-mz",
+    "owner": "Alriosa",
+    "name": "awaken-mz",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "discoveredAt": "2026-06-18T16:29:52.776Z",
+    "source": "github-code-search",
+    "sourcePath": "Project1/index.html"
+  },
+  {
     "id": "asifexplore-secret-paladin",
     "title": "Project1",
     "repo": "https://github.com/asifexplore/Secret-Paladin",
@@ -9287,6 +9347,18 @@
     "totalSize": 1664,
     "dataSize": 669716,
     "sourceRepo": "RedPillPhil/testeroni"
+  },
+  {
+    "id": "remento-pennycode",
+    "title": "Project1",
+    "repo": "https://github.com/remento/pennycode",
+    "owner": "remento",
+    "name": "pennycode",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "discoveredAt": "2026-06-18T16:29:52.776Z",
+    "source": "github-code-search",
+    "sourcePath": "Project1/index.html"
   },
   {
     "id": "rushbl-100gptgames",
@@ -9687,6 +9759,18 @@
     "totalSize": 389489,
     "dataSize": 0,
     "sourceRepo": "CheekiBreeki421/QuillQuest3"
+  },
+  {
+    "id": "rewrite2411-loginthiencuu2411",
+    "title": "Raea",
+    "repo": "https://github.com/rewrite2411/loginthiencuu2411",
+    "owner": "rewrite2411",
+    "name": "loginthiencuu2411",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "discoveredAt": "2026-06-18T16:29:52.776Z",
+    "source": "github-code-search",
+    "sourcePath": "index.html"
   },
   {
     "id": "eijialice-raison-d-etre",
@@ -11488,6 +11572,18 @@
     "sourceRepo": "drclcomputers/The-Curse-of-The-Sceptrum"
   },
   {
+    "id": "dcarlin-devil-king-rpgmaker-mv-game",
+    "title": "The Devil King",
+    "repo": "https://github.com/dcarlin/Devil-King---RPGMaker-MV-Game",
+    "owner": "dcarlin",
+    "name": "Devil-King---RPGMaker-MV-Game",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "discoveredAt": "2026-06-18T16:29:52.776Z",
+    "source": "github-code-search",
+    "sourcePath": "Devil King/www/index.html"
+  },
+  {
     "id": "angeelpm-juegorpg-theesi",
     "title": "The ESI",
     "repo": "https://github.com/angeelpm/JuegoRPG-TheESI",
@@ -11865,6 +11961,18 @@
     "totalSize": 461264,
     "dataSize": 0,
     "sourceRepo": "StebPleb/ThisIsNiceGame"
+  },
+  {
+    "id": "tklninja-timbrowser",
+    "title": "Tickle Infested Magician Episode 2",
+    "repo": "https://github.com/TKLNinja/TIMbrowser",
+    "owner": "TKLNinja",
+    "name": "TIMbrowser",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "discoveredAt": "2026-06-18T16:29:52.776Z",
+    "source": "github-code-search",
+    "sourcePath": "index.html"
   },
   {
     "id": "valkyrieproject001-test01",
@@ -12767,6 +12875,18 @@
     "invalidReason": "RPG Maker structure is incomplete near index.html.",
     "deletedAt": "2026-06-15T17:34:13.592Z",
     "validationScore": 53
+  },
+  {
+    "id": "docpainkiller-fargohl",
+    "title": "Фарго: Жизнь Охотника",
+    "repo": "https://github.com/DocPainkiller/FargoHL",
+    "owner": "DocPainkiller",
+    "name": "FargoHL",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "discoveredAt": "2026-06-18T16:29:52.776Z",
+    "source": "github-code-search",
+    "sourcePath": "index.html"
   },
   {
     "id": "elghinn2512-cyberschool",
