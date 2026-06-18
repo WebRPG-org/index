@@ -527,7 +527,7 @@
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "www/index.html",
-    "checkedAt": "2026-06-18T19:32:55.073Z",
+    "checkedAt": "2026-06-18T22:11:58.573Z",
     "forkName": "eric0308a-The_Devils_Seven_Days",
     "lastCheckError": "GitHub API 502: Server Error"
   },
@@ -778,7 +778,7 @@
     "name": "rougedemo",
     "engine": "RPG Maker MV",
     "status": "verified",
-    "checkedAt": "2026-06-18T19:32:29.857Z",
+    "checkedAt": "2026-06-18T22:11:32.921Z",
     "forkName": "AnthonyTonyZ-rougedemo",
     "pagesUrl": "https://webrpg.org/AnthonyTonyZ-rougedemo/",
     "entryPath": "index.html",
@@ -796,7 +796,7 @@
     "name": "goldenmap",
     "engine": "RPG Maker MV",
     "status": "verified",
-    "checkedAt": "2026-06-18T19:32:26.132Z",
+    "checkedAt": "2026-06-18T22:11:34.701Z",
     "forkName": "grayblackannihilation-goldenmap",
     "pagesUrl": "https://webrpg.org/grayblackannihilation-goldenmap/",
     "entryPath": "index.html",
@@ -1052,7 +1052,7 @@
     "name": "Secret-Funeral",
     "engine": "RPG Maker MV",
     "status": "verified",
-    "checkedAt": "2026-06-18T19:32:26.368Z",
+    "checkedAt": "2026-06-18T22:11:30.814Z",
     "forkName": "MagicalYuto-Secret-Funeral",
     "pagesUrl": "https://webrpg.org/MagicalYuto-Secret-Funeral/",
     "entryPath": "index.html",
@@ -1343,7 +1343,7 @@
     "name": "drill_plugins-fork-from-drill",
     "engine": "RPG Maker MV",
     "status": "verified",
-    "checkedAt": "2026-06-18T19:32:40.097Z",
+    "checkedAt": "2026-06-18T22:11:48.663Z",
     "forkName": "ruan-cat-drill_plugins-fork-from-drill",
     "pagesUrl": "https://webrpg.org/ruan-cat-drill_plugins-fork-from-drill/",
     "entryPath": "插件详细手册/18.面板/Lagomoro（小优）任务系统 V14.0.1 修复乱序注册任务导致的bug/Lagomoro_Mission.js 范例工程 V14.0.01/index.html",
@@ -1524,7 +1524,7 @@
     "name": "aqua012.github.io",
     "engine": "RPG Maker MV",
     "status": "verified",
-    "checkedAt": "2026-06-18T19:32:25.929Z",
+    "checkedAt": "2026-06-18T22:11:30.399Z",
     "forkName": "aqua012-aqua012.github.io",
     "pagesUrl": "https://webrpg.org/aqua012-aqua012.github.io/",
     "entryPath": "index.html",
@@ -1802,7 +1802,7 @@
     "owner": "NeonNoir-Yuki",
     "name": "xrkxq",
     "engine": "RPG Maker MV",
-    "checkedAt": "2026-06-18T19:32:40.687Z",
+    "checkedAt": "2026-06-18T22:11:48.323Z",
     "forkName": "NeonNoir-Yuki-xrkxq",
     "lastCheckError": "GitHub API 502: Server Error"
   },
@@ -2020,7 +2020,7 @@
     "name": "Sword-Floor-MV-sample",
     "engine": "RPG Maker MV",
     "status": "verified",
-    "checkedAt": "2026-06-18T19:32:38.551Z",
+    "checkedAt": "2026-06-18T22:11:42.423Z",
     "forkName": "munokura-Sword-Floor-MV-sample",
     "pagesUrl": "https://webrpg.org/munokura-Sword-Floor-MV-sample/",
     "entryPath": "index.html",
@@ -2067,7 +2067,7 @@
     "name": "zzgl",
     "engine": "RPG Maker MV",
     "status": "verified",
-    "checkedAt": "2026-06-18T19:32:26.126Z",
+    "checkedAt": "2026-06-18T22:11:30.542Z",
     "forkName": "aaixy-zzgl",
     "pagesUrl": "https://webrpg.org/aaixy-zzgl/",
     "entryPath": "index.html",
@@ -2124,7 +2124,10 @@
     "status": "indexed",
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
-    "sourcePath": "index.html"
+    "sourcePath": "index.html",
+    "checkedAt": "2026-06-18T22:17:48.204Z",
+    "forkName": "Jeysser-A_torre",
+    "lastCheckError": "GitHub API 403: API rate limit exceeded for installation ID 140358813. If you reach out to GitHub Support for help, please include the request ID 6C03:286875:B3478FB:295B80D6:6A346E8C and timestamp 2026-06-18 22:17:48 UTC. For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service)"
   },
   {
     "id": "mettaseven-abby-rayshine",
@@ -2492,13 +2495,20 @@
     "owner": "Imtomzizle",
     "name": "-Write-399-RPG-Maker-Game",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "Write399Game/index.html",
-    "checkedAt": "2026-06-18T19:38:37.248Z",
+    "checkedAt": "2026-06-18T22:16:45.959Z",
     "forkName": "Imtomzizle-Write-399-RPG-Maker-Game",
-    "lastCheckError": "GitHub API 403: API rate limit exceeded for installation ID 140358813. If you reach out to GitHub Support for help, please include the request ID 4C11:8D42F:52DDA6B:131DC306:6A34493D and timestamp 2026-06-18 19:38:37 UTC. For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service)"
+    "lastCheckError": "GitHub API 403: API rate limit exceeded for installation ID 140358813. If you reach out to GitHub Support for help, please include the request ID 4C11:8D42F:52DDA6B:131DC306:6A34493D and timestamp 2026-06-18 19:38:37 UTC. For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service)",
+    "pagesUrl": "https://webrpg.org/Imtomzizle-Write-399-RPG-Maker-Game/",
+    "entryPath": "Write399Game/index.html",
+    "cover": "https://webrpg.org/Imtomzizle-Write-399-RPG-Maker-Game/cover.png",
+    "validationScore": 115,
+    "totalSize": 501439,
+    "dataSize": 0,
+    "sourceRepo": "Imtomzizle/-Write-399-RPG-Maker-Game"
   },
   {
     "id": "devdinho-ascending-magic",
@@ -2778,9 +2788,9 @@
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "Documentos/EJECUCIÒN/RELEASE 5/biblioteca_web/game.html",
-    "checkedAt": "2026-06-18T19:38:51.043Z",
+    "checkedAt": "2026-06-18T22:17:24.265Z",
     "forkName": "ISWPOLI-Servicios_Bibliotecarios",
-    "lastCheckError": "GitHub API 403: API rate limit exceeded for installation ID 140358813. If you reach out to GitHub Support for help, please include the request ID 0433:3050D7:989D10E:23444927:6A34494B and timestamp 2026-06-18 19:38:51 UTC. For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service)"
+    "lastCheckError": "GitHub API 403: API rate limit exceeded for installation ID 140358813. If you reach out to GitHub Support for help, please include the request ID DC43:260F5:66A3A48:17B0817B:6A346E74 and timestamp 2026-06-18 22:17:24 UTC. For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service)"
   },
   {
     "id": "67-factory-nikosgames",
@@ -3146,9 +3156,9 @@
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "games/bloodmoney.html",
-    "checkedAt": "2026-06-18T19:33:37.449Z",
+    "checkedAt": "2026-06-18T22:12:34.121Z",
     "forkName": "GoatTech-42-NEBULA-CDN",
-    "lastCheckError": "GitHub API 403: API rate limit exceeded for installation ID 140358813. If you reach out to GitHub Support for help, please include the request ID 53C3:2459FC:A45AF42:A5EEF3F:6A344921 and timestamp 2026-06-18 19:38:09 UTC. For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service)"
+    "lastCheckError": "GitHub API 403: API rate limit exceeded for installation ID 140358813. If you reach out to GitHub Support for help, please include the request ID 4803:24819F:688A010:1823C9EA:6A346E68 and timestamp 2026-06-18 22:17:12 UTC. For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service)"
   },
   {
     "id": "goaway184-vault12",
@@ -3175,13 +3185,16 @@
     "owner": "HitBoyXx23-dev",
     "name": "Euphoria",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "invalid_structure",
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "games/clbloodmoney.html",
-    "checkedAt": "2026-06-18T19:38:16.894Z",
+    "checkedAt": "2026-06-18T22:13:32.333Z",
     "forkName": "HitBoyXx23-dev-Euphoria",
-    "lastCheckError": "GitHub API 403: API rate limit exceeded for installation ID 140358813. If you reach out to GitHub Support for help, please include the request ID 3403:105A0A:7D37602:1CEBA14E:6A344928 and timestamp 2026-06-18 19:38:17 UTC. For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service)"
+    "lastCheckError": "GitHub API 403: API rate limit exceeded for installation ID 140358813. If you reach out to GitHub Support for help, please include the request ID 3403:105A0A:7D37602:1CEBA14E:6A344928 and timestamp 2026-06-18 19:38:17 UTC. For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service)",
+    "invalidReason": "RPG Maker structure is incomplete near games/clbloodmoney.html.",
+    "deletedAt": "2026-06-18T22:14:31.561Z",
+    "validationScore": 45
   },
   {
     "id": "itscrafted-crafted-gamz",
@@ -3194,9 +3207,9 @@
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "site/games/blood-money.html",
-    "checkedAt": "2026-06-18T19:38:53.302Z",
+    "checkedAt": "2026-06-18T22:17:24.759Z",
     "forkName": "ItsCrafted-crafted-gamz",
-    "lastCheckError": "GitHub API 403: API rate limit exceeded for installation ID 140358813. If you reach out to GitHub Support for help, please include the request ID 482B:2F5CFB:A2235F1:256CAC7C:6A34494D and timestamp 2026-06-18 19:38:53 UTC. For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service)"
+    "lastCheckError": "GitHub API 403: API rate limit exceeded for installation ID 140358813. If you reach out to GitHub Support for help, please include the request ID 0403:260F5:66A3DEA:17B08F98:6A346E74 and timestamp 2026-06-18 22:17:24 UTC. For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service)"
   },
   {
     "id": "itscrafted-hyperspeed",
@@ -3209,9 +3222,9 @@
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "games/blood-money.html",
-    "checkedAt": "2026-06-18T19:38:54.530Z",
+    "checkedAt": "2026-06-18T22:17:27.921Z",
     "forkName": "ItsCrafted-Hyperspeed",
-    "lastCheckError": "GitHub API 403: API rate limit exceeded for installation ID 140358813. If you reach out to GitHub Support for help, please include the request ID 4683:230851:7D44020:1D0BAAC5:6A34494E and timestamp 2026-06-18 19:38:54 UTC. For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service)"
+    "lastCheckError": "GitHub API 403: API rate limit exceeded for installation ID 140358813. If you reach out to GitHub Support for help, please include the request ID 382B:3B8D19:B8F824B:BAC0D67:6A346E78 and timestamp 2026-06-18 22:17:28 UTC. For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service)"
   },
   {
     "id": "k3yzz-k3ysplace",
@@ -4190,9 +4203,9 @@
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "Final Product/Crolos/www/index.html",
-    "checkedAt": "2026-06-18T19:38:41.930Z",
+    "checkedAt": "2026-06-18T22:17:31.344Z",
     "forkName": "InEudaimonia-Game-Development",
-    "lastCheckError": "GitHub API 403: API rate limit exceeded for installation ID 140358813. If you reach out to GitHub Support for help, please include the request ID 881B:230851:7D3DBCE:1D0A3A8E:6A344942 and timestamp 2026-06-18 19:38:42 UTC. For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service)"
+    "lastCheckError": "GitHub API 403: API rate limit exceeded for installation ID 140358813. If you reach out to GitHub Support for help, please include the request ID 501B:F8FAE:172971E:552BC48:6A346E7B and timestamp 2026-06-18 22:17:31 UTC. For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service)"
   },
   {
     "id": "telegd-ctf-shoottnup",
@@ -4331,9 +4344,9 @@
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "Danganronpa RPG/index.html",
-    "checkedAt": "2026-06-18T19:39:01.338Z",
+    "checkedAt": "2026-06-18T22:17:35.635Z",
     "forkName": "JacotPlus-TurboPlus_Studios-RPGMaker",
-    "lastCheckError": "GitHub API 403: API rate limit exceeded for installation ID 140358813. If you reach out to GitHub Support for help, please include the request ID B433:2E4777:A07879E:24DEA0DE:6A344955 and timestamp 2026-06-18 19:39:01 UTC. For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service)"
+    "lastCheckError": "GitHub API 403: API rate limit exceeded for installation ID 140358813. If you reach out to GitHub Support for help, please include the request ID 5413:E0CC7:B677B3E:2A3637D2:6A346E7F and timestamp 2026-06-18 22:17:35 UTC. For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service)"
   },
   {
     "id": "davidlopez3d-project-darkestvalley",
@@ -4406,9 +4419,9 @@
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "gnmath/dead-plate/index.html",
-    "checkedAt": "2026-06-18T19:32:41.758Z",
+    "checkedAt": "2026-06-18T22:11:50.275Z",
     "forkName": "bearcattt-lunar-assets",
-    "lastCheckError": "GitHub API 403: API rate limit exceeded for installation ID 140358813. If you reach out to GitHub Support for help, please include the request ID 8026:14FAEF:5377AA2:13438033:6A344921 and timestamp 2026-06-18 19:38:09 UTC. For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service)"
+    "lastCheckError": "GitHub API 403: API rate limit exceeded for installation ID 140358813. If you reach out to GitHub Support for help, please include the request ID 8C03:2D95E:65F154F:1781FDA3:6A346E68 and timestamp 2026-06-18 22:17:12 UTC. For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service)"
   },
   {
     "id": "charliedayfockens-hue-qr-science",
@@ -4439,9 +4452,9 @@
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "cldeadplate.html",
-    "checkedAt": "2026-06-18T19:33:10.280Z",
+    "checkedAt": "2026-06-18T22:12:14.975Z",
     "forkName": "GannixYT-games-gannix",
-    "lastCheckError": "GitHub API 403: API rate limit exceeded for installation ID 140358813. If you reach out to GitHub Support for help, please include the request ID C02B:1C6577:A973444:AB0D043:6A344921 and timestamp 2026-06-18 19:38:09 UTC. For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service)"
+    "lastCheckError": "GitHub API 403: API rate limit exceeded for installation ID 140358813. If you reach out to GitHub Support for help, please include the request ID 6843:6DD27:A6D2F38:2676D1FC:6A346E68 and timestamp 2026-06-18 22:17:12 UTC. For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service)"
   },
   {
     "id": "greyisgreat-greyproxyv2",
@@ -4472,9 +4485,9 @@
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "gmes/dead-plate.html",
-    "checkedAt": "2026-06-18T19:38:23.206Z",
+    "checkedAt": "2026-06-18T22:13:37.622Z",
     "forkName": "Hydra-Network-hydra-assets",
-    "lastCheckError": "GitHub API 403: API rate limit exceeded for installation ID 140358813. If you reach out to GitHub Support for help, please include the request ID 7003:1E8722:A194B26:A32C8F6:6A34492F and timestamp 2026-06-18 19:38:23 UTC. For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service)"
+    "lastCheckError": "GitHub API 403: API rate limit exceeded for installation ID 140358813. If you reach out to GitHub Support for help, please include the request ID 6C43:AE5F1:9334CEE:221F2D4C:6A346E68 and timestamp 2026-06-18 22:17:12 UTC. For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service)"
   },
   {
     "id": "jcalimbahin1212-ux-shellfish-presentation",
@@ -4486,7 +4499,10 @@
     "status": "indexed",
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
-    "sourcePath": "games/truffled/81.html"
+    "sourcePath": "games/truffled/81.html",
+    "checkedAt": "2026-06-18T22:17:42.131Z",
+    "forkName": "jcalimbahin1212-ux-shellfish-presentation",
+    "lastCheckError": "GitHub API 403: API rate limit exceeded for installation ID 140358813. If you reach out to GitHub Support for help, please include the request ID F413:16D9CC:667F01B:17A5AFF2:6A346E86 and timestamp 2026-06-18 22:17:42 UTC. For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service)"
   },
   {
     "id": "justjxrdanwasdefinetlytaken-cassets",
@@ -5031,7 +5047,10 @@
     "status": "indexed",
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
-    "sourcePath": "index.html"
+    "sourcePath": "index.html",
+    "checkedAt": "2026-06-18T22:17:53.630Z",
+    "forkName": "johnnypackard-unnamed-rpg",
+    "lastCheckError": "GitHub API 403: API rate limit exceeded for installation ID 140358813. If you reach out to GitHub Support for help, please include the request ID F803:A2EF9:66799B1:17A42E5B:6A346E91 and timestamp 2026-06-18 22:17:53 UTC. For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service)"
   },
   {
     "id": "tnuzzi-dragonwarriormv",
@@ -5253,9 +5272,9 @@
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "12DTM-RPGMAKER-Project/index.html",
-    "checkedAt": "2026-06-18T19:39:01.477Z",
+    "checkedAt": "2026-06-18T22:17:37.022Z",
     "forkName": "JacsonGold-12DTM-RPGMakerGame-Repository",
-    "lastCheckError": "GitHub API 403: API rate limit exceeded for installation ID 140358813. If you reach out to GitHub Support for help, please include the request ID 081B:399B48:79A1528:1C308630:6A344955 and timestamp 2026-06-18 19:39:01 UTC. For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service)"
+    "lastCheckError": "GitHub API 403: API rate limit exceeded for installation ID 140358813. If you reach out to GitHub Support for help, please include the request ID 800B:1E094E:158364F:4F674EA:6A346E81 and timestamp 2026-06-18 22:17:37 UTC. For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service)"
   },
   {
     "id": "luisdef-end",
@@ -5311,9 +5330,9 @@
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "Enigmária/Enigmária/www/index.html",
-    "checkedAt": "2026-06-18T19:38:49.784Z",
+    "checkedAt": "2026-06-18T22:17:23.601Z",
     "forkName": "IsaacRogovski-enigmaria",
-    "lastCheckError": "GitHub API 403: API rate limit exceeded for installation ID 140358813. If you reach out to GitHub Support for help, please include the request ID B81B:13E0A9:53D3993:13608B12:6A344949 and timestamp 2026-06-18 19:38:50 UTC. For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service)"
+    "lastCheckError": "GitHub API 403: API rate limit exceeded for installation ID 140358813. If you reach out to GitHub Support for help, please include the request ID D82B:3A754E:6773DD8:17D385FA:6A346E73 and timestamp 2026-06-18 22:17:23 UTC. For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service)"
   },
   {
     "id": "susobhang70-rpg-maze-runner",
@@ -5687,9 +5706,9 @@
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "Fear Hunger.html",
-    "checkedAt": "2026-06-18T19:38:24.238Z",
+    "checkedAt": "2026-06-18T22:14:05.695Z",
     "forkName": "Idonotknowhowtocodeyet-mongles-pull-games",
-    "lastCheckError": "GitHub API 403: API rate limit exceeded for installation ID 140358813. If you reach out to GitHub Support for help, please include the request ID 982C:691EE:A450FA3:A5EC272:6A344930 and timestamp 2026-06-18 19:38:24 UTC. For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service)"
+    "lastCheckError": "GitHub API 403: API rate limit exceeded for installation ID 140358813. If you reach out to GitHub Support for help, please include the request ID 082B:31A545:B5C13E2:2952D6A6:6A346E68 and timestamp 2026-06-18 22:17:12 UTC. For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service)"
   },
   {
     "id": "lloganisawsome-tac",
@@ -5861,13 +5880,20 @@
     "owner": "hellowin",
     "name": "freerun",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-06-18T19:38:12.823Z",
+    "checkedAt": "2026-06-18T22:13:21.979Z",
     "forkName": "hellowin-freerun",
-    "lastCheckError": "GitHub API 403: API rate limit exceeded for installation ID 140358813. If you reach out to GitHub Support for help, please include the request ID 8423:2F5AFE:802D5C4:1D9E8509:6A344924 and timestamp 2026-06-18 19:38:12 UTC. For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service)"
+    "lastCheckError": "GitHub API 403: API rate limit exceeded for installation ID 140358813. If you reach out to GitHub Support for help, please include the request ID 8423:2F5AFE:802D5C4:1D9E8509:6A344924 and timestamp 2026-06-18 19:38:12 UTC. For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service)",
+    "pagesUrl": "https://webrpg.org/hellowin-freerun/",
+    "entryPath": "index.html",
+    "cover": "https://webrpg.org/hellowin-freerun/cover.png",
+    "validationScore": 118,
+    "totalSize": 82274,
+    "dataSize": 1008370,
+    "sourceRepo": "hellowin/freerun"
   },
   {
     "id": "safejoy-15-gay-launcher",
@@ -6150,9 +6176,9 @@
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-06-18T19:38:49.176Z",
+    "checkedAt": "2026-06-18T22:17:23.794Z",
     "forkName": "ISUNCY-RPGMakerMV-TaskSystem-Plugins",
-    "lastCheckError": "GitHub API 403: API rate limit exceeded for installation ID 140358813. If you reach out to GitHub Support for help, please include the request ID 1443:8D42F:52E40A6:131F3E74:6A344949 and timestamp 2026-06-18 19:38:49 UTC. For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service)"
+    "lastCheckError": "GitHub API 403: API rate limit exceeded for installation ID 140358813. If you reach out to GitHub Support for help, please include the request ID 480B:130BAB:AACBB7B:279B42D6:6A346E73 and timestamp 2026-06-18 22:17:23 UTC. For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service)"
   },
   {
     "id": "ismailabdurrahimnf-gangster-jakarta",
@@ -6165,9 +6191,9 @@
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-06-18T19:38:48.249Z",
+    "checkedAt": "2026-06-18T22:17:27.116Z",
     "forkName": "ISMAILABDURRAHIMNF-gangster_jakarta",
-    "lastCheckError": "GitHub API 403: API rate limit exceeded for installation ID 140358813. If you reach out to GitHub Support for help, please include the request ID 5C13:260F5:5310231:132C1463:6A344948 and timestamp 2026-06-18 19:38:48 UTC. For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service)"
+    "lastCheckError": "GitHub API 403: API rate limit exceeded for installation ID 140358813. If you reach out to GitHub Support for help, please include the request ID 680B:C860A:B9C5F6F:BB8E0F6:6A346E77 and timestamp 2026-06-18 22:17:27 UTC. For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service)"
   },
   {
     "id": "pipakin-gdg-gcf-talk",
@@ -6266,9 +6292,9 @@
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "game/index.html",
-    "checkedAt": "2026-06-18T19:38:52.451Z",
+    "checkedAt": "2026-06-18T22:17:26.740Z",
     "forkName": "Isobe26505-Isobe26505.github.io",
-    "lastCheckError": "GitHub API 403: API rate limit exceeded for installation ID 140358813. If you reach out to GitHub Support for help, please include the request ID 301B:78A67:A240226:A3DC745:6A34494C and timestamp 2026-06-18 19:38:52 UTC. For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service)"
+    "lastCheckError": "GitHub API 403: API rate limit exceeded for installation ID 140358813. If you reach out to GitHub Support for help, please include the request ID 6043:C860A:B9C5C4A:BB8DDAB:6A346E76 and timestamp 2026-06-18 22:17:26 UTC. For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service)"
   },
   {
     "id": "m00nl16h7-m00nl16h7-github-io",
@@ -6299,13 +6325,20 @@
     "owner": "hayde26904",
     "name": "hayde26904.github.io",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "gettoschool4/www/index.html",
-    "checkedAt": "2026-06-18T19:37:55.860Z",
+    "checkedAt": "2026-06-18T22:12:55.309Z",
     "forkName": "hayde26904-hayde26904.github.io",
-    "lastCheckError": "GitHub API 403: API rate limit exceeded for installation ID 140358813. If you reach out to GitHub Support for help, please include the request ID 082B:8D42F:52CE94C:131A4586:6A344921 and timestamp 2026-06-18 19:38:09 UTC. For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service)"
+    "lastCheckError": "GitHub API 403: API rate limit exceeded for installation ID 140358813. If you reach out to GitHub Support for help, please include the request ID 082B:8D42F:52CE94C:131A4586:6A344921 and timestamp 2026-06-18 19:38:09 UTC. For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service)",
+    "pagesUrl": "https://webrpg.org/hayde26904-hayde26904.github.io/",
+    "entryPath": "index.html",
+    "cover": "https://webrpg.org/hayde26904-hayde26904.github.io/cover.png",
+    "validationScore": 115,
+    "totalSize": 407541,
+    "dataSize": 1184104,
+    "sourceRepo": "hayde26904/hayde26904.github.io"
   },
   {
     "id": "hamoda434-girlpower",
@@ -6376,13 +6409,20 @@
     "owner": "IGFCoimbra",
     "name": "Gladius-Saga",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-06-18T19:38:30.660Z",
+    "checkedAt": "2026-06-18T22:14:46.763Z",
     "forkName": "IGFCoimbra-Gladius-Saga",
-    "lastCheckError": "GitHub API 403: API rate limit exceeded for installation ID 140358813. If you reach out to GitHub Support for help, please include the request ID 4343:59A35:9789D1B:2311DA73:6A344936 and timestamp 2026-06-18 19:38:30 UTC. For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service)"
+    "lastCheckError": "GitHub API 403: API rate limit exceeded for installation ID 140358813. If you reach out to GitHub Support for help, please include the request ID 4343:59A35:9789D1B:2311DA73:6A344936 and timestamp 2026-06-18 19:38:30 UTC. For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service)",
+    "pagesUrl": "https://webrpg.org/IGFCoimbra-Gladius-Saga/",
+    "entryPath": "index.html",
+    "cover": "https://webrpg.org/IGFCoimbra-Gladius-Saga/cover.png",
+    "validationScore": 118,
+    "totalSize": 526490,
+    "dataSize": 1129075,
+    "sourceRepo": "IGFCoimbra/Gladius-Saga"
   },
   {
     "id": "xflorora-prototype-studio-2025",
@@ -6438,7 +6478,10 @@
     "status": "indexed",
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
-    "sourcePath": "index.html"
+    "sourcePath": "index.html",
+    "checkedAt": "2026-06-18T22:17:49.103Z",
+    "forkName": "jesussantos05-GreenHorizon",
+    "lastCheckError": "GitHub API 403: API rate limit exceeded for installation ID 140358813. If you reach out to GitHub Support for help, please include the request ID 5403:C860A:B9D0AC0:BB98E64:6A346E8D and timestamp 2026-06-18 22:17:49 UTC. For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service)"
   },
   {
     "id": "hoshiyomi0322-guonuo",
@@ -6447,13 +6490,20 @@
     "owner": "hoshiyomi0322",
     "name": "Guonuo",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-06-18T19:38:23.636Z",
+    "checkedAt": "2026-06-18T22:13:33.709Z",
     "forkName": "hoshiyomi0322-Guonuo",
-    "lastCheckError": "GitHub API 403: API rate limit exceeded for installation ID 140358813. If you reach out to GitHub Support for help, please include the request ID A783:12FF09:9EB6FA2:A0506E3:6A34492F and timestamp 2026-06-18 19:38:23 UTC. For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service)"
+    "lastCheckError": "GitHub API 403: API rate limit exceeded for installation ID 140358813. If you reach out to GitHub Support for help, please include the request ID A783:12FF09:9EB6FA2:A0506E3:6A34492F and timestamp 2026-06-18 19:38:23 UTC. For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service)",
+    "pagesUrl": "https://webrpg.org/hoshiyomi0322-Guonuo/",
+    "entryPath": "index.html",
+    "cover": "https://webrpg.org/hoshiyomi0322-Guonuo/cover.png",
+    "validationScore": 118,
+    "totalSize": 179465,
+    "dataSize": 2213834,
+    "sourceRepo": "hoshiyomi0322/Guonuo"
   },
   {
     "id": "mrxdaunknown-encodehackathon",
@@ -6579,13 +6629,16 @@
     "owner": "harshulmoon",
     "name": "harshulmoon.github.io",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "invalid_structure",
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "iframes/omoriiframe.html",
-    "checkedAt": "2026-06-18T19:37:46.938Z",
+    "checkedAt": "2026-06-18T22:12:53.470Z",
     "forkName": "harshulmoon-harshulmoon.github.io",
-    "lastCheckError": "GitHub API 403: API rate limit exceeded for installation ID 140358813. If you reach out to GitHub Support for help, please include the request ID 9413:39EE25:8070A3A:1DABBF57:6A344921 and timestamp 2026-06-18 19:38:09 UTC. For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service)"
+    "lastCheckError": "GitHub API 403: API rate limit exceeded for installation ID 140358813. If you reach out to GitHub Support for help, please include the request ID 9413:39EE25:8070A3A:1DABBF57:6A344921 and timestamp 2026-06-18 19:38:09 UTC. For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service)",
+    "invalidReason": "RPG Maker structure is incomplete near iframes/omoriiframe.html.",
+    "deletedAt": "2026-06-18T22:13:20.058Z",
+    "validationScore": 45
   },
   {
     "id": "ilikebread7-homick-rpgmaker",
@@ -6594,13 +6647,19 @@
     "owner": "ILikeBread7",
     "name": "homick-rpgmaker",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-06-18T19:38:39.780Z",
+    "checkedAt": "2026-06-18T22:16:15.484Z",
     "forkName": "ILikeBread7-homick-rpgmaker",
-    "lastCheckError": "GitHub API 403: API rate limit exceeded for installation ID 140358813. If you reach out to GitHub Support for help, please include the request ID 3C23:2F5CFB:A21BFE0:256AFF34:6A34493F and timestamp 2026-06-18 19:38:39 UTC. For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service)"
+    "lastCheckError": "GitHub API 403: API rate limit exceeded for installation ID 140358813. If you reach out to GitHub Support for help, please include the request ID 3C23:2F5CFB:A21BFE0:256AFF34:6A34493F and timestamp 2026-06-18 19:38:39 UTC. For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service)",
+    "pagesUrl": "https://webrpg.org/ILikeBread7-homick-rpgmaker/",
+    "entryPath": "index.html",
+    "validationScore": 68,
+    "totalSize": 69948,
+    "dataSize": 281541,
+    "sourceRepo": "ILikeBread7/homick-rpgmaker"
   },
   {
     "id": "falconpilot-house-of-the-7th-star",
@@ -6699,7 +6758,10 @@
     "status": "indexed",
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
-    "sourcePath": "epilogue/www/index.html"
+    "sourcePath": "epilogue/www/index.html",
+    "checkedAt": "2026-06-18T22:17:52.261Z",
+    "forkName": "johbcodes-fictional-train",
+    "lastCheckError": "GitHub API 403: API rate limit exceeded for installation ID 140358813. If you reach out to GitHub Support for help, please include the request ID B343:2AEBFE:AAB900D:278A021C:6A346E90 and timestamp 2026-06-18 22:17:52 UTC. For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service)"
   },
   {
     "id": "rphsoftware-oneloader-isat",
@@ -7256,9 +7318,9 @@
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "src/assets/juegos/j2/index.html",
-    "checkedAt": "2026-06-18T19:38:46.859Z",
+    "checkedAt": "2026-06-18T22:17:04.749Z",
     "forkName": "InitialGProject-InitialGProject",
-    "lastCheckError": "GitHub API 403: API rate limit exceeded for installation ID 140358813. If you reach out to GitHub Support for help, please include the request ID 0443:3CCA03:A2777F3:A41355B:6A344946 and timestamp 2026-06-18 19:38:47 UTC. For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service)"
+    "lastCheckError": "GitHub API 403: API rate limit exceeded for installation ID 140358813. If you reach out to GitHub Support for help, please include the request ID 1423:2ED887:A7A39AB:26C972F8:6A346E68 and timestamp 2026-06-18 22:17:12 UTC. For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service)"
   },
   {
     "id": "etamus-lostmemories",
@@ -7592,9 +7654,9 @@
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-06-18T19:39:00.028Z",
+    "checkedAt": "2026-06-18T22:17:36.959Z",
     "forkName": "jackHuang1130-68ba90b5-358d-407f-a2f9-e79ba757286d",
-    "lastCheckError": "GitHub API 403: API rate limit exceeded for installation ID 140358813. If you reach out to GitHub Support for help, please include the request ID 6C01:93823:536CBF3:1332FC8E:6A344954 and timestamp 2026-06-18 19:39:00 UTC. For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service)"
+    "lastCheckError": "GitHub API 403: API rate limit exceeded for installation ID 140358813. If you reach out to GitHub Support for help, please include the request ID 3C21:2D3FDE:90591AF:216DF77F:6A346E81 and timestamp 2026-06-18 22:17:37 UTC. For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service)"
   },
   {
     "id": "nikitabelk-nikita-channel-animation",
@@ -7643,7 +7705,10 @@
     "status": "indexed",
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
-    "sourcePath": "index.html"
+    "sourcePath": "index.html",
+    "checkedAt": "2026-06-18T22:17:45.315Z",
+    "forkName": "JefroB-MegaEarth2049",
+    "lastCheckError": "GitHub API 403: API rate limit exceeded for installation ID 140358813. If you reach out to GitHub Support for help, please include the request ID B414:6E265:67C9102:17FA8BC3:6A346E89 and timestamp 2026-06-18 22:17:45 UTC. For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service)"
   },
   {
     "id": "copperchihuahua-coppers-touhou-game-jam",
@@ -8315,7 +8380,7 @@
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "webport-hosting/omori-fixed/index.html",
-    "checkedAt": "2026-06-18T19:32:46.441Z",
+    "checkedAt": "2026-06-18T22:11:48.748Z",
     "forkName": "Cheesy-Website-Cheesy-Website.github.io",
     "lastCheckError": "GitHub API 502: Server Error"
   },
@@ -8405,7 +8470,7 @@
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "project/index.html",
-    "checkedAt": "2026-06-18T19:32:51.526Z",
+    "checkedAt": "2026-06-18T22:12:01.116Z",
     "forkName": "Escartem-OmoriSource",
     "lastCheckError": "GitHub API 502: Server Error"
   },
@@ -8489,13 +8554,16 @@
     "owner": "iamthegamesofsprunk",
     "name": "iamthegamesofsprunk.github.io",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "invalid_structure",
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "gn-stuff/Omori_oh_he_so_cooked.html",
-    "checkedAt": "2026-06-18T19:38:25.563Z",
+    "checkedAt": "2026-06-18T22:13:51.779Z",
     "forkName": "iamthegamesofsprunk-iamthegamesofsprunk.github.io",
-    "lastCheckError": "GitHub API 403: API rate limit exceeded for installation ID 140358813. If you reach out to GitHub Support for help, please include the request ID C803:691EE:A451A7B:A5ECD4C:6A344931 and timestamp 2026-06-18 19:38:25 UTC. For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service)"
+    "lastCheckError": "GitHub API 403: API rate limit exceeded for installation ID 140358813. If you reach out to GitHub Support for help, please include the request ID C803:691EE:A451A7B:A5ECD4C:6A344931 and timestamp 2026-06-18 19:38:25 UTC. For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service)",
+    "invalidReason": "RPG Maker structure is incomplete near gn-stuff/Omori_oh_he_so_cooked.html.",
+    "deletedAt": "2026-06-18T22:13:59.362Z",
+    "validationScore": 45
   },
   {
     "id": "ifilex-winebox-store",
@@ -8504,13 +8572,16 @@
     "owner": "ifilex",
     "name": "WineBOX-Store",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "invalid_structure",
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "webapps/steam/games/OMORI.html",
-    "checkedAt": "2026-06-18T19:38:27.019Z",
+    "checkedAt": "2026-06-18T22:14:13.666Z",
     "forkName": "ifilex-WineBOX-Store",
-    "lastCheckError": "GitHub API 403: API rate limit exceeded for installation ID 140358813. If you reach out to GitHub Support for help, please include the request ID 181B:1C6577:A97CDFF:AB16BE9:6A344933 and timestamp 2026-06-18 19:38:27 UTC. For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service)"
+    "lastCheckError": "GitHub API 403: API rate limit exceeded for installation ID 140358813. If you reach out to GitHub Support for help, please include the request ID 181B:1C6577:A97CDFF:AB16BE9:6A344933 and timestamp 2026-06-18 19:38:27 UTC. For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service)",
+    "invalidReason": "RPG Maker structure is incomplete near webapps/steam/games/In Stars and Time.html.",
+    "deletedAt": "2026-06-18T22:16:03.232Z",
+    "validationScore": 45
   },
   {
     "id": "ikknight-plunge",
@@ -8519,13 +8590,16 @@
     "owner": "IKKNIGHT",
     "name": "Plunge",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "invalid_structure",
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "games/OMORI.html",
-    "checkedAt": "2026-06-18T19:38:36.788Z",
+    "checkedAt": "2026-06-18T22:15:08.192Z",
     "forkName": "IKKNIGHT-Plunge",
-    "lastCheckError": "GitHub API 403: API rate limit exceeded for installation ID 140358813. If you reach out to GitHub Support for help, please include the request ID 5803:91C9A:7E6A65E:1D635FCC:6A34493C and timestamp 2026-06-18 19:38:36 UTC. For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service)"
+    "lastCheckError": "GitHub API 403: API rate limit exceeded for installation ID 140358813. If you reach out to GitHub Support for help, please include the request ID 5803:91C9A:7E6A65E:1D635FCC:6A34493C and timestamp 2026-06-18 19:38:36 UTC. For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service)",
+    "invalidReason": "RPG Maker structure is incomplete near games/OMORI.html.",
+    "deletedAt": "2026-06-18T22:15:14.214Z",
+    "validationScore": 45
   },
   {
     "id": "justjxrdanwasdefinetlytaken-jmw-node",
@@ -9213,7 +9287,7 @@
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "pokemon-agent-town/frontend/assets/index.html",
-    "checkedAt": "2026-06-18T19:32:53.924Z",
+    "checkedAt": "2026-06-18T22:12:05.216Z",
     "forkName": "fada-com-filtro-IA-agents",
     "lastCheckError": "GitHub API 502: Server Error"
   },
@@ -9514,13 +9588,19 @@
     "owner": "holywyvern",
     "name": "mv-pixi-upgrade",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-06-18T19:38:23.973Z",
+    "checkedAt": "2026-06-18T22:13:30.978Z",
     "forkName": "holywyvern-mv-pixi-upgrade",
-    "lastCheckError": "GitHub API 403: API rate limit exceeded for installation ID 140358813. If you reach out to GitHub Support for help, please include the request ID 1043:14CA0B:7E2D389:1D107D53:6A344930 and timestamp 2026-06-18 19:38:24 UTC. For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service)"
+    "lastCheckError": "GitHub API 403: API rate limit exceeded for installation ID 140358813. If you reach out to GitHub Support for help, please include the request ID 1043:14CA0B:7E2D389:1D107D53:6A344930 and timestamp 2026-06-18 19:38:24 UTC. For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service)",
+    "pagesUrl": "https://webrpg.org/holywyvern-mv-pixi-upgrade/",
+    "entryPath": "index.html",
+    "validationScore": 103,
+    "totalSize": 826,
+    "dataSize": 0,
+    "sourceRepo": "holywyvern/mv-pixi-upgrade"
   },
   {
     "id": "kyubuns-rpg-maker-test",
@@ -10308,7 +10388,10 @@
     "status": "indexed",
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
-    "sourcePath": "index.html"
+    "sourcePath": "index.html",
+    "checkedAt": "2026-06-18T22:17:58.133Z",
+    "forkName": "johnqwq-secret-escape",
+    "lastCheckError": "GitHub API 403: API rate limit exceeded for installation ID 140358813. If you reach out to GitHub Support for help, please include the request ID 2C03:3CCA03:B56FA02:B73CDAB:6A346E96 and timestamp 2026-06-18 22:17:58 UTC. For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service)"
   },
   {
     "id": "sirmcpotato-rmmv-mmo-webkit",
@@ -10850,7 +10933,10 @@
     "status": "indexed",
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
-    "sourcePath": "Windows/Shadows/www/index.html"
+    "sourcePath": "Windows/Shadows/www/index.html",
+    "checkedAt": "2026-06-18T22:17:49.172Z",
+    "forkName": "jkaz1968-Output",
+    "lastCheckError": "GitHub API 403: API rate limit exceeded for installation ID 140358813. If you reach out to GitHub Support for help, please include the request ID 202B:23B7A8:932599A:21FBA8EB:6A346E8D and timestamp 2026-06-18 22:17:49 UTC. For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service)"
   },
   {
     "id": "takoikatakotako-happybirthday-2018",
@@ -10906,9 +10992,9 @@
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "RPG Maker/Side Quest/index.html",
-    "checkedAt": "2026-06-18T19:39:05.183Z",
+    "checkedAt": "2026-06-18T22:17:38.376Z",
     "forkName": "jahmezz-20minutesgamedev",
-    "lastCheckError": "GitHub API 403: API rate limit exceeded for installation ID 140358813. If you reach out to GitHub Support for help, please include the request ID 8C23:33CD9C:2AC6AB:9EC4E6:6A344959 and timestamp 2026-06-18 19:39:05 UTC. For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service)"
+    "lastCheckError": "GitHub API 403: API rate limit exceeded for installation ID 140358813. If you reach out to GitHub Support for help, please include the request ID 3443:691EE:B747B86:B91464F:6A346E82 and timestamp 2026-06-18 22:17:38 UTC. For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service)"
   },
   {
     "id": "sifue-sierquest",
@@ -10958,7 +11044,10 @@
     "status": "indexed",
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
-    "sourcePath": "index.html"
+    "sourcePath": "index.html",
+    "checkedAt": "2026-06-18T22:17:43.935Z",
+    "forkName": "JaviSSCode-CallateKevin",
+    "lastCheckError": "GitHub API 403: API rate limit exceeded for installation ID 140358813. If you reach out to GitHub Support for help, please include the request ID E001:1E8722:B47297B:B63BF7B:6A346E88 and timestamp 2026-06-18 22:17:44 UTC. For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service)"
   },
   {
     "id": "givanilddo-skullseeker",
@@ -11126,13 +11215,19 @@
     "owner": "InabaByakko",
     "name": "SSPlayerForRPGMV",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "SampleProject/index.html",
-    "checkedAt": "2026-06-18T19:38:38.682Z",
+    "checkedAt": "2026-06-18T22:16:50.079Z",
     "forkName": "InabaByakko-SSPlayerForRPGMV",
-    "lastCheckError": "GitHub API 403: API rate limit exceeded for installation ID 140358813. If you reach out to GitHub Support for help, please include the request ID 1C1C:C7702:537B837:135944A8:6A34493E and timestamp 2026-06-18 19:38:38 UTC. For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service)"
+    "lastCheckError": "GitHub API 403: API rate limit exceeded for installation ID 140358813. If you reach out to GitHub Support for help, please include the request ID 1C1C:C7702:537B837:135944A8:6A34493E and timestamp 2026-06-18 19:38:38 UTC. For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service)",
+    "pagesUrl": "https://webrpg.org/InabaByakko-SSPlayerForRPGMV/",
+    "entryPath": "SampleProject/index.html",
+    "validationScore": 115,
+    "totalSize": 15259,
+    "dataSize": 0,
+    "sourceRepo": "InabaByakko/SSPlayerForRPGMV"
   },
   {
     "id": "teyplays-starfall-sanctuary",
@@ -11166,7 +11261,10 @@
     "status": "indexed",
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
-    "sourcePath": "scripts/incl/www/index.html"
+    "sourcePath": "scripts/incl/www/index.html",
+    "checkedAt": "2026-06-18T22:17:40.787Z",
+    "forkName": "jakeayy-Starshift",
+    "lastCheckError": "GitHub API 403: API rate limit exceeded for installation ID 140358813. If you reach out to GitHub Support for help, please include the request ID 884B:2AEBFE:AAB367B:2788BAF3:6A346E84 and timestamp 2026-06-18 22:17:40 UTC. For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service)"
   },
   {
     "id": "zikanforum-stir",
@@ -11299,13 +11397,20 @@
     "owner": "HyperPixel-212",
     "name": "Tales-of-Atheria",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "Documents/MidPoint/Tales of Atheria/www/index.html",
-    "checkedAt": "2026-06-18T19:38:23.651Z",
+    "checkedAt": "2026-06-18T22:13:46.146Z",
     "forkName": "HyperPixel-212-Tales-of-Atheria",
-    "lastCheckError": "GitHub API 403: API rate limit exceeded for installation ID 140358813. If you reach out to GitHub Support for help, please include the request ID F503:2F5AFE:80339C1:1D9FEFF5:6A34492F and timestamp 2026-06-18 19:38:23 UTC. For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service)"
+    "lastCheckError": "GitHub API 403: API rate limit exceeded for installation ID 140358813. If you reach out to GitHub Support for help, please include the request ID F503:2F5AFE:80339C1:1D9FEFF5:6A34492F and timestamp 2026-06-18 19:38:23 UTC. For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service)",
+    "pagesUrl": "https://webrpg.org/HyperPixel-212-Tales-of-Atheria/",
+    "entryPath": "Documents/Final Project/Tales of Atheria/www/index.html",
+    "cover": "https://webrpg.org/HyperPixel-212-Tales-of-Atheria/cover.png",
+    "validationScore": 115,
+    "totalSize": 621164,
+    "dataSize": 0,
+    "sourceRepo": "HyperPixel-212/Tales-of-Atheria"
   },
   {
     "id": "kstreith-sunflower-studios",
@@ -11541,13 +11646,20 @@
     "owner": "ImpeccableN",
     "name": "unigame_rpgmaker",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-06-18T19:38:37.346Z",
+    "checkedAt": "2026-06-18T22:16:30.986Z",
     "forkName": "ImpeccableN-unigame_rpgmaker",
-    "lastCheckError": "GitHub API 403: API rate limit exceeded for installation ID 140358813. If you reach out to GitHub Support for help, please include the request ID 7403:31BC9D:2D6BCB:A8010D:6A34493D and timestamp 2026-06-18 19:38:37 UTC. For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service)"
+    "lastCheckError": "GitHub API 403: API rate limit exceeded for installation ID 140358813. If you reach out to GitHub Support for help, please include the request ID 7403:31BC9D:2D6BCB:A8010D:6A34493D and timestamp 2026-06-18 19:38:37 UTC. For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service)",
+    "pagesUrl": "https://webrpg.org/ImpeccableN-unigame_rpgmaker/",
+    "entryPath": "index.html",
+    "cover": "https://webrpg.org/ImpeccableN-unigame_rpgmaker/cover.png",
+    "validationScore": 118,
+    "totalSize": 545456,
+    "dataSize": 726477,
+    "sourceRepo": "ImpeccableN/unigame_rpgmaker"
   },
   {
     "id": "marcuskim442-lostinwonder",
@@ -11710,7 +11822,7 @@
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "www/index.html",
-    "checkedAt": "2026-06-18T19:34:15.924Z",
+    "checkedAt": "2026-06-18T22:12:47.284Z",
     "forkName": "graveyardshiftpd-tcoaar-project",
     "lastCheckError": "GitHub API 502: Server Error"
   },
@@ -11725,7 +11837,7 @@
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "project/index.html",
-    "checkedAt": "2026-06-18T19:32:53.197Z",
+    "checkedAt": "2026-06-18T22:12:03.848Z",
     "forkName": "Escartem-TCOAALSource",
     "lastCheckError": "GitHub API 422: Sorry, your request timed out.  It's likely that your input was too large to process.  Consider building the tree incrementally, or building the commits you need in a local clone of the repository and then pushing them to GitHub."
   },
@@ -12242,7 +12354,7 @@
     "name": "test01",
     "engine": "RPG Maker MV",
     "status": "verified",
-    "checkedAt": "2026-06-18T19:32:38.723Z",
+    "checkedAt": "2026-06-18T22:11:51.197Z",
     "forkName": "valkyrieproject001-test01",
     "pagesUrl": "https://webrpg.org/valkyrieproject001-test01/",
     "entryPath": "index.html",
@@ -12306,9 +12418,9 @@
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "www/index.html",
-    "checkedAt": "2026-06-18T19:38:36.522Z",
+    "checkedAt": "2026-06-18T22:15:27.106Z",
     "forkName": "IkuTronHD-Touhou-Era",
-    "lastCheckError": "GitHub API 403: API rate limit exceeded for installation ID 140358813. If you reach out to GitHub Support for help, please include the request ID 20C3:F6C7D:94C04EC:226A4577:6A34493C and timestamp 2026-06-18 19:38:36 UTC. For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service)"
+    "lastCheckError": "GitHub API 502: Server Error"
   },
   {
     "id": "tnguy510-split-4",
@@ -13497,9 +13609,9 @@
     "owner": "haturatu",
     "name": "sradjp",
     "engine": "RPG Maker MV",
-    "checkedAt": "2026-06-18T19:32:26.529Z",
+    "checkedAt": "2026-06-18T22:11:31.241Z",
     "forkName": "haturatu-sradjp",
-    "lastCheckError": "GitHub API 403: API rate limit exceeded for installation ID 140358813. If you reach out to GitHub Support for help, please include the request ID C3C3:145BC2:52C7585:1319BBD8:6A344921 and timestamp 2026-06-18 19:38:09 UTC. For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service)"
+    "lastCheckError": "GitHub API 403: API rate limit exceeded for installation ID 140358813. If you reach out to GitHub Support for help, please include the request ID FC51:C5A0B:938C45E:221F7D2A:6A346E68 and timestamp 2026-06-18 22:17:12 UTC. For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service)"
   },
   {
     "id": "munokura-dq-like-sample-mv",
@@ -13509,7 +13621,7 @@
     "name": "DQ-like-Sample-MV",
     "engine": "RPG Maker MV",
     "status": "verified",
-    "checkedAt": "2026-06-18T19:32:26.094Z",
+    "checkedAt": "2026-06-18T22:11:33.146Z",
     "forkName": "munokura-DQ-like-Sample-MV",
     "pagesUrl": "https://webrpg.org/munokura-DQ-like-Sample-MV/",
     "entryPath": "index.html",
@@ -13651,7 +13763,7 @@
     "owner": "katai5plate",
     "name": "rpgmv_overflow",
     "engine": "RPG Maker MV",
-    "checkedAt": "2026-06-18T19:32:28.447Z",
+    "checkedAt": "2026-06-18T22:11:30.751Z",
     "forkName": "katai5plate-rpgmv_overflow",
     "lastCheckError": "GitHub API 403: API rate limit exceeded for installation ID 140358813. If you reach out to GitHub Support for help, please include the request ID FC03:1726F1:456E571:FF00635:6A33B16D and timestamp 2026-06-18 08:50:53 UTC. For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service)",
     "status": "verified",
@@ -13688,7 +13800,7 @@
     "name": "LoadingTest",
     "engine": "RPG Maker MV",
     "status": "verified",
-    "checkedAt": "2026-06-18T19:32:39.217Z",
+    "checkedAt": "2026-06-18T22:11:48.865Z",
     "forkName": "triacontane-LoadingTest",
     "pagesUrl": "https://webrpg.org/triacontane-LoadingTest/",
     "entryPath": "index.html",
