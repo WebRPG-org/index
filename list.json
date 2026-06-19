@@ -3890,6 +3890,18 @@
     "sourceRepo": "shirorimi/chaosver10"
   },
   {
+    "id": "hackerman998-spacejam",
+    "title": "Chronicles of the Lost Land",
+    "repo": "https://github.com/HackerMan998/SpaceJam",
+    "owner": "HackerMan998",
+    "name": "SpaceJam",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "discoveredAt": "2026-06-19T21:08:52.167Z",
+    "source": "github-code-search",
+    "sourcePath": "index.html"
+  },
+  {
     "id": "sasakimika487-chuyentausninhtu",
     "title": "chuyentausinhtu-luatsenpai",
     "repo": "https://github.com/sasakimika487/chuyentausninhtu",
@@ -5515,6 +5527,18 @@
     "totalSize": 412635,
     "dataSize": 0,
     "sourceRepo": "luisdef/end"
+  },
+  {
+    "id": "maperche2-endless-pain-net",
+    "title": "Endless Pain.Net v0.2.1.3F",
+    "repo": "https://github.com/maperche2/Endless-Pain.net",
+    "owner": "maperche2",
+    "name": "Endless-Pain.net",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "discoveredAt": "2026-06-19T21:08:52.167Z",
+    "source": "github-code-search",
+    "sourcePath": "Endless Pain.Net   v0.2.1.3F/www/index.html"
   },
   {
     "id": "dariusstrasel-rmmv-enginedemo",
@@ -13883,6 +13907,18 @@
     "totalSize": 1030,
     "dataSize": 93344,
     "sourceRepo": "kangana1024/demorpggame"
+  },
+  {
+    "id": "servermana-country-life",
+    "title": "귀농 라이프",
+    "repo": "https://github.com/ServerMana/Country-Life",
+    "owner": "ServerMana",
+    "name": "Country-Life",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "discoveredAt": "2026-06-19T21:08:52.167Z",
+    "source": "github-code-search",
+    "sourcePath": "index.html"
   },
   {
     "id": "ciart-knightdream-old",
