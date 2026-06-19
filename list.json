@@ -8880,6 +8880,18 @@
     "validationScore": 53
   },
   {
+    "id": "luisofficialbusiness-afk-prty-source-code",
+    "title": "OMORI",
+    "repo": "https://github.com/luisofficialbusiness-afk/PRTY-Source-Code",
+    "owner": "luisofficialbusiness-afk",
+    "name": "PRTY-Source-Code",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "discoveredAt": "2026-06-19T06:17:08.516Z",
+    "source": "github-code-search",
+    "sourcePath": "games/omori.html"
+  },
+  {
     "id": "mikerotchburnes103-scholaris-learning",
     "title": "OMORI",
     "repo": "https://github.com/mikerotchburnes103/scholaris-learning",
