@@ -187,11 +187,20 @@ async function run() {
       result.cover = coverResult.pagesUrl;
       result.coverPath = coverResult.coverPath;
 
-      if (coverResult.needsDecrypt) {
+      // Skip oversized cover images (> 5MB) — GitHub blob API rejects very large files
+      const MAX_COVER_SIZE = 5 * 1024 * 1024;
+      if (coverResult.coverFile.size > MAX_COVER_SIZE) {
+        console.log(`[cover] Skipping ${coverResult.coverPath}: ${coverResult.coverFile.size} bytes exceeds ${MAX_COVER_SIZE} limit`);
+        result.cover = null;
+      } else if (coverResult.needsDecrypt) {
         try {
           const pngBuffer = await decryptRpgmvp(targetOrg, repoName, coverResult.coverFile.sha);
-          result.coverPngBuffer = pngBuffer;
-          console.log(`[cover] Will commit cover.png (${pngBuffer.length} bytes) from ${coverResult.coverPath}`);
+          if (pngBuffer.length > MAX_COVER_SIZE) {
+            console.log(`[cover] Skipping decrypted cover: ${pngBuffer.length} bytes exceeds limit`);
+          } else {
+            result.coverPngBuffer = pngBuffer;
+            console.log(`[cover] Will commit cover.png (${pngBuffer.length} bytes) from ${coverResult.coverPath}`);
+          }
         } catch (error) {
           console.log(`[cover] Failed to decrypt ${coverResult.coverPath}: ${error.message}`);
         }
@@ -202,8 +211,12 @@ async function run() {
             `/repos/${encodeURIComponent(targetOrg)}/${encodeURIComponent(repoName)}/git/blobs/${coverResult.coverFile.sha}`,
           );
           const imgBuffer = Buffer.from(blob.content, blob.encoding);
-          result.coverPngBuffer = imgBuffer;
-          console.log(`[cover] Will copy ${coverResult.coverPath} as cover.png (${imgBuffer.length} bytes)`);
+          if (imgBuffer.length > MAX_COVER_SIZE) {
+            console.log(`[cover] Skipping ${coverResult.coverPath}: ${imgBuffer.length} bytes exceeds limit`);
+          } else {
+            result.coverPngBuffer = imgBuffer;
+            console.log(`[cover] Will copy ${coverResult.coverPath} as cover.png (${imgBuffer.length} bytes)`);
+          }
         } catch (error) {
           console.log(`[cover] Failed to read ${coverResult.coverPath}: ${error.message}`);
         }
@@ -897,7 +910,9 @@ function escapeHtml(value) {
 async function writeResult(data) {
   await fs.mkdir(resultDir, { recursive: true });
   const resultPath = path.join(resultDir, `${repoName}.json`);
-  await fs.writeFile(resultPath, `${JSON.stringify(data, null, 2)}\n`, "utf8");
+  // Strip binary buffer fields before serializing (they can be very large)
+  const { coverPngBuffer, ...serializable } = data;
+  await fs.writeFile(resultPath, `${JSON.stringify(serializable, null, 2)}\n`, "utf8");
 }
 
 async function writeStepSummary(lines) {
