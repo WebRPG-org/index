@@ -1772,6 +1772,18 @@
     "lastCheckError": "GitHub API 422: Invalid request.\n\nInvalid property /source: `baofei` is not a possible value. Must be one of the following: /, /docs."
   },
   {
+    "id": "starktomy-tunshi",
+    "title": "吞食天地",
+    "repo": "https://github.com/Starktomy/tunshi",
+    "owner": "Starktomy",
+    "name": "tunshi",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "discoveredAt": "2026-06-23T23:54:52.922Z",
+    "source": "github-code-search",
+    "sourcePath": "index.html"
+  },
+  {
     "id": "mingpnyy-rpgmaker-mv",
     "title": "危在旦汐",
     "repo": "https://github.com/mingpnyy/rpgmaker-mv",
@@ -2297,6 +2309,18 @@
     "sourceRepo": "AILab-FOI/AIWorld"
   },
   {
+    "id": "hacksider-alpha-chronicles",
+    "title": "Alpha Chronicle",
+    "repo": "https://github.com/hacksider/Alpha-Chronicles",
+    "owner": "hacksider",
+    "name": "Alpha-Chronicles",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "discoveredAt": "2026-06-23T23:54:52.922Z",
+    "source": "github-code-search",
+    "sourcePath": "index.html"
+  },
+  {
     "id": "eduardomourar-easyrpg-web",
     "title": "Alpha/Omega - DEMO",
     "repo": "https://github.com/eduardomourar/easyrpg-web",
@@ -2734,6 +2758,18 @@
     "sourceRepo": "tw123777tw/BadStatusDR"
   },
   {
+    "id": "gengames-66jamsubmissions",
+    "title": "Bagelocalypse",
+    "repo": "https://github.com/GenGames/66JamSubmissions",
+    "owner": "GenGames",
+    "name": "66JamSubmissions",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "discoveredAt": "2026-06-23T23:54:52.922Z",
+    "source": "github-code-search",
+    "sourcePath": "Bagelocalypse - Brothers of Einstein/www/index.html"
+  },
+  {
     "id": "maxwin-studios-balintataw",
     "title": "Balintataw",
     "repo": "https://github.com/MaxWin-Studios/balintataw",
@@ -2754,6 +2790,30 @@
     "totalSize": 747317,
     "dataSize": 340717,
     "sourceRepo": "MaxWin-Studios/balintataw"
+  },
+  {
+    "id": "unboxingvideoreal-bambi-civ",
+    "title": "Bambi Civilization: Sus Virus",
+    "repo": "https://github.com/UnboxingVideoReal/bambi-civ",
+    "owner": "UnboxingVideoReal",
+    "name": "bambi-civ",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "discoveredAt": "2026-06-23T23:54:52.922Z",
+    "source": "github-code-search",
+    "sourcePath": "index.html"
+  },
+  {
+    "id": "unboxingvideoreal-bambi-civ-fangame-pc",
+    "title": "Bambi Civilization: Sus Virus",
+    "repo": "https://github.com/UnboxingVideoReal/bambi-civ-fangame-pc",
+    "owner": "UnboxingVideoReal",
+    "name": "bambi-civ-fangame-pc",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "discoveredAt": "2026-06-23T23:54:52.922Z",
+    "source": "github-code-search",
+    "sourcePath": "www/index.html"
   },
   {
     "id": "benjaminpants-benjaminpants-github-io",
@@ -3161,6 +3221,18 @@
     "validationScore": 45
   },
   {
+    "id": "enchanteddonutstudioz-cdn2",
+    "title": "BLOODMONEY!",
+    "repo": "https://github.com/EnchantedDonutStudioz/cdn2",
+    "owner": "EnchantedDonutStudioz",
+    "name": "cdn2",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "discoveredAt": "2026-06-23T23:54:52.922Z",
+    "source": "github-code-search",
+    "sourcePath": "pc/bloodmoney/index.html"
+  },
+  {
     "id": "firelight88077-the-updated-games",
     "title": "BLOODMONEY!",
     "repo": "https://github.com/FireLight88077/The-updated-games",
@@ -3446,6 +3518,18 @@
     "invalidReason": "RPG Maker structure is incomplete near Game-filess/Bloodmoney.html.",
     "deletedAt": "2026-06-16T12:19:14.693Z",
     "validationScore": 45
+  },
+  {
+    "id": "marty-games-mga-html5x",
+    "title": "BLOODMONEY!",
+    "repo": "https://github.com/marty-games/mga-html5x",
+    "owner": "marty-games",
+    "name": "mga-html5x",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "discoveredAt": "2026-06-23T23:54:52.922Z",
+    "source": "github-code-search",
+    "sourcePath": "bloodmoney/index.html"
   },
   {
     "id": "mrdavidzs-games",
@@ -3773,6 +3857,18 @@
     "sourcePath": "demo/index.html"
   },
   {
+    "id": "choyoru-bunny-and-space-dungeons",
+    "title": "Bunny and space dungeons",
+    "repo": "https://github.com/Choyoru/Bunny-and-space-dungeons",
+    "owner": "Choyoru",
+    "name": "Bunny-and-space-dungeons",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "discoveredAt": "2026-06-23T23:54:52.922Z",
+    "source": "github-code-search",
+    "sourcePath": "index.html"
+  },
+  {
     "id": "winterdp-projectelfattorney",
     "title": "Call of Jury: O caso do cabo de boa ventura",
     "repo": "https://github.com/WinterDP/ProjectElfAttorney",
@@ -3859,6 +3955,18 @@
     "totalSize": 156108,
     "dataSize": 1568452,
     "sourceRepo": "PeterDrake/cascadia-pilot-game"
+  },
+  {
+    "id": "cosmiccatacorn-ahjkjh",
+    "title": "castillo de la persona",
+    "repo": "https://github.com/cosmiccatacorn/ahjkjh",
+    "owner": "cosmiccatacorn",
+    "name": "ahjkjh",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "discoveredAt": "2026-06-23T23:54:52.922Z",
+    "source": "github-code-search",
+    "sourcePath": "index.html"
   },
   {
     "id": "gelatolabs-catachresis",
@@ -4499,6 +4607,18 @@
     "sourceRepo": "4nddrs/Cyber-Tech"
   },
   {
+    "id": "leowolf26-d-1",
+    "title": "D-1",
+    "repo": "https://github.com/LeoWolf26/D-1",
+    "owner": "LeoWolf26",
+    "name": "D-1",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "discoveredAt": "2026-06-23T23:54:52.922Z",
+    "source": "github-code-search",
+    "sourcePath": "index.html"
+  },
+  {
     "id": "poopsterbrown-schoolofrock",
     "title": "Dad App",
     "repo": "https://github.com/poopsterbrown/schoolofrock",
@@ -4704,6 +4824,18 @@
     "invalidReason": "RPG Maker structure is incomplete near gmes/blood-money.html.",
     "deletedAt": "2026-06-19T00:35:24.050Z",
     "validationScore": 45
+  },
+  {
+    "id": "jcalimbahin1212-ux-null-testament",
+    "title": "DEAD PLATE",
+    "repo": "https://github.com/jcalimbahin1212-ux/Null-Testament",
+    "owner": "jcalimbahin1212-ux",
+    "name": "Null-Testament",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "discoveredAt": "2026-06-23T23:54:52.922Z",
+    "source": "github-code-search",
+    "sourcePath": "games/gnmath-html/462.html"
   },
   {
     "id": "jcalimbahin1212-ux-shellfish-presentation",
@@ -5016,6 +5148,18 @@
     "totalSize": 388559,
     "dataSize": 0,
     "sourceRepo": "deogracia/rpgmaker-CreditsMarkdown"
+  },
+  {
+    "id": "uppteam-uppteam-github-io",
+    "title": "Desafío Matemático: Más Allá de los Problemas",
+    "repo": "https://github.com/uppteam/uppteam.github.io",
+    "owner": "uppteam",
+    "name": "uppteam.github.io",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "discoveredAt": "2026-06-23T23:54:52.922Z",
+    "source": "github-code-search",
+    "sourcePath": "juego/index.html"
   },
   {
     "id": "ruandersonvieira-educamais",
@@ -5515,6 +5659,18 @@
     "totalSize": 107678,
     "dataSize": 3406191,
     "sourceRepo": "chruscikszef/dzzt-android"
+  },
+  {
+    "id": "botakhage-eduventure",
+    "title": "EduVenture",
+    "repo": "https://github.com/BotakHage/Eduventure",
+    "owner": "BotakHage",
+    "name": "Eduventure",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "discoveredAt": "2026-06-23T23:54:52.922Z",
+    "source": "github-code-search",
+    "sourcePath": "index.html"
   },
   {
     "id": "agjimenez-ra-s-quest",
@@ -6459,6 +6615,18 @@
     "sourceRepo": "miku1hhhh/miku1hhhh.github.io"
   },
   {
+    "id": "h0ngliangli-game-name",
+    "title": "Game Name",
+    "repo": "https://github.com/h0ngliangli/Game-Name",
+    "owner": "h0ngliangli",
+    "name": "Game-Name",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "discoveredAt": "2026-06-23T23:54:52.922Z",
+    "source": "github-code-search",
+    "sourcePath": "index.html"
+  },
+  {
     "id": "fangbruce-rpg-game1",
     "title": "game1",
     "repo": "https://github.com/FangBruce/RPG_game1",
@@ -6698,6 +6866,18 @@
     "sourceRepo": "M00NL16H7/m00nl16h7.github.io"
   },
   {
+    "id": "talon24229-talon24229-github-io",
+    "title": "Get To School 2 Delux",
+    "repo": "https://github.com/Talon24229/Talon24229.github.io",
+    "owner": "Talon24229",
+    "name": "Talon24229.github.io",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "discoveredAt": "2026-06-23T23:54:52.922Z",
+    "source": "github-code-search",
+    "sourcePath": "gettoschool/index.html"
+  },
+  {
     "id": "hayde26904-hayde26904-github-io",
     "title": "Get To School 4",
     "repo": "https://github.com/hayde26904/hayde26904.github.io",
@@ -6718,6 +6898,18 @@
     "totalSize": 407541,
     "dataSize": 1184104,
     "sourceRepo": "hayde26904/hayde26904.github.io"
+  },
+  {
+    "id": "kazedevid-girl-hunting",
+    "title": "Girl Hunting",
+    "repo": "https://github.com/KazeDevID/Girl-hunting",
+    "owner": "KazeDevID",
+    "name": "Girl-hunting",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "discoveredAt": "2026-06-23T23:54:52.922Z",
+    "source": "github-code-search",
+    "sourcePath": "index.html"
   },
   {
     "id": "hamoda434-girlpower",
@@ -6934,6 +7126,30 @@
     "totalSize": 526837,
     "dataSize": 1570522,
     "sourceRepo": "nerdsonly/half-heroes"
+  },
+  {
+    "id": "balensmatheo-balensmatheo-github-io",
+    "title": "Harassment Escape",
+    "repo": "https://github.com/balensmatheo/balensmatheo.github.io",
+    "owner": "balensmatheo",
+    "name": "balensmatheo.github.io",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "discoveredAt": "2026-06-23T23:54:52.922Z",
+    "source": "github-code-search",
+    "sourcePath": "index.html"
+  },
+  {
+    "id": "balensmatheo-harassmentescape-github-io",
+    "title": "Harassment Escape",
+    "repo": "https://github.com/balensmatheo/HarassmentEscape.github.io",
+    "owner": "balensmatheo",
+    "name": "HarassmentEscape.github.io",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "discoveredAt": "2026-06-23T23:54:52.922Z",
+    "source": "github-code-search",
+    "sourcePath": "index.html"
   },
   {
     "id": "discus-sions-the-fall-preview1",
@@ -7272,6 +7488,18 @@
     "sourceRepo": "Raphaell-Maiwen/Informed-Consent"
   },
   {
+    "id": "dvancuyk-initial-fantasy",
+    "title": "Initial Fantasy",
+    "repo": "https://github.com/dvancuyk/initial-fantasy",
+    "owner": "dvancuyk",
+    "name": "initial-fantasy",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "discoveredAt": "2026-06-23T23:54:52.922Z",
+    "source": "github-code-search",
+    "sourcePath": "index.html"
+  },
+  {
     "id": "falconpilot-inquisitor-rpg-mv",
     "title": "Inquisitor's Demise",
     "repo": "https://github.com/FalconPilot/inquisitor_rpg_mv",
@@ -7313,6 +7541,18 @@
     "totalSize": 618,
     "dataSize": 0,
     "sourceRepo": "EnigmaDragons/IntoTheDark"
+  },
+  {
+    "id": "yumetsukiiii-irotoridorino-sekai-game",
+    "title": "irotoridorino_sekai",
+    "repo": "https://github.com/yumeTsukiiii/irotoridorino_sekai_game",
+    "owner": "yumeTsukiiii",
+    "name": "irotoridorino_sekai_game",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "discoveredAt": "2026-06-23T23:54:52.922Z",
+    "source": "github-code-search",
+    "sourcePath": "index.html"
   },
   {
     "id": "thomazdevmaster-iso25k-square-rpg",
@@ -7379,6 +7619,18 @@
     "totalSize": 550954,
     "dataSize": 2458033,
     "sourceRepo": "exadmax/Proto"
+  },
+  {
+    "id": "aslated-jstesting",
+    "title": "JSTesting",
+    "repo": "https://github.com/ASlated/JSTesting",
+    "owner": "ASlated",
+    "name": "JSTesting",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "discoveredAt": "2026-06-23T23:54:52.922Z",
+    "source": "github-code-search",
+    "sourcePath": "index.html"
   },
   {
     "id": "szatkus-wachaj-pale-kajdaniarzu",
@@ -7473,6 +7725,42 @@
     "lastCheckError": "GitHub API 422: Invalid request.\n\nInvalid property /source: `docs/gametest` is not a possible value. Must be one of the following: /, /docs."
   },
   {
+    "id": "etg227-new-game",
+    "title": "Kubernetes Isekai",
+    "repo": "https://github.com/etg227/NEW-GAME",
+    "owner": "etg227",
+    "name": "NEW-GAME",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "discoveredAt": "2026-06-23T23:54:52.922Z",
+    "source": "github-code-search",
+    "sourcePath": "index.html"
+  },
+  {
+    "id": "wongcyrus-k8s-isekai",
+    "title": "Kubernetes Isekai",
+    "repo": "https://github.com/wongcyrus/k8s-isekai",
+    "owner": "wongcyrus",
+    "name": "k8s-isekai",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "discoveredAt": "2026-06-23T23:54:52.922Z",
+    "source": "github-code-search",
+    "sourcePath": "index.html"
+  },
+  {
+    "id": "heronat-si28-test",
+    "title": "L'Ombre de la Guerre",
+    "repo": "https://github.com/heronat/SI28_Test",
+    "owner": "heronat",
+    "name": "SI28_Test",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "discoveredAt": "2026-06-23T23:54:52.922Z",
+    "source": "github-code-search",
+    "sourcePath": "index.html"
+  },
+  {
     "id": "ealiagay-rpg-web-game-vercel",
     "title": "La Conciencia Perdida",
     "repo": "https://github.com/ealiagay/RPG-Web-Game-Vercel",
@@ -7513,6 +7801,30 @@
     "totalSize": 439302,
     "dataSize": 1275692,
     "sourceRepo": "davidcolla11/La-Cruzada-del-Ebola"
+  },
+  {
+    "id": "cesarvfilo-videojuegosyfilosofia",
+    "title": "La dialéctica de los sueños",
+    "repo": "https://github.com/CesarVfilo/videojuegosyfilosofia",
+    "owner": "CesarVfilo",
+    "name": "videojuegosyfilosofia",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "discoveredAt": "2026-06-23T23:54:52.922Z",
+    "source": "github-code-search",
+    "sourcePath": "index.html"
+  },
+  {
+    "id": "kaotickj-labyrinth",
+    "title": "Labyrinth | The Adventures of Jaida | A Turn-Based Strategy RPG",
+    "repo": "https://github.com/kaotickj/Labyrinth",
+    "owner": "kaotickj",
+    "name": "Labyrinth",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "discoveredAt": "2026-06-23T23:54:52.922Z",
+    "source": "github-code-search",
+    "sourcePath": "index.html"
   },
   {
     "id": "dovmantov-lack-of-life",
@@ -7785,6 +8097,18 @@
     "sourceRepo": "Etamus/LostMemories"
   },
   {
+    "id": "apokryph-lost-places",
+    "title": "Lost Places",
+    "repo": "https://github.com/Apokryph/lost_places",
+    "owner": "Apokryph",
+    "name": "lost_places",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "discoveredAt": "2026-06-23T23:54:52.922Z",
+    "source": "github-code-search",
+    "sourcePath": "index.html"
+  },
+  {
     "id": "timmetry-lostinamaze",
     "title": "LostInAmaze",
     "repo": "https://github.com/timmetry/LostInAmaze",
@@ -8030,6 +8354,18 @@
     "sourceRepo": "XMandarava/Plugins4RMMV"
   },
   {
+    "id": "anibalsj-last-years",
+    "title": "Mapa nuevo en mv",
+    "repo": "https://github.com/AnibalSJ/Last-Years",
+    "owner": "AnibalSJ",
+    "name": "Last-Years",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "discoveredAt": "2026-06-23T23:54:52.922Z",
+    "source": "github-code-search",
+    "sourcePath": "Ingreso/homecoming/www/index.html"
+  },
+  {
     "id": "0x416c616e-2drpggamengine",
     "title": "MapOnly",
     "repo": "https://github.com/0x416c616e/2drpggamengine",
@@ -8174,6 +8510,18 @@
     "totalSize": 82008,
     "dataSize": 703740,
     "sourceRepo": "FannarHrafn/veffortvoloka"
+  },
+  {
+    "id": "saigurunagula-ik5",
+    "title": "Meditation",
+    "repo": "https://github.com/SaiguruNagula/ik5",
+    "owner": "SaiguruNagula",
+    "name": "ik5",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "discoveredAt": "2026-06-23T23:54:52.922Z",
+    "source": "github-code-search",
+    "sourcePath": "index.html"
   },
   {
     "id": "jefrob-megaearth2049",
@@ -8345,6 +8693,30 @@
     "sourceRepo": "RageOfFire/KingSoundTrackMP3"
   },
   {
+    "id": "clone1018-mv-mmo-test",
+    "title": "MMO",
+    "repo": "https://github.com/clone1018/mv-mmo-test",
+    "owner": "clone1018",
+    "name": "mv-mmo-test",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "discoveredAt": "2026-06-23T23:54:52.922Z",
+    "source": "github-code-search",
+    "sourcePath": "index.html"
+  },
+  {
+    "id": "rpgcosmos-example-mmo",
+    "title": "MMO",
+    "repo": "https://github.com/RPGCosmos/Example-MMO",
+    "owner": "RPGCosmos",
+    "name": "Example-MMO",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "discoveredAt": "2026-06-23T23:54:52.922Z",
+    "source": "github-code-search",
+    "sourcePath": "index.html"
+  },
+  {
     "id": "jpmendezf-my-mmorpg",
     "title": "MMORPG",
     "repo": "https://github.com/jpmendezf/MY-MMORPG",
@@ -8398,6 +8770,18 @@
     "checkedAt": "2026-06-18T01:30:37.850Z",
     "forkName": "NguyenDacLiem-monad",
     "lastCheckError": "GitHub API 422: Invalid request.\n\nInvalid property /source/path: `www` is not a possible value. Must be one of the following: /, /docs."
+  },
+  {
+    "id": "jackdarker-moonwood",
+    "title": "MoonWood",
+    "repo": "https://github.com/jackdarker/MoonWood",
+    "owner": "jackdarker",
+    "name": "MoonWood",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "discoveredAt": "2026-06-23T23:54:52.922Z",
+    "source": "github-code-search",
+    "sourcePath": "index.html"
   },
   {
     "id": "buttertoasty-games2",
@@ -8773,6 +9157,18 @@
     "totalSize": 413554,
     "dataSize": 889636,
     "sourceRepo": "Excel/myl"
+  },
+  {
+    "id": "fifomori-nwcompat",
+    "title": "nwcompat",
+    "repo": "https://github.com/fifomori/nwcompat",
+    "owner": "fifomori",
+    "name": "nwcompat",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "discoveredAt": "2026-06-23T23:54:52.922Z",
+    "source": "github-code-search",
+    "sourcePath": "index.html"
   },
   {
     "id": "paulo1211-o-castelo-das-sombras",
@@ -9384,6 +9780,18 @@
     "sourceRepo": "sigmiliarity/web"
   },
   {
+    "id": "starsnail-tokimori",
+    "title": "OMORI",
+    "repo": "https://github.com/starsnail/tokimori",
+    "owner": "starsnail",
+    "name": "tokimori",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "discoveredAt": "2026-06-23T23:54:52.922Z",
+    "source": "github-code-search",
+    "sourcePath": "index.html"
+  },
+  {
     "id": "sussyboi01-truffledgames",
     "title": "OMORI",
     "repo": "https://github.com/sussyboi01/truffledgames",
@@ -9559,6 +9967,18 @@
     "validationScore": 45
   },
   {
+    "id": "sype0-omori-on-android-version-fix",
+    "title": "OMORI for Android (not official)",
+    "repo": "https://github.com/Sype0/omori-on-android-version-fix",
+    "owner": "Sype0",
+    "name": "omori-on-android-version-fix",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "discoveredAt": "2026-06-23T23:54:52.922Z",
+    "source": "github-code-search",
+    "sourcePath": "www/browser_index.html"
+  },
+  {
     "id": "erizki0712-onl-mv",
     "title": "ONL-MV",
     "repo": "https://github.com/Erizki0712/ONL-MV",
@@ -9614,6 +10034,18 @@
     "invalidReason": "RPG Maker structure is incomplete near game_resources/sampleindex.html.",
     "deletedAt": "2026-06-17T17:10:32.797Z",
     "validationScore": 45
+  },
+  {
+    "id": "gward2489-rpgmakermvonline",
+    "title": "OnlineMvDemo",
+    "repo": "https://github.com/Gward2489/RPGMakerMvOnline",
+    "owner": "Gward2489",
+    "name": "RPGMakerMvOnline",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "discoveredAt": "2026-06-23T23:54:52.922Z",
+    "source": "github-code-search",
+    "sourcePath": "OnlineMvDemo/index.html"
   },
   {
     "id": "squanky1372-squanky1372-github-io",
@@ -9787,6 +10219,18 @@
     "sourceRepo": "binkalogi/pantiesia1.0"
   },
   {
+    "id": "druxpp-parallelsouls-github-io",
+    "title": "parallelsoul",
+    "repo": "https://github.com/druxpp/parallelsouls.github.io",
+    "owner": "druxpp",
+    "name": "parallelsouls.github.io",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "discoveredAt": "2026-06-23T23:54:52.922Z",
+    "source": "github-code-search",
+    "sourcePath": "index.html"
+  },
+  {
     "id": "u-k-l-contentsupportexamples",
     "title": "Patreon",
     "repo": "https://github.com/U-K-L/ContentSupportExamples",
@@ -9806,6 +10250,18 @@
     "totalSize": 59358,
     "dataSize": 0,
     "sourceRepo": "U-K-L/ContentSupportExamples"
+  },
+  {
+    "id": "u-k-l-rpgame-patreon-example",
+    "title": "Patreon",
+    "repo": "https://github.com/U-K-L/RPGAME-Patreon-Example",
+    "owner": "U-K-L",
+    "name": "RPGAME-Patreon-Example",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "discoveredAt": "2026-06-23T23:54:52.922Z",
+    "source": "github-code-search",
+    "sourcePath": "RPGMAKERMV/www/index.html"
   },
   {
     "id": "saitsuki-gamedesign",
@@ -9887,6 +10343,18 @@
     "totalSize": 6938,
     "dataSize": 0,
     "sourceRepo": "pokemon-essentials/pokemon-essentials"
+  },
+  {
+    "id": "lauglitch-pokemonpink",
+    "title": "Pokemon Pink",
+    "repo": "https://github.com/lauglitch/PokemonPink",
+    "owner": "lauglitch",
+    "name": "PokemonPink",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "discoveredAt": "2026-06-23T23:54:52.922Z",
+    "source": "github-code-search",
+    "sourcePath": "index.html"
   },
   {
     "id": "fada-com-filtro-ia-agents",
@@ -10019,6 +10487,18 @@
     "totalSize": 19964,
     "dataSize": 0,
     "sourceRepo": "TheRainbowPhoenix/LDS"
+  },
+  {
+    "id": "moonyoulove-project-tiny",
+    "title": "Project Tiny",
+    "repo": "https://github.com/moonyoulove/Project-Tiny",
+    "owner": "moonyoulove",
+    "name": "Project-Tiny",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "discoveredAt": "2026-06-23T23:54:52.922Z",
+    "source": "github-code-search",
+    "sourcePath": "index.html"
   },
   {
     "id": "affonsoamendola-oldprojects",
@@ -10464,6 +10944,18 @@
     "lastCheckError": "GitHub API 403: API rate limit exceeded for installation ID 140358813. If you reach out to GitHub Support for help, please include the request ID 4403:2525DC:211B63E:7A351C1:6A321CE4 and timestamp 2026-06-17 04:04:52 UTC. For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service)"
   },
   {
+    "id": "kristenyu-kristenyu-github-io",
+    "title": "Project2",
+    "repo": "https://github.com/kristenYu/kristenyu.github.io",
+    "owner": "kristenYu",
+    "name": "kristenyu.github.io",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "discoveredAt": "2026-06-23T23:54:52.922Z",
+    "source": "github-code-search",
+    "sourcePath": "www/index.html"
+  },
+  {
     "id": "mattiefm-idkgame",
     "title": "Project2",
     "repo": "https://github.com/mattieFM/idkGame",
@@ -10572,6 +11064,18 @@
     "totalSize": 425970,
     "dataSize": 0,
     "sourceRepo": "supShag/YaXNLW"
+  },
+  {
+    "id": "sabakan03-mv",
+    "title": "Project4",
+    "repo": "https://github.com/sabakan03/mv",
+    "owner": "sabakan03",
+    "name": "mv",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "discoveredAt": "2026-06-23T23:54:52.922Z",
+    "source": "github-code-search",
+    "sourcePath": "Project/index.html"
   },
   {
     "id": "cafel176-eventconditionpro",
@@ -10982,6 +11486,18 @@
     "sourceRepo": "Framormar/RPG_ADVENTURE_WINDOWS"
   },
   {
+    "id": "habichta-reinforcementlearningrpgmv",
+    "title": "ReinforcementProject",
+    "repo": "https://github.com/habichta/ReinforcementLearningRPGMV",
+    "owner": "habichta",
+    "name": "ReinforcementLearningRPGMV",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "discoveredAt": "2026-06-23T23:54:52.922Z",
+    "source": "github-code-search",
+    "sourcePath": "index.html"
+  },
+  {
     "id": "brenoluna0-reliquias-de-fen",
     "title": "Relíquias de Fen",
     "repo": "https://github.com/BrenoLuna0/Reliquias-de-Fen",
@@ -11022,6 +11538,18 @@
     "totalSize": 387801,
     "dataSize": 1627929,
     "sourceRepo": "Byvalvin/Excalibur"
+  },
+  {
+    "id": "pelinal-returntosender",
+    "title": "Return to Sender",
+    "repo": "https://github.com/Pelinal/ReturnToSender",
+    "owner": "Pelinal",
+    "name": "ReturnToSender",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "discoveredAt": "2026-06-23T23:54:52.922Z",
+    "source": "github-code-search",
+    "sourcePath": "index.html"
   },
   {
     "id": "matheuspereirakrumm-rise-of-shinigami",
@@ -11106,6 +11634,42 @@
     "validationScore": 50
   },
   {
+    "id": "cronus23-tencomandments",
+    "title": "RMMV-Starter-Template",
+    "repo": "https://github.com/Cronus23/tenComandments",
+    "owner": "Cronus23",
+    "name": "tenComandments",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "discoveredAt": "2026-06-23T23:54:52.922Z",
+    "source": "github-code-search",
+    "sourcePath": "src/index.html"
+  },
+  {
+    "id": "kdipippo-rpg-maker-mv-starter-template",
+    "title": "RMMV-Starter-Template",
+    "repo": "https://github.com/kdipippo/RPG-Maker-MV-Starter-Template",
+    "owner": "kdipippo",
+    "name": "RPG-Maker-MV-Starter-Template",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "discoveredAt": "2026-06-23T23:54:52.922Z",
+    "source": "github-code-search",
+    "sourcePath": "src/index.html"
+  },
+  {
+    "id": "syberorange-dsefv",
+    "title": "RMMV-Starter-Template",
+    "repo": "https://github.com/syberorange/dsefv",
+    "owner": "syberorange",
+    "name": "dsefv",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "discoveredAt": "2026-06-23T23:54:52.922Z",
+    "source": "github-code-search",
+    "sourcePath": "src/index.html"
+  },
+  {
     "id": "epic12terrarian-road-to-joshsdale",
     "title": "Road to Joshsdale",
     "repo": "https://github.com/Epic12Terrarian/Road-to-Joshsdale",
@@ -11147,6 +11711,18 @@
     "totalSize": 390059,
     "dataSize": 926582,
     "sourceRepo": "Aguiano18/Rpg.maker"
+  },
+  {
+    "id": "rorythegame-roryrpg",
+    "title": "Rory: The Game",
+    "repo": "https://github.com/RoryTheGame/RoryRPG",
+    "owner": "RoryTheGame",
+    "name": "RoryRPG",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "discoveredAt": "2026-06-23T23:54:52.922Z",
+    "source": "github-code-search",
+    "sourcePath": "index.html"
   },
   {
     "id": "cjtan0503-rpgfantasy",
@@ -11322,6 +11898,18 @@
     "sourceRepo": "Archeia/RuselandNessy"
   },
   {
+    "id": "thewhitecanvas-saintseiya-rmmv",
+    "title": "Saint Seiya RPG MV",
+    "repo": "https://github.com/TheWhiteCanvas/SaintSeiya_RMMV",
+    "owner": "TheWhiteCanvas",
+    "name": "SaintSeiya_RMMV",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "discoveredAt": "2026-06-23T23:54:52.922Z",
+    "source": "github-code-search",
+    "sourcePath": "index.html"
+  },
+  {
     "id": "webservicesjarm-juego1",
     "title": "Salvando Almas",
     "repo": "https://github.com/webservicesjarm/Juego1",
@@ -11402,6 +11990,18 @@
     "invalidReason": "RPG Maker structure is incomplete near index.html.",
     "deletedAt": "2026-06-15T23:40:35.717Z",
     "validationScore": 53
+  },
+  {
+    "id": "scaryinc-tg",
+    "title": "Scary Inc: The Game",
+    "repo": "https://github.com/scaryinc/tg",
+    "owner": "scaryinc",
+    "name": "tg",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "discoveredAt": "2026-06-23T23:54:52.922Z",
+    "source": "github-code-search",
+    "sourcePath": "SITG/index.html"
   },
   {
     "id": "miegithub-scholars-journey",
@@ -11486,6 +12086,18 @@
     "totalSize": 388539,
     "dataSize": 670603,
     "sourceRepo": "KimHanWol/RPGMaker-ProjectSU"
+  },
+  {
+    "id": "zkrejcov-rmmv-plugins",
+    "title": "SecretPassageDemo",
+    "repo": "https://github.com/zkrejcov/rmmv-plugins",
+    "owner": "zkrejcov",
+    "name": "rmmv-plugins",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "discoveredAt": "2026-06-23T23:54:52.922Z",
+    "source": "github-code-search",
+    "sourcePath": "secret_passage/SecretPassageDemo/index.html"
   },
   {
     "id": "ec-developer-hub-virusssss",
@@ -11667,6 +12279,18 @@
     "sourceRepo": "jkaz1968/Output"
   },
   {
+    "id": "schwarze-neko-shattered-dreams",
+    "title": "Shattered Dreams",
+    "repo": "https://github.com/Schwarze-Neko/Shattered-Dreams",
+    "owner": "Schwarze-Neko",
+    "name": "Shattered-Dreams",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "discoveredAt": "2026-06-23T23:54:52.922Z",
+    "source": "github-code-search",
+    "sourcePath": "index.html"
+  },
+  {
     "id": "takoikatakotako-happybirthday-2018",
     "title": "SHINSAN QUEST",
     "repo": "https://github.com/takoikatakotako/HappyBirthday-2018",
@@ -11813,6 +12437,18 @@
     "sourceRepo": "givanilddo/SkullSeeker"
   },
   {
+    "id": "doamaster-gameoff2022tss",
+    "title": "Smut Summoner",
+    "repo": "https://github.com/DOAmaster/GameOff2022TSS",
+    "owner": "DOAmaster",
+    "name": "GameOff2022TSS",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "discoveredAt": "2026-06-23T23:54:52.922Z",
+    "source": "github-code-search",
+    "sourcePath": "index.html"
+  },
+  {
     "id": "fsworld009-rmmv-snake",
     "title": "Snake",
     "repo": "https://github.com/fsworld009/rmmv-snake",
@@ -11853,6 +12489,30 @@
     "totalSize": 1360460,
     "dataSize": 3528914,
     "sourceRepo": "shirorimi/snipe"
+  },
+  {
+    "id": "miguelarcjr-sombradalua",
+    "title": "Sombra da Lua",
+    "repo": "https://github.com/miguelarcjr/sombradalua",
+    "owner": "miguelarcjr",
+    "name": "sombradalua",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "discoveredAt": "2026-06-23T23:54:52.922Z",
+    "source": "github-code-search",
+    "sourcePath": "index.html"
+  },
+  {
+    "id": "caiocpassos-sorcery-of-truth",
+    "title": "Sorcery of Truth",
+    "repo": "https://github.com/caiocpassos/Sorcery-of-Truth",
+    "owner": "caiocpassos",
+    "name": "Sorcery-of-Truth",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "discoveredAt": "2026-06-23T23:54:52.922Z",
+    "source": "github-code-search",
+    "sourcePath": "www/index.html"
   },
   {
     "id": "frogboymv-health",
@@ -13146,6 +13806,18 @@
     "lastCheckError": "GitHub API 403: API rate limit exceeded for installation ID 140358813. If you reach out to GitHub Support for help, please include the request ID F403:2842FD:5E8B536:5F62DDD:6A33B17B and timestamp 2026-06-18 08:51:08 UTC. For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service)"
   },
   {
+    "id": "martinetto33-to-glory",
+    "title": "To Glory",
+    "repo": "https://github.com/Martinetto33/To-Glory",
+    "owner": "Martinetto33",
+    "name": "To-Glory",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "discoveredAt": "2026-06-23T23:54:52.922Z",
+    "source": "github-code-search",
+    "sourcePath": "To Glory/index.html"
+  },
+  {
     "id": "tyllastarr-ld46",
     "title": "To Save a Princess",
     "repo": "https://github.com/tyllastarr/ld46",
@@ -13370,6 +14042,18 @@
     "totalSize": 145687,
     "dataSize": 1358688,
     "sourceRepo": "BeyonDoff/umi_the_game"
+  },
+  {
+    "id": "epxstudio-universe25",
+    "title": "universe25",
+    "repo": "https://github.com/EpxStudio/Universe25",
+    "owner": "EpxStudio",
+    "name": "Universe25",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "discoveredAt": "2026-06-23T23:54:52.922Z",
+    "source": "github-code-search",
+    "sourcePath": "index.html"
   },
   {
     "id": "wanocapy-chickenkingsvault",
@@ -13726,6 +14410,18 @@
     "sourceRepo": "VolcaEM/volcaem.github.io"
   },
   {
+    "id": "ltw6610-vrpg",
+    "title": "vrpg",
+    "repo": "https://github.com/ltw6610/vrpg",
+    "owner": "ltw6610",
+    "name": "vrpg",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "discoveredAt": "2026-06-23T23:54:52.922Z",
+    "source": "github-code-search",
+    "sourcePath": "index.html"
+  },
+  {
     "id": "vladimirmarduk-wake",
     "title": "Wake",
     "repo": "https://github.com/vladimirmarduk/wake",
@@ -14059,6 +14755,18 @@
     "validationScore": 53
   },
   {
+    "id": "boris12432-afera-belika-alfa-1-0",
+    "title": "Подлая афера сэра Белика",
+    "repo": "https://github.com/Boris12432/Afera-belika-alfa-1.0",
+    "owner": "Boris12432",
+    "name": "Afera-belika-alfa-1.0",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "discoveredAt": "2026-06-23T23:54:52.922Z",
+    "source": "github-code-search",
+    "sourcePath": "Подлая афера сэра Белика/index.html"
+  },
+  {
     "id": "docpainkiller-fargohl",
     "title": "Фарго: Жизнь Охотника",
     "repo": "https://github.com/DocPainkiller/FargoHL",
@@ -14180,6 +14888,18 @@
     "totalSize": 425972,
     "dataSize": 3155371,
     "sourceRepo": "Ciart/KnightDream-Old"
+  },
+  {
+    "id": "gyhgwangju-sinacs-rhythmqte",
+    "title": "리듬게임만들기",
+    "repo": "https://github.com/GYHGwangju/Sinacs_RhythmQTE",
+    "owner": "GYHGwangju",
+    "name": "Sinacs_RhythmQTE",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "discoveredAt": "2026-06-23T23:54:52.922Z",
+    "source": "github-code-search",
+    "sourcePath": "index.html"
   },
   {
     "id": "llb1026-llb1026-github-io",
