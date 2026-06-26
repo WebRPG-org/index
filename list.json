@@ -10880,6 +10880,18 @@
     "sourceRepo": "Stuocs/PequeJRPG"
   },
   {
+    "id": "talbal-ripper-tfi-builder",
+    "title": "Project1",
+    "repo": "https://github.com/TalBal-ripper/tfi_builder",
+    "owner": "TalBal-ripper",
+    "name": "tfi_builder",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "discoveredAt": "2026-06-26T13:10:18.576Z",
+    "source": "github-code-search",
+    "sourcePath": "res/base/assets/www/index.html"
+  },
+  {
     "id": "thattakashi-tales-of-arcadia",
     "title": "Project1",
     "repo": "https://github.com/ThatTakashi/Tales-of-Arcadia",
