@@ -4330,6 +4330,18 @@
     "sourceRepo": "UnboundStudios/colours-missing"
   },
   {
+    "id": "imaginaryvillain-community-lights",
+    "title": "CommunityLighting Demo",
+    "repo": "https://github.com/ImaginaryVillain/community_lights",
+    "owner": "ImaginaryVillain",
+    "name": "community_lights",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "discoveredAt": "2026-06-29T10:54:31.542Z",
+    "source": "github-code-search",
+    "sourcePath": "CommunityLightingMVDemo/index.html"
+  },
+  {
     "id": "stevenromero98-conceptgamedeployment",
     "title": "ConceptGame",
     "repo": "https://github.com/StevenRomero98/ConceptGameDeployment",
