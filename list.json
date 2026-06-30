@@ -7725,6 +7725,18 @@
     "sourceRepo": "TheModernSMoore/themodernsmoore.github.io"
   },
   {
+    "id": "renrender0209-kankin",
+    "title": "kankin",
+    "repo": "https://github.com/renrender0209/kankin",
+    "owner": "renrender0209",
+    "name": "kankin",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "discoveredAt": "2026-06-30T05:01:43.738Z",
+    "source": "github-code-search",
+    "sourcePath": "Win_game/www/index.html"
+  },
+  {
     "id": "eric0308a-game-karryns-prison",
     "title": "Karryn's Prison - loading",
     "repo": "https://github.com/eric0308a/Game_karryns_prison",
@@ -12733,6 +12745,18 @@
     "totalSize": 15259,
     "dataSize": 0,
     "sourceRepo": "InabaByakko/SSPlayerForRPGMV"
+  },
+  {
+    "id": "dreafun-starcrystal",
+    "title": "Star Crystal",
+    "repo": "https://github.com/Dreafun/starcrystal",
+    "owner": "Dreafun",
+    "name": "starcrystal",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "discoveredAt": "2026-06-30T05:01:43.738Z",
+    "source": "github-code-search",
+    "sourcePath": "Star Crystal/www/index.html"
   },
   {
     "id": "teyplays-starfall-sanctuary",
