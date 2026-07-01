@@ -462,6 +462,18 @@
     "lastCheckError": "GitHub API 422: Invalid request.\n\nInvalid property /source/path: `journey_of_the_shit/jos_a0.9` is not a possible value. Must be one of the following: /, /docs."
   },
   {
+    "id": "webrpg-org-vanilanya-vanilanya-github-io",
+    "title": "赤石之旅",
+    "repo": "https://github.com/WebRPG-org/VanilaNya-VanilaNya.github.io",
+    "owner": "WebRPG-org",
+    "name": "VanilaNya-VanilaNya.github.io",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "discoveredAt": "2026-07-01T03:38:55.009Z",
+    "source": "github-code-search",
+    "sourcePath": "Journey_Of_the_Shit/JOS_a0.9/index.html"
+  },
+  {
     "id": "cdgaming-cdgaming-github-io",
     "title": "純真無知娘の修学旅行物語Online",
     "repo": "https://github.com/cdgaming/cdgaming.github.io",
