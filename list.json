@@ -7637,6 +7637,18 @@
     "sourceRepo": "thomazdevmaster/ISO25k-Square-RPG"
   },
   {
+    "id": "sirpacings-isoislandrpg",
+    "title": "IsoIslandRPGMaker",
+    "repo": "https://github.com/SirPacings/IsoIslandRpg",
+    "owner": "SirPacings",
+    "name": "IsoIslandRpg",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "discoveredAt": "2026-07-01T12:05:45.663Z",
+    "source": "github-code-search",
+    "sourcePath": "index.html"
+  },
+  {
     "id": "thomazdevmaster-matematica",
     "title": "jogo",
     "repo": "https://github.com/thomazdevmaster/matematica",
