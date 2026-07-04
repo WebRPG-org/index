@@ -9642,6 +9642,18 @@
     "validationScore": 45
   },
   {
+    "id": "holy-unblocker-theatre",
+    "title": "OMORI",
+    "repo": "https://github.com/holy-unblocker/theatre",
+    "owner": "holy-unblocker",
+    "name": "theatre",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "discoveredAt": "2026-07-04T20:55:03.225Z",
+    "source": "github-code-search",
+    "sourcePath": "public/games/truffled/OMORI_ Webport/OMORI.html"
+  },
+  {
     "id": "iamthegamesofsprunk-iamthegamesofsprunk-github-io",
     "title": "OMORI",
     "repo": "https://github.com/iamthegamesofsprunk/iamthegamesofsprunk.github.io",
