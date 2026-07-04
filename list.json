@@ -7671,6 +7671,18 @@
     "sourceRepo": "thomazdevmaster/matematica"
   },
   {
+    "id": "qadwas-qwerty1s",
+    "title": "JoiPlay",
+    "repo": "https://github.com/qadwas/qwerty1s",
+    "owner": "qadwas",
+    "name": "qwerty1s",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "discoveredAt": "2026-07-04T06:17:34.681Z",
+    "source": "github-code-search",
+    "sourcePath": "JoiPlay_v1.21.000-patreon(121000)_base_src/assets/pixi5/index.html"
+  },
+  {
     "id": "exadmax-proto",
     "title": "Jornada para proto",
     "repo": "https://github.com/exadmax/Proto",
