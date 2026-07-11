@@ -10844,6 +10844,18 @@
     "sourceRepo": "DiegoNave/diegonave.github.io"
   },
   {
+    "id": "fernando-simaoo-the-legend-of-brick",
+    "title": "Project1",
+    "repo": "https://github.com/Fernando-Simaoo/The_Legend_of_Brick",
+    "owner": "Fernando-Simaoo",
+    "name": "The_Legend_of_Brick",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "discoveredAt": "2026-07-11T05:39:04.866Z",
+    "source": "github-code-search",
+    "sourcePath": "index.html"
+  },
+  {
     "id": "fm-dev-rpg-game",
     "title": "Project1",
     "repo": "https://github.com/fm-dev/rpg_game",
