@@ -7546,6 +7546,18 @@
     "validationScore": 45
   },
   {
+    "id": "u-spe-spydr",
+    "title": "IN STARS AND TIME v1.0.6.3",
+    "repo": "https://github.com/U-spe/spydr",
+    "owner": "U-spe",
+    "name": "spydr",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "discoveredAt": "2026-07-14T20:09:02.088Z",
+    "source": "github-code-search",
+    "sourcePath": "assets/gameassets/suntree/games/isat/index.html"
+  },
+  {
     "id": "web-ports-in-stars-and-time",
     "title": "IN STARS AND TIME v1.0.6.3",
     "repo": "https://github.com/web-ports/in-stars-and-time",
