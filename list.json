@@ -9366,6 +9366,18 @@
     "sourceRepo": "sabotai/sabotai.github.io"
   },
   {
+    "id": "k45514n-nodeconfar-2017",
+    "title": "NodeConf AR 2017",
+    "repo": "https://github.com/k45514n/NodeConfAR-2017",
+    "owner": "k45514n",
+    "name": "NodeConfAR-2017",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "discoveredAt": "2026-07-16T16:24:44.165Z",
+    "source": "github-code-search",
+    "sourcePath": "game/NodeConf AR 2017/index.html"
+  },
+  {
     "id": "excel-myl",
     "title": "Noticing Mayla",
     "repo": "https://github.com/Excel/myl",
