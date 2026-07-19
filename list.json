@@ -3160,6 +3160,18 @@
     "sourcePath": "gxmes/storage/bloodmoney/index.html"
   },
   {
+    "id": "craf1ed-lite-assets",
+    "title": "BLOODMONEY!",
+    "repo": "https://github.com/Craf1ed/lite-assets",
+    "owner": "Craf1ed",
+    "name": "lite-assets",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "discoveredAt": "2026-07-19T10:25:39.257Z",
+    "source": "github-code-search",
+    "sourcePath": "blood-money.html"
+  },
+  {
     "id": "darkdragonzxs-zxs-games",
     "title": "BLOODMONEY!",
     "repo": "https://github.com/Darkdragonzxs/ZXS-games",
