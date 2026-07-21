@@ -2264,6 +2264,18 @@
     "sourceRepo": "blocklet/rpgmaker-demo"
   },
   {
+    "id": "paraztekhitr-debug-adventure-call",
+    "title": "Adventure Call",
+    "repo": "https://github.com/paraztekhitr-debug/Adventure-Call",
+    "owner": "paraztekhitr-debug",
+    "name": "Adventure-Call",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "discoveredAt": "2026-07-21T19:18:03.004Z",
+    "source": "github-code-search",
+    "sourcePath": "Adventure Call/www/index.html"
+  },
+  {
     "id": "okshaone-loop",
     "title": "Adventure of Yours",
     "repo": "https://github.com/okshaone/loop",
