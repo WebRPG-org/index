@@ -3325,6 +3325,18 @@
     "validationScore": 45
   },
   {
+    "id": "funny-shooter-22-funny-shooter-22-github-io",
+    "title": "BLOODMONEY!",
+    "repo": "https://github.com/funny-shooter-22/funny-shooter-22.github.io",
+    "owner": "funny-shooter-22",
+    "name": "funny-shooter-22.github.io",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "discoveredAt": "2026-07-23T11:07:08.520Z",
+    "source": "github-code-search",
+    "sourcePath": "games/Bloodmoney/index.html"
+  },
+  {
     "id": "genizymath-genizymath-github-io",
     "title": "BLOODMONEY!",
     "repo": "https://github.com/genizymath/genizymath.github.io",
