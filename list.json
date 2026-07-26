@@ -10749,6 +10749,18 @@
     "sourcePath": "index.html"
   },
   {
+    "id": "mrvaporwave25-pnc3d",
+    "title": "Princess & Conquest - Babs MV",
+    "repo": "https://github.com/MRVAPORWAVE25/pnc3d",
+    "owner": "MRVAPORWAVE25",
+    "name": "pnc3d",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "discoveredAt": "2026-07-26T03:45:04.437Z",
+    "source": "github-code-search",
+    "sourcePath": "index.html"
+  },
+  {
     "id": "chanchipong1226-dev-project-repositry",
     "title": "Project",
     "repo": "https://github.com/chanchipong1226-dev/project.repositry",
