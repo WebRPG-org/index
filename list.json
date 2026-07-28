@@ -7988,6 +7988,18 @@
     "lastCheckError": "GitHub API 422: Invalid request.\n\nInvalid property /source: `docs/gametest` is not a possible value. Must be one of the following: /, /docs."
   },
   {
+    "id": "ikyih-gamesofthehub",
+    "title": "Koexperiance Demo",
+    "repo": "https://github.com/ikyih/gamesofthehub",
+    "owner": "ikyih",
+    "name": "gamesofthehub",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "discoveredAt": "2026-07-28T10:32:22.785Z",
+    "source": "github-code-search",
+    "sourcePath": "public/koexdemo/index.html"
+  },
+  {
     "id": "etg227-new-game",
     "title": "Kubernetes Isekai",
     "repo": "https://github.com/etg227/NEW-GAME",
