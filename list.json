@@ -1381,6 +1381,18 @@
     "sourceRepo": "lzk716088/prisoner"
   },
   {
+    "id": "hitexe2023mino-prog-quarta-alumines-and-tangel-eg",
+    "title": "駆錬輝晶 クォルタ アルミネス＆タンジェル EG",
+    "repo": "https://github.com/hitexe2023mino-prog/Quarta-Alumines-and-Tangel-EG",
+    "owner": "hitexe2023mino-prog",
+    "name": "Quarta-Alumines-and-Tangel-EG",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "discoveredAt": "2026-08-02T15:58:32.770Z",
+    "source": "github-code-search",
+    "sourcePath": "www/index.html"
+  },
+  {
     "id": "kevin28576-rpgmv-great-escape",
     "title": "全員逃走中",
     "repo": "https://github.com/Kevin28576/rpgmv-great-escape",
