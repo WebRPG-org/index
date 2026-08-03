@@ -9177,6 +9177,18 @@
     "sourceRepo": "MechaDragonX/MVGaGotoku"
   },
   {
+    "id": "take-cheeze-rpg-maker-clone",
+    "title": "MV Sample (test bed)",
+    "repo": "https://github.com/take-cheeze/rpg-maker-clone",
+    "owner": "take-cheeze",
+    "name": "rpg-maker-clone",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "discoveredAt": "2026-08-03T06:24:19.230Z",
+    "source": "github-code-search",
+    "sourcePath": "data/mv-sample/index.html"
+  },
+  {
     "id": "xuyanwen2012-rmmv-battle-system-js",
     "title": "MV-MBBS",
     "repo": "https://github.com/xuyanwen2012/RMMV-Battle-System-JS",
