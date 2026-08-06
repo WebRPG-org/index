@@ -2409,6 +2409,18 @@
     "sourceRepo": "KONDO-Yuuki/alteReal"
   },
   {
+    "id": "bubseatbubs-amogii-defeaters-2-test",
+    "title": "Amogii Entropy [1.0.0]",
+    "repo": "https://github.com/Bubseatbubs/Amogii-Defeaters-2-Test",
+    "owner": "Bubseatbubs",
+    "name": "Amogii-Defeaters-2-Test",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "discoveredAt": "2026-08-06T23:56:06.891Z",
+    "source": "github-code-search",
+    "sourcePath": "index.html"
+  },
+  {
     "id": "rober26522-th-grade-work",
     "title": "Amung us 2",
     "repo": "https://github.com/rober26522/-th-grade-work",
