@@ -4376,6 +4376,18 @@
     "validationScore": 45
   },
   {
+    "id": "thatoneguy-67-snoopy-web",
+    "title": "Cold Front",
+    "repo": "https://github.com/ThatOneGuy-67/snoopy-web",
+    "owner": "ThatOneGuy-67",
+    "name": "snoopy-web",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "discoveredAt": "2026-08-08T03:23:21.364Z",
+    "source": "github-code-search",
+    "sourcePath": "public/Games/clcoldfront.html"
+  },
+  {
     "id": "umarerth-umath",
     "title": "Cold Front",
     "repo": "https://github.com/UmarErth/uMath",
