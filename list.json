@@ -3585,6 +3585,18 @@
     "validationScore": 45
   },
   {
+    "id": "liamdeathboy-cautious-fishstick",
+    "title": "BLOODMONEY!",
+    "repo": "https://github.com/liamdeathboy/cautious-fishstick",
+    "owner": "liamdeathboy",
+    "name": "cautious-fishstick",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "discoveredAt": "2026-08-09T21:29:27.326Z",
+    "source": "github-code-search",
+    "sourcePath": "games/bloodmoney/index.html"
+  },
+  {
     "id": "lilvamp1x-lilvamp1xnetwork-github-io",
     "title": "BLOODMONEY!",
     "repo": "https://github.com/LilVamp1X/lilvamp1xnetwork.github.io",
