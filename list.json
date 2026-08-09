@@ -3178,6 +3178,18 @@
     "validationScore": 45
   },
   {
+    "id": "caughtwitlean-lowkey-chopped-elite",
+    "title": "BLOODMONEY!",
+    "repo": "https://github.com/caughtwitlean/Lowkey-Chopped-Elite",
+    "owner": "caughtwitlean",
+    "name": "Lowkey-Chopped-Elite",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "discoveredAt": "2026-08-09T01:28:15.474Z",
+    "source": "github-code-search",
+    "sourcePath": "n/clbloodmoney.html"
+  },
+  {
     "id": "chromebookunlocked-chromebookunlocked-github-io",
     "title": "BLOODMONEY!",
     "repo": "https://github.com/chromebookunlocked/chromebookunlocked.github.io",
