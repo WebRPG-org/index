@@ -15523,6 +15523,18 @@
     "sourceRepo": "rpg9979/rpg9979"
   },
   {
+    "id": "vehirus-kor-2026-capstone-design",
+    "title": "한국사 역사 정복기",
+    "repo": "https://github.com/Vehirus-KOR/2026_Capstone_Design",
+    "owner": "Vehirus-KOR",
+    "name": "2026_Capstone_Design",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "discoveredAt": "2026-08-11T03:41:21.383Z",
+    "source": "github-code-search",
+    "sourcePath": "2026_Capstone_Design/Project_file/index.html"
+  },
+  {
     "id": "tomoshibi06-abcv",
     "title": "アビスケイブ",
     "repo": "https://github.com/tomoshibi06/abcv",
