@@ -5203,6 +5203,18 @@
     "validationScore": 45
   },
   {
+    "id": "raahimsyed-rift",
+    "title": "DEAD PLATE",
+    "repo": "https://github.com/raahimsyed/rift",
+    "owner": "raahimsyed",
+    "name": "rift",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "discoveredAt": "2026-08-19T04:34:04.366Z",
+    "source": "github-code-search",
+    "sourcePath": "public/dead.html"
+  },
+  {
     "id": "stinkalistic-swaggames",
     "title": "DEAD PLATE",
     "repo": "https://github.com/Stinkalistic/SWAGgames",
