@@ -6457,6 +6457,18 @@
     "validationScore": 45
   },
   {
+    "id": "hyperfrog7-books",
+    "title": "Fear Hunger",
+    "repo": "https://github.com/HyperFrog7/books",
+    "owner": "HyperFrog7",
+    "name": "books",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "discoveredAt": "2026-08-20T22:24:24.825Z",
+    "source": "github-code-search",
+    "sourcePath": "gn-math/706-fix.html"
+  },
+  {
     "id": "idonotknowhowtocodeyet-mongles-pull-games",
     "title": "Fear Hunger",
     "repo": "https://github.com/Idonotknowhowtocodeyet/mongles-pull-games",
