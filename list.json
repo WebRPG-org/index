@@ -10191,6 +10191,18 @@
     "validationScore": 45
   },
   {
+    "id": "phexusmath-phexusmath-github-io2",
+    "title": "OMORI",
+    "repo": "https://github.com/phexusmath/phexusmath.github.io2",
+    "owner": "phexusmath",
+    "name": "phexusmath.github.io2",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "discoveredAt": "2026-08-24T03:00:17.122Z",
+    "source": "github-code-search",
+    "sourcePath": "files/omori/jsdelivr.html"
+  },
+  {
     "id": "rains-im-brightpath",
     "title": "OMORI",
     "repo": "https://github.com/rainS-IM/BrightPath",
