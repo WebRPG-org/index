@@ -14,6 +14,7 @@ const forkNameBySource = getUniqueSources(list);
 
 let verified = 0;
 let invalid = 0;
+let skipped = 0;
 let errors = 0;
 let unchanged = 0;
 
@@ -73,6 +74,18 @@ const updated = list.map((entry) => {
     });
   }
 
+  if (result.status === "skipped_large") {
+    skipped += 1;
+    return cleanObject({
+      ...entry,
+      status: "skipped_large",
+      checkedAt: result.checkedAt || now,
+      forkName,
+      invalidReason: result.invalidReason,
+      lastCheckError: undefined,
+    });
+  }
+
   errors += 1;
   return cleanObject({
     ...entry,
@@ -91,6 +104,7 @@ if (!dryRun) {
 console.log(`Results read: ${results.length}`);
 console.log(`Verified entries: ${verified}`);
 console.log(`Invalid entries: ${invalid}`);
+console.log(`Skipped large entries: ${skipped}`);
 console.log(`Error entries: ${errors}`);
 console.log(`Unchanged entries: ${unchanged}`);
 console.log(`Dry run: ${dryRun}`);
@@ -101,6 +115,7 @@ await writeStepSummary([
   `Results read: \`${results.length}\``,
   `Verified entries: \`${verified}\``,
   `Invalid entries: \`${invalid}\``,
+  `Skipped large entries: \`${skipped}\``,
   `Error entries: \`${errors}\``,
   `Unchanged entries: \`${unchanged}\``,
   `Dry run: \`${dryRun}\``,

@@ -112,7 +112,7 @@ function makeForkName(owner, name) {
 }
 
 function isSkippedEntry(entry) {
-  return ["invalid_structure", "deleted_invalid_structure", "duplicate_name", "hidden"].includes(entry.status);
+  return ["invalid_structure", "deleted_invalid_structure", "duplicate_name", "hidden", "skipped_large"].includes(entry.status);
 }
 
 async function githubRequest(path, options = {}) {
@@ -140,13 +140,12 @@ async function githubRequest(path, options = {}) {
 
     // Rate limit: retry with exponential backoff
     if (response.status === 403 || response.status === 429) {
-      const retryAfter = data?.["retry-after"];
-      const delayMs = retryAfter
-        ? Number.parseInt(retryAfter, 10) * 1000
-        : Math.min(baseDelayMs * (2 ** attempt), 300_000);
+      const delayMs = getRateLimitDelayMs(response, data, attempt, baseDelayMs);
+      const remaining = response.headers.get("x-ratelimit-remaining");
 
       if (attempt < maxRetries) {
-        console.log(`[rate-limit] ${data?.message?.slice(0, 60)}; waiting ${Math.round(delayMs / 1000)}s before retry ${attempt + 1}/${maxRetries}`);
+        const remainingText = remaining ? `; remaining ${remaining}` : "";
+        console.log(`[rate-limit] ${data?.message?.slice(0, 60)}${remainingText}; waiting ${Math.round(delayMs / 1000)}s before retry ${attempt + 1}/${maxRetries}`);
         await sleep(delayMs);
         continue;
       }
@@ -154,6 +153,23 @@ async function githubRequest(path, options = {}) {
 
     throw new Error(`GitHub API ${response.status}: ${data?.message || response.statusText}`);
   }
+}
+
+function getRateLimitDelayMs(response, data, attempt, baseDelayMs) {
+  const retryAfterSeconds = Number.parseInt(response.headers.get("retry-after") || data?.["retry-after"] || "", 10);
+  if (Number.isFinite(retryAfterSeconds) && retryAfterSeconds > 0) {
+    return retryAfterSeconds * 1000;
+  }
+
+  const resetAtSeconds = Number.parseInt(response.headers.get("x-ratelimit-reset") || "", 10);
+  if (Number.isFinite(resetAtSeconds) && resetAtSeconds > 0) {
+    const untilResetMs = resetAtSeconds * 1000 - Date.now() + 5000;
+    if (untilResetMs > 0) {
+      return untilResetMs;
+    }
+  }
+
+  return Math.min(baseDelayMs * (2 ** attempt), 300_000);
 }
 
 function sleep(ms) {

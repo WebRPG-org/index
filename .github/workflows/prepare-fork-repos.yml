@@ -12,7 +12,8 @@ permissions:
   contents: read
 
 concurrency:
-  group: prepare-fork-repos
+  # This workflow and the index workflow both write list.json.
+  group: index-list-writer
   cancel-in-progress: false
 
 jobs:
@@ -26,6 +27,8 @@ jobs:
     steps:
       - name: Check out index
         uses: actions/checkout@v4
+        with:
+          ref: main
 
       - name: Set up Node.js
         uses: actions/setup-node@v4
@@ -46,7 +49,7 @@ jobs:
           WEBRPG_APP_TOKEN: ${{ steps.app-token.outputs.token }}
           TARGET_ORG: WebRPG-org
           LIMIT: "0"
-          MAX_MATRIX_SIZE: "64"
+          MAX_MATRIX_SIZE: "32"
         run: node scripts/plan-fork-repos.mjs
 
   process:
@@ -55,11 +58,13 @@ jobs:
     runs-on: ubuntu-latest
     strategy:
       fail-fast: false
-      max-parallel: 8
+      max-parallel: 4
       matrix: ${{ fromJson(needs.plan.outputs.matrix) }}
     steps:
       - name: Check out index
         uses: actions/checkout@v4
+        with:
+          ref: main
 
       - name: Set up Node.js
         uses: actions/setup-node@v4
@@ -85,6 +90,10 @@ jobs:
           PAGES_SOURCE_PATH: /
           SITE_ORIGIN: https://webrpg.org
           RESULT_DIR: workflow-results
+          MAX_REPO_SIZE_KB: "250000"
+          MAX_TREE_ENTRIES: "20000"
+          MAX_HTML_FILES: "500"
+          MAX_HTML_TOTAL_BYTES: "52428800"
         run: node scripts/process-fork-repo.mjs
 
       - name: Upload repository result
@@ -115,6 +124,7 @@ jobs:
         uses: actions/checkout@v4
         with:
           token: ${{ steps.index-token.outputs.token }}
+          ref: main
 
       - name: Set up Node.js
         uses: actions/setup-node@v4
@@ -128,20 +138,26 @@ jobs:
           merge-multiple: true
           path: workflow-results
 
-      - name: Update list metadata
+      - name: Commit list metadata
         env:
           DRY_RUN: "false"
           RESULTS_DIR: workflow-results
-        run: node scripts/update-list-from-results.mjs
-
-      - name: Commit list metadata
         run: |
           git config user.name "webrpg-bot[bot]"
           git config user.email "webrpg-bot[bot]@users.noreply.github.com"
-          git add list.json
-          if git diff --cached --quiet; then
-            echo "No list.json changes to commit."
-          else
+          for attempt in 1 2 3; do
+            git fetch origin main
+            git reset --hard origin/main
+            node scripts/update-list-from-results.mjs
+            git add list.json
+            if git diff --cached --quiet; then
+              echo "No list.json changes to commit."
+              exit 0
+            fi
             git commit -m "Update fork validation metadata"
-            git push
-          fi
+            if git push; then
+              exit 0
+            fi
+            echo "Push attempt ${attempt} failed; retrying with the latest origin/main."
+          done
+          exit 1

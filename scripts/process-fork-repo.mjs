@@ -15,6 +15,10 @@ const scriptTag = process.env.ANALYTICS_SCRIPT_TAG
   || '<script defer src="https://insight.ravelloh.com/script.js?siteId=5ace6623-f51b-4571-8f60-e0473ea3317b"></script>';
 const scriptNeedle = getScriptNeedle(scriptTag);
 const htmlMaxBytes = parsePositiveInt(process.env.HTML_MAX_BYTES || "1048576");
+const maxRepoSizeKb = parseNonNegativeInt(process.env.MAX_REPO_SIZE_KB || "250000");
+const maxTreeEntries = parseNonNegativeInt(process.env.MAX_TREE_ENTRIES || "20000");
+const maxHtmlFiles = parseNonNegativeInt(process.env.MAX_HTML_FILES || "500");
+const maxHtmlTotalBytes = parseNonNegativeInt(process.env.MAX_HTML_TOTAL_BYTES || "52428800");
 
 if (!token) {
   throw new Error("WEBRPG_APP_TOKEN or GITHUB_TOKEN is required.");
@@ -58,6 +62,11 @@ async function run() {
   result.defaultBranch = repo.default_branch;
   result.sourceRepo = repo.source?.full_name || repo.parent?.full_name || null;
 
+  if (repo.size > maxRepoSizeKb) {
+    skipLargeRepository(`Repository size ${repo.size} KB exceeds the ${maxRepoSizeKb} KB limit.`);
+    return;
+  }
+
   // Check if this repo is manually hidden in list.json
   const list = JSON.parse(await fs.readFile("list.json", "utf8"));
   const entry = list.find((e) => {
@@ -96,12 +105,34 @@ async function run() {
     `/repos/${encodeURIComponent(targetOrg)}/${encodeURIComponent(repoName)}/git/trees/${headCommit.tree.sha}?recursive=1`,
   );
 
+  if (tree.truncated) {
+    skipLargeRepository("GitHub returned a truncated recursive tree.");
+    return;
+  }
+
+  if (tree.tree.length > maxTreeEntries) {
+    skipLargeRepository(`Repository tree has ${tree.tree.length} entries, exceeding the ${maxTreeEntries} entry limit.`);
+    return;
+  }
+
   const files = tree.tree.filter((item) => item.type === "blob");
   const htmlFiles = files
     .filter((item) => item.path.toLowerCase().endsWith(".html"))
     .filter((item) => !shouldSkipPath(item.path))
     .filter((item) => item.size <= htmlMaxBytes)
     .sort((left, right) => left.path.localeCompare(right.path, "en"));
+  const htmlTotalBytes = htmlFiles.reduce((sum, file) => sum + (file.size || 0), 0);
+
+  if (htmlFiles.length > maxHtmlFiles) {
+    skipLargeRepository(`Repository has ${htmlFiles.length} HTML files, exceeding the ${maxHtmlFiles} file limit.`);
+    return;
+  }
+
+  if (htmlTotalBytes > maxHtmlTotalBytes) {
+    skipLargeRepository(`HTML files total ${htmlTotalBytes} bytes, exceeding the ${maxHtmlTotalBytes} byte limit.`);
+    return;
+  }
+
   const htmlByPath = await loadHtmlContents(htmlFiles);
   const detection = detectRpgMakerProject(files, htmlByPath);
 
@@ -299,6 +330,14 @@ async function run() {
   summary.push(`Cover: \`${result.cover || "none"}\``);
   summary.push(`HTML files updated: \`${updates.size}\``);
   summary.push(`Pages URL: \`${getPagesUrl()}\``);
+}
+
+function skipLargeRepository(reason) {
+  result.status = "skipped_large";
+  result.invalidReason = reason;
+  summary.push("Status: `skipped_large`");
+  summary.push(`Reason: ${reason}`);
+  console.log(`[skip] ${targetOrg}/${repoName}: ${reason}`);
 }
 
 async function loadHtmlContents(htmlFiles) {
@@ -882,6 +921,15 @@ function parsePositiveInt(value) {
   const parsed = Number.parseInt(value, 10);
   if (!Number.isFinite(parsed) || parsed <= 0) {
     throw new Error(`Expected a positive integer, got ${value}.`);
+  }
+
+  return parsed;
+}
+
+function parseNonNegativeInt(value) {
+  const parsed = Number.parseInt(value, 10);
+  if (!Number.isFinite(parsed) || parsed < 0) {
+    throw new Error(`Expected a non-negative integer, got ${value}.`);
   }
 
   return parsed;
