@@ -3496,6 +3496,18 @@
     "validationScore": 50
   },
   {
+    "id": "gx-gamescrack-gx-gamescrack-github-io",
+    "title": "BLOODMONEY!",
+    "repo": "https://github.com/gx-gamescrack/GX-Gamescrack.github.io",
+    "owner": "gx-gamescrack",
+    "name": "GX-Gamescrack.github.io",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "discoveredAt": "2026-08-25T06:43:48.287Z",
+    "source": "github-code-search",
+    "sourcePath": "semag/bloodmoney/index.html"
+  },
+  {
     "id": "hitboyxx23-dev-euphoria",
     "title": "BLOODMONEY!",
     "repo": "https://github.com/HitBoyXx23-dev/Euphoria",
