@@ -4670,6 +4670,18 @@
     "sourceRepo": "mn3zx/CorridaAcademica"
   },
   {
+    "id": "c7lison-cozy-studio-game",
+    "title": "cozy home",
+    "repo": "https://github.com/c7lison/cozy-studio-game",
+    "owner": "c7lison",
+    "name": "cozy-studio-game",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "discoveredAt": "2026-08-25T12:43:49.665Z",
+    "source": "github-code-search",
+    "sourcePath": "index.html"
+  },
+  {
     "id": "dejely-bean-studios-crime-never-sleeps",
     "title": "Crime Never Sleeps",
     "repo": "https://github.com/Dejely-Bean-Studios/Crime-Never-Sleeps",
