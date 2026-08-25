@@ -5216,6 +5216,18 @@
     "sourcePath": "public/dead.html"
   },
   {
+    "id": "spaceyy1-nexite",
+    "title": "DEAD PLATE",
+    "repo": "https://github.com/spaceyy1/Nexite",
+    "owner": "spaceyy1",
+    "name": "Nexite",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "discoveredAt": "2026-08-25T01:10:51.224Z",
+    "source": "github-code-search",
+    "sourcePath": "cherri-cloudflare-main/cherri-cloudflare-main/stores/gn-math/462.html"
+  },
+  {
     "id": "stinkalistic-swaggames",
     "title": "DEAD PLATE",
     "repo": "https://github.com/Stinkalistic/SWAGgames",
