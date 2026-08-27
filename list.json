@@ -3838,6 +3838,18 @@
     "validationScore": 45
   },
   {
+    "id": "unblockedgames99x-code-dshsfdghaswerweq",
+    "title": "BLOODMONEY!",
+    "repo": "https://github.com/unblockedgames99x-code/dshsfdghaswerweq",
+    "owner": "unblockedgames99x-code",
+    "name": "dshsfdghaswerweq",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "discoveredAt": "2026-08-27T13:48:29.130Z",
+    "source": "github-code-search",
+    "sourcePath": "games/bloodmoney.html"
+  },
+  {
     "id": "urnperiodic-urnperiodic-github-io",
     "title": "BLOODMONEY!",
     "repo": "https://github.com/urnperiodic/urnperiodic.github.io",
@@ -6418,6 +6430,18 @@
     "totalSize": 17396,
     "dataSize": 128307860,
     "sourceRepo": "ScorpGaming4432/fungerterminapl"
+  },
+  {
+    "id": "spacelord42-gn-math",
+    "title": "Fear & Hunger 2: TERMINA",
+    "repo": "https://github.com/spacelord42/gn-math",
+    "owner": "spacelord42",
+    "name": "gn-math",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "discoveredAt": "2026-08-27T13:48:29.130Z",
+    "source": "github-code-search",
+    "sourcePath": "html/794-fixed.html"
   },
   {
     "id": "tobyyasha-fear-and-hunger-mods",
