@@ -9840,6 +9840,18 @@
     "invalidReason": "Repository size 10309461 KB exceeds the 250000 KB limit."
   },
   {
+    "id": "cronusz3n96-stolenstuff",
+    "title": "OMORI",
+    "repo": "https://github.com/Cronusz3n96/stolenstuff",
+    "owner": "Cronusz3n96",
+    "name": "stolenstuff",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "discoveredAt": "2026-08-28T00:14:31.367Z",
+    "source": "github-code-search",
+    "sourcePath": "games/290.html"
+  },
+  {
     "id": "deeeland0ohio-sigma-games",
     "title": "OMORI",
     "repo": "https://github.com/deeeland0ohio/Sigma-Games",
