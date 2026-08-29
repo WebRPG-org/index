@@ -10752,6 +10752,18 @@
     "sourceRepo": "Andaroth/anda.ninja"
   },
   {
+    "id": "harleythetech-capstone-ppv2",
+    "title": "Palarong Panlipunan",
+    "repo": "https://github.com/Harleythetech/CAPSTONE_PPV2",
+    "owner": "Harleythetech",
+    "name": "CAPSTONE_PPV2",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "discoveredAt": "2026-08-29T12:20:16.360Z",
+    "source": "github-code-search",
+    "sourcePath": "index.html"
+  },
+  {
     "id": "binkalogi-pantiesia1-0",
     "title": "pantiesia1.0",
     "repo": "https://github.com/binkalogi/pantiesia1.0",
