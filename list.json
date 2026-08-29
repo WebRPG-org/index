@@ -5054,6 +5054,18 @@
     "validationScore": 45
   },
   {
+    "id": "gmshelf-truffled",
+    "title": "DEAD PLATE",
+    "repo": "https://github.com/gmshelf/truffled",
+    "owner": "gmshelf",
+    "name": "truffled",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "discoveredAt": "2026-08-29T22:59:21.768Z",
+    "source": "github-code-search",
+    "sourcePath": "truffled/deadplatewebport/dead.html"
+  },
+  {
     "id": "greyisgreat-greyproxyv2",
     "title": "DEAD PLATE",
     "repo": "https://github.com/greyisgreat/greyproxyv2",
