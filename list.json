@@ -1318,6 +1318,18 @@
     "sourceRepo": "renrender0209/aooni"
   },
   {
+    "id": "riyoway-aooni2016-restored",
+    "title": "青鬼2016",
+    "repo": "https://github.com/Riyoway/aooni2016-restored",
+    "owner": "Riyoway",
+    "name": "aooni2016-restored",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "discoveredAt": "2026-08-30T11:18:58.572Z",
+    "source": "github-code-search",
+    "sourcePath": "index.html"
+  },
+  {
     "id": "tkoolsamchi-aooni2016fix-github-io",
     "title": "青鬼2016",
     "repo": "https://github.com/Tkoolsamchi/aooni2016fix.github.io",
