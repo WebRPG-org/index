@@ -9888,6 +9888,18 @@
     "sourcePath": "public/games/omori/index.html"
   },
   {
+    "id": "dotgui-dev-dotgui-old",
+    "title": "OMORI",
+    "repo": "https://github.com/dotgui-dev/DotGUI-old",
+    "owner": "dotgui-dev",
+    "name": "DotGUI-old",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "discoveredAt": "2026-09-01T08:19:27.949Z",
+    "source": "github-code-search",
+    "sourcePath": "game-embeds/omori.html"
+  },
+  {
     "id": "dotlyhiyou-dotgui",
     "title": "OMORI",
     "repo": "https://github.com/DotLYHiyou/DotGUI",
