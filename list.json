@@ -6173,6 +6173,18 @@
     "invalidReason": "Repository size 452404 KB exceeds the 250000 KB limit."
   },
   {
+    "id": "luics415-eternalmazesrpg-windows",
+    "title": "Eternal Mazes",
+    "repo": "https://github.com/Luics415/EternalMazesRPG-Windows",
+    "owner": "Luics415",
+    "name": "EternalMazesRPG-Windows",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "discoveredAt": "2026-09-02T20:32:14.730Z",
+    "source": "github-code-search",
+    "sourcePath": "www/index.html"
+  },
+  {
     "id": "katai5plate-rpgmv-game-kanban",
     "title": "expKanban",
     "repo": "https://github.com/katai5plate/rpgmv-game-kanban",
