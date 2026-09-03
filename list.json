@@ -2114,6 +2114,18 @@
     "duplicateReason": "Repository name already exists in list.json."
   },
   {
+    "id": "mengtl4-rpgmaker-mv-android-mod",
+    "title": "再刷一把",
+    "repo": "https://github.com/MengTL4/rpgmaker-mv-android-mod",
+    "owner": "MengTL4",
+    "name": "rpgmaker-mv-android-mod",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "discoveredAt": "2026-09-03T22:59:01.431Z",
+    "source": "github-code-search",
+    "sourcePath": "PlayAgain/patches/assets/www/index.html"
+  },
+  {
     "id": "munokura-sword-floor-mv-sample",
     "title": "針ダメージ床MV",
     "repo": "https://github.com/munokura/Sword-Floor-MV-sample",
@@ -7896,6 +7908,18 @@
     "invalidReason": "RPG Maker structure is incomplete near 427-z.html.",
     "deletedAt": "2026-06-15T15:57:02.749Z",
     "validationScore": 45
+  },
+  {
+    "id": "kuhaku411a-infinite-domination-rw",
+    "title": "Infinite Domination: Zero",
+    "repo": "https://github.com/Kuhaku411A/Infinite_Domination_RW",
+    "owner": "Kuhaku411A",
+    "name": "Infinite_Domination_RW",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "discoveredAt": "2026-09-03T22:59:01.431Z",
+    "source": "github-code-search",
+    "sourcePath": "index.html"
   },
   {
     "id": "raphaell-maiwen-informed-consent",
