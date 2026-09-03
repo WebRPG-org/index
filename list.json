@@ -11134,6 +11134,18 @@
     "sourceRepo": "TheRainbowPhoenix/LDS"
   },
   {
+    "id": "beeveelutions-project-starmans",
+    "title": "Project Starman",
+    "repo": "https://github.com/Beeveelutions/Project-Starmans",
+    "owner": "Beeveelutions",
+    "name": "Project-Starmans",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "discoveredAt": "2026-09-03T15:50:07.720Z",
+    "source": "github-code-search",
+    "sourcePath": "Project Starman/index.html"
+  },
+  {
     "id": "moonyoulove-project-tiny",
     "title": "Project Tiny",
     "repo": "https://github.com/moonyoulove/Project-Tiny",
