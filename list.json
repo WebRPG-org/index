@@ -6074,6 +6074,18 @@
     "sourceRepo": "JacsonGold/12DTM-RPGMakerGame-Repository"
   },
   {
+    "id": "redpillphil-emberchain",
+    "title": "Embermon",
+    "repo": "https://github.com/RedPillPhil/Emberchain",
+    "owner": "RedPillPhil",
+    "name": "Emberchain",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "discoveredAt": "2026-09-03T20:32:40.722Z",
+    "source": "github-code-search",
+    "sourcePath": "artifacts/embermon/game/index.html"
+  },
+  {
     "id": "luisdef-end",
     "title": "END",
     "repo": "https://github.com/luisdef/end",
