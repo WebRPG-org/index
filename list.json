@@ -12269,6 +12269,18 @@
     "sourceRepo": "Byvalvin/Excalibur"
   },
   {
+    "id": "retrom-project-retrom",
+    "title": "Retrom isolation harness",
+    "repo": "https://github.com/retrom-project/retrom",
+    "owner": "retrom-project",
+    "name": "retrom",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "discoveredAt": "2026-09-04T22:47:11.208Z",
+    "source": "github-code-search",
+    "sourcePath": "testdata/public-roms/rpgmaker-smoke/malicious-rpgmv/index.html"
+  },
+  {
     "id": "pelinal-returntosender",
     "title": "Return to Sender",
     "repo": "https://github.com/Pelinal/ReturnToSender",
