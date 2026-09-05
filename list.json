@@ -10605,6 +10605,18 @@
     "validationScore": 45
   },
   {
+    "id": "yellowdevelopment-sienna",
+    "title": "OMORI",
+    "repo": "https://github.com/yellowdevelopment/sienna",
+    "owner": "yellowdevelopment",
+    "name": "sienna",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "discoveredAt": "2026-09-05T03:05:14.511Z",
+    "source": "github-code-search",
+    "sourcePath": "mages/omori/index.html"
+  },
+  {
     "id": "sype0-omori-on-android-version-fix",
     "title": "OMORI for Android (not official)",
     "repo": "https://github.com/Sype0/omori-on-android-version-fix",
