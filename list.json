@@ -10348,6 +10348,18 @@
     "validationScore": 45
   },
   {
+    "id": "phexus23-phexus23-github-io",
+    "title": "OMORI",
+    "repo": "https://github.com/phexus23/phexus23.github.io",
+    "owner": "phexus23",
+    "name": "phexus23.github.io",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "discoveredAt": "2026-09-06T03:04:56.985Z",
+    "source": "github-code-search",
+    "sourcePath": "Vafor_IT/source2/omori.html"
+  },
+  {
     "id": "phexusmath-phexusmath-github-io2",
     "title": "OMORI",
     "repo": "https://github.com/phexusmath/phexusmath.github.io2",
