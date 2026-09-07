@@ -2240,6 +2240,18 @@
     "sourceRepo": "PedroMaxDEV/A-LENDA-DE-CAMUTANGA"
   },
   {
+    "id": "sness128-sness128-github-io",
+    "title": "A Rather Long Walk",
+    "repo": "https://github.com/sness128/sness128.github.io",
+    "owner": "sness128",
+    "name": "sness128.github.io",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "discoveredAt": "2026-09-07T03:02:51.851Z",
+    "source": "github-code-search",
+    "sourcePath": "old/games/LongWalk/www/index.html"
+  },
+  {
     "id": "evafg-a-stormy-story",
     "title": "A Stormy Story",
     "repo": "https://github.com/EVAFG/A-stormy-story",
@@ -10193,6 +10205,18 @@
     "invalidReason": "RPG Maker structure is incomplete near public/yalp/src/bloodmoney/index.html.",
     "deletedAt": "2026-06-19T04:25:56.354Z",
     "validationScore": 50
+  },
+  {
+    "id": "kanyewest50000-offline-learning",
+    "title": "OMORI",
+    "repo": "https://github.com/kanyewest50000/offline-learning",
+    "owner": "kanyewest50000",
+    "name": "offline-learning",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "discoveredAt": "2026-09-07T03:02:51.851Z",
+    "source": "github-code-search",
+    "sourcePath": "games/g/427-z.html"
   },
   {
     "id": "katsugachi-solus-ms",
