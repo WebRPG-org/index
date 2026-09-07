@@ -3700,6 +3700,18 @@
     "validationScore": 45
   },
   {
+    "id": "lunararrow89-thecomicreliefcorner",
+    "title": "BLOODMONEY!",
+    "repo": "https://github.com/LunarArrow89/TheComicReliefCorner",
+    "owner": "LunarArrow89",
+    "name": "TheComicReliefCorner",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "discoveredAt": "2026-09-07T21:08:44.923Z",
+    "source": "github-code-search",
+    "sourcePath": "kick_the_buddy.html"
+  },
+  {
     "id": "marty-games-mga-html5x",
     "title": "BLOODMONEY!",
     "repo": "https://github.com/marty-games/mga-html5x",
@@ -5017,6 +5029,18 @@
     "totalSize": 100604,
     "dataSize": 2877424,
     "sourceRepo": "SheikhSafwan/Daybreak"
+  },
+  {
+    "id": "amogus0471-classroom",
+    "title": "DEAD PLATE",
+    "repo": "https://github.com/amogus0471/classroom",
+    "owner": "amogus0471",
+    "name": "classroom",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "discoveredAt": "2026-09-07T21:08:44.923Z",
+    "source": "github-code-search",
+    "sourcePath": "games/deadplate/index.html"
   },
   {
     "id": "aukak-fyinx",
