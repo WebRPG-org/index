@@ -55,6 +55,10 @@ const updated = list.map((entry) => {
       owner: fixedOwner,
       name: fixedName,
       sourceRepo,
+      sourceDefaultBranch: result.sourceDefaultBranch,
+      sourceHeadSha: result.sourceHeadSha,
+      processedHeadSha: result.processedHeadSha,
+      syncedFromSource: result.syncedFromSource || undefined,
     });
   }
 

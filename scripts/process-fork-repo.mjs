@@ -62,10 +62,7 @@ async function run() {
   result.defaultBranch = repo.default_branch;
   result.sourceRepo = repo.source?.full_name || repo.parent?.full_name || null;
 
-  if (repo.size > maxRepoSizeKb) {
-    skipLargeRepository(`Repository size ${repo.size} KB exceeds the ${maxRepoSizeKb} KB limit.`);
-    return;
-  }
+  // Repository size is checked after resolving the upstream repository below.
 
   // Check if this repo is manually hidden in list.json
   const list = JSON.parse(await fs.readFile("list.json", "utf8"));
@@ -97,9 +94,62 @@ async function run() {
     return;
   }
 
+  const sourceRepo = result.sourceRepo;
+  if (!sourceRepo) {
+    result.status = "source_unavailable";
+    result.invalidReason = "Fork does not expose an upstream source repository.";
+    console.log(`[skip] ${targetOrg}/${repoName} has no upstream source repository`);
+    return;
+  }
+
+  const [sourceOwner, sourceName] = sourceRepo.split("/");
+  if (!sourceOwner || !sourceName) {
+    throw new Error(`Invalid upstream repository name: ${sourceRepo}`);
+  }
+
+  const upstreamPath = `/repos/${encodeURIComponent(sourceOwner)}/${encodeURIComponent(sourceName)}`;
+  const upstream = await githubRequest(upstreamPath);
+  const sourceDefaultBranch = upstream.default_branch;
+  const sourceRef = await githubRequest(
+    `${upstreamPath}/git/ref/heads/${encodeGitRefPath(sourceDefaultBranch)}`,
+  );
+  const sourceHeadSha = sourceRef.object.sha;
+  result.sourceDefaultBranch = sourceDefaultBranch;
+  result.sourceHeadSha = sourceHeadSha;
+  result.sourceSize = upstream.size || 0;
+
+  if (upstream.size > maxRepoSizeKb) {
+    skipLargeRepository(`Upstream repository size ${upstream.size} KB exceeds the ${maxRepoSizeKb} KB limit.`);
+    return;
+  }
+
   const branch = repo.default_branch;
-  const ref = await githubRequest(`/repos/${encodeURIComponent(targetOrg)}/${encodeURIComponent(repoName)}/git/ref/heads/${encodeGitRefPath(branch)}`);
-  const headSha = ref.object.sha;
+  let ref = await githubRequest(`/repos/${encodeURIComponent(targetOrg)}/${encodeURIComponent(repoName)}/git/ref/heads/${encodeGitRefPath(branch)}`);
+  let headSha = ref.object.sha;
+  const processedSourceSha = entry?.sourceHeadSha;
+  const sourceChanged = processedSourceSha !== sourceHeadSha;
+  const needsSourceReset = sourceChanged && headSha !== sourceHeadSha;
+
+  if (needsSourceReset && !dryRun) {
+    await resetForkToSource(branch, sourceHeadSha);
+    result.syncedFromSource = true;
+    result.sourceReset = true;
+    console.log(`[sync] Reset ${targetOrg}/${repoName} to ${sourceRepo}@${sourceHeadSha.slice(0, 8)}`);
+    ref = await githubRequest(`/repos/${encodeURIComponent(targetOrg)}/${encodeURIComponent(repoName)}/git/ref/heads/${encodeGitRefPath(branch)}`);
+    headSha = ref.object.sha;
+  } else if (needsSourceReset) {
+    result.sourceReset = false;
+    result.syncPending = true;
+    console.log(`[dry-run] Would reset ${targetOrg}/${repoName} to ${sourceRepo}@${sourceHeadSha.slice(0, 8)}`);
+  }
+
+  if (sourceChanged) {
+    summary.push(`Upstream: \`${sourceRepo}@${sourceHeadSha.slice(0, 12)}\``);
+  }
+  if (result.syncedFromSource) {
+    summary.push("Synchronized fork from upstream and discarded previous generated changes.");
+  }
+
   const headCommit = await githubRequest(`/repos/${encodeURIComponent(targetOrg)}/${encodeURIComponent(repoName)}/git/commits/${headSha}`);
   const tree = await githubRequest(
     `/repos/${encodeURIComponent(targetOrg)}/${encodeURIComponent(repoName)}/git/trees/${headCommit.tree.sha}?recursive=1`,
@@ -196,7 +246,7 @@ async function run() {
   }
 
   // Compute game size metrics (zero additional API cost)
-  result.totalSize = repo.size || 0;
+  result.totalSize = upstream.size || repo.size || 0;
   const dataSize = currentFiles
     .filter((f) => f.path.startsWith("data/") && f.path.endsWith(".json"))
     .reduce((sum, f) => sum + (f.size || 0), 0);
@@ -276,6 +326,7 @@ async function run() {
     console.log(`[dry-run] Would update ${updates.size} HTML files.`);
     console.log(`[dry-run] Would enable GitHub Pages from ${branch}${pagesPath}.`);
     result.htmlFilesUpdated = updates.size;
+    result.processedHeadSha = currentHeadSha;
     result.pagesEnabled = false;
     summary.push(`Status: \`verified\``);
     summary.push(`Engine: \`${detection.engine}\``);
@@ -306,12 +357,13 @@ async function run() {
   }
 
   if (updates.size > 0) {
-    await commitHtmlUpdates({
+    const prepared = await commitHtmlUpdates({
       branch,
       baseCommitSha: currentHeadSha,
       baseTreeSha: currentTree.sha || currentHeadSha,
       updates,
     });
+    currentHeadSha = prepared.headSha;
     const fileTypes = [...updates.keys()].map((k) => k.endsWith(".png") ? "cover.png" : k).join(", ");
     console.log(`[updated] ${updates.size} file(s) in ${targetOrg}/${repoName}: ${fileTypes}`);
   } else {
@@ -320,6 +372,7 @@ async function run() {
 
   await ensurePages(branch, "/");
   result.htmlFilesUpdated = updates.size;
+  result.processedHeadSha = currentHeadSha;
   result.pagesEnabled = true;
   summary.push(`Status: \`verified\``);
   summary.push(`Engine: \`${detection.engine}\``);
@@ -771,6 +824,8 @@ async function commitHtmlUpdates({ branch, baseCommitSha, baseTreeSha, updates }
       force: false,
     },
   });
+
+  return { headSha: newCommit.sha };
 }
 
 function injectScript(content, tag, needle) {
@@ -857,11 +912,26 @@ async function ensurePages(branch, sourcePath) {
   return current;
 }
 
+async function resetForkToSource(branch, sourceHeadSha) {
+  await githubRequest(
+    `/repos/${encodeURIComponent(targetOrg)}/${encodeURIComponent(repoName)}/git/refs/heads/${encodeGitRefPath(branch)}`,
+    {
+      method: "PATCH",
+      body: {
+        sha: sourceHeadSha,
+        force: true,
+      },
+      ok: [200],
+    },
+  );
+}
+
 async function githubRequest(apiPath, options = {}) {
   const response = await fetch(`${apiBase}${apiPath}`, {
     method: options.method || "GET",
     headers: {
       Accept: "application/vnd.github+json",
+      "User-Agent": "WebRPG-index/1.0",
       Authorization: `Bearer ${token}`,
       "Content-Type": "application/json",
       "X-GitHub-Api-Version": "2022-11-28",

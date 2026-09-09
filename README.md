@@ -26,6 +26,13 @@ The workflow waits between fork creation requests to avoid GitHub secondary rate
 
 If GitHub still reports that requests were submitted too quickly, increase `CREATE_DELAY_SECONDS` in `.github/workflows/fork-listed-repos.yml`. Existing forks are detected and skipped.
 
+The prepare workflow also treats WebRPG forks as disposable generated deployments:
+
+- It reads the upstream repository's default-branch commit.
+- When the upstream commit differs from the recorded `sourceHeadSha`, it force-resets the fork's default branch to the upstream commit, discarding previous generated changes.
+- It then runs the normal validation, flattening, analytics injection, cover generation, and Pages setup again.
+- The index records `sourceDefaultBranch`, `sourceHeadSha`, and `processedHeadSha` for processed forks.
+
 Repositories are skipped when:
 
 - The source repository is already forked into `WebRPG-org`.
