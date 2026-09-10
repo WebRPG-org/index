@@ -347,8 +347,8 @@
     "owner": "kotpot197",
     "name": "BikiniArmor",
     "engine": "RPG Maker MV",
-    "status": "verified",
-    "checkedAt": "2026-06-18T01:50:15.001Z",
+    "status": "skipped_large",
+    "checkedAt": "2026-09-10T03:20:59.322Z",
     "forkName": "kotpot197-BikiniArmor",
     "pagesUrl": "https://webrpg.org/kotpot197-BikiniArmor/",
     "entryPath": "index.html",
@@ -356,7 +356,8 @@
     "validationScore": 118,
     "totalSize": 1199328,
     "dataSize": 60466489,
-    "sourceRepo": "kotpot197/BikiniArmor"
+    "sourceRepo": "kotpot197/BikiniArmor",
+    "invalidReason": "Upstream repository size 1199326 KB exceeds the 250000 KB limit."
   },
   {
     "id": "michaelpig0912-michaelpig0912-github-io",
@@ -486,8 +487,8 @@
     "owner": "lisachouHC",
     "name": "drdresapre",
     "engine": "RPG Maker MV",
-    "status": "verified",
-    "checkedAt": "2026-06-18T04:08:04.369Z",
+    "status": "skipped_large",
+    "checkedAt": "2026-09-10T03:21:41.004Z",
     "forkName": "lisachouHC-drdresapre",
     "pagesUrl": "https://webrpg.org/lisachouHC-drdresapre/",
     "entryPath": "index.html",
@@ -495,7 +496,8 @@
     "validationScore": 118,
     "totalSize": 434071,
     "dataSize": 2377588,
-    "sourceRepo": "lisachouHC/drdresapre"
+    "sourceRepo": "lisachouHC/drdresapre",
+    "invalidReason": "Upstream repository size 434069 KB exceeds the 250000 KB limit."
   },
   {
     "id": "lisachouhc-drdrescape-v2",
@@ -504,8 +506,8 @@
     "owner": "lisachouHC",
     "name": "drdrescape_V2",
     "engine": "RPG Maker MV",
-    "status": "verified",
-    "checkedAt": "2026-06-18T04:08:07.754Z",
+    "status": "skipped_large",
+    "checkedAt": "2026-09-10T03:21:37.181Z",
     "forkName": "lisachouHC-drdrescape_V2",
     "pagesUrl": "https://webrpg.org/lisachouHC-drdrescape_V2/",
     "entryPath": "index.html",
@@ -513,7 +515,8 @@
     "validationScore": 118,
     "totalSize": 427051,
     "dataSize": 2168880,
-    "sourceRepo": "lisachouHC/drdrescape_V2"
+    "sourceRepo": "lisachouHC/drdrescape_V2",
+    "invalidReason": "Upstream repository size 427049 KB exceeds the 250000 KB limit."
   },
   {
     "id": "neonnoir-yuki-drkxq",
@@ -611,8 +614,8 @@
     "owner": "kotpot197",
     "name": "FuranToZaininNoSima",
     "engine": "RPG Maker MV",
-    "status": "verified",
-    "checkedAt": "2026-06-18T01:50:26.293Z",
+    "status": "skipped_large",
+    "checkedAt": "2026-09-10T03:21:09.108Z",
     "forkName": "kotpot197-FuranToZaininNoSima",
     "pagesUrl": "https://webrpg.org/kotpot197-FuranToZaininNoSima/",
     "entryPath": "index.html",
@@ -620,7 +623,8 @@
     "validationScore": 118,
     "totalSize": 559202,
     "dataSize": 18885531,
-    "sourceRepo": "kotpot197/FuranToZaininNoSima"
+    "sourceRepo": "kotpot197/FuranToZaininNoSima",
+    "invalidReason": "Upstream repository size 559200 KB exceeds the 250000 KB limit."
   },
   {
     "id": "lzk716088-beneath-the-snow",
@@ -630,15 +634,19 @@
     "name": "beneath-the-snow",
     "engine": "RPG Maker MV",
     "status": "verified",
-    "checkedAt": "2026-06-18T04:08:13.202Z",
+    "checkedAt": "2026-09-10T03:21:37.423Z",
     "forkName": "lzk716088-beneath-the-snow",
     "pagesUrl": "https://webrpg.org/lzk716088-beneath-the-snow/",
     "entryPath": "index.html",
     "cover": "https://webrpg.org/lzk716088-beneath-the-snow/cover.png",
     "validationScore": 118,
-    "totalSize": 239493,
+    "totalSize": 239491,
     "dataSize": 1035337,
-    "sourceRepo": "lzk716088/beneath-the-snow"
+    "sourceRepo": "lzk716088/beneath-the-snow",
+    "sourceDefaultBranch": "main",
+    "sourceHeadSha": "e21a13fdcce7382affa8d4152ed68beb1723f9ba",
+    "processedHeadSha": "8602303ac9ee4db3b3d04c313534a0fa37356701",
+    "syncedFromSource": true
   },
   {
     "id": "yinshi91-game",
@@ -799,8 +807,8 @@
     "owner": "miracleyoo",
     "name": "HCRS-Online",
     "engine": "RPG Maker MV",
-    "status": "verified",
-    "checkedAt": "2026-06-18T04:08:25.517Z",
+    "status": "skipped_large",
+    "checkedAt": "2026-09-10T03:21:53.656Z",
     "forkName": "miracleyoo-HCRS-Online",
     "pagesUrl": "https://webrpg.org/miracleyoo-HCRS-Online/",
     "entryPath": "index.html",
@@ -808,7 +816,8 @@
     "validationScore": 118,
     "totalSize": 1026348,
     "dataSize": 3615963,
-    "sourceRepo": "miracleyoo/HCRS-Online"
+    "sourceRepo": "miracleyoo/HCRS-Online",
+    "invalidReason": "Upstream repository size 1026358 KB exceeds the 250000 KB limit."
   },
   {
     "id": "miracleyoo-hua-cai-ren-sheng",
@@ -817,8 +826,8 @@
     "owner": "miracleyoo",
     "name": "Hua-Cai-Ren-Sheng",
     "engine": "RPG Maker MV",
-    "status": "verified",
-    "checkedAt": "2026-06-18T04:08:30.328Z",
+    "status": "skipped_large",
+    "checkedAt": "2026-09-10T03:21:56.912Z",
     "forkName": "miracleyoo-Hua-Cai-Ren-Sheng",
     "pagesUrl": "https://webrpg.org/miracleyoo-Hua-Cai-Ren-Sheng/",
     "entryPath": "index.html",
@@ -826,7 +835,8 @@
     "validationScore": 118,
     "totalSize": 945898,
     "dataSize": 3402166,
-    "sourceRepo": "miracleyoo/Hua-Cai-Ren-Sheng"
+    "sourceRepo": "miracleyoo/Hua-Cai-Ren-Sheng",
+    "invalidReason": "Upstream repository size 946889 KB exceeds the 250000 KB limit."
   },
   {
     "id": "q3226257-rpg-game",
@@ -1002,15 +1012,19 @@
     "name": "MV01",
     "engine": "RPG Maker MV",
     "status": "verified",
-    "checkedAt": "2026-06-18T01:49:47.193Z",
+    "checkedAt": "2026-09-10T03:20:37.197Z",
     "forkName": "kata235-MV01",
     "pagesUrl": "https://webrpg.org/kata235-MV01/",
     "entryPath": "index.html",
     "cover": "https://webrpg.org/kata235-MV01/cover.png",
     "validationScore": 118,
-    "totalSize": 32311,
+    "totalSize": 32297,
     "dataSize": 371658,
-    "sourceRepo": "kata235/MV01"
+    "sourceRepo": "kata235/MV01",
+    "sourceDefaultBranch": "master",
+    "sourceHeadSha": "76c2a471af770e097dd65a72b0fd8ec3d4a10d4d",
+    "processedHeadSha": "b6cfd537e26e6388989ef250fc4436e8379a917c",
+    "syncedFromSource": true
   },
   {
     "id": "xjzsq-1",
@@ -1019,9 +1033,10 @@
     "owner": "xjzsq",
     "name": "1",
     "engine": "RPG Maker MV",
-    "checkedAt": "2026-06-18T01:46:39.841Z",
+    "checkedAt": "2026-09-10T03:21:11.334Z",
     "forkName": "xjzsq-1",
-    "lastCheckError": "GitHub API 422: Invalid request.\n\nInvalid property /source/path: `雷鸣传说` is not a possible value. Must be one of the following: /, /docs."
+    "status": "skipped_large",
+    "invalidReason": "Upstream repository size 625420 KB exceeds the 250000 KB limit."
   },
   {
     "id": "eeg1412-wikimoe-blog-archive",
@@ -1116,8 +1131,8 @@
     "owner": "kotpot197",
     "name": "rabbit",
     "engine": "RPG Maker MV",
-    "status": "verified",
-    "checkedAt": "2026-06-18T04:07:51.295Z",
+    "status": "skipped_large",
+    "checkedAt": "2026-09-10T03:21:23.333Z",
     "forkName": "kotpot197-rabbit",
     "pagesUrl": "https://webrpg.org/kotpot197-rabbit/",
     "entryPath": "index.html",
@@ -1125,7 +1140,8 @@
     "validationScore": 118,
     "totalSize": 1086314,
     "dataSize": 13532492,
-    "sourceRepo": "kotpot197/rabbit"
+    "sourceRepo": "kotpot197/rabbit",
+    "invalidReason": "Upstream repository size 1086312 KB exceeds the 250000 KB limit."
   },
   {
     "id": "easychen-gamedemo",
@@ -1179,8 +1195,8 @@
     "owner": "klsdf",
     "name": "Get-Free-JavaScript-Learning-Materials",
     "engine": "RPG Maker MV",
-    "status": "verified",
-    "checkedAt": "2026-06-18T01:50:04.092Z",
+    "status": "skipped_large",
+    "checkedAt": "2026-09-10T03:20:54.023Z",
     "forkName": "klsdf-Get-Free-JavaScript-Learning-Materials",
     "pagesUrl": "https://webrpg.org/klsdf-Get-Free-JavaScript-Learning-Materials/",
     "entryPath": "index.html",
@@ -1188,7 +1204,8 @@
     "validationScore": 118,
     "totalSize": 586383,
     "dataSize": 3371755,
-    "sourceRepo": "klsdf/Get-Free-JavaScript-Learning-Materials"
+    "sourceRepo": "klsdf/Get-Free-JavaScript-Learning-Materials",
+    "invalidReason": "Upstream repository size 586379 KB exceeds the 250000 KB limit."
   },
   {
     "id": "kyouka8234-magical-girl-celesphonia",
@@ -1197,8 +1214,8 @@
     "owner": "Kyouka8234",
     "name": "Magical-Girl-Celesphonia",
     "engine": "RPG Maker MV",
-    "status": "verified",
-    "checkedAt": "2026-06-18T04:07:51.767Z",
+    "status": "skipped_large",
+    "checkedAt": "2026-09-10T03:21:21.655Z",
     "forkName": "Kyouka8234-Magical-Girl-Celesphonia",
     "pagesUrl": "https://webrpg.org/Kyouka8234-Magical-Girl-Celesphonia/",
     "entryPath": "index.html",
@@ -1206,7 +1223,8 @@
     "validationScore": 118,
     "totalSize": 2681663,
     "dataSize": 34082727,
-    "sourceRepo": "Kyouka8234/Magical-Girl-Celesphonia"
+    "sourceRepo": "Kyouka8234/Magical-Girl-Celesphonia",
+    "invalidReason": "Upstream repository size 2681661 KB exceeds the 250000 KB limit."
   },
   {
     "id": "tomoshibi06-mio",
@@ -1299,8 +1317,8 @@
     "owner": "pieworkplace",
     "name": "mota-mv",
     "engine": "RPG Maker MV",
-    "status": "verified",
-    "checkedAt": "2026-06-18T04:08:50.929Z",
+    "status": "skipped_large",
+    "checkedAt": "2026-09-10T03:22:24.854Z",
     "forkName": "pieworkplace-mota-mv",
     "pagesUrl": "https://webrpg.org/pieworkplace-mota-mv/",
     "entryPath": "index.html",
@@ -1308,7 +1326,8 @@
     "validationScore": 118,
     "totalSize": 397680,
     "dataSize": 2488141,
-    "sourceRepo": "pieworkplace/mota-mv"
+    "sourceRepo": "pieworkplace/mota-mv",
+    "invalidReason": "Upstream repository size 398341 KB exceeds the 250000 KB limit."
   },
   {
     "id": "tw123777tw-pdlsdyzzh-4ce89b29",
@@ -1462,15 +1481,19 @@
     "name": "prisoner",
     "engine": "RPG Maker MV",
     "status": "verified",
-    "checkedAt": "2026-06-18T04:08:18.480Z",
+    "checkedAt": "2026-09-10T03:21:43.124Z",
     "forkName": "lzk716088-prisoner",
     "pagesUrl": "https://webrpg.org/lzk716088-prisoner/",
     "entryPath": "index.html",
     "cover": "https://webrpg.org/lzk716088-prisoner/cover.png",
     "validationScore": 118,
-    "totalSize": 123506,
+    "totalSize": 123505,
     "dataSize": 885728,
-    "sourceRepo": "lzk716088/prisoner"
+    "sourceRepo": "lzk716088/prisoner",
+    "sourceDefaultBranch": "main",
+    "sourceHeadSha": "22ff691efd08e510580ba04f162b255f701524bb",
+    "processedHeadSha": "361e8102f8bfbfe03bdf6e334e6aaa7f907b9e22",
+    "syncedFromSource": true
   },
   {
     "id": "hitexe2023mino-prog-quarta-alumines-and-tangel-eg",
@@ -1570,15 +1593,19 @@
     "name": "MV02",
     "engine": "RPG Maker MV",
     "status": "verified",
-    "checkedAt": "2026-06-18T01:50:00.917Z",
+    "checkedAt": "2026-09-10T03:20:51.111Z",
     "forkName": "kata235-MV02",
     "pagesUrl": "https://webrpg.org/kata235-MV02/",
     "entryPath": "index.html",
     "cover": "https://webrpg.org/kata235-MV02/cover.png",
     "validationScore": 118,
-    "totalSize": 56853,
+    "totalSize": 56852,
     "dataSize": 2983560,
-    "sourceRepo": "kata235/MV02"
+    "sourceRepo": "kata235/MV02",
+    "sourceDefaultBranch": "master",
+    "sourceHeadSha": "c32e67a9dd1dcb4474cf486eb1b720d5c08b4342",
+    "processedHeadSha": "487d6338237292edac0730ca040f2aabca3ea9ef",
+    "syncedFromSource": true
   },
   {
     "id": "takuantoono-kn1-30",
@@ -1738,15 +1765,19 @@
     "name": "ImmortalFairy",
     "engine": "RPG Maker MV",
     "status": "verified",
-    "checkedAt": "2026-06-18T04:08:41.054Z",
+    "checkedAt": "2026-09-10T03:22:07.453Z",
     "forkName": "numanicloud-ImmortalFairy",
     "pagesUrl": "https://webrpg.org/numanicloud-ImmortalFairy/",
     "entryPath": "index.html",
     "cover": "https://webrpg.org/numanicloud-ImmortalFairy/cover.png",
     "validationScore": 118,
-    "totalSize": 229114,
+    "totalSize": 229122,
     "dataSize": 697776,
-    "sourceRepo": "numanicloud/ImmortalFairy"
+    "sourceRepo": "numanicloud/ImmortalFairy",
+    "sourceDefaultBranch": "master",
+    "sourceHeadSha": "03a51380c6719ee1a06f5ea6ca9025a8e1e4a447",
+    "processedHeadSha": "0e50b0cad6d5176735142bb28f427a3a151f462e",
+    "syncedFromSource": true
   },
   {
     "id": "gfdgd-xi-siyemuxu-online",
@@ -1796,8 +1827,8 @@
     "owner": "joshika39",
     "name": "rpg-camp-game",
     "engine": "RPG Maker MV",
-    "status": "verified",
-    "checkedAt": "2026-06-18T01:49:35.026Z",
+    "status": "skipped_large",
+    "checkedAt": "2026-09-10T03:20:21.241Z",
     "forkName": "joshika39-rpg-camp-game",
     "pagesUrl": "https://webrpg.org/joshika39-rpg-camp-game/",
     "entryPath": "index.html",
@@ -1805,7 +1836,8 @@
     "validationScore": 118,
     "totalSize": 396053,
     "dataSize": 1211319,
-    "sourceRepo": "joshika39/rpg-camp-game"
+    "sourceRepo": "joshika39/rpg-camp-game",
+    "invalidReason": "Upstream repository size 396051 KB exceeds the 250000 KB limit."
   },
   {
     "id": "lsc-jh-rpg-maker",
@@ -1815,15 +1847,19 @@
     "name": "rpg-maker",
     "engine": "RPG Maker MV",
     "status": "verified",
-    "checkedAt": "2026-06-18T04:08:15.707Z",
+    "checkedAt": "2026-09-10T03:21:53.022Z",
     "forkName": "lsc-jh-rpg-maker",
     "pagesUrl": "https://webrpg.org/lsc-jh-rpg-maker/",
     "entryPath": "index.html",
     "cover": "https://webrpg.org/lsc-jh-rpg-maker/cover.png",
     "validationScore": 115,
-    "totalSize": 85733,
+    "totalSize": 85731,
     "dataSize": 1210163,
-    "sourceRepo": "lsc-jh/rpg-maker"
+    "sourceRepo": "lsc-jh/rpg-maker",
+    "sourceDefaultBranch": "main",
+    "sourceHeadSha": "87f5c6c6aa30c5b12d9d464439552f079b4e62be",
+    "processedHeadSha": "57e617a0af4cf78ce24c704db6a2a23a27de35f2",
+    "syncedFromSource": true
   },
   {
     "id": "ambiwlans-toofastrpg",
@@ -2068,15 +2104,19 @@
     "name": "Yanbernunk-2077",
     "engine": "RPG Maker MV",
     "status": "verified",
-    "checkedAt": "2026-06-18T04:08:31.500Z",
+    "checkedAt": "2026-09-10T03:21:59.163Z",
     "forkName": "MitochondriaCN-Yanbernunk-2077",
     "pagesUrl": "https://webrpg.org/MitochondriaCN-Yanbernunk-2077/",
     "entryPath": "index.html",
     "cover": "https://webrpg.org/MitochondriaCN-Yanbernunk-2077/cover.png",
     "validationScore": 118,
-    "totalSize": 172662,
+    "totalSize": 172664,
     "dataSize": 1019709,
-    "sourceRepo": "MitochondriaCN/Yanbernunk-2077"
+    "sourceRepo": "MitochondriaCN/Yanbernunk-2077",
+    "sourceDefaultBranch": "main",
+    "sourceHeadSha": "80bb890c69f91e11bca3b4150c74a48c566d3463",
+    "processedHeadSha": "0d5b6120c9d4ee79f96f53a17a05f128a18b846e",
+    "syncedFromSource": true
   },
   {
     "id": "artpowernewmedia-artpowernewmedia-github-io",
@@ -2149,8 +2189,8 @@
     "owner": "kotpot197",
     "name": "melancholianna",
     "engine": "RPG Maker MV",
-    "status": "verified",
-    "checkedAt": "2026-06-18T01:50:26.137Z",
+    "status": "skipped_large",
+    "checkedAt": "2026-09-10T03:21:08.222Z",
     "forkName": "kotpot197-melancholianna",
     "pagesUrl": "https://webrpg.org/kotpot197-melancholianna/",
     "entryPath": "index.html",
@@ -2158,7 +2198,8 @@
     "validationScore": 118,
     "totalSize": 586349,
     "dataSize": 1460215,
-    "sourceRepo": "kotpot197/melancholianna"
+    "sourceRepo": "kotpot197/melancholianna",
+    "invalidReason": "Upstream repository size 586347 KB exceeds the 250000 KB limit."
   },
   {
     "id": "tychouhaha-zk-game",
@@ -8506,9 +8547,21 @@
     "owner": "juridon",
     "name": "juridon.github.io",
     "engine": "RPG Maker MV",
-    "checkedAt": "2026-06-18T01:49:37.876Z",
+    "checkedAt": "2026-09-10T03:20:34.335Z",
     "forkName": "juridon-juridon.github.io",
-    "lastCheckError": "GitHub API 422: Invalid request.\n\nInvalid property /source: `docs/gametest` is not a possible value. Must be one of the following: /, /docs."
+    "lastCheckError": "GitHub API 422: Invalid request.\n\nInvalid property /source: `docs/gametest` is not a possible value. Must be one of the following: /, /docs.",
+    "status": "verified",
+    "pagesUrl": "https://webrpg.org/juridon-juridon.github.io/",
+    "entryPath": "docs/gameTest/index.html",
+    "cover": "https://webrpg.org/juridon-juridon.github.io/cover.png",
+    "validationScore": 115,
+    "totalSize": 87375,
+    "dataSize": 0,
+    "sourceRepo": "juridon/juridon.github.io",
+    "sourceDefaultBranch": "main",
+    "sourceHeadSha": "2dd4a3ad4e9d7a8d247375563ba6960b2af56a03",
+    "processedHeadSha": "5f4d9684c36c3831c6b378551f5d6ba31abde1c9",
+    "syncedFromSource": true
   },
   {
     "id": "ikyih-gamesofthehub",
@@ -9567,15 +9620,19 @@
     "name": "MMOM",
     "engine": "RPG Maker MV",
     "status": "verified",
-    "checkedAt": "2026-06-18T04:08:00.256Z",
+    "checkedAt": "2026-09-10T03:21:26.424Z",
     "forkName": "kyubuns-MMOM",
     "pagesUrl": "https://webrpg.org/kyubuns-MMOM/",
     "entryPath": "Client/index.html",
     "cover": "https://webrpg.org/kyubuns-MMOM/cover.png",
     "validationScore": 115,
-    "totalSize": 117881,
+    "totalSize": 117878,
     "dataSize": 0,
-    "sourceRepo": "kyubuns/MMOM"
+    "sourceRepo": "kyubuns/MMOM",
+    "sourceDefaultBranch": "gh-pages",
+    "sourceHeadSha": "50d53a3c3936bb1d55fc42bffb29589927495ed3",
+    "processedHeadSha": "67d0915bd472c6d5054304d4af5fff113133141a",
+    "syncedFromSource": true
   },
   {
     "id": "nguyendacliem-monad",
@@ -9769,15 +9826,19 @@
     "name": "mota-mv-2",
     "engine": "RPG Maker MV",
     "status": "verified",
-    "checkedAt": "2026-06-18T04:08:53.685Z",
+    "checkedAt": "2026-09-10T03:22:27.742Z",
     "forkName": "pieworkplace-mota-mv-2",
     "pagesUrl": "https://webrpg.org/pieworkplace-mota-mv-2/",
     "entryPath": "index.html",
     "cover": "https://webrpg.org/pieworkplace-mota-mv-2/cover.png",
     "validationScore": 118,
-    "totalSize": 236073,
+    "totalSize": 236072,
     "dataSize": 710167,
-    "sourceRepo": "pieworkplace/mota-mv-2"
+    "sourceRepo": "pieworkplace/mota-mv-2",
+    "sourceDefaultBranch": "master",
+    "sourceHeadSha": "c014c022a369ab70a8cdcc20ec4a049c66852862",
+    "processedHeadSha": "4bb6d00c69ce75378cff683f0e89157a10a29932",
+    "syncedFromSource": true
   },
   {
     "id": "pieworkplace-mota-mv-template",
@@ -12981,8 +13042,8 @@
     "owner": "oden",
     "name": "RMMV",
     "engine": "RPG Maker MV",
-    "status": "verified",
-    "checkedAt": "2026-06-18T04:08:52.424Z",
+    "status": "skipped_large",
+    "checkedAt": "2026-09-10T03:22:43.974Z",
     "forkName": "oden-RMMV",
     "pagesUrl": "https://webrpg.org/oden-RMMV/",
     "entryPath": "index.html",
@@ -12990,7 +13051,8 @@
     "validationScore": 118,
     "totalSize": 400465,
     "dataSize": 670338,
-    "sourceRepo": "oden/RMMV"
+    "sourceRepo": "oden/RMMV",
+    "invalidReason": "Upstream repository size 400660 KB exceeds the 250000 KB limit."
   },
   {
     "id": "hikko624-rpg-maker-mv-kc3-lt",
@@ -13757,14 +13819,27 @@
   {
     "id": "webrpg-translations-spectoria-eng-cn",
     "title": "SPECTORIA ~スペクタリア~ 简体中文汉化版",
-    "repo": "https://github.com/WebRPG-Translations/Spectoria-Eng-CN",
-    "owner": "WebRPG-Translations",
-    "name": "Spectoria-Eng-CN",
+    "repo": "https://github.com/TKLNinja/Spectoria-Eng",
+    "owner": "TKLNinja",
+    "name": "Spectoria-Eng",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-06-18T03:10:15.000Z",
     "source": "manual-add",
-    "sourcePath": "index.html"
+    "sourcePath": "index.html",
+    "checkedAt": "2026-09-10T03:21:16.115Z",
+    "forkName": "WebRPG-Translations-Spectoria-Eng-CN",
+    "pagesUrl": "https://webrpg.org/WebRPG-Translations-Spectoria-Eng-CN/",
+    "entryPath": "index.html",
+    "cover": "https://webrpg.org/WebRPG-Translations-Spectoria-Eng-CN/cover.png",
+    "validationScore": 118,
+    "totalSize": 147308,
+    "dataSize": 3334983,
+    "sourceRepo": "TKLNinja/Spectoria-Eng",
+    "sourceDefaultBranch": "master",
+    "sourceHeadSha": "55bfcbb4fe5b689638e56a3b975b9784c0f2e576",
+    "processedHeadSha": "9acd0b4882c44293f983bb85f8016563c5dc61d9",
+    "syncedFromSource": true
   },
   {
     "id": "saddlebackcss-parker",
@@ -15592,8 +15667,8 @@
     "owner": "Hu-PRTS",
     "name": "giselle",
     "engine": "RPG Maker MV",
-    "status": "verified",
-    "checkedAt": "2026-06-18T01:49:20.044Z",
+    "status": "skipped_large",
+    "checkedAt": "2026-09-10T03:20:23.329Z",
     "forkName": "Hu-PRTS-giselle",
     "pagesUrl": "https://webrpg.org/Hu-PRTS-giselle/",
     "entryPath": "index.html",
@@ -15601,7 +15676,8 @@
     "validationScore": 118,
     "totalSize": 550767,
     "dataSize": 151991766,
-    "sourceRepo": "Hu-PRTS/giselle"
+    "sourceRepo": "Hu-PRTS/giselle",
+    "invalidReason": "Upstream repository size 550765 KB exceeds the 250000 KB limit."
   },
   {
     "id": "trollsigma-sigma-face",
@@ -16333,9 +16409,21 @@
     "owner": "Ihatechickfila",
     "name": "Tickling-escape-2",
     "engine": "RPG Maker MV",
-    "checkedAt": "2026-06-18T01:49:25.955Z",
+    "checkedAt": "2026-09-10T03:20:21.315Z",
     "forkName": "Ihatechickfila-Tickling-escape-2",
-    "lastCheckError": "GitHub API 422: Invalid request.\n\nInvalid property /source: `www` is not a possible value. Must be one of the following: /, /docs."
+    "lastCheckError": "GitHub API 422: Invalid request.\n\nInvalid property /source: `www` is not a possible value. Must be one of the following: /, /docs.",
+    "status": "verified",
+    "pagesUrl": "https://webrpg.org/Ihatechickfila-Tickling-escape-2/",
+    "entryPath": "index.html",
+    "cover": "https://webrpg.org/Ihatechickfila-Tickling-escape-2/cover.png",
+    "validationScore": 115,
+    "totalSize": 233722,
+    "dataSize": 1816450,
+    "sourceRepo": "Ihatechickfila/Tickling-escape-2",
+    "sourceDefaultBranch": "main",
+    "sourceHeadSha": "df10091031d1730ffbb67e3391e420d3fba55b0b",
+    "processedHeadSha": "cacada3b07e082e2df866a60b1a32816d3900968",
+    "syncedFromSource": true
   },
   {
     "id": "savesub-elise-tickleland-en",
@@ -16362,9 +16450,21 @@
     "owner": "john-smith",
     "name": "rpg-kuso",
     "engine": "RPG Maker MV",
-    "checkedAt": "2026-06-18T01:49:29.592Z",
+    "checkedAt": "2026-09-10T03:20:21.289Z",
     "forkName": "john-smith-rpg-kuso",
-    "lastCheckError": "GitHub API 422: Invalid request.\n\nInvalid property /source: `www` is not a possible value. Must be one of the following: /, /docs."
+    "lastCheckError": "GitHub API 422: Invalid request.\n\nInvalid property /source: `www` is not a possible value. Must be one of the following: /, /docs.",
+    "status": "verified",
+    "pagesUrl": "https://webrpg.org/john-smith-rpg-kuso/",
+    "entryPath": "index.html",
+    "cover": "https://webrpg.org/john-smith-rpg-kuso/cover.png",
+    "validationScore": 115,
+    "totalSize": 84508,
+    "dataSize": 714939,
+    "sourceRepo": "john-smith/rpg-kuso",
+    "sourceDefaultBranch": "master",
+    "sourceHeadSha": "b052bc27d3acbb4334060892dfd914df3bf9be51",
+    "processedHeadSha": "d3a689ffe0e9b945239af75266ea532007718ac4",
+    "syncedFromSource": true
   },
   {
     "id": "triacontane-novelgamesample",
@@ -16399,9 +16499,10 @@
     "owner": "Kill-rose",
     "name": "wiki",
     "engine": "RPG Maker MV",
-    "checkedAt": "2026-06-18T01:50:10.128Z",
+    "checkedAt": "2026-09-10T03:20:55.900Z",
     "forkName": "Kill-rose-wiki",
-    "lastCheckError": "GitHub API 422: Invalid request.\n\nInvalid property /source: `games/sabaseka/www` is not a possible value. Must be one of the following: /, /docs."
+    "status": "skipped_large",
+    "invalidReason": "Upstream repository size 292044 KB exceeds the 250000 KB limit."
   },
   {
     "id": "tw123777tw-siyutohusiginogakuen",
@@ -16474,8 +16575,8 @@
     "owner": "oden",
     "name": "neetles",
     "engine": "RPG Maker MV",
-    "status": "verified",
-    "checkedAt": "2026-06-18T04:08:49.929Z",
+    "status": "skipped_large",
+    "checkedAt": "2026-09-10T03:22:23.512Z",
     "forkName": "oden-neetles",
     "pagesUrl": "https://webrpg.org/oden-neetles/",
     "entryPath": "index.html",
@@ -16483,7 +16584,8 @@
     "validationScore": 118,
     "totalSize": 400464,
     "dataSize": 670322,
-    "sourceRepo": "oden/neetles"
+    "sourceRepo": "oden/neetles",
+    "invalidReason": "Upstream repository size 400463 KB exceeds the 250000 KB limit."
   },
   {
     "id": "hanakusogame-hanakusogame-github-io",
@@ -16606,8 +16708,8 @@
     "owner": "oden",
     "name": "Bremen",
     "engine": "RPG Maker MV",
-    "status": "verified",
-    "checkedAt": "2026-06-18T04:08:48.848Z",
+    "status": "skipped_large",
+    "checkedAt": "2026-09-10T03:22:15.264Z",
     "forkName": "oden-Bremen",
     "pagesUrl": "https://webrpg.org/oden-Bremen/",
     "entryPath": "index.html",
@@ -16615,7 +16717,8 @@
     "validationScore": 118,
     "totalSize": 400464,
     "dataSize": 682286,
-    "sourceRepo": "oden/Bremen"
+    "sourceRepo": "oden/Bremen",
+    "invalidReason": "Upstream repository size 400462 KB exceeds the 250000 KB limit."
   },
   {
     "id": "katai5plate-rpgmv-overflow",
@@ -16697,15 +16800,16 @@
     "owner": "jyxjyx1234",
     "name": "misc_game-chs",
     "engine": "RPG Maker MV",
-    "status": "verified",
-    "checkedAt": "2026-06-18T04:08:04.239Z",
+    "status": "skipped_large",
+    "checkedAt": "2026-09-10T03:22:10.332Z",
     "forkName": "jyxjyx1234-misc_game-chs",
     "pagesUrl": "https://webrpg.org/jyxjyx1234-misc_game-chs/",
     "entryPath": "index.html",
     "validationScore": 65,
     "totalSize": 3141927,
     "dataSize": 0,
-    "sourceRepo": "jyxjyx1234/misc_game-chs"
+    "sourceRepo": "jyxjyx1234/misc_game-chs",
+    "invalidReason": "Upstream repository size 3141886 KB exceeds the 250000 KB limit."
   },
   {
     "id": "umaaji298-riturpg",
