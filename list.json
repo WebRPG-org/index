@@ -1899,7 +1899,7 @@
     "owner": "cyh0521",
     "name": "rpg",
     "engine": "RPG Maker MV",
-    "status": "skipped_large",
+    "status": "duplicate_name",
     "duplicateReason": "Repository name already exists in list.json.",
     "checkedAt": "2026-09-09T23:04:08.025Z",
     "forkName": "cyh0521-rpg",
@@ -1912,7 +1912,7 @@
     "owner": "huanggaole",
     "name": "huanggaole.github.io",
     "engine": "RPG Maker MV",
-    "status": "skipped_large",
+    "status": "duplicate_name",
     "duplicateReason": "Repository name already exists in list.json.",
     "checkedAt": "2026-09-09T23:05:07.259Z",
     "forkName": "huanggaole-huanggaole.github.io",
@@ -5206,6 +5206,18 @@
     "sourceHeadSha": "fc06334aaeea14b45b471f5f9cf8aa4ca84917bc",
     "processedHeadSha": "90ca2a6206601f018b5da5a5aac1eab13dc63f04",
     "syncedFromSource": true
+  },
+  {
+    "id": "1ucent-centauri",
+    "title": "DEAD PLATE",
+    "repo": "https://github.com/1ucent/centauri",
+    "owner": "1ucent",
+    "name": "centauri",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "discoveredAt": "2026-09-10T03:14:21.468Z",
+    "source": "github-code-search",
+    "sourcePath": "assets/UGS/cldeadplate.html"
   },
   {
     "id": "amogus0471-classroom",
