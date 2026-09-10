@@ -13823,7 +13823,7 @@
     "owner": "TKLNinja",
     "name": "Spectoria-Eng",
     "engine": "RPG Maker MV",
-    "status": "verified",
+    "status": "duplicate_name",
     "discoveredAt": "2026-06-18T03:10:15.000Z",
     "source": "manual-add",
     "sourcePath": "index.html",
@@ -13839,7 +13839,8 @@
     "sourceDefaultBranch": "master",
     "sourceHeadSha": "55bfcbb4fe5b689638e56a3b975b9784c0f2e576",
     "processedHeadSha": "9acd0b4882c44293f983bb85f8016563c5dc61d9",
-    "syncedFromSource": true
+    "syncedFromSource": true,
+    "duplicateReason": "Repository name already exists in list.json."
   },
   {
     "id": "saddlebackcss-parker",
