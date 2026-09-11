@@ -15,7 +15,7 @@ const scriptTag = process.env.ANALYTICS_SCRIPT_TAG
   || '<script defer src="https://insight.ravelloh.com/script.js?siteId=5ace6623-f51b-4571-8f60-e0473ea3317b"></script>';
 const scriptNeedle = getScriptNeedle(scriptTag);
 const htmlMaxBytes = parsePositiveInt(process.env.HTML_MAX_BYTES || "1048576");
-const maxRepoSizeKb = parseNonNegativeInt(process.env.MAX_REPO_SIZE_KB || "250000");
+const maxRepoSizeKb = parseNonNegativeInt(process.env.MAX_REPO_SIZE_KB || "8388608");
 const maxTreeEntries = parseNonNegativeInt(process.env.MAX_TREE_ENTRIES || "20000");
 const maxHtmlFiles = parseNonNegativeInt(process.env.MAX_HTML_FILES || "500");
 const maxHtmlTotalBytes = parseNonNegativeInt(process.env.MAX_HTML_TOTAL_BYTES || "52428800");
