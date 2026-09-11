@@ -90,7 +90,7 @@ jobs:
           PAGES_SOURCE_PATH: /
           SITE_ORIGIN: https://webrpg.org
           RESULT_DIR: workflow-results
-          MAX_REPO_SIZE_KB: "250000"
+          MAX_REPO_SIZE_KB: "8388608"
           MAX_TREE_ENTRIES: "20000"
           MAX_HTML_FILES: "500"
           MAX_HTML_TOTAL_BYTES: "52428800"
