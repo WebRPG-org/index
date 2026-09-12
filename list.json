@@ -2737,7 +2737,7 @@
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "src/index.html",
-    "checkedAt": "2026-09-10T20:34:59.537Z",
+    "checkedAt": "2026-09-12T15:09:58.288Z",
     "forkName": "blocklet-rpgmaker-demo",
     "pagesUrl": "https://webrpg.org/blocklet-rpgmaker-demo/",
     "entryPath": "index.html",
@@ -2745,7 +2745,8 @@
     "validationScore": 115,
     "totalSize": 394162,
     "dataSize": 675212,
-    "sourceRepo": "blocklet/rpgmaker-demo"
+    "sourceRepo": "blocklet/rpgmaker-demo",
+    "lastCheckError": "GitHub API 403: Resource not accessible by integration"
   },
   {
     "id": "paraztekhitr-debug-adventure-call",
@@ -3078,7 +3079,7 @@
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "Animations/index.html",
-    "checkedAt": "2026-09-10T23:01:52.127Z",
+    "checkedAt": "2026-09-12T15:10:58.209Z",
     "forkName": "caiofov-AnimationGenerator-Dataset-PROPOR2024",
     "pagesUrl": "https://webrpg.org/caiofov-AnimationGenerator-Dataset-PROPOR2024/",
     "entryPath": "Animations/index.html",
@@ -3086,7 +3087,11 @@
     "validationScore": 115,
     "totalSize": 945608,
     "dataSize": 0,
-    "sourceRepo": "caiofov/AnimationGenerator-Dataset-PROPOR2024"
+    "sourceRepo": "caiofov/AnimationGenerator-Dataset-PROPOR2024",
+    "sourceDefaultBranch": "main",
+    "sourceHeadSha": "53f50a4cca57a950a9a94115b2a3b6ceb8062ea2",
+    "processedHeadSha": "ff238df68b29e5539fc08e209d540f2d9b58c225",
+    "syncedFromSource": true
   },
   {
     "id": "lamchingfung-2425-anti-fraudx",
@@ -3390,7 +3395,7 @@
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "civ/index.html",
-    "checkedAt": "2026-09-10T20:34:16.893Z",
+    "checkedAt": "2026-09-12T15:09:16.833Z",
     "forkName": "benjaminpants-benjaminpants.github.io",
     "pagesUrl": "https://webrpg.org/benjaminpants-benjaminpants.github.io/",
     "entryPath": "index.html",
@@ -3398,7 +3403,11 @@
     "validationScore": 115,
     "totalSize": 475032,
     "dataSize": 1386666,
-    "sourceRepo": "benjaminpants/benjaminpants.github.io"
+    "sourceRepo": "benjaminpants/benjaminpants.github.io",
+    "sourceDefaultBranch": "main",
+    "sourceHeadSha": "322733a20ff955331eaec28ea64b6f1437afb5a4",
+    "processedHeadSha": "852435167ec8c881e3ce38e3c880227b44a6b553",
+    "syncedFromSource": true
   },
   {
     "id": "avery-pierce-averypierce-me",
@@ -3411,7 +3420,7 @@
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "games/BasicRPG/www/index.html",
-    "checkedAt": "2026-09-10T20:33:46.424Z",
+    "checkedAt": "2026-09-12T15:08:54.403Z",
     "forkName": "avery-pierce-averypierce.me",
     "pagesUrl": "https://webrpg.org/avery-pierce-averypierce.me/",
     "entryPath": "games/BasicRPG/www/index.html",
@@ -3419,7 +3428,11 @@
     "validationScore": 115,
     "totalSize": 425748,
     "dataSize": 0,
-    "sourceRepo": "avery-pierce/averypierce.me"
+    "sourceRepo": "avery-pierce/averypierce.me",
+    "sourceDefaultBranch": "master",
+    "sourceHeadSha": "090f51036937eb61a6df08814890f0f12f84738d",
+    "processedHeadSha": "4c1d7908b605df0964815971af6b8894808f6f94",
+    "syncedFromSource": true
   },
   {
     "id": "savesub-bathroommaze-en",
@@ -4492,7 +4505,7 @@
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "9781484219669/9781484219669_Ch6/Chapter 6/index.html",
-    "checkedAt": "2026-09-10T16:01:30.109Z",
+    "checkedAt": "2026-09-12T15:08:39.654Z",
     "forkName": "Apress-beg-rpg-maker-mv",
     "pagesUrl": "https://webrpg.org/Apress-beg-rpg-maker-mv/",
     "entryPath": "9781484219669/9781484219669_Ch1/Chapter 1/index.html",
@@ -4500,7 +4513,11 @@
     "validationScore": 115,
     "totalSize": 402126,
     "dataSize": 0,
-    "sourceRepo": "Apress/beg-rpg-maker-mv"
+    "sourceRepo": "Apress/beg-rpg-maker-mv",
+    "sourceDefaultBranch": "master",
+    "sourceHeadSha": "008e49db37e27b4da612c53fe2061bee09f2c28e",
+    "processedHeadSha": "bf1be8e41359b68be07ead20dc181b2102c5f142",
+    "syncedFromSource": true
   },
   {
     "id": "ec-developer-hub-broadwayyyy",
@@ -6527,7 +6544,7 @@
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-09-10T20:35:44.186Z",
+    "checkedAt": "2026-09-12T15:10:42.486Z",
     "forkName": "brunolcarli-RPGMakerMVWeb3Integration_testgame",
     "pagesUrl": "https://webrpg.org/brunolcarli-RPGMakerMVWeb3Integration_testgame/",
     "entryPath": "index.html",
@@ -6535,7 +6552,11 @@
     "validationScore": 118,
     "totalSize": 388594,
     "dataSize": 850701,
-    "sourceRepo": "brunolcarli/RPGMakerMVWeb3Integration_testgame"
+    "sourceRepo": "brunolcarli/RPGMakerMVWeb3Integration_testgame",
+    "sourceDefaultBranch": "main",
+    "sourceHeadSha": "9ce3ad593b472ca84adf3a4494cc75dbba0f7220",
+    "processedHeadSha": "b12e75e7c68ad4213d4e9665d094a1c007bb7410",
+    "syncedFromSource": true
   },
   {
     "id": "adanrafli-dreamcore-x1",
@@ -7113,7 +7134,7 @@
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "js_copies/index.html",
-    "checkedAt": "2026-09-10T16:01:22.559Z",
+    "checkedAt": "2026-09-12T15:08:26.607Z",
     "forkName": "apollovy-fear-and-hunger",
     "pagesUrl": "https://webrpg.org/apollovy-fear-and-hunger/",
     "entryPath": "index.html",
@@ -7121,7 +7142,11 @@
     "validationScore": 118,
     "totalSize": 597857,
     "dataSize": 175769060,
-    "sourceRepo": "apollovy/fear-and-hunger"
+    "sourceRepo": "apollovy/fear-and-hunger",
+    "sourceDefaultBranch": "master",
+    "sourceHeadSha": "bdaefcb86c312a12056f68bbedf34ac1b34ffb74",
+    "processedHeadSha": "fae68787115164fa09c1b0d4c48ea92fde2eb0ea",
+    "syncedFromSource": true
   },
   {
     "id": "mattiefm-andyandlayley",
@@ -7939,7 +7964,7 @@
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "personalProjects/Get 2 School/game.html",
-    "checkedAt": "2026-09-10T20:35:00.575Z",
+    "checkedAt": "2026-09-12T15:10:03.053Z",
     "forkName": "Brand24376-Brand24376.github.io",
     "pagesUrl": "https://webrpg.org/Brand24376-Brand24376.github.io/",
     "entryPath": "personalProjects/Get 2 School/game.html",
@@ -7947,7 +7972,11 @@
     "validationScore": 110,
     "totalSize": 326693,
     "dataSize": 0,
-    "sourceRepo": "Brand24376/Brand24376.github.io"
+    "sourceRepo": "Brand24376/Brand24376.github.io",
+    "sourceDefaultBranch": "main",
+    "sourceHeadSha": "241ec2c910332b37c3a1e10f372505af96867f67",
+    "processedHeadSha": "d2c0f5055b579ec82b0876e504b9b1c46d05d918",
+    "syncedFromSource": true
   },
   {
     "id": "wasipo09-getschooled-alpha-1",
@@ -9388,7 +9417,7 @@
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-09-10T23:01:53.144Z",
+    "checkedAt": "2026-09-12T15:11:01.794Z",
     "forkName": "CamiiNyx-The-8-Elements",
     "pagesUrl": "https://webrpg.org/CamiiNyx-The-8-Elements/",
     "entryPath": "index.html",
@@ -9396,7 +9425,11 @@
     "validationScore": 118,
     "totalSize": 1391470,
     "dataSize": 19176538,
-    "sourceRepo": "CamiiNyx/The-8-Elements"
+    "sourceRepo": "CamiiNyx/The-8-Elements",
+    "sourceDefaultBranch": "main",
+    "sourceHeadSha": "287acaf6e9a7b5af1cf82c42bf95ce50cc1d9299",
+    "processedHeadSha": "1fb557724252cf5f9af70847c1eb2a1a17674628",
+    "syncedFromSource": true
   },
   {
     "id": "initialgproject-initialgproject",
@@ -9662,7 +9695,7 @@
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-09-10T20:34:28.950Z",
+    "checkedAt": "2026-09-12T15:09:31.558Z",
     "forkName": "blairwilcox-magic-battle",
     "pagesUrl": "https://webrpg.org/blairwilcox-magic-battle/",
     "entryPath": "index.html",
@@ -9670,7 +9703,11 @@
     "validationScore": 118,
     "totalSize": 400717,
     "dataSize": 680000,
-    "sourceRepo": "blairwilcox/magic-battle"
+    "sourceRepo": "blairwilcox/magic-battle",
+    "sourceDefaultBranch": "master",
+    "sourceHeadSha": "2e871734f9ca28bff3c4a014130f09e4a6bc64ee",
+    "processedHeadSha": "a3a059f8566bdc49011a7a8dd8e135b3fbf2a9be",
+    "syncedFromSource": true
   },
   {
     "id": "apress-make-a-2d-rpg-in-a-weekend-15",
@@ -9683,7 +9720,7 @@
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "Make a 2D RPG in a Weekend/index.html",
-    "checkedAt": "2026-09-10T16:01:25.350Z",
+    "checkedAt": "2026-09-12T15:08:10.370Z",
     "forkName": "Apress-make-a-2d-rpg-in-a-weekend-15",
     "pagesUrl": "https://webrpg.org/Apress-make-a-2d-rpg-in-a-weekend-15/",
     "entryPath": "Make a 2D RPG in a Weekend/index.html",
@@ -9691,7 +9728,11 @@
     "validationScore": 115,
     "totalSize": 400581,
     "dataSize": 0,
-    "sourceRepo": "Apress/make-a-2d-rpg-in-a-weekend-15"
+    "sourceRepo": "Apress/make-a-2d-rpg-in-a-weekend-15",
+    "sourceDefaultBranch": "master",
+    "sourceHeadSha": "11d34efa6ef8ad118048a34292cc59430f4d6c92",
+    "processedHeadSha": "04e6c83a0153c34557503da90b2cbb10fa307bdd",
+    "syncedFromSource": true
   },
   {
     "id": "xmandarava-plugins4rmmv",
@@ -10211,7 +10252,7 @@
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "murder is game over/gamereal/index.html",
-    "checkedAt": "2026-09-10T20:35:40.399Z",
+    "checkedAt": "2026-09-12T15:10:27.336Z",
     "forkName": "ButterToasty-games2",
     "pagesUrl": "https://webrpg.org/ButterToasty-games2/",
     "entryPath": "index.html",
@@ -10219,7 +10260,8 @@
     "validationScore": 115,
     "totalSize": 3453752,
     "dataSize": 1795873,
-    "sourceRepo": "ButterToasty/games2"
+    "sourceRepo": "ButterToasty/games2",
+    "lastCheckError": "GitHub API 403: Resource not accessible by integration"
   },
   {
     "id": "fairlyll-horror",
@@ -10763,11 +10805,11 @@
     "owner": "brooklynruff",
     "name": "d",
     "engine": "RPG Maker MV",
-    "status": "verified",
+    "status": "skipped_large",
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "other/omori/index.html",
-    "checkedAt": "2026-09-10T20:35:47.762Z",
+    "checkedAt": "2026-09-12T15:10:40.157Z",
     "forkName": "brooklynruff-d",
     "pagesUrl": "https://webrpg.org/brooklynruff-d/",
     "entryPath": "other/omori/index.html",
@@ -10775,7 +10817,8 @@
     "validationScore": 115,
     "totalSize": 18527660,
     "dataSize": 9730936,
-    "sourceRepo": "brooklynruff/d"
+    "sourceRepo": "brooklynruff/d",
+    "invalidReason": "Upstream repository size 18527660 KB exceeds the 8388608 KB limit."
   },
   {
     "id": "bucknbill-nothtmsgaming",
@@ -10948,7 +10991,7 @@
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "project/index.html",
-    "checkedAt": "2026-09-12T10:14:47.470Z",
+    "checkedAt": "2026-09-12T15:08:12.188Z",
     "forkName": "Escartem-OmoriSource",
     "lastCheckError": "GitHub API 502: Server Error"
   },
@@ -11951,7 +11994,7 @@
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "public/platina-the-wolf-and-the-heir-of-the-light/index.html",
-    "checkedAt": "2026-09-12T10:14:47.262Z",
+    "checkedAt": "2026-09-12T15:08:11.808Z",
     "forkName": "Laferu-platina-the-wolf",
     "lastCheckError": "GitHub API 502: Server Error"
   },
@@ -12109,7 +12152,7 @@
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "www/index.html",
-    "checkedAt": "2026-09-10T23:02:06.113Z",
+    "checkedAt": "2026-09-12T15:11:13.990Z",
     "forkName": "chanchipong1226-dev-project.repositry",
     "pagesUrl": "https://webrpg.org/chanchipong1226-dev-project.repositry/",
     "entryPath": "index.html",
@@ -12117,7 +12160,11 @@
     "validationScore": 115,
     "totalSize": 381796,
     "dataSize": 1598334,
-    "sourceRepo": "chanchipong1226-dev/project.repositry"
+    "sourceRepo": "chanchipong1226-dev/project.repositry",
+    "sourceDefaultBranch": "main",
+    "sourceHeadSha": "f04ca8fb2bf21005e4e9bfcd5323edaebc80a187",
+    "processedHeadSha": "856143d5119f69618a6747ab8138e86d106eb124",
+    "syncedFromSource": true
   },
   {
     "id": "dg12345689-rpgmaker0730",
@@ -12249,7 +12296,7 @@
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "www/index.html",
-    "checkedAt": "2026-09-10T20:33:41.362Z",
+    "checkedAt": "2026-09-12T15:08:51.311Z",
     "forkName": "asifexplore-Secret-Paladin",
     "pagesUrl": "https://webrpg.org/asifexplore-Secret-Paladin/",
     "entryPath": "index.html",
@@ -12257,7 +12304,11 @@
     "validationScore": 118,
     "totalSize": 400831,
     "dataSize": 914518,
-    "sourceRepo": "asifexplore/Secret-Paladin"
+    "sourceRepo": "asifexplore/Secret-Paladin",
+    "sourceDefaultBranch": "main",
+    "sourceHeadSha": "658c4f5a90b98415e44ef474f01951037f0cfa67",
+    "processedHeadSha": "73e933a36946fc046acdaf8bab670b20f54aa549",
+    "syncedFromSource": true
   },
   {
     "id": "chibibaku-rmmv-webhost",
@@ -12879,7 +12930,7 @@
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "ExampleProject_MV/index.html",
-    "checkedAt": "2026-09-10T20:35:54.560Z",
+    "checkedAt": "2026-09-12T15:10:45.748Z",
     "forkName": "cafel176-EventConditionPro",
     "pagesUrl": "https://webrpg.org/cafel176-EventConditionPro/",
     "entryPath": "ExampleProject_MV/index.html",
@@ -12887,7 +12938,11 @@
     "validationScore": 115,
     "totalSize": 484456,
     "dataSize": 0,
-    "sourceRepo": "cafel176/EventConditionPro"
+    "sourceRepo": "cafel176/EventConditionPro",
+    "sourceDefaultBranch": "main",
+    "sourceHeadSha": "d526614af2da60f91175d1e7866680796f146527",
+    "processedHeadSha": "459d0381d7cd3a513146dc2d1a2226810f5f7b40",
+    "syncedFromSource": true
   },
   {
     "id": "quxios-electronmv",
@@ -12982,15 +13037,19 @@
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "public/game/index.html",
-    "checkedAt": "2026-09-10T20:33:32.372Z",
+    "checkedAt": "2026-09-12T15:08:38.898Z",
     "forkName": "AnthonyGit1-QhatuLab-Frontend",
     "pagesUrl": "https://webrpg.org/AnthonyGit1-QhatuLab-Frontend/",
     "entryPath": "index.html",
     "cover": "https://webrpg.org/AnthonyGit1-QhatuLab-Frontend/cover.png",
-    "validationScore": 115,
+    "validationScore": 93,
     "totalSize": 399875,
     "dataSize": 717380,
-    "sourceRepo": "AnthonyGit1/QhatuLab-Frontend"
+    "sourceRepo": "AnthonyGit1/QhatuLab-Frontend",
+    "sourceDefaultBranch": "main",
+    "sourceHeadSha": "7a647c1985257748dd836120f9dcd9d7947db945",
+    "processedHeadSha": "10287663efbc1e5266909aad5a5e31d25555812d",
+    "syncedFromSource": true
   },
   {
     "id": "arise-qmv-master-demo-dev",
@@ -13027,7 +13086,7 @@
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "Quillquest 3 - The Finale/index.html",
-    "checkedAt": "2026-09-10T23:02:08.147Z",
+    "checkedAt": "2026-09-12T15:11:07.412Z",
     "forkName": "CheekiBreeki421-QuillQuest3",
     "pagesUrl": "https://webrpg.org/CheekiBreeki421-QuillQuest3/",
     "entryPath": "Quillquest 3 - The Finale/index.html",
@@ -13035,7 +13094,11 @@
     "validationScore": 115,
     "totalSize": 389489,
     "dataSize": 0,
-    "sourceRepo": "CheekiBreeki421/QuillQuest3"
+    "sourceRepo": "CheekiBreeki421/QuillQuest3",
+    "sourceDefaultBranch": "main",
+    "sourceHeadSha": "cc3bbb42306a8efa8f87fddcd383cdb299661ddb",
+    "processedHeadSha": "1e0922ff01a796992ffb6b1f287ed88e4dff4308",
+    "syncedFromSource": true
   },
   {
     "id": "rewrite2411-loginthiencuu2411",
@@ -13339,7 +13402,7 @@
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-09-10T20:34:53.429Z",
+    "checkedAt": "2026-09-12T15:09:48.178Z",
     "forkName": "BrenoLuna0-Reliquias-de-Fen",
     "pagesUrl": "https://webrpg.org/BrenoLuna0-Reliquias-de-Fen/",
     "entryPath": "index.html",
@@ -13347,7 +13410,11 @@
     "validationScore": 118,
     "totalSize": 404247,
     "dataSize": 1034621,
-    "sourceRepo": "BrenoLuna0/Reliquias-de-Fen"
+    "sourceRepo": "BrenoLuna0/Reliquias-de-Fen",
+    "sourceDefaultBranch": "master",
+    "sourceHeadSha": "6a0e1332dc7cd99d0c201e580658b3690ad3afcf",
+    "processedHeadSha": "d684fe1ec5591e0dc3c3776bc9fc488fc775c814",
+    "syncedFromSource": true
   },
   {
     "id": "byvalvin-excalibur",
@@ -13360,7 +13427,7 @@
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "excalibur/index.html",
-    "checkedAt": "2026-09-10T20:35:28.521Z",
+    "checkedAt": "2026-09-12T15:10:13.615Z",
     "forkName": "Byvalvin-Excalibur",
     "pagesUrl": "https://webrpg.org/Byvalvin-Excalibur/",
     "entryPath": "index.html",
@@ -13368,7 +13435,11 @@
     "validationScore": 115,
     "totalSize": 387801,
     "dataSize": 1627929,
-    "sourceRepo": "Byvalvin/Excalibur"
+    "sourceRepo": "Byvalvin/Excalibur",
+    "sourceDefaultBranch": "main",
+    "sourceHeadSha": "5cb859e5223a3cc28d94486c535c348b25e2a0ca",
+    "processedHeadSha": "4d449282e2be77511dd7ee4b5e193d6abd178d0a",
+    "syncedFromSource": true
   },
   {
     "id": "retrom-project-retrom",
@@ -13853,7 +13924,7 @@
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "Sanctuary/index.html",
-    "checkedAt": "2026-09-10T20:35:40.451Z",
+    "checkedAt": "2026-09-12T15:10:27.526Z",
     "forkName": "Byvalvin-Sanctuary",
     "pagesUrl": "https://webrpg.org/Byvalvin-Sanctuary/",
     "entryPath": "Sanctuary/index.html",
@@ -13861,7 +13932,11 @@
     "validationScore": 115,
     "totalSize": 440018,
     "dataSize": 0,
-    "sourceRepo": "Byvalvin/Sanctuary"
+    "sourceRepo": "Byvalvin/Sanctuary",
+    "sourceDefaultBranch": "main",
+    "sourceHeadSha": "78d319db34743092544bee3ad4b796c8452da188",
+    "processedHeadSha": "e046a317d1fe28682bce84f057f956978707230d",
+    "syncedFromSource": true
   },
   {
     "id": "sailorshulk9-test",
@@ -14167,7 +14242,7 @@
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "game.html",
-    "checkedAt": "2026-09-10T20:34:02.470Z",
+    "checkedAt": "2026-09-12T15:09:07.038Z",
     "forkName": "ArturllVale-esarmmv",
     "pagesUrl": "https://webrpg.org/ArturllVale-esarmmv/",
     "entryPath": "game.html",
@@ -14175,7 +14250,11 @@
     "validationScore": 110,
     "totalSize": 251370,
     "dataSize": 672947,
-    "sourceRepo": "ArturllVale/esarmmv"
+    "sourceRepo": "ArturllVale/esarmmv",
+    "sourceDefaultBranch": "master",
+    "sourceHeadSha": "f94403a9640aca184a3ddd1f799ac83863ae612f",
+    "processedHeadSha": "8aaa0179401642031209b88f324191c05d242ebe",
+    "syncedFromSource": true
   },
   {
     "id": "jkaz1968-output",
@@ -15185,7 +15264,7 @@
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-09-10T20:34:08.682Z",
+    "checkedAt": "2026-09-12T15:09:13.611Z",
     "forkName": "bigren0615-rpgMakerMV-CustomMainMenuLearning",
     "pagesUrl": "https://webrpg.org/bigren0615-rpgMakerMV-CustomMainMenuLearning/",
     "entryPath": "index.html",
@@ -15193,7 +15272,11 @@
     "validationScore": 118,
     "totalSize": 389227,
     "dataSize": 721673,
-    "sourceRepo": "bigren0615/rpgMakerMV-CustomMainMenuLearning"
+    "sourceRepo": "bigren0615/rpgMakerMV-CustomMainMenuLearning",
+    "sourceDefaultBranch": "main",
+    "sourceHeadSha": "2d1acac69e017649ee20bc7280f2a647f1ae9475",
+    "processedHeadSha": "0caed0bc3f66532d23f19c7270c5fe3f988a2c87",
+    "syncedFromSource": true
   },
   {
     "id": "samsam2310-zatho",
@@ -15231,15 +15314,19 @@
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "main/static/games/rpg/index.html",
-    "checkedAt": "2026-09-10T23:01:53.079Z",
+    "checkedAt": "2026-09-12T15:10:53.957Z",
     "forkName": "bywuuu-lecWeb",
     "pagesUrl": "https://webrpg.org/bywuuu-lecWeb/",
     "entryPath": "index.html",
     "cover": "https://webrpg.org/bywuuu-lecWeb/cover.png",
-    "validationScore": 115,
+    "validationScore": 118,
     "totalSize": 258915,
     "dataSize": 672028,
-    "sourceRepo": "bywuuu/lecWeb"
+    "sourceRepo": "bywuuu/lecWeb",
+    "sourceDefaultBranch": "master",
+    "sourceHeadSha": "6f734719ac159f5608605fd66eccca87485093a7",
+    "processedHeadSha": "dbf68b8ca82299f31bd03838026494c0f1129556",
+    "syncedFromSource": true
   },
   {
     "id": "nuyykatazou-theamazonia",
@@ -15324,7 +15411,7 @@
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "project/index.html",
-    "checkedAt": "2026-09-12T10:14:50.104Z",
+    "checkedAt": "2026-09-12T15:08:09.864Z",
     "forkName": "Escartem-TCOAALSource",
     "lastCheckError": "GitHub API 422: Sorry, your request timed out.  It's likely that your input was too large to process.  Consider building the tree incrementally, or building the commits you need in a local clone of the repository and then pushing them to GitHub."
   },
@@ -15545,7 +15632,7 @@
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-09-10T20:34:22.544Z",
+    "checkedAt": "2026-09-12T15:09:19.764Z",
     "forkName": "BintangFauzan-The-Letter",
     "pagesUrl": "https://webrpg.org/BintangFauzan-The-Letter/",
     "entryPath": "index.html",
@@ -15553,7 +15640,11 @@
     "validationScore": 118,
     "totalSize": 525511,
     "dataSize": 1337314,
-    "sourceRepo": "BintangFauzan/The-Letter"
+    "sourceRepo": "BintangFauzan/The-Letter",
+    "sourceDefaultBranch": "main",
+    "sourceHeadSha": "0d52bb1829403f538941f317c5bc36f0f308e88c",
+    "processedHeadSha": "3807cf47c15399fc124c82c128d8a6a010262912",
+    "syncedFromSource": true
   },
   {
     "id": "cppiod-eagle-s-crossing",
@@ -15612,7 +15703,7 @@
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "RPGMakerMVCollabProject/index.html",
-    "checkedAt": "2026-09-10T20:33:47.396Z",
+    "checkedAt": "2026-09-12T15:08:58.918Z",
     "forkName": "battousairurik-RPGMakerCollabProject",
     "pagesUrl": "https://webrpg.org/battousairurik-RPGMakerCollabProject/",
     "entryPath": "RPGMakerMVCollabProject/index.html",
@@ -15620,7 +15711,11 @@
     "validationScore": 115,
     "totalSize": 389608,
     "dataSize": 0,
-    "sourceRepo": "battousairurik/RPGMakerCollabProject"
+    "sourceRepo": "battousairurik/RPGMakerCollabProject",
+    "sourceDefaultBranch": "master",
+    "sourceHeadSha": "2b69268a1fd5fbe3f0a2e0f85e883554cdb1de37",
+    "processedHeadSha": "71c8b0a5ded970290906059500efccc54ecabc65",
+    "syncedFromSource": true
   },
   {
     "id": "polatrite-themindseyerpg",
@@ -15954,7 +16049,7 @@
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "Tomb Of Horrors/index.html",
-    "checkedAt": "2026-09-10T20:34:44.645Z",
+    "checkedAt": "2026-09-12T15:09:39.727Z",
     "forkName": "BooLAW-TombOfHorrors",
     "pagesUrl": "https://webrpg.org/BooLAW-TombOfHorrors/",
     "entryPath": "Tomb Of Horrors/index.html",
@@ -15962,7 +16057,11 @@
     "validationScore": 115,
     "totalSize": 470731,
     "dataSize": 0,
-    "sourceRepo": "BooLAW/TombOfHorrors"
+    "sourceRepo": "BooLAW/TombOfHorrors",
+    "sourceDefaultBranch": "master",
+    "sourceHeadSha": "b9b62910b621287cef30adce8beb55045a36a455",
+    "processedHeadSha": "c0809921100e3d810c82eb0c66693169433b56c2",
+    "syncedFromSource": true
   },
   {
     "id": "ikutronhd-touhou-era",
@@ -16047,7 +16146,7 @@
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "Projeto RPG Maker MV/Trucker Quest/index.html",
-    "checkedAt": "2026-09-10T20:33:24.754Z",
+    "checkedAt": "2026-09-12T15:08:44.211Z",
     "forkName": "arqui-dev-ProjetoCaminhoneiro",
     "pagesUrl": "https://webrpg.org/arqui-dev-ProjetoCaminhoneiro/",
     "entryPath": "Projeto RPG Maker MV/Trucker Quest/index.html",
@@ -16055,7 +16154,11 @@
     "validationScore": 115,
     "totalSize": 441764,
     "dataSize": 0,
-    "sourceRepo": "arqui-dev/ProjetoCaminhoneiro"
+    "sourceRepo": "arqui-dev/ProjetoCaminhoneiro",
+    "sourceDefaultBranch": "master",
+    "sourceHeadSha": "a7742c49647871e6796d08f135c860afec542557",
+    "processedHeadSha": "d5b2546e5ad875c9cb0543adf2fb3aa7b976be54",
+    "syncedFromSource": true
   },
   {
     "id": "xymol-tsmgi",
@@ -16111,7 +16214,7 @@
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-09-10T20:35:13.986Z",
+    "checkedAt": "2026-09-12T15:10:10.983Z",
     "forkName": "briancain-tutorial-test",
     "pagesUrl": "https://webrpg.org/briancain-tutorial-test/",
     "entryPath": "index.html",
@@ -16119,7 +16222,11 @@
     "validationScore": 118,
     "totalSize": 388577,
     "dataSize": 1067303,
-    "sourceRepo": "briancain/tutorial-test"
+    "sourceRepo": "briancain/tutorial-test",
+    "sourceDefaultBranch": "master",
+    "sourceHeadSha": "22d3fc546f4b53f41e1e73415b50a457ff1f70b3",
+    "processedHeadSha": "5ae5a2c735a6f33bbd362102c84963ed44e41038",
+    "syncedFromSource": true
   },
   {
     "id": "mysterymagination-twilightning",
