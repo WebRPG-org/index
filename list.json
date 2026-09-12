@@ -2032,7 +2032,7 @@
     "owner": "cyh0521",
     "name": "rpg",
     "engine": "RPG Maker MV",
-    "status": "verified",
+    "status": "duplicate_name",
     "duplicateReason": "Repository name already exists in list.json.",
     "checkedAt": "2026-09-11T23:08:01.849Z",
     "forkName": "cyh0521-rpg",
