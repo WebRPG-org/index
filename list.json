@@ -2737,7 +2737,7 @@
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "src/index.html",
-    "checkedAt": "2026-09-12T15:09:58.288Z",
+    "checkedAt": "2026-09-12T20:18:56.006Z",
     "forkName": "blocklet-rpgmaker-demo",
     "pagesUrl": "https://webrpg.org/blocklet-rpgmaker-demo/",
     "entryPath": "index.html",
@@ -3497,7 +3497,7 @@
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-06-18T08:40:22.539Z",
+    "checkedAt": "2026-09-12T20:21:38.426Z",
     "forkName": "didgogns-MineHero",
     "pagesUrl": "https://webrpg.org/didgogns-MineHero/",
     "entryPath": "index.html",
@@ -3505,7 +3505,11 @@
     "validationScore": 118,
     "totalSize": 113086,
     "dataSize": 21053190,
-    "sourceRepo": "didgogns/MineHero"
+    "sourceRepo": "didgogns/MineHero",
+    "sourceDefaultBranch": "main",
+    "sourceHeadSha": "5bac973fa34cce3b31099b1231c0a6f93cd4e6a2",
+    "processedHeadSha": "5ae736841b0c54981c74f7dfcfeb0a9f054267b5",
+    "syncedFromSource": true
   },
   {
     "id": "diegoliveros-diegoliveros-github-io",
@@ -5070,7 +5074,7 @@
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-09-10T23:03:46.873Z",
+    "checkedAt": "2026-09-12T20:21:34.276Z",
     "forkName": "DewandraR-College-Live",
     "pagesUrl": "https://webrpg.org/DewandraR-College-Live/",
     "entryPath": "index.html",
@@ -5078,7 +5082,11 @@
     "validationScore": 118,
     "totalSize": 389010,
     "dataSize": 859552,
-    "sourceRepo": "DewandraR/College-Live"
+    "sourceRepo": "DewandraR/College-Live",
+    "sourceDefaultBranch": "main",
+    "sourceHeadSha": "7687b9b3f048ce9809a64189db55f18e5dc0da52",
+    "processedHeadSha": "56d000dbefd30fd8df2e04465ee31448f9f098b5",
+    "syncedFromSource": true
   },
   {
     "id": "blairwilcox-colosseum",
@@ -5323,7 +5331,7 @@
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-09-10T23:03:32.248Z",
+    "checkedAt": "2026-09-12T20:21:17.287Z",
     "forkName": "Dejely-Bean-Studios-Crime-Never-Sleeps",
     "pagesUrl": "https://webrpg.org/Dejely-Bean-Studios-Crime-Never-Sleeps/",
     "entryPath": "index.html",
@@ -5331,7 +5339,11 @@
     "validationScore": 118,
     "totalSize": 427749,
     "dataSize": 1414626,
-    "sourceRepo": "Dejely-Bean-Studios/Crime-Never-Sleeps"
+    "sourceRepo": "Dejely-Bean-Studios/Crime-Never-Sleeps",
+    "sourceDefaultBranch": "main",
+    "sourceHeadSha": "c12d6b235f3e371d82a9f0a7c65ee17aac6e1064",
+    "processedHeadSha": "60047a93f063972cf961e504f1e7d988e464a170",
+    "syncedFromSource": true
   },
   {
     "id": "soapstain22-crimpoquestmv",
@@ -5461,15 +5473,19 @@
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "www/index.html",
-    "checkedAt": "2026-09-10T23:03:11.801Z",
+    "checkedAt": "2026-09-12T20:20:48.623Z",
     "forkName": "Cute-Fame-Studio-cutefamedemo",
     "pagesUrl": "https://webrpg.org/Cute-Fame-Studio-cutefamedemo/",
     "entryPath": "index.html",
     "cover": "https://webrpg.org/Cute-Fame-Studio-cutefamedemo/cover.png",
-    "validationScore": 115,
+    "validationScore": 118,
     "totalSize": 262147,
     "dataSize": 1675774,
-    "sourceRepo": "Cute-Fame-Studio/cutefamedemo"
+    "sourceRepo": "Cute-Fame-Studio/cutefamedemo",
+    "sourceDefaultBranch": "main",
+    "sourceHeadSha": "893fe74fd12f92a002aba5144a4c3cb4eb57b388",
+    "processedHeadSha": "43799cbb941f46c26f1548da99990bfaedf165ce",
+    "syncedFromSource": true
   },
   {
     "id": "4nddrs-cyber-tech",
@@ -5583,7 +5599,7 @@
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "DarkestValley/index.html",
-    "checkedAt": "2026-09-10T23:03:31.685Z",
+    "checkedAt": "2026-09-12T20:21:16.991Z",
     "forkName": "davidlopez3D-project_darkestvalley",
     "pagesUrl": "https://webrpg.org/davidlopez3D-project_darkestvalley/",
     "entryPath": "DarkestValley/index.html",
@@ -5591,7 +5607,11 @@
     "validationScore": 115,
     "totalSize": 764940,
     "dataSize": 0,
-    "sourceRepo": "davidlopez3D/project_darkestvalley"
+    "sourceRepo": "davidlopez3D/project_darkestvalley",
+    "sourceDefaultBranch": "main",
+    "sourceHeadSha": "64a3bbecc0c2411609e9617be32c1af993703187",
+    "processedHeadSha": "27b682ef73a30893964cfd96437aed347017b5bc",
+    "syncedFromSource": true
   },
   {
     "id": "sheikhsafwan-daybreak",
@@ -6112,7 +6132,7 @@
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "rmmv/DemoCreditsMardown/index.html",
-    "checkedAt": "2026-09-10T23:03:32.885Z",
+    "checkedAt": "2026-09-12T20:21:34.893Z",
     "forkName": "deogracia-rpgmaker-CreditsMarkdown",
     "pagesUrl": "https://webrpg.org/deogracia-rpgmaker-CreditsMarkdown/",
     "entryPath": "rmmv/DemoCreditsMardown/index.html",
@@ -6120,7 +6140,11 @@
     "validationScore": 115,
     "totalSize": 388559,
     "dataSize": 0,
-    "sourceRepo": "deogracia/rpgmaker-CreditsMarkdown"
+    "sourceRepo": "deogracia/rpgmaker-CreditsMarkdown",
+    "sourceDefaultBranch": "main",
+    "sourceHeadSha": "67aceb00162ddafacee9c25dc08dd7193d078c3a",
+    "processedHeadSha": "4ffa63a42d0c8653035d40a678cbd68e13ae60f6",
+    "syncedFromSource": true
   },
   {
     "id": "uppteam-uppteam-github-io",
@@ -6696,7 +6720,7 @@
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "www/index.html",
-    "checkedAt": "2026-09-10T23:02:18.598Z",
+    "checkedAt": "2026-09-12T20:19:20.653Z",
     "forkName": "chruscikszef-dzzt-android",
     "pagesUrl": "https://webrpg.org/chruscikszef-dzzt-android/",
     "entryPath": "index.html",
@@ -6704,7 +6728,8 @@
     "validationScore": 115,
     "totalSize": 107678,
     "dataSize": 3406191,
-    "sourceRepo": "chruscikszef/dzzt-android"
+    "sourceRepo": "chruscikszef/dzzt-android",
+    "lastCheckError": "GitHub API 403: Resource not accessible by integration"
   },
   {
     "id": "botakhage-eduventure",
@@ -8384,7 +8409,7 @@
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-06-18T08:40:39.452Z",
+    "checkedAt": "2026-09-12T20:21:48.832Z",
     "forkName": "discus-sions-The-Fall-PREVIEW1",
     "pagesUrl": "https://webrpg.org/discus-sions-The-Fall-PREVIEW1/",
     "entryPath": "index.html",
@@ -8392,7 +8417,11 @@
     "validationScore": 118,
     "totalSize": 401206,
     "dataSize": 1295748,
-    "sourceRepo": "discus-sions/The-Fall-PREVIEW1"
+    "sourceRepo": "discus-sions/The-Fall-PREVIEW1",
+    "sourceDefaultBranch": "main",
+    "sourceHeadSha": "ad0556915082d9f4dbbd8cd44579196a6ee36e08",
+    "processedHeadSha": "1377a36e1d31189e1110d8a9c1ee7b3dfc3b499d",
+    "syncedFromSource": true
   },
   {
     "id": "pbkn-hbd-rpg",
@@ -9150,7 +9179,7 @@
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-06-18T08:42:33.482Z",
+    "checkedAt": "2026-09-12T20:22:06.070Z",
     "forkName": "ealiagay-RPG-Web-Game-Vercel",
     "pagesUrl": "https://webrpg.org/ealiagay-RPG-Web-Game-Vercel/",
     "entryPath": "index.html",
@@ -9158,7 +9187,11 @@
     "validationScore": 118,
     "totalSize": 155246,
     "dataSize": 900190,
-    "sourceRepo": "ealiagay/RPG-Web-Game-Vercel"
+    "sourceRepo": "ealiagay/RPG-Web-Game-Vercel",
+    "sourceDefaultBranch": "main",
+    "sourceHeadSha": "047f68feac3d874db754af474472992dd0e60b3f",
+    "processedHeadSha": "2e45842d1c5d6d49e6d9348c3c859fdf7abdd597",
+    "syncedFromSource": true
   },
   {
     "id": "davidcolla11-la-cruzada-del-ebola",
@@ -9171,7 +9204,7 @@
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-09-10T23:03:26.108Z",
+    "checkedAt": "2026-09-12T20:21:25.964Z",
     "forkName": "davidcolla11-La-Cruzada-del-Ebola",
     "pagesUrl": "https://webrpg.org/davidcolla11-La-Cruzada-del-Ebola/",
     "entryPath": "index.html",
@@ -9179,7 +9212,11 @@
     "validationScore": 118,
     "totalSize": 439302,
     "dataSize": 1275692,
-    "sourceRepo": "davidcolla11/La-Cruzada-del-Ebola"
+    "sourceRepo": "davidcolla11/La-Cruzada-del-Ebola",
+    "sourceDefaultBranch": "main",
+    "sourceHeadSha": "bb766c9c74440d3358d5fe7423df4ccaf05ff748",
+    "processedHeadSha": "d124ba14a5bf568884a6003298f33defd7e37fc9",
+    "syncedFromSource": true
   },
   {
     "id": "cesarvfilo-videojuegosyfilosofia",
@@ -9248,7 +9285,7 @@
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-06-18T08:42:03.844Z",
+    "checkedAt": "2026-09-12T20:22:03.234Z",
     "forkName": "drusepth-game-sandbox",
     "pagesUrl": "https://webrpg.org/drusepth-game-sandbox/",
     "entryPath": "index.html",
@@ -9256,7 +9293,11 @@
     "validationScore": 118,
     "totalSize": 404370,
     "dataSize": 973973,
-    "sourceRepo": "drusepth/game-sandbox"
+    "sourceRepo": "drusepth/game-sandbox",
+    "sourceDefaultBranch": "master",
+    "sourceHeadSha": "0cafc47edc43ae6900d4968e4b6b52ad843b7692",
+    "processedHeadSha": "dcc1902cb3ba7488a87c031caad0154ab22281d2",
+    "syncedFromSource": true
   },
   {
     "id": "kenshindias-kenshindias-github-io",
@@ -9991,7 +10032,7 @@
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "09 RPGMaker/Touhou Game Jam/index.html",
-    "checkedAt": "2026-09-10T23:02:45.062Z",
+    "checkedAt": "2026-09-12T20:20:00.121Z",
     "forkName": "CopperChihuahua-Coppers-Touhou-Game-Jam",
     "pagesUrl": "https://webrpg.org/CopperChihuahua-Coppers-Touhou-Game-Jam/",
     "entryPath": "09 RPGMaker/Touhou Game Jam/index.html",
@@ -9999,7 +10040,11 @@
     "validationScore": 115,
     "totalSize": 497790,
     "dataSize": 0,
-    "sourceRepo": "CopperChihuahua/Coppers-Touhou-Game-Jam"
+    "sourceRepo": "CopperChihuahua/Coppers-Touhou-Game-Jam",
+    "sourceDefaultBranch": "master",
+    "sourceHeadSha": "0a6bc322950e615501c405011161ba3a05cc922c",
+    "processedHeadSha": "a1132cc229025d12b9ab3d7890cc3d03313ce50e",
+    "syncedFromSource": true
   },
   {
     "id": "nad795-memories-of-you-demo-version",
@@ -10264,7 +10309,7 @@
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "murder is game over/gamereal/index.html",
-    "checkedAt": "2026-09-12T15:10:27.336Z",
+    "checkedAt": "2026-09-12T20:19:46.829Z",
     "forkName": "ButterToasty-games2",
     "pagesUrl": "https://webrpg.org/ButterToasty-games2/",
     "entryPath": "index.html",
@@ -10945,14 +10990,18 @@
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-06-18T08:42:24.604Z",
+    "checkedAt": "2026-09-12T20:22:14.575Z",
     "forkName": "duong1234-li-HeroMOD",
     "pagesUrl": "https://webrpg.org/duong1234-li-HeroMOD/",
     "entryPath": "index.html",
     "validationScore": 118,
-    "totalSize": 1533472,
+    "totalSize": 1532529,
     "dataSize": 70963531,
-    "sourceRepo": "duong1234-li/HeroMOD"
+    "sourceRepo": "duong1234-li/HeroMOD",
+    "sourceDefaultBranch": "main",
+    "sourceHeadSha": "8a04c6fdfab70d6950e8331dc5b80875916aa626",
+    "processedHeadSha": "61f32ea032322e09a988982fbed8efa120764f9b",
+    "syncedFromSource": true
   },
   {
     "id": "eclipse353-luminis",
@@ -11003,7 +11052,7 @@
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "project/index.html",
-    "checkedAt": "2026-09-12T15:08:12.188Z",
+    "checkedAt": "2026-09-12T20:18:54.278Z",
     "forkName": "Escartem-OmoriSource",
     "lastCheckError": "GitHub API 502: Server Error"
   },
@@ -12006,7 +12055,7 @@
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "public/platina-the-wolf-and-the-heir-of-the-light/index.html",
-    "checkedAt": "2026-09-12T15:08:11.808Z",
+    "checkedAt": "2026-09-12T20:18:53.707Z",
     "forkName": "Laferu-platina-the-wolf",
     "lastCheckError": "GitHub API 502: Server Error"
   },
@@ -12333,7 +12382,7 @@
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "game/index.html",
-    "checkedAt": "2026-09-10T23:02:09.492Z",
+    "checkedAt": "2026-09-12T20:19:21.170Z",
     "forkName": "chibibaku-rmmv-webhost",
     "pagesUrl": "https://webrpg.org/chibibaku-rmmv-webhost/",
     "entryPath": "index.html",
@@ -12341,7 +12390,11 @@
     "validationScore": 115,
     "totalSize": 291866,
     "dataSize": 722277,
-    "sourceRepo": "chibibaku/rmmv-webhost"
+    "sourceRepo": "chibibaku/rmmv-webhost",
+    "sourceDefaultBranch": "main",
+    "sourceHeadSha": "dbab18e17ed7b552052bc17de77a8d774f741f08",
+    "processedHeadSha": "9d29d014236ebdb38a006ae4d3ac9ef21664db00",
+    "syncedFromSource": true
   },
   {
     "id": "ckeiser2-ckeiser2-github-io",
@@ -12380,7 +12433,7 @@
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "assets/games/rpgmaker/Project1/index.html",
-    "checkedAt": "2026-09-10T23:02:26.825Z",
+    "checkedAt": "2026-09-12T20:19:37.484Z",
     "forkName": "ckeiser2-portfolio",
     "pagesUrl": "https://webrpg.org/ckeiser2-portfolio/",
     "entryPath": "assets/games/rpgmaker/Project1/index.html",
@@ -12388,7 +12441,8 @@
     "validationScore": 115,
     "totalSize": 573390,
     "dataSize": 0,
-    "sourceRepo": "ckeiser2/portfolio"
+    "sourceRepo": "ckeiser2/portfolio",
+    "lastCheckError": "GitHub API 422: Update is not a fast forward"
   },
   {
     "id": "diegonave-diegonave-github-io",
@@ -12401,7 +12455,7 @@
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-06-18T08:40:37.333Z",
+    "checkedAt": "2026-09-12T20:21:47.284Z",
     "forkName": "DiegoNave-diegonave.github.io",
     "pagesUrl": "https://webrpg.org/DiegoNave-diegonave.github.io/",
     "entryPath": "index.html",
@@ -12409,7 +12463,11 @@
     "validationScore": 118,
     "totalSize": 404587,
     "dataSize": 988049,
-    "sourceRepo": "DiegoNave/diegonave.github.io"
+    "sourceRepo": "DiegoNave/diegonave.github.io",
+    "sourceDefaultBranch": "main",
+    "sourceHeadSha": "0749d65c391fc93d7891201b4190debe300fd2d9",
+    "processedHeadSha": "50ac6596b7fbff1775d6d0e89d9d9676bcd5084e",
+    "syncedFromSource": true
   },
   {
     "id": "fernando-simaoo-the-legend-of-brick",
@@ -13360,7 +13418,7 @@
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-06-18T08:42:32.706Z",
+    "checkedAt": "2026-09-12T20:22:25.664Z",
     "forkName": "Dyloso-AttacksOnDDD",
     "pagesUrl": "https://webrpg.org/Dyloso-AttacksOnDDD/",
     "entryPath": "index.html",
@@ -13368,7 +13426,11 @@
     "validationScore": 118,
     "totalSize": 838253,
     "dataSize": 24391567,
-    "sourceRepo": "Dyloso/AttacksOnDDD"
+    "sourceRepo": "Dyloso/AttacksOnDDD",
+    "sourceDefaultBranch": "main",
+    "sourceHeadSha": "df7fc4928380c73cd696613ab29e9e0a4e1a761e",
+    "processedHeadSha": "773c3eb53d61532794530c8e70d7913d94c8fd99",
+    "syncedFromSource": true
   },
   {
     "id": "framormar-rpg-adventure-windows",
@@ -13671,7 +13733,7 @@
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "game/index.html",
-    "checkedAt": "2026-09-10T23:02:33.891Z",
+    "checkedAt": "2026-09-12T20:19:59.384Z",
     "forkName": "CJTan0503-RPGFantasy",
     "pagesUrl": "https://webrpg.org/CJTan0503-RPGFantasy/",
     "entryPath": "index.html",
@@ -13679,7 +13741,11 @@
     "validationScore": 115,
     "totalSize": 389488,
     "dataSize": 713365,
-    "sourceRepo": "CJTan0503/RPGFantasy"
+    "sourceRepo": "CJTan0503/RPGFantasy",
+    "sourceDefaultBranch": "main",
+    "sourceHeadSha": "a55c03ba4344ef4fe1c6d987a01b850f387bb099",
+    "processedHeadSha": "847b248b0b7a0e8a0b578c144072761a1e0b8bf5",
+    "syncedFromSource": true
   },
   {
     "id": "a2937-rpg-maker-mv-test-template",
@@ -14136,7 +14202,7 @@
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-09-10T23:02:58.242Z",
+    "checkedAt": "2026-09-12T20:20:23.094Z",
     "forkName": "DaffaDaff-pengembangan-game",
     "pagesUrl": "https://webrpg.org/DaffaDaff-pengembangan-game/",
     "entryPath": "index.html",
@@ -14144,7 +14210,11 @@
     "validationScore": 118,
     "totalSize": 397514,
     "dataSize": 1211873,
-    "sourceRepo": "DaffaDaff/pengembangan-game"
+    "sourceRepo": "DaffaDaff/pengembangan-game",
+    "sourceDefaultBranch": "main",
+    "sourceHeadSha": "65ba20ac1ff602fb5123e218abd1b5d0e777fe13",
+    "processedHeadSha": "b892236273f4cb60daabe0d96334f54c5e54f511",
+    "syncedFromSource": true
   },
   {
     "id": "aak581-blokkat-arabicblockchain-developer-bootcamp-graduation-project",
@@ -15103,15 +15173,19 @@
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "app/src/main/assets/www/index.html",
-    "checkedAt": "2026-09-10T23:03:05.052Z",
+    "checkedAt": "2026-09-12T20:20:23.172Z",
     "forkName": "Corddt-RPG_Maker_toAndroid",
     "pagesUrl": "https://webrpg.org/Corddt-RPG_Maker_toAndroid/",
     "entryPath": "index.html",
     "cover": "https://webrpg.org/Corddt-RPG_Maker_toAndroid/cover.png",
-    "validationScore": 115,
+    "validationScore": 118,
     "totalSize": 292313,
     "dataSize": 669500,
-    "sourceRepo": "Corddt/RPG_Maker_toAndroid"
+    "sourceRepo": "Corddt/RPG_Maker_toAndroid",
+    "sourceDefaultBranch": "master",
+    "sourceHeadSha": "2905740242aab15edcd0ae9b5b6842c5f1f4cb85",
+    "processedHeadSha": "eb6c3d1dfe49e667bcd09321970c15cf364176e4",
+    "syncedFromSource": true
   },
   {
     "id": "sin-hu-study",
@@ -15423,7 +15497,7 @@
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "project/index.html",
-    "checkedAt": "2026-09-12T15:08:09.864Z",
+    "checkedAt": "2026-09-12T20:18:55.191Z",
     "forkName": "Escartem-TCOAALSource",
     "lastCheckError": "GitHub API 422: Sorry, your request timed out.  It's likely that your input was too large to process.  Consider building the tree incrementally, or building the commits you need in a local clone of the repository and then pushing them to GitHub."
   },
@@ -15525,7 +15599,7 @@
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "www/index.html",
-    "checkedAt": "2026-06-18T08:41:27.531Z",
+    "checkedAt": "2026-09-12T20:21:59.400Z",
     "forkName": "drclcomputers-The-Curse-of-The-Sceptrum",
     "pagesUrl": "https://webrpg.org/drclcomputers-The-Curse-of-The-Sceptrum/",
     "entryPath": "index.html",
@@ -15533,7 +15607,11 @@
     "validationScore": 115,
     "totalSize": 381051,
     "dataSize": 1265928,
-    "sourceRepo": "drclcomputers/The-Curse-of-The-Sceptrum"
+    "sourceRepo": "drclcomputers/The-Curse-of-The-Sceptrum",
+    "sourceDefaultBranch": "main",
+    "sourceHeadSha": "592c7343f83b72c39f60de188394732f3d500854",
+    "processedHeadSha": "5686ee94cf754b020bf8787503987e750761afad",
+    "syncedFromSource": true
   },
   {
     "id": "dcarlin-devil-king-rpgmaker-mv-game",
@@ -15598,7 +15676,7 @@
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-06-18T08:40:58.802Z",
+    "checkedAt": "2026-09-12T20:21:54.786Z",
     "forkName": "discus-sions-The-Fall-PREVIEW2",
     "pagesUrl": "https://webrpg.org/discus-sions-The-Fall-PREVIEW2/",
     "entryPath": "index.html",
@@ -15606,7 +15684,11 @@
     "validationScore": 118,
     "totalSize": 413697,
     "dataSize": 1378419,
-    "sourceRepo": "discus-sions/The-Fall-PREVIEW2"
+    "sourceRepo": "discus-sions/The-Fall-PREVIEW2",
+    "sourceDefaultBranch": "main",
+    "sourceHeadSha": "a44840735abca900d8b89d621a9144b9d2d48264",
+    "processedHeadSha": "f74d1dc339c906de8fcff76faec525020bf544fd",
+    "syncedFromSource": true
   },
   {
     "id": "reismahnic-farmhorrorgame",
@@ -15669,7 +15751,7 @@
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-09-10T23:02:50.141Z",
+    "checkedAt": "2026-09-12T20:20:01.631Z",
     "forkName": "cppiod-Eagle-s-Crossing",
     "pagesUrl": "https://webrpg.org/cppiod-Eagle-s-Crossing/",
     "entryPath": "index.html",
@@ -15677,7 +15759,11 @@
     "validationScore": 118,
     "totalSize": 388614,
     "dataSize": 1440734,
-    "sourceRepo": "cppiod/Eagle-s-Crossing"
+    "sourceRepo": "cppiod/Eagle-s-Crossing",
+    "sourceDefaultBranch": "master",
+    "sourceHeadSha": "1a5f3b3554838836734d82a41cb351a687c2416a",
+    "processedHeadSha": "b0eadacdd8094847cb6cee06958882522d78a08c",
+    "syncedFromSource": true
   },
   {
     "id": "shivanshs9-mmorpg-tlo",
@@ -16205,7 +16291,7 @@
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-09-10T23:03:18.974Z",
+    "checkedAt": "2026-09-12T20:20:48.517Z",
     "forkName": "Darlos9D-TurnBasedStrategy",
     "pagesUrl": "https://webrpg.org/Darlos9D-TurnBasedStrategy/",
     "entryPath": "index.html",
@@ -16213,7 +16299,11 @@
     "validationScore": 118,
     "totalSize": 1103808,
     "dataSize": 2736823,
-    "sourceRepo": "Darlos9D/TurnBasedStrategy"
+    "sourceRepo": "Darlos9D/TurnBasedStrategy",
+    "sourceDefaultBranch": "master",
+    "sourceHeadSha": "0e89e04a355cc6077ad8c75b5b00c9f86fb0d156",
+    "processedHeadSha": "97519f4ebbbdfb286250e83c26a67a511dc642ff",
+    "syncedFromSource": true
   },
   {
     "id": "briancain-tutorial-test",
@@ -16719,15 +16809,19 @@
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-09-10T23:03:12.176Z",
+    "checkedAt": "2026-09-12T20:21:22.679Z",
     "forkName": "Darius1325-the-enemy-within",
     "pagesUrl": "https://webrpg.org/Darius1325-the-enemy-within/",
     "entryPath": "index.html",
     "cover": "https://webrpg.org/Darius1325-the-enemy-within/cover.png",
     "validationScore": 118,
-    "totalSize": 440974,
+    "totalSize": 494548,
     "dataSize": 4912143,
-    "sourceRepo": "Darius1325/the-enemy-within"
+    "sourceRepo": "Darius1325/the-enemy-within",
+    "sourceDefaultBranch": "main",
+    "sourceHeadSha": "e7046cd23fee58f8162b2511705b72e887e18253",
+    "processedHeadSha": "d668665a92d7897f29a3e398d5fe217a2d2fe678",
+    "syncedFromSource": true
   },
   {
     "id": "mysterymagination-weirdwyrdworld",
@@ -17009,15 +17103,19 @@
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-09-10T23:02:58.835Z",
+    "checkedAt": "2026-09-12T20:20:24.132Z",
     "forkName": "Dalk12-DD",
     "pagesUrl": "https://webrpg.org/Dalk12-DD/",
     "entryPath": "index.html",
     "cover": "https://webrpg.org/Dalk12-DD/cover.png",
     "validationScore": 118,
-    "totalSize": 694925,
+    "totalSize": 744934,
     "dataSize": 2707465,
-    "sourceRepo": "Dalk12/DD"
+    "sourceRepo": "Dalk12/DD",
+    "sourceDefaultBranch": "main",
+    "sourceHeadSha": "a745a35380441c31d47a2cc9409b5c756d004422",
+    "processedHeadSha": "ee7a6ef9f174b011416e63df12a0acf9011499f9",
+    "syncedFromSource": true
   },
   {
     "id": "tmedrei-pereh2",
@@ -17153,15 +17251,15 @@
   {
     "id": "ciart-knightdream-old",
     "title": "기사몽",
-    "repo": "https://github.com/Ciart/KnightDream-Old",
-    "owner": "Ciart",
+    "repo": "https://github.com/ciart/KnightDream-Old",
+    "owner": "ciart",
     "name": "KnightDream-Old",
     "engine": "RPG Maker MV",
     "status": "verified",
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-09-10T23:02:23.806Z",
+    "checkedAt": "2026-09-12T20:19:35.336Z",
     "forkName": "Ciart-KnightDream-Old",
     "pagesUrl": "https://webrpg.org/Ciart-KnightDream-Old/",
     "entryPath": "index.html",
@@ -17169,7 +17267,11 @@
     "validationScore": 118,
     "totalSize": 425972,
     "dataSize": 3155371,
-    "sourceRepo": "Ciart/KnightDream-Old"
+    "sourceRepo": "ciart/KnightDream-Old",
+    "sourceDefaultBranch": "master",
+    "sourceHeadSha": "a9dc2f325d957e015be2e799af1d692e133df2ce",
+    "processedHeadSha": "e0865b3f593b68d46afa9f696476203b0656bddc",
+    "syncedFromSource": true
   },
   {
     "id": "gyhgwangju-sinacs-rhythmqte",
