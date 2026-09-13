@@ -16838,6 +16838,18 @@
     "sourcePath": "index.html"
   },
   {
+    "id": "nebuli-os-nebuli-os-github-io",
+    "title": "University of Adelaide",
+    "repo": "https://github.com/Nebuli-OS/Nebuli-OS.github.io",
+    "owner": "Nebuli-OS",
+    "name": "Nebuli-OS.github.io",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "discoveredAt": "2026-09-13T20:21:57.881Z",
+    "source": "github-code-search",
+    "sourcePath": "assets/game/c/omori.html"
+  },
+  {
     "id": "wanocapy-chickenkingsvault",
     "title": "University of Adelaide",
     "repo": "https://github.com/WanoCapy/ChickenKingsVault",
