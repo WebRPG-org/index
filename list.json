@@ -35,16 +35,20 @@
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "demo/index.html",
-    "checkedAt": "2026-06-19T04:26:08.057Z",
+    "checkedAt": "2026-09-13T15:47:28.369Z",
     "forkName": "katai5plate-Demoscene-2017",
     "lastCheckError": "GitHub API 403: API rate limit exceeded for installation ID 140358813. If you reach out to GitHub Support for help, please include the request ID C453:260F5:7564AF2:1B17C03D:6A348F0D and timestamp 2026-06-19 00:36:29 UTC. For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service)",
     "pagesUrl": "https://webrpg.org/katai5plate-Demoscene-2017/",
     "entryPath": "index.html",
     "cover": "https://webrpg.org/katai5plate-Demoscene-2017/cover.png",
-    "validationScore": 115,
+    "validationScore": 118,
     "totalSize": 3775,
     "dataSize": 322419,
-    "sourceRepo": "katai5plate/Demoscene-2017"
+    "sourceRepo": "katai5plate/Demoscene-2017",
+    "sourceDefaultBranch": "master",
+    "sourceHeadSha": "ab18c32869d2df1d5ee309330633e90ead140f56",
+    "processedHeadSha": "d6e12233e064fb0887bff0c5940627bea57c5f68",
+    "syncedFromSource": true
   },
   {
     "id": "dododogame-dododogame-github-io",
@@ -2758,7 +2762,7 @@
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "src/index.html",
-    "checkedAt": "2026-09-13T11:14:47.212Z",
+    "checkedAt": "2026-09-13T15:45:33.425Z",
     "forkName": "blocklet-rpgmaker-demo",
     "pagesUrl": "https://webrpg.org/blocklet-rpgmaker-demo/",
     "entryPath": "index.html",
@@ -3580,7 +3584,7 @@
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "Documentos/EJECUCIÒN/RELEASE 5/biblioteca_web/game.html",
-    "checkedAt": "2026-06-19T00:34:28.154Z",
+    "checkedAt": "2026-09-13T15:46:04.133Z",
     "forkName": "ISWPOLI-Servicios_Bibliotecarios",
     "lastCheckError": "GitHub API 403: API rate limit exceeded for installation ID 140358813. If you reach out to GitHub Support for help, please include the request ID DC43:260F5:66A3A48:17B0817B:6A346E74 and timestamp 2026-06-18 22:17:24 UTC. For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service)",
     "pagesUrl": "https://webrpg.org/ISWPOLI-Servicios_Bibliotecarios/",
@@ -3589,7 +3593,11 @@
     "validationScore": 115,
     "totalSize": 557829,
     "dataSize": 0,
-    "sourceRepo": "ISWPOLI/Servicios_Bibliotecarios"
+    "sourceRepo": "ISWPOLI/Servicios_Bibliotecarios",
+    "sourceDefaultBranch": "master",
+    "sourceHeadSha": "a35330932f82dc0747a7af4ba04a2a4887e0a367",
+    "processedHeadSha": "d6794b618a753afb5b5790ecf763997d007ddaa4",
+    "syncedFromSource": true
   },
   {
     "id": "67-factory-nikosgames",
@@ -4745,7 +4753,7 @@
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-06-19T04:24:06.622Z",
+    "checkedAt": "2026-09-13T15:47:03.418Z",
     "forkName": "JosephBH0622-SimulatedCampus",
     "lastCheckError": "GitHub API 403: API rate limit exceeded for installation ID 140358813. If you reach out to GitHub Support for help, please include the request ID 7803:691EE:C666B04:C864A40:6A348EFA and timestamp 2026-06-19 00:36:11 UTC. For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service)",
     "pagesUrl": "https://webrpg.org/JosephBH0622-SimulatedCampus/",
@@ -4754,7 +4762,11 @@
     "validationScore": 118,
     "totalSize": 420011,
     "dataSize": 986383,
-    "sourceRepo": "JosephBH0622/SimulatedCampus"
+    "sourceRepo": "JosephBH0622/SimulatedCampus",
+    "sourceDefaultBranch": "master",
+    "sourceHeadSha": "8ba5aae683eff3ad5d34479a81d5394f4c0b6374",
+    "processedHeadSha": "4fdb13c26e337f134e4d9c7559a03a0a650966b8",
+    "syncedFromSource": true
   },
   {
     "id": "peterdrake-cascadia-pilot-game",
@@ -5644,7 +5656,7 @@
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "Danganronpa RPG/index.html",
-    "checkedAt": "2026-06-19T00:35:35.759Z",
+    "checkedAt": "2026-09-13T15:46:12.815Z",
     "forkName": "JacotPlus-TurboPlus_Studios-RPGMaker",
     "lastCheckError": "GitHub API 403: API rate limit exceeded for installation ID 140358813. If you reach out to GitHub Support for help, please include the request ID 5413:E0CC7:B677B3E:2A3637D2:6A346E7F and timestamp 2026-06-18 22:17:35 UTC. For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service)",
     "pagesUrl": "https://webrpg.org/JacotPlus-TurboPlus_Studios-RPGMaker/",
@@ -5652,7 +5664,11 @@
     "validationScore": 115,
     "totalSize": 109890,
     "dataSize": 0,
-    "sourceRepo": "JacotPlus/TurboPlus_Studios-RPGMaker"
+    "sourceRepo": "JacotPlus/TurboPlus_Studios-RPGMaker",
+    "sourceDefaultBranch": "main",
+    "sourceHeadSha": "574925aa9215854c542bbc338329a79b72b7be46",
+    "processedHeadSha": "919bb8607ead1e40a72882c9fda12928fea346d3",
+    "syncedFromSource": true
   },
   {
     "id": "davidlopez3d-project-darkestvalley",
@@ -6272,7 +6288,7 @@
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-06-19T06:24:25.665Z",
+    "checkedAt": "2026-09-13T15:48:02.621Z",
     "forkName": "Kendid29-AfterRain",
     "lastCheckError": "GitHub API 403: API rate limit exceeded for installation ID 140358813. If you reach out to GitHub Support for help, please include the request ID D80A:188A3E:79338A:1BC70BF:6A34C515 and timestamp 2026-06-19 04:27:01 UTC. For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service)",
     "pagesUrl": "https://webrpg.org/Kendid29-AfterRain/",
@@ -6281,7 +6297,11 @@
     "validationScore": 118,
     "totalSize": 449964,
     "dataSize": 1098266,
-    "sourceRepo": "Kendid29/AfterRain"
+    "sourceRepo": "Kendid29/AfterRain",
+    "sourceDefaultBranch": "main",
+    "sourceHeadSha": "b537afd94e84c64a89d6c9abbd3c8ae3ff0e061e",
+    "processedHeadSha": "4d22e9346b8b467163c9babcc6fe5e5e0fd3462a",
+    "syncedFromSource": true
   },
   {
     "id": "nautssky-nautssky",
@@ -6574,7 +6594,7 @@
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-06-19T04:23:48.964Z",
+    "checkedAt": "2026-09-13T15:46:48.032Z",
     "forkName": "johnnypackard-unnamed-rpg",
     "lastCheckError": "GitHub API 403: API rate limit exceeded for installation ID 140358813. If you reach out to GitHub Support for help, please include the request ID F7C3:B5BE3:744A75C:1AD24FBB:6A348EF7 and timestamp 2026-06-19 00:36:07 UTC. For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service)",
     "pagesUrl": "https://webrpg.org/johnnypackard-unnamed-rpg/",
@@ -6583,7 +6603,11 @@
     "validationScore": 118,
     "totalSize": 388583,
     "dataSize": 669065,
-    "sourceRepo": "johnnypackard/unnamed-rpg"
+    "sourceRepo": "johnnypackard/unnamed-rpg",
+    "sourceDefaultBranch": "master",
+    "sourceHeadSha": "963310aa835394dc87c9364c83aa9aaaf140ff9f",
+    "processedHeadSha": "81ad81c01249d9623d3c4011f0f0b57dd784fc76",
+    "syncedFromSource": true
   },
   {
     "id": "tnuzzi-dragonwarriormv",
@@ -6790,7 +6814,7 @@
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "www/index.html",
-    "checkedAt": "2026-09-13T11:15:14.431Z",
+    "checkedAt": "2026-09-13T15:45:57.296Z",
     "forkName": "chruscikszef-dzzt-android",
     "pagesUrl": "https://webrpg.org/chruscikszef-dzzt-android/",
     "entryPath": "index.html",
@@ -6874,7 +6898,7 @@
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "12DTM-RPGMAKER-Project/index.html",
-    "checkedAt": "2026-06-19T00:35:40.106Z",
+    "checkedAt": "2026-09-13T15:46:17.162Z",
     "forkName": "JacsonGold-12DTM-RPGMakerGame-Repository",
     "lastCheckError": "GitHub API 403: API rate limit exceeded for installation ID 140358813. If you reach out to GitHub Support for help, please include the request ID 800B:1E094E:158364F:4F674EA:6A346E81 and timestamp 2026-06-18 22:17:37 UTC. For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service)",
     "pagesUrl": "https://webrpg.org/JacsonGold-12DTM-RPGMakerGame-Repository/",
@@ -6883,7 +6907,11 @@
     "validationScore": 115,
     "totalSize": 409411,
     "dataSize": 0,
-    "sourceRepo": "JacsonGold/12DTM-RPGMakerGame-Repository"
+    "sourceRepo": "JacsonGold/12DTM-RPGMakerGame-Repository",
+    "sourceDefaultBranch": "main",
+    "sourceHeadSha": "0765c85d313222ddfcc39b90d86e658df38a6734",
+    "processedHeadSha": "b3fc2bae4747382cdb12f733a6728f35e7e9bee1",
+    "syncedFromSource": true
   },
   {
     "id": "redpillphil-emberchain",
@@ -7033,7 +7061,7 @@
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-06-19T04:26:42.902Z",
+    "checkedAt": "2026-09-13T15:47:38.909Z",
     "forkName": "katai5plate-rpgmv-game-kanban",
     "lastCheckError": "GitHub API 403: API rate limit exceeded for installation ID 140358813. If you reach out to GitHub Support for help, please include the request ID 1BC3:78A67:C450D23:C64FF4B:6A348F14 and timestamp 2026-06-19 00:36:36 UTC. For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service)",
     "pagesUrl": "https://webrpg.org/katai5plate-rpgmv-game-kanban/",
@@ -7041,7 +7069,11 @@
     "validationScore": 118,
     "totalSize": 461,
     "dataSize": 407019,
-    "sourceRepo": "katai5plate/rpgmv-game-kanban"
+    "sourceRepo": "katai5plate/rpgmv-game-kanban",
+    "sourceDefaultBranch": "master",
+    "sourceHeadSha": "1d0b1a9b640e2ea5e4f98b4970c1438d17b48ac7",
+    "processedHeadSha": "8231610f034d1bf73dcda0dcd2b9cb914e0a9ff4",
+    "syncedFromSource": true
   },
   {
     "id": "ovate-rmmv-skit-system",
@@ -7996,7 +8028,7 @@
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-06-19T00:34:07.519Z",
+    "checkedAt": "2026-09-13T15:45:59.034Z",
     "forkName": "ISUNCY-RPGMakerMV-TaskSystem-Plugins",
     "lastCheckError": "GitHub API 403: API rate limit exceeded for installation ID 140358813. If you reach out to GitHub Support for help, please include the request ID 480B:130BAB:AACBB7B:279B42D6:6A346E73 and timestamp 2026-06-18 22:17:23 UTC. For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service)",
     "pagesUrl": "https://webrpg.org/ISUNCY-RPGMakerMV-TaskSystem-Plugins/",
@@ -8005,7 +8037,11 @@
     "validationScore": 118,
     "totalSize": 392109,
     "dataSize": 680773,
-    "sourceRepo": "ISUNCY/RPGMakerMV-TaskSystem-Plugins"
+    "sourceRepo": "ISUNCY/RPGMakerMV-TaskSystem-Plugins",
+    "sourceDefaultBranch": "master",
+    "sourceHeadSha": "38602fea2d3a295226328cbfa8998ba4b951bf83",
+    "processedHeadSha": "3fbf4df69483b380556952df8a5b4cab51c23439",
+    "syncedFromSource": true
   },
   {
     "id": "ismailabdurrahimnf-gangster-jakarta",
@@ -8401,7 +8437,7 @@
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-06-19T04:23:23.203Z",
+    "checkedAt": "2026-09-13T15:46:38.311Z",
     "forkName": "jesussantos05-GreenHorizon",
     "lastCheckError": "GitHub API 403: API rate limit exceeded for installation ID 140358813. If you reach out to GitHub Support for help, please include the request ID 8C03:2F5CFB:C6A1EAF:2DCE10FA:6A348EEE and timestamp 2026-06-19 00:35:58 UTC. For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service)",
     "pagesUrl": "https://webrpg.org/jesussantos05-GreenHorizon/",
@@ -8410,7 +8446,11 @@
     "validationScore": 118,
     "totalSize": 428285,
     "dataSize": 1362658,
-    "sourceRepo": "jesussantos05/GreenHorizon"
+    "sourceRepo": "jesussantos05/GreenHorizon",
+    "sourceDefaultBranch": "main",
+    "sourceHeadSha": "d8ca0fd047b7aebae62d055211fd7e9e6c34674d",
+    "processedHeadSha": "9adb6c5628d698369f85ff17d42ad29d9225ca33",
+    "syncedFromSource": true
   },
   {
     "id": "hoshiyomi0322-guonuo",
@@ -8750,7 +8790,7 @@
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "epilogue/www/index.html",
-    "checkedAt": "2026-06-19T04:23:44.118Z",
+    "checkedAt": "2026-09-13T15:46:57.572Z",
     "forkName": "johbcodes-fictional-train",
     "lastCheckError": "GitHub API 403: API rate limit exceeded for installation ID 140358813. If you reach out to GitHub Support for help, please include the request ID 17C1:1C6577:CC2DC45:CE2A03F:6A348EF6 and timestamp 2026-06-19 00:36:06 UTC. For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service)",
     "pagesUrl": "https://webrpg.org/johbcodes-fictional-train/",
@@ -8759,7 +8799,11 @@
     "validationScore": 115,
     "totalSize": 343260,
     "dataSize": 755313,
-    "sourceRepo": "johbcodes/fictional-train"
+    "sourceRepo": "johbcodes/fictional-train",
+    "sourceDefaultBranch": "master",
+    "sourceHeadSha": "95ec7acfa6a848f812656c21904943c67f5580ed",
+    "processedHeadSha": "91c7a44775438c9b44bad9ae25c318e23b6620fd",
+    "syncedFromSource": true
   },
   {
     "id": "rphsoftware-oneloader-isat",
@@ -10091,7 +10135,7 @@
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-06-19T00:35:22.404Z",
+    "checkedAt": "2026-09-13T15:46:11.000Z",
     "forkName": "jackHuang1130-68ba90b5-358d-407f-a2f9-e79ba757286d",
     "lastCheckError": "GitHub API 403: API rate limit exceeded for installation ID 140358813. If you reach out to GitHub Support for help, please include the request ID 3C21:2D3FDE:90591AF:216DF77F:6A346E81 and timestamp 2026-06-18 22:17:37 UTC. For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service)",
     "pagesUrl": "https://webrpg.org/jackHuang1130-68ba90b5-358d-407f-a2f9-e79ba757286d/",
@@ -10100,7 +10144,11 @@
     "validationScore": 118,
     "totalSize": 440660,
     "dataSize": 1209088,
-    "sourceRepo": "jackHuang1130/68ba90b5-358d-407f-a2f9-e79ba757286d"
+    "sourceRepo": "jackHuang1130/68ba90b5-358d-407f-a2f9-e79ba757286d",
+    "sourceDefaultBranch": "main",
+    "sourceHeadSha": "31cc70dcbaa43277cf83f7b80e68818bd726ecfe",
+    "processedHeadSha": "4ba52dba9c9c3a242aa79a80134cdbad0f16f67f",
+    "syncedFromSource": true
   },
   {
     "id": "nikitabelk-nikita-channel-animation",
@@ -10176,7 +10224,7 @@
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-06-19T04:23:14.369Z",
+    "checkedAt": "2026-09-13T15:46:31.444Z",
     "forkName": "JefroB-MegaEarth2049",
     "lastCheckError": "GitHub API 403: API rate limit exceeded for installation ID 140358813. If you reach out to GitHub Support for help, please include the request ID 0803:691EE:C661FE9:C85FE0D:6A348EF0 and timestamp 2026-06-19 00:36:00 UTC. For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service)",
     "pagesUrl": "https://webrpg.org/JefroB-MegaEarth2049/",
@@ -10185,7 +10233,11 @@
     "validationScore": 118,
     "totalSize": 858878,
     "dataSize": 9618797,
-    "sourceRepo": "JefroB/MegaEarth2049"
+    "sourceRepo": "JefroB/MegaEarth2049",
+    "sourceDefaultBranch": "master",
+    "sourceHeadSha": "fe3f806c33e55e88f913da5c45c9ca0184d23dd8",
+    "processedHeadSha": "fbeadd6efa3faa44b302925b3681ee478d86f433",
+    "syncedFromSource": true
   },
   {
     "id": "copperchihuahua-coppers-touhou-game-jam",
@@ -10397,7 +10449,7 @@
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-06-19T04:24:16.210Z",
+    "checkedAt": "2026-09-13T15:47:02.966Z",
     "forkName": "jpmendezf-MY-MMORPG",
     "lastCheckError": "GitHub API 403: API rate limit exceeded for installation ID 140358813. If you reach out to GitHub Support for help, please include the request ID 3C03:1E8722:C3A72AE:C5A1B89:6A348EFC and timestamp 2026-06-19 00:36:12 UTC. For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service)",
     "pagesUrl": "https://webrpg.org/jpmendezf-MY-MMORPG/",
@@ -10406,7 +10458,11 @@
     "validationScore": 118,
     "totalSize": 390547,
     "dataSize": 680477,
-    "sourceRepo": "jpmendezf/MY-MMORPG"
+    "sourceRepo": "jpmendezf/MY-MMORPG",
+    "sourceDefaultBranch": "master",
+    "sourceHeadSha": "7ed34b0a62ba5f9b4037b34668883ac61a7eb174",
+    "processedHeadSha": "effabbde6427b71e675af03bd91c32575ea4d417",
+    "syncedFromSource": true
   },
   {
     "id": "kyubuns-mmom",
@@ -10479,7 +10535,7 @@
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "murder is game over/gamereal/index.html",
-    "checkedAt": "2026-09-13T11:15:38.686Z",
+    "checkedAt": "2026-09-13T15:45:48.647Z",
     "forkName": "ButterToasty-games2",
     "pagesUrl": "https://webrpg.org/ButterToasty-games2/",
     "entryPath": "index.html",
@@ -10682,7 +10738,7 @@
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "src/index.html",
-    "checkedAt": "2026-06-19T04:26:17.860Z",
+    "checkedAt": "2026-09-13T15:47:38.311Z",
     "forkName": "katai5plate-mvblackout",
     "lastCheckError": "GitHub API 403: API rate limit exceeded for installation ID 140358813. If you reach out to GitHub Support for help, please include the request ID B403:29ED83:BE9ACCD:2C27ACB8:6A348F0C and timestamp 2026-06-19 00:36:28 UTC. For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service)",
     "pagesUrl": "https://webrpg.org/katai5plate-mvblackout/",
@@ -10690,7 +10746,11 @@
     "validationScore": 115,
     "totalSize": 2020,
     "dataSize": 15854,
-    "sourceRepo": "katai5plate/mvblackout"
+    "sourceRepo": "katai5plate/mvblackout",
+    "sourceDefaultBranch": "master",
+    "sourceHeadSha": "bff19dd29cf64979af8fb413c6482bec05959658",
+    "processedHeadSha": "b643a4b75dc495e950a62d9c0254e3eec520f736",
+    "syncedFromSource": true
   },
   {
     "id": "katai5plate-rpgmv-starter-for-me",
@@ -10703,7 +10763,7 @@
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-06-19T06:24:05.641Z",
+    "checkedAt": "2026-09-13T15:47:59.457Z",
     "forkName": "katai5plate-rpgmv-starter-for-me",
     "lastCheckError": "GitHub API 403: API rate limit exceeded for installation ID 140358813. If you reach out to GitHub Support for help, please include the request ID 7C00:3C064:B6E31DF:2A4A6684:6A34C515 and timestamp 2026-06-19 04:27:02 UTC. For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service)",
     "pagesUrl": "https://webrpg.org/katai5plate-rpgmv-starter-for-me/",
@@ -10711,7 +10771,11 @@
     "validationScore": 118,
     "totalSize": 69961,
     "dataSize": 528253,
-    "sourceRepo": "katai5plate/rpgmv-starter-for-me"
+    "sourceRepo": "katai5plate/rpgmv-starter-for-me",
+    "sourceDefaultBranch": "master",
+    "sourceHeadSha": "c5145b128faaa4950975fad6a4206f51723320fc",
+    "processedHeadSha": "38e8025405464c88f960ff1409df9bf43877f056",
+    "syncedFromSource": true
   },
   {
     "id": "kdmmanapul-testing-lfg",
@@ -10736,16 +10800,20 @@
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-06-19T04:24:38.771Z",
+    "checkedAt": "2026-09-13T15:47:20.248Z",
     "forkName": "jswessler-MYMEMORY",
     "lastCheckError": "GitHub API 403: API rate limit exceeded for installation ID 140358813. If you reach out to GitHub Support for help, please include the request ID B103:13E0A9:75C0193:1B34693F:6A348EFF and timestamp 2026-06-19 00:36:15 UTC. For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service)",
     "pagesUrl": "https://webrpg.org/jswessler-MYMEMORY/",
     "entryPath": "index.html",
     "cover": "https://webrpg.org/jswessler-MYMEMORY/cover.png",
     "validationScore": 118,
-    "totalSize": 488117,
+    "totalSize": 488357,
     "dataSize": 2484035,
-    "sourceRepo": "jswessler/MYMEMORY"
+    "sourceRepo": "jswessler/MYMEMORY",
+    "sourceDefaultBranch": "main",
+    "sourceHeadSha": "8d654c819699bba2e1786aed4d25378c07ac58a4",
+    "processedHeadSha": "366546e4c87d0a6fe5d7bfa174d32e5f73b03f82",
+    "syncedFromSource": true
   },
   {
     "id": "zhiwei-zhiwei-game-rpgmaker-magicnomagic",
@@ -10808,7 +10876,7 @@
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-06-19T04:26:42.971Z",
+    "checkedAt": "2026-09-13T15:48:21.476Z",
     "forkName": "katai5plate-rpgmv-newgame-lite",
     "pagesUrl": "https://webrpg.org/katai5plate-rpgmv-newgame-lite/",
     "entryPath": "index.html",
@@ -10816,7 +10884,11 @@
     "validationScore": 118,
     "totalSize": 32885,
     "dataSize": 670323,
-    "sourceRepo": "katai5plate/rpgmv-newgame-lite"
+    "sourceRepo": "katai5plate/rpgmv-newgame-lite",
+    "sourceDefaultBranch": "main",
+    "sourceHeadSha": "13400ad072de44b867c789cdab6c24c2d5e16895",
+    "processedHeadSha": "d6e29307eec6891fe95f1f01404611bcea344aa3",
+    "syncedFromSource": true
   },
   {
     "id": "antiperfectclub-codingforfun",
@@ -11242,7 +11314,7 @@
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "project/index.html",
-    "checkedAt": "2026-09-13T11:14:47.270Z",
+    "checkedAt": "2026-09-13T15:45:31.979Z",
     "forkName": "Escartem-OmoriSource",
     "lastCheckError": "GitHub API 502: Server Error"
   },
@@ -11489,10 +11561,15 @@
     "owner": "luisofficialbusiness-afk",
     "name": "PRTY-Source-Code",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "invalid_structure",
     "discoveredAt": "2026-06-19T06:17:08.516Z",
     "source": "github-code-search",
-    "sourcePath": "games/omori.html"
+    "sourcePath": "games/omori.html",
+    "checkedAt": "2026-09-13T15:47:47.842Z",
+    "forkName": "luisofficialbusiness-afk-PRTY-Source-Code",
+    "invalidReason": "RPG Maker structure is incomplete near games/omori.html.",
+    "deletedAt": "2026-09-13T15:48:14.053Z",
+    "validationScore": 45
   },
   {
     "id": "mikerotchburnes103-scholaris-learning",
@@ -12017,16 +12094,20 @@
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "www/index.html",
-    "checkedAt": "2026-06-19T04:24:26.859Z",
+    "checkedAt": "2026-09-13T15:47:07.597Z",
     "forkName": "jpmendezf-osianndventures",
     "lastCheckError": "GitHub API 403: API rate limit exceeded for installation ID 140358813. If you reach out to GitHub Support for help, please include the request ID EC03:39DE04:8068EDB:1D5AEE01:6A348EFC and timestamp 2026-06-19 00:36:12 UTC. For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service)",
     "pagesUrl": "https://webrpg.org/jpmendezf-osianndventures/",
     "entryPath": "index.html",
     "cover": "https://webrpg.org/jpmendezf-osianndventures/cover.png",
-    "validationScore": 115,
+    "validationScore": 118,
     "totalSize": 63799,
     "dataSize": 833806,
-    "sourceRepo": "jpmendezf/osianndventures"
+    "sourceRepo": "jpmendezf/osianndventures",
+    "sourceDefaultBranch": "master",
+    "sourceHeadSha": "02678861f179e647518fc4ba74233b287c657334",
+    "processedHeadSha": "b6f29042dea975c8b31b302ea333b5fcd901f9d4",
+    "syncedFromSource": true
   },
   {
     "id": "beatrizminoura-cmyk-ossos-do-oficio",
@@ -12262,7 +12343,7 @@
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "public/platina-the-wolf-and-the-heir-of-the-light/index.html",
-    "checkedAt": "2026-09-13T11:14:47.522Z",
+    "checkedAt": "2026-09-13T15:45:31.869Z",
     "forkName": "Laferu-platina-the-wolf",
     "lastCheckError": "GitHub API 502: Server Error"
   },
@@ -13839,7 +13920,7 @@
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-06-19T04:23:56.604Z",
+    "checkedAt": "2026-09-13T15:46:47.762Z",
     "forkName": "johnqwq-secret-escape",
     "lastCheckError": "GitHub API 403: API rate limit exceeded for installation ID 140358813. If you reach out to GitHub Support for help, please include the request ID F00B:12FF09:C0D9986:C2D535B:6A348EF9 and timestamp 2026-06-19 00:36:09 UTC. For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service)",
     "pagesUrl": "https://webrpg.org/johnqwq-secret-escape/",
@@ -13847,7 +13928,11 @@
     "validationScore": 118,
     "totalSize": 1444,
     "dataSize": 709364,
-    "sourceRepo": "johnqwq/secret-escape"
+    "sourceRepo": "johnqwq/secret-escape",
+    "sourceDefaultBranch": "main",
+    "sourceHeadSha": "56b812ba0f6d06cad4f5bc64d7d383bff790c300",
+    "processedHeadSha": "8c4049154f6854b5448c1df16421bd73c180c79a",
+    "syncedFromSource": true
   },
   {
     "id": "sirmcpotato-rmmv-mmo-webkit",
@@ -14403,7 +14488,7 @@
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-06-19T06:24:46.614Z",
+    "checkedAt": "2026-09-13T15:48:18.421Z",
     "forkName": "KimHanWol-RPGMaker-ProjectSU",
     "lastCheckError": "GitHub API 403: API rate limit exceeded for installation ID 140358813. If you reach out to GitHub Support for help, please include the request ID 500C:145BC2:8C8B0D4:205F3EFE:6A34C522 and timestamp 2026-06-19 04:27:14 UTC. For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service)",
     "pagesUrl": "https://webrpg.org/KimHanWol-RPGMaker-ProjectSU/",
@@ -14412,7 +14497,11 @@
     "validationScore": 118,
     "totalSize": 388539,
     "dataSize": 670603,
-    "sourceRepo": "KimHanWol/RPGMaker-ProjectSU"
+    "sourceRepo": "KimHanWol/RPGMaker-ProjectSU",
+    "sourceDefaultBranch": "main",
+    "sourceHeadSha": "16d46f00266596fc29cba53a71fb8008e322fae6",
+    "processedHeadSha": "d11c202f3427f1d2c42d6a5c66c2cb949202c909",
+    "syncedFromSource": true
   },
   {
     "id": "zkrejcov-rmmv-plugins",
@@ -14621,7 +14710,7 @@
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "Windows/Shadows/www/index.html",
-    "checkedAt": "2026-06-19T04:23:38.406Z",
+    "checkedAt": "2026-09-13T15:46:42.913Z",
     "forkName": "jkaz1968-Output",
     "lastCheckError": "GitHub API 403: API rate limit exceeded for installation ID 140358813. If you reach out to GitHub Support for help, please include the request ID 380B:6DD27:B4C9626:29AEDADF:6A348EF1 and timestamp 2026-06-19 00:36:01 UTC. For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service)",
     "pagesUrl": "https://webrpg.org/jkaz1968-Output/",
@@ -14630,7 +14719,11 @@
     "validationScore": 115,
     "totalSize": 118092,
     "dataSize": 0,
-    "sourceRepo": "jkaz1968/Output"
+    "sourceRepo": "jkaz1968/Output",
+    "sourceDefaultBranch": "master",
+    "sourceHeadSha": "2cd14d99092627f059f25874da95e438416fb240",
+    "processedHeadSha": "53363155e2d860ec81ef14f1fcf29f5b64767aeb",
+    "syncedFromSource": true
   },
   {
     "id": "schwarze-neko-shattered-dreams",
@@ -14717,7 +14810,7 @@
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "RPG Maker/Side Quest/index.html",
-    "checkedAt": "2026-06-19T04:22:35.019Z",
+    "checkedAt": "2026-09-13T15:46:25.988Z",
     "forkName": "jahmezz-20minutesgamedev",
     "lastCheckError": "GitHub API 403: API rate limit exceeded for installation ID 140358813. If you reach out to GitHub Support for help, please include the request ID 2C23:1D835D:726E7E5:1A667A1E:6A348EE8 and timestamp 2026-06-19 00:35:52 UTC. For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service)",
     "pagesUrl": "https://webrpg.org/jahmezz-20minutesgamedev/",
@@ -14726,7 +14819,11 @@
     "validationScore": 115,
     "totalSize": 882904,
     "dataSize": 0,
-    "sourceRepo": "jahmezz/20minutesgamedev"
+    "sourceRepo": "jahmezz/20minutesgamedev",
+    "sourceDefaultBranch": "gh-pages",
+    "sourceHeadSha": "e7f54b1f7682e7b2299956c198543661e8aa2696",
+    "processedHeadSha": "675d143d494ad668062b11987a13e5be916e226f",
+    "syncedFromSource": true
   },
   {
     "id": "sifue-sierquest",
@@ -14785,7 +14882,7 @@
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-06-19T04:23:07.787Z",
+    "checkedAt": "2026-09-13T15:46:26.414Z",
     "forkName": "JaviSSCode-CallateKevin",
     "lastCheckError": "GitHub API 403: API rate limit exceeded for installation ID 140358813. If you reach out to GitHub Support for help, please include the request ID 383B:23B7A8:A1E55EE:2561688F:6A348EEC and timestamp 2026-06-19 00:35:56 UTC. For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service)",
     "pagesUrl": "https://webrpg.org/JaviSSCode-CallateKevin/",
@@ -14794,7 +14891,11 @@
     "validationScore": 118,
     "totalSize": 430605,
     "dataSize": 969576,
-    "sourceRepo": "JaviSSCode/CallateKevin"
+    "sourceRepo": "JaviSSCode/CallateKevin",
+    "sourceDefaultBranch": "main",
+    "sourceHeadSha": "371f55f4a0c5b23d0e3a74f77241ada0fbe48625",
+    "processedHeadSha": "b7b428cc967b3b83c3b94a4231eb6e0c4b23c17a",
+    "syncedFromSource": true
   },
   {
     "id": "givanilddo-skullseeker",
@@ -15805,9 +15906,9 @@
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "project/index.html",
-    "checkedAt": "2026-09-13T11:14:47.890Z",
+    "checkedAt": "2026-09-13T15:45:31.699Z",
     "forkName": "Escartem-TCOAALSource",
-    "lastCheckError": "GitHub API 422: Sorry, your request timed out.  It's likely that your input was too large to process.  Consider building the tree incrementally, or building the commits you need in a local clone of the repository and then pushing them to GitHub."
+    "lastCheckError": "GitHub API 504: We couldn't respond to your request in time. Sorry about that. Please try resubmitting your request and contact us if the problem persists."
   },
   {
     "id": "suhukk-bbb",
@@ -17586,7 +17687,7 @@
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "rpg-demo-game/index.html",
-    "checkedAt": "2026-06-19T04:25:56.664Z",
+    "checkedAt": "2026-09-13T15:47:25.898Z",
     "forkName": "kangana1024-demorpggame",
     "lastCheckError": "GitHub API 403: API rate limit exceeded for installation ID 140358813. If you reach out to GitHub Support for help, please include the request ID 2C13:1C1B77:9A0D326:23A14F82:6A348F09 and timestamp 2026-06-19 00:36:25 UTC. For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service)",
     "pagesUrl": "https://webrpg.org/kangana1024-demorpggame/",
@@ -17594,7 +17695,11 @@
     "validationScore": 115,
     "totalSize": 1030,
     "dataSize": 93344,
-    "sourceRepo": "kangana1024/demorpggame"
+    "sourceRepo": "kangana1024/demorpggame",
+    "sourceDefaultBranch": "main",
+    "sourceHeadSha": "a874a84b7da9a877b6c9e1c0bf497db214971ef5",
+    "processedHeadSha": "d6aa9d4e879b41230090a9b29dd26b08c5f33526",
+    "syncedFromSource": true
   },
   {
     "id": "gorani777-1930",
