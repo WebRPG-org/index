@@ -127,9 +127,11 @@ if (failed > 0) {
   // Individual fork failures are non-fatal; the workflow uses continue-on-error.
 }
 
+// One fork per source repository. The pair owner/name is the identity: a name
+// on its own identifies nothing, and deduplicating on it silently dropped
+// unrelated games that happened to share a repository name.
 function getUniqueSources(entries) {
   const bySource = new Map();
-  const seenRepoNames = new Set();
 
   for (const entry of entries) {
     if (!includeInvalid && isTerminalStatus(entry)) {
@@ -148,12 +150,6 @@ function getUniqueSources(entries) {
 
     const source = `${entry.owner}/${entry.name}`;
     const sourceKey = source.toLowerCase();
-    const repoNameKey = String(entry.name).toLowerCase();
-
-    if (seenRepoNames.has(repoNameKey)) {
-      continue;
-    }
-    seenRepoNames.add(repoNameKey);
 
     if (!bySource.has(sourceKey)) {
       bySource.set(sourceKey, {

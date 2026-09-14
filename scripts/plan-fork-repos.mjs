@@ -65,9 +65,10 @@ async function loadOrgRepos(org) {
   return repos;
 }
 
+// One entry per source repository, identified by owner/name. A repository name
+// on its own identifies nothing: unrelated games share names.
 function getUniqueSources(entries) {
   const bySource = new Map();
-  const seenRepoNames = new Set();
 
   for (const entry of entries) {
     if (isPlanSkipped(entry)) {
@@ -76,12 +77,6 @@ function getUniqueSources(entries) {
 
     const source = `${entry.owner}/${entry.name}`;
     const sourceKey = source.toLowerCase();
-    const repoNameKey = String(entry.name).toLowerCase();
-
-    if (seenRepoNames.has(repoNameKey)) {
-      continue;
-    }
-    seenRepoNames.add(repoNameKey);
 
     if (!bySource.has(sourceKey)) {
       bySource.set(sourceKey, {

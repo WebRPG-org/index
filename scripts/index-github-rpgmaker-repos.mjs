@@ -92,7 +92,7 @@ for (const candidate of candidates.values()) {
   });
 }
 
-const merged = markDuplicateRepositoryNames([...list, ...additions]);
+const merged = markDuplicateRepositories([...list, ...additions]);
 merged.sort((left, right) => left.title.localeCompare(right.title, "zh-Hans") || left.repo.localeCompare(right.repo, "en"));
 await fs.writeFile(listPath, `${JSON.stringify(merged, null, 2)}\n`, "utf8");
 
@@ -140,24 +140,51 @@ function decodeHtmlEntities(value) {
     .replaceAll("&#39;", "'");
 }
 
-function markDuplicateRepositoryNames(entries) {
-  const seenNames = new Set();
+// Duplicate reasons this script owns. The aggregation job records its own
+// reason when several entries share one fork; lifting that here would make the
+// two jobs undo each other on every run.
+const OWN_DUPLICATE_REASONS = new Set([
+  "Repository name already exists in list.json.",
+  "This repository is already listed.",
+]);
+
+// A repository is identified by its owner and its name, never by its name
+// alone: two unrelated repositories can share a name, and merging them loses
+// whichever game arrived second. keyed on the pair, only a genuine repeat of
+// the same repository is collapsed.
+function markDuplicateRepositories(entries) {
+  const seenSources = new Set();
 
   return entries.map((entry) => {
-    const nameKey = String(entry.name).toLowerCase();
+    const sourceKey = `${entry.owner}/${entry.name}`.toLowerCase();
 
-    if (seenNames.has(nameKey)) {
+    if (seenSources.has(sourceKey)) {
       return cleanObject({
         ...entry,
         status: entry.status === "invalid_structure" ? entry.status : "duplicate_name",
-        duplicateReason: "Repository name already exists in list.json.",
+        duplicateReason: "This repository is already listed.",
       });
     }
 
-    seenNames.add(nameKey);
-    return entry.status === "duplicate_name"
-      ? cleanObject({ ...entry, status: undefined, duplicateReason: undefined })
-      : entry;
+    seenSources.add(sourceKey);
+
+    if (entry.status !== "duplicate_name" || !OWN_DUPLICATE_REASONS.has(entry.duplicateReason || "")) {
+      return entry;
+    }
+
+    // The entry that owns this repository is listed first, so this one is no
+    // longer a duplicate. It goes back to being an ordinary entry, without any
+    // of the metadata that only a verified outcome may carry.
+    return cleanObject({
+      ...entry,
+      status: "indexed",
+      duplicateReason: undefined,
+      pagesUrl: undefined,
+      cover: undefined,
+      coverPath: undefined,
+      entryPath: undefined,
+      projectRoot: undefined,
+    });
   });
 }
 

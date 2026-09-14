@@ -38,7 +38,7 @@ Repositories are skipped when:
 - The source repository is already forked into `WebRPG-org`.
 - `WebRPG-org` already has a repository with the target fork name.
 - The `list.json` entry is marked `invalid_structure`, `deleted_invalid_structure`, or `duplicate_name`.
-- Another entry already uses the same repository name, even when the owner is different.
+- Another entry already covers the same repository, identified by `owner/name`.
 
 Fork names use this format:
 
@@ -117,6 +117,16 @@ Cover URLs are inferred from the fork's title screens: `img/titles1/*` first, th
 | `retry_exhausted` | Every retry failed. Retired, but kept so it can be revived by hand. |
 
 Every status other than `indexed`, `verified` and `check_error` is terminal. `scripts/repo-status.mjs` holds that list so the fork workflow and the prepare plan cannot drift apart, skip an entry in one and act on it in the other.
+
+### Duplicate handling
+
+A repository is identified by `owner/name`. Its name on its own identifies nothing: two unrelated repositories can share one, and collapsing them on the name alone silently dropped whichever game arrived second. Only a genuine repeat of the same repository is treated as a duplicate.
+
+Fork names follow the same idea — `sourceOwner-sourceRepo` — so repositories that share a name but not an owner each keep their own fork.
+
+`index-github-rpgmaker-repos.mjs` only lifts a `duplicate_name` it recorded itself, matched through `duplicateReason`. A duplicate recorded by the aggregation job comes from several entries sharing one fork, and lifting that one here would make the two jobs undo each other on every run.
+
+The index workflow still refuses to add a repository whose name matches an existing entry's name. That check no longer decides anything about identity; it is kept as a limit on how many new candidates a run has to fetch, which matters while the rate limit is the binding constraint.
 
 ### Derived metadata
 
