@@ -28,6 +28,41 @@ if (!repoName) {
   throw new Error("REPO_NAME is required.");
 }
 
+class GitHubApiError extends Error {
+  constructor(status, message) {
+    super(`GitHub API ${status}: ${message}`);
+    this.name = "GitHubApiError";
+    this.status = status;
+  }
+}
+
+// Decide whether another attempt could plausibly succeed.
+//
+// Rate limits, server errors and lost ref races recover on their own. A deleted
+// repository, a missing App permission or a payload the API refuses will fail
+// the same way every time, so those entries are retired instead of being
+// re-checked forever.
+function classifyFailure(error) {
+  const status = error instanceof GitHubApiError ? error.status : 0;
+
+  if (status === 404) {
+    return "permanent";
+  }
+
+  if (status === 403 || status === 429) {
+    return /rate limit|abuse|secondary|submitted too quickly|try again later/i.test(error.message)
+      ? "transient"
+      : "permanent";
+  }
+
+  if (status === 422) {
+    // A ref race can be won on the next attempt; a rejected payload cannot.
+    return /not a fast forward/i.test(error.message) ? "transient" : "permanent";
+  }
+
+  return "transient";
+}
+
 const checkedAt = new Date().toISOString();
 const result = {
   checkedAt,
@@ -48,8 +83,10 @@ try {
 } catch (error) {
   result.status = "check_error";
   result.error = error.message;
+  result.failureKind = classifyFailure(error);
   console.log(`[error] ${targetOrg}/${repoName}: ${error.message}`);
   summary.push(`Status: \`check_error\``);
+  summary.push(`Failure kind: \`${result.failureKind}\``);
   summary.push(`Error: ${error.message}`);
 }
 
@@ -89,6 +126,7 @@ async function run() {
 
   if (!repo.fork) {
     result.status = "not_fork";
+    result.failureKind = "permanent";
     result.invalidReason = "Repository is not a fork.";
     console.log(`[skip] ${targetOrg}/${repoName} is not a fork repository`);
     return;
@@ -97,6 +135,7 @@ async function run() {
   const sourceRepo = result.sourceRepo;
   if (!sourceRepo) {
     result.status = "source_unavailable";
+    result.failureKind = "permanent";
     result.invalidReason = "Fork does not expose an upstream source repository.";
     console.log(`[skip] ${targetOrg}/${repoName} has no upstream source repository`);
     return;
@@ -963,7 +1002,7 @@ async function githubRequest(apiPath, options = {}) {
   }
 
   const message = data?.message || response.statusText;
-  throw new Error(`GitHub API ${response.status}: ${message}`);
+  throw new GitHubApiError(response.status, message);
 }
 
 function shouldSkipPath(repoPath) {

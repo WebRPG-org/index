@@ -5,7 +5,10 @@ import path from "node:path";
 const resultsDir = process.env.RESULTS_DIR || "workflow-results";
 const listPath = process.env.LIST_PATH || "list.json";
 const dryRun = parseBoolean(process.env.DRY_RUN, true);
+// Consecutive failures tolerated before an entry stops being advertised as
+// playable, and before it is retired altogether.
 const failureThreshold = parseNonNegativeInt(process.env.FAILURE_THRESHOLD || "3");
+const retryLimit = parseNonNegativeInt(process.env.RETRY_LIMIT || "8");
 const now = new Date().toISOString();
 
 // Derived metadata only describes a fork that was just verified. Every other
@@ -31,6 +34,8 @@ let hidden = 0;
 let duplicates = 0;
 let errors = 0;
 let quarantined = 0;
+let unavailable = 0;
+let retryExhausted = 0;
 let unchanged = 0;
 
 // A single fork can be referenced by several entries (a monorepo exposing more
@@ -171,29 +176,60 @@ const updated = list.map((entry) => {
   errors += 1;
   const consecutiveFailures = (Number(entry.consecutiveFailures) || 0) + 1;
   const lastCheckError = result.error || result.invalidReason || `Unexpected status: ${result.status}`;
+  const failureFields = {
+    checkedAt,
+    forkName,
+    lastCheckError,
+    consecutiveFailures,
+    lastFailedAt: checkedAt,
+  };
+
+  // The check cannot succeed however often it runs: the repository is gone, the
+  // App cannot read it, or the request is rejected outright.
+  if (result.failureKind === "permanent") {
+    unavailable += 1;
+    return cleanObject({
+      ...entry,
+      ...failureFields,
+      status: "unavailable",
+      invalidReason: lastCheckError,
+      validationScore: undefined,
+      totalSize: undefined,
+      dataSize: undefined,
+      ...clearedDerivedFields,
+    });
+  }
+
+  // Retries are not free: every attempt spends one of the limited slots of the
+  // prepare matrix and some of the GitHub rate limit.
+  if (consecutiveFailures >= retryLimit) {
+    retryExhausted += 1;
+    return cleanObject({
+      ...entry,
+      ...failureFields,
+      status: "retry_exhausted",
+      invalidReason: `Gave up after ${consecutiveFailures} consecutive failed checks.`,
+      validationScore: undefined,
+      totalSize: undefined,
+      dataSize: undefined,
+      ...clearedDerivedFields,
+    });
+  }
 
   // A transient failure must not remove a link that is already verified, but a
   // check that keeps failing has to stop being advertised as playable.
   if (entry.pagesUrl && consecutiveFailures < failureThreshold) {
     return cleanObject({
       ...entry,
-      checkedAt,
-      forkName,
-      lastCheckError,
-      consecutiveFailures,
-      lastFailedAt: checkedAt,
+      ...failureFields,
     });
   }
 
   quarantined += 1;
   return cleanObject({
     ...entry,
+    ...failureFields,
     status: "check_error",
-    checkedAt,
-    forkName,
-    lastCheckError,
-    consecutiveFailures,
-    lastFailedAt: checkedAt,
     validationScore: undefined,
     totalSize: undefined,
     dataSize: undefined,
@@ -215,6 +251,8 @@ console.log(`Hidden entries: ${hidden}`);
 console.log(`Duplicate entries: ${duplicates}`);
 console.log(`Check errors: ${errors}`);
 console.log(`Quarantined entries: ${quarantined}`);
+console.log(`Unavailable entries: ${unavailable}`);
+console.log(`Retry exhausted entries: ${retryExhausted}`);
 console.log(`Unchanged entries: ${unchanged}`);
 console.log(`Dry run: ${dryRun}`);
 
@@ -229,6 +267,8 @@ await writeStepSummary([
   `Duplicate entries: \`${duplicates}\``,
   `Check errors: \`${errors}\``,
   `Quarantined entries (${failureThreshold} consecutive failures): \`${quarantined}\``,
+  `Unavailable entries (unrecoverable): \`${unavailable}\``,
+  `Retry exhausted entries (${retryLimit} consecutive failures): \`${retryExhausted}\``,
   `Unchanged entries: \`${unchanged}\``,
   `Dry run: \`${dryRun}\``,
 ]);

@@ -167,6 +167,8 @@ async function githubRequest(path, options = {}) {
       method: options.method || "GET",
       headers: {
         Accept: "application/vnd.github+json",
+        // GitHub rejects requests without a User-Agent. Node 22 does not send one.
+        "User-Agent": "WebRPG-index/1.0",
         Authorization: `Bearer ${token}`,
         "Content-Type": "application/json",
         "X-GitHub-Api-Version": "2022-11-28",

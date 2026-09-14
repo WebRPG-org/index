@@ -1,6 +1,8 @@
 import crypto from "node:crypto";
 import fs from "node:fs/promises";
 
+import { isTerminalStatus } from "./repo-status.mjs";
+
 const apiBase = "https://api.github.com";
 const token = process.env.WEBRPG_APP_TOKEN || process.env.GITHUB_TOKEN || "";
 const targetOrg = process.env.TARGET_ORG || "WebRPG-org";
@@ -64,7 +66,7 @@ function getUniqueSources(entries) {
   const seenRepoNames = new Set();
 
   for (const entry of entries) {
-    if (isSkippedEntry(entry)) {
+    if (isTerminalStatus(entry)) {
       continue;
     }
 
@@ -122,10 +124,6 @@ function makeForkName(owner, name) {
   return `${safe.slice(0, 91).replace(/[.-]+$/g, "")}-${shortHash(raw)}`;
 }
 
-function isSkippedEntry(entry) {
-  return ["invalid_structure", "deleted_invalid_structure", "duplicate_name", "hidden", "skipped_large"].includes(entry.status);
-}
-
 // Latest checkedAt per fork repository. Several entries can share one fork
 // (a monorepo exposing several projects); the newest timestamp wins so a
 // shared fork is not pushed back to the front of the queue.
@@ -154,6 +152,8 @@ async function githubRequest(path, options = {}) {
       method: options.method || "GET",
       headers: {
         Accept: "application/vnd.github+json",
+        // GitHub rejects requests without a User-Agent. Node 22 does not send one.
+        "User-Agent": "WebRPG-index/1.0",
         Authorization: `Bearer ${token}`,
         "Content-Type": "application/json",
         "X-GitHub-Api-Version": "2022-11-28",

@@ -1,6 +1,8 @@
 import crypto from "node:crypto";
 import fs from "node:fs/promises";
 
+import { isTerminalStatus } from "./repo-status.mjs";
+
 const apiBase = "https://api.github.com";
 const token = process.env.WEBRPG_FORK_TOKEN || process.env.GITHUB_TOKEN || "";
 const targetOrg = process.env.TARGET_ORG || "WebRPG-org";
@@ -128,7 +130,7 @@ function getUniqueSources(entries) {
   const seenRepoNames = new Set();
 
   for (const entry of entries) {
-    if (!includeInvalid && isInvalidEntry(entry)) {
+    if (!includeInvalid && isTerminalStatus(entry)) {
       continue;
     }
 
@@ -195,10 +197,6 @@ function makeForkName(owner, name) {
   }
 
   return `${safe.slice(0, 91).replace(/[.-]+$/g, "")}-${shortHash(raw)}`;
-}
-
-function isInvalidEntry(entry) {
-  return ["invalid_structure", "deleted_invalid_structure", "duplicate_name"].includes(entry.status);
 }
 
 async function loadExistingOrgRepos(org) {
@@ -280,6 +278,8 @@ async function githubRequest(path, options = {}) {
     method: options.method || "GET",
     headers: {
       Accept: "application/vnd.github+json",
+      // GitHub rejects requests without a User-Agent. Node 22 does not send one.
+      "User-Agent": "WebRPG-index/1.0",
       Authorization: `Bearer ${token}`,
       "Content-Type": "application/json",
       "X-GitHub-Api-Version": "2022-11-28",

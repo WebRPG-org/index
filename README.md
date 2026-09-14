@@ -113,12 +113,32 @@ Cover URLs are inferred from files in the fork, preferring `img/titles1/*` and t
 | `duplicate_name` | Another entry already maps to this fork. |
 | `hidden` | Manually hidden in `list.json`. |
 | `check_error` | The last check could not reach a verdict; the entry is not advertised as playable. |
+| `unavailable` | The check cannot succeed. Retired without further retries. |
+| `retry_exhausted` | Every retry failed. Retired, but kept so it can be revived by hand. |
+
+Every status other than `indexed`, `verified` and `check_error` is terminal. `scripts/repo-status.mjs` holds that list so the fork workflow and the prepare plan cannot drift apart, skip an entry in one and act on it in the other.
 
 ### Derived metadata
 
 `pagesUrl`, `cover`, `coverPath`, `entryPath` and `projectRoot` only describe a fork that the most recent check verified. Every other outcome clears them, so an entry cannot advertise a page, cover or entry path that is no longer prepared. `verified` additionally clears `lastCheckError` and `consecutiveFailures`, so a transient failure leaves no stale error text behind once the fork recovers.
 
-A check that yields `check_error`, `not_fork` or `source_unavailable` increments `consecutiveFailures` and records `lastFailedAt`. An entry that was never verified is quarantined to `check_error` immediately. One that still has a `pagesUrl` stays playable until `FAILURE_THRESHOLD` (default `3`) consecutive failures, after which its derived metadata is cleared as well. Quarantined entries are not skipped: a later successful check restores them.
+### Failure handling
+
+`process-fork-repo.mjs` classifies every failure as `transient` or `permanent` and records it as `failureKind`:
+
+- **transient** — server errors, network failures, rate limits, and lost ref races (`Update is not a fast forward`). These recover on their own.
+- **permanent** — a `404`, a `403` that is not rate limiting (such as `Resource not accessible by integration`, which means the GitHub App is not installed on that repository), a `422` the API rejects outright, `not_fork` and `source_unavailable`.
+
+A failing check increments `consecutiveFailures` and records `lastFailedAt`, and the entry degrades in stages:
+
+1. Under `FAILURE_THRESHOLD` (default `3`) failures, with a `pagesUrl` on record, the entry keeps its status and its link. A rate limit must not pull a working game off the site.
+2. From `FAILURE_THRESHOLD` failures: `check_error`. Not advertised as playable, still retried.
+3. `RETRY_LIMIT` (default `8`) consecutive failures: `retry_exhausted`. Retired.
+4. Any `permanent` failure: `unavailable`, retired immediately.
+
+Retired entries are skipped by the fork and prepare workflows and have their derived metadata cleared, but the entry itself stays in `list.json`. That record is what stops the index workflow from discovering the same repository again, forking it a second time and repeating the same failure. Their forks are kept as well: when the upstream repository is gone, the fork may be the only remaining copy of the game.
+
+Setting the status back to `indexed` returns an entry to the queue.
 
 A fork is claimed by a single entry. When several entries map to the same fork — a monorepo exposing more than one project — the first one keeps the result and the others become `duplicate_name` with their derived metadata cleared.
 
@@ -126,4 +146,4 @@ A fork is claimed by a single entry. When several entries map to the same fork �
 
 `plan-fork-repos.mjs` orders forks by the `checkedAt` recorded in `list.json`, least recently checked first. Ordering by the repository's own `updated_at` stranded forks that fail validation: a failed run never bumps `updated_at`, so the same repositories were retried on every run while the rest of the queue never advanced.
 
-Entries marked `invalid_structure` are skipped by the fork workflow so they are not recreated on the next fork run.
+Terminal entries are skipped by the fork workflow, so a fork that was deleted is never recreated on a later run.

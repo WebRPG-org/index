@@ -142,6 +142,10 @@ jobs:
         env:
           DRY_RUN: "false"
           RESULTS_DIR: workflow-results
+          # Consecutive failures tolerated before an entry stops being
+          # advertised as playable, and before it is retired for good.
+          FAILURE_THRESHOLD: "3"
+          RETRY_LIMIT: "8"
         run: |
           git config user.name "webrpg-bot[bot]"
           git config user.email "webrpg-bot[bot]@users.noreply.github.com"
