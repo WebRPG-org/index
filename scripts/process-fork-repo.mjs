@@ -483,9 +483,30 @@ async function run() {
   }
 }
 
+// Markers a CDN uses on a challenge page. The site sits behind Cloudflare,
+// whose challenges are served with HTTP 200, so a content mismatch alone cannot
+// tell a broken game apart from a blocked request.
+const CHALLENGE_MARKERS = [
+  "just a moment",
+  "attention required",
+  "enable javascript and cookies",
+  "challenges.cloudflare.com",
+  "cf-mitigated",
+];
+
+function looksLikeBotChallenge(response, body) {
+  if (response.headers.get("cf-mitigated")) {
+    return true;
+  }
+
+  const lower = String(body || "").toLowerCase();
+  return CHALLENGE_MARKERS.some((marker) => lower.includes(marker));
+}
+
 // Fetch the deployed entry point and make sure it really is the game. Returns
-// `definitive: false` when the answer says more about the network than about
-// the deployment, so a site-wide outage cannot retire every entry at once.
+// `definitive: false` whenever the answer says more about the network than
+// about the deployment, so a blocked or overloaded request cannot retire an
+// entry that is working.
 async function verifyDeployedEntry(entryPath) {
   const relativePath = String(entryPath || "index.html");
   const url = `${getPagesUrl()}${relativePath.split("/").map(encodeURIComponent).join("/")}`;
@@ -502,12 +523,23 @@ async function verifyDeployedEntry(entryPath) {
     return { ok: false, definitive: false, reason: `${url} could not be fetched: ${error.message}` };
   }
 
+  if (looksLikeBotChallenge(response, "")) {
+    return { ok: false, definitive: false, reason: `${url} answered with a bot challenge` };
+  }
+
   if (!response.ok) {
-    const definitive = [403, 404, 410].includes(response.status);
+    // Only a genuinely missing page is conclusive. A blocked request (403) or a
+    // server error is not, and must not be read as "the game is gone".
+    const definitive = response.status === 404 || response.status === 410;
     return { ok: false, definitive, reason: `${url} responded with HTTP ${response.status}` };
   }
 
   const body = (await response.text()).toLowerCase();
+
+  if (looksLikeBotChallenge(response, body)) {
+    return { ok: false, definitive: false, reason: `${url} answered with a bot challenge` };
+  }
+
   const servesGame = body.includes("rpg_core.js") || body.includes("rmmz_core.js");
 
   return servesGame
