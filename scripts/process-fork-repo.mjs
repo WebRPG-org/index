@@ -236,8 +236,8 @@ async function run() {
       // Update detection paths — projectRoot is now empty
       const prefix = detection.projectRoot;
       detection.projectRoot = "";
-      detection.entryPath = detection.entryPath.replace(prefix, "");
-      detection.htmlPathsToPatch = detection.htmlPathsToPatch.map((p) => p.replace(prefix, ""));
+      detection.entryPath = stripProjectRoot(detection.entryPath, prefix);
+      detection.htmlPathsToPatch = detection.htmlPathsToPatch.map((p) => stripProjectRoot(p, prefix));
       result.projectRoot = "";
       result.entryPath = detection.entryPath;
       result.flattened = true;
@@ -415,7 +415,11 @@ function detectRpgMakerProject(files, htmlByPath) {
 
       if (lowerScript.endsWith("js/rpg_core.js") || lowerScript.endsWith("js/rmmz_core.js")) {
         const engine = lowerScript.endsWith("js/rmmz_core.js") ? "RPG Maker MZ" : "RPG Maker MV";
-        const projectRoot = lowerScript.slice(0, lowerScript.length - (engine === "RPG Maker MZ" ? "js/rmmz_core.js".length : "js/rpg_core.js".length));
+        const coreSuffix = engine === "RPG Maker MZ" ? "js/rmmz_core.js" : "js/rpg_core.js";
+        // Slice the original path so the project root keeps its real casing.
+        // Deriving it from the lowercased path used to make flattening fail
+        // silently on any repository whose directories were not all lowercase.
+        const projectRoot = normalizedScript.slice(0, normalizedScript.length - coreSuffix.length);
         candidates.push(scoreCandidate({
           engine,
           projectRoot,
@@ -433,7 +437,8 @@ function detectRpgMakerProject(files, htmlByPath) {
     if (lower.endsWith("js/rpg_core.js") || lower.endsWith("js/rmmz_core.js")) {
       const engine = lower.endsWith("js/rmmz_core.js") ? "RPG Maker MZ" : "RPG Maker MV";
       const corePath = engine === "RPG Maker MZ" ? "js/rmmz_core.js" : "js/rpg_core.js";
-      const projectRoot = lower.slice(0, lower.length - corePath.length);
+      // Keep the real casing of the project root (see the note above).
+      const projectRoot = file.path.slice(0, file.path.length - corePath.length);
       const entryPath = findEntryPath(projectRoot, htmlByPath);
 
       if (entryPath) {
@@ -656,22 +661,29 @@ async function flattenProjectToRoot(branch, headSha, tree, projectRoot) {
     (item) => item.type === "blob" && /^cover\.(png|jpg|jpeg|webp)$/i.test(item.path),
   );
 
+  const rootPrefix = projectRoot.toLowerCase();
+
   for (const item of tree.tree) {
     if (item.type !== "blob") continue;
-    const path = item.path;
+    const itemPath = item.path;
 
-    if (path.startsWith(projectRoot)) {
-      const newPath = path.slice(projectRoot.length);
+    // Match the project root case-insensitively: the recorded root can differ
+    // in casing from the tree entry, but the lengths always agree, so slicing
+    // by length keeps the remainder of the path intact.
+    if (itemPath.toLowerCase().startsWith(rootPrefix)) {
+      const newPath = itemPath.slice(projectRoot.length);
       if (!newPath) continue;
       blobEntries.push({ path: newPath, sha: item.sha, mode: "100644", type: "blob" });
-    } else if (path === "cover.png" || (coverEntry && path === coverEntry.path)) {
-      blobEntries.push({ path, sha: item.sha, mode: "100644", type: "blob" });
+    } else if (itemPath === "cover.png" || (coverEntry && itemPath === coverEntry.path)) {
+      blobEntries.push({ path: itemPath, sha: item.sha, mode: "100644", type: "blob" });
     }
   }
 
   if (blobEntries.length === 0) {
-    console.log(`[flatten] No blobs found under ${projectRoot}, skipping`);
-    return null;
+    // Reporting success here used to publish a root Pages URL for a project
+    // that still lives in a subdirectory, which surfaced as a verified entry
+    // pointing at a dead link. Fail loudly instead so the entry is revisited.
+    throw new Error(`Flatten failed: no files found under project root "${projectRoot}" in ${targetOrg}/${repoName}.`);
   }
 
   console.log(`[flatten] Moving ${blobEntries.length} files from ${projectRoot} to root`);
@@ -960,6 +972,18 @@ function shouldSkipPath(repoPath) {
 
 function normalizeRepoPath(repoPath) {
   return repoPath.replace(/\\/g, "/").replace(/^\/+/, "").replace(/\/+/g, "/");
+}
+
+// Remove the project root from a path without String.replace, which would also
+// rewrite an identical substring appearing later in the path.
+function stripProjectRoot(repoPath, projectRoot) {
+  if (!projectRoot) {
+    return repoPath;
+  }
+
+  return repoPath.toLowerCase().startsWith(projectRoot.toLowerCase())
+    ? repoPath.slice(projectRoot.length)
+    : repoPath;
 }
 
 function encodeGitRefPath(ref) {

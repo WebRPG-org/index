@@ -13,14 +13,19 @@ if (!token) {
 
 const list = JSON.parse(await fs.readFile("list.json", "utf8"));
 const indexedNames = new Set(getUniqueSources(list).map((item) => item.forkName.toLowerCase()));
+const lastCheckedByFork = getLastCheckedByFork(list);
 const orgRepos = await loadOrgRepos(targetOrg);
 const targets = orgRepos
   .filter((repo) => repo.fork && indexedNames.has(repo.name.toLowerCase()))
   .sort((left, right) => {
-    // Oldest updated first, so never-processed repos are prioritized
-    const leftUpdated = new Date(left.updated_at || 0).valueOf();
-    const rightUpdated = new Date(right.updated_at || 0).valueOf();
-    return leftUpdated - rightUpdated;
+    // Least recently checked first, so every fork is revisited in turn.
+    // Ordering by the repository's own updated_at stranded forks that fail
+    // validation: a failed run never bumps updated_at, so the same handful of
+    // repositories was retried on every run while the rest of the queue never
+    // advanced.
+    const leftChecked = lastCheckedByFork.get(left.name.toLowerCase()) || "";
+    const rightChecked = lastCheckedByFork.get(right.name.toLowerCase()) || "";
+    return leftChecked.localeCompare(rightChecked, "en") || left.name.localeCompare(right.name, "en");
   });
 const planned = limit > 0 ? targets.slice(0, limit) : targets.slice(0, maxMatrixSize);
 const matrix = {
@@ -32,6 +37,8 @@ const matrix = {
 console.log(`Indexed source repositories: ${indexedNames.size}`);
 console.log(`Fork repositories in ${targetOrg}: ${targets.length}`);
 console.log(`Repositories in this run: ${planned.length}`);
+console.log(`Oldest checkedAt in this run: ${lastCheckedByFork.get(planned[0]?.name.toLowerCase()) || "never checked"}`);
+console.log(`Planned repositories: ${planned.map((repo) => repo.name).join(", ")}`);
 
 await writeOutput("matrix", JSON.stringify(matrix));
 await writeOutput("has_targets", planned.length > 0 ? "true" : "false");
@@ -75,7 +82,11 @@ function getUniqueSources(entries) {
         source,
         owner: entry.owner,
         name: entry.name,
-        forkName: makeForkName(entry.owner, entry.name),
+        // The recorded forkName wins: the verified branch rewrites owner/name
+        // to the upstream repository, so recomputing the name from those fields
+        // could point at a fork that never existed.
+        forkName: entry.forkName || makeForkName(entry.owner, entry.name),
+        computed: !entry.forkName,
       });
     }
   }
@@ -84,7 +95,7 @@ function getUniqueSources(entries) {
   for (const item of bySource.values()) {
     const nameKey = item.forkName.toLowerCase();
     const existingSource = usedNames.get(nameKey);
-    if (existingSource && existingSource !== item.source.toLowerCase()) {
+    if (item.computed && existingSource && existingSource !== item.source.toLowerCase()) {
       item.forkName = makeForkName(item.owner, `${item.name}-${shortHash(item.source)}`);
     }
     usedNames.set(item.forkName.toLowerCase(), item.source.toLowerCase());
@@ -113,6 +124,25 @@ function makeForkName(owner, name) {
 
 function isSkippedEntry(entry) {
   return ["invalid_structure", "deleted_invalid_structure", "duplicate_name", "hidden", "skipped_large"].includes(entry.status);
+}
+
+// Latest checkedAt per fork repository. Several entries can share one fork
+// (a monorepo exposing several projects); the newest timestamp wins so a
+// shared fork is not pushed back to the front of the queue.
+function getLastCheckedByFork(entries) {
+  const result = new Map();
+
+  for (const entry of entries) {
+    const forkName = (entry.forkName || makeForkName(entry.owner, entry.name)).toLowerCase();
+    const checkedAt = entry.checkedAt || "";
+    const current = result.get(forkName);
+
+    if (current === undefined || checkedAt > current) {
+      result.set(forkName, checkedAt);
+    }
+  }
+
+  return result;
 }
 
 async function githubRequest(path, options = {}) {

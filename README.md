@@ -88,7 +88,7 @@ During each run, the workflow validates every matching fork before preparing Pag
 
 When `dry_run=false` and `delete_invalid_repos=true`, invalid forks are deleted from `WebRPG-org`. The final aggregation job updates `list.json` with validation metadata:
 
-- `status`: `verified` or `invalid_structure`
+- `status`
 - `checkedAt`
 - `forkName`
 - `pagesUrl`
@@ -96,7 +96,34 @@ When `dry_run=false` and `delete_invalid_repos=true`, invalid forks are deleted 
 - `cover`
 - `invalidReason`
 - `deletedAt`
+- `lastCheckError`
+- `consecutiveFailures`
+- `lastFailedAt`
 
-Cover URLs are inferred from files in the fork, prioritizing RPG Maker paths such as `icon/icon.png`, `img/titles1/*`, `img/titles2/*`, and `img/pictures/*`.
+Cover URLs are inferred from files in the fork, preferring `img/titles1/*` and then `img/titles2/*`. Encrypted `.rpgmvp` covers are decrypted back to PNG before being committed.
+
+### Entry status values
+
+| `status` | Meaning |
+| --- | --- |
+| `indexed` | Discovered by the index workflow, not checked yet. |
+| `verified` | The fork has a complete RPG Maker MV/MZ web structure and Pages is enabled. |
+| `invalid_structure` | No usable project was found; the fork is deleted and never re-forked. |
+| `skipped_large` | The upstream repository exceeds a size limit, so it is not prepared. |
+| `duplicate_name` | Another entry already maps to this fork. |
+| `hidden` | Manually hidden in `list.json`. |
+| `check_error` | The last check could not reach a verdict; the entry is not advertised as playable. |
+
+### Derived metadata
+
+`pagesUrl`, `cover`, `coverPath`, `entryPath` and `projectRoot` only describe a fork that the most recent check verified. Every other outcome clears them, so an entry cannot advertise a page, cover or entry path that is no longer prepared. `verified` additionally clears `lastCheckError` and `consecutiveFailures`, so a transient failure leaves no stale error text behind once the fork recovers.
+
+A check that yields `check_error`, `not_fork` or `source_unavailable` increments `consecutiveFailures` and records `lastFailedAt`. An entry that was never verified is quarantined to `check_error` immediately. One that still has a `pagesUrl` stays playable until `FAILURE_THRESHOLD` (default `3`) consecutive failures, after which its derived metadata is cleared as well. Quarantined entries are not skipped: a later successful check restores them.
+
+A fork is claimed by a single entry. When several entries map to the same fork — a monorepo exposing more than one project — the first one keeps the result and the others become `duplicate_name` with their derived metadata cleared.
+
+### Queue order
+
+`plan-fork-repos.mjs` orders forks by the `checkedAt` recorded in `list.json`, least recently checked first. Ordering by the repository's own `updated_at` stranded forks that fail validation: a failed run never bumps `updated_at`, so the same repositories were retried on every run while the rest of the queue never advanced.
 
 Entries marked `invalid_structure` are skipped by the fork workflow so they are not recreated on the next fork run.

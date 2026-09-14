@@ -157,7 +157,11 @@ function getUniqueSources(entries) {
         owner: entry.owner,
         name: entry.name,
         repo: entry.repo,
-        forkName: makeForkName(entry.owner, entry.name),
+        // The recorded forkName wins: the verified branch rewrites owner/name
+        // to the upstream repository, so recomputing the name from those fields
+        // could create a second fork for a repository that already has one.
+        forkName: entry.forkName || makeForkName(entry.owner, entry.name),
+        computed: !entry.forkName,
       });
     }
   }
@@ -166,7 +170,7 @@ function getUniqueSources(entries) {
   for (const item of bySource.values()) {
     const nameKey = item.forkName.toLowerCase();
     const existingSource = usedNames.get(nameKey);
-    if (existingSource && existingSource !== item.source.toLowerCase()) {
+    if (item.computed && existingSource && existingSource !== item.source.toLowerCase()) {
       item.forkName = makeForkName(item.owner, `${item.name}-${shortHash(item.source)}`);
     }
     usedNames.set(item.forkName.toLowerCase(), item.source.toLowerCase());
