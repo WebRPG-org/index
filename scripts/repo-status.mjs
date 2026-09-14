@@ -33,3 +33,12 @@ export const TERMINAL_STATUSES = [
 export function isTerminalStatus(entry) {
   return Boolean(entry) && TERMINAL_STATUSES.includes(entry.status);
 }
+
+// The prepare plan skips terminal entries — except `hidden`, which is visited
+// once more so process-fork-repo can remove its fork. The fork workflow never
+// recreates it, because `hidden` stays in TERMINAL_STATUSES.
+export const PLAN_SKIPPED_STATUSES = TERMINAL_STATUSES.filter((status) => status !== "hidden");
+
+export function isPlanSkipped(entry) {
+  return Boolean(entry) && PLAN_SKIPPED_STATUSES.includes(entry.status);
+}

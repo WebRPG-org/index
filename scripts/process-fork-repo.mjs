@@ -19,6 +19,8 @@ const maxRepoSizeKb = parseNonNegativeInt(process.env.MAX_REPO_SIZE_KB || "83886
 const maxTreeEntries = parseNonNegativeInt(process.env.MAX_TREE_ENTRIES || "20000");
 const maxHtmlFiles = parseNonNegativeInt(process.env.MAX_HTML_FILES || "500");
 const maxHtmlTotalBytes = parseNonNegativeInt(process.env.MAX_HTML_TOTAL_BYTES || "52428800");
+const verifyDeployment = parseBoolean(process.env.VERIFY_DEPLOYMENT, true);
+const reachabilityTimeoutMs = parsePositiveInt(process.env.REACHABILITY_TIMEOUT_MS || "15000");
 
 if (!token) {
   throw new Error("WEBRPG_APP_TOKEN or GITHUB_TOKEN is required.");
@@ -97,6 +99,7 @@ async function run() {
   const repo = await githubRequest(`/repos/${encodeURIComponent(targetOrg)}/${encodeURIComponent(repoName)}`);
   result.repoUrl = repo.html_url;
   result.defaultBranch = repo.default_branch;
+  result.isFork = Boolean(repo.fork);
   result.sourceRepo = repo.source?.full_name || repo.parent?.full_name || null;
 
   // Repository size is checked after resolving the upstream repository below.
@@ -124,69 +127,89 @@ async function run() {
     return;
   }
 
-  if (!repo.fork) {
-    result.status = "not_fork";
-    result.failureKind = "permanent";
-    result.invalidReason = "Repository is not a fork.";
-    console.log(`[skip] ${targetOrg}/${repoName} is not a fork repository`);
-    return;
+  // A repository listed in the index is ours whether or not GitHub still
+  // reports it as a fork. The flag disappears when the upstream is deleted,
+  // made private or transferred away, and those repositories used to drop out
+  // of the pipeline for good while still holding the only copy of the game.
+  // They are validated in place instead, with nothing to synchronize from.
+  let sourceRepo = result.sourceRepo;
+  let upstream = null;
+  let upstreamPath = null;
+
+  if (sourceRepo) {
+    const [sourceOwner, sourceName] = sourceRepo.split("/");
+    if (!sourceOwner || !sourceName) {
+      throw new Error(`Invalid upstream repository name: ${sourceRepo}`);
+    }
+
+    upstreamPath = `/repos/${encodeURIComponent(sourceOwner)}/${encodeURIComponent(sourceName)}`;
+
+    try {
+      upstream = await githubRequest(upstreamPath);
+    } catch (error) {
+      if (!(error instanceof GitHubApiError) || error.status !== 404) {
+        throw error;
+      }
+
+      console.log(`[detached] Upstream ${sourceRepo} is gone; validating ${targetOrg}/${repoName} in place`);
+      upstream = null;
+      upstreamPath = null;
+      sourceRepo = null;
+      result.sourceRepo = null;
+    }
   }
 
-  const sourceRepo = result.sourceRepo;
-  if (!sourceRepo) {
-    result.status = "source_unavailable";
-    result.failureKind = "permanent";
-    result.invalidReason = "Fork does not expose an upstream source repository.";
-    console.log(`[skip] ${targetOrg}/${repoName} has no upstream source repository`);
-    return;
-  }
+  let sourceHeadSha = null;
 
-  const [sourceOwner, sourceName] = sourceRepo.split("/");
-  if (!sourceOwner || !sourceName) {
-    throw new Error(`Invalid upstream repository name: ${sourceRepo}`);
-  }
+  if (upstream) {
+    const sourceDefaultBranch = upstream.default_branch;
+    const sourceRef = await githubRequest(
+      `${upstreamPath}/git/ref/heads/${encodeGitRefPath(sourceDefaultBranch)}`,
+    );
+    sourceHeadSha = sourceRef.object.sha;
+    result.sourceDefaultBranch = sourceDefaultBranch;
+    result.sourceHeadSha = sourceHeadSha;
+    result.sourceSize = upstream.size || 0;
 
-  const upstreamPath = `/repos/${encodeURIComponent(sourceOwner)}/${encodeURIComponent(sourceName)}`;
-  const upstream = await githubRequest(upstreamPath);
-  const sourceDefaultBranch = upstream.default_branch;
-  const sourceRef = await githubRequest(
-    `${upstreamPath}/git/ref/heads/${encodeGitRefPath(sourceDefaultBranch)}`,
-  );
-  const sourceHeadSha = sourceRef.object.sha;
-  result.sourceDefaultBranch = sourceDefaultBranch;
-  result.sourceHeadSha = sourceHeadSha;
-  result.sourceSize = upstream.size || 0;
-
-  if (upstream.size > maxRepoSizeKb) {
-    skipLargeRepository(`Upstream repository size ${upstream.size} KB exceeds the ${maxRepoSizeKb} KB limit.`);
-    return;
+    if (upstream.size > maxRepoSizeKb) {
+      skipLargeRepository(`Upstream repository size ${upstream.size} KB exceeds the ${maxRepoSizeKb} KB limit.`);
+      return;
+    }
+  } else {
+    result.detached = true;
+    console.log(`[detached] ${targetOrg}/${repoName} has no upstream; validating in place`);
+    summary.push("Upstream: `none` — validating the repository in place.");
   }
 
   const branch = repo.default_branch;
   let ref = await githubRequest(`/repos/${encodeURIComponent(targetOrg)}/${encodeURIComponent(repoName)}/git/ref/heads/${encodeGitRefPath(branch)}`);
   let headSha = ref.object.sha;
-  const processedSourceSha = entry?.sourceHeadSha;
-  const sourceChanged = processedSourceSha !== sourceHeadSha;
-  const needsSourceReset = sourceChanged && headSha !== sourceHeadSha;
 
-  if (needsSourceReset && !dryRun) {
-    await resetForkToSource(branch, sourceHeadSha);
-    result.syncedFromSource = true;
-    result.sourceReset = true;
-    console.log(`[sync] Reset ${targetOrg}/${repoName} to ${sourceRepo}@${sourceHeadSha.slice(0, 8)}`);
-    ref = await githubRequest(`/repos/${encodeURIComponent(targetOrg)}/${encodeURIComponent(repoName)}/git/ref/heads/${encodeGitRefPath(branch)}`);
-    headSha = ref.object.sha;
-  } else if (needsSourceReset) {
-    result.sourceReset = false;
-    result.syncPending = true;
-    console.log(`[dry-run] Would reset ${targetOrg}/${repoName} to ${sourceRepo}@${sourceHeadSha.slice(0, 8)}`);
-  }
+  if (sourceHeadSha) {
+    const processedSourceSha = entry?.sourceHeadSha;
+    const sourceChanged = processedSourceSha !== sourceHeadSha;
+    const needsSourceReset = sourceChanged && headSha !== sourceHeadSha;
 
-  if (sourceChanged) {
-    summary.push(`Upstream: \`${sourceRepo}@${sourceHeadSha.slice(0, 12)}\``);
-  }
-  if (result.syncedFromSource) {
-    summary.push("Synchronized fork from upstream and discarded previous generated changes.");
+    if (needsSourceReset && !dryRun) {
+      await resetForkToSource(branch, sourceHeadSha);
+      result.syncedFromSource = true;
+      result.sourceReset = true;
+      console.log(`[sync] Reset ${targetOrg}/${repoName} to ${sourceRepo}@${sourceHeadSha.slice(0, 8)}`);
+      ref = await githubRequest(`/repos/${encodeURIComponent(targetOrg)}/${encodeURIComponent(repoName)}/git/ref/heads/${encodeGitRefPath(branch)}`);
+      headSha = ref.object.sha;
+    } else if (needsSourceReset) {
+      result.sourceReset = false;
+      result.syncPending = true;
+      console.log(`[dry-run] Would reset ${targetOrg}/${repoName} to ${sourceRepo}@${sourceHeadSha.slice(0, 8)}`);
+    }
+
+    if (sourceChanged) {
+      summary.push(`Upstream: \`${sourceRepo}@${sourceHeadSha.slice(0, 12)}\``);
+    }
+
+    if (result.syncedFromSource) {
+      summary.push("Synchronized fork from upstream and discarded previous generated changes.");
+    }
   }
 
   const headCommit = await githubRequest(`/repos/${encodeURIComponent(targetOrg)}/${encodeURIComponent(repoName)}/git/commits/${headSha}`);
@@ -236,7 +259,7 @@ async function run() {
     summary.push(`Reason: ${detection.reason}`);
     console.log(`[invalid] ${targetOrg}/${repoName}: ${detection.reason}`);
 
-    if (!dryRun && deleteInvalidRepos) {
+    if (!dryRun && deleteInvalidRepos && sourceRepo) {
       await githubRequest(`/repos/${encodeURIComponent(targetOrg)}/${encodeURIComponent(repoName)}`, {
         method: "DELETE",
         ok: [204],
@@ -244,6 +267,12 @@ async function run() {
       result.deleted = true;
       result.deletedAt = new Date().toISOString();
       console.log(`[deleted] ${targetOrg}/${repoName}`);
+    } else if (!dryRun && deleteInvalidRepos) {
+      // Without an upstream there is nothing to re-fork from, so the repository
+      // may be the only copy of whatever it holds. Keep it.
+      result.deleted = false;
+      result.keepReason = "No upstream to recover from; the repository may be the only copy.";
+      console.log(`[keep] ${targetOrg}/${repoName} has no upstream; keeping the repository`);
     } else {
       result.deleted = false;
       console.log(`[dry-run] Would delete ${targetOrg}/${repoName}`);
@@ -285,7 +314,7 @@ async function run() {
   }
 
   // Compute game size metrics (zero additional API cost)
-  result.totalSize = upstream.size || repo.size || 0;
+  result.totalSize = (upstream ? upstream.size : repo.size) || 0;
   const dataSize = currentFiles
     .filter((f) => f.path.startsWith("data/") && f.path.endsWith(".json"))
     .reduce((sum, f) => sum + (f.size || 0), 0);
@@ -409,10 +438,34 @@ async function run() {
     console.log(`[skip] HTML already prepared in ${targetOrg}/${repoName}`);
   }
 
-  await ensurePages(branch, "/");
+  const pagesSetup = await ensurePages(branch, "/");
   result.htmlFilesUpdated = updates.size;
   result.processedHeadSha = currentHeadSha;
   result.pagesEnabled = true;
+
+  // Structural validation only proves the files exist. Confirm that the site
+  // actually serves the game — but only for a deployment that was already live
+  // before this run, since a fresh one has not propagated yet. Marking a
+  // working game as broken would be worse than a late check.
+  const deploymentChanged = updates.size > 0 || pagesSetup.created;
+
+  if (!verifyDeployment) {
+    result.verificationDisabled = true;
+  } else if (deploymentChanged) {
+    result.verificationDeferred = true;
+  } else {
+    const verdict = await verifyDeployedEntry(detection.entryPath);
+    result.reachable = verdict.ok;
+    result.reachabilityDetail = verdict.reason;
+
+    if (verdict.ok) {
+      console.log(`[verify] ${getPagesUrl()} serves the game`);
+    } else if (verdict.definitive) {
+      throw new Error(`Deployed entry is not reachable: ${verdict.reason}`);
+    } else {
+      console.log(`[verify] inconclusive for ${targetOrg}/${repoName}: ${verdict.reason}`);
+    }
+  }
   summary.push(`Status: \`verified\``);
   summary.push(`Engine: \`${detection.engine}\``);
   summary.push(`Entry: \`${detection.entryPath}\``);
@@ -422,6 +475,44 @@ async function run() {
   summary.push(`Cover: \`${result.cover || "none"}\``);
   summary.push(`HTML files updated: \`${updates.size}\``);
   summary.push(`Pages URL: \`${getPagesUrl()}\``);
+  if (result.verificationDeferred) {
+    summary.push("Deployment verification: `deferred to the next run`");
+  }
+  if (result.reachable !== undefined) {
+    summary.push(`Deployment reachable: \`${result.reachable}\``);
+  }
+}
+
+// Fetch the deployed entry point and make sure it really is the game. Returns
+// `definitive: false` when the answer says more about the network than about
+// the deployment, so a site-wide outage cannot retire every entry at once.
+async function verifyDeployedEntry(entryPath) {
+  const relativePath = String(entryPath || "index.html");
+  const url = `${getPagesUrl()}${relativePath.split("/").map(encodeURIComponent).join("/")}`;
+
+  let response;
+
+  try {
+    response = await fetch(url, {
+      headers: { "User-Agent": "WebRPG-index/1.0", Accept: "text/html,*/*" },
+      redirect: "follow",
+      signal: AbortSignal.timeout(reachabilityTimeoutMs),
+    });
+  } catch (error) {
+    return { ok: false, definitive: false, reason: `${url} could not be fetched: ${error.message}` };
+  }
+
+  if (!response.ok) {
+    const definitive = [403, 404, 410].includes(response.status);
+    return { ok: false, definitive, reason: `${url} responded with HTTP ${response.status}` };
+  }
+
+  const body = (await response.text()).toLowerCase();
+  const servesGame = body.includes("rpg_core.js") || body.includes("rmmz_core.js");
+
+  return servesGame
+    ? { ok: true, definitive: true, reason: `${url} served an RPG Maker entry point` }
+    : { ok: false, definitive: true, reason: `${url} served a page without an RPG Maker entry point` };
 }
 
 function skipLargeRepository(reason) {
@@ -622,6 +713,9 @@ function getScriptSources(content) {
   return sources;
 }
 
+// Only the title screens count as a cover. Anything else (the application
+// icon, favicons, in-game pictures) is the wrong shape or the wrong image, and
+// showing one as a full-size banner is worse than showing nothing.
 function findCover(files, projectRoot) {
   const lowerRoot = projectRoot.toLowerCase();
   const imageFiles = files
@@ -695,12 +789,8 @@ async function decryptRpgmvp(org, repo, fileSha) {
 }
 
 async function flattenProjectToRoot(branch, headSha, tree, projectRoot) {
-  const blobEntries = [];
-  const coverEntry = tree.tree.find(
-    (item) => item.type === "blob" && /^cover\.(png|jpg|jpeg|webp)$/i.test(item.path),
-  );
-
   const rootPrefix = projectRoot.toLowerCase();
+  const entriesByPath = new Map();
 
   for (const item of tree.tree) {
     if (item.type !== "blob") continue;
@@ -712,11 +802,16 @@ async function flattenProjectToRoot(branch, headSha, tree, projectRoot) {
     if (itemPath.toLowerCase().startsWith(rootPrefix)) {
       const newPath = itemPath.slice(projectRoot.length);
       if (!newPath) continue;
-      blobEntries.push({ path: newPath, sha: item.sha, mode: "100644", type: "blob" });
-    } else if (itemPath === "cover.png" || (coverEntry && itemPath === coverEntry.path)) {
-      blobEntries.push({ path: itemPath, sha: item.sha, mode: "100644", type: "blob" });
+      // Project files win a name collision: they are the game being published.
+      entriesByPath.set(newPath, { path: newPath, sha: item.sha, mode: "100644", type: "blob" });
+    } else if (!entriesByPath.has(itemPath)) {
+      // Everything outside the project root is kept where it is. Dropping it
+      // used to destroy READMEs, licences and the other games of a monorepo.
+      entriesByPath.set(itemPath, { path: itemPath, sha: item.sha, mode: "100644", type: "blob" });
     }
   }
+
+  const blobEntries = [...entriesByPath.values()];
 
   if (blobEntries.length === 0) {
     // Reporting success here used to publish a root Pages URL for a project
@@ -725,7 +820,7 @@ async function flattenProjectToRoot(branch, headSha, tree, projectRoot) {
     throw new Error(`Flatten failed: no files found under project root "${projectRoot}" in ${targetOrg}/${repoName}.`);
   }
 
-  console.log(`[flatten] Moving ${blobEntries.length} files from ${projectRoot} to root`);
+  console.log(`[flatten] Publishing ${blobEntries.length} files with ${projectRoot} moved to the root`);
 
   // Group by top-level directory for nested tree creation
   const dirGroups = new Map();
@@ -940,13 +1035,13 @@ async function ensurePages(branch, sourcePath) {
       ok: [201],
     });
     console.log(`[pages] enabled ${getPagesUrl()}`);
-    return created;
+    return { pages: created, created: true };
   }
 
   const source = current.source || {};
   if (source.branch === branch && source.path === sourcePath) {
     console.log(`[pages] already enabled ${getPagesUrl()}`);
-    return current;
+    return { pages: current, created: false };
   }
 
   await githubRequest(`/repos/${encodeURIComponent(targetOrg)}/${encodeURIComponent(repoName)}/pages`, {
@@ -960,7 +1055,7 @@ async function ensurePages(branch, sourcePath) {
     ok: [204],
   });
   console.log(`[pages] updated ${getPagesUrl()}`);
-  return current;
+  return { pages: current, created: true };
 }
 
 async function resetForkToSource(branch, sourceHeadSha) {

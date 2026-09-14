@@ -52,7 +52,7 @@ This avoids name collisions for common repository names such as `game`, `rpg`, a
 
 The `Prepare fork repositories` workflow runs automatically after the fork workflow succeeds. It processes fork repositories that already exist in `WebRPG-org`.
 
-It does two things for each matching fork:
+It flattens the project directory to the repository root so that Pages serves the game from the repository URL, keeping every file outside that directory where it is. Then it does two things for each matching fork:
 
 - Adds this analytics script tag to HTML files that do not already contain it:
 
@@ -86,7 +86,7 @@ The workflow is fully automatic. It does not run in dry-run mode.
 
 During each run, the workflow validates every matching fork before preparing Pages. A fork is treated as valid only when it has an RPG Maker MV/MZ web structure, such as a HTML entry file plus the expected `js/rpg_core.js` or `js/rmmz_core.js` runtime files.
 
-When `dry_run=false` and `delete_invalid_repos=true`, invalid forks are deleted from `WebRPG-org`. The final aggregation job updates `list.json` with validation metadata:
+When `dry_run=false` and `delete_invalid_repos=true`, invalid forks are deleted from `WebRPG-org` — unless the repository has no upstream, in which case it may be the only copy and is kept. The final aggregation job updates `list.json` with validation metadata:
 
 - `status`
 - `checkedAt`
@@ -100,7 +100,7 @@ When `dry_run=false` and `delete_invalid_repos=true`, invalid forks are deleted 
 - `consecutiveFailures`
 - `lastFailedAt`
 
-Cover URLs are inferred from files in the fork, preferring `img/titles1/*` and then `img/titles2/*`. Encrypted `.rpgmvp` covers are decrypted back to PNG before being committed.
+Cover URLs are inferred from the fork's title screens: `img/titles1/*` first, then `img/titles2/*`. Nothing else is used — the application icon and favicons are the wrong shape and look broken as a full-size banner. Encrypted `.rpgmvp` covers are decrypted back to PNG before being committed.
 
 ### Entry status values
 
@@ -111,7 +111,7 @@ Cover URLs are inferred from files in the fork, preferring `img/titles1/*` and t
 | `invalid_structure` | No usable project was found; the fork is deleted and never re-forked. |
 | `skipped_large` | The upstream repository exceeds a size limit, so it is not prepared. |
 | `duplicate_name` | Another entry already maps to this fork. |
-| `hidden` | Manually hidden in `list.json`. |
+| `hidden` | Manually hidden in `list.json`; its fork is removed on the next prepare run. |
 | `check_error` | The last check could not reach a verdict; the entry is not advertised as playable. |
 | `unavailable` | The check cannot succeed. Retired without further retries. |
 | `retry_exhausted` | Every retry failed. Retired, but kept so it can be revived by hand. |
@@ -127,7 +127,7 @@ Every status other than `indexed`, `verified` and `check_error` is terminal. `sc
 `process-fork-repo.mjs` classifies every failure as `transient` or `permanent` and records it as `failureKind`:
 
 - **transient** — server errors, network failures, rate limits, and lost ref races (`Update is not a fast forward`). These recover on their own.
-- **permanent** — a `404`, a `403` that is not rate limiting (such as `Resource not accessible by integration`, which means the GitHub App is not installed on that repository), a `422` the API rejects outright, `not_fork` and `source_unavailable`.
+- **permanent** — a `404`, a `403` that is not rate limiting (such as `Resource not accessible by integration`, which means the GitHub App is not installed on that repository), or a `422` the API rejects outright.
 
 A failing check increments `consecutiveFailures` and records `lastFailedAt`, and the entry degrades in stages:
 
@@ -135,6 +135,20 @@ A failing check increments `consecutiveFailures` and records `lastFailedAt`, and
 2. From `FAILURE_THRESHOLD` failures: `check_error`. Not advertised as playable, still retried.
 3. `RETRY_LIMIT` (default `8`) consecutive failures: `retry_exhausted`. Retired.
 4. Any `permanent` failure: `unavailable`, retired immediately.
+
+The fork workflow can also fail before a check ever runs. It reports those failures to the prepare workflow, which retires an entry when its source repository cannot be forked at all: a name that no longer exists will not resolve on a later run, and until then every run retried it while the entry stayed `indexed` forever. Transient fork failures are left alone and retried as before.
+
+### Deployment verification
+
+Structural validation only proves the files are there, which is how entries could sit in the list as `verified` while serving a 404 or an unrelated page. Once a repository is prepared, `process-fork-repo.mjs` fetches the published entry point and requires it to contain an RPG Maker entry script. A deployment created or changed in the same run is skipped, because it has not propagated yet; the next run verifies it.
+
+A missing page, or one that answers with something other than the game, fails the check and enters the usual ladder. Network errors and 5xx responses are recorded without failing: they say more about the network than about the deployment, and a site-wide outage must not retire every entry at once.
+
+### Repositories without an upstream
+
+Membership in the index is what makes a repository one of ours, not GitHub's fork flag. A fork loses that flag when its upstream is deleted, made private or transferred away, and those repositories are the ones still serving the game.
+
+The prepare plan selects every repository named in `list.json`, and `process-fork-repo.mjs` validates a repository without an upstream in place instead of dropping it. There is nothing to synchronize from, and nothing to recover if it is deleted, so such a repository is never removed.
 
 Retired entries are skipped by the fork and prepare workflows and have their derived metadata cleared, but the entry itself stays in `list.json`. That record is what stops the index workflow from discovering the same repository again, forking it a second time and repeating the same failure. Their forks are kept as well: when the upstream repository is gone, the fork may be the only remaining copy of the game.
 
@@ -146,4 +160,4 @@ A fork is claimed by a single entry. When several entries map to the same fork �
 
 `plan-fork-repos.mjs` orders forks by the `checkedAt` recorded in `list.json`, least recently checked first. Ordering by the repository's own `updated_at` stranded forks that fail validation: a failed run never bumps `updated_at`, so the same repositories were retried on every run while the rest of the queue never advanced.
 
-Terminal entries are skipped by the fork workflow, so a fork that was deleted is never recreated on a later run.
+Terminal entries are skipped by the fork workflow, so a fork that was deleted is never recreated on a later run. `hidden` is the exception: the prepare plan still visits it once so its fork can be removed.

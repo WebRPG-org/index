@@ -94,6 +94,8 @@ jobs:
           MAX_TREE_ENTRIES: "20000"
           MAX_HTML_FILES: "500"
           MAX_HTML_TOTAL_BYTES: "52428800"
+          VERIFY_DEPLOYMENT: "true"
+          REACHABILITY_TIMEOUT_MS: "15000"
         run: node scripts/process-fork-repo.mjs
 
       - name: Upload repository result
@@ -138,10 +140,22 @@ jobs:
           merge-multiple: true
           path: workflow-results
 
+      - name: Download fork failures
+        # Uploaded by the fork workflow that triggered this run. Absent when
+        # every fork was created successfully.
+        continue-on-error: true
+        uses: actions/download-artifact@v4
+        with:
+          name: fork-failures
+          run-id: ${{ github.event.workflow_run.id }}
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          path: workflow-failures
+
       - name: Commit list metadata
         env:
           DRY_RUN: "false"
           RESULTS_DIR: workflow-results
+          FORK_FAILURES_DIR: workflow-failures
           # Consecutive failures tolerated before an entry stops being
           # advertised as playable, and before it is retired for good.
           FAILURE_THRESHOLD: "3"

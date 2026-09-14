@@ -1,7 +1,7 @@
 import crypto from "node:crypto";
 import fs from "node:fs/promises";
 
-import { isTerminalStatus } from "./repo-status.mjs";
+import { isPlanSkipped } from "./repo-status.mjs";
 
 const apiBase = "https://api.github.com";
 const token = process.env.WEBRPG_APP_TOKEN || process.env.GITHUB_TOKEN || "";
@@ -18,7 +18,11 @@ const indexedNames = new Set(getUniqueSources(list).map((item) => item.forkName.
 const lastCheckedByFork = getLastCheckedByFork(list);
 const orgRepos = await loadOrgRepos(targetOrg);
 const targets = orgRepos
-  .filter((repo) => repo.fork && indexedNames.has(repo.name.toLowerCase()))
+  // Membership in the index is what makes a repository ours. The fork flag is
+  // not a reliable test: a fork loses it when its upstream is deleted, made
+  // private or transferred away, and those repositories used to drop out of
+  // the pipeline for good while still holding the only copy of the game.
+  .filter((repo) => indexedNames.has(repo.name.toLowerCase()))
   .sort((left, right) => {
     // Least recently checked first, so every fork is revisited in turn.
     // Ordering by the repository's own updated_at stranded forks that fail
@@ -66,7 +70,7 @@ function getUniqueSources(entries) {
   const seenRepoNames = new Set();
 
   for (const entry of entries) {
-    if (isTerminalStatus(entry)) {
+    if (isPlanSkipped(entry)) {
       continue;
     }
 

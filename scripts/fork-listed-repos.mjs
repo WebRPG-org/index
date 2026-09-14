@@ -14,6 +14,7 @@ const retryLimit = parseNonNegativeInt(process.env.RETRY_LIMIT || "5");
 const retryBaseDelayMs = parseNonNegativeInt(process.env.RETRY_BASE_DELAY_SECONDS || "60") * 1000;
 const retryMaxDelayMs = 15 * 60 * 1000;
 const includeInvalid = parseBoolean(process.env.INCLUDE_INVALID, false);
+const failureReportDir = process.env.FORK_FAILURES_DIR || "fork-failures";
 
 class GitHubApiError extends Error {
   constructor(status, message, details) {
@@ -119,6 +120,7 @@ if (failures.length > 0) {
   }
 }
 
+await writeFailureReport(failures);
 await writeStepSummary(summary);
 
 if (failed > 0) {
@@ -301,6 +303,36 @@ async function githubRequest(path, options = {}) {
   }
 
   return data;
+}
+
+// Report the forks that could not be created. The prepare workflow reads this
+// file and retires entries whose source repository is gone for good, instead of
+// letting every run of this workflow retry a name that no longer exists.
+async function writeFailureReport(failureList) {
+  if (failureList.length === 0) {
+    return;
+  }
+
+  await fs.mkdir(failureReportDir, { recursive: true });
+  const report = {
+    checkedAt: new Date().toISOString(),
+    failures: failureList.map(({ item, error }) => ({
+      source: item.source,
+      forkName: item.forkName,
+      kind: classifyForkFailure(error),
+      status: error instanceof GitHubApiError ? error.status : 0,
+      message: error.message,
+    })),
+  };
+  const reportPath = `${failureReportDir}/fork-failures.json`;
+  await fs.writeFile(reportPath, `${JSON.stringify(report, null, 2)}\n`, "utf8");
+  console.log(`Wrote ${failureList.length} fork failure(s) to ${reportPath}`);
+}
+
+function classifyForkFailure(error) {
+  // The source repository is gone: deleted, made private or renamed away. A
+  // later run fails in exactly the same way.
+  return error instanceof GitHubApiError && error.status === 404 ? "permanent" : "transient";
 }
 
 function parseResponseBody(text) {
