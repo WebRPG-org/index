@@ -10,6 +10,11 @@ on:
 
 permissions:
   contents: read
+  # The aggregate job downloads an artifact produced by the fork workflow run
+  # that triggered this one. Specifying any permission sets the rest to none,
+  # so this scope has to be listed or the download is refused and the fork
+  # failures are silently ignored.
+  actions: read
 
 concurrency:
   # This workflow and the index workflow both write list.json.
