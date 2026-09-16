@@ -2288,6 +2288,19 @@
     "status": "indexed"
   },
   {
+    "id": "neonnoiru-xrkxq",
+    "title": "夏日狂想曲+ v2.00",
+    "repo": "https://github.com/NeonNoirU/xrkxq",
+    "owner": "NeonNoirU",
+    "name": "xrkxq",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "discoveredAt": "2026-09-16T10:53:30.292Z",
+    "source": "github-code-search",
+    "sourcePath": "www/index.html",
+    "plannedForkName": "NeonNoirU-xrkxq"
+  },
+  {
     "id": "cos3915-kksalldemo",
     "title": "闲梦鹿惊",
     "repo": "https://github.com/Cos3915/kksalldemo",
@@ -4076,6 +4089,19 @@
     "validationScore": 50
   },
   {
+    "id": "greengru2-ugs-files",
+    "title": "BLOODMONEY!",
+    "repo": "https://github.com/GreenGru2/ugs-files",
+    "owner": "GreenGru2",
+    "name": "ugs-files",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "discoveredAt": "2026-09-16T10:53:30.292Z",
+    "source": "github-code-search",
+    "sourcePath": "clbloodmoney.html",
+    "plannedForkName": "GreenGru2-ugs-files"
+  },
+  {
     "id": "gx-gamescrack-gx-gamescrack-github-io",
     "title": "BLOODMONEY!",
     "repo": "https://github.com/gx-gamescrack/GX-Gamescrack.github.io",
@@ -4217,6 +4243,19 @@
     "plannedForkName": "liamdeathboy-cautious-fishstick"
   },
   {
+    "id": "lilcancermuncher-games",
+    "title": "BLOODMONEY!",
+    "repo": "https://github.com/LilCancerMuncher/games",
+    "owner": "LilCancerMuncher",
+    "name": "games",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "discoveredAt": "2026-09-16T10:53:30.292Z",
+    "source": "github-code-search",
+    "sourcePath": "clbloodmoney.html",
+    "plannedForkName": "LilCancerMuncher-games"
+  },
+  {
     "id": "lilvamp1x-lilvamp1xnetwork-github-io",
     "title": "BLOODMONEY!",
     "repo": "https://github.com/LilVamp1X/lilvamp1xnetwork.github.io",
@@ -4333,6 +4372,19 @@
     "validationScore": 45
   },
   {
+    "id": "packjackisback-games",
+    "title": "BLOODMONEY!",
+    "repo": "https://github.com/Packjackisback/games",
+    "owner": "Packjackisback",
+    "name": "games",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "discoveredAt": "2026-09-16T10:53:30.292Z",
+    "source": "github-code-search",
+    "sourcePath": "bloodmoney.html",
+    "plannedForkName": "Packjackisback-games"
+  },
+  {
     "id": "rosinxsosa-rosin",
     "title": "BLOODMONEY!",
     "repo": "https://github.com/rosinxsosa/rosin",
@@ -4367,6 +4419,19 @@
     "invalidReason": "RPG Maker structure is incomplete near games/clbloodmoney.html.",
     "deletedAt": "2026-07-12T00:05:34.428Z",
     "validationScore": 45
+  },
+  {
+    "id": "susk3y-slay3r123-games",
+    "title": "BLOODMONEY!",
+    "repo": "https://github.com/Susk3y-Slay3r123/games",
+    "owner": "Susk3y-Slay3r123",
+    "name": "games",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "discoveredAt": "2026-09-16T10:53:30.292Z",
+    "source": "github-code-search",
+    "sourcePath": "BLOODMONEY!.html",
+    "plannedForkName": "Susk3y-Slay3r123-games"
   },
   {
     "id": "technonyte00-vapor-v4-games",
@@ -4483,6 +4548,32 @@
     "source": "github-code-search",
     "sourcePath": "public/clbloodmoney.html",
     "plannedForkName": "urnperiodic-urnperiodic.github.io"
+  },
+  {
+    "id": "whosrogo-kronos-v1",
+    "title": "BLOODMONEY!",
+    "repo": "https://github.com/whosrogo/Kronos-V1",
+    "owner": "whosrogo",
+    "name": "Kronos-V1",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "discoveredAt": "2026-09-16T10:53:30.292Z",
+    "source": "github-code-search",
+    "sourcePath": "public/games/clbloodmoney.html",
+    "plannedForkName": "whosrogo-Kronos-V1"
+  },
+  {
+    "id": "xavier509-ugs-files",
+    "title": "BLOODMONEY!",
+    "repo": "https://github.com/Xavier509/UGS-Files",
+    "owner": "Xavier509",
+    "name": "UGS-Files",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "discoveredAt": "2026-09-16T10:53:30.292Z",
+    "source": "github-code-search",
+    "sourcePath": "clbloodmoney.html",
+    "plannedForkName": "Xavier509-UGS-Files"
   },
   {
     "id": "xxmizzeryxx-mountaineer-eclipse",
@@ -4841,6 +4932,19 @@
     "syncedFromSource": true
   },
   {
+    "id": "selena-flores-game",
+    "title": "Cascadia",
+    "repo": "https://github.com/selena-flores/game",
+    "owner": "selena-flores",
+    "name": "game",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "discoveredAt": "2026-09-16T10:53:30.292Z",
+    "source": "github-code-search",
+    "sourcePath": "index.html",
+    "plannedForkName": "selena-flores-game"
+  },
+  {
     "id": "cosmiccatacorn-ahjkjh",
     "title": "castillo de la persona",
     "repo": "https://github.com/cosmiccatacorn/ahjkjh",
@@ -5140,6 +5244,19 @@
     "invalidReason": "RPG Maker structure is incomplete near clbloodmoney.html.",
     "deletedAt": "2026-07-09T06:57:47.109Z",
     "validationScore": 45
+  },
+  {
+    "id": "pradeepban-arch-games",
+    "title": "Cold Front",
+    "repo": "https://github.com/pradeepban-arch/games",
+    "owner": "pradeepban-arch",
+    "name": "games",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "discoveredAt": "2026-09-16T10:53:30.292Z",
+    "source": "github-code-search",
+    "sourcePath": "clcoldfront.html",
+    "plannedForkName": "pradeepban-arch-games"
   },
   {
     "id": "shayderrr-idkugssuggestion",
@@ -5470,6 +5587,19 @@
     "source": "github-code-search",
     "sourcePath": "www/index.html",
     "plannedForkName": "szymor-elemental-saga"
+  },
+  {
+    "id": "szymor-games",
+    "title": "Crest Story",
+    "repo": "https://github.com/szymor/games",
+    "owner": "szymor",
+    "name": "games",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "discoveredAt": "2026-09-16T10:53:30.292Z",
+    "source": "github-code-search",
+    "sourcePath": "elesaga/index.html",
+    "plannedForkName": "szymor-games"
   },
   {
     "id": "dejely-bean-studios-crime-never-sleeps",
@@ -5876,6 +6006,19 @@
     "validationScore": 45
   },
   {
+    "id": "frenchhelp-games",
+    "title": "DEAD PLATE",
+    "repo": "https://github.com/FrenchHelp/Games",
+    "owner": "FrenchHelp",
+    "name": "Games",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "discoveredAt": "2026-09-16T10:53:30.292Z",
+    "source": "github-code-search",
+    "sourcePath": "games/cldeadplate.html",
+    "plannedForkName": "FrenchHelp-Games"
+  },
+  {
     "id": "gannixyt-games-gannix",
     "title": "DEAD PLATE",
     "repo": "https://github.com/GannixYT/games-gannix",
@@ -6057,6 +6200,19 @@
     "invalidReason": "RPG Maker structure is incomplete near Games/HTML/Bloodmoney.html.",
     "deletedAt": "2026-06-17T03:56:57.410Z",
     "validationScore": 45
+  },
+  {
+    "id": "perfectnip-perfectnip-github-io",
+    "title": "DEAD PLATE",
+    "repo": "https://github.com/perfectnip/perfectnip.github.io",
+    "owner": "perfectnip",
+    "name": "perfectnip.github.io",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "discoveredAt": "2026-09-16T10:53:30.292Z",
+    "source": "github-code-search",
+    "sourcePath": "q/g/dead-plate/index.html",
+    "plannedForkName": "perfectnip-perfectnip.github.io"
   },
   {
     "id": "petezah-g-petestatic",
@@ -8071,6 +8227,19 @@
     "syncedFromSource": true
   },
   {
+    "id": "oliver-grant-game",
+    "title": "Game",
+    "repo": "https://github.com/oliver-grant/game",
+    "owner": "oliver-grant",
+    "name": "game",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "discoveredAt": "2026-09-16T10:53:30.292Z",
+    "source": "github-code-search",
+    "sourcePath": "index.html",
+    "plannedForkName": "oliver-grant-game"
+  },
+  {
     "id": "h0ngliangli-game-name",
     "title": "Game Name",
     "repo": "https://github.com/h0ngliangli/Game-Name",
@@ -8795,6 +8964,19 @@
     "validationScore": 60
   },
   {
+    "id": "ashton20271-unblockedgames",
+    "title": "Home | Compass",
+    "repo": "https://github.com/Ashton20271/unblockedgames",
+    "owner": "Ashton20271",
+    "name": "unblockedgames",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "discoveredAt": "2026-09-16T10:53:30.292Z",
+    "source": "github-code-search",
+    "sourcePath": "cldeadplate.html",
+    "plannedForkName": "Ashton20271-unblockedgames"
+  },
+  {
     "id": "harshulmoon-harshulmoon-github-io",
     "title": "Home|Compass",
     "repo": "https://github.com/harshulmoon/harshulmoon.github.io",
@@ -9381,6 +9563,32 @@
     "sourceRepo": "TheModernSMoore/themodernsmoore.github.io"
   },
   {
+    "id": "waycrosspublicmedia-assets",
+    "title": "Kana",
+    "repo": "https://github.com/waycrosspublicmedia/assets",
+    "owner": "waycrosspublicmedia",
+    "name": "assets",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "discoveredAt": "2026-09-16T10:53:30.292Z",
+    "source": "github-code-search",
+    "sourcePath": "kanaexe/index.html",
+    "plannedForkName": "waycrosspublicmedia-assets"
+  },
+  {
+    "id": "daknux-html",
+    "title": "kanaexe",
+    "repo": "https://github.com/daknux/html",
+    "owner": "daknux",
+    "name": "html",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "discoveredAt": "2026-09-16T10:53:30.292Z",
+    "source": "github-code-search",
+    "sourcePath": "364.html",
+    "plannedForkName": "daknux-html"
+  },
+  {
     "id": "renrender0209-kankin",
     "title": "kankin",
     "repo": "https://github.com/renrender0209/kankin",
@@ -9503,6 +9711,19 @@
     "source": "github-code-search",
     "sourcePath": "public/koexdemo/index.html",
     "plannedForkName": "ikyih-gamesofthehub"
+  },
+  {
+    "id": "etg227-k8s-isekai",
+    "title": "Kubernetes Isekai",
+    "repo": "https://github.com/etg227/k8s-isekai",
+    "owner": "etg227",
+    "name": "k8s-isekai",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "discoveredAt": "2026-09-16T10:53:30.292Z",
+    "source": "github-code-search",
+    "sourcePath": "index.html",
+    "plannedForkName": "etg227-k8s-isekai"
   },
   {
     "id": "etg227-new-game",
@@ -9868,6 +10089,19 @@
     "sourceHeadSha": "b0f137968eaedf33d39e1817edf5cfcfd11502ff",
     "processedHeadSha": "2350f2523c2930a2f9e8ade28f0c26f543d32b3b",
     "syncedFromSource": true
+  },
+  {
+    "id": "lriki-rpgmakermv",
+    "title": "LN_AdvancedMapPuzzleSystem",
+    "repo": "https://github.com/lriki/RPGMakerMV",
+    "owner": "lriki",
+    "name": "RPGMakerMV",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "discoveredAt": "2026-09-16T10:53:30.292Z",
+    "source": "github-code-search",
+    "sourcePath": "LN_AdvancedMapPuzzleSystem/index.html",
+    "plannedForkName": "lriki-RPGMakerMV"
   },
   {
     "id": "camiinyx-the-8-elements",
@@ -11482,6 +11716,19 @@
     "validationScore": 50
   },
   {
+    "id": "dotgui-dev-dotgui",
+    "title": "OMORI",
+    "repo": "https://github.com/dotgui-dev/DotGUI",
+    "owner": "dotgui-dev",
+    "name": "DotGUI",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "discoveredAt": "2026-09-16T10:53:30.292Z",
+    "source": "github-code-search",
+    "sourcePath": "game-embeds/omori.html",
+    "plannedForkName": "dotgui-dev-DotGUI"
+  },
+  {
     "id": "dotgui-dev-dotgui-old",
     "title": "OMORI",
     "repo": "https://github.com/dotgui-dev/DotGUI-old",
@@ -11955,6 +12202,19 @@
     "plannedForkName": "phexusmath-phexusmath.github.io2"
   },
   {
+    "id": "pizzacat1-dotgui",
+    "title": "OMORI",
+    "repo": "https://github.com/Pizzacat1/DotGUI",
+    "owner": "Pizzacat1",
+    "name": "DotGUI",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "discoveredAt": "2026-09-16T10:53:30.292Z",
+    "source": "github-code-search",
+    "sourcePath": "game-embeds/omori.html",
+    "plannedForkName": "Pizzacat1-DotGUI"
+  },
+  {
     "id": "rains-im-brightpath",
     "title": "OMORI",
     "repo": "https://github.com/rainS-IM/BrightPath",
@@ -12008,6 +12268,19 @@
     "dataSize": 0,
     "sourceRepo": "sigmiliarity/web",
     "invalidReason": "Upstream repository size 11402662 KB exceeds the 8388608 KB limit."
+  },
+  {
+    "id": "somerandomfella-fyinx",
+    "title": "OMORI",
+    "repo": "https://github.com/SomeRandomFella/fyinx",
+    "owner": "SomeRandomFella",
+    "name": "fyinx",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "discoveredAt": "2026-09-16T10:53:30.292Z",
+    "source": "github-code-search",
+    "sourcePath": "g/omo.html",
+    "plannedForkName": "SomeRandomFella-fyinx"
   },
   {
     "id": "starsnail-tokimori",
@@ -13648,6 +13921,19 @@
     "sourceRepo": "supShag/YaXNLW"
   },
   {
+    "id": "wangwangxingao-rmmv",
+    "title": "Project3",
+    "repo": "https://github.com/wangwangxingao/RMMV",
+    "owner": "wangwangxingao",
+    "name": "RMMV",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "discoveredAt": "2026-09-16T10:53:30.292Z",
+    "source": "github-code-search",
+    "sourcePath": "注释/index.html",
+    "plannedForkName": "wangwangxingao-RMMV"
+  },
+  {
     "id": "sabakan03-mv",
     "title": "Project4",
     "repo": "https://github.com/sabakan03/mv",
@@ -13702,6 +13988,19 @@
     "invalidReason": "RPG Maker structure is incomplete near app/index.html.",
     "deletedAt": "2026-06-16T12:17:45.914Z",
     "validationScore": 55
+  },
+  {
+    "id": "ananta-ti-rpg-maker",
+    "title": "projek",
+    "repo": "https://github.com/Ananta-TI/Rpg-maker",
+    "owner": "Ananta-TI",
+    "name": "Rpg-maker",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "discoveredAt": "2026-09-16T10:53:30.292Z",
+    "source": "github-code-search",
+    "sourcePath": "index.html",
+    "plannedForkName": "Ananta-TI-Rpg-maker"
   },
   {
     "id": "fivj-prouni",
@@ -14884,6 +15183,19 @@
     "source": "github-code-search",
     "sourcePath": "secret_passage/SecretPassageDemo/index.html",
     "plannedForkName": "zkrejcov-rmmv-plugins"
+  },
+  {
+    "id": "tcc-iago-lucas-game",
+    "title": "SegIFF",
+    "repo": "https://github.com/tcc-Iago-Lucas/game",
+    "owner": "tcc-Iago-Lucas",
+    "name": "game",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "discoveredAt": "2026-09-16T10:53:30.292Z",
+    "source": "github-code-search",
+    "sourcePath": "www/index.html",
+    "plannedForkName": "tcc-Iago-Lucas-game"
   },
   {
     "id": "ec-developer-hub-virusssss",
@@ -16141,6 +16453,19 @@
     "sourceHeadSha": "6104c147ff92882df49fe929cd44c276d2350390",
     "processedHeadSha": "1d7cecfe1d70037d788111749197106c4ef548d4",
     "syncedFromSource": true
+  },
+  {
+    "id": "94entertainment-rmmv",
+    "title": "Test01-Escape",
+    "repo": "https://github.com/94entertainment/rmmv",
+    "owner": "94entertainment",
+    "name": "rmmv",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "discoveredAt": "2026-09-16T10:53:30.292Z",
+    "source": "github-code-search",
+    "sourcePath": "Test01-Escape/index.html",
+    "plannedForkName": "94entertainment-rmmv"
   },
   {
     "id": "hzj199710-rpgmakerp1",
