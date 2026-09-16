@@ -876,6 +876,19 @@
     "syncedFromSource": true
   },
   {
+    "id": "myueqf-myueqf-github-io",
+    "title": "归还",
+    "repo": "https://github.com/myueqf/myueqf.github.io",
+    "owner": "myueqf",
+    "name": "myueqf.github.io",
+    "engine": "RPG Maker MZ",
+    "status": "indexed",
+    "discoveredAt": "2026-09-16T10:53:30.292Z",
+    "source": "github-code-search",
+    "sourcePath": "app/归还/index.html",
+    "plannedForkName": "myueqf-myueqf.github.io"
+  },
+  {
     "id": "formidi-kanzidego",
     "title": "漢字でGO!",
     "repo": "https://github.com/Formidi/KanzideGo",
@@ -1614,6 +1627,19 @@
     "sourceHeadSha": "e31dc3633ef40d9d7d48f88edee0fc7ebee3978f",
     "processedHeadSha": "76d2b26e494d04784466b3119c461a37fb5580c1",
     "syncedFromSource": true
+  },
+  {
+    "id": "shunufy-shunufy-github-io",
+    "title": "親愛なるあなたへ",
+    "repo": "https://github.com/shunufy/shunufy.github.io",
+    "owner": "shunufy",
+    "name": "shunufy.github.io",
+    "engine": "RPG Maker MZ",
+    "status": "indexed",
+    "discoveredAt": "2026-09-16T10:53:30.292Z",
+    "source": "github-code-search",
+    "sourcePath": "sinai/index.html",
+    "plannedForkName": "shunufy-shunufy.github.io"
   },
   {
     "id": "199023-pixel-aooni2016",
@@ -2355,6 +2381,19 @@
     "forkName": "Starktomy-tunshi"
   },
   {
+    "id": "mrxiyi666-wanshenjiegame",
+    "title": "万神劫•神座",
+    "repo": "https://github.com/MrXiyi666/WanShenjieGame",
+    "owner": "MrXiyi666",
+    "name": "WanShenjieGame",
+    "engine": "RPG Maker MZ",
+    "status": "indexed",
+    "discoveredAt": "2026-09-16T10:53:30.292Z",
+    "source": "github-code-search",
+    "sourcePath": "app/src/main/assets/index.html",
+    "plannedForkName": "MrXiyi666-WanShenjieGame"
+  },
+  {
     "id": "mingpnyy-rpgmaker-mv",
     "title": "危在旦汐",
     "repo": "https://github.com/mingpnyy/rpgmaker-mv",
@@ -2649,6 +2688,19 @@
     "sourceHeadSha": "60cd3981389a4849933eaa3dfeee66dc3c152fb2",
     "processedHeadSha": "ffb9f7285cf06b130bd66fdedb19d8892e8c639a",
     "syncedFromSource": true
+  },
+  {
+    "id": "blacktunes-hiiro-rpg",
+    "title": "与你相遇的那天是轮回高校的日常这也是合理的吗？",
+    "repo": "https://github.com/blacktunes/hiiro-rpg",
+    "owner": "blacktunes",
+    "name": "hiiro-rpg",
+    "engine": "RPG Maker MZ",
+    "status": "indexed",
+    "discoveredAt": "2026-09-16T10:53:30.292Z",
+    "source": "github-code-search",
+    "sourcePath": "src/game/index.html",
+    "plannedForkName": "blacktunes-hiiro-rpg"
   },
   {
     "id": "daylight5378-once-upon-a-squire",
@@ -3025,6 +3077,19 @@
     "sourceHeadSha": "528230e7fd2d3589ba5b61a708f3e031fb4215da",
     "processedHeadSha": "07086f2c3b38f8bee2238c87f4514a99c1921004",
     "syncedFromSource": true
+  },
+  {
+    "id": "frostytoast37-frostytoast37-github-io",
+    "title": "AGBOUND (DEMO)",
+    "repo": "https://github.com/FrostyToast37/frostytoast37.github.io",
+    "owner": "FrostyToast37",
+    "name": "frostytoast37.github.io",
+    "engine": "RPG Maker MZ",
+    "status": "indexed",
+    "discoveredAt": "2026-09-16T10:53:30.292Z",
+    "source": "github-code-search",
+    "sourcePath": "www/NEWDXDEMO/index.html",
+    "plannedForkName": "FrostyToast37-frostytoast37.github.io"
   },
   {
     "id": "aaaaagold-mylightballs",
@@ -3456,6 +3521,19 @@
     "sourceHeadSha": "dc9a7198f7d417333be87a054aa0f33318ba8f74",
     "processedHeadSha": "5e63cc5d39a7bcf44e005838cdad3cef4b0ce9f8",
     "syncedFromSource": true
+  },
+  {
+    "id": "raihlima-gerente-projetos-web-mz",
+    "title": "As Aventuras de um Gerente de Projetos",
+    "repo": "https://github.com/raihlima/Gerente-Projetos-Web-MZ",
+    "owner": "raihlima",
+    "name": "Gerente-Projetos-Web-MZ",
+    "engine": "RPG Maker MZ",
+    "status": "indexed",
+    "discoveredAt": "2026-09-16T10:53:30.292Z",
+    "source": "github-code-search",
+    "sourcePath": "Project1/index.html",
+    "plannedForkName": "raihlima-Gerente-Projetos-Web-MZ"
   },
   {
     "id": "devdinho-ascending-magic",
@@ -5636,6 +5714,32 @@
     "validationScore": 45
   },
   {
+    "id": "gullamalmuzadid-pengembangan-game",
+    "title": "College",
+    "repo": "https://github.com/GullamAlmuzadid/Pengembangan_Game",
+    "owner": "GullamAlmuzadid",
+    "name": "Pengembangan_Game",
+    "engine": "RPG Maker MZ",
+    "status": "indexed",
+    "discoveredAt": "2026-09-16T10:53:30.292Z",
+    "source": "github-code-search",
+    "sourcePath": "UAS/index.html",
+    "plannedForkName": "GullamAlmuzadid-Pengembangan_Game"
+  },
+  {
+    "id": "gullamalmuzadid-pg-collegelive",
+    "title": "College",
+    "repo": "https://github.com/GullamAlmuzadid/PG_CollegeLive",
+    "owner": "GullamAlmuzadid",
+    "name": "PG_CollegeLive",
+    "engine": "RPG Maker MZ",
+    "status": "indexed",
+    "discoveredAt": "2026-09-16T10:53:30.292Z",
+    "source": "github-code-search",
+    "sourcePath": "College/index.html",
+    "plannedForkName": "GullamAlmuzadid-PG_CollegeLive"
+  },
+  {
     "id": "dewandrar-college-live",
     "title": "College Live",
     "repo": "https://github.com/DewandraR/College-Live",
@@ -5659,6 +5763,19 @@
     "sourceHeadSha": "7687b9b3f048ce9809a64189db55f18e5dc0da52",
     "processedHeadSha": "56d000dbefd30fd8df2e04465ee31448f9f098b5",
     "syncedFromSource": true
+  },
+  {
+    "id": "patbqc-rpg-csb",
+    "title": "Collège St-Bernard de Drummondville",
+    "repo": "https://github.com/PatBQc/rpg-csb",
+    "owner": "PatBQc",
+    "name": "rpg-csb",
+    "engine": "RPG Maker MZ",
+    "status": "indexed",
+    "discoveredAt": "2026-09-16T10:53:30.292Z",
+    "source": "github-code-search",
+    "sourcePath": "Sources/index.html",
+    "plannedForkName": "PatBQc-rpg-csb"
   },
   {
     "id": "blairwilcox-colosseum",
@@ -6044,6 +6161,19 @@
     "syncedFromSource": true
   },
   {
+    "id": "teritaris-cryptocasino",
+    "title": "CryptoCasino",
+    "repo": "https://github.com/teritaris/CryptoCasino",
+    "owner": "teritaris",
+    "name": "CryptoCasino",
+    "engine": "RPG Maker MZ",
+    "status": "indexed",
+    "discoveredAt": "2026-09-16T10:53:30.292Z",
+    "source": "github-code-search",
+    "sourcePath": "client/index.html",
+    "plannedForkName": "teritaris-CryptoCasino"
+  },
+  {
     "id": "telegd-ctf-shoottnup",
     "title": "CTF-ShootTNUp",
     "repo": "https://github.com/TeleGD/CTF-ShootTNUp",
@@ -6230,6 +6360,19 @@
     "sourceHeadSha": "574925aa9215854c542bbc338329a79b72b7be46",
     "processedHeadSha": "919bb8607ead1e40a72882c9fda12928fea346d3",
     "syncedFromSource": true
+  },
+  {
+    "id": "edneyreis999-projectx",
+    "title": "Daratrine - A Origem",
+    "repo": "https://github.com/edneyreis999/projectX",
+    "owner": "edneyreis999",
+    "name": "projectX",
+    "engine": "RPG Maker MZ",
+    "status": "indexed",
+    "discoveredAt": "2026-09-16T10:53:30.292Z",
+    "source": "github-code-search",
+    "sourcePath": "frontend/index.html",
+    "plannedForkName": "edneyreis999-projectX"
   },
   {
     "id": "davidlopez3d-project-darkestvalley",
@@ -6787,6 +6930,19 @@
     "validationScore": 45
   },
   {
+    "id": "rockinraven-daniraven",
+    "title": "demo",
+    "repo": "https://github.com/Rockinraven/daniRaven",
+    "owner": "Rockinraven",
+    "name": "daniRaven",
+    "engine": "RPG Maker MZ",
+    "status": "indexed",
+    "discoveredAt": "2026-09-16T10:53:30.292Z",
+    "source": "github-code-search",
+    "sourcePath": "demo/index.html",
+    "plannedForkName": "Rockinraven-daniRaven"
+  },
+  {
     "id": "marcovarasperez-marcovarasperez-github-io",
     "title": "Demo Core Delta",
     "repo": "https://github.com/marcovarasperez/marcovarasperez.github.io",
@@ -6831,6 +6987,19 @@
     "sourceHeadSha": "67aceb00162ddafacee9c25dc08dd7193d078c3a",
     "processedHeadSha": "4ffa63a42d0c8653035d40a678cbd68e13ae60f6",
     "syncedFromSource": true
+  },
+  {
+    "id": "furkkurt-kurt-s-plugins-demo-project",
+    "title": "deneme",
+    "repo": "https://github.com/furkkurt/Kurt-s-Plugins-Demo-Project",
+    "owner": "furkkurt",
+    "name": "Kurt-s-Plugins-Demo-Project",
+    "engine": "RPG Maker MZ",
+    "status": "indexed",
+    "discoveredAt": "2026-09-16T10:53:30.292Z",
+    "source": "github-code-search",
+    "sourcePath": "index.html",
+    "plannedForkName": "furkkurt-Kurt-s-Plugins-Demo-Project"
   },
   {
     "id": "uppteam-uppteam-github-io",
@@ -6943,6 +7112,19 @@
     "sourceHeadSha": "76ae8356b40081d023b9541bfc2de6434c2a5b73",
     "processedHeadSha": "3ea741c81a4e055a44bb5603a9a41d867b687672",
     "syncedFromSource": true
+  },
+  {
+    "id": "sawasaki-coder-test-game",
+    "title": "Di Qua Mua Ha",
+    "repo": "https://github.com/Sawasaki-coder/test-game-",
+    "owner": "Sawasaki-coder",
+    "name": "test-game-",
+    "engine": "RPG Maker MZ",
+    "status": "indexed",
+    "discoveredAt": "2026-09-16T10:53:30.292Z",
+    "source": "github-code-search",
+    "sourcePath": "HaGames/index.html",
+    "plannedForkName": "Sawasaki-coder-test-game"
   },
   {
     "id": "ovate-rmmv-dice",
@@ -8323,6 +8505,19 @@
     "sourceRepo": "paisuygoda/ff5likedata"
   },
   {
+    "id": "drwhomust-fightinggame",
+    "title": "fighting game",
+    "repo": "https://github.com/Drwhomust/fightinggame",
+    "owner": "Drwhomust",
+    "name": "fightinggame",
+    "engine": "RPG Maker MZ",
+    "status": "indexed",
+    "discoveredAt": "2026-09-16T10:53:30.292Z",
+    "source": "github-code-search",
+    "sourcePath": "game/fightinggame/index.html",
+    "plannedForkName": "Drwhomust-fightinggame"
+  },
+  {
     "id": "lovehina13-finalsymphonia",
     "title": "Final Symphonia",
     "repo": "https://github.com/lovehina13/FinalSymphonia",
@@ -9438,6 +9633,19 @@
     "validationScore": 60
   },
   {
+    "id": "nickchu91-holoisland",
+    "title": "HoloIsland",
+    "repo": "https://github.com/nickchu91/HoloIsland",
+    "owner": "nickchu91",
+    "name": "HoloIsland",
+    "engine": "RPG Maker MZ",
+    "status": "indexed",
+    "discoveredAt": "2026-09-16T10:53:30.292Z",
+    "source": "github-code-search",
+    "sourcePath": "HoloIsland/index.html",
+    "plannedForkName": "nickchu91-HoloIsland"
+  },
+  {
     "id": "ashton20271-unblockedgames",
     "title": "Home | Compass",
     "repo": "https://github.com/Ashton20271/unblockedgames",
@@ -9901,6 +10109,19 @@
     "sourceHeadSha": "0cad7b0a975756e7ec955cac070400b28564379e",
     "processedHeadSha": "d39b59b76bb2d9edc573153b742362d89ff79c45",
     "syncedFromSource": true
+  },
+  {
+    "id": "donjuanplatinum-irodorimidori-rpg-server",
+    "title": "IRODORIMIDORI FANTASY VII",
+    "repo": "https://github.com/donjuanplatinum/irodorimidori-rpg-server",
+    "owner": "donjuanplatinum",
+    "name": "irodorimidori-rpg-server",
+    "engine": "RPG Maker MZ",
+    "status": "indexed",
+    "discoveredAt": "2026-09-16T10:53:30.292Z",
+    "source": "github-code-search",
+    "sourcePath": "2025/index.html",
+    "plannedForkName": "donjuanplatinum-irodorimidori-rpg-server"
   },
   {
     "id": "yumetsukiiii-irotoridorino-sekai-game",
@@ -11393,6 +11614,19 @@
     "syncedFromSource": true
   },
   {
+    "id": "realmyenemy-memz-instanceactors",
+    "title": "ME_InstanceActor demo",
+    "repo": "https://github.com/REALmyenemy/MEMZ_InstanceActors",
+    "owner": "REALmyenemy",
+    "name": "MEMZ_InstanceActors",
+    "engine": "RPG Maker MZ",
+    "status": "indexed",
+    "discoveredAt": "2026-09-16T10:53:30.292Z",
+    "source": "github-code-search",
+    "sourcePath": "index.html",
+    "plannedForkName": "REALmyenemy-MEMZ_InstanceActors"
+  },
+  {
     "id": "saigurunagula-ik5",
     "title": "Meditation",
     "repo": "https://github.com/SaiguruNagula/ik5",
@@ -11429,6 +11663,19 @@
     "sourceHeadSha": "fe3f806c33e55e88f913da5c45c9ca0184d23dd8",
     "processedHeadSha": "fbeadd6efa3faa44b302925b3681ee478d86f433",
     "syncedFromSource": true
+  },
+  {
+    "id": "denmarx-resume23-24",
+    "title": "Memento Mori",
+    "repo": "https://github.com/denmarx/resume23-24",
+    "owner": "denmarx",
+    "name": "resume23-24",
+    "engine": "RPG Maker MZ",
+    "status": "indexed",
+    "discoveredAt": "2026-09-16T10:53:30.292Z",
+    "source": "github-code-search",
+    "sourcePath": "public/rpg/rpg.html",
+    "plannedForkName": "denmarx-resume23-24"
   },
   {
     "id": "copperchihuahua-coppers-touhou-game-jam",
@@ -15710,6 +15957,19 @@
     "syncedFromSource": true
   },
   {
+    "id": "naturalpowergames-rpgmaker",
+    "title": "Rescue Mission",
+    "repo": "https://github.com/NaturalPowerGames/rpgmaker",
+    "owner": "NaturalPowerGames",
+    "name": "rpgmaker",
+    "engine": "RPG Maker MZ",
+    "status": "indexed",
+    "discoveredAt": "2026-09-16T10:53:30.292Z",
+    "source": "github-code-search",
+    "sourcePath": "RpgMaker/index.html",
+    "plannedForkName": "NaturalPowerGames-rpgmaker"
+  },
+  {
     "id": "retrom-project-retrom",
     "title": "Retrom isolation harness",
     "repo": "https://github.com/retrom-project/retrom",
@@ -15929,6 +16189,19 @@
     "forkName": "syberorange-dsefv"
   },
   {
+    "id": "alekevin12-rmmz-plus",
+    "title": "RMMZ+",
+    "repo": "https://github.com/Alekevin12/RMMZ-PLUS",
+    "owner": "Alekevin12",
+    "name": "RMMZ-PLUS",
+    "engine": "RPG Maker MZ",
+    "status": "indexed",
+    "discoveredAt": "2026-09-16T10:53:30.292Z",
+    "source": "github-code-search",
+    "sourcePath": "index.html",
+    "plannedForkName": "Alekevin12-RMMZ-PLUS"
+  },
+  {
     "id": "epic12terrarian-road-to-joshsdale",
     "title": "Road to Joshsdale",
     "repo": "https://github.com/Epic12Terrarian/Road-to-Joshsdale",
@@ -16082,6 +16355,19 @@
     "sourceHeadSha": "30f31111508f86fe461cbc5d77708eef163d9713",
     "processedHeadSha": "19179d6fe6c4352c93885658d969b237f4d0fbb9",
     "syncedFromSource": true
+  },
+  {
+    "id": "h4cander-rpgmakerh4",
+    "title": "RPGMakerMZLite_1_9_0",
+    "repo": "https://github.com/h4cander/RPGMakerH4",
+    "owner": "h4cander",
+    "name": "RPGMakerH4",
+    "engine": "RPG Maker MZ",
+    "status": "indexed",
+    "discoveredAt": "2026-09-16T10:53:30.292Z",
+    "source": "github-code-search",
+    "sourcePath": "RPGMakerMZLite/1_9_0/index.html",
+    "plannedForkName": "h4cander-RPGMakerH4"
   },
   {
     "id": "peq42-rpg-battle-royal",
@@ -16788,6 +17074,19 @@
     "syncedFromSource": true
   },
   {
+    "id": "ff-net-shunjiheights",
+    "title": "Shunji Heights",
+    "repo": "https://github.com/FF-NET/shunjiheights",
+    "owner": "FF-NET",
+    "name": "shunjiheights",
+    "engine": "RPG Maker MZ",
+    "status": "indexed",
+    "discoveredAt": "2026-09-16T10:53:30.292Z",
+    "source": "github-code-search",
+    "sourcePath": "index.html",
+    "plannedForkName": "FF-NET-shunjiheights"
+  },
+  {
     "id": "ff-net-shunjiheights2",
     "title": "Shunji Heights",
     "repo": "https://github.com/FF-NET/shunjiheights2",
@@ -16908,6 +17207,19 @@
     "sourceHeadSha": "371f55f4a0c5b23d0e3a74f77241ada0fbe48625",
     "processedHeadSha": "b7b428cc967b3b83c3b94a4231eb6e0c4b23c17a",
     "syncedFromSource": true
+  },
+  {
+    "id": "angel-a-flores-angel-flores-github-io",
+    "title": "Sketched Reflections",
+    "repo": "https://github.com/Angel-A-Flores/Angel-Flores.github.io",
+    "owner": "Angel-A-Flores",
+    "name": "Angel-Flores.github.io",
+    "engine": "RPG Maker MZ",
+    "status": "indexed",
+    "discoveredAt": "2026-09-16T10:53:30.292Z",
+    "source": "github-code-search",
+    "sourcePath": "sketched_reflections/index.html",
+    "plannedForkName": "Angel-A-Flores-Angel-Flores.github.io"
   },
   {
     "id": "givanilddo-skullseeker",
@@ -18413,6 +18725,19 @@
     "syncedFromSource": true
   },
   {
+    "id": "somewhatcold-ocadgame",
+    "title": "The Show Must Go On",
+    "repo": "https://github.com/somewhatcold/OCADgame",
+    "owner": "somewhatcold",
+    "name": "OCADgame",
+    "engine": "RPG Maker MZ",
+    "status": "indexed",
+    "discoveredAt": "2026-09-16T10:53:30.292Z",
+    "source": "github-code-search",
+    "sourcePath": "OCADRPG/index.html",
+    "plannedForkName": "somewhatcold-OCADgame"
+  },
+  {
     "id": "enigmadragons-theshutdown",
     "title": "The Shutdown",
     "repo": "https://github.com/EnigmaDragons/TheShutdown",
@@ -18889,6 +19214,19 @@
     "syncedFromSource": true
   },
   {
+    "id": "minnnpannn9585-justinproj01-rpgmaker",
+    "title": "TURN OF THE BLADE",
+    "repo": "https://github.com/minnnpannn9585/JustinProj01_rpgmaker",
+    "owner": "minnnpannn9585",
+    "name": "JustinProj01_rpgmaker",
+    "engine": "RPG Maker MZ",
+    "status": "indexed",
+    "discoveredAt": "2026-09-16T10:53:30.292Z",
+    "source": "github-code-search",
+    "sourcePath": "Project1/index.html",
+    "plannedForkName": "minnnpannn9585-JustinProj01_rpgmaker"
+  },
+  {
     "id": "darlos9d-turnbasedstrategy",
     "title": "TurnBasedStrategy",
     "repo": "https://github.com/Darlos9D/TurnBasedStrategy",
@@ -19304,6 +19642,19 @@
     "totalSize": 575559,
     "dataSize": 1209919,
     "sourceRepo": "Versionaryy/versionary-game"
+  },
+  {
+    "id": "nativenewengland-game",
+    "title": "Very Epic Taverner",
+    "repo": "https://github.com/nativenewengland/Game",
+    "owner": "nativenewengland",
+    "name": "Game",
+    "engine": "RPG Maker MZ",
+    "status": "indexed",
+    "discoveredAt": "2026-09-16T10:53:30.292Z",
+    "source": "github-code-search",
+    "sourcePath": "bar/index.html",
+    "plannedForkName": "nativenewengland-Game"
   },
   {
     "id": "materialrandom-viajetirnanog1",
@@ -20316,6 +20667,19 @@
     "forkName": "waycrosspublicmedia-whatver",
     "status": "skipped_large",
     "invalidReason": "Repository tree has 30370 entries, exceeding the 20000 entry limit."
+  },
+  {
+    "id": "unagiootoro-questsystemsample",
+    "title": "クエストサンプル",
+    "repo": "https://github.com/unagiootoro/QuestSystemSample",
+    "owner": "unagiootoro",
+    "name": "QuestSystemSample",
+    "engine": "RPG Maker MZ",
+    "status": "indexed",
+    "discoveredAt": "2026-09-16T10:53:30.292Z",
+    "source": "github-code-search",
+    "sourcePath": "ProjectMZ/index.html",
+    "plannedForkName": "unagiootoro-QuestSystemSample"
   },
   {
     "id": "savesub-slavetrader-en",
