@@ -729,6 +729,19 @@
     "sourceRepo": "eric0308a/The_Devils_Seven_Days"
   },
   {
+    "id": "bill42362-mortals-journey-rmmz",
+    "title": "凡人修仙傳-凡界篇",
+    "repo": "https://github.com/bill42362/mortals-journey-rmmz",
+    "owner": "bill42362",
+    "name": "mortals-journey-rmmz",
+    "engine": "RPG Maker MZ",
+    "status": "indexed",
+    "discoveredAt": "2026-09-16T10:53:30.292Z",
+    "source": "github-code-search",
+    "sourcePath": "game/index.html",
+    "plannedForkName": "bill42362-mortals-journey-rmmz"
+  },
+  {
     "id": "cyh0521-rpg-e580416c",
     "title": "防災柑仔店",
     "repo": "https://github.com/cyh0521/rpg",
@@ -2888,7 +2901,6 @@
     "discoveredAt": "2026-09-16T10:53:30.292Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "plannedForkName": "KageDesu-Alpha-ABS-Z",
     "checkedAt": "2026-09-16T16:24:00.076Z",
     "forkName": "KageDesu-Alpha-ABS-Z",
     "invalidReason": "Unresolved script references: js/libs/pixi.js, js/libs/pako.min.js, js/libs/localforage.min.js, js/libs/effekseer.min.js, js/libs/vorbisdecoder.js",
@@ -3808,6 +3820,19 @@
     "sourceHeadSha": "a35330932f82dc0747a7af4ba04a2a4887e0a367",
     "processedHeadSha": "d6794b618a753afb5b5790ecf763997d007ddaa4",
     "syncedFromSource": true
+  },
+  {
+    "id": "salaxios-sonar-js",
+    "title": "BlankProject",
+    "repo": "https://github.com/salaxios/Sonar.js",
+    "owner": "salaxios",
+    "name": "Sonar.js",
+    "engine": "RPG Maker MZ",
+    "status": "indexed",
+    "discoveredAt": "2026-09-16T10:53:30.292Z",
+    "source": "github-code-search",
+    "sourcePath": "src/Project1/index.html",
+    "plannedForkName": "salaxios-Sonar.js"
   },
   {
     "id": "67-factory-nikosgames",
@@ -7397,6 +7422,19 @@
     "sourceRepo": "chruscikszef/dzzt-android"
   },
   {
+    "id": "lamawd-eco-quest",
+    "title": "EcoQuest: Journey of the Junk",
+    "repo": "https://github.com/Lamawd/Eco-quest",
+    "owner": "Lamawd",
+    "name": "Eco-quest",
+    "engine": "RPG Maker MZ",
+    "status": "indexed",
+    "discoveredAt": "2026-09-16T10:53:30.292Z",
+    "source": "github-code-search",
+    "sourcePath": "index.html",
+    "plannedForkName": "Lamawd-Eco-quest"
+  },
+  {
     "id": "botakhage-eduventure",
     "title": "EduVenture",
     "repo": "https://github.com/BotakHage/Eduventure",
@@ -7599,6 +7637,19 @@
     "sourceHeadSha": "b2e17886d48bc270d89513732a2f76134844893d",
     "processedHeadSha": "830ff07498a952e733ea0a8408409f806025a571",
     "syncedFromSource": true
+  },
+  {
+    "id": "z9z9z9z9z9z9-tt",
+    "title": "es",
+    "repo": "https://github.com/z9z9z9z9z9z9/tt",
+    "owner": "z9z9z9z9z9z9",
+    "name": "tt",
+    "engine": "RPG Maker MZ",
+    "status": "indexed",
+    "discoveredAt": "2026-09-16T10:53:30.292Z",
+    "source": "github-code-search",
+    "sourcePath": "index.html",
+    "plannedForkName": "z9z9z9z9z9z9-tt"
   },
   {
     "id": "susobhang70-rpg-maze-runner",
@@ -9436,6 +9487,19 @@
     "syncedFromSource": true
   },
   {
+    "id": "stuartmrwong-stuartmrwong-github-io",
+    "title": "I love Cosine",
+    "repo": "https://github.com/stuartmrwong/stuartmrwong.github.io",
+    "owner": "stuartmrwong",
+    "name": "stuartmrwong.github.io",
+    "engine": "RPG Maker MZ",
+    "status": "indexed",
+    "discoveredAt": "2026-09-16T10:53:30.292Z",
+    "source": "github-code-search",
+    "sourcePath": "game/LAKE.html",
+    "plannedForkName": "stuartmrwong-stuartmrwong.github.io"
+  },
+  {
     "id": "jakubiszon-rpg-maker-mz-iframe",
     "title": "iframe-examples",
     "repo": "https://github.com/jakubiszon/rpg-maker-mz-iframe",
@@ -10382,6 +10446,19 @@
     "syncedFromSource": true
   },
   {
+    "id": "galerial-le-petit-morte",
+    "title": "Le Petit Morte",
+    "repo": "https://github.com/Galerial/Le-Petit-Morte",
+    "owner": "Galerial",
+    "name": "Le-Petit-Morte",
+    "engine": "RPG Maker MZ",
+    "status": "indexed",
+    "discoveredAt": "2026-09-16T10:53:30.292Z",
+    "source": "github-code-search",
+    "sourcePath": "index.html",
+    "plannedForkName": "Galerial-Le-Petit-Morte"
+  },
+  {
     "id": "kenshindias-kenshindias-github-io",
     "title": "LEIS DE KIRCHHOFF",
     "repo": "https://github.com/kenshindias/kenshindias.github.io",
@@ -11062,6 +11139,19 @@
     "syncedFromSource": true
   },
   {
+    "id": "rtlh0-marcarpg",
+    "title": "Marcapada RPG",
+    "repo": "https://github.com/rtlh0/marcarpg",
+    "owner": "rtlh0",
+    "name": "marcarpg",
+    "engine": "RPG Maker MZ",
+    "status": "indexed",
+    "discoveredAt": "2026-09-16T10:53:30.292Z",
+    "source": "github-code-search",
+    "sourcePath": "index.html",
+    "plannedForkName": "rtlh0-marcarpg"
+  },
+  {
     "id": "klimberkg-mask-of-dead-2-shadow-of-pelagius",
     "title": "Mask of Dead 2: Shadow of Pelagius",
     "repo": "https://github.com/KlimberKG/Mask_of_Dead_2_Shadow_of_Pelagius",
@@ -11501,6 +11591,19 @@
     "syncedFromSource": true
   },
   {
+    "id": "synrec-monster-capture-mz",
+    "title": "Monster Capture MZ",
+    "repo": "https://github.com/Synrec/Monster-Capture-MZ",
+    "owner": "Synrec",
+    "name": "Monster-Capture-MZ",
+    "engine": "RPG Maker MZ",
+    "status": "indexed",
+    "discoveredAt": "2026-09-16T10:53:30.292Z",
+    "source": "github-code-search",
+    "sourcePath": "index.html",
+    "plannedForkName": "Synrec-Monster-Capture-MZ"
+  },
+  {
     "id": "jackdarker-moonwood",
     "title": "MoonWood",
     "repo": "https://github.com/jackdarker/MoonWood",
@@ -11824,6 +11927,32 @@
     "sourceHeadSha": "8d654c819699bba2e1786aed4d25378c07ac58a4",
     "processedHeadSha": "366546e4c87d0a6fe5d7bfa174d32e5f73b03f82",
     "syncedFromSource": true
+  },
+  {
+    "id": "27danderson-mythologyrpgm",
+    "title": "Mythology",
+    "repo": "https://github.com/27DAnderson/MythologyRPGM",
+    "owner": "27DAnderson",
+    "name": "MythologyRPGM",
+    "engine": "RPG Maker MZ",
+    "status": "indexed",
+    "discoveredAt": "2026-09-16T10:53:30.292Z",
+    "source": "github-code-search",
+    "sourcePath": "index.html",
+    "plannedForkName": "27DAnderson-MythologyRPGM"
+  },
+  {
+    "id": "dai696-mzplus",
+    "title": "MZPlusExample",
+    "repo": "https://github.com/Dai696/MZPlus",
+    "owner": "Dai696",
+    "name": "MZPlus",
+    "engine": "RPG Maker MZ",
+    "status": "indexed",
+    "discoveredAt": "2026-09-16T10:53:30.292Z",
+    "source": "github-code-search",
+    "sourcePath": "MZPlusExampleProject/index.html",
+    "plannedForkName": "Dai696-MZPlus"
   },
   {
     "id": "zhiwei-zhiwei-game-rpgmaker-magicnomagic",
@@ -13528,6 +13657,19 @@
     "syncedFromSource": true
   },
   {
+    "id": "henkigames-henkigames-github-io",
+    "title": "Pokémon Carbone Arena",
+    "repo": "https://github.com/HenkiGames/henkigames.github.io",
+    "owner": "HenkiGames",
+    "name": "henkigames.github.io",
+    "engine": "RPG Maker MZ",
+    "status": "indexed",
+    "discoveredAt": "2026-09-16T10:53:30.292Z",
+    "source": "github-code-search",
+    "sourcePath": "index.html",
+    "plannedForkName": "HenkiGames-henkigames.github.io"
+  },
+  {
     "id": "pokemon-essentials-pokemon-essentials",
     "title": "Pokémon Essentials",
     "repo": "https://github.com/pokemon-essentials/pokemon-essentials",
@@ -13623,6 +13765,19 @@
     "sourceHeadSha": "95f7ecfa3c619a3013b754a688d8e334c735b52c",
     "processedHeadSha": "b5709fe1c0b66811581b2b2c780ad97cb2110b95",
     "syncedFromSource": true
+  },
+  {
+    "id": "wvdsh-examples",
+    "title": "Pong Quest",
+    "repo": "https://github.com/wvdsh/examples",
+    "owner": "wvdsh",
+    "name": "examples",
+    "engine": "RPG Maker MZ",
+    "status": "indexed",
+    "discoveredAt": "2026-09-16T10:53:30.292Z",
+    "source": "github-code-search",
+    "sourcePath": "example-rpgmaker/index.html",
+    "plannedForkName": "wvdsh-examples"
   },
   {
     "id": "ec-developer-hub-powerrrr",
@@ -13783,6 +13938,19 @@
     "sourceRepo": "TheRainbowPhoenix/LDS"
   },
   {
+    "id": "rownowaga-rownowaga-github-io",
+    "title": "Project Myr",
+    "repo": "https://github.com/Rownowaga/rownowaga.github.io",
+    "owner": "Rownowaga",
+    "name": "rownowaga.github.io",
+    "engine": "RPG Maker MZ",
+    "status": "indexed",
+    "discoveredAt": "2026-09-16T10:53:30.292Z",
+    "source": "github-code-search",
+    "sourcePath": "index.html",
+    "plannedForkName": "Rownowaga-rownowaga.github.io"
+  },
+  {
     "id": "beeveelutions-project-starmans",
     "title": "Project Starman",
     "repo": "https://github.com/Beeveelutions/Project-Starmans",
@@ -13919,6 +14087,19 @@
     "syncedFromSource": true
   },
   {
+    "id": "blueslime0107-rpg-maker-html",
+    "title": "Project1",
+    "repo": "https://github.com/blueslime0107/RPG-Maker-Html",
+    "owner": "blueslime0107",
+    "name": "RPG-Maker-Html",
+    "engine": "RPG Maker MZ",
+    "status": "indexed",
+    "discoveredAt": "2026-09-16T10:53:30.292Z",
+    "source": "github-code-search",
+    "sourcePath": "project/index.html",
+    "plannedForkName": "blueslime0107-RPG-Maker-Html"
+  },
+  {
     "id": "chibibaku-rmmv-webhost",
     "title": "Project1",
     "repo": "https://github.com/chibibaku/rmmv-webhost",
@@ -14013,6 +14194,19 @@
     "sourceHeadSha": "0749d65c391fc93d7891201b4190debe300fd2d9",
     "processedHeadSha": "50ac6596b7fbff1775d6d0e89d9d9676bcd5084e",
     "syncedFromSource": true
+  },
+  {
+    "id": "docdamage-rpgmakergame",
+    "title": "Project1",
+    "repo": "https://github.com/DocDamage/rpgmakergame",
+    "owner": "DocDamage",
+    "name": "rpgmakergame",
+    "engine": "RPG Maker MZ",
+    "status": "indexed",
+    "discoveredAt": "2026-09-16T10:53:30.292Z",
+    "source": "github-code-search",
+    "sourcePath": "index.html",
+    "plannedForkName": "DocDamage-rpgmakergame"
   },
   {
     "id": "fernando-simaoo-the-legend-of-brick",
@@ -14710,6 +14904,19 @@
     "validationScore": 55
   },
   {
+    "id": "araragihoozuki-projectmaga",
+    "title": "ProjectMaga测试版",
+    "repo": "https://github.com/AraragiHoozuki/ProjectMaga",
+    "owner": "AraragiHoozuki",
+    "name": "ProjectMaga",
+    "engine": "RPG Maker MZ",
+    "status": "indexed",
+    "discoveredAt": "2026-09-16T10:53:30.292Z",
+    "source": "github-code-search",
+    "sourcePath": "index.html",
+    "plannedForkName": "AraragiHoozuki-ProjectMaga"
+  },
+  {
     "id": "ananta-ti-rpg-maker",
     "title": "projek",
     "repo": "https://github.com/Ananta-TI/Rpg-maker",
@@ -15159,6 +15366,19 @@
     "syncedFromSource": true
   },
   {
+    "id": "rinne-grid-tkoolmz-plugin-recollectionmodemz",
+    "title": "RecollectionModeMZ Sample",
+    "repo": "https://github.com/rinne-grid/tkoolmz_plugin_RecollectionModeMZ",
+    "owner": "rinne-grid",
+    "name": "tkoolmz_plugin_RecollectionModeMZ",
+    "engine": "RPG Maker MZ",
+    "status": "indexed",
+    "discoveredAt": "2026-09-16T10:53:30.292Z",
+    "source": "github-code-search",
+    "sourcePath": "RecollectionModeMZ/index.html",
+    "plannedForkName": "rinne-grid-tkoolmz_plugin_RecollectionModeMZ"
+  },
+  {
     "id": "framormar-rpg-adventure-windows",
     "title": "Reina Mercedes´ Adventure",
     "repo": "https://github.com/Framormar/RPG_ADVENTURE_WINDOWS",
@@ -15283,6 +15503,19 @@
     "forkName": "Pelinal-ReturnToSender"
   },
   {
+    "id": "meet-joshi00971-ri-the-game",
+    "title": "RI The Game",
+    "repo": "https://github.com/Meet-Joshi00971/RI-The-Game",
+    "owner": "Meet-Joshi00971",
+    "name": "RI-The-Game",
+    "engine": "RPG Maker MZ",
+    "status": "indexed",
+    "discoveredAt": "2026-09-16T10:53:30.292Z",
+    "source": "github-code-search",
+    "sourcePath": "RI The Game/index.html",
+    "plannedForkName": "Meet-Joshi00971-RI-The-Game"
+  },
+  {
     "id": "matheuspereirakrumm-rise-of-shinigami",
     "title": "Rise of Shinigami",
     "repo": "https://github.com/matheusPereiraKrumm/rise-of-shinigami",
@@ -15306,6 +15539,19 @@
     "sourceHeadSha": "a3b6adfb0ad96c6d179327dd28d0d7c0d9deef74",
     "processedHeadSha": "8b999bc82591c1f9a6e048aecf39c4c5ea84eb62",
     "syncedFromSource": true
+  },
+  {
+    "id": "yoshikizh-rpgmaker-world",
+    "title": "RM WORLD",
+    "repo": "https://github.com/yoshikizh/rpgmaker-world",
+    "owner": "yoshikizh",
+    "name": "rpgmaker-world",
+    "engine": "RPG Maker MZ",
+    "status": "indexed",
+    "discoveredAt": "2026-09-16T10:53:30.292Z",
+    "source": "github-code-search",
+    "sourcePath": "index.html",
+    "plannedForkName": "yoshikizh-rpgmaker-world"
   },
   {
     "id": "johnqwq-secret-escape",
@@ -16294,6 +16540,19 @@
     "sourceHeadSha": "43b035aa942fea1c139a568c71b7904369cca626",
     "processedHeadSha": "b22611ea4a98f9810333faa30d4e438982df26a0",
     "syncedFromSource": true
+  },
+  {
+    "id": "ff-net-shunjiheights2",
+    "title": "Shunji Heights",
+    "repo": "https://github.com/FF-NET/shunjiheights2",
+    "owner": "FF-NET",
+    "name": "shunjiheights2",
+    "engine": "RPG Maker MZ",
+    "status": "indexed",
+    "discoveredAt": "2026-09-16T10:53:30.292Z",
+    "source": "github-code-search",
+    "sourcePath": "index.html",
+    "plannedForkName": "FF-NET-shunjiheights2"
   },
   {
     "id": "jahmezz-20minutesgamedev",
@@ -18803,6 +19062,32 @@
     "invalidReason": "Repository tree has 28261 entries, exceeding the 20000 entry limit."
   },
   {
+    "id": "lynxx39-virus-chronicles",
+    "title": "Virus Chronicles",
+    "repo": "https://github.com/Lynxx39/Virus-Chronicles",
+    "owner": "Lynxx39",
+    "name": "Virus-Chronicles",
+    "engine": "RPG Maker MZ",
+    "status": "indexed",
+    "discoveredAt": "2026-09-16T10:53:30.292Z",
+    "source": "github-code-search",
+    "sourcePath": "game.html",
+    "plannedForkName": "Lynxx39-Virus-Chronicles"
+  },
+  {
+    "id": "salsabilazhaqqi-rpgriris",
+    "title": "Virus Chronicles",
+    "repo": "https://github.com/SalsabilaZhaqqi/rpgRIRIS",
+    "owner": "SalsabilaZhaqqi",
+    "name": "rpgRIRIS",
+    "engine": "RPG Maker MZ",
+    "status": "indexed",
+    "discoveredAt": "2026-09-16T10:53:30.292Z",
+    "source": "github-code-search",
+    "sourcePath": "index.html",
+    "plannedForkName": "SalsabilaZhaqqi-rpgRIRIS"
+  },
+  {
     "id": "trollsigma-sigma-face",
     "title": "Visiting Sara v1.13",
     "repo": "https://github.com/trollsigma/Sigma-face",
@@ -18855,6 +19140,19 @@
     "forkName": "ltw6610-vrpg"
   },
   {
+    "id": "cromewar-world-of-hackathon-wingbirds",
+    "title": "W0HW: World 0-Hackathon Teambuilding Sim RPG",
+    "repo": "https://github.com/cromewar/World-of-Hackathon-Wingbirds",
+    "owner": "cromewar",
+    "name": "World-of-Hackathon-Wingbirds",
+    "engine": "RPG Maker MZ",
+    "status": "indexed",
+    "discoveredAt": "2026-09-16T10:53:30.292Z",
+    "source": "github-code-search",
+    "sourcePath": "w0hw/index.html",
+    "plannedForkName": "cromewar-World-of-Hackathon-Wingbirds"
+  },
+  {
     "id": "vladimirmarduk-wake",
     "title": "Wake",
     "repo": "https://github.com/vladimirmarduk/wake",
@@ -18899,6 +19197,19 @@
     "sourceHeadSha": "e7046cd23fee58f8162b2511705b72e887e18253",
     "processedHeadSha": "d668665a92d7897f29a3e398d5fe217a2d2fe678",
     "syncedFromSource": true
+  },
+  {
+    "id": "aewol09-wcn",
+    "title": "WCN",
+    "repo": "https://github.com/aewol09/wcn",
+    "owner": "aewol09",
+    "name": "wcn",
+    "engine": "RPG Maker MZ",
+    "status": "indexed",
+    "discoveredAt": "2026-09-16T10:53:30.292Z",
+    "source": "github-code-search",
+    "sourcePath": "index.html",
+    "plannedForkName": "aewol09-wcn"
   },
   {
     "id": "mysterymagination-weirdwyrdworld",
@@ -18995,6 +19306,19 @@
     "sourceHeadSha": "5870883b25f7e0e31bdfd93956f1eec3f50574cc",
     "processedHeadSha": "6ff77f4ce434ea64a5b3cbd1875225e7df8b616a",
     "syncedFromSource": true
+  },
+  {
+    "id": "avianjay-discord-bot-explore-game",
+    "title": "Yee",
+    "repo": "https://github.com/AvianJay/Discord-Bot-Explore-Game",
+    "owner": "AvianJay",
+    "name": "Discord-Bot-Explore-Game",
+    "engine": "RPG Maker MZ",
+    "status": "indexed",
+    "discoveredAt": "2026-09-16T10:53:30.292Z",
+    "source": "github-code-search",
+    "sourcePath": "index.html",
+    "plannedForkName": "AvianJay-Discord-Bot-Explore-Game"
   },
   {
     "id": "soupcanubg-yesterdays-meat",
@@ -19111,6 +19435,19 @@
     "sourceHeadSha": "c54b3bcf3e962508d422ba76ce3ddc8d8da9956e",
     "processedHeadSha": "5c86b8357cfd93705a34d9ea8aa76711172be58c",
     "syncedFromSource": true
+  },
+  {
+    "id": "wildcodeschool-2022-03-js-laloupe-quadri-force-p2",
+    "title": "Zelda Breath Of the Wild Code School",
+    "repo": "https://github.com/WildCodeSchool/2022-03-js-laloupe-quadri-force-p2",
+    "owner": "WildCodeSchool",
+    "name": "2022-03-js-laloupe-quadri-force-p2",
+    "engine": "RPG Maker MZ",
+    "status": "indexed",
+    "discoveredAt": "2026-09-16T10:53:30.292Z",
+    "source": "github-code-search",
+    "sourcePath": "Project3/index.html",
+    "plannedForkName": "WildCodeSchool-2022-03-js-laloupe-quadri-force-p2"
   },
   {
     "id": "andredarcie-zero-to-one",
@@ -19812,6 +20149,19 @@
     "forkName": "haturatu-sradjp",
     "status": "skipped_large",
     "invalidReason": "GitHub returned a truncated recursive tree."
+  },
+  {
+    "id": "munokura-dq-like-sample-mz",
+    "title": "ドラＱエっぽいSampleMZ",
+    "repo": "https://github.com/munokura/DQ-like-Sample-MZ",
+    "owner": "munokura",
+    "name": "DQ-like-Sample-MZ",
+    "engine": "RPG Maker MZ",
+    "status": "indexed",
+    "discoveredAt": "2026-09-16T10:53:30.292Z",
+    "source": "github-code-search",
+    "sourcePath": "index.html",
+    "plannedForkName": "munokura-DQ-like-Sample-MZ"
   },
   {
     "id": "munokura-dq-like-sample-mv",
