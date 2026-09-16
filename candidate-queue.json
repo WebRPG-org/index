@@ -1,477 +1,5 @@
 [
   {
-    "owner": "kentko27",
-    "name": "gamedev",
-    "repo": "https://github.com/kentko27/gamedev",
-    "discoveredAt": "2026-09-16T10:53:30.292Z",
-    "paths": [
-      {
-        "path": "index.html",
-        "sha": "4c05abace78e1ad56344c8d8a995dba38693f3e2",
-        "engine": "RPG Maker MV",
-        "kind": "html"
-      }
-    ]
-  },
-  {
-    "owner": "rolanfreeman6-png",
-    "name": "rpgm-decrypt",
-    "repo": "https://github.com/rolanfreeman6-png/rpgm-decrypt",
-    "discoveredAt": "2026-09-16T10:53:30.292Z",
-    "paths": [
-      {
-        "path": "ocaml/coverage/html/lib/key_discovery.ml.html",
-        "sha": "05569716fe9f555dd7650f9c6c434330659ad9a2",
-        "engine": "RPG Maker MV",
-        "kind": "html"
-      }
-    ]
-  },
-  {
-    "owner": "Cizz22",
-    "name": "rpgmaker",
-    "repo": "https://github.com/Cizz22/rpgmaker",
-    "discoveredAt": "2026-09-16T10:53:30.292Z",
-    "paths": [
-      {
-        "path": "index.html",
-        "sha": "90ea04bdfb6ced8e89090387c09c3faf11fbe9a5",
-        "engine": "RPG Maker MV",
-        "kind": "html"
-      }
-    ]
-  },
-  {
-    "owner": "C0618C",
-    "name": "DevNTool",
-    "repo": "https://github.com/C0618C/DevNTool",
-    "discoveredAt": "2026-09-16T10:53:30.292Z",
-    "paths": [
-      {
-        "path": "Web/RPGMVPDecrypter.html",
-        "sha": "dad1a9b002017393aae7494b76a0bb1a9a0852db",
-        "engine": "RPG Maker MV",
-        "kind": "html"
-      }
-    ]
-  },
-  {
-    "owner": "karminski",
-    "name": "rpg-maker-agent",
-    "repo": "https://github.com/karminski/rpg-maker-agent",
-    "discoveredAt": "2026-09-16T10:53:30.292Z",
-    "paths": [
-      {
-        "path": "public/map-editor/index.html",
-        "sha": "ba5fed2384f134c61a1e6c91275685501baa1beb",
-        "engine": "RPG Maker MZ",
-        "kind": "html"
-      }
-    ]
-  },
-  {
-    "owner": "moonyoulove",
-    "name": "rmmz-js-split",
-    "repo": "https://github.com/moonyoulove/rmmz-js-split",
-    "discoveredAt": "2026-09-16T10:53:30.292Z",
-    "paths": [
-      {
-        "path": "index.html",
-        "sha": "56132be1fcca3b07a4af4411853d9b0372ea2f14",
-        "engine": "RPG Maker MZ",
-        "kind": "html"
-      }
-    ]
-  },
-  {
-    "owner": "Gamer-Tool-Studio",
-    "name": "Gamer-Tool-Studio.github.io",
-    "repo": "https://github.com/Gamer-Tool-Studio/Gamer-Tool-Studio.github.io",
-    "discoveredAt": "2026-09-16T10:53:30.292Z",
-    "paths": [
-      {
-        "path": "public/images/Demo Game - GTS_files/index.html",
-        "sha": "98bda65fddbddd708dd39bd82ff57df030db07a6",
-        "engine": "RPG Maker MZ",
-        "kind": "html"
-      },
-      {
-        "path": "public/cluaido_demo/js/main.js",
-        "sha": "05d6dbba7e085508ec3c28dd04396e9e084a5d00",
-        "engine": "RPG Maker MZ",
-        "kind": "main"
-      },
-      {
-        "path": "public/images/Demo Game - GTS_files/main.js",
-        "sha": "05d6dbba7e085508ec3c28dd04396e9e084a5d00",
-        "engine": "RPG Maker MZ",
-        "kind": "main"
-      }
-    ]
-  },
-  {
-    "owner": "DennisAlfonso",
-    "name": "ziap-studio",
-    "repo": "https://github.com/DennisAlfonso/ziap-studio",
-    "discoveredAt": "2026-09-16T10:53:30.292Z",
-    "paths": [
-      {
-        "path": "src/ZiapStudio/Assets/ArenaPreview/index.html",
-        "sha": "58ebd78cf091ff8d8c64b38bf4b43e3645964190",
-        "engine": "RPG Maker MZ",
-        "kind": "html"
-      }
-    ]
-  },
-  {
-    "owner": "tylike",
-    "name": "AI.Labs",
-    "repo": "https://github.com/tylike/AI.Labs",
-    "discoveredAt": "2026-09-16T10:53:30.292Z",
-    "paths": [
-      {
-        "path": "GameUI/Rmmz.CN/js/main.js",
-        "sha": "ddd679b6143b77be9b6a68945e33f06d20114c43",
-        "engine": "RPG Maker MZ",
-        "kind": "main"
-      }
-    ]
-  },
-  {
-    "owner": "paramonos",
-    "name": "RPG-Maker-MV-MZ-Cheat-UI-Plugin",
-    "repo": "https://github.com/paramonos/RPG-Maker-MV-MZ-Cheat-UI-Plugin",
-    "discoveredAt": "2026-09-16T10:53:30.292Z",
-    "paths": [
-      {
-        "path": "cheat-engine/www/_cheat_initialize/mz/js/main.js",
-        "sha": "743d74c7c3801d0e76ad06f502974a59ddaf665e",
-        "engine": "RPG Maker MZ",
-        "kind": "main"
-      }
-    ]
-  },
-  {
-    "owner": "SpriteStudio",
-    "name": "SS6PlayerForWeb",
-    "repo": "https://github.com/SpriteStudio/SS6PlayerForWeb",
-    "discoveredAt": "2026-09-16T10:53:30.292Z",
-    "paths": [
-      {
-        "path": "docs/mz/SampleProject/js/main.js",
-        "sha": "8d64dc8ff8a1e409ad962cc3ab745f98d7c20a7d",
-        "engine": "RPG Maker MZ",
-        "kind": "main"
-      },
-      {
-        "path": "packages/ss6player-rpgmakermz/SampleProject/js/main.js",
-        "sha": "8d64dc8ff8a1e409ad962cc3ab745f98d7c20a7d",
-        "engine": "RPG Maker MZ",
-        "kind": "main"
-      }
-    ]
-  },
-  {
-    "owner": "KageDesu",
-    "name": "Alpha-NET-Z",
-    "repo": "https://github.com/KageDesu/Alpha-NET-Z",
-    "discoveredAt": "2026-09-16T10:53:30.292Z",
-    "paths": [
-      {
-        "path": "js/main.js",
-        "sha": "3df6465c0d50f89a57fe310a51aa98055fb1c971",
-        "engine": "RPG Maker MZ",
-        "kind": "main"
-      }
-    ]
-  },
-  {
-    "owner": "lriki",
-    "name": "LN_MysteryRogueSystem",
-    "repo": "https://github.com/lriki/LN_MysteryRogueSystem",
-    "discoveredAt": "2026-09-16T10:53:30.292Z",
-    "paths": [
-      {
-        "path": "js/main.js",
-        "sha": "ddd679b6143b77be9b6a68945e33f06d20114c43",
-        "engine": "RPG Maker MZ",
-        "kind": "main"
-      }
-    ]
-  },
-  {
-    "owner": "LiberatedPixelCup",
-    "name": "RPG_Maker_MZ_LPC_Starter_Kit",
-    "repo": "https://github.com/LiberatedPixelCup/RPG_Maker_MZ_LPC_Starter_Kit",
-    "discoveredAt": "2026-09-16T10:53:30.292Z",
-    "paths": [
-      {
-        "path": "LPC/js/main.js",
-        "sha": "dbb36bae9687e95c1c24acf47640f7dd68c0b96f",
-        "engine": "RPG Maker MZ",
-        "kind": "main"
-      }
-    ]
-  },
-  {
-    "owner": "KageDesu",
-    "name": "Alpha-ABS-Z",
-    "repo": "https://github.com/KageDesu/Alpha-ABS-Z",
-    "discoveredAt": "2026-09-16T10:53:30.292Z",
-    "paths": [
-      {
-        "path": "js/main.js",
-        "sha": "50c0d47ff5b13eea1576d95a622de2ce6473135c",
-        "engine": "RPG Maker MZ",
-        "kind": "main"
-      }
-    ]
-  },
-  {
-    "owner": "theartofme",
-    "name": "rmmv-ink",
-    "repo": "https://github.com/theartofme/rmmv-ink",
-    "discoveredAt": "2026-09-16T10:53:30.292Z",
-    "paths": [
-      {
-        "path": "LWP_InkDemo/js/main.js",
-        "sha": "f3ba4e52ab1faaa377cc952a736e64e8de993365",
-        "engine": "RPG Maker MZ",
-        "kind": "main"
-      }
-    ]
-  },
-  {
-    "owner": "neibern",
-    "name": "LookOutside_RU_Release",
-    "repo": "https://github.com/neibern/LookOutside_RU_Release",
-    "discoveredAt": "2026-09-16T10:53:30.292Z",
-    "paths": [
-      {
-        "path": "js/main.js",
-        "sha": "10d4e837c37393c77e71843d5c486c1804418a2a",
-        "engine": "RPG Maker MZ",
-        "kind": "main"
-      }
-    ]
-  },
-  {
-    "owner": "0ui0",
-    "name": "owo_terminal_public",
-    "repo": "https://github.com/0ui0/owo_terminal_public",
-    "discoveredAt": "2026-09-16T10:53:30.292Z",
-    "paths": [
-      {
-        "path": "server/apps/aiRpg/rmmz/js/main.js",
-        "sha": "dbb36bae9687e95c1c24acf47640f7dd68c0b96f",
-        "engine": "RPG Maker MZ",
-        "kind": "main"
-      }
-    ]
-  },
-  {
-    "owner": "nocoldiz",
-    "name": "hypernet-explorer-plugins",
-    "repo": "https://github.com/nocoldiz/hypernet-explorer-plugins",
-    "discoveredAt": "2026-09-16T10:53:30.292Z",
-    "paths": [
-      {
-        "path": "js/main.js",
-        "sha": "25af384e5a0afd4143ea9c859b93c0e902426f69",
-        "engine": "RPG Maker MZ",
-        "kind": "main"
-      }
-    ]
-  },
-  {
-    "owner": "qqoro",
-    "name": "yasig-menu-plus",
-    "repo": "https://github.com/qqoro/yasig-menu-plus",
-    "discoveredAt": "2026-09-16T10:53:30.292Z",
-    "paths": [
-      {
-        "path": "src/main/cheat/mz/js/main.js",
-        "sha": "e086af5818689878843cefbc4272aa30281281e3",
-        "engine": "RPG Maker MZ",
-        "kind": "main"
-      }
-    ]
-  },
-  {
-    "owner": "flashdim",
-    "name": "kins-chronicle",
-    "repo": "https://github.com/flashdim/kins-chronicle",
-    "discoveredAt": "2026-09-16T10:53:30.292Z",
-    "paths": [
-      {
-        "path": "js/main.js",
-        "sha": "5ebdd7c0181fd4ecbd8787b82ccead6197abfc73",
-        "engine": "RPG Maker MZ",
-        "kind": "main"
-      }
-    ]
-  },
-  {
-    "owner": "je-can-code",
-    "name": "ca",
-    "repo": "https://github.com/je-can-code/ca",
-    "discoveredAt": "2026-09-16T10:53:30.292Z",
-    "paths": [
-      {
-        "path": "chef-adventure/js/main.js",
-        "sha": "8d64dc8ff8a1e409ad962cc3ab745f98d7c20a7d",
-        "engine": "RPG Maker MZ",
-        "kind": "main"
-      }
-    ]
-  },
-  {
-    "owner": "Yesenmidnight",
-    "name": "2000sEscape",
-    "repo": "https://github.com/Yesenmidnight/2000sEscape",
-    "discoveredAt": "2026-09-16T10:53:30.292Z",
-    "paths": [
-      {
-        "path": "2000sEscape/js/main.js",
-        "sha": "8d64dc8ff8a1e409ad962cc3ab745f98d7c20a7d",
-        "engine": "RPG Maker MZ",
-        "kind": "main"
-      }
-    ]
-  },
-  {
-    "owner": "Cloudy0717",
-    "name": "WorldsGreatestMercenary",
-    "repo": "https://github.com/Cloudy0717/WorldsGreatestMercenary",
-    "discoveredAt": "2026-09-16T10:53:30.292Z",
-    "paths": [
-      {
-        "path": "js/main.js",
-        "sha": "b7ab63e19412b955357b28f851d418ce1fc766b1",
-        "engine": "RPG Maker MZ",
-        "kind": "main"
-      }
-    ]
-  },
-  {
-    "owner": "axlan",
-    "name": "fatal_core_dump",
-    "repo": "https://github.com/axlan/fatal_core_dump",
-    "discoveredAt": "2026-09-16T10:53:30.292Z",
-    "paths": [
-      {
-        "path": "site/rpg_maker/js/main.js",
-        "sha": "dbb36bae9687e95c1c24acf47640f7dd68c0b96f",
-        "engine": "RPG Maker MZ",
-        "kind": "main"
-      },
-      {
-        "path": "rpg_maker_project/js/main.js",
-        "sha": "dbb36bae9687e95c1c24acf47640f7dd68c0b96f",
-        "engine": "RPG Maker MZ",
-        "kind": "main"
-      }
-    ]
-  },
-  {
-    "owner": "Psychronic-Games",
-    "name": "RPGReactor",
-    "repo": "https://github.com/Psychronic-Games/RPGReactor",
-    "discoveredAt": "2026-09-16T10:53:30.292Z",
-    "paths": [
-      {
-        "path": "template/Demo/js/BACKUP/RMMZ_Corescript/main.js",
-        "sha": "dbb36bae9687e95c1c24acf47640f7dd68c0b96f",
-        "engine": "RPG Maker MZ",
-        "kind": "main"
-      }
-    ]
-  },
-  {
-    "owner": "stak",
-    "name": "rmmz-corescript",
-    "repo": "https://github.com/stak/rmmz-corescript",
-    "discoveredAt": "2026-09-16T10:53:30.292Z",
-    "paths": [
-      {
-        "path": "main.js",
-        "sha": "f3ba4e52ab1faaa377cc952a736e64e8de993365",
-        "engine": "RPG Maker MZ",
-        "kind": "main"
-      }
-    ]
-  },
-  {
-    "owner": "jakubiszon",
-    "name": "rpg-maker-mz-iframe",
-    "repo": "https://github.com/jakubiszon/rpg-maker-mz-iframe",
-    "discoveredAt": "2026-09-16T10:53:30.292Z",
-    "paths": [
-      {
-        "path": "demo/js/main.js",
-        "sha": "ef1d46211d18e4204b497edf199b66a228a69f72",
-        "engine": "RPG Maker MZ",
-        "kind": "main"
-      }
-    ]
-  },
-  {
-    "owner": "weepingwitch",
-    "name": "weepingwitch.github.io",
-    "repo": "https://github.com/weepingwitch/weepingwitch.github.io",
-    "discoveredAt": "2026-09-16T10:53:30.292Z",
-    "paths": [
-      {
-        "path": "TrainRPG/js/main.js",
-        "sha": "8d64dc8ff8a1e409ad962cc3ab745f98d7c20a7d",
-        "engine": "RPG Maker MZ",
-        "kind": "main"
-      }
-    ]
-  },
-  {
-    "owner": "lishi19990812",
-    "name": "mlsy041",
-    "repo": "https://github.com/lishi19990812/mlsy041",
-    "discoveredAt": "2026-09-16T10:53:30.292Z",
-    "paths": [
-      {
-        "path": "js/main.js",
-        "sha": "f3ba4e52ab1faaa377cc952a736e64e8de993365",
-        "engine": "RPG Maker MZ",
-        "kind": "main"
-      }
-    ]
-  },
-  {
-    "owner": "LiveBacteria",
-    "name": "GPTales-InteractiveNPC",
-    "repo": "https://github.com/LiveBacteria/GPTales-InteractiveNPC",
-    "discoveredAt": "2026-09-16T10:53:30.292Z",
-    "paths": [
-      {
-        "path": "Game/js/main.js",
-        "sha": "ddd679b6143b77be9b6a68945e33f06d20114c43",
-        "engine": "RPG Maker MZ",
-        "kind": "main"
-      }
-    ]
-  },
-  {
-    "owner": "getsentry",
-    "name": "hackweek-trialbytriage",
-    "repo": "https://github.com/getsentry/hackweek-trialbytriage",
-    "discoveredAt": "2026-09-16T10:53:30.292Z",
-    "paths": [
-      {
-        "path": "js/main.js",
-        "sha": "1a6f8986ed605827fd9396d816fda28a7e5c90de",
-        "engine": "RPG Maker MZ",
-        "kind": "main"
-      }
-    ]
-  },
-  {
     "owner": "AvianJay",
     "name": "Discord-Bot-Explore-Game",
     "repo": "https://github.com/AvianJay/Discord-Bot-Explore-Game",
@@ -3930,6 +3458,148 @@
         "sha": "1a6f8986ed605827fd9396d816fda28a7e5c90de",
         "engine": "RPG Maker MZ",
         "kind": "main"
+      }
+    ]
+  },
+  {
+    "owner": "oriera25",
+    "name": "unblocked-games",
+    "repo": "https://github.com/oriera25/unblocked-games",
+    "discoveredAt": "2026-09-16T16:12:40.601Z",
+    "paths": [
+      {
+        "path": "assets/games/clbloodmoney.html",
+        "sha": "fbb685714caad8dfadde6f7f6b42804783893d78",
+        "engine": "RPG Maker MV",
+        "kind": "html"
+      }
+    ]
+  },
+  {
+    "owner": "whuzc",
+    "name": "hanhua-and-yizhi",
+    "repo": "https://github.com/whuzc/hanhua-and-yizhi",
+    "discoveredAt": "2026-09-16T16:12:40.601Z",
+    "paths": [
+      {
+        "path": "game2apk-tool/templates/android-rpgmv/app/src/main/assets/www/index.html",
+        "sha": "eabd74ac3b0ac9568348727bf0458c515ca3d4ad",
+        "engine": "RPG Maker MV",
+        "kind": "html"
+      }
+    ]
+  },
+  {
+    "owner": "MengTL4",
+    "name": "game-mod-tools",
+    "repo": "https://github.com/MengTL4/game-mod-tools",
+    "discoveredAt": "2026-09-16T16:12:40.601Z",
+    "paths": [
+      {
+        "path": "zs2-modkit/skills/assets/zs2-modkit-template/runtime/save-harness/index.html",
+        "sha": "6e3b9c3006c651042aacf0a5b7b368545fe71fd2",
+        "engine": "RPG Maker MV",
+        "kind": "html"
+      },
+      {
+        "path": "dq2-modkit/runtime/save-harness/index.html",
+        "sha": "79c78a0c725cadfb8b6bd0f7c22e3add5e4169bc",
+        "engine": "RPG Maker MV",
+        "kind": "html"
+      },
+      {
+        "path": "nwr-modkit/runtime/save-harness/index.html",
+        "sha": "f0e81b42f5a28bb54255c3a308c8f0256d3ef78e",
+        "engine": "RPG Maker MV",
+        "kind": "html"
+      },
+      {
+        "path": "dq2-modkit/skills/assets/dq2-modkit-template/runtime/save-harness/index.html",
+        "sha": "79c78a0c725cadfb8b6bd0f7c22e3add5e4169bc",
+        "engine": "RPG Maker MV",
+        "kind": "html"
+      }
+    ]
+  },
+  {
+    "owner": "Kidev-org",
+    "name": "TCOAALBrowserLoader",
+    "repo": "https://github.com/Kidev-org/TCOAALBrowserLoader",
+    "discoveredAt": "2026-09-16T16:12:40.601Z",
+    "paths": [
+      {
+        "path": "app/loader.html",
+        "sha": "9c1d6567757e4ca62b87d8c671669ad2bf8b421c",
+        "engine": "RPG Maker MV",
+        "kind": "html"
+      }
+    ]
+  },
+  {
+    "owner": "ViktorWilker",
+    "name": "rpg-character-creator",
+    "repo": "https://github.com/ViktorWilker/rpg-character-creator",
+    "discoveredAt": "2026-09-16T16:12:40.601Z",
+    "paths": [
+      {
+        "path": "index.html",
+        "sha": "69eab7a7dd93031cae9038b378652062968394e3",
+        "engine": "RPG Maker MV",
+        "kind": "html"
+      }
+    ]
+  },
+  {
+    "owner": "harshikyadav",
+    "name": "project",
+    "repo": "https://github.com/harshikyadav/project",
+    "discoveredAt": "2026-09-16T16:12:40.601Z",
+    "paths": [
+      {
+        "path": "rename/master/index.html",
+        "sha": "be2838445de62ee1413e38dd6e9f7fa3c7f34d49",
+        "engine": "RPG Maker MV",
+        "kind": "html"
+      }
+    ]
+  },
+  {
+    "owner": "SomeRanDev",
+    "name": "sumrndm.site-archive",
+    "repo": "https://github.com/SomeRanDev/sumrndm.site-archive",
+    "discoveredAt": "2026-09-16T16:12:40.601Z",
+    "paths": [
+      {
+        "path": "sumrndm.site/super-tools-engine/index.html",
+        "sha": "3f69a556e28eb669b6c5fbec0ceb1282c42d3074",
+        "engine": "RPG Maker MV",
+        "kind": "html"
+      },
+      {
+        "path": "sumrndm.site/summon-core/index.html",
+        "sha": "5e73c19be9cc12fd7f5215911b66288e92ef6c91",
+        "engine": "RPG Maker MV",
+        "kind": "html"
+      }
+    ]
+  },
+  {
+    "owner": "floatingping",
+    "name": "rpgmakerTools",
+    "repo": "https://github.com/floatingping/rpgmakerTools",
+    "discoveredAt": "2026-09-16T16:12:40.601Z",
+    "paths": [
+      {
+        "path": "RPGMakerMVSaveEditor/index.html",
+        "sha": "03a95a6ce476f63d03869075bcc75dbc4e7bbf7d",
+        "engine": "RPG Maker MV",
+        "kind": "html"
+      },
+      {
+        "path": "RPGMakerMZSaveEditor/index.html",
+        "sha": "e0d521cba18a9a8c8b429861788108e34d356b3d",
+        "engine": "RPG Maker MZ",
+        "kind": "html"
       }
     ]
   }

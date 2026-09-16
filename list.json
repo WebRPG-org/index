@@ -24,6 +24,19 @@
     "syncedFromSource": true
   },
   {
+    "id": "lishi19990812-mlsy041",
+    "title": "（041搬运）绯色修仙录V0.4143",
+    "repo": "https://github.com/lishi19990812/mlsy041",
+    "owner": "lishi19990812",
+    "name": "mlsy041",
+    "engine": "RPG Maker MZ",
+    "status": "indexed",
+    "discoveredAt": "2026-09-16T10:53:30.292Z",
+    "source": "github-code-search",
+    "sourcePath": "index.html",
+    "plannedForkName": "lishi19990812-mlsy041"
+  },
+  {
     "id": "katai5plate-demoscene-2017",
     "title": "[TDF2017] PC Demo \"TEKIT00\" Web edition",
     "repo": "https://github.com/katai5plate/Demoscene-2017",
@@ -202,6 +215,19 @@
     "syncedFromSource": true
   },
   {
+    "id": "gamer-tool-studio-gamer-tool-studio-github-io",
+    "title": "#{GameTitle}",
+    "repo": "https://github.com/Gamer-Tool-Studio/Gamer-Tool-Studio.github.io",
+    "owner": "Gamer-Tool-Studio",
+    "name": "Gamer-Tool-Studio.github.io",
+    "engine": "RPG Maker MZ",
+    "status": "indexed",
+    "discoveredAt": "2026-09-16T10:53:30.292Z",
+    "source": "github-code-search",
+    "sourcePath": "public/cluaido_demo/index.html",
+    "plannedForkName": "Gamer-Tool-Studio-Gamer-Tool-Studio.github.io"
+  },
+  {
     "id": "chino-541-saikou-no-ramen-damashi",
     "title": "★住宅地タイルセット_サンプル",
     "repo": "https://github.com/Chino-541/Saikou-no-Ramen-Damashi",
@@ -335,6 +361,19 @@
     "sourceHeadSha": "a992af92ccacef9faa185941526e341849af216e",
     "processedHeadSha": "9256ea16a8d5d382a4d522b10a283eb0142529b4",
     "syncedFromSource": true
+  },
+  {
+    "id": "yesenmidnight-2000sescape",
+    "title": "2000sEscape",
+    "repo": "https://github.com/Yesenmidnight/2000sEscape",
+    "owner": "Yesenmidnight",
+    "name": "2000sEscape",
+    "engine": "RPG Maker MZ",
+    "status": "indexed",
+    "discoveredAt": "2026-09-16T10:53:30.292Z",
+    "source": "github-code-search",
+    "sourcePath": "2000sEscape/index.html",
+    "plannedForkName": "Yesenmidnight-2000sEscape"
   },
   {
     "id": "eric0308a-amelie-falls-over-and-over-again",
@@ -539,6 +578,19 @@
     "sourceHeadSha": "481fa9652269518eac0638eaa4d81c3e4fbb2a05",
     "processedHeadSha": "13033d325450ee5fe868ad243ab93dd2d9875b0f",
     "syncedFromSource": true
+  },
+  {
+    "id": "tylike-ai-labs",
+    "title": "大模型对话演示",
+    "repo": "https://github.com/tylike/AI.Labs",
+    "owner": "tylike",
+    "name": "AI.Labs",
+    "engine": "RPG Maker MZ",
+    "status": "indexed",
+    "discoveredAt": "2026-09-16T10:53:30.292Z",
+    "source": "github-code-search",
+    "sourcePath": "GameUI/Rmmz.CN/index.html",
+    "plannedForkName": "tylike-AI.Labs"
   },
   {
     "id": "lisachouhc-drdresapre",
@@ -1943,6 +1995,19 @@
     "syncedFromSource": true
   },
   {
+    "id": "cloudy0717-worldsgreatestmercenary",
+    "title": "世界最強傭兵的傳說",
+    "repo": "https://github.com/Cloudy0717/WorldsGreatestMercenary",
+    "owner": "Cloudy0717",
+    "name": "WorldsGreatestMercenary",
+    "engine": "RPG Maker MZ",
+    "status": "indexed",
+    "discoveredAt": "2026-09-16T10:53:30.292Z",
+    "source": "github-code-search",
+    "sourcePath": "index.html",
+    "plannedForkName": "Cloudy0717-WorldsGreatestMercenary"
+  },
+  {
     "id": "tychouhaha-zk-restaurant",
     "title": "數學速食店",
     "repo": "https://github.com/tychouhaha/ZK_restaurant",
@@ -2308,7 +2373,6 @@
     "discoveredAt": "2026-09-16T10:53:30.292Z",
     "source": "github-code-search",
     "sourcePath": "www/index.html",
-    "plannedForkName": "NeonNoirU-xrkxq",
     "forkName": "NeonNoir-Yuki-xrkxq",
     "duplicateReason": "Another list entry already maps to this fork repository."
   },
@@ -2759,6 +2823,19 @@
     "invalidReason": "RPG Maker structure is incomplete near index.html.",
     "deletedAt": "2026-06-19T04:23:35.649Z",
     "validationScore": 53
+  },
+  {
+    "id": "kagedesu-alpha-abs-z",
+    "title": "AABS Z",
+    "repo": "https://github.com/KageDesu/Alpha-ABS-Z",
+    "owner": "KageDesu",
+    "name": "Alpha-ABS-Z",
+    "engine": "RPG Maker MZ",
+    "status": "indexed",
+    "discoveredAt": "2026-09-16T10:53:30.292Z",
+    "source": "github-code-search",
+    "sourcePath": "index.html",
+    "plannedForkName": "KageDesu-Alpha-ABS-Z"
   },
   {
     "id": "mettaseven-abby-rayshine",
@@ -3990,7 +4067,6 @@
     "discoveredAt": "2026-06-23T23:54:52.922Z",
     "source": "github-code-search",
     "sourcePath": "pc/bloodmoney/index.html",
-    "plannedForkName": "EnchantedDonutStudioz-cdn2",
     "checkedAt": "2026-09-16T11:02:23.763Z",
     "forkName": "EnchantedDonutStudioz-cdn2",
     "invalidReason": "Upstream repository size 12499049 KB exceeds the 8388608 KB limit."
@@ -4042,7 +4118,6 @@
     "discoveredAt": "2026-07-23T11:07:08.520Z",
     "source": "github-code-search",
     "sourcePath": "games/Bloodmoney/index.html",
-    "plannedForkName": "funny-shooter-22-funny-shooter-22.github.io",
     "checkedAt": "2026-09-16T11:03:20.599Z",
     "forkName": "funny-shooter-22-funny-shooter-22.github.io",
     "invalidReason": "No RPG Maker MV/MZ HTML entry point loading js/main.js was found.",
@@ -4168,7 +4243,6 @@
     "discoveredAt": "2026-09-16T10:53:30.292Z",
     "source": "github-code-search",
     "sourcePath": "clbloodmoney.html",
-    "plannedForkName": "GreenGru2-ugs-files",
     "checkedAt": "2026-09-16T11:03:51.130Z",
     "forkName": "GreenGru2-ugs-files",
     "invalidReason": "Repository has 1687 HTML files, exceeding the 500 file limit."
@@ -4184,7 +4258,6 @@
     "discoveredAt": "2026-08-25T06:43:48.287Z",
     "source": "github-code-search",
     "sourcePath": "semag/bloodmoney/index.html",
-    "plannedForkName": "gx-gamescrack-GX-Gamescrack.github.io",
     "checkedAt": "2026-09-16T11:04:09.683Z",
     "forkName": "gx-gamescrack-GX-Gamescrack.github.io",
     "invalidReason": "Startup scripts exceed the inspection limits."
@@ -5135,6 +5208,19 @@
     "sourceHeadSha": "0103a61098157c80472ed07efc3a48e6dc13eb27",
     "processedHeadSha": "d2c117cbe97892902a2e7910b8e660c07ab36452",
     "syncedFromSource": true
+  },
+  {
+    "id": "je-can-code-ca",
+    "title": "Chef Adventure",
+    "repo": "https://github.com/je-can-code/ca",
+    "owner": "je-can-code",
+    "name": "ca",
+    "engine": "RPG Maker MZ",
+    "status": "indexed",
+    "discoveredAt": "2026-09-16T10:53:30.292Z",
+    "source": "github-code-search",
+    "sourcePath": "chef-adventure/index.html",
+    "plannedForkName": "je-can-code-ca"
   },
   {
     "id": "hackerman998-spacejam",
@@ -6127,7 +6213,6 @@
     "discoveredAt": "2026-09-16T10:53:30.292Z",
     "source": "github-code-search",
     "sourcePath": "games/cldeadplate.html",
-    "plannedForkName": "FrenchHelp-Games",
     "checkedAt": "2026-09-16T11:03:19.703Z",
     "forkName": "FrenchHelp-Games",
     "invalidReason": "Repository has 1611 HTML files, exceeding the 500 file limit."
@@ -6161,7 +6246,6 @@
     "discoveredAt": "2026-08-29T22:59:21.768Z",
     "source": "github-code-search",
     "sourcePath": "truffled/deadplatewebport/dead.html",
-    "plannedForkName": "gmshelf-truffled",
     "checkedAt": "2026-09-16T11:03:35.599Z",
     "forkName": "gmshelf-truffled",
     "invalidReason": "Repository has 504 HTML files, exceeding the 500 file limit."
@@ -7686,6 +7770,19 @@
     "syncedFromSource": true
   },
   {
+    "id": "axlan-fatal-core-dump",
+    "title": "Fatal Core Dump",
+    "repo": "https://github.com/axlan/fatal_core_dump",
+    "owner": "axlan",
+    "name": "fatal_core_dump",
+    "engine": "RPG Maker MZ",
+    "status": "indexed",
+    "discoveredAt": "2026-09-16T10:53:30.292Z",
+    "source": "github-code-search",
+    "sourcePath": "site/rpg_maker/index.html",
+    "plannedForkName": "axlan-fatal_core_dump"
+  },
+  {
     "id": "apollovy-fear-and-hunger",
     "title": "Fear & Hunger",
     "repo": "https://github.com/apollovy/fear-and-hunger",
@@ -9109,7 +9206,6 @@
     "discoveredAt": "2026-09-16T10:53:30.292Z",
     "source": "github-code-search",
     "sourcePath": "cldeadplate.html",
-    "plannedForkName": "Ashton20271-unblockedgames",
     "checkedAt": "2026-09-16T11:01:06.277Z",
     "forkName": "Ashton20271-unblockedgames",
     "invalidReason": "Repository has 2776 HTML files, exceeding the 500 file limit."
@@ -9226,6 +9322,19 @@
     "sourceHeadSha": "626f497dbed45910231d15d7ee7cb9d4fd7fce89",
     "processedHeadSha": "85064a628392132b39c9f4287a6709eb9b87e7e0",
     "syncedFromSource": true
+  },
+  {
+    "id": "jakubiszon-rpg-maker-mz-iframe",
+    "title": "iframe-examples",
+    "repo": "https://github.com/jakubiszon/rpg-maker-mz-iframe",
+    "owner": "jakubiszon",
+    "name": "rpg-maker-mz-iframe",
+    "engine": "RPG Maker MZ",
+    "status": "indexed",
+    "discoveredAt": "2026-09-16T10:53:30.292Z",
+    "source": "github-code-search",
+    "sourcePath": "demo/index.html",
+    "plannedForkName": "jakubiszon-rpg-maker-mz-iframe"
   },
   {
     "id": "daxsoft-immersion-package",
@@ -9729,7 +9838,6 @@
     "discoveredAt": "2026-09-16T10:53:30.292Z",
     "source": "github-code-search",
     "sourcePath": "364.html",
-    "plannedForkName": "daknux-html",
     "checkedAt": "2026-09-16T11:01:25.506Z",
     "forkName": "daknux-html",
     "invalidReason": "No RPG Maker MV/MZ HTML entry point loading js/main.js was found.",
@@ -9760,7 +9868,6 @@
     "discoveredAt": "2026-06-29T14:46:45.207Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "plannedForkName": "eric0308a-Game_karryns_prison",
     "checkedAt": "2026-09-16T11:02:34.136Z",
     "forkName": "eric0308a-Game_karryns_prison",
     "invalidReason": "Repository tree has 26517 entries, exceeding the 20000 entry limit."
@@ -9827,6 +9934,19 @@
     "sourceHeadSha": "8b12697987c495520419c6c1e18eac734460e29b",
     "processedHeadSha": "8d27a206f0700239cab2b2d92d82e920c97d3811",
     "syncedFromSource": true
+  },
+  {
+    "id": "flashdim-kins-chronicle",
+    "title": "Kin's Chronicle",
+    "repo": "https://github.com/flashdim/kins-chronicle",
+    "owner": "flashdim",
+    "name": "kins-chronicle",
+    "engine": "RPG Maker MZ",
+    "status": "indexed",
+    "discoveredAt": "2026-09-16T10:53:30.292Z",
+    "source": "github-code-search",
+    "sourcePath": "index.html",
+    "plannedForkName": "flashdim-kins-chronicle"
   },
   {
     "id": "juridon-juridon-github-io",
@@ -9900,7 +10020,7 @@
     "discoveredAt": "2026-06-23T23:54:52.922Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "plannedForkName": "etg227-NEW-GAME",
+    "plannedForkName": "etg227-NEW-GAME-7a8ad983",
     "checkedAt": "2026-09-16T11:00:20.823Z",
     "lastCheckError": "Fork creation failed: GitHub API 409: Target repository WebRPG-org/etg227-NEW-GAME belongs to another source",
     "invalidReason": "Fork creation failed: GitHub API 409: Target repository WebRPG-org/etg227-NEW-GAME belongs to another source",
@@ -10273,6 +10393,19 @@
     "forkName": "lriki-RPGMakerMV"
   },
   {
+    "id": "lriki-ln-mysteryroguesystem",
+    "title": "LN_MysteryRogueSystem",
+    "repo": "https://github.com/lriki/LN_MysteryRogueSystem",
+    "owner": "lriki",
+    "name": "LN_MysteryRogueSystem",
+    "engine": "RPG Maker MZ",
+    "status": "indexed",
+    "discoveredAt": "2026-09-16T10:53:30.292Z",
+    "source": "github-code-search",
+    "sourcePath": "index.html",
+    "plannedForkName": "lriki-LN_MysteryRogueSystem"
+  },
+  {
     "id": "camiinyx-the-8-elements",
     "title": "Los 8 Elementos",
     "repo": "https://github.com/CamiiNyx/The-8-Elements",
@@ -10397,6 +10530,19 @@
     "syncedFromSource": true
   },
   {
+    "id": "liberatedpixelcup-rpg-maker-mz-lpc-starter-kit",
+    "title": "LPC",
+    "repo": "https://github.com/LiberatedPixelCup/RPG_Maker_MZ_LPC_Starter_Kit",
+    "owner": "LiberatedPixelCup",
+    "name": "RPG_Maker_MZ_LPC_Starter_Kit",
+    "engine": "RPG Maker MZ",
+    "status": "indexed",
+    "discoveredAt": "2026-09-16T10:53:30.292Z",
+    "source": "github-code-search",
+    "sourcePath": "LPC/index.html",
+    "plannedForkName": "LiberatedPixelCup-RPG_Maker_MZ_LPC_Starter_Kit"
+  },
+  {
     "id": "miguelarcjr-lucys-hotel",
     "title": "Lucy's Hotel 2",
     "repo": "https://github.com/miguelarcjr/lucys-hotel",
@@ -10491,6 +10637,19 @@
     "sourceHeadSha": "e546fe810c21dd64e873a69d5362e838e805dea7",
     "processedHeadSha": "315ea8546393b9e5a68ec53fcf107d17ed5ffc2e",
     "syncedFromSource": true
+  },
+  {
+    "id": "theartofme-rmmv-ink",
+    "title": "LWP_Ink Demo",
+    "repo": "https://github.com/theartofme/rmmv-ink",
+    "owner": "theartofme",
+    "name": "rmmv-ink",
+    "engine": "RPG Maker MZ",
+    "status": "indexed",
+    "discoveredAt": "2026-09-16T10:53:30.292Z",
+    "source": "github-code-search",
+    "sourcePath": "LWP_InkDemo/index.html",
+    "plannedForkName": "theartofme-rmmv-ink"
   },
   {
     "id": "collinsumrell-sunset-valley",
@@ -11669,7 +11828,6 @@
     "discoveredAt": "2026-06-23T23:54:52.922Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "plannedForkName": "fifomori-nwcompat",
     "checkedAt": "2026-09-16T11:05:02.212Z",
     "forkName": "fifomori-nwcompat",
     "invalidReason": "No RPG Maker MV/MZ HTML entry point loading js/main.js was found.",
@@ -11900,7 +12058,6 @@
     "discoveredAt": "2026-09-16T10:53:30.292Z",
     "source": "github-code-search",
     "sourcePath": "game-embeds/omori.html",
-    "plannedForkName": "dotgui-dev-DotGUI",
     "checkedAt": "2026-09-16T11:01:22.867Z",
     "forkName": "dotgui-dev-DotGUI",
     "invalidReason": "No RPG Maker MV/MZ HTML entry point loading js/main.js was found.",
@@ -12750,7 +12907,6 @@
     "discoveredAt": "2026-06-23T23:54:52.922Z",
     "source": "github-code-search",
     "sourcePath": "OnlineMvDemo/index.html",
-    "plannedForkName": "Gward2489-RPGMakerMvOnline",
     "checkedAt": "2026-09-16T11:04:03.850Z",
     "forkName": "Gward2489-RPGMakerMvOnline",
     "invalidReason": "No RPG Maker MV/MZ HTML entry point loading js/main.js was found.",
@@ -12957,7 +13113,7 @@
     "discoveredAt": "2026-08-29T12:20:16.360Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "plannedForkName": "Harleythetech-CAPSTONE_PPV2",
+    "plannedForkName": "Harleythetech-CAPSTONE_PPV2-28a54494",
     "checkedAt": "2026-09-16T11:00:20.823Z",
     "lastCheckError": "Fork creation failed: GitHub API 409: Target repository WebRPG-org/Harleythetech-CAPSTONE_PPV2 belongs to another source",
     "invalidReason": "Fork creation failed: GitHub API 409: Target repository WebRPG-org/Harleythetech-CAPSTONE_PPV2 belongs to another source",
@@ -12988,6 +13144,19 @@
     "sourceHeadSha": "94675f7634d5a05bfdbeca6c4cbdd0b5d34cf357",
     "processedHeadSha": "56bbf328f718b1dfbaf1edf315fb29b603218b99",
     "syncedFromSource": true
+  },
+  {
+    "id": "cizz22-rpgmaker",
+    "title": "Paling RPG",
+    "repo": "https://github.com/Cizz22/rpgmaker",
+    "owner": "Cizz22",
+    "name": "rpgmaker",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "discoveredAt": "2026-09-16T10:53:30.292Z",
+    "source": "github-code-search",
+    "sourcePath": "index.html",
+    "plannedForkName": "Cizz22-rpgmaker"
   },
   {
     "id": "binkalogi-pantiesia1-0",
@@ -13412,6 +13581,19 @@
     "forkName": "moonyoulove-Project-Tiny"
   },
   {
+    "id": "0ui0-owo-terminal-public",
+    "title": "Project1",
+    "repo": "https://github.com/0ui0/owo_terminal_public",
+    "owner": "0ui0",
+    "name": "owo_terminal_public",
+    "engine": "RPG Maker MZ",
+    "status": "indexed",
+    "discoveredAt": "2026-09-16T10:53:30.292Z",
+    "source": "github-code-search",
+    "sourcePath": "server/apps/aiRpg/rmmz/index.html",
+    "plannedForkName": "0ui0-owo_terminal_public"
+  },
+  {
     "id": "affonsoamendola-oldprojects",
     "title": "Project1",
     "repo": "https://github.com/affonsoamendola/oldprojects",
@@ -13729,6 +13911,19 @@
     "syncedFromSource": true
   },
   {
+    "id": "livebacteria-gptales-interactivenpc",
+    "title": "Project1",
+    "repo": "https://github.com/LiveBacteria/GPTales-InteractiveNPC",
+    "owner": "LiveBacteria",
+    "name": "GPTales-InteractiveNPC",
+    "engine": "RPG Maker MZ",
+    "status": "indexed",
+    "discoveredAt": "2026-09-16T10:53:30.292Z",
+    "source": "github-code-search",
+    "sourcePath": "Game/index.html",
+    "plannedForkName": "LiveBacteria-GPTales-InteractiveNPC"
+  },
+  {
     "id": "luerl21-rpgmakermv1",
     "title": "Project1",
     "repo": "https://github.com/Luerl21/RPGMakerMV1",
@@ -14019,6 +14214,19 @@
     "sourceDefaultBranch": "main",
     "sourceHeadSha": "f7bd50552bcc87a79ff4923c5937cbd7b22721fe",
     "processedHeadSha": "f15ae387d10c2ab42e12e66e6be9741c73822336"
+  },
+  {
+    "id": "kentko27-gamedev",
+    "title": "Project2",
+    "repo": "https://github.com/kentko27/gamedev",
+    "owner": "kentko27",
+    "name": "gamedev",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "discoveredAt": "2026-09-16T10:53:30.292Z",
+    "source": "github-code-search",
+    "sourcePath": "index.html",
+    "plannedForkName": "kentko27-gamedev"
   },
   {
     "id": "kristenyu-kristenyu-github-io",
@@ -15257,6 +15465,19 @@
     "sourceHeadSha": "7b71bb3dd2fabf12d56776db7ebe6b41bb684527",
     "processedHeadSha": "734c7bebdcc6d632fb864df79e40513929927ae3",
     "syncedFromSource": true
+  },
+  {
+    "id": "spritestudio-ss6playerforweb",
+    "title": "SampleProject",
+    "repo": "https://github.com/SpriteStudio/SS6PlayerForWeb",
+    "owner": "SpriteStudio",
+    "name": "SS6PlayerForWeb",
+    "engine": "RPG Maker MZ",
+    "status": "indexed",
+    "discoveredAt": "2026-09-16T10:53:30.292Z",
+    "source": "github-code-search",
+    "sourcePath": "docs/mz/SampleProject/index.html",
+    "plannedForkName": "SpriteStudio-SS6PlayerForWeb"
   },
   {
     "id": "suppayami-yami-engine-delta",
@@ -17671,6 +17892,19 @@
     "syncedFromSource": true
   },
   {
+    "id": "weepingwitch-weepingwitch-github-io",
+    "title": "trainchild",
+    "repo": "https://github.com/weepingwitch/weepingwitch.github.io",
+    "owner": "weepingwitch",
+    "name": "weepingwitch.github.io",
+    "engine": "RPG Maker MZ",
+    "status": "indexed",
+    "discoveredAt": "2026-09-16T10:53:30.292Z",
+    "source": "github-code-search",
+    "sourcePath": "TrainRPG/index.html",
+    "plannedForkName": "weepingwitch-weepingwitch.github.io"
+  },
+  {
     "id": "tnguy510-split-4",
     "title": "Trapped",
     "repo": "https://github.com/tnguy510/Split-4",
@@ -17694,6 +17928,19 @@
     "sourceHeadSha": "f41007b0934a52a315f267db9cc949b37e3eab5f",
     "processedHeadSha": "53e438ca6f23bc770377c98a58c5c17f2a369817",
     "syncedFromSource": true
+  },
+  {
+    "id": "getsentry-hackweek-trialbytriage",
+    "title": "Trial by Triage",
+    "repo": "https://github.com/getsentry/hackweek-trialbytriage",
+    "owner": "getsentry",
+    "name": "hackweek-trialbytriage",
+    "engine": "RPG Maker MZ",
+    "status": "indexed",
+    "discoveredAt": "2026-09-16T10:53:30.292Z",
+    "source": "github-code-search",
+    "sourcePath": "index.html",
+    "plannedForkName": "getsentry-hackweek-trialbytriage"
   },
   {
     "id": "ryanbram-ryanbram-github-io",
