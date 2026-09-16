@@ -1,6 +1,7 @@
-import crypto from "node:crypto";
 import fs from "node:fs/promises";
-import path from "node:path";
+import { getForkNames, getUniqueSources, listJsonFiles, readForkFailures, readForkRecords, sourceKey } from "./repo-identity.mjs";
+import { isPlanSkipped, isTerminalStatus } from "./repo-status.mjs";
+import { DERIVED_FIELDS, normalizeEntry } from "./normalize-list.mjs";
 
 const resultsDir = process.env.RESULTS_DIR || "workflow-results";
 const forkFailuresDir = process.env.FORK_FAILURES_DIR || "workflow-failures";
@@ -15,18 +16,20 @@ const now = new Date().toISOString();
 // Derived metadata only describes a fork that was just verified. Every other
 // outcome clears it, otherwise list.json keeps advertising pages, covers and
 // entry paths for forks that are no longer prepared.
-const clearedDerivedFields = {
-  pagesUrl: undefined,
-  cover: undefined,
-  coverPath: undefined,
-  entryPath: undefined,
-  projectRoot: undefined,
-};
+const clearedDerivedFields = Object.fromEntries(DERIVED_FIELDS.map((field) => [field, undefined]));
 
-const list = JSON.parse(await fs.readFile(listPath, "utf8"));
+const list = JSON.parse(await fs.readFile(listPath, "utf8")).map(normalizeEntry);
 const results = await readResults(resultsDir);
-const resultsByForkName = new Map(results.map((result) => [String(result.forkName || result.repoName).toLowerCase(), result]));
-const forkNameBySource = getForkNames(list);
+const planPath = process.env.PLAN_PATH || "workflow-plan/plan.json";
+const plan = JSON.parse(await fs.readFile(planPath, "utf8").catch((error) => {
+  if (error.code === "ENOENT" && !process.env.PLAN_PATH) return '{"targets":[]}';
+  throw error;
+}));
+const resultsByEntryId = new Map(results.filter((result) => result.entryId).map((result) => [result.entryId, result]));
+const resultsByForkName = new Map(results.filter((result) => !result.entryId).map((result) => [String(result.forkName || result.repoName).toLowerCase(), result]));
+const plansByEntryId = new Map((plan.targets || []).map((target) => [target.entryId, target]));
+const forkRecords = await readForkRecords(forkFailuresDir);
+const forkNameBySource = getForkNames(list, forkRecords);
 const forkFailuresBySource = await readForkFailures(forkFailuresDir);
 const retired = [];
 
@@ -46,12 +49,27 @@ let unchanged = 0;
 // than one playable project). Only the first entry owns the fork's result, so
 // the others cannot inherit its pages, cover or entry path.
 const forkOwners = new Map();
+for (const item of getUniqueSources(list, forkRecords).sort((a, b) => Number(isPlanSkipped(a.entry)) - Number(isPlanSkipped(b.entry)))) {
+  const key = item.forkName.toLowerCase();
+  if (!forkOwners.has(key)) forkOwners.set(key, item.entryId);
+}
 
 const updated = list.map((entry) => {
-  const sourceKey = `${entry.owner}/${entry.name}`.toLowerCase();
-  const forkName = forkNameBySource.get(sourceKey) || entry.forkName || "";
-  const forkKey = String(forkName).toLowerCase();
-  const result = resultsByForkName.get(forkKey);
+  const key = sourceKey(entry);
+  if (isTerminalStatus(entry) && entry.status !== "hidden") {
+    unchanged += 1;
+    return entry;
+  }
+  let forkName = forkNameBySource.get(key) || entry.forkName || "";
+  let forkKey = String(forkName).toLowerCase();
+  const target = plansByEntryId.get(entry.id);
+  let result = resultsByEntryId.get(entry.id) || resultsByForkName.get(forkKey);
+  if (result && ((target && String(result.forkName || result.repoName).toLowerCase() !== target.repo.toLowerCase()) || (result.indexedSource && result.indexedSource.toLowerCase() !== key) || (result.entryId && result.entryId !== entry.id))) result = undefined;
+  if (!result && target && (!target.indexedSource || target.indexedSource.toLowerCase() === key)) {
+    result = { status: "check_error", entryId: entry.id, forkName: target.repo, indexedSource: key, checkedAt: plan.checkedAt || now, failureKind: "transient", error: "The planned job produced no result; checkout, token creation, processing, or artifact upload failed." };
+  }
+  if (result) forkName = result.forkName || result.repoName || forkName;
+  forkKey = String(forkName).toLowerCase();
   const checkedAt = (result && result.checkedAt) || now;
 
   if (forkKey) {
@@ -61,11 +79,6 @@ const updated = list.map((entry) => {
       forkOwners.set(forkKey, entry.id);
     } else if (owner !== entry.id) {
       duplicates += 1;
-
-      if (entry.status === "invalid_structure") {
-        unchanged += 1;
-        return entry;
-      }
 
       return cleanObject({
         ...entry,
@@ -88,9 +101,9 @@ const updated = list.map((entry) => {
   // repository that no longer exists will not turn up on a later attempt
   // either, so retire the entry here: until now every run retried the same
   // dead name and the entry stayed `indexed` forever.
-  const forkFailure = forkFailuresBySource.get(sourceKey);
+  const forkFailure = forkFailuresBySource.get(key);
 
-  if (forkFailure && forkFailure.kind === "permanent" && !entry.forkName) {
+  if (forkFailure && forkFailure.kind === "permanent" && !result && !forkRecords.has(key)) {
     forkFailuresRetired += 1;
     retired.push(`${entry.title} — unavailable: the source repository could not be forked`);
 
@@ -108,19 +121,16 @@ const updated = list.map((entry) => {
 
   if (!result) {
     unchanged += 1;
-    return entry;
+    const fork = forkRecords.get(key);
+    return fork ? { ...entry, forkName: fork.forkName, plannedForkName: undefined } : entry;
   }
 
   if (result.status === "verified") {
     verified += 1;
 
-    // If the result has a sourceRepo (original upstream repository),
-    // update the repo/owner/name fields so "Source" link points to
-    // the original author, not the fork under WebRPG-org.
+    // The index identity stays stable. Upstream metadata must not turn an
+    // entry for a modified fork into a different source repository.
     const sourceRepo = result.sourceRepo || "";
-    const fixedRepo = sourceRepo ? `https://github.com/${sourceRepo}` : entry.repo;
-    const fixedOwner = sourceRepo ? sourceRepo.split("/")[0] : entry.owner;
-    const fixedName = sourceRepo ? sourceRepo.split("/")[1] : entry.name;
 
     return cleanObject({
       ...entry,
@@ -129,14 +139,20 @@ const updated = list.map((entry) => {
       forkName,
       pagesUrl: result.pagesUrl,
       entryPath: result.entryPath,
+      projectRoot: result.projectRoot,
+      coverPath: result.coverPath,
+      plannedForkName: undefined,
+      invalidReason: undefined,
+      duplicateReason: undefined,
+      deletedAt: undefined,
+      reachable: result.reachable,
+      reachabilityDetail: result.reachabilityDetail,
+      verificationDeferred: result.verificationDeferred || undefined,
       engine: result.engine || entry.engine,
       cover: result.cover || undefined,
       validationScore: result.validationScore,
       totalSize: result.totalSize,
       dataSize: result.dataSize,
-      repo: fixedRepo,
-      owner: fixedOwner,
-      name: fixedName,
       sourceRepo,
       sourceDefaultBranch: result.sourceDefaultBranch,
       sourceHeadSha: result.sourceHeadSha,
@@ -263,7 +279,7 @@ const updated = list.map((entry) => {
     dataSize: undefined,
     ...clearedDerivedFields,
   });
-});
+}).map((entry) => cleanObject(normalizeEntry(entry)));
 
 updated.sort((left, right) => left.title.localeCompare(right.title, "zh-Hans") || left.repo.localeCompare(right.repo, "en"));
 
@@ -333,102 +349,6 @@ async function readResults(dir) {
   return results;
 }
 
-// Latest verdict per source repository. A permanent failure is not undone by a
-// later transient one, so it wins regardless of order.
-async function readForkFailures(dir) {
-  const failures = new Map();
-
-  for (const file of await listJsonFiles(dir)) {
-    const report = JSON.parse(await fs.readFile(file, "utf8"));
-
-    for (const failure of report.failures || []) {
-      const key = String(failure.source || "").toLowerCase();
-      if (!failures.has(key) || failure.kind === "permanent") {
-        failures.set(key, failure);
-      }
-    }
-  }
-
-  return failures;
-}
-
-async function listJsonFiles(dir) {
-  const entries = await fs.readdir(dir, { withFileTypes: true }).catch((error) => {
-    if (error.code === "ENOENT") {
-      return [];
-    }
-
-    throw error;
-  });
-  const files = [];
-
-  for (const entry of entries) {
-    const fullPath = path.join(dir, entry.name);
-    if (entry.isDirectory()) {
-      files.push(...await listJsonFiles(fullPath));
-    } else if (entry.isFile() && entry.name.endsWith(".json")) {
-      files.push(fullPath);
-    }
-  }
-
-  return files;
-}
-
-// Map "owner/name" to the fork repository name. The recorded forkName wins:
-// the verified branch rewrites owner/name to the upstream repository, so
-// recomputing it from those fields could point at a fork that never existed.
-function getForkNames(entries) {
-  const bySource = new Map();
-
-  for (const entry of entries) {
-    const sourceKey = `${entry.owner}/${entry.name}`.toLowerCase();
-
-    if (bySource.has(sourceKey)) {
-      continue;
-    }
-
-    bySource.set(sourceKey, {
-      source: sourceKey,
-      owner: entry.owner,
-      name: entry.name,
-      forkName: entry.forkName || makeForkName(entry.owner, entry.name),
-      computed: !entry.forkName,
-    });
-  }
-
-  const usedNames = new Map();
-  for (const item of bySource.values()) {
-    const nameKey = item.forkName.toLowerCase();
-    const existingSource = usedNames.get(nameKey);
-
-    if (item.computed && existingSource && existingSource !== item.source) {
-      item.forkName = makeForkName(item.owner, `${item.name}-${shortHash(item.source)}`);
-    }
-
-    usedNames.set(item.forkName.toLowerCase(), item.source);
-  }
-
-  return new Map([...bySource.values()].map((item) => [item.source, item.forkName]));
-}
-
-function makeForkName(owner, name) {
-  const raw = `${owner}-${name}`;
-  let safe = raw
-    .replace(/[^A-Za-z0-9._-]+/g, "-")
-    .replace(/-+/g, "-")
-    .replace(/^[.-]+|[.-]+$/g, "");
-
-  if (!safe) {
-    safe = `repo-${shortHash(raw)}`;
-  }
-
-  if (safe.length <= 100) {
-    return safe;
-  }
-
-  return `${safe.slice(0, 91).replace(/[.-]+$/g, "")}-${shortHash(raw)}`;
-}
-
 function cleanObject(value) {
   return Object.fromEntries(Object.entries(value).filter(([, item]) => item !== undefined && item !== null && item !== ""));
 }
@@ -448,10 +368,6 @@ function parseNonNegativeInt(value) {
   }
 
   return parsed;
-}
-
-function shortHash(value) {
-  return crypto.createHash("sha1").update(value).digest("hex").slice(0, 8);
 }
 
 async function writeStepSummary(lines) {

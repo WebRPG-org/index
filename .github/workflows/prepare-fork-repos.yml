@@ -48,6 +48,15 @@ jobs:
           private-key: ${{ secrets.WEBRPG_APP_PRIVATE_KEY }}
           owner: WebRPG-org
 
+      - name: Download fork report
+        if: github.event_name == 'workflow_run'
+        uses: actions/download-artifact@v4
+        with:
+          name: fork-failures
+          run-id: ${{ github.event.workflow_run.id }}
+          github-token: ${{ github.token }}
+          path: workflow-failures
+
       - name: Plan fork repositories
         id: plan
         env:
@@ -56,6 +65,13 @@ jobs:
           LIMIT: "0"
           MAX_MATRIX_SIZE: "32"
         run: node scripts/plan-fork-repos.mjs
+
+      - name: Upload prepare plan
+        uses: actions/upload-artifact@v4
+        with:
+          name: prepare-plan
+          path: workflow-plan/plan.json
+          if-no-files-found: error
 
   process:
     needs: plan
@@ -90,6 +106,8 @@ jobs:
           WEBRPG_APP_TOKEN: ${{ steps.app-token.outputs.token }}
           TARGET_ORG: WebRPG-org
           REPO_NAME: ${{ matrix.repo }}
+          INDEX_ENTRY_ID: ${{ matrix.entryId }}
+          INDEXED_SOURCE: ${{ matrix.indexedSource }}
           DRY_RUN: "false"
           DELETE_INVALID_REPOS: "true"
           PAGES_SOURCE_PATH: /
@@ -115,7 +133,7 @@ jobs:
     needs:
       - plan
       - process
-    if: always() && needs.plan.outputs.has_targets == 'true'
+    if: always() && needs.plan.result == 'success'
     runs-on: ubuntu-latest
     steps:
       - name: Create index repository token
@@ -138,6 +156,12 @@ jobs:
         with:
           node-version: "20"
 
+      - name: Download prepare plan
+        uses: actions/download-artifact@v4
+        with:
+          name: prepare-plan
+          path: workflow-plan
+
       - name: Download repository results
         uses: actions/download-artifact@v4
         with:
@@ -146,19 +170,18 @@ jobs:
           path: workflow-results
 
       - name: Download fork failures
-        # Uploaded by the fork workflow that triggered this run. Absent when
-        # every fork was created successfully.
-        continue-on-error: true
+        if: github.event_name == 'workflow_run'
         uses: actions/download-artifact@v4
         with:
           name: fork-failures
           run-id: ${{ github.event.workflow_run.id }}
-          github-token: ${{ secrets.GITHUB_TOKEN }}
+          github-token: ${{ github.token }}
           path: workflow-failures
 
       - name: Commit list metadata
         env:
           DRY_RUN: "false"
+          PLAN_PATH: workflow-plan/plan.json
           RESULTS_DIR: workflow-results
           FORK_FAILURES_DIR: workflow-failures
           # Consecutive failures tolerated before an entry stops being

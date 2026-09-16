@@ -1,7 +1,7 @@
-import crypto from "node:crypto";
 import fs from "node:fs/promises";
 
 import { isPlanSkipped } from "./repo-status.mjs";
+import { getUniqueSources, getForkNames, readForkFailures, readForkRecords } from "./repo-identity.mjs";
 
 const apiBase = "https://api.github.com";
 const token = process.env.WEBRPG_APP_TOKEN || process.env.GITHUB_TOKEN || "";
@@ -13,9 +13,17 @@ if (!token) {
   throw new Error("WEBRPG_APP_TOKEN or GITHUB_TOKEN is required.");
 }
 
-const list = JSON.parse(await fs.readFile("list.json", "utf8"));
-const indexedNames = new Set(getUniqueSources(list).map((item) => item.forkName.toLowerCase()));
-const lastCheckedByFork = getLastCheckedByFork(list);
+const list = JSON.parse(await fs.readFile(process.env.LIST_PATH || "list.json", "utf8"));
+const forkRecords = await readForkRecords(process.env.FORK_FAILURES_DIR || "workflow-failures");
+const forkFailures = await readForkFailures(process.env.FORK_FAILURES_DIR || "workflow-failures");
+const sources = getUniqueSources(list, forkRecords).filter((item) => !isPlanSkipped(item.entry) && (forkRecords.has(item.key) || forkFailures.get(item.key)?.kind !== "permanent"));
+const sourceByFork = new Map();
+for (const source of sources) {
+  const key = source.forkName.toLowerCase();
+  if (!sourceByFork.has(key)) sourceByFork.set(key, source);
+}
+const indexedNames = new Set(sourceByFork.keys());
+const lastCheckedByFork = getLastCheckedByFork(list, getForkNames(list, forkRecords));
 const orgRepos = await loadOrgRepos(targetOrg);
 const targets = orgRepos
   // Membership in the index is what makes a repository ours. The fork flag is
@@ -37,8 +45,13 @@ const planned = limit > 0 ? targets.slice(0, limit) : targets.slice(0, maxMatrix
 const matrix = {
   include: planned.map((repo) => ({
     repo: repo.name,
+    entryId: sourceByFork.get(repo.name.toLowerCase()).entryId,
+    indexedSource: sourceByFork.get(repo.name.toLowerCase()).key,
   })),
 };
+
+await fs.mkdir("workflow-plan", { recursive: true });
+await fs.writeFile(process.env.PLAN_PATH || "workflow-plan/plan.json", `${JSON.stringify({ checkedAt: new Date().toISOString(), targets: matrix.include }, null, 2)}\n`, "utf8");
 
 console.log(`Indexed source repositories: ${indexedNames.size}`);
 console.log(`Fork repositories in ${targetOrg}: ${targets.length}`);
@@ -65,72 +78,14 @@ async function loadOrgRepos(org) {
   return repos;
 }
 
-// One entry per source repository, identified by owner/name. A repository name
-// on its own identifies nothing: unrelated games share names.
-function getUniqueSources(entries) {
-  const bySource = new Map();
-
-  for (const entry of entries) {
-    if (isPlanSkipped(entry)) {
-      continue;
-    }
-
-    const source = `${entry.owner}/${entry.name}`;
-    const sourceKey = source.toLowerCase();
-
-    if (!bySource.has(sourceKey)) {
-      bySource.set(sourceKey, {
-        source,
-        owner: entry.owner,
-        name: entry.name,
-        // The recorded forkName wins: the verified branch rewrites owner/name
-        // to the upstream repository, so recomputing the name from those fields
-        // could point at a fork that never existed.
-        forkName: entry.forkName || makeForkName(entry.owner, entry.name),
-        computed: !entry.forkName,
-      });
-    }
-  }
-
-  const usedNames = new Map();
-  for (const item of bySource.values()) {
-    const nameKey = item.forkName.toLowerCase();
-    const existingSource = usedNames.get(nameKey);
-    if (item.computed && existingSource && existingSource !== item.source.toLowerCase()) {
-      item.forkName = makeForkName(item.owner, `${item.name}-${shortHash(item.source)}`);
-    }
-    usedNames.set(item.forkName.toLowerCase(), item.source.toLowerCase());
-  }
-
-  return [...bySource.values()];
-}
-
-function makeForkName(owner, name) {
-  const raw = `${owner}-${name}`;
-  let safe = raw
-    .replace(/[^A-Za-z0-9._-]+/g, "-")
-    .replace(/-+/g, "-")
-    .replace(/^[.-]+|[.-]+$/g, "");
-
-  if (!safe) {
-    safe = `repo-${shortHash(raw)}`;
-  }
-
-  if (safe.length <= 100) {
-    return safe;
-  }
-
-  return `${safe.slice(0, 91).replace(/[.-]+$/g, "")}-${shortHash(raw)}`;
-}
-
 // Latest checkedAt per fork repository. Several entries can share one fork
 // (a monorepo exposing several projects); the newest timestamp wins so a
 // shared fork is not pushed back to the front of the queue.
-function getLastCheckedByFork(entries) {
+function getLastCheckedByFork(entries, names) {
   const result = new Map();
 
   for (const entry of entries) {
-    const forkName = (entry.forkName || makeForkName(entry.owner, entry.name)).toLowerCase();
+    const forkName = names.get(`${entry.owner}/${entry.name}`.toLowerCase()).toLowerCase();
     const checkedAt = entry.checkedAt || "";
     const current = result.get(forkName);
 
@@ -212,10 +167,6 @@ function parseNonNegativeInt(value) {
   }
 
   return parsed;
-}
-
-function shortHash(value) {
-  return crypto.createHash("sha1").update(value).digest("hex").slice(0, 8);
 }
 
 async function writeOutput(name, value) {

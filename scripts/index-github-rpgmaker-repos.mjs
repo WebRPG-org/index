@@ -1,5 +1,9 @@
-import crypto from "node:crypto";
 import fs from "node:fs/promises";
+import path from "node:path";
+
+import { shortHash, sourceKey } from "./repo-identity.mjs";
+import { normalizeList } from "./normalize-list.mjs";
+import { getScriptSources, getStartupScripts, looksLikeRpgMakerEntry, resolveRepoReference } from "./rpgmaker-project.mjs";
 
 const apiBase = "https://api.github.com";
 const token = process.env.WEBRPG_SEARCH_TOKEN || process.env.GH_TOKEN || process.env.GITHUB_TOKEN || "";
@@ -7,11 +11,14 @@ const listPath = process.env.LIST_PATH || "list.json";
 const searchMaxPages = parsePositiveInt(process.env.SEARCH_MAX_PAGES || "10");
 const searchPerPage = parsePositiveInt(process.env.SEARCH_PER_PAGE || "100");
 const searchDelayMs = parseNonNegativeInt(process.env.SEARCH_DELAY_SECONDS || "8") * 1000;
+const queuePath = process.env.CANDIDATE_QUEUE_PATH || "candidate-queue.json";
+const candidateLimit = parsePositiveInt(process.env.MAX_CANDIDATES_PER_RUN || "32");
 const skipOrg = process.env.SKIP_ORG || "WebRPG-org";
 const now = new Date().toISOString();
 const queries = [
   { query: "rpg_core.js extension:html", engine: "RPG Maker MV" },
   { query: "rmmz_core.js extension:html", engine: "RPG Maker MZ" },
+  { query: "rmmz_core.js filename:main.js", engine: "RPG Maker MZ", kind: "main" },
 ];
 
 if (!token) {
@@ -20,11 +27,13 @@ if (!token) {
 
 const list = JSON.parse(await fs.readFile(listPath, "utf8"));
 const existingRepoKeys = new Set(list.map((entry) => `${entry.owner}/${entry.name}`.toLowerCase()));
-const existingNames = new Set(list.map((entry) => String(entry.name).toLowerCase()));
-const newNames = new Set();
-const candidates = new Map();
+const pending = JSON.parse(await fs.readFile(queuePath, "utf8").catch((error) => {
+  if (error.code === "ENOENT") return "[]";
+  throw error;
+}));
+const candidates = new Map(pending.filter((item) => !existingRepoKeys.has(sourceKey(item))).map((item) => [sourceKey(item), item]));
 
-for (const { query, engine } of queries) {
+for (const { query, engine, kind = "html" } of queries) {
   for (let page = 1; page <= searchMaxPages; page += 1) {
     const search = await githubRequest(`/search/code?q=${encodeURIComponent(query)}&per_page=${searchPerPage}&page=${page}`);
     const items = search.items || [];
@@ -34,29 +43,26 @@ for (const { query, engine } of queries) {
       const repo = item.repository;
       const fullName = repo.full_name;
       const repoKey = fullName.toLowerCase();
-      const repoNameKey = repo.name.toLowerCase();
 
-      if (existingRepoKeys.has(repoKey) || existingNames.has(repoNameKey) || newNames.has(repoNameKey)) {
+      if (existingRepoKeys.has(repoKey)) {
         continue;
       }
 
       // Skip repositories that belong to our own organization to avoid
       // indexing and re-forking repos that we already host.
-      if (repo.owner.login === skipOrg) {
+      if (repo.owner.login.toLowerCase() === skipOrg.toLowerCase()) {
         continue;
       }
 
       if (!candidates.has(repoKey)) {
-        candidates.set(repoKey, {
-          owner: repo.owner.login,
-          name: repo.name,
-          repo: repo.html_url,
-          path: item.path,
-          sha: item.sha,
-          engine,
-          query,
-        });
-        newNames.add(repoNameKey);
+        candidates.set(repoKey, { owner: repo.owner.login, name: repo.name, repo: repo.html_url, discoveredAt: now, paths: [] });
+      }
+      const candidate = candidates.get(repoKey);
+      candidate.paths ||= [{ path: candidate.path, sha: candidate.sha, engine: candidate.engine, kind: "html" }];
+      const previous = candidate.paths.find((entry) => entry.path === item.path);
+      if (previous) Object.assign(previous, { sha: item.sha, engine, kind });
+      if (candidate.paths.length < 20 && !previous) {
+        candidate.paths.push({ path: item.path, sha: item.sha, engine, kind });
       }
     }
 
@@ -68,31 +74,30 @@ for (const { query, engine } of queries) {
   }
 }
 
+// Queue candidates before fetching blobs. A finite request budget must defer
+// work to a later run, rather than permanently excluding same-name games.
+await saveQueue();
 const additions = [];
-for (const candidate of candidates.values()) {
-  const blob = await githubRequest(`/repos/${encodeURIComponent(candidate.owner)}/${encodeURIComponent(candidate.name)}/git/blobs/${candidate.sha}`);
-  const html = Buffer.from(blob.content, blob.encoding).toString("utf8");
-  const validation = validateCandidateHtml(html, candidate.engine);
-
-  if (!validation.valid) {
-    continue;
+const usedIds = new Set(list.map((entry) => entry.id));
+for (const [key, candidate] of [...candidates].slice(0, candidateLimit)) {
+  try {
+    const entry = await inspectCandidate(candidate);
+    if (entry) {
+      let id = makeEntryId(candidate.owner, candidate.name);
+      if (usedIds.has(id)) id = `${id}-${shortHash(key)}`;
+      usedIds.add(id);
+      additions.push({ id, title: extractTitle(entry.html) || candidate.name, repo: candidate.repo, owner: candidate.owner, name: candidate.name, engine: entry.engine, status: "indexed", discoveredAt: candidate.discoveredAt || now, source: "github-code-search", sourcePath: entry.path });
+    }
+    candidates.delete(key);
+  } catch (error) {
+    candidates.delete(key);
+    if (error.status !== 404) candidates.set(key, candidate);
+    console.log(`[candidate-error] ${key}: ${error.message}`);
   }
-
-  additions.push({
-    id: makeEntryId(candidate.owner, candidate.name),
-    title: extractTitle(html) || candidate.name,
-    repo: candidate.repo,
-    owner: candidate.owner,
-    name: candidate.name,
-    engine: candidate.engine,
-    status: "indexed",
-    discoveredAt: now,
-    source: "github-code-search",
-    sourcePath: candidate.path,
-  });
 }
+await saveQueue();
 
-const merged = markDuplicateRepositories([...list, ...additions]);
+const merged = normalizeList([...list, ...additions]);
 merged.sort((left, right) => left.title.localeCompare(right.title, "zh-Hans") || left.repo.localeCompare(right.repo, "en"));
 await fs.writeFile(listPath, `${JSON.stringify(merged, null, 2)}\n`, "utf8");
 
@@ -108,19 +113,33 @@ await writeStepSummary([
   `Search queries: \`${queries.map((item) => item.query).join("`, `")}\``,
 ]);
 
-function validateCandidateHtml(html, engine) {
-  const lower = html.toLowerCase();
-  const core = engine === "RPG Maker MZ" ? "rmmz_core.js" : "rpg_core.js";
+async function saveQueue() {
+  await fs.writeFile(queuePath, `${JSON.stringify([...candidates.values()], null, 2)}\n`, "utf8");
+}
 
-  if (!lower.includes(core)) {
-    return { valid: false };
+async function inspectCandidate(candidate) {
+  for (const location of candidate.paths || []) {
+    const repoPath = `/repos/${encodeURIComponent(candidate.owner)}/${encodeURIComponent(candidate.name)}`;
+    const blob = await githubRequest(`${repoPath}/git/blobs/${location.sha}`);
+    const content = Buffer.from(blob.content, blob.encoding).toString("utf8");
+    if (location.kind !== "main") {
+      if (looksLikeRpgMakerEntry(content, location.engine)) return { html: content, path: location.path, engine: location.engine };
+      continue;
+    }
+    if (!getStartupScripts("", content).dynamic.some((src) => /(?:^|\/)rmmz_core\.js(?:[?#]|$)/i.test(src))) continue;
+    const projectRoot = path.posix.dirname(path.posix.dirname(location.path));
+    const directory = projectRoot === "." ? "" : projectRoot.split("/").map(encodeURIComponent).join("/");
+    const files = await githubRequest(`${repoPath}/contents/${directory}`);
+    for (const file of Array.isArray(files) ? files : []) {
+      if (file.type !== "file" || !file.path.toLowerCase().endsWith(".html")) continue;
+      const htmlBlob = await githubRequest(`${repoPath}/git/blobs/${file.sha}`);
+      const html = Buffer.from(htmlBlob.content, htmlBlob.encoding).toString("utf8");
+      if (getScriptSources(html).some((src) => resolveRepoReference(file.path, src) === location.path)) {
+        return { html, path: file.path, engine: "RPG Maker MZ" };
+      }
+    }
   }
-
-  if (!lower.includes("js/main.js") && !lower.includes("js/plugins.js")) {
-    return { valid: false };
-  }
-
-  return { valid: true };
+  return null;
 }
 
 function extractTitle(html) {
@@ -138,54 +157,6 @@ function decodeHtmlEntities(value) {
     .replaceAll("&gt;", ">")
     .replaceAll("&quot;", '"')
     .replaceAll("&#39;", "'");
-}
-
-// Duplicate reasons this script owns. The aggregation job records its own
-// reason when several entries share one fork; lifting that here would make the
-// two jobs undo each other on every run.
-const OWN_DUPLICATE_REASONS = new Set([
-  "Repository name already exists in list.json.",
-  "This repository is already listed.",
-]);
-
-// A repository is identified by its owner and its name, never by its name
-// alone: two unrelated repositories can share a name, and merging them loses
-// whichever game arrived second. keyed on the pair, only a genuine repeat of
-// the same repository is collapsed.
-function markDuplicateRepositories(entries) {
-  const seenSources = new Set();
-
-  return entries.map((entry) => {
-    const sourceKey = `${entry.owner}/${entry.name}`.toLowerCase();
-
-    if (seenSources.has(sourceKey)) {
-      return cleanObject({
-        ...entry,
-        status: entry.status === "invalid_structure" ? entry.status : "duplicate_name",
-        duplicateReason: "This repository is already listed.",
-      });
-    }
-
-    seenSources.add(sourceKey);
-
-    if (entry.status !== "duplicate_name" || !OWN_DUPLICATE_REASONS.has(entry.duplicateReason || "")) {
-      return entry;
-    }
-
-    // The entry that owns this repository is listed first, so this one is no
-    // longer a duplicate. It goes back to being an ordinary entry, without any
-    // of the metadata that only a verified outcome may carry.
-    return cleanObject({
-      ...entry,
-      status: "indexed",
-      duplicateReason: undefined,
-      pagesUrl: undefined,
-      cover: undefined,
-      coverPath: undefined,
-      entryPath: undefined,
-      projectRoot: undefined,
-    });
-  });
 }
 
 async function githubRequest(path, options = {}) {
@@ -210,7 +181,7 @@ async function githubRequest(path, options = {}) {
     }
 
     if (![403, 429].includes(response.status) || attempt === 4) {
-      throw new Error(`GitHub API ${response.status}: ${data?.message || response.statusText}`);
+      throw Object.assign(new Error(`GitHub API ${response.status}: ${data?.message || response.statusText}`), { status: response.status });
     }
 
     const retryAfter = Number.parseInt(response.headers.get("retry-after") || "", 10);
@@ -230,10 +201,6 @@ async function githubRequest(path, options = {}) {
 function makeEntryId(owner, name) {
   const base = `${owner}-${name}`.toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/^-+|-+$/g, "");
   return base || `repo-${shortHash(`${owner}/${name}`)}`;
-}
-
-function cleanObject(value) {
-  return Object.fromEntries(Object.entries(value).filter(([, item]) => item !== undefined && item !== null && item !== ""));
 }
 
 function parseResponseBody(text) {
@@ -264,10 +231,6 @@ function parseNonNegativeInt(value) {
   }
 
   return parsed;
-}
-
-function shortHash(value) {
-  return crypto.createHash("sha1").update(value).digest("hex").slice(0, 8);
 }
 
 function sleep(ms) {

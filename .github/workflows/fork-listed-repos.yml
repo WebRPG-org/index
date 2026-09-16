@@ -29,7 +29,6 @@ jobs:
           node-version: "20"
 
       - name: Fork repositories
-        continue-on-error: true
         env:
           WEBRPG_FORK_TOKEN: ${{ secrets.WEBRPG_FORK_TOKEN }}
           TARGET_ORG: WebRPG-org
@@ -49,4 +48,4 @@ jobs:
         with:
           name: fork-failures
           path: fork-failures/fork-failures.json
-          if-no-files-found: ignore
+          if-no-files-found: error

@@ -44,13 +44,14 @@ jobs:
           SEARCH_MAX_PAGES: "10"
           SEARCH_PER_PAGE: "100"
           SEARCH_DELAY_SECONDS: "8"
+          MAX_CANDIDATES_PER_RUN: "32"
         run: node scripts/index-github-rpgmaker-repos.mjs
 
       - name: Commit index updates
         run: |
           git config user.name "webrpg-bot[bot]"
           git config user.email "webrpg-bot[bot]@users.noreply.github.com"
-          git add list.json
+          git add list.json candidate-queue.json
           if git diff --cached --quiet; then
             echo "No list.json changes to commit."
           else

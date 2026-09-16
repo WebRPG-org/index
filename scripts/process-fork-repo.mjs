@@ -2,13 +2,15 @@ import crypto from "node:crypto";
 import fs from "node:fs/promises";
 import path from "node:path";
 
+import { getForkNames, sourceKey } from "./repo-identity.mjs";
+import { detectRpgMakerProject, flattenEntries, getStartupScripts, looksLikeRpgMakerEntry, resolveRepoReference, runtimeFiles, DATABASE_FILES, validateEntry } from "./rpgmaker-project.mjs";
+
 const apiBase = "https://api.github.com";
 const token = process.env.WEBRPG_APP_TOKEN || process.env.GITHUB_TOKEN || "";
 const targetOrg = process.env.TARGET_ORG || "WebRPG-org";
 const repoName = process.env.REPO_NAME || "";
 const dryRun = parseBoolean(process.env.DRY_RUN, true);
 const deleteInvalidRepos = parseBoolean(process.env.DELETE_INVALID_REPOS, true);
-const pagesPath = process.env.PAGES_SOURCE_PATH || "/";
 const siteOrigin = (process.env.SITE_ORIGIN || "https://webrpg.org").replace(/\/+$/, "");
 const resultDir = process.env.RESULT_DIR || "workflow-results";
 const scriptTag = process.env.ANALYTICS_SCRIPT_TAG
@@ -21,6 +23,14 @@ const maxHtmlFiles = parseNonNegativeInt(process.env.MAX_HTML_FILES || "500");
 const maxHtmlTotalBytes = parseNonNegativeInt(process.env.MAX_HTML_TOTAL_BYTES || "52428800");
 const verifyDeployment = parseBoolean(process.env.VERIFY_DEPLOYMENT, true);
 const reachabilityTimeoutMs = parsePositiveInt(process.env.REACHABILITY_TIMEOUT_MS || "15000");
+
+const CHALLENGE_MARKERS = [
+  "just a moment",
+  "attention required",
+  "enable javascript and cookies",
+  "challenges.cloudflare.com",
+  "cf-mitigated",
+];
 
 if (!token) {
   throw new Error("WEBRPG_APP_TOKEN or GITHUB_TOKEN is required.");
@@ -72,6 +82,8 @@ const result = {
   targetOrg,
   repoName,
   forkName: repoName,
+  entryId: process.env.INDEX_ENTRY_ID || undefined,
+  indexedSource: process.env.INDEXED_SOURCE || undefined,
   status: "check_error",
 };
 
@@ -100,22 +112,27 @@ async function run() {
   result.repoUrl = repo.html_url;
   result.defaultBranch = repo.default_branch;
   result.isFork = Boolean(repo.fork);
-  result.sourceRepo = repo.source?.full_name || repo.parent?.full_name || null;
+  result.sourceRepo = repo.parent?.full_name || repo.source?.full_name || null;
 
   // Repository size is checked after resolving the upstream repository below.
 
   // Check if this repo is manually hidden in list.json
   const list = JSON.parse(await fs.readFile("list.json", "utf8"));
-  const entry = list.find((e) => {
-    const forkName = e.forkName || "";
-    return forkName.toLowerCase() === repoName.toLowerCase();
-  });
+  const forkNames = getForkNames(list);
+  const entry = result.entryId
+    ? list.find((item) => item.id === result.entryId)
+    : list.find((item) => forkNames.get(sourceKey(item)).toLowerCase() === repoName.toLowerCase() && item.status !== "duplicate_name");
+  if (!entry || (result.indexedSource && sourceKey(entry) !== result.indexedSource.toLowerCase())) {
+    throw new Error(`No matching index entry for ${targetOrg}/${repoName}.`);
+  }
+  result.entryId = entry.id;
+  result.indexedSource = sourceKey(entry);
   if (entry && entry.status === "hidden") {
     result.status = "hidden";
     result.invalidReason = "Manually hidden via list.json.";
-    console.log(`[hidden] ${targetOrg}/${repoName} is manually hidden, deleting fork`);
+    console.log(`[hidden] ${targetOrg}/${repoName} is manually hidden`);
     summary.push(`Status: \`hidden\``);
-    if (!dryRun && deleteInvalidRepos) {
+    if (!dryRun && deleteInvalidRepos && result.sourceRepo) {
       await githubRequest(`/repos/${encodeURIComponent(targetOrg)}/${encodeURIComponent(repoName)}`, {
         method: "DELETE",
         ok: [204],
@@ -246,7 +263,13 @@ async function run() {
   }
 
   const htmlByPath = await loadHtmlContents(htmlFiles);
-  const detection = detectRpgMakerProject(files, htmlByPath);
+  const mainFiles = files.filter((file) => /(?:^|\/)js\/main\.js$/i.test(file.path));
+  if (mainFiles.length > maxHtmlFiles || mainFiles.some((file) => file.size > htmlMaxBytes)) {
+    skipLargeRepository("Startup scripts exceed the inspection limits.");
+    return;
+  }
+  const mainByPath = await loadHtmlContents(mainFiles);
+  const detection = detectRpgMakerProject(files, htmlByPath, mainByPath);
 
   result.htmlFileCount = htmlFiles.length;
   result.validationScore = detection.score;
@@ -292,14 +315,23 @@ async function run() {
   let currentTree = tree;
   let currentFiles = files;
 
-  if (detection.projectRoot && !dryRun) {
+  if (detection.projectRoot && detection.entryPath.toLowerCase().startsWith(detection.projectRoot.toLowerCase()) && !dryRun) {
     const flat = await flattenProjectToRoot(branch, currentHeadSha, currentTree, detection.projectRoot);
     if (flat) {
       currentHeadSha = flat.headSha;
       // Re-fetch tree after flattening
       const newCommit = await githubRequest(`/repos/${encodeURIComponent(targetOrg)}/${encodeURIComponent(repoName)}/git/commits/${currentHeadSha}`);
       currentTree = await githubRequest(`/repos/${encodeURIComponent(targetOrg)}/${encodeURIComponent(repoName)}/git/trees/${newCommit.tree.sha}?recursive=1`);
+      if (currentTree.truncated) throw new Error("The flattened tree could not be read completely.");
       currentFiles = currentTree.tree.filter((item) => item.type === "blob");
+      // Read the moved files from the new tree, rather than looking up a new
+      // path in the old map (which can contain an unrelated root homepage).
+      const movedHtml = currentFiles.filter((item) => item.path.toLowerCase().endsWith(".html") && !shouldSkipPath(item.path) && item.size <= htmlMaxBytes);
+      htmlByPath.clear();
+      for (const [filePath, content] of await loadHtmlContents(movedHtml)) htmlByPath.set(filePath, content);
+      const movedMain = currentFiles.filter((item) => /(?:^|\/)js\/main\.js$/i.test(item.path));
+      mainByPath.clear();
+      for (const [filePath, content] of await loadHtmlContents(movedMain)) mainByPath.set(filePath, content);
 
       // Update detection paths — projectRoot is now empty
       const prefix = detection.projectRoot;
@@ -313,10 +345,14 @@ async function run() {
     }
   }
 
+  result.pagesUrl = detection.entryPath === "index.html" ? getPagesUrl() : pathToPagesUrl(detection.entryPath);
+  const preparedValidation = validateEntry({ html: htmlByPath.get(detection.entryPath), mainContent: mainByPath.get(`${detection.projectRoot}js/main.js`) || "", engine: detection.engine, entryPath: detection.entryPath, projectRoot: detection.projectRoot, files: currentFiles });
+  if (!preparedValidation.valid) throw new Error(`Prepared entry is invalid: ${preparedValidation.reason}`);
+
   // Compute game size metrics (zero additional API cost)
   result.totalSize = (upstream ? upstream.size : repo.size) || 0;
   const dataSize = currentFiles
-    .filter((f) => f.path.startsWith("data/") && f.path.endsWith(".json"))
+    .filter((f) => f.path.startsWith(`${detection.projectRoot}data/`) && f.path.endsWith(".json"))
     .reduce((sum, f) => sum + (f.size || 0), 0);
   result.dataSize = dataSize;
 
@@ -341,16 +377,21 @@ async function run() {
       if (coverResult.coverFile.size > MAX_COVER_SIZE) {
         console.log(`[cover] Skipping ${coverResult.coverPath}: ${coverResult.coverFile.size} bytes exceeds ${MAX_COVER_SIZE} limit`);
         result.cover = null;
+        result.coverPath = undefined;
       } else if (coverResult.needsDecrypt) {
         try {
           const pngBuffer = await decryptRpgmvp(targetOrg, repoName, coverResult.coverFile.sha);
           if (pngBuffer.length > MAX_COVER_SIZE) {
+            result.cover = null;
+            result.coverPath = undefined;
             console.log(`[cover] Skipping decrypted cover: ${pngBuffer.length} bytes exceeds limit`);
           } else {
             result.coverPngBuffer = pngBuffer;
             console.log(`[cover] Will commit cover.png (${pngBuffer.length} bytes) from ${coverResult.coverPath}`);
           }
         } catch (error) {
+          result.cover = null;
+          result.coverPath = undefined;
           console.log(`[cover] Failed to decrypt ${coverResult.coverPath}: ${error.message}`);
         }
       } else {
@@ -367,6 +408,8 @@ async function run() {
             console.log(`[cover] Will copy ${coverResult.coverPath} as cover.png (${imgBuffer.length} bytes)`);
           }
         } catch (error) {
+          result.cover = null;
+          result.coverPath = undefined;
           console.log(`[cover] Failed to read ${coverResult.coverPath}: ${error.message}`);
         }
       }
@@ -387,12 +430,10 @@ async function run() {
     }
   }
 
-  // Redirect logic removed; Pages will be served from projectRoot if needed.
-
   if (dryRun) {
     console.log(`[dry-run] Valid ${detection.engine} project at ${detection.entryPath}`);
     console.log(`[dry-run] Would update ${updates.size} HTML files.`);
-    console.log(`[dry-run] Would enable GitHub Pages from ${branch}${pagesPath}.`);
+    console.log(`[dry-run] Would enable GitHub Pages from ${branch}/.`);
     result.htmlFilesUpdated = updates.size;
     result.processedHeadSha = currentHeadSha;
     result.pagesEnabled = false;
@@ -404,7 +445,7 @@ async function run() {
     }
     summary.push(`Cover: \`${result.cover || "none"}\``);
     summary.push(`HTML files to update: \`${updates.size}\``);
-    summary.push(`Pages URL: \`${getPagesUrl()}\``);
+    summary.push(`Pages URL: \`${result.pagesUrl}\``);
     return;
   }
 
@@ -420,6 +461,7 @@ async function run() {
     } else {
       updates.set("cover.png", result.coverPngBuffer);
       result.cover = `${getPagesUrl()}cover.png`;
+      result.coverPath = "cover.png";
       console.log(`[cover] ${existingCover ? "Updated" : "Added"} cover.png`);
     }
   }
@@ -447,19 +489,19 @@ async function run() {
   // actually serves the game — but only for a deployment that was already live
   // before this run, since a fresh one has not propagated yet. Marking a
   // working game as broken would be worse than a late check.
-  const deploymentChanged = updates.size > 0 || pagesSetup.created;
+  const deploymentChanged = updates.size > 0 || pagesSetup.created || result.flattened || result.sourceReset;
 
   if (!verifyDeployment) {
     result.verificationDisabled = true;
   } else if (deploymentChanged) {
     result.verificationDeferred = true;
   } else {
-    const verdict = await verifyDeployedEntry(detection.entryPath);
+    const verdict = await verifyDeployedEntry(detection, currentFiles);
     result.reachable = verdict.ok;
     result.reachabilityDetail = verdict.reason;
 
     if (verdict.ok) {
-      console.log(`[verify] ${getPagesUrl()} serves the game`);
+      console.log(`[verify] ${result.pagesUrl} serves the game`);
     } else if (verdict.definitive) {
       throw new Error(`Deployed entry is not reachable: ${verdict.reason}`);
     } else {
@@ -474,7 +516,7 @@ async function run() {
   }
   summary.push(`Cover: \`${result.cover || "none"}\``);
   summary.push(`HTML files updated: \`${updates.size}\``);
-  summary.push(`Pages URL: \`${getPagesUrl()}\``);
+  summary.push(`Pages URL: \`${result.pagesUrl}\``);
   if (result.verificationDeferred) {
     summary.push("Deployment verification: `deferred to the next run`");
   }
@@ -486,13 +528,6 @@ async function run() {
 // Markers a CDN uses on a challenge page. The site sits behind Cloudflare,
 // whose challenges are served with HTTP 200, so a content mismatch alone cannot
 // tell a broken game apart from a blocked request.
-const CHALLENGE_MARKERS = [
-  "just a moment",
-  "attention required",
-  "enable javascript and cookies",
-  "challenges.cloudflare.com",
-  "cf-mitigated",
-];
 
 function looksLikeBotChallenge(response, body) {
   if (response.headers.get("cf-mitigated")) {
@@ -507,44 +542,56 @@ function looksLikeBotChallenge(response, body) {
 // `definitive: false` whenever the answer says more about the network than
 // about the deployment, so a blocked or overloaded request cannot retire an
 // entry that is working.
-async function verifyDeployedEntry(entryPath) {
-  const relativePath = String(entryPath || "index.html");
-  const url = `${getPagesUrl()}${relativePath.split("/").map(encodeURIComponent).join("/")}`;
-
-  let response;
-
+async function fetchDeployment(url, method = "GET") {
   try {
-    response = await fetch(url, {
-      headers: { "User-Agent": "WebRPG-index/1.0", Accept: "text/html,*/*" },
+    const response = await fetch(url, {
+      method,
+      headers: { "User-Agent": "WebRPG-index/1.0", Accept: "*/*" },
       redirect: "follow",
       signal: AbortSignal.timeout(reachabilityTimeoutMs),
     });
+    const body = method === "HEAD" ? "" : await response.text();
+    if (looksLikeBotChallenge(response, body)) return { ok: false, definitive: false, reason: `${url} answered with a bot challenge` };
+    if (!response.ok) return { ok: false, definitive: [404, 410].includes(response.status), reason: `${url} responded with HTTP ${response.status}` };
+    return { ok: true, response, body };
   } catch (error) {
     return { ok: false, definitive: false, reason: `${url} could not be fetched: ${error.message}` };
   }
+}
 
-  if (looksLikeBotChallenge(response, "")) {
-    return { ok: false, definitive: false, reason: `${url} answered with a bot challenge` };
+async function verifyDeployedEntry(detection, files) {
+  // This is the public link written to list.json, including non-index entries.
+  const url = result.pagesUrl;
+  const entry = await fetchDeployment(url);
+  if (!entry.ok) return entry;
+  if (!looksLikeRpgMakerEntry(entry.body, detection.engine)) return { ok: false, definitive: true, reason: `${url} served a page without an RPG Maker entry point` };
+  const mainPath = `${detection.projectRoot}js/main.js`;
+  const main = await fetchDeployment(pathToPagesUrl(mainPath));
+  if (!main.ok) return main;
+  const validation = validateEntry({ html: entry.body, mainContent: main.body, engine: detection.engine, entryPath: detection.entryPath, projectRoot: detection.projectRoot, files });
+  if (!validation.valid) return { ok: false, definitive: true, reason: `${url}: ${validation.reason}` };
+  const system = await fetchDeployment(pathToPagesUrl(`${detection.projectRoot}data/System.json`));
+  if (!system.ok) return system;
+  try {
+    const data = JSON.parse(system.body);
+    if (!data || typeof data !== "object" || Array.isArray(data)) throw new Error("Expected an object");
+  } catch {
+    return { ok: false, definitive: true, reason: `${url} does not serve valid data/System.json` };
   }
-
-  if (!response.ok) {
-    // Only a genuinely missing page is conclusive. A blocked request (403) or a
-    // server error is not, and must not be read as "the game is gone".
-    const definitive = response.status === 404 || response.status === 410;
-    return { ok: false, definitive, reason: `${url} responded with HTTP ${response.status}` };
+  const { direct, dynamic } = getStartupScripts(entry.body, main.body);
+  const resourcePaths = new Set(runtimeFiles(detection.engine).concat(DATABASE_FILES).map((name) => `${detection.projectRoot}${name}`));
+  for (const reference of direct.concat(dynamic)) {
+    const resolved = resolveRepoReference(detection.entryPath, reference);
+    if (resolved) resourcePaths.add(resolved);
   }
-
-  const body = (await response.text()).toLowerCase();
-
-  if (looksLikeBotChallenge(response, body)) {
-    return { ok: false, definitive: false, reason: `${url} answered with a bot challenge` };
+  resourcePaths.delete(mainPath);
+  resourcePaths.delete(`${detection.projectRoot}data/System.json`);
+  for (const resourcePath of resourcePaths) {
+    const resource = await fetchDeployment(pathToPagesUrl(resourcePath), "HEAD");
+    if (!resource.ok) return resource;
+    if (resource.response.headers.get("content-type")?.includes("text/html")) return { ok: false, definitive: true, reason: `${resourcePath} served HTML instead of a game resource` };
   }
-
-  const servesGame = body.includes("rpg_core.js") || body.includes("rmmz_core.js");
-
-  return servesGame
-    ? { ok: true, definitive: true, reason: `${url} served an RPG Maker entry point` }
-    : { ok: false, definitive: true, reason: `${url} served a page without an RPG Maker entry point` };
+  return { ok: true, definitive: true, reason: `${url} served an RPG Maker entry point and its startup resources` };
 }
 
 function skipLargeRepository(reason) {
@@ -564,185 +611,6 @@ async function loadHtmlContents(htmlFiles) {
   }
 
   return htmlByPath;
-}
-
-function detectRpgMakerProject(files, htmlByPath) {
-  const fileByLowerPath = new Map(files.map((file) => [file.path.toLowerCase(), file]));
-  const candidates = [];
-
-  for (const [htmlPath, content] of htmlByPath) {
-    for (const scriptSrc of getScriptSources(content)) {
-      const normalizedScript = normalizeRepoPath(path.posix.join(path.posix.dirname(htmlPath), scriptSrc));
-      const lowerScript = normalizedScript.toLowerCase();
-
-      if (lowerScript.endsWith("js/rpg_core.js") || lowerScript.endsWith("js/rmmz_core.js")) {
-        const engine = lowerScript.endsWith("js/rmmz_core.js") ? "RPG Maker MZ" : "RPG Maker MV";
-        const coreSuffix = engine === "RPG Maker MZ" ? "js/rmmz_core.js" : "js/rpg_core.js";
-        // Slice the original path so the project root keeps its real casing.
-        // Deriving it from the lowercased path used to make flattening fail
-        // silently on any repository whose directories were not all lowercase.
-        const projectRoot = normalizedScript.slice(0, normalizedScript.length - coreSuffix.length);
-        candidates.push(scoreCandidate({
-          engine,
-          projectRoot,
-          entryPath: htmlPath,
-          fileByLowerPath,
-          htmlByPath,
-          source: "html-script",
-        }));
-      }
-    }
-  }
-
-  for (const file of files) {
-    const lower = file.path.toLowerCase();
-    if (lower.endsWith("js/rpg_core.js") || lower.endsWith("js/rmmz_core.js")) {
-      const engine = lower.endsWith("js/rmmz_core.js") ? "RPG Maker MZ" : "RPG Maker MV";
-      const corePath = engine === "RPG Maker MZ" ? "js/rmmz_core.js" : "js/rpg_core.js";
-      // Keep the real casing of the project root (see the note above).
-      const projectRoot = file.path.slice(0, file.path.length - corePath.length);
-      const entryPath = findEntryPath(projectRoot, htmlByPath);
-
-      if (entryPath) {
-        candidates.push(scoreCandidate({
-          engine,
-          projectRoot,
-          entryPath,
-          fileByLowerPath,
-          htmlByPath,
-          source: "tree-core",
-        }));
-      }
-    }
-  }
-
-  candidates.sort((left, right) => right.score - left.score || left.entryPath.localeCompare(right.entryPath, "en"));
-  const best = candidates[0];
-
-  if (!best) {
-    return {
-      valid: false,
-      score: 0,
-      signals: [],
-      reason: "No RPG Maker MV/MZ HTML entry point or core scripts were found.",
-    };
-  }
-
-  if (best.score < 65) {
-    return {
-      ...best,
-      valid: false,
-      reason: `RPG Maker structure is incomplete near ${best.entryPath}.`,
-    };
-  }
-
-  return {
-    ...best,
-    valid: true,
-    reason: "",
-  };
-}
-
-function scoreCandidate({ engine, projectRoot, entryPath, fileByLowerPath, htmlByPath, source }) {
-  const lowerRoot = projectRoot.toLowerCase();
-  const coreFile = engine === "RPG Maker MZ" ? "js/rmmz_core.js" : "js/rpg_core.js";
-  const required = engine === "RPG Maker MZ"
-    ? ["js/rmmz_core.js", "js/rmmz_managers.js", "js/rmmz_objects.js", "js/rmmz_scenes.js", "js/rmmz_sprites.js", "js/rmmz_windows.js", "js/plugins.js", "js/main.js"]
-    : ["js/rpg_core.js", "js/rpg_managers.js", "js/rpg_objects.js", "js/rpg_scenes.js", "js/rpg_sprites.js", "js/rpg_windows.js", "js/plugins.js", "js/main.js"];
-  const signals = [source];
-  let score = 0;
-
-  if (htmlByPath.has(entryPath)) {
-    score += 20;
-    signals.push("html-entry");
-  }
-
-  const entryContent = htmlByPath.get(entryPath) || "";
-  if (entryContent.toLowerCase().includes(coreFile)) {
-    score += 25;
-    signals.push("html-core-reference");
-  }
-
-  for (const file of required) {
-    if (fileByLowerPath.has(`${lowerRoot}${file}`)) {
-      score += file === coreFile ? 20 : 5;
-      signals.push(file);
-    }
-  }
-
-  if (fileByLowerPath.has(`${lowerRoot}data/system.json`)) {
-    score += 10;
-    signals.push("data/System.json");
-  }
-
-  if (entryPath.toLowerCase() === "index.html") {
-    score += 8;
-    signals.push("root-index");
-  } else if (entryPath.toLowerCase().endsWith("/index.html")) {
-    score += 5;
-    signals.push("subdir-index");
-  }
-
-  const htmlPathsToPatch = [...htmlByPath.keys()]
-    .filter((htmlPath) => {
-      if (htmlPath === entryPath) {
-        return true;
-      }
-
-      const content = htmlByPath.get(htmlPath).toLowerCase();
-      return content.includes(coreFile) || content.includes("js/plugins.js");
-    })
-    .sort((left, right) => left.localeCompare(right, "en"));
-
-  return {
-    engine,
-    projectRoot,
-    entryPath,
-    htmlPathsToPatch,
-    score,
-    signals,
-  };
-}
-
-function findEntryPath(projectRoot, htmlByPath) {
-  const candidates = [
-    `${projectRoot}index.html`,
-    `${projectRoot}www/index.html`,
-  ].map(normalizeRepoPath);
-  const lowerHtmlPaths = new Map([...htmlByPath.keys()].map((htmlPath) => [htmlPath.toLowerCase(), htmlPath]));
-
-  for (const candidate of candidates) {
-    const match = lowerHtmlPaths.get(candidate.toLowerCase());
-    if (match) {
-      return match;
-    }
-  }
-
-  for (const [htmlPath, content] of htmlByPath) {
-    const lowerContent = content.toLowerCase();
-    if (lowerContent.includes("rpg_core.js") || lowerContent.includes("rmmz_core.js")) {
-      return htmlPath;
-    }
-  }
-
-  return null;
-}
-
-function getScriptSources(content) {
-  const sources = [];
-  const scriptPattern = /<script\b[^>]*\bsrc=["']([^"']+)["'][^>]*>/gi;
-  let match;
-
-  while ((match = scriptPattern.exec(content)) !== null) {
-    const src = match[1].trim();
-    if (!src || /^[a-z][a-z0-9+.-]*:\/\//i.test(src) || src.startsWith("//")) {
-      continue;
-    }
-
-    sources.push(src.split(/[?#]/, 1)[0]);
-  }
-
-  return sources;
 }
 
 // Only the title screens count as a cover. Anything else (the application
@@ -821,36 +689,7 @@ async function decryptRpgmvp(org, repo, fileSha) {
 }
 
 async function flattenProjectToRoot(branch, headSha, tree, projectRoot) {
-  const rootPrefix = projectRoot.toLowerCase();
-  const entriesByPath = new Map();
-
-  for (const item of tree.tree) {
-    if (item.type !== "blob") continue;
-    const itemPath = item.path;
-
-    // Match the project root case-insensitively: the recorded root can differ
-    // in casing from the tree entry, but the lengths always agree, so slicing
-    // by length keeps the remainder of the path intact.
-    if (itemPath.toLowerCase().startsWith(rootPrefix)) {
-      const newPath = itemPath.slice(projectRoot.length);
-      if (!newPath) continue;
-      // Project files win a name collision: they are the game being published.
-      entriesByPath.set(newPath, { path: newPath, sha: item.sha, mode: "100644", type: "blob" });
-    } else if (!entriesByPath.has(itemPath)) {
-      // Everything outside the project root is kept where it is. Dropping it
-      // used to destroy READMEs, licences and the other games of a monorepo.
-      entriesByPath.set(itemPath, { path: itemPath, sha: item.sha, mode: "100644", type: "blob" });
-    }
-  }
-
-  const blobEntries = [...entriesByPath.values()];
-
-  if (blobEntries.length === 0) {
-    // Reporting success here used to publish a root Pages URL for a project
-    // that still lives in a subdirectory, which surfaced as a verified entry
-    // pointing at a dead link. Fail loudly instead so the entry is revisited.
-    throw new Error(`Flatten failed: no files found under project root "${projectRoot}" in ${targetOrg}/${repoName}.`);
-  }
+  const blobEntries = flattenEntries(tree.tree, projectRoot);
 
   console.log(`[flatten] Publishing ${blobEntries.length} files with ${projectRoot} moved to the root`);
 
@@ -914,7 +753,7 @@ async function createSubtree(prefix, entries) {
     const rest = entry.path.slice(prefix.length);
     const slash = rest.indexOf("/");
     if (slash === -1) {
-      directBlobs.push({ path: rest, sha: entry.sha, mode: "100644", type: "blob" });
+      directBlobs.push({ path: rest, sha: entry.sha, mode: entry.mode, type: "blob" });
     } else {
       const dir = rest.slice(0, slash);
       if (!subDirs.has(dir)) subDirs.set(dir, []);
@@ -1029,27 +868,6 @@ function injectScript(content, tag, needle) {
   return `${content}${suffix}${tag}${newline}`;
 }
 
-function buildRootRedirect(entryPath) {
-  const escapedPath = escapeHtml(encodeURI(entryPath));
-  const escapedTitle = escapeHtml(`${targetOrg}/${repoName}`);
-
-  return `<!doctype html>
-<html lang="en">
-  <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta http-equiv="refresh" content="0; url=${escapedPath}">
-    <title>${escapedTitle}</title>
-    ${scriptTag}
-    <script>location.replace(${JSON.stringify(entryPath)});</script>
-  </head>
-  <body style="background:#000;color:#fff;font-family:sans-serif">
-    <a href="${escapedPath}">Start game</a>
-  </body>
-</html>
-`;
-}
-
 async function ensurePages(branch, sourcePath) {
   const current = await githubRequest(`/repos/${encodeURIComponent(targetOrg)}/${encodeURIComponent(repoName)}/pages`, {
     ok: [200, 404],
@@ -1136,10 +954,6 @@ function shouldSkipPath(repoPath) {
   return /(^|\/)(node_modules|vendor|coverage|\.git|\.github)\//i.test(repoPath);
 }
 
-function normalizeRepoPath(repoPath) {
-  return repoPath.replace(/\\/g, "/").replace(/^\/+/, "").replace(/\/+/g, "/");
-}
-
 // Remove the project root from a path without String.replace, which would also
 // rewrite an identical substring appearing later in the path.
 function stripProjectRoot(repoPath, projectRoot) {
@@ -1205,14 +1019,6 @@ function parseResponseBody(text) {
   } catch {
     return { message: text };
   }
-}
-
-function escapeHtml(value) {
-  return String(value)
-    .replaceAll("&", "&amp;")
-    .replaceAll("<", "&lt;")
-    .replaceAll(">", "&gt;")
-    .replaceAll('"', "&quot;");
 }
 
 async function writeResult(data) {

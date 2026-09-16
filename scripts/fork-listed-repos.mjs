@@ -1,7 +1,7 @@
-import crypto from "node:crypto";
 import fs from "node:fs/promises";
 
 import { isTerminalStatus } from "./repo-status.mjs";
+import { getUniqueSources } from "./repo-identity.mjs";
 
 const apiBase = "https://api.github.com";
 const token = process.env.WEBRPG_FORK_TOKEN || process.env.GITHUB_TOKEN || "";
@@ -25,8 +25,8 @@ class GitHubApiError extends Error {
   }
 }
 
-const list = JSON.parse(await fs.readFile("list.json", "utf8"));
-const uniqueSources = getUniqueSources(list);
+const list = JSON.parse(await fs.readFile(process.env.LIST_PATH || "list.json", "utf8"));
+const uniqueSources = getUniqueSources(list).filter((item) => (includeInvalid || !isTerminalStatus(item.entry)) && item.owner.toLowerCase() !== targetOrg.toLowerCase());
 const planned = limit > 0 ? uniqueSources.slice(0, limit) : uniqueSources;
 
 if (!targetOrg) {
@@ -74,13 +74,23 @@ let skippedConflict = 0;
 let created = 0;
 let failed = 0;
 const failures = [];
+const forks = [];
 
 for (const item of planned) {
   const sourceLower = item.source.toLowerCase();
   const nameLower = item.forkName.toLowerCase();
+  // Old checks could rewrite the source owner/name. The actual recorded fork
+  // name remains authoritative even when its parent no longer matches them.
+  const recordedFork = item.recorded && existing.reposByName.get(nameLower);
+  if (recordedFork) {
+    forks.push({ source: item.source, entryId: item.entryId, forkName: recordedFork.name });
+    skippedExisting += 1;
+    continue;
+  }
   const existingFork = existing.forksBySource.get(sourceLower);
 
   if (existingFork) {
+    forks.push({ source: item.source, entryId: item.entryId, forkName: existingFork.name });
     skippedExisting += 1;
     console.log(`[exists] ${item.source} already forked as ${targetOrg}/${existingFork.name}`);
     continue;
@@ -88,6 +98,8 @@ for (const item of planned) {
 
   const existingByName = existing.reposByName.get(nameLower);
   if (existingByName) {
+    failures.push({ item, error: new GitHubApiError(409, `Target repository ${targetOrg}/${item.forkName} belongs to another source`, {}) });
+    failed += 1;
     skippedConflict += 1;
     console.log(`[conflict] ${targetOrg}/${item.forkName} already exists and is not a fork of ${item.source}`);
     continue;
@@ -95,6 +107,7 @@ for (const item of planned) {
 
   try {
     const fork = await createForkWithRetry(item);
+    forks.push({ source: item.source, entryId: item.entryId, forkName: fork.name || item.forkName });
     created += 1;
     existing.reposByName.set(nameLower, fork);
     existing.forksBySource.set(sourceLower, fork);
@@ -123,79 +136,7 @@ if (failures.length > 0) {
 await writeFailureReport(failures);
 await writeStepSummary(summary);
 
-if (failed > 0) {
-  // Individual fork failures are non-fatal; the workflow uses continue-on-error.
-}
-
-// One fork per source repository. The pair owner/name is the identity: a name
-// on its own identifies nothing, and deduplicating on it silently dropped
-// unrelated games that happened to share a repository name.
-function getUniqueSources(entries) {
-  const bySource = new Map();
-
-  for (const entry of entries) {
-    if (!includeInvalid && isTerminalStatus(entry)) {
-      continue;
-    }
-
-    // Skip entries that already belong to the target organization —
-    // forking a repo into its own owner creates unnecessary nested forks.
-    if (entry.owner.toLowerCase() === targetOrg.toLowerCase()) {
-      continue;
-    }
-
-    if (!entry.owner || !entry.name || !entry.repo) {
-      throw new Error(`Invalid list entry: ${JSON.stringify(entry)}`);
-    }
-
-    const source = `${entry.owner}/${entry.name}`;
-    const sourceKey = source.toLowerCase();
-
-    if (!bySource.has(sourceKey)) {
-      bySource.set(sourceKey, {
-        source,
-        owner: entry.owner,
-        name: entry.name,
-        repo: entry.repo,
-        // The recorded forkName wins: the verified branch rewrites owner/name
-        // to the upstream repository, so recomputing the name from those fields
-        // could create a second fork for a repository that already has one.
-        forkName: entry.forkName || makeForkName(entry.owner, entry.name),
-        computed: !entry.forkName,
-      });
-    }
-  }
-
-  const usedNames = new Map();
-  for (const item of bySource.values()) {
-    const nameKey = item.forkName.toLowerCase();
-    const existingSource = usedNames.get(nameKey);
-    if (item.computed && existingSource && existingSource !== item.source.toLowerCase()) {
-      item.forkName = makeForkName(item.owner, `${item.name}-${shortHash(item.source)}`);
-    }
-    usedNames.set(item.forkName.toLowerCase(), item.source.toLowerCase());
-  }
-
-  return [...bySource.values()].sort((left, right) => left.source.localeCompare(right.source, "en"));
-}
-
-function makeForkName(owner, name) {
-  const raw = `${owner}-${name}`;
-  let safe = raw
-    .replace(/[^A-Za-z0-9._-]+/g, "-")
-    .replace(/-+/g, "-")
-    .replace(/^[.-]+|[.-]+$/g, "");
-
-  if (!safe) {
-    safe = `repo-${shortHash(raw)}`;
-  }
-
-  if (safe.length <= 100) {
-    return safe;
-  }
-
-  return `${safe.slice(0, 91).replace(/[.-]+$/g, "")}-${shortHash(raw)}`;
-}
+// Per-source failures are recorded in the report and handled by Prepare.
 
 async function loadExistingOrgRepos(org) {
   const reposByName = new Map();
@@ -212,7 +153,7 @@ async function loadExistingOrgRepos(org) {
       const repoDetails = repo.fork && !repo.source && !repo.parent
         ? await githubRequest(`/repos/${encodeURIComponent(org)}/${encodeURIComponent(repo.name)}`)
         : repo;
-      const source = repoDetails.source?.full_name || repoDetails.parent?.full_name;
+      const source = repoDetails.parent?.full_name || repoDetails.source?.full_name;
       if (repo.fork && source) {
         forksBySource.set(source.toLowerCase(), repo);
       }
@@ -305,15 +246,14 @@ async function githubRequest(path, options = {}) {
 // file and retires entries whose source repository is gone for good, instead of
 // letting every run of this workflow retry a name that no longer exists.
 async function writeFailureReport(failureList) {
-  if (failureList.length === 0) {
-    return;
-  }
-
   await fs.mkdir(failureReportDir, { recursive: true });
   const report = {
     checkedAt: new Date().toISOString(),
+    forks,
     failures: failureList.map(({ item, error }) => ({
       source: item.source,
+      entryId: item.entryId,
+      checkedAt: new Date().toISOString(),
       forkName: item.forkName,
       kind: classifyForkFailure(error),
       status: error instanceof GitHubApiError ? error.status : 0,
@@ -328,7 +268,7 @@ async function writeFailureReport(failureList) {
 function classifyForkFailure(error) {
   // The source repository is gone: deleted, made private or renamed away. A
   // later run fails in exactly the same way.
-  return error instanceof GitHubApiError && error.status === 404 ? "permanent" : "transient";
+  return error instanceof GitHubApiError && [404, 409].includes(error.status) ? "permanent" : "transient";
 }
 
 function parseResponseBody(text) {
@@ -395,10 +335,6 @@ function parseNonNegativeInt(value) {
   }
 
   return parsed;
-}
-
-function shortHash(value) {
-  return crypto.createHash("sha1").update(value).digest("hex").slice(0, 8);
 }
 
 function sleep(ms) {
