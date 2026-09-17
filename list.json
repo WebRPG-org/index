@@ -523,6 +523,19 @@
     "syncedFromSource": true
   },
   {
+    "id": "mandy321555-rpg",
+    "title": "畢專測試",
+    "repo": "https://github.com/mandy321555/rpg",
+    "owner": "mandy321555",
+    "name": "rpg",
+    "engine": "RPG Maker MZ",
+    "status": "indexed",
+    "discoveredAt": "2026-09-16T10:53:30.292Z",
+    "source": "github-code-search",
+    "sourcePath": "index.html",
+    "plannedForkName": "mandy321555-rpg"
+  },
+  {
     "id": "shuangboxu-harry-potter-game",
     "title": "测试",
     "repo": "https://github.com/shuangboxu/Harry-Potter-Game",
@@ -5152,6 +5165,19 @@
     "validationScore": 45
   },
   {
+    "id": "oriera25-unblocked-games",
+    "title": "BLOODMONEY!",
+    "repo": "https://github.com/oriera25/unblocked-games",
+    "owner": "oriera25",
+    "name": "unblocked-games",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "discoveredAt": "2026-09-16T16:12:40.601Z",
+    "source": "github-code-search",
+    "sourcePath": "assets/games/clbloodmoney.html",
+    "plannedForkName": "oriera25-unblocked-games"
+  },
+  {
     "id": "oriera26-unblocked-games",
     "title": "BLOODMONEY!",
     "repo": "https://github.com/oriera26/unblocked-games",
@@ -5702,6 +5728,19 @@
     "processedHeadSha": "f6834f580cda503f7375563dd9cfa83e2873efa6"
   },
   {
+    "id": "edneyreis999-jonny",
+    "title": "Bye Bye Jhonny",
+    "repo": "https://github.com/edneyreis999/Jonny",
+    "owner": "edneyreis999",
+    "name": "Jonny",
+    "engine": "RPG Maker MZ",
+    "status": "indexed",
+    "discoveredAt": "2026-09-16T10:53:30.292Z",
+    "source": "github-code-search",
+    "sourcePath": "Jhonny/index.html",
+    "plannedForkName": "edneyreis999-Jonny"
+  },
+  {
     "id": "winterdp-projectelfattorney",
     "title": "Call of Jury: O caso do cabo de boa ventura",
     "repo": "https://github.com/WinterDP/ProjectElfAttorney",
@@ -5951,6 +5990,32 @@
     "sourceDefaultBranch": "main",
     "sourceHeadSha": "e180a1a4195e3f62f765b310b1cfb7e73f12146d",
     "processedHeadSha": "c8b4a3473c72457a1b1a4cf3165a590ac6d2bedd"
+  },
+  {
+    "id": "gyoannz-works",
+    "title": "Chest Adventure",
+    "repo": "https://github.com/GyoannZ/works",
+    "owner": "GyoannZ",
+    "name": "works",
+    "engine": "RPG Maker MZ",
+    "status": "indexed",
+    "discoveredAt": "2026-09-16T10:53:30.292Z",
+    "source": "github-code-search",
+    "sourcePath": "chest/chest/chestgame/index.html",
+    "plannedForkName": "GyoannZ-works"
+  },
+  {
+    "id": "saigurunagula-ik2",
+    "title": "Chikitsa Saga",
+    "repo": "https://github.com/SaiguruNagula/ik2",
+    "owner": "SaiguruNagula",
+    "name": "ik2",
+    "engine": "RPG Maker MZ",
+    "status": "indexed",
+    "discoveredAt": "2026-09-16T10:53:30.292Z",
+    "source": "github-code-search",
+    "sourcePath": "index.html",
+    "plannedForkName": "SaiguruNagula-ik2"
   },
   {
     "id": "koohdev-chronicles-of-arithmos",
@@ -6722,6 +6787,19 @@
     "invalidReason": "Fork creation failed: GitHub API 409: Target repository WebRPG-org/c7lison-cozy-studio-game belongs to another source",
     "consecutiveFailures": 1,
     "lastFailedAt": "2026-09-16T11:00:20.823Z"
+  },
+  {
+    "id": "hanr61-creative-journey-new",
+    "title": "Creative Journey",
+    "repo": "https://github.com/hanr61/Creative-Journey-New",
+    "owner": "hanr61",
+    "name": "Creative-Journey-New",
+    "engine": "RPG Maker MZ",
+    "status": "indexed",
+    "discoveredAt": "2026-09-16T10:53:30.292Z",
+    "source": "github-code-search",
+    "sourcePath": "index.html",
+    "plannedForkName": "hanr61-Creative-Journey-New"
   },
   {
     "id": "szymor-elemental-saga",
@@ -8943,6 +9021,19 @@
     "processedHeadSha": "f51f7126f93d8c684f494e2231976878865fce1c"
   },
   {
+    "id": "huanbieyuan-huanbieyuan-github-io",
+    "title": "Etudes01",
+    "repo": "https://github.com/huanbieyuan/huanbieyuan.github.io",
+    "owner": "huanbieyuan",
+    "name": "huanbieyuan.github.io",
+    "engine": "RPG Maker MZ",
+    "status": "indexed",
+    "discoveredAt": "2026-09-16T10:53:30.292Z",
+    "source": "github-code-search",
+    "sourcePath": "etudes01/index.html",
+    "plannedForkName": "huanbieyuan-huanbieyuan.github.io"
+  },
+  {
     "id": "tenebrous-world-tenebrous-github-io",
     "title": "Etudes01",
     "repo": "https://github.com/tenebrous-world/tenebrous.github.io",
@@ -8954,6 +9045,19 @@
     "source": "github-code-search",
     "sourcePath": "public/etudes01/index.html",
     "forkName": "tenebrous-world-tenebrous.github.io"
+  },
+  {
+    "id": "lokinious-rpg-maker-game-1",
+    "title": "Exorcism",
+    "repo": "https://github.com/Lokinious/rpg-maker-game-1",
+    "owner": "Lokinious",
+    "name": "rpg-maker-game-1",
+    "engine": "RPG Maker MZ",
+    "status": "indexed",
+    "discoveredAt": "2026-09-16T10:53:30.292Z",
+    "source": "github-code-search",
+    "sourcePath": "Test-Product/index.html",
+    "plannedForkName": "Lokinious-rpg-maker-game-1"
   },
   {
     "id": "katai5plate-rpgmv-game-kanban",
@@ -10433,6 +10537,19 @@
     "processedHeadSha": "c163b11cfd1c7fb5ca217c08df01414b6a3c7448"
   },
   {
+    "id": "pzahutdwg-pzahutdwg-github-io",
+    "title": "Get To School 5",
+    "repo": "https://github.com/pzahutdwg/pzahutdwg.github.io",
+    "owner": "pzahutdwg",
+    "name": "pzahutdwg.github.io",
+    "engine": "RPG Maker MZ",
+    "status": "indexed",
+    "discoveredAt": "2026-09-16T10:53:30.292Z",
+    "source": "github-code-search",
+    "sourcePath": "gettoschool5/index.html",
+    "plannedForkName": "pzahutdwg-pzahutdwg.github.io"
+  },
+  {
     "id": "28dosei-28dosei-github-io",
     "title": "Get to school 6",
     "repo": "https://github.com/28dosei/28dosei.github.io",
@@ -10457,6 +10574,19 @@
     "sourceDefaultBranch": "main",
     "sourceHeadSha": "bf7567afc8573c6a7c9d85d8ea12370c9abe0ea9",
     "processedHeadSha": "1c60f247a13b8559086189e5de3627e97c6540b5"
+  },
+  {
+    "id": "28msnyder-28msnyder-github-io",
+    "title": "Get to school 6",
+    "repo": "https://github.com/28MSnyder/28MSnyder.github.io",
+    "owner": "28MSnyder",
+    "name": "28MSnyder.github.io",
+    "engine": "RPG Maker MZ",
+    "status": "indexed",
+    "discoveredAt": "2026-09-16T10:53:30.292Z",
+    "source": "github-code-search",
+    "sourcePath": "game/index.html",
+    "plannedForkName": "28MSnyder-28MSnyder.github.io"
   },
   {
     "id": "28diezel-28diezel-github-io",
@@ -10641,6 +10771,32 @@
     "processedHeadSha": "004f132526d309cf30132ad6a2c2db1fb919c04e"
   },
   {
+    "id": "28lharnish-28lharnish-github-io",
+    "title": "Get To School 6",
+    "repo": "https://github.com/28lharnish/28lharnish.github.io",
+    "owner": "28lharnish",
+    "name": "28lharnish.github.io",
+    "engine": "RPG Maker MZ",
+    "status": "indexed",
+    "discoveredAt": "2026-09-16T10:53:30.292Z",
+    "source": "github-code-search",
+    "sourcePath": "more/Get-To-School-6/index.html",
+    "plannedForkName": "28lharnish-28lharnish.github.io"
+  },
+  {
+    "id": "riley-girgenti-riley-girgenti-github-io",
+    "title": "Get To School 6",
+    "repo": "https://github.com/Riley-Girgenti/Riley-Girgenti.github.io",
+    "owner": "Riley-Girgenti",
+    "name": "Riley-Girgenti.github.io",
+    "engine": "RPG Maker MZ",
+    "status": "indexed",
+    "discoveredAt": "2026-09-16T10:53:30.292Z",
+    "source": "github-code-search",
+    "sourcePath": "game/index.html",
+    "plannedForkName": "Riley-Girgenti-Riley-Girgenti.github.io"
+  },
+  {
     "id": "28pmancenido-sys-28pmancenido-sys-github-io",
     "title": "Get To School 7",
     "repo": "https://github.com/28pmancenido-sys/28pmancenido-sys.github.io",
@@ -10745,6 +10901,19 @@
     "processedHeadSha": "25acecdef8f26f06fab9fa6735b9a995466ca013"
   },
   {
+    "id": "thecyanhusky-thecyanhusky-github-io",
+    "title": "Get to School: Definitive Edition",
+    "repo": "https://github.com/TheCyanHusky/TheCyanHusky.github.io",
+    "owner": "TheCyanHusky",
+    "name": "TheCyanHusky.github.io",
+    "engine": "RPG Maker MZ",
+    "status": "indexed",
+    "discoveredAt": "2026-09-16T10:53:30.292Z",
+    "source": "github-code-search",
+    "sourcePath": "links/GetToSchool/Project1/index.html",
+    "plannedForkName": "TheCyanHusky-TheCyanHusky.github.io"
+  },
+  {
     "id": "kazedevid-girl-hunting",
     "title": "Girl Hunting",
     "repo": "https://github.com/KazeDevID/Girl-hunting",
@@ -10815,6 +10984,19 @@
     "totalSize": 99408,
     "dataSize": 673378,
     "sourceRepo": "strelokhalfer/HGHU"
+  },
+  {
+    "id": "gary26834947-eng-github-rpg-congroup-v1",
+    "title": "github_rpg_conGroup_v1",
+    "repo": "https://github.com/gary26834947-eng/github_rpg_conGroup_v1",
+    "owner": "gary26834947-eng",
+    "name": "github_rpg_conGroup_v1",
+    "engine": "RPG Maker MZ",
+    "status": "indexed",
+    "discoveredAt": "2026-09-16T10:53:30.292Z",
+    "source": "github-code-search",
+    "sourcePath": "index.html",
+    "plannedForkName": "gary26834947-eng-github_rpg_conGroup_v1"
   },
   {
     "id": "gary31136-github-rpg-exgroup-v1",
@@ -10960,6 +11142,19 @@
     "sourceHeadSha": "cabfd6f8abd70ff0f330d1e40d882860e3e6b158",
     "processedHeadSha": "5375a94818ecf51782aab0998dbbd3f05ba05ba6",
     "syncedFromSource": true
+  },
+  {
+    "id": "vamyvamizy-vamyvamizy-github-io",
+    "title": "Go To School 5",
+    "repo": "https://github.com/VamyVamizy/VamyVamizy.github.io",
+    "owner": "VamyVamizy",
+    "name": "VamyVamizy.github.io",
+    "engine": "RPG Maker MZ",
+    "status": "indexed",
+    "discoveredAt": "2026-09-16T10:53:30.292Z",
+    "source": "github-code-search",
+    "sourcePath": "GoToSchool/index.html",
+    "plannedForkName": "VamyVamizy-VamyVamizy.github.io"
   },
   {
     "id": "dixonsolutions-potatoetomatoe3",
@@ -12600,6 +12795,19 @@
     "sourceHeadSha": "26c3cfc238e2dc6d839fa08990d1df6c10ff8da7",
     "processedHeadSha": "8e03e41b052ebb242c0e401bf66216a120310df6",
     "syncedFromSource": true
+  },
+  {
+    "id": "28mcross-prog-28mcross-prog-github-io",
+    "title": "lets go gambilng!!!!!",
+    "repo": "https://github.com/28mcross-prog/28mcross-prog.github.io",
+    "owner": "28mcross-prog",
+    "name": "28mcross-prog.github.io",
+    "engine": "RPG Maker MZ",
+    "status": "indexed",
+    "discoveredAt": "2026-09-16T10:53:30.292Z",
+    "source": "github-code-search",
+    "sourcePath": "game/index.html",
+    "plannedForkName": "28mcross-prog-28mcross-prog.github.io"
   },
   {
     "id": "yuhan2680-level-c-1366-demo",
@@ -16244,6 +16452,32 @@
     "forkName": "wfay42-enemy-corruption"
   },
   {
+    "id": "hectovargas-repositoriozelda",
+    "title": "Pixel Fantasy Tiles",
+    "repo": "https://github.com/Hectovargas/repositorioZELDA",
+    "owner": "Hectovargas",
+    "name": "repositorioZELDA",
+    "engine": "RPG Maker MZ",
+    "status": "indexed",
+    "discoveredAt": "2026-09-16T10:53:30.292Z",
+    "source": "github-code-search",
+    "sourcePath": "carpeta de sprites aparte, hay muchos en la otra/SAMPLE PROJECT/Pixel Fantasy Tiles/index.html",
+    "plannedForkName": "Hectovargas-repositorioZELDA"
+  },
+  {
+    "id": "saluji-tsot",
+    "title": "Pixel Fantasy Tiles",
+    "repo": "https://github.com/saluji/tsot",
+    "owner": "saluji",
+    "name": "tsot",
+    "engine": "RPG Maker MZ",
+    "status": "indexed",
+    "discoveredAt": "2026-09-16T10:53:30.292Z",
+    "source": "github-code-search",
+    "sourcePath": "TSOT/Assets/GameAssets/Environment/Pixel Fantasy RMMZ RTP Tiles/SAMPLE PROJECT/Pixel Fantasy Tiles/index.html",
+    "plannedForkName": "saluji-tsot"
+  },
+  {
     "id": "saitsuki-gamedesign",
     "title": "Planescaper Quest",
     "repo": "https://github.com/SaiTsuki/GameDesign",
@@ -16719,6 +16953,19 @@
     "processedHeadSha": "88ca225969c70fd042f1292e83bd988607934661"
   },
   {
+    "id": "kushpatel43-rpg-maker",
+    "title": "Project_Test",
+    "repo": "https://github.com/kushpatel43/RPG_Maker",
+    "owner": "kushpatel43",
+    "name": "RPG_Maker",
+    "engine": "RPG Maker MZ",
+    "status": "indexed",
+    "discoveredAt": "2026-09-16T10:53:30.292Z",
+    "source": "github-code-search",
+    "sourcePath": "Testing/Project_Test/index.html",
+    "plannedForkName": "kushpatel43-RPG_Maker"
+  },
+  {
     "id": "0ui0-owo-terminal-public",
     "title": "Project1",
     "repo": "https://github.com/0ui0/owo_terminal_public",
@@ -16745,6 +16992,19 @@
     "processedHeadSha": "54393b1a40e7c80ba2f64de6b7667cf8018ec3b8"
   },
   {
+    "id": "29abrenton-rgb-29abrenton-rgb-github-io",
+    "title": "Project1",
+    "repo": "https://github.com/29abrenton-rgb/29abrenton-rgb.github.io",
+    "owner": "29abrenton-rgb",
+    "name": "29abrenton-rgb.github.io",
+    "engine": "RPG Maker MZ",
+    "status": "indexed",
+    "discoveredAt": "2026-09-16T10:53:30.292Z",
+    "source": "github-code-search",
+    "sourcePath": "game/index.html",
+    "plannedForkName": "29abrenton-rgb-29abrenton-rgb.github.io"
+  },
+  {
     "id": "affonsoamendola-oldprojects",
     "title": "Project1",
     "repo": "https://github.com/affonsoamendola/oldprojects",
@@ -16767,6 +17027,19 @@
     "sourceDefaultBranch": "master",
     "sourceHeadSha": "996469b2fddda324685a8bb2e17c27391e7c31ae",
     "processedHeadSha": "1304aefd92f0af2c6a692185f4b384f434577584"
+  },
+  {
+    "id": "akshatiyer-gamejam2025",
+    "title": "Project1",
+    "repo": "https://github.com/AkshatIyer/GameJam2025",
+    "owner": "AkshatIyer",
+    "name": "GameJam2025",
+    "engine": "RPG Maker MZ",
+    "status": "indexed",
+    "discoveredAt": "2026-09-16T10:53:30.292Z",
+    "source": "github-code-search",
+    "sourcePath": "Project1/index.html",
+    "plannedForkName": "AkshatIyer-GameJam2025"
   },
   {
     "id": "alriosa-awaken-mz",
@@ -17141,6 +17414,19 @@
     "sourceDefaultBranch": "master",
     "sourceHeadSha": "99079d4048d1b6cf776f652a65ebd05914127e45",
     "processedHeadSha": "706dd68e39d8f340b1e9e0f03b3455208c8a22fd"
+  },
+  {
+    "id": "hira1010-2nd-brain",
+    "title": "Project1",
+    "repo": "https://github.com/hira1010/2nd-Brain",
+    "owner": "hira1010",
+    "name": "2nd-Brain",
+    "engine": "RPG Maker MZ",
+    "status": "indexed",
+    "discoveredAt": "2026-09-16T10:53:30.292Z",
+    "source": "github-code-search",
+    "sourcePath": "08_ゲーム制作/16_RenPy/backup_mz/index.html",
+    "plannedForkName": "hira1010-2nd-Brain"
   },
   {
     "id": "holywyvern-mv-pixi-upgrade",
@@ -17891,6 +18177,19 @@
     "sourceDefaultBranch": "main",
     "sourceHeadSha": "7da67ea7413142af7b207d3ff47e8c5df2791207",
     "processedHeadSha": "0982d35bc65ac9345ae56bcc66513851dd0e26da"
+  },
+  {
+    "id": "monroees-lachambre",
+    "title": "Projet Test",
+    "repo": "https://github.com/Monroees/LaChambre",
+    "owner": "Monroees",
+    "name": "LaChambre",
+    "engine": "RPG Maker MZ",
+    "status": "indexed",
+    "discoveredAt": "2026-09-16T10:53:30.292Z",
+    "source": "github-code-search",
+    "sourcePath": "Projet Test/index.html",
+    "plannedForkName": "Monroees-LaChambre"
   },
   {
     "id": "fivj-prouni",
@@ -18819,6 +19118,19 @@
     "syncedFromSource": true
   },
   {
+    "id": "lucianoapz-m07-uf3-fitesexercicis",
+    "title": "Rogue Adventure MZ",
+    "repo": "https://github.com/LucianoAPZ/M07_UF3_FitesExercicis",
+    "owner": "LucianoAPZ",
+    "name": "M07_UF3_FitesExercicis",
+    "engine": "RPG Maker MZ",
+    "status": "indexed",
+    "discoveredAt": "2026-09-16T10:53:30.292Z",
+    "source": "github-code-search",
+    "sourcePath": "proyectos/proyectoFinal/Rogue Adventure World [RPG Maker MZ]/Rogue Adventure MZ/index.html",
+    "plannedForkName": "LucianoAPZ-M07_UF3_FitesExercicis"
+  },
+  {
     "id": "rorythegame-roryrpg",
     "title": "Rory: The Game",
     "repo": "https://github.com/RoryTheGame/RoryRPG",
@@ -19166,6 +19478,19 @@
     "syncedFromSource": true
   },
   {
+    "id": "takushisato-futakobusan",
+    "title": "sample.game",
+    "repo": "https://github.com/takushisato/futakobusan",
+    "owner": "takushisato",
+    "name": "futakobusan",
+    "engine": "RPG Maker MZ",
+    "status": "indexed",
+    "discoveredAt": "2026-09-16T10:53:30.292Z",
+    "source": "github-code-search",
+    "sourcePath": "myhorror/index.html",
+    "plannedForkName": "takushisato-futakobusan"
+  },
+  {
     "id": "spritestudio-ss6playerforweb",
     "title": "SampleProject",
     "repo": "https://github.com/SpriteStudio/SS6PlayerForWeb",
@@ -19315,6 +19640,19 @@
     "invalidReason": "RPG Maker structure is incomplete near index.html.",
     "deletedAt": "2026-06-16T12:18:03.647Z",
     "validationScore": 53
+  },
+  {
+    "id": "kelvintaco-gamedevrpg",
+    "title": "School of Survival",
+    "repo": "https://github.com/kelvintaco/gamedevrpg",
+    "owner": "kelvintaco",
+    "name": "gamedevrpg",
+    "engine": "RPG Maker MZ",
+    "status": "indexed",
+    "discoveredAt": "2026-09-16T10:53:30.292Z",
+    "source": "github-code-search",
+    "sourcePath": "SCHOOL/index.html",
+    "plannedForkName": "kelvintaco-gamedevrpg"
   },
   {
     "id": "jsnb21-sci-high-rmmv",
@@ -19853,6 +20191,19 @@
     "sourceHeadSha": "1dce8393690da2f466eee703a4cc1170299d0bb6",
     "processedHeadSha": "9195a3fe48941e9b82a71e40843c90027e4d73f5",
     "syncedFromSource": true
+  },
+  {
+    "id": "dorphiaderp-rpg-test-project",
+    "title": "Silvon's Small Venture",
+    "repo": "https://github.com/DorphiaDerp/RPG-Test-Project",
+    "owner": "DorphiaDerp",
+    "name": "RPG-Test-Project",
+    "engine": "RPG Maker MZ",
+    "status": "indexed",
+    "discoveredAt": "2026-09-16T10:53:30.292Z",
+    "source": "github-code-search",
+    "sourcePath": "RP Test Project/index.html",
+    "plannedForkName": "DorphiaDerp-RPG-Test-Project"
   },
   {
     "id": "biud436-cefmv",
@@ -20888,6 +21239,19 @@
     "syncedFromSource": true
   },
   {
+    "id": "bryce26550-rpg-maker-suff",
+    "title": "Test",
+    "repo": "https://github.com/bryce26550/RPG-Maker-Suff",
+    "owner": "bryce26550",
+    "name": "RPG-Maker-Suff",
+    "engine": "RPG Maker MZ",
+    "status": "indexed",
+    "discoveredAt": "2026-09-16T10:53:30.292Z",
+    "source": "github-code-search",
+    "sourcePath": "Test/index.html",
+    "plannedForkName": "bryce26550-RPG-Maker-Suff"
+  },
+  {
     "id": "firekula-erogame",
     "title": "Test",
     "repo": "https://github.com/firekula/EroGame",
@@ -21137,6 +21501,19 @@
     "sourceHeadSha": "6f734719ac159f5608605fd66eccca87485093a7",
     "processedHeadSha": "dbf68b8ca82299f31bd03838026494c0f1129556",
     "syncedFromSource": true
+  },
+  {
+    "id": "koohdev-chronicles",
+    "title": "Tests",
+    "repo": "https://github.com/koohdev/chronicles",
+    "owner": "koohdev",
+    "name": "chronicles",
+    "engine": "RPG Maker MZ",
+    "status": "indexed",
+    "discoveredAt": "2026-09-16T10:53:30.292Z",
+    "source": "github-code-search",
+    "sourcePath": "Tests/index.html",
+    "plannedForkName": "koohdev-chronicles"
   },
   {
     "id": "teritaris-tenxym-en",
@@ -21550,7 +21927,6 @@
     "discoveredAt": "2026-09-16T10:53:30.292Z",
     "source": "github-code-search",
     "sourcePath": "Fiesta-app/Fiesta/Game/index.html",
-    "plannedForkName": "Anqui3tas-Fiesta-RPG",
     "checkedAt": "2026-09-17T21:09:16.937Z",
     "forkName": "Anqui3tas-Fiesta-RPG",
     "lastCheckError": "GitHub API 403: You have exceeded a secondary rate limit. Please wait a few minutes before you try again. For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service) If you reach out to GitHub Support for help, please include the request ID B401:32AD73:42A83DD:DFA8F12:6AAC5735.",
@@ -22349,6 +22725,19 @@
     "syncedFromSource": true
   },
   {
+    "id": "skypad123-ntu-cz3003-ultraregin-mono",
+    "title": "Ultrareign",
+    "repo": "https://github.com/skypad123/ntu_cz3003-ultraregin-mono",
+    "owner": "skypad123",
+    "name": "ntu_cz3003-ultraregin-mono",
+    "engine": "RPG Maker MZ",
+    "status": "indexed",
+    "discoveredAt": "2026-09-16T10:53:30.292Z",
+    "source": "github-code-search",
+    "sourcePath": "game_fe/Test Project/index.html",
+    "plannedForkName": "skypad123-ntu_cz3003-ultraregin-mono"
+  },
+  {
     "id": "gallegosjaime-rpg-project",
     "title": "Umbra",
     "repo": "https://github.com/gallegosjaime/rpg-project",
@@ -22892,7 +23281,6 @@
     "discoveredAt": "2026-09-16T10:53:30.292Z",
     "source": "github-code-search",
     "sourcePath": "frontend/assets/VisuStella/VisuStellaSpringForest/index.html",
-    "plannedForkName": "J3tze-goblin-habitat",
     "checkedAt": "2026-09-17T21:11:51.377Z",
     "forkName": "J3tze-goblin-habitat",
     "invalidReason": "Missing files: frontend/assets/VisuStella/VisuStellaSpringForest/data/Actors.json, frontend/assets/VisuStella/VisuStellaSpringForest/data/Classes.json, frontend/assets/VisuStella/VisuStellaSpringForest/data/Skills.json, frontend/assets/VisuStella/VisuStellaSpringForest/data/Items.json, frontend/assets/VisuStella/VisuStellaSpringForest/data/Weapons.json, frontend/assets/VisuStella/VisuStellaSpringForest/data/Armors.json, frontend/assets/VisuStella/VisuStellaSpringForest/data/Enemies.json, frontend/assets/VisuStella/VisuStellaSpringForest/data/Troops.json, frontend/assets/VisuStella/VisuStellaSpringForest/data/States.json, frontend/assets/VisuStella/VisuStellaSpringForest/data/Animations.json, frontend/assets/VisuStella/VisuStellaSpringForest/data/Tilesets.json, frontend/assets/VisuStella/VisuStellaSpringForest/data/CommonEvents.json, frontend/assets/VisuStella/VisuStellaSpringForest/data/System.json, frontend/assets/VisuStella/VisuStellaSpringForest/data/MapInfos.json",
@@ -24084,6 +24472,19 @@
     "sourceHeadSha": "b052bc27d3acbb4334060892dfd914df3bf9be51",
     "processedHeadSha": "d3a689ffe0e9b945239af75266ea532007718ac4",
     "syncedFromSource": true
+  },
+  {
+    "id": "watatarutaru-kochobus",
+    "title": "コチョバスの穴",
+    "repo": "https://github.com/watatarutaru/Kochobus",
+    "owner": "watatarutaru",
+    "name": "Kochobus",
+    "engine": "RPG Maker MZ",
+    "status": "indexed",
+    "discoveredAt": "2026-09-16T10:53:30.292Z",
+    "source": "github-code-search",
+    "sourcePath": "index.html",
+    "plannedForkName": "watatarutaru-Kochobus"
   },
   {
     "id": "triacontane-novelgamesample",
