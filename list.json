@@ -2580,6 +2580,19 @@
     "syncedFromSource": true
   },
   {
+    "id": "92o524-campus-introduction5",
+    "title": "校園介紹",
+    "repo": "https://github.com/92O524/Campus-introduction5",
+    "owner": "92O524",
+    "name": "Campus-introduction5",
+    "engine": "RPG Maker MZ",
+    "status": "indexed",
+    "discoveredAt": "2026-09-16T10:53:30.292Z",
+    "source": "github-code-search",
+    "sourcePath": "index.html",
+    "plannedForkName": "92O524-Campus-introduction5"
+  },
+  {
     "id": "mitochondriacn-yanbernunk-2077",
     "title": "延博楠克2077",
     "repo": "https://github.com/MitochondriaCN/Yanbernunk-2077",
@@ -2650,6 +2663,32 @@
     "invalidReason": "No RPG Maker MV/MZ HTML entry point or core scripts were found.",
     "deletedAt": "2026-06-18T01:48:25.178Z",
     "validationScore": 0
+  },
+  {
+    "id": "teritaris-kakeyokonnectmz",
+    "title": "異世界転生したら法定通貨がXYMだった件",
+    "repo": "https://github.com/teritaris/kakeyokonnectMZ",
+    "owner": "teritaris",
+    "name": "kakeyokonnectMZ",
+    "engine": "RPG Maker MZ",
+    "status": "indexed",
+    "discoveredAt": "2026-09-16T10:53:30.292Z",
+    "source": "github-code-search",
+    "sourcePath": "index.html",
+    "plannedForkName": "teritaris-kakeyokonnectMZ"
+  },
+  {
+    "id": "teritaris-tenxym",
+    "title": "異世界転生したら法定通貨がXYMだった件",
+    "repo": "https://github.com/teritaris/tenxym",
+    "owner": "teritaris",
+    "name": "tenxym",
+    "engine": "RPG Maker MZ",
+    "status": "indexed",
+    "discoveredAt": "2026-09-16T10:53:30.292Z",
+    "source": "github-code-search",
+    "sourcePath": "index.html",
+    "plannedForkName": "teritaris-tenxym"
   },
   {
     "id": "etxian-heroland",
@@ -2889,6 +2928,19 @@
     "sourceHeadSha": "85a5d41543f3e3119c84063750c9436559fc72b5",
     "processedHeadSha": "d9c11b1ef3183856632f3f251efeb19da07a3b8b",
     "syncedFromSource": true
+  },
+  {
+    "id": "teritaris-tenchou",
+    "title": "転生したら店長だった件",
+    "repo": "https://github.com/teritaris/tenchou",
+    "owner": "teritaris",
+    "name": "tenchou",
+    "engine": "RPG Maker MZ",
+    "status": "indexed",
+    "discoveredAt": "2026-09-16T10:53:30.292Z",
+    "source": "github-code-search",
+    "sourcePath": "index.html",
+    "plannedForkName": "teritaris-tenchou"
   },
   {
     "id": "isekaiagile-laboratory",
@@ -5180,6 +5232,19 @@
     "syncedFromSource": true
   },
   {
+    "id": "danh295-bromden-of-the-ward",
+    "title": "Bromden of the Ward",
+    "repo": "https://github.com/Danh295/Bromden-of-The-Ward",
+    "owner": "Danh295",
+    "name": "Bromden-of-The-Ward",
+    "engine": "RPG Maker MZ",
+    "status": "indexed",
+    "discoveredAt": "2026-09-16T10:53:30.292Z",
+    "source": "github-code-search",
+    "sourcePath": "index.html",
+    "plannedForkName": "Danh295-Bromden-of-The-Ward"
+  },
+  {
     "id": "bundtologist-rpgmaker",
     "title": "BTOB",
     "repo": "https://github.com/Bundtologist/rpgmaker",
@@ -5555,6 +5620,19 @@
     "sourceHeadSha": "be8c0ffb675a1770d4dfbd207a4d253f82fe3ce4",
     "processedHeadSha": "db795c2276ae2d1602e68670efe0ccb40775fbfd",
     "syncedFromSource": true
+  },
+  {
+    "id": "kuzhenlarn-kuzhenproject",
+    "title": "CKA3KA",
+    "repo": "https://github.com/KuzhenLarn/KuzhenProject",
+    "owner": "KuzhenLarn",
+    "name": "KuzhenProject",
+    "engine": "RPG Maker MZ",
+    "status": "indexed",
+    "discoveredAt": "2026-09-16T10:53:30.292Z",
+    "source": "github-code-search",
+    "sourcePath": "project/ckaska/index.html",
+    "plannedForkName": "KuzhenLarn-KuzhenProject"
   },
   {
     "id": "yutom3-uci-cki-rpgmmo",
@@ -7516,6 +7594,19 @@
     "syncedFromSource": true
   },
   {
+    "id": "ttoonnaa-dq3remake",
+    "title": "DQ3リメイク",
+    "repo": "https://github.com/ttoonnaa/DQ3Remake",
+    "owner": "ttoonnaa",
+    "name": "DQ3Remake",
+    "engine": "RPG Maker MZ",
+    "status": "indexed",
+    "discoveredAt": "2026-09-16T10:53:30.292Z",
+    "source": "github-code-search",
+    "sourcePath": "index.html",
+    "plannedForkName": "ttoonnaa-DQ3Remake"
+  },
+  {
     "id": "johnnypackard-unnamed-rpg",
     "title": "Drag Queen RPG",
     "repo": "https://github.com/johnnypackard/unnamed-rpg",
@@ -7664,6 +7755,19 @@
     "syncedFromSource": true
   },
   {
+    "id": "lunlis-dreamtale",
+    "title": "DreamTale",
+    "repo": "https://github.com/Lunlis/DreamTale",
+    "owner": "Lunlis",
+    "name": "DreamTale",
+    "engine": "RPG Maker MZ",
+    "status": "indexed",
+    "discoveredAt": "2026-09-16T10:53:30.292Z",
+    "source": "github-code-search",
+    "sourcePath": "index.html",
+    "plannedForkName": "Lunlis-DreamTale"
+  },
+  {
     "id": "dsaf-decompliations-opendsaf3",
     "title": "DSaF 3",
     "repo": "https://github.com/DSAF-Decompliations/OpenDSAF3",
@@ -7778,6 +7882,19 @@
     "totalSize": 107678,
     "dataSize": 3406191,
     "sourceRepo": "chruscikszef/dzzt-android"
+  },
+  {
+    "id": "horke-root-echoofdespire",
+    "title": "Echo of Despire",
+    "repo": "https://github.com/horke-root/EchoOfDespire",
+    "owner": "horke-root",
+    "name": "EchoOfDespire",
+    "engine": "RPG Maker MZ",
+    "status": "indexed",
+    "discoveredAt": "2026-09-16T10:53:30.292Z",
+    "source": "github-code-search",
+    "sourcePath": "index.html",
+    "plannedForkName": "horke-root-EchoOfDespire"
   },
   {
     "id": "lamawd-eco-quest",
@@ -8679,6 +8796,19 @@
     "syncedFromSource": true
   },
   {
+    "id": "df478-fire-and-root",
+    "title": "Fire and Root",
+    "repo": "https://github.com/df478/Fire-And-Root",
+    "owner": "df478",
+    "name": "Fire-And-Root",
+    "engine": "RPG Maker MZ",
+    "status": "indexed",
+    "discoveredAt": "2026-09-16T10:53:30.292Z",
+    "source": "github-code-search",
+    "sourcePath": "index.html",
+    "plannedForkName": "df478-Fire-And-Root"
+  },
+  {
     "id": "sombriks-foo-bar-tales",
     "title": "Foo Bar Tales",
     "repo": "https://github.com/sombriks/foo-bar-tales",
@@ -8702,6 +8832,32 @@
     "sourceHeadSha": "a2d63c11a84d67ce333129a672506a71fa092770",
     "processedHeadSha": "f490abfe7bf3b575b4439568baf321a6dafe2317",
     "syncedFromSource": true
+  },
+  {
+    "id": "sity06-for-the-world-updated",
+    "title": "For the World",
+    "repo": "https://github.com/sity06/for-the-world-updated",
+    "owner": "sity06",
+    "name": "for-the-world-updated",
+    "engine": "RPG Maker MZ",
+    "status": "indexed",
+    "discoveredAt": "2026-09-16T10:53:30.292Z",
+    "source": "github-code-search",
+    "sourcePath": "index.html",
+    "plannedForkName": "sity06-for-the-world-updated"
+  },
+  {
+    "id": "helisoya-fouziquest2",
+    "title": "Fouzi's Quest 2",
+    "repo": "https://github.com/helisoya/FouziQuest2",
+    "owner": "helisoya",
+    "name": "FouziQuest2",
+    "engine": "RPG Maker MZ",
+    "status": "indexed",
+    "discoveredAt": "2026-09-16T10:53:30.292Z",
+    "source": "github-code-search",
+    "sourcePath": "index.html",
+    "plannedForkName": "helisoya-FouziQuest2"
   },
   {
     "id": "proximitigames-frayedsystem",
@@ -9769,6 +9925,19 @@
     "validationScore": 53
   },
   {
+    "id": "wookieematt-heirloom",
+    "title": "Heirloom",
+    "repo": "https://github.com/WookieeMatt/Heirloom",
+    "owner": "WookieeMatt",
+    "name": "Heirloom",
+    "engine": "RPG Maker MZ",
+    "status": "indexed",
+    "discoveredAt": "2026-09-16T10:53:30.292Z",
+    "source": "github-code-search",
+    "sourcePath": "index.html",
+    "plannedForkName": "WookieeMatt-Heirloom"
+  },
+  {
     "id": "mizchi-sandbox-tkool-sandbox",
     "title": "HelloWorld Custom",
     "repo": "https://github.com/mizchi-sandbox/tkool-sandbox",
@@ -10355,6 +10524,19 @@
     "forkName": "SirPacings-IsoIslandRpg"
   },
   {
+    "id": "preuksuksiri-jabs-survival-shooting-system",
+    "title": "JABS Survival Shooter",
+    "repo": "https://github.com/PreukSuksiri/JABS-Survival-Shooting-System",
+    "owner": "PreukSuksiri",
+    "name": "JABS-Survival-Shooting-System",
+    "engine": "RPG Maker MZ",
+    "status": "indexed",
+    "discoveredAt": "2026-09-16T10:53:30.292Z",
+    "source": "github-code-search",
+    "sourcePath": "index.html",
+    "plannedForkName": "PreukSuksiri-JABS-Survival-Shooting-System"
+  },
+  {
     "id": "thomazdevmaster-matematica",
     "title": "jogo",
     "repo": "https://github.com/thomazdevmaster/matematica",
@@ -10412,6 +10594,19 @@
     "sourceHeadSha": "53be360e59de9278bfea69dd54a6297dd6f015a8",
     "processedHeadSha": "de61d53eac422a099679655475a795daed212485",
     "syncedFromSource": true
+  },
+  {
+    "id": "sanmollp-sanmollp-github-io",
+    "title": "Jornades d'Innovació Docent UV",
+    "repo": "https://github.com/sanmollp/sanmollp.github.io",
+    "owner": "sanmollp",
+    "name": "sanmollp.github.io",
+    "engine": "RPG Maker MZ",
+    "status": "indexed",
+    "discoveredAt": "2026-09-16T10:53:30.292Z",
+    "source": "github-code-search",
+    "sourcePath": "index.html",
+    "plannedForkName": "sanmollp-sanmollp.github.io"
   },
   {
     "id": "aslated-jstesting",
@@ -10996,6 +11191,32 @@
     "totalSize": 2618,
     "dataSize": 0,
     "sourceRepo": "yuhan2680/Level-C-1366_Demo"
+  },
+  {
+    "id": "pritamsutradhar123-librequestdaythree",
+    "title": "LibreQuestDayThree",
+    "repo": "https://github.com/PritamSutradhar123/LibreQuestDayThree",
+    "owner": "PritamSutradhar123",
+    "name": "LibreQuestDayThree",
+    "engine": "RPG Maker MZ",
+    "status": "indexed",
+    "discoveredAt": "2026-09-16T10:53:30.292Z",
+    "source": "github-code-search",
+    "sourcePath": "index.html",
+    "plannedForkName": "PritamSutradhar123-LibreQuestDayThree"
+  },
+  {
+    "id": "mytriv-lightpathfinder",
+    "title": "Light Pathfinder",
+    "repo": "https://github.com/mytriv/lightpathfinder",
+    "owner": "mytriv",
+    "name": "lightpathfinder",
+    "engine": "RPG Maker MZ",
+    "status": "indexed",
+    "discoveredAt": "2026-09-16T10:53:30.292Z",
+    "source": "github-code-search",
+    "sourcePath": "index.html",
+    "plannedForkName": "mytriv-lightpathfinder"
   },
   {
     "id": "mi-occ-byteme-lil-necro-game-web",
@@ -12589,6 +12810,19 @@
     "sourceHeadSha": "dd3db1fc85faff92e4d4eec65695bfa080204eae",
     "processedHeadSha": "882263897d120dcb95c5a486a88a973750c30df2",
     "syncedFromSource": true
+  },
+  {
+    "id": "katai5plate-rpgmz-newgame-lite",
+    "title": "new",
+    "repo": "https://github.com/katai5plate/rpgmz-newgame-lite",
+    "owner": "katai5plate",
+    "name": "rpgmz-newgame-lite",
+    "engine": "RPG Maker MZ",
+    "status": "indexed",
+    "discoveredAt": "2026-09-16T10:53:30.292Z",
+    "source": "github-code-search",
+    "sourcePath": "index.html",
+    "plannedForkName": "katai5plate-rpgmz-newgame-lite"
   },
   {
     "id": "katai5plate-rpgmv-newgame-lite",
@@ -14566,6 +14800,19 @@
     "forkName": "Rownowaga-rownowaga.github.io"
   },
   {
+    "id": "immortal3180-project-rpg",
+    "title": "Project MZ 测试版",
+    "repo": "https://github.com/immortal3180/Project_RPG",
+    "owner": "immortal3180",
+    "name": "Project_RPG",
+    "engine": "RPG Maker MZ",
+    "status": "indexed",
+    "discoveredAt": "2026-09-16T10:53:30.292Z",
+    "source": "github-code-search",
+    "sourcePath": "index.html",
+    "plannedForkName": "immortal3180-Project_RPG"
+  },
+  {
     "id": "beeveelutions-project-starmans",
     "title": "Project Starman",
     "repo": "https://github.com/Beeveelutions/Project-Starmans",
@@ -14960,6 +15207,19 @@
     "syncedFromSource": true
   },
   {
+    "id": "gzqyl-rpgemu-mz",
+    "title": "Project1",
+    "repo": "https://github.com/gzqyl/RPGEmu-MZ",
+    "owner": "gzqyl",
+    "name": "RPGEmu-MZ",
+    "engine": "RPG Maker MZ",
+    "status": "indexed",
+    "discoveredAt": "2026-09-16T10:53:30.292Z",
+    "source": "github-code-search",
+    "sourcePath": "Source Code/index.html",
+    "plannedForkName": "gzqyl-RPGEmu-MZ"
+  },
+  {
     "id": "holywyvern-mv-pixi-upgrade",
     "title": "Project1",
     "repo": "https://github.com/holywyvern/mv-pixi-upgrade",
@@ -15165,6 +15425,19 @@
     "invalidReason": "RPG Maker structure is incomplete near level1/project/index.html.",
     "deletedAt": "2026-06-15T23:41:25.893Z",
     "validationScore": 60
+  },
+  {
+    "id": "safmica-rpg-maker-test",
+    "title": "Project1",
+    "repo": "https://github.com/Safmica/rpg_maker_test",
+    "owner": "Safmica",
+    "name": "rpg_maker_test",
+    "engine": "RPG Maker MZ",
+    "status": "indexed",
+    "discoveredAt": "2026-09-16T10:53:30.292Z",
+    "source": "github-code-search",
+    "sourcePath": "index.html",
+    "plannedForkName": "Safmica-rpg_maker_test"
   },
   {
     "id": "stuocs-pequejrpg",
@@ -16192,6 +16465,19 @@
     "processedHeadSha": "33ffea55ba64d6d8c2c28b0ef0213c0a77567cae"
   },
   {
+    "id": "homestrife-retrofantasy",
+    "title": "Retro Fantasy",
+    "repo": "https://github.com/Homestrife/RetroFantasy",
+    "owner": "Homestrife",
+    "name": "RetroFantasy",
+    "engine": "RPG Maker MZ",
+    "status": "indexed",
+    "discoveredAt": "2026-09-16T10:53:30.292Z",
+    "source": "github-code-search",
+    "sourcePath": "index.html",
+    "plannedForkName": "Homestrife-RetroFantasy"
+  },
+  {
     "id": "retrom-project-retrom",
     "title": "Retrom isolation harness",
     "repo": "https://github.com/retrom-project/retrom",
@@ -16997,6 +17283,19 @@
     "syncedFromSource": true
   },
   {
+    "id": "fcv17-secret-gpt",
+    "title": "secret-gpt",
+    "repo": "https://github.com/FCV17/secret-gpt",
+    "owner": "FCV17",
+    "name": "secret-gpt",
+    "engine": "RPG Maker MZ",
+    "status": "indexed",
+    "discoveredAt": "2026-09-16T10:53:30.292Z",
+    "source": "github-code-search",
+    "sourcePath": "index.html",
+    "plannedForkName": "FCV17-secret-gpt"
+  },
+  {
     "id": "zkrejcov-rmmv-plugins",
     "title": "SecretPassageDemo",
     "repo": "https://github.com/zkrejcov/rmmv-plugins",
@@ -17530,6 +17829,19 @@
     "sourceHeadSha": "bdc4c66877f5909aa55a3f59c3a3a798c8719493",
     "processedHeadSha": "f1d1039138ba6c37d60a44f886e62816df8db559",
     "syncedFromSource": true
+  },
+  {
+    "id": "00due-rupuauto-game",
+    "title": "Slumberer's Universe",
+    "repo": "https://github.com/00due/rupuauto-game",
+    "owner": "00due",
+    "name": "rupuauto-game",
+    "engine": "RPG Maker MZ",
+    "status": "indexed",
+    "discoveredAt": "2026-09-16T10:53:30.292Z",
+    "source": "github-code-search",
+    "sourcePath": "index.html",
+    "plannedForkName": "00due-rupuauto-game"
   },
   {
     "id": "doamaster-gameoff2022tss",
@@ -18372,6 +18684,19 @@
     "syncedFromSource": true
   },
   {
+    "id": "kittenception-kbfkwfkwbfwk",
+    "title": "Test for game concept",
+    "repo": "https://github.com/Kittenception/kbfkwfkwbfwk",
+    "owner": "Kittenception",
+    "name": "kbfkwfkwbfwk",
+    "engine": "RPG Maker MZ",
+    "status": "indexed",
+    "discoveredAt": "2026-09-16T10:53:30.292Z",
+    "source": "github-code-search",
+    "sourcePath": "index.html",
+    "plannedForkName": "Kittenception-kbfkwfkwbfwk"
+  },
+  {
     "id": "scringly-testquest",
     "title": "Test Quest",
     "repo": "https://github.com/scringly/TestQuest",
@@ -18521,6 +18846,19 @@
     "sourceHeadSha": "6f734719ac159f5608605fd66eccca87485093a7",
     "processedHeadSha": "dbf68b8ca82299f31bd03838026494c0f1129556",
     "syncedFromSource": true
+  },
+  {
+    "id": "teritaris-tenxym-en",
+    "title": "That Time I Got Reincarnated in another world, fiat currency is XYM",
+    "repo": "https://github.com/teritaris/tenxym_en",
+    "owner": "teritaris",
+    "name": "tenxym_en",
+    "engine": "RPG Maker MZ",
+    "status": "indexed",
+    "discoveredAt": "2026-09-16T10:53:30.292Z",
+    "source": "github-code-search",
+    "sourcePath": "index.html",
+    "plannedForkName": "teritaris-tenxym_en"
   },
   {
     "id": "nuyykatazou-theamazonia",
@@ -18833,6 +19171,19 @@
     "sourceHeadSha": "3c31a0502976ac78a9412c9acd68e7b94fed20a9",
     "processedHeadSha": "747323213b8d163623a62b1f2ae231e1b83b2252",
     "syncedFromSource": true
+  },
+  {
+    "id": "jadamase-biology",
+    "title": "The Immune System",
+    "repo": "https://github.com/JadaMase/Biology",
+    "owner": "JadaMase",
+    "name": "Biology",
+    "engine": "RPG Maker MZ",
+    "status": "indexed",
+    "discoveredAt": "2026-09-16T10:53:30.292Z",
+    "source": "github-code-search",
+    "sourcePath": "index.html",
+    "plannedForkName": "JadaMase-Biology"
   },
   {
     "id": "bintangfauzan-the-letter",
@@ -20141,6 +20492,19 @@
     "processedHeadSha": "4d04ad161eb81707f1d3e1d65d0760a532fad86e"
   },
   {
+    "id": "ledouzy-wacchorror2",
+    "title": "Waccland Horror 2",
+    "repo": "https://github.com/Ledouzy/WaccHorror2",
+    "owner": "Ledouzy",
+    "name": "WaccHorror2",
+    "engine": "RPG Maker MZ",
+    "status": "indexed",
+    "discoveredAt": "2026-09-16T10:53:30.292Z",
+    "source": "github-code-search",
+    "sourcePath": "index.html",
+    "plannedForkName": "Ledouzy-WaccHorror2"
+  },
+  {
     "id": "vladimirmarduk-wake",
     "title": "Wake",
     "repo": "https://github.com/vladimirmarduk/wake",
@@ -20377,6 +20741,19 @@
     "sourceHeadSha": "883441f8c3ffdf3f059f876839ceaea96eb65dc1",
     "processedHeadSha": "74f694369ba3fdff5328e92a8f323ce128d16823",
     "syncedFromSource": true
+  },
+  {
+    "id": "plumelumyn-you-gonna-have-a-genophobia",
+    "title": "You gonna have a Genophobia",
+    "repo": "https://github.com/PlumeLumyn/You-gonna-have-a-Genophobia",
+    "owner": "PlumeLumyn",
+    "name": "You-gonna-have-a-Genophobia",
+    "engine": "RPG Maker MZ",
+    "status": "indexed",
+    "discoveredAt": "2026-09-16T10:53:30.292Z",
+    "source": "github-code-search",
+    "sourcePath": "index.html",
+    "plannedForkName": "PlumeLumyn-You-gonna-have-a-Genophobia"
   },
   {
     "id": "frogteapot-your-turn-to-die",
