@@ -801,6 +801,19 @@
     "validationScore": 0
   },
   {
+    "id": "neonnoiru-drkxq",
+    "title": "冬日狂想曲 v1.04",
+    "repo": "https://github.com/NeonNoirU/drkxq",
+    "owner": "NeonNoirU",
+    "name": "drkxq",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "discoveredAt": "2026-09-18T20:26:38.152Z",
+    "source": "github-code-search",
+    "sourcePath": "www/index.html",
+    "plannedForkName": "NeonNoirU-drkxq"
+  },
+  {
     "id": "cbginoshoo-touhou-isouhu",
     "title": "東方異想符",
     "repo": "https://github.com/cbginoshoo/Touhou_Isouhu",
@@ -7650,6 +7663,19 @@
     "checkedAt": "2026-09-16T11:03:35.599Z",
     "forkName": "gmshelf-truffled",
     "invalidReason": "Repository has 504 HTML files, exceeding the 500 file limit."
+  },
+  {
+    "id": "goattech-42-nebulacdn",
+    "title": "DEAD PLATE",
+    "repo": "https://github.com/GoatTech-42/NEBULACDN",
+    "owner": "GoatTech-42",
+    "name": "NEBULACDN",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "discoveredAt": "2026-09-18T20:26:38.152Z",
+    "source": "github-code-search",
+    "sourcePath": "games/deadplate.html",
+    "plannedForkName": "GoatTech-42-NEBULACDN"
   },
   {
     "id": "googledrive123-googledrive123-github-io",
@@ -16182,6 +16208,19 @@
     "invalidReason": "RPG Maker structure is incomplete near index.html.",
     "deletedAt": "2026-06-16T12:18:23.019Z",
     "validationScore": 53
+  },
+  {
+    "id": "luanazarpellon-omoriptbr",
+    "title": "OMORI",
+    "repo": "https://github.com/LuanaZarpellon/omoriptbr",
+    "owner": "LuanaZarpellon",
+    "name": "omoriptbr",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "discoveredAt": "2026-09-18T20:26:38.152Z",
+    "source": "github-code-search",
+    "sourcePath": "www/index.html",
+    "plannedForkName": "LuanaZarpellon-omoriptbr"
   },
   {
     "id": "luisofficialbusiness-afk-prty-source-code",
