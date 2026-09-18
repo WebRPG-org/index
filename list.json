@@ -811,7 +811,6 @@
     "discoveredAt": "2026-09-18T20:26:38.152Z",
     "source": "github-code-search",
     "sourcePath": "www/index.html",
-    "plannedForkName": "NeonNoirU-drkxq",
     "checkedAt": "2026-09-18T20:34:50.620Z",
     "forkName": "NeonNoirU-drkxq",
     "invalidReason": "GitHub returned a truncated recursive tree."
@@ -7699,7 +7698,6 @@
     "discoveredAt": "2026-09-18T20:26:38.152Z",
     "source": "github-code-search",
     "sourcePath": "games/deadplate.html",
-    "plannedForkName": "GoatTech-42-NEBULACDN",
     "checkedAt": "2026-09-18T20:34:52.804Z",
     "forkName": "GoatTech-42-NEBULACDN",
     "invalidReason": "Repository has 2997 HTML files, exceeding the 500 file limit."
@@ -16278,7 +16276,6 @@
     "discoveredAt": "2026-09-18T20:26:38.152Z",
     "source": "github-code-search",
     "sourcePath": "www/index.html",
-    "plannedForkName": "LuanaZarpellon-omoriptbr",
     "checkedAt": "2026-09-18T20:34:52.022Z",
     "forkName": "LuanaZarpellon-omoriptbr",
     "invalidReason": "No RPG Maker MV/MZ HTML entry point loading js/main.js was found.",
