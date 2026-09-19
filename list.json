@@ -16387,7 +16387,6 @@
     "discoveredAt": "2026-09-19T10:22:16.234Z",
     "source": "github-code-search",
     "sourcePath": "public/games/OMORI.html",
-    "plannedForkName": "meowcat767-spacecatgames",
     "checkedAt": "2026-09-19T10:30:15.296Z",
     "forkName": "meowcat767-spacecatgames",
     "invalidReason": "No RPG Maker MV/MZ HTML entry point loading js/main.js was found.",
