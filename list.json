@@ -16344,6 +16344,19 @@
     "validationScore": 45
   },
   {
+    "id": "meowcat767-spacecatgames",
+    "title": "OMORI",
+    "repo": "https://github.com/meowcat767/spacecatgames",
+    "owner": "meowcat767",
+    "name": "spacecatgames",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "discoveredAt": "2026-09-19T10:22:16.234Z",
+    "source": "github-code-search",
+    "sourcePath": "public/games/OMORI.html",
+    "plannedForkName": "meowcat767-spacecatgames"
+  },
+  {
     "id": "mikerotchburnes103-scholaris-learning",
     "title": "OMORI",
     "repo": "https://github.com/mikerotchburnes103/scholaris-learning",
