@@ -18619,6 +18619,19 @@
     "validationScore": 50
   },
   {
+    "id": "parsl-coding-rpg-maker-html",
+    "title": "Project1",
+    "repo": "https://github.com/ParSL-coding/RPG-Maker-Html",
+    "owner": "ParSL-coding",
+    "name": "RPG-Maker-Html",
+    "engine": "RPG Maker MZ",
+    "status": "indexed",
+    "discoveredAt": "2026-09-20T10:41:29.213Z",
+    "source": "github-code-search",
+    "sourcePath": "project/index.html",
+    "plannedForkName": "ParSL-coding-RPG-Maker-Html"
+  },
+  {
     "id": "redpillphil-testeroni",
     "title": "Project1",
     "repo": "https://github.com/RedPillPhil/testeroni",
