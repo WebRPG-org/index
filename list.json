@@ -12539,6 +12539,19 @@
     "processedHeadSha": "9efa5e452070827ab9659d5b05d20a7f108a240d"
   },
   {
+    "id": "prismdev3-chalkle",
+    "title": "IN STARS AND TIME v1.0.6.3",
+    "repo": "https://github.com/PrismDev3/chalkle",
+    "owner": "PrismDev3",
+    "name": "chalkle",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "discoveredAt": "2026-09-21T23:49:49.487Z",
+    "source": "github-code-search",
+    "sourcePath": "gn/667-fixes2.html",
+    "plannedForkName": "PrismDev3-chalkle"
+  },
+  {
     "id": "therealmythdeveloper-buildingblox",
     "title": "IN STARS AND TIME v1.0.6.3",
     "repo": "https://github.com/TheRealMythDeveloper/BuildingBlox",
@@ -16103,7 +16116,6 @@
     "discoveredAt": "2026-09-21T19:51:56.968Z",
     "source": "github-code-search",
     "sourcePath": "public/truffled/gamefile/truffled-omori-webport-335.html",
-    "plannedForkName": "axk-coder-void",
     "checkedAt": "2026-09-21T19:59:47.182Z",
     "forkName": "axk-coder-void",
     "invalidReason": "Repository has 910 HTML files, exceeding the 500 file limit."
@@ -16812,7 +16824,6 @@
     "discoveredAt": "2026-09-21T19:51:56.968Z",
     "source": "github-code-search",
     "sourcePath": "Games/OMORI.html",
-    "plannedForkName": "Shinobiscripter-NebulaHub-2",
     "checkedAt": "2026-09-21T19:59:47.318Z",
     "forkName": "Shinobiscripter-NebulaHub-2",
     "invalidReason": "No RPG Maker MV/MZ HTML entry point loading js/main.js was found.",
