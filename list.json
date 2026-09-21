@@ -16073,6 +16073,19 @@
     "validationScore": 45
   },
   {
+    "id": "axk-coder-void",
+    "title": "OMORI",
+    "repo": "https://github.com/axk-coder/void",
+    "owner": "axk-coder",
+    "name": "void",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "discoveredAt": "2026-09-21T19:51:56.968Z",
+    "source": "github-code-search",
+    "sourcePath": "public/truffled/gamefile/truffled-omori-webport-335.html",
+    "plannedForkName": "axk-coder-void"
+  },
+  {
     "id": "brooklynruff-d",
     "title": "OMORI",
     "repo": "https://github.com/brooklynruff/d",
@@ -16764,6 +16777,19 @@
     "invalidReason": "RPG Maker structure is incomplete near games/Indie/OMORI.html.",
     "deletedAt": "2026-06-15T20:59:05.723Z",
     "validationScore": 45
+  },
+  {
+    "id": "shinobiscripter-nebulahub-2",
+    "title": "OMORI",
+    "repo": "https://github.com/Shinobiscripter/NebulaHub-2",
+    "owner": "Shinobiscripter",
+    "name": "NebulaHub-2",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "discoveredAt": "2026-09-21T19:51:56.968Z",
+    "source": "github-code-search",
+    "sourcePath": "Games/OMORI.html",
+    "plannedForkName": "Shinobiscripter-NebulaHub-2"
   },
   {
     "id": "sigmiliarity-web",
