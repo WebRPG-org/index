@@ -5470,6 +5470,19 @@
     "validationScore": 45
   },
   {
+    "id": "novafriendly-novav3w",
+    "title": "BLOODMONEY!",
+    "repo": "https://github.com/Novafriendly/novav3w",
+    "owner": "Novafriendly",
+    "name": "novav3w",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "discoveredAt": "2026-09-22T16:20:10.283Z",
+    "source": "github-code-search",
+    "sourcePath": "math-tutors-main/454-f.html",
+    "plannedForkName": "Novafriendly-novav3w"
+  },
+  {
     "id": "oriera25-unblocked-games",
     "title": "BLOODMONEY!",
     "repo": "https://github.com/oriera25/unblocked-games",
