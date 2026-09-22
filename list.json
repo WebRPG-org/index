@@ -5485,7 +5485,6 @@
     "discoveredAt": "2026-09-22T16:20:10.283Z",
     "source": "github-code-search",
     "sourcePath": "math-tutors-main/454-f.html",
-    "plannedForkName": "Novafriendly-novav3w",
     "checkedAt": "2026-09-22T16:27:58.558Z",
     "forkName": "Novafriendly-novav3w",
     "invalidReason": "Repository has 1737 HTML files, exceeding the 500 file limit."
@@ -6694,6 +6693,19 @@
     "coverPath": "cover.png",
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/MSC-CQU-cba/ served an RPG Maker entry point and its startup resources"
+  },
+  {
+    "id": "acrazyquasar-ugs-games",
+    "title": "Cold Front",
+    "repo": "https://github.com/aCrazyQuasar/ugs-games",
+    "owner": "aCrazyQuasar",
+    "name": "ugs-games",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "discoveredAt": "2026-09-22T20:55:07.801Z",
+    "source": "github-code-search",
+    "sourcePath": "html5-games/clcoldfront.html",
+    "plannedForkName": "aCrazyQuasar-ugs-games"
   },
   {
     "id": "bubbls-ugs-singlefile",
