@@ -598,11 +598,10 @@
     "source": "github-code-search",
     "sourcePath": "游戏/测试/index.html",
     "forkName": "shuangboxu-Harry-Potter-Game",
-    "checkedAt": "2026-09-17T21:14:20.742Z",
+    "checkedAt": "2026-09-23T21:17:53.256Z",
     "pagesUrl": "https://webrpg.org/shuangboxu-Harry-Potter-Game/",
     "entryPath": "index.html",
     "coverPath": "cover.png",
-    "verificationDeferred": true,
     "cover": "https://webrpg.org/shuangboxu-Harry-Potter-Game/cover.png",
     "validationScore": 108,
     "totalSize": 501601,
@@ -610,7 +609,9 @@
     "sourceRepo": "shuangboxu/Harry-Potter-Game",
     "sourceDefaultBranch": "main",
     "sourceHeadSha": "3ad3075616d96091fb1b756e4cee823bac449801",
-    "processedHeadSha": "1b2a517f660ba79bd40cb24a3fc257a4fe4302a4"
+    "processedHeadSha": "1b2a517f660ba79bd40cb24a3fc257a4fe4302a4",
+    "reachable": true,
+    "reachabilityDetail": "https://webrpg.org/shuangboxu-Harry-Potter-Game/ served an RPG Maker entry point and its startup resources"
   },
   {
     "id": "rabimew-rabimew-github-io",
@@ -1902,11 +1903,10 @@
     "source": "github-code-search",
     "sourcePath": "sinai/index.html",
     "forkName": "shunufy-shunufy.github.io",
-    "checkedAt": "2026-09-17T21:14:31.578Z",
+    "checkedAt": "2026-09-23T21:17:56.215Z",
     "pagesUrl": "https://webrpg.org/shunufy-shunufy.github.io/",
     "entryPath": "index.html",
     "coverPath": "cover.png",
-    "verificationDeferred": true,
     "cover": "https://webrpg.org/shunufy-shunufy.github.io/cover.png",
     "validationScore": 108,
     "totalSize": 77939,
@@ -1914,7 +1914,9 @@
     "sourceRepo": "shunufy/shunufy.github.io",
     "sourceDefaultBranch": "main",
     "sourceHeadSha": "85d96e303c7a5e589e6e2c580d77a83cd3b5e0da",
-    "processedHeadSha": "164950b074fba54d6168cb1c1de436a581d4065a"
+    "processedHeadSha": "164950b074fba54d6168cb1c1de436a581d4065a",
+    "reachable": true,
+    "reachabilityDetail": "https://webrpg.org/shunufy-shunufy.github.io/ served an RPG Maker entry point and its startup resources"
   },
   {
     "id": "199023-pixel-aooni2016",
@@ -2993,7 +2995,7 @@
     "discoveredAt": "2026-09-16T10:53:30.292Z",
     "source": "github-code-search",
     "sourcePath": "game/rock/index.html",
-    "checkedAt": "2026-09-17T21:12:21.098Z",
+    "checkedAt": "2026-09-23T21:17:03.340Z",
     "forkName": "KokitaPC-kokitapc.github.io",
     "pagesUrl": "https://webrpg.org/KokitaPC-kokitapc.github.io/",
     "entryPath": "index.html",
@@ -3001,12 +3003,13 @@
     "verificationDeferred": true,
     "cover": "https://webrpg.org/KokitaPC-kokitapc.github.io/cover.png",
     "validationScore": 108,
-    "totalSize": 21124,
+    "totalSize": 21126,
     "dataSize": 1017723,
     "sourceRepo": "KokitaPC/kokitapc.github.io",
     "sourceDefaultBranch": "main",
-    "sourceHeadSha": "36513cc6c2b2653f3ce46e55790cd5cf3fb583e5",
-    "processedHeadSha": "0611fc797404afcd799ed3385c1bcfa14978dc05"
+    "sourceHeadSha": "9e365e4988e5b9fd4ff237f04e5fcc20b504a1cb",
+    "processedHeadSha": "c16f3b40fff4bb7f20d7e6713ee4a4f6722ec91c",
+    "syncedFromSource": true
   },
   {
     "id": "artpowernewmedia-artpowernewmedia-github-io",
@@ -3647,12 +3650,11 @@
     "discoveredAt": "2026-09-16T10:53:30.292Z",
     "source": "github-code-search",
     "sourcePath": "abyssawakening/index.html",
-    "checkedAt": "2026-09-17T21:09:54.165Z",
+    "checkedAt": "2026-09-23T21:16:08.808Z",
     "forkName": "Elrias-elrias-lab",
     "pagesUrl": "https://webrpg.org/Elrias-elrias-lab/",
     "entryPath": "index.html",
     "coverPath": "cover.png",
-    "verificationDeferred": true,
     "cover": "https://webrpg.org/Elrias-elrias-lab/cover.png",
     "validationScore": 108,
     "totalSize": 472530,
@@ -3660,7 +3662,9 @@
     "sourceRepo": "Elrias/elrias-lab",
     "sourceDefaultBranch": "main",
     "sourceHeadSha": "ae3d37b28c5a10d9a9bf7b6b4965e53cfbbda59f",
-    "processedHeadSha": "0617cb4b4d6f382b4ed0fafc5cd9bde47b5c8d99"
+    "processedHeadSha": "0617cb4b4d6f382b4ed0fafc5cd9bde47b5c8d99",
+    "reachable": true,
+    "reachabilityDetail": "https://webrpg.org/Elrias-elrias-lab/ served an RPG Maker entry point and its startup resources"
   },
   {
     "id": "paraztekhitr-debug-adventure-call",
@@ -6251,11 +6255,10 @@
     "source": "github-code-search",
     "sourcePath": "index.html",
     "forkName": "selena-flores-game",
-    "checkedAt": "2026-09-17T21:14:14.410Z",
+    "checkedAt": "2026-09-23T21:17:49.293Z",
     "pagesUrl": "https://webrpg.org/selena-flores-game/",
     "entryPath": "index.html",
     "coverPath": "cover.png",
-    "verificationDeferred": true,
     "cover": "https://webrpg.org/selena-flores-game/cover.png",
     "validationScore": 108,
     "totalSize": 156130,
@@ -6263,7 +6266,9 @@
     "sourceRepo": "selena-flores/game",
     "sourceDefaultBranch": "main",
     "sourceHeadSha": "65f8e5fc8b5bd76b4be1e6ab36d6f46f9ea60b53",
-    "processedHeadSha": "6dacf49947a6771eafd19ed2d553f6f8716cfabe"
+    "processedHeadSha": "6dacf49947a6771eafd19ed2d553f6f8716cfabe",
+    "reachable": true,
+    "reachabilityDetail": "https://webrpg.org/selena-flores-game/ served an RPG Maker entry point and its startup resources"
   },
   {
     "id": "cosmiccatacorn-ahjkjh",
@@ -6463,12 +6468,11 @@
     "discoveredAt": "2026-09-16T10:53:30.292Z",
     "source": "github-code-search",
     "sourcePath": "game/web/index.html",
-    "checkedAt": "2026-09-17T21:12:43.477Z",
+    "checkedAt": "2026-09-23T21:17:08.481Z",
     "forkName": "koohdev-chronicles_of_arithmos",
     "pagesUrl": "https://webrpg.org/koohdev-chronicles_of_arithmos/",
     "entryPath": "index.html",
     "coverPath": "cover.png",
-    "verificationDeferred": true,
     "cover": "https://webrpg.org/koohdev-chronicles_of_arithmos/cover.png",
     "validationScore": 108,
     "totalSize": 197925,
@@ -6476,7 +6480,9 @@
     "sourceRepo": "koohdev/chronicles_of_arithmos",
     "sourceDefaultBranch": "master",
     "sourceHeadSha": "9865d6ded435abee63b07f2cf6e84c6f75ef04d7",
-    "processedHeadSha": "417c0832bdf54acbea3219ebbfeda33a2d623d3d"
+    "processedHeadSha": "417c0832bdf54acbea3219ebbfeda33a2d623d3d",
+    "reachable": true,
+    "reachabilityDetail": "https://webrpg.org/koohdev-chronicles_of_arithmos/ served an RPG Maker entry point and its startup resources"
   },
   {
     "id": "hackerman998-spacejam",
@@ -6811,11 +6817,10 @@
     "source": "github-code-search",
     "sourcePath": "www/index.html",
     "forkName": "shayderrr-idkugssuggestion",
-    "checkedAt": "2026-09-17T21:14:20.206Z",
+    "checkedAt": "2026-09-23T21:17:51.029Z",
     "pagesUrl": "https://webrpg.org/shayderrr-idkugssuggestion/",
     "entryPath": "index.html",
     "coverPath": "cover.png",
-    "verificationDeferred": true,
     "cover": "https://webrpg.org/shayderrr-idkugssuggestion/cover.png",
     "validationScore": 108,
     "totalSize": 434456,
@@ -6823,7 +6828,9 @@
     "sourceRepo": "shayderrr/idkugssuggestion",
     "sourceDefaultBranch": "main",
     "sourceHeadSha": "ec34844ada90ae2a936ec57337c1b871be5fa8a8",
-    "processedHeadSha": "c74673c98e4a9637b45381e7d587b24ead41f922"
+    "processedHeadSha": "c74673c98e4a9637b45381e7d587b24ead41f922",
+    "reachable": true,
+    "reachabilityDetail": "https://webrpg.org/shayderrr-idkugssuggestion/ served an RPG Maker entry point and its startup resources"
   },
   {
     "id": "taekfighter-google-drive-hub",
@@ -7805,12 +7812,11 @@
     "discoveredAt": "2026-09-16T10:53:30.292Z",
     "source": "github-code-search",
     "sourcePath": "games/Das_Land_mit_den_Löchern/index.html",
-    "checkedAt": "2026-09-17T21:13:31.305Z",
+    "checkedAt": "2026-09-23T21:17:31.380Z",
     "forkName": "PixelWelt-DeepSpaceMainzGameVault",
     "pagesUrl": "https://webrpg.org/PixelWelt-DeepSpaceMainzGameVault/",
     "entryPath": "index.html",
     "coverPath": "cover.png",
-    "verificationDeferred": true,
     "cover": "https://webrpg.org/PixelWelt-DeepSpaceMainzGameVault/cover.png",
     "validationScore": 108,
     "totalSize": 17606,
@@ -7818,7 +7824,9 @@
     "sourceRepo": "PixelWelt/DeepSpaceMainzGameVault",
     "sourceDefaultBranch": "main",
     "sourceHeadSha": "e40da38fb3808b3309d6c45df1427e565ad3d3f9",
-    "processedHeadSha": "932862ebca5eb2d811369b0eeb1f76727acb5598"
+    "processedHeadSha": "932862ebca5eb2d811369b0eeb1f76727acb5598",
+    "reachable": true,
+    "reachabilityDetail": "https://webrpg.org/PixelWelt-DeepSpaceMainzGameVault/ served an RPG Maker entry point and its startup resources"
   },
   {
     "id": "sheikhsafwan-daybreak",
@@ -8608,7 +8616,7 @@
     "discoveredAt": "2026-09-16T10:53:30.292Z",
     "source": "github-code-search",
     "sourcePath": "devrelcon-tokyo-quest/index.html",
-    "checkedAt": "2026-09-17T21:10:27.035Z",
+    "checkedAt": "2026-09-23T21:16:28.247Z",
     "forkName": "goofmint-devrelcon-tokyo-2021",
     "pagesUrl": "https://webrpg.org/goofmint-devrelcon-tokyo-2021/",
     "entryPath": "index.html",
@@ -8621,7 +8629,10 @@
     "sourceRepo": "goofmint/devrelcon-tokyo-2021",
     "sourceDefaultBranch": "main",
     "sourceHeadSha": "5a70a014ef1f579fbe342cabb9849099548ce9fe",
-    "processedHeadSha": "9ee9c0286cddc289c86753ea85d60f7fb7bce53c"
+    "processedHeadSha": "9ee9c0286cddc289c86753ea85d60f7fb7bce53c",
+    "lastCheckError": "Deployed entry is not reachable: https://webrpg.org/goofmint-devrelcon-tokyo-2021/ responded with HTTP 404",
+    "consecutiveFailures": 1,
+    "lastFailedAt": "2026-09-23T21:16:28.247Z"
   },
   {
     "id": "kendid29-afterrain",
@@ -9331,12 +9342,11 @@
     "discoveredAt": "2026-09-16T10:53:30.292Z",
     "source": "github-code-search",
     "sourcePath": "Assets/03_Sprite/BackGround/Earth Map/index.html",
-    "checkedAt": "2026-09-17T21:10:03.484Z",
+    "checkedAt": "2026-09-23T21:16:22.406Z",
     "forkName": "gominsu08-GainProject",
     "pagesUrl": "https://webrpg.org/gominsu08-GainProject/",
     "entryPath": "index.html",
     "coverPath": "cover.png",
-    "verificationDeferred": true,
     "cover": "https://webrpg.org/gominsu08-GainProject/cover.png",
     "validationScore": 108,
     "totalSize": 140329,
@@ -9344,7 +9354,9 @@
     "sourceRepo": "gominsu08/GainProject",
     "sourceDefaultBranch": "main",
     "sourceHeadSha": "f8c0b090ad9ab56b8148863e3cfb531c16bbf4b5",
-    "processedHeadSha": "a59cea50e12ef720070b6d9bfbf97bc746a789f7"
+    "processedHeadSha": "a59cea50e12ef720070b6d9bfbf97bc746a789f7",
+    "reachable": true,
+    "reachabilityDetail": "https://webrpg.org/gominsu08-GainProject/ served an RPG Maker entry point and its startup resources"
   },
   {
     "id": "horke-root-echoofdespire",
@@ -10524,17 +10536,18 @@
     "source": "github-code-search",
     "sourcePath": "index.html",
     "forkName": "sity06-for-the-world-updated",
-    "checkedAt": "2026-09-17T21:15:05.971Z",
+    "checkedAt": "2026-09-23T21:18:12.945Z",
     "pagesUrl": "https://webrpg.org/sity06-for-the-world-updated/",
     "entryPath": "index.html",
-    "verificationDeferred": true,
     "validationScore": 108,
     "totalSize": 30676,
     "dataSize": 829327,
     "sourceRepo": "sity06/for-the-world-updated",
     "sourceDefaultBranch": "main",
     "sourceHeadSha": "89112b6fb513b3c82363d19ed86c0d3d2a5db4f2",
-    "processedHeadSha": "db404e92893df06d86edbb8ec977bac0c1e43fd1"
+    "processedHeadSha": "db404e92893df06d86edbb8ec977bac0c1e43fd1",
+    "reachable": true,
+    "reachabilityDetail": "https://webrpg.org/sity06-for-the-world-updated/ served an RPG Maker entry point and its startup resources"
   },
   {
     "id": "manndevani-forgotten-weekend-dev",
@@ -11414,12 +11427,11 @@
     "discoveredAt": "2026-09-16T10:53:30.292Z",
     "source": "github-code-search",
     "sourcePath": "game/index.html",
-    "checkedAt": "2026-09-17T23:38:45.960Z",
+    "checkedAt": "2026-09-23T21:18:36.220Z",
     "forkName": "28MSnyder-28MSnyder.github.io",
     "pagesUrl": "https://webrpg.org/28MSnyder-28MSnyder.github.io/",
     "entryPath": "index.html",
     "coverPath": "cover.png",
-    "verificationDeferred": true,
     "cover": "https://webrpg.org/28MSnyder-28MSnyder.github.io/cover.png",
     "validationScore": 108,
     "totalSize": 95004,
@@ -11427,7 +11439,9 @@
     "sourceRepo": "28MSnyder/28MSnyder.github.io",
     "sourceDefaultBranch": "main",
     "sourceHeadSha": "a380805a2b1c8a7dcfed8d47951489d6bd65b834",
-    "processedHeadSha": "88e8f507a58267caf13f6d7eff98d907b915b02b"
+    "processedHeadSha": "88e8f507a58267caf13f6d7eff98d907b915b02b",
+    "reachable": true,
+    "reachabilityDetail": "https://webrpg.org/28MSnyder-28MSnyder.github.io/ served an RPG Maker entry point and its startup resources"
   },
   {
     "id": "28diezel-28diezel-github-io",
@@ -11625,12 +11639,11 @@
     "discoveredAt": "2026-09-16T10:53:30.292Z",
     "source": "github-code-search",
     "sourcePath": "more/Get-To-School-6/index.html",
-    "checkedAt": "2026-09-17T23:38:43.376Z",
+    "checkedAt": "2026-09-23T21:18:19.644Z",
     "forkName": "28lharnish-28lharnish.github.io",
     "pagesUrl": "https://webrpg.org/28lharnish-28lharnish.github.io/",
     "entryPath": "index.html",
     "coverPath": "cover.png",
-    "verificationDeferred": true,
     "cover": "https://webrpg.org/28lharnish-28lharnish.github.io/cover.png",
     "validationScore": 108,
     "totalSize": 131933,
@@ -11638,7 +11651,9 @@
     "sourceRepo": "28lharnish/28lharnish.github.io",
     "sourceDefaultBranch": "main",
     "sourceHeadSha": "499adb1341cf2a77bb03745a70d86e032a0779f8",
-    "processedHeadSha": "86d228db9cf26627fa5aacc5599554dce53961be"
+    "processedHeadSha": "86d228db9cf26627fa5aacc5599554dce53961be",
+    "reachable": true,
+    "reachabilityDetail": "https://webrpg.org/28lharnish-28lharnish.github.io/ served an RPG Maker entry point and its startup resources"
   },
   {
     "id": "riley-girgenti-riley-girgenti-github-io",
@@ -11677,12 +11692,11 @@
     "discoveredAt": "2026-09-16T10:53:30.292Z",
     "source": "github-code-search",
     "sourcePath": "GetToSchool7/index.html",
-    "checkedAt": "2026-09-17T21:08:39.349Z",
+    "checkedAt": "2026-09-23T21:15:48.850Z",
     "forkName": "28pmancenido-sys-28pmancenido-sys.github.io",
     "pagesUrl": "https://webrpg.org/28pmancenido-sys-28pmancenido-sys.github.io/",
     "entryPath": "index.html",
     "coverPath": "cover.png",
-    "verificationDeferred": true,
     "cover": "https://webrpg.org/28pmancenido-sys-28pmancenido-sys.github.io/cover.png",
     "validationScore": 108,
     "totalSize": 54523,
@@ -11690,7 +11704,9 @@
     "sourceRepo": "28pmancenido-sys/28pmancenido-sys.github.io",
     "sourceDefaultBranch": "main",
     "sourceHeadSha": "e4522e11768d2669d9a57d1f82add3571de03a54",
-    "processedHeadSha": "316980cc19bdaf5a006baaa2a04df3b0c8eb3ff8"
+    "processedHeadSha": "316980cc19bdaf5a006baaa2a04df3b0c8eb3ff8",
+    "reachable": true,
+    "reachabilityDetail": "https://webrpg.org/28pmancenido-sys-28pmancenido-sys.github.io/ served an RPG Maker entry point and its startup resources"
   },
   {
     "id": "29sdavis-29sdavis-github-io",
@@ -11703,12 +11719,11 @@
     "discoveredAt": "2026-09-16T10:53:30.292Z",
     "source": "github-code-search",
     "sourcePath": "GetToSchool7/index.html",
-    "checkedAt": "2026-09-17T21:08:56.128Z",
+    "checkedAt": "2026-09-23T21:15:47.680Z",
     "forkName": "29sdavis-29sdavis.github.io",
     "pagesUrl": "https://webrpg.org/29sdavis-29sdavis.github.io/",
     "entryPath": "index.html",
     "coverPath": "cover.png",
-    "verificationDeferred": true,
     "cover": "https://webrpg.org/29sdavis-29sdavis.github.io/cover.png",
     "validationScore": 108,
     "totalSize": 126700,
@@ -11716,7 +11731,9 @@
     "sourceRepo": "29sdavis/29sdavis.github.io",
     "sourceDefaultBranch": "main",
     "sourceHeadSha": "937634a0c314b92b6a4dcd9296f39ad8480633eb",
-    "processedHeadSha": "e38b8ecebbe654ecab0837341e069e6dc1a8777a"
+    "processedHeadSha": "e38b8ecebbe654ecab0837341e069e6dc1a8777a",
+    "reachable": true,
+    "reachabilityDetail": "https://webrpg.org/29sdavis-29sdavis.github.io/ served an RPG Maker entry point and its startup resources"
   },
   {
     "id": "angeltheromero-angeltheromero-github-io",
@@ -11751,24 +11768,21 @@
     "owner": "csmith1188",
     "name": "csmith1188.github.io",
     "engine": "RPG Maker MZ",
-    "status": "verified",
+    "status": "invalid_structure",
     "discoveredAt": "2026-09-16T10:53:30.292Z",
     "source": "github-code-search",
     "sourcePath": "GetToSchool7/index.html",
-    "checkedAt": "2026-09-17T21:09:27.843Z",
+    "checkedAt": "2026-09-23T21:16:05.876Z",
     "forkName": "csmith1188-csmith1188.github.io",
-    "pagesUrl": "https://webrpg.org/csmith1188-csmith1188.github.io/",
-    "entryPath": "index.html",
-    "coverPath": "cover.png",
-    "verificationDeferred": true,
-    "cover": "https://webrpg.org/csmith1188-csmith1188.github.io/cover.png",
-    "validationScore": 108,
+    "validationScore": 0,
     "totalSize": 208924,
     "dataSize": 537418,
     "sourceRepo": "csmith1188/csmith1188.github.io",
     "sourceDefaultBranch": "master",
     "sourceHeadSha": "8b5b8d6d9a163d4239ff97bc58d885c4477b8428",
-    "processedHeadSha": "25acecdef8f26f06fab9fa6735b9a995466ca013"
+    "processedHeadSha": "25acecdef8f26f06fab9fa6735b9a995466ca013",
+    "invalidReason": "No RPG Maker MV/MZ HTML entry point loading js/main.js was found.",
+    "deletedAt": "2026-09-23T21:16:09.766Z"
   },
   {
     "id": "thecyanhusky-thecyanhusky-github-io",
@@ -11940,12 +11954,11 @@
     "discoveredAt": "2026-09-16T10:53:30.292Z",
     "source": "github-code-search",
     "sourcePath": "game/index.html",
-    "checkedAt": "2026-09-17T21:10:57.319Z",
+    "checkedAt": "2026-09-23T21:16:35.333Z",
     "forkName": "huangxinyi2626-byte-github_teaching_experiment",
     "pagesUrl": "https://webrpg.org/huangxinyi2626-byte-github_teaching_experiment/",
     "entryPath": "index.html",
     "coverPath": "cover.png",
-    "verificationDeferred": true,
     "cover": "https://webrpg.org/huangxinyi2626-byte-github_teaching_experiment/cover.png",
     "validationScore": 108,
     "totalSize": 32096,
@@ -11953,7 +11966,9 @@
     "sourceRepo": "huangxinyi2626-byte/github_teaching_experiment",
     "sourceDefaultBranch": "main",
     "sourceHeadSha": "68e6365746f0413e5831a20f56ca6b677dd66699",
-    "processedHeadSha": "9bbb5441cbe81d9d1d0654d1435d5459f66c974c"
+    "processedHeadSha": "9bbb5441cbe81d9d1d0654d1435d5459f66c974c",
+    "reachable": true,
+    "reachabilityDetail": "https://webrpg.org/huangxinyi2626-byte-github_teaching_experiment/ served an RPG Maker entry point and its startup resources"
   },
   {
     "id": "rem5462-gition",
@@ -12319,12 +12334,11 @@
     "discoveredAt": "2026-09-16T10:53:30.292Z",
     "source": "github-code-search",
     "sourcePath": "rpg/index.html",
-    "checkedAt": "2026-09-17T21:13:14.586Z",
+    "checkedAt": "2026-09-23T21:17:11.254Z",
     "forkName": "Pear104-hcm202",
     "pagesUrl": "https://webrpg.org/Pear104-hcm202/",
     "entryPath": "index.html",
     "coverPath": "cover.png",
-    "verificationDeferred": true,
     "cover": "https://webrpg.org/Pear104-hcm202/cover.png",
     "validationScore": 108,
     "totalSize": 223844,
@@ -12332,7 +12346,9 @@
     "sourceRepo": "Pear104/hcm202",
     "sourceDefaultBranch": "main",
     "sourceHeadSha": "c6c3639647f1a73a7dbb3ece4c6462ae78ca75dc",
-    "processedHeadSha": "452b2013cccf26dd7d21d55f0880477b062ea303"
+    "processedHeadSha": "452b2013cccf26dd7d21d55f0880477b062ea303",
+    "reachable": true,
+    "reachabilityDetail": "https://webrpg.org/Pear104-hcm202/ served an RPG Maker entry point and its startup resources"
   },
   {
     "id": "merrilynnqm-merrilynnqm-github-io",
@@ -13052,11 +13068,10 @@
     "source": "github-code-search",
     "sourcePath": "index.html",
     "forkName": "SirPacings-IsoIslandRpg",
-    "checkedAt": "2026-09-17T21:14:43.053Z",
+    "checkedAt": "2026-09-23T21:18:09.499Z",
     "pagesUrl": "https://webrpg.org/SirPacings-IsoIslandRpg/",
     "entryPath": "index.html",
     "coverPath": "cover.png",
-    "verificationDeferred": true,
     "cover": "https://webrpg.org/SirPacings-IsoIslandRpg/cover.png",
     "validationScore": 108,
     "totalSize": 388632,
@@ -13064,7 +13079,9 @@
     "sourceRepo": "SirPacings/IsoIslandRpg",
     "sourceDefaultBranch": "main",
     "sourceHeadSha": "3ad155d6326d02d2332e8c4b6e1d1cf1cf8f2a8c",
-    "processedHeadSha": "7dd2a3fca1951cbf3c0760ed01b8bf4eeba36a5b"
+    "processedHeadSha": "7dd2a3fca1951cbf3c0760ed01b8bf4eeba36a5b",
+    "reachable": true,
+    "reachabilityDetail": "https://webrpg.org/SirPacings-IsoIslandRpg/ served an RPG Maker entry point and its startup resources"
   },
   {
     "id": "preuksuksiri-jabs-survival-shooting-system",
@@ -13306,12 +13323,11 @@
     "discoveredAt": "2026-09-16T10:53:30.292Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-09-17T21:14:00.660Z",
+    "checkedAt": "2026-09-23T21:17:30.156Z",
     "forkName": "Raizen884-KamigamiMZ",
     "pagesUrl": "https://webrpg.org/Raizen884-KamigamiMZ/",
     "entryPath": "index.html",
     "coverPath": "cover.png",
-    "verificationDeferred": true,
     "cover": "https://webrpg.org/Raizen884-KamigamiMZ/cover.png",
     "validationScore": 108,
     "totalSize": 1177910,
@@ -13319,7 +13335,9 @@
     "sourceRepo": "Raizen884/KamigamiMZ",
     "sourceDefaultBranch": "master",
     "sourceHeadSha": "acff4edd39e00167b8db388fe3815173024eb2a2",
-    "processedHeadSha": "251f648f91b67dd0ca63cc9890e5b3c1122d4381"
+    "processedHeadSha": "251f648f91b67dd0ca63cc9890e5b3c1122d4381",
+    "reachable": true,
+    "reachabilityDetail": "https://webrpg.org/Raizen884-KamigamiMZ/ served an RPG Maker entry point and its startup resources"
   },
   {
     "id": "waycrosspublicmedia-assets",
@@ -13901,12 +13919,11 @@
     "discoveredAt": "2026-09-16T10:53:30.292Z",
     "source": "github-code-search",
     "sourcePath": "game/index.html",
-    "checkedAt": "2026-09-17T23:38:45.602Z",
+    "checkedAt": "2026-09-23T21:18:35.608Z",
     "forkName": "28mcross-prog-28mcross-prog.github.io",
     "pagesUrl": "https://webrpg.org/28mcross-prog-28mcross-prog.github.io/",
     "entryPath": "index.html",
     "coverPath": "cover.png",
-    "verificationDeferred": true,
     "cover": "https://webrpg.org/28mcross-prog-28mcross-prog.github.io/cover.png",
     "validationScore": 108,
     "totalSize": 32638,
@@ -13914,7 +13931,9 @@
     "sourceRepo": "28mcross-prog/28mcross-prog.github.io",
     "sourceDefaultBranch": "main",
     "sourceHeadSha": "99bb6786951b39023ab6d04f6f5f65fb7c4fdaaf",
-    "processedHeadSha": "9520ea17b89e237a00e167a6b0337120fd842052"
+    "processedHeadSha": "9520ea17b89e237a00e167a6b0337120fd842052",
+    "reachable": true,
+    "reachabilityDetail": "https://webrpg.org/28mcross-prog-28mcross-prog.github.io/ served an RPG Maker entry point and its startup resources"
   },
   {
     "id": "yuhan2680-level-c-1366-demo",
@@ -14253,12 +14272,11 @@
     "discoveredAt": "2026-09-16T10:53:30.292Z",
     "source": "github-code-search",
     "sourcePath": "LOST AMONG THE STARS/index.html",
-    "checkedAt": "2026-09-17T21:10:01.009Z",
+    "checkedAt": "2026-09-23T21:16:08.595Z",
     "forkName": "GideonMire-LOST-AMONG-THE-STARS",
     "pagesUrl": "https://webrpg.org/GideonMire-LOST-AMONG-THE-STARS/",
     "entryPath": "index.html",
     "coverPath": "cover.png",
-    "verificationDeferred": true,
     "cover": "https://webrpg.org/GideonMire-LOST-AMONG-THE-STARS/cover.png",
     "validationScore": 108,
     "totalSize": 143051,
@@ -14266,7 +14284,9 @@
     "sourceRepo": "GideonMire/LOST-AMONG-THE-STARS",
     "sourceDefaultBranch": "main",
     "sourceHeadSha": "93964f4e940605e3c9dd57e4d54c68780c9de59d",
-    "processedHeadSha": "d2e4afafdbed83948cec279c6da10ceb1bfbc935"
+    "processedHeadSha": "d2e4afafdbed83948cec279c6da10ceb1bfbc935",
+    "reachable": true,
+    "reachabilityDetail": "https://webrpg.org/GideonMire-LOST-AMONG-THE-STARS/ served an RPG Maker entry point and its startup resources"
   },
   {
     "id": "etamus-lostmemories",
@@ -14928,7 +14948,7 @@
     "discoveredAt": "2026-09-16T10:53:30.292Z",
     "source": "github-code-search",
     "sourcePath": "!node-math/index.html",
-    "checkedAt": "2026-09-17T21:09:24.205Z",
+    "checkedAt": "2026-09-23T21:15:47.748Z",
     "forkName": "Blueslime0216-node-math",
     "pagesUrl": "https://webrpg.org/Blueslime0216-node-math/",
     "entryPath": "index.html",
@@ -14939,7 +14959,10 @@
     "sourceRepo": "Blueslime0216/node-math",
     "sourceDefaultBranch": "main",
     "sourceHeadSha": "591a7fd1dd483d2852a274418f08479a23444ff1",
-    "processedHeadSha": "71399505f91598a3253c6de3584878efe3f513e9"
+    "processedHeadSha": "71399505f91598a3253c6de3584878efe3f513e9",
+    "lastCheckError": "Deployed entry is not reachable: https://webrpg.org/Blueslime0216-node-math/_nodemath/setup.js responded with HTTP 404",
+    "consecutiveFailures": 1,
+    "lastFailedAt": "2026-09-23T21:15:47.748Z"
   },
   {
     "id": "jackhuang1130-68ba90b5-358d-407f-a2f9-e79ba757286d",
@@ -18456,12 +18479,11 @@
     "discoveredAt": "2026-09-16T10:53:30.292Z",
     "source": "github-code-search",
     "sourcePath": "game/index.html",
-    "checkedAt": "2026-09-17T23:38:43.921Z",
+    "checkedAt": "2026-09-23T21:18:29.993Z",
     "forkName": "29abrenton-rgb-29abrenton-rgb.github.io",
     "pagesUrl": "https://webrpg.org/29abrenton-rgb-29abrenton-rgb.github.io/",
     "entryPath": "index.html",
     "coverPath": "cover.png",
-    "verificationDeferred": true,
     "cover": "https://webrpg.org/29abrenton-rgb-29abrenton-rgb.github.io/cover.png",
     "validationScore": 108,
     "totalSize": 22343,
@@ -18469,7 +18491,9 @@
     "sourceRepo": "29abrenton-rgb/29abrenton-rgb.github.io",
     "sourceDefaultBranch": "main",
     "sourceHeadSha": "12d938e84e2ff2a74293bcdd2b52927291217ce4",
-    "processedHeadSha": "4eae60d94a3239674058cf7ebe4af23186ac247f"
+    "processedHeadSha": "4eae60d94a3239674058cf7ebe4af23186ac247f",
+    "reachable": true,
+    "reachabilityDetail": "https://webrpg.org/29abrenton-rgb-29abrenton-rgb.github.io/ served an RPG Maker entry point and its startup resources"
   },
   {
     "id": "affonsoamendola-oldprojects",
@@ -18509,12 +18533,11 @@
     "discoveredAt": "2026-09-16T10:53:30.292Z",
     "source": "github-code-search",
     "sourcePath": "Project1/index.html",
-    "checkedAt": "2026-09-17T23:39:16.220Z",
+    "checkedAt": "2026-09-23T21:18:40.911Z",
     "forkName": "AkshatIyer-GameJam2025",
     "pagesUrl": "https://webrpg.org/AkshatIyer-GameJam2025/",
     "entryPath": "index.html",
     "coverPath": "cover.png",
-    "verificationDeferred": true,
     "cover": "https://webrpg.org/AkshatIyer-GameJam2025/cover.png",
     "validationScore": 108,
     "totalSize": 100847,
@@ -18522,7 +18545,9 @@
     "sourceRepo": "AkshatIyer/GameJam2025",
     "sourceDefaultBranch": "main",
     "sourceHeadSha": "28fb6d8874b0a2827ba3b1781ac8102f2c92b203",
-    "processedHeadSha": "b4a026e7f109ebdc1d213c7bc83401e4afaa17db"
+    "processedHeadSha": "b4a026e7f109ebdc1d213c7bc83401e4afaa17db",
+    "reachable": true,
+    "reachabilityDetail": "https://webrpg.org/AkshatIyer-GameJam2025/ served an RPG Maker entry point and its startup resources"
   },
   {
     "id": "alriosa-awaken-mz",
@@ -22029,11 +22054,11 @@
     "discoveredAt": "2026-09-16T10:53:30.292Z",
     "source": "github-code-search",
     "sourcePath": "RP Test Project/index.html",
-    "checkedAt": "2026-09-17T23:39:22.375Z",
+    "checkedAt": "2026-09-23T21:18:48.598Z",
     "forkName": "DorphiaDerp-RPG-Test-Project",
     "lastCheckError": "GitHub API 502: Server Error",
-    "consecutiveFailures": 1,
-    "lastFailedAt": "2026-09-17T23:39:22.375Z"
+    "consecutiveFailures": 2,
+    "lastFailedAt": "2026-09-23T21:18:48.598Z"
   },
   {
     "id": "biud436-cefmv",
@@ -22070,12 +22095,11 @@
     "discoveredAt": "2026-09-16T10:53:30.292Z",
     "source": "github-code-search",
     "sourcePath": "docs/index.html",
-    "checkedAt": "2026-09-17T21:13:09.169Z",
+    "checkedAt": "2026-09-23T21:17:12.840Z",
     "forkName": "overhillgames-singdemov2v12",
     "pagesUrl": "https://webrpg.org/overhillgames-singdemov2v12/",
     "entryPath": "index.html",
     "coverPath": "cover.png",
-    "verificationDeferred": true,
     "cover": "https://webrpg.org/overhillgames-singdemov2v12/cover.png",
     "validationScore": 108,
     "totalSize": 368384,
@@ -22083,7 +22107,9 @@
     "sourceRepo": "overhillgames/singdemov2v12",
     "sourceDefaultBranch": "main",
     "sourceHeadSha": "2000bba92d00ae660a0159cc2c4a6cbd0d15025d",
-    "processedHeadSha": "cc41e29b8ff1e3acc2001f0ecf877d1d900f03e3"
+    "processedHeadSha": "cc41e29b8ff1e3acc2001f0ecf877d1d900f03e3",
+    "reachable": true,
+    "reachabilityDetail": "https://webrpg.org/overhillgames-singdemov2v12/ served an RPG Maker entry point and its startup resources"
   },
   {
     "id": "javisscode-callatekevin",
@@ -23028,12 +23054,11 @@
     "discoveredAt": "2026-09-16T10:53:30.292Z",
     "source": "github-code-search",
     "sourcePath": "temple/index.html",
-    "checkedAt": "2026-09-17T21:14:05.033Z",
+    "checkedAt": "2026-09-23T21:17:34.887Z",
     "forkName": "rtlh0-objectverse",
     "pagesUrl": "https://webrpg.org/rtlh0-objectverse/",
     "entryPath": "index.html",
     "coverPath": "cover.png",
-    "verificationDeferred": true,
     "cover": "https://webrpg.org/rtlh0-objectverse/cover.png",
     "validationScore": 108,
     "totalSize": 163889,
@@ -23041,7 +23066,9 @@
     "sourceRepo": "rtlh0/objectverse",
     "sourceDefaultBranch": "main",
     "sourceHeadSha": "2012cf20797bc316042ea0477cc94e8c919779b9",
-    "processedHeadSha": "0a28dc099667bd92bad902d400ac0c794da57697"
+    "processedHeadSha": "0a28dc099667bd92bad902d400ac0c794da57697",
+    "reachable": true,
+    "reachabilityDetail": "https://webrpg.org/rtlh0-objectverse/ served an RPG Maker entry point and its startup resources"
   },
   {
     "id": "0mnipr3z-hitcraft-php-js",
@@ -23885,18 +23912,19 @@
     "discoveredAt": "2026-09-16T10:53:30.292Z",
     "source": "github-code-search",
     "sourcePath": "The Legend of Kenshen /index.html",
-    "checkedAt": "2026-09-17T21:12:09.584Z",
+    "checkedAt": "2026-09-23T21:16:52.330Z",
     "forkName": "jdrevets-afk-Kenshen",
     "pagesUrl": "https://webrpg.org/jdrevets-afk-Kenshen/",
     "entryPath": "index.html",
-    "verificationDeferred": true,
     "validationScore": 108,
     "totalSize": 21196,
     "dataSize": 1098663,
     "sourceRepo": "jdrevets-afk/Kenshen",
     "sourceDefaultBranch": "main",
     "sourceHeadSha": "6b0db05e3b1749f60e25295c2f01dfa792a1e22b",
-    "processedHeadSha": "17815282780105fd88c0600d88b09ecaa55a99d6"
+    "processedHeadSha": "17815282780105fd88c0600d88b09ecaa55a99d6",
+    "reachable": true,
+    "reachabilityDetail": "https://webrpg.org/jdrevets-afk-Kenshen/ served an RPG Maker entry point and its startup resources"
   },
   {
     "id": "anqui3tas-fiesta-rpg",
@@ -23909,11 +23937,11 @@
     "discoveredAt": "2026-09-16T10:53:30.292Z",
     "source": "github-code-search",
     "sourcePath": "Fiesta-app/Fiesta/Game/index.html",
-    "checkedAt": "2026-09-17T21:09:16.937Z",
+    "checkedAt": "2026-09-23T21:15:47.353Z",
     "forkName": "Anqui3tas-Fiesta-RPG",
-    "lastCheckError": "GitHub API 403: You have exceeded a secondary rate limit. Please wait a few minutes before you try again. For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service) If you reach out to GitHub Support for help, please include the request ID B401:32AD73:42A83DD:DFA8F12:6AAC5735.",
-    "consecutiveFailures": 1,
-    "lastFailedAt": "2026-09-17T21:09:16.937Z"
+    "lastCheckError": "GitHub API 403: You have exceeded a secondary rate limit. Please wait a few minutes before you try again. For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service) If you reach out to GitHub Support for help, please include the request ID 2C43:17E255:1C2303:5D3C06:6AB441C1.",
+    "consecutiveFailures": 2,
+    "lastFailedAt": "2026-09-23T21:15:47.353Z"
   },
   {
     "id": "bintangfauzan-the-letter",
@@ -25597,12 +25625,11 @@
     "discoveredAt": "2026-09-16T10:53:30.292Z",
     "source": "github-code-search",
     "sourcePath": "output/src/index.html",
-    "checkedAt": "2026-09-17T21:12:17.953Z",
+    "checkedAt": "2026-09-23T21:16:52.922Z",
     "forkName": "juhonamnam-web-game-presentation",
     "pagesUrl": "https://webrpg.org/juhonamnam-web-game-presentation/",
     "entryPath": "index.html",
     "coverPath": "cover.png",
-    "verificationDeferred": true,
     "cover": "https://webrpg.org/juhonamnam-web-game-presentation/cover.png",
     "validationScore": 108,
     "totalSize": 97175,
@@ -25610,7 +25637,9 @@
     "sourceRepo": "juhonamnam/web-game-presentation",
     "sourceDefaultBranch": "main",
     "sourceHeadSha": "331d4e5ea2f5001c1dfa8ce5f215c5785735465d",
-    "processedHeadSha": "32fa588f667aa161b66431dd8fc279af75c5a9c8"
+    "processedHeadSha": "32fa588f667aa161b66431dd8fc279af75c5a9c8",
+    "reachable": true,
+    "reachabilityDetail": "https://webrpg.org/juhonamnam-web-game-presentation/ served an RPG Maker entry point and its startup resources"
   },
   {
     "id": "mysterymagination-weirdwyrdworld",
@@ -27251,12 +27280,11 @@
     "discoveredAt": "2026-09-16T10:53:30.292Z",
     "source": "github-code-search",
     "sourcePath": "onefloor/index.html",
-    "checkedAt": "2026-09-17T21:11:31.972Z",
+    "checkedAt": "2026-09-23T21:16:43.500Z",
     "forkName": "irebachan-page",
     "pagesUrl": "https://webrpg.org/irebachan-page/",
     "entryPath": "index.html",
     "coverPath": "cover.png",
-    "verificationDeferred": true,
     "cover": "https://webrpg.org/irebachan-page/cover.png",
     "validationScore": 108,
     "totalSize": 133241,
@@ -27264,6 +27292,8 @@
     "sourceRepo": "irebachan/page",
     "sourceDefaultBranch": "main",
     "sourceHeadSha": "499190081377e9de726771f905418b340a234789",
-    "processedHeadSha": "31ef461ae8c7ebfe15aabde4de82823dd77f7c2d"
+    "processedHeadSha": "31ef461ae8c7ebfe15aabde4de82823dd77f7c2d",
+    "reachable": true,
+    "reachabilityDetail": "https://webrpg.org/irebachan-page/ served an RPG Maker entry point and its startup resources"
   }
 ]
