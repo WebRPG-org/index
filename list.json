@@ -1624,7 +1624,7 @@
     "owner": "whiterrabbit3672",
     "name": "touhou-GhostFairy-do-people",
     "engine": "RPG Maker MV",
-    "checkedAt": "2026-09-20T10:49:52.741Z",
+    "checkedAt": "2026-09-26T11:01:12.906Z",
     "forkName": "whiterrabbit3672-touhou-GhostFairy-do-people",
     "status": "verified",
     "pagesUrl": "https://webrpg.org/whiterrabbit3672-touhou-GhostFairy-do-people/",
@@ -1638,7 +1638,8 @@
     "sourceHeadSha": "87535bdc569268f955a4d172a73717060551192b",
     "processedHeadSha": "16a51af8a97beb7cd80cdd61068ec42cbf9a37a4",
     "coverPath": "cover.png",
-    "verificationDeferred": true
+    "reachable": true,
+    "reachabilityDetail": "https://webrpg.org/whiterrabbit3672-touhou-GhostFairy-do-people/ served an RPG Maker entry point and its startup resources"
   },
   {
     "id": "kotpot197-rabbit",
@@ -3485,21 +3486,21 @@
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "jogo.html.html",
-    "checkedAt": "2026-09-20T03:42:08.544Z",
+    "checkedAt": "2026-09-26T10:59:02.973Z",
     "forkName": "PedroMaxDEV-A-LENDA-DE-CAMUTANGA",
-    "pagesUrl": "https://webrpg.org/PedroMaxDEV-A-LENDA-DE-CAMUTANGA/jogo.html.html",
-    "entryPath": "jogo.html.html",
+    "pagesUrl": "https://webrpg.org/PedroMaxDEV-A-LENDA-DE-CAMUTANGA/",
+    "entryPath": "index.html",
     "cover": "https://webrpg.org/PedroMaxDEV-A-LENDA-DE-CAMUTANGA/cover.png",
-    "validationScore": 100,
-    "totalSize": 693187,
-    "dataSize": 3489893,
+    "validationScore": 108,
+    "totalSize": 695501,
+    "dataSize": 3491306,
     "sourceRepo": "PedroMaxDEV/A-LENDA-DE-CAMUTANGA",
     "sourceDefaultBranch": "main",
-    "sourceHeadSha": "84770fe288d294afda881ea271d7ae34a38bb7dc",
-    "processedHeadSha": "10790b28806a13b5c936af7bd05f7ddd14df99ee",
+    "sourceHeadSha": "8a2a1bde71fbc30877cd00f708f0dae9f9bde2f9",
+    "processedHeadSha": "f0832388b48a8e92ab0eea361a897258fd692a46",
     "coverPath": "cover.png",
-    "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/PedroMaxDEV-A-LENDA-DE-CAMUTANGA/jogo.html.html served an RPG Maker entry point and its startup resources"
+    "verificationDeferred": true,
+    "syncedFromSource": true
   },
   {
     "id": "sness128-sness128-github-io",
@@ -3716,7 +3717,7 @@
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "www/index.html",
-    "checkedAt": "2026-09-20T03:43:53.525Z",
+    "checkedAt": "2026-09-26T11:00:38.131Z",
     "forkName": "okshaone-loop",
     "pagesUrl": "https://webrpg.org/okshaone-loop/",
     "entryPath": "index.html",
@@ -3729,7 +3730,8 @@
     "sourceHeadSha": "528230e7fd2d3589ba5b61a708f3e031fb4215da",
     "processedHeadSha": "3ce88d6932f787d8098285d86cc2f4f893841dcb",
     "coverPath": "cover.png",
-    "verificationDeferred": true
+    "reachable": true,
+    "reachabilityDetail": "https://webrpg.org/okshaone-loop/ served an RPG Maker entry point and its startup resources"
   },
   {
     "id": "frostytoast37-frostytoast37-github-io",
@@ -4041,7 +4043,7 @@
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-09-20T03:41:21.024Z",
+    "checkedAt": "2026-09-26T10:58:23.502Z",
     "forkName": "masudinn-Animal-Hunting",
     "pagesUrl": "https://webrpg.org/masudinn-Animal-Hunting/",
     "entryPath": "index.html",
@@ -4054,7 +4056,8 @@
     "sourceHeadSha": "2f48cc6291a55a7022dd2bb562a86e0024723673",
     "processedHeadSha": "23571c1129dcc5cfdc2ae050ae2b056c8b3e290d",
     "coverPath": "cover.png",
-    "verificationDeferred": true
+    "reachable": true,
+    "reachabilityDetail": "https://webrpg.org/masudinn-Animal-Hunting/ served an RPG Maker entry point and its startup resources"
   },
   {
     "id": "rexgit-animated-enemies",
@@ -6597,7 +6600,7 @@
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "projeto/index.html",
-    "checkedAt": "2026-09-20T03:42:53.784Z",
+    "checkedAt": "2026-09-26T10:59:29.013Z",
     "forkName": "p-guilherme-cidadesustentavel",
     "pagesUrl": "https://webrpg.org/p-guilherme-cidadesustentavel/",
     "entryPath": "index.html",
@@ -8655,11 +8658,16 @@
     "owner": "willshw89",
     "name": "Deus",
     "engine": "RPG Maker MZ",
-    "status": "indexed",
+    "status": "check_error",
     "discoveredAt": "2026-09-26T03:41:39.419Z",
     "source": "github-code-search",
     "sourcePath": "game/index.html",
-    "plannedForkName": "willshw89-Deus"
+    "plannedForkName": "willshw89-Deus",
+    "checkedAt": "2026-09-26T10:58:25.573Z",
+    "forkName": "willshw89-Deus",
+    "lastCheckError": "GitHub API 502: Server Error",
+    "consecutiveFailures": 1,
+    "lastFailedAt": "2026-09-26T10:58:25.573Z"
   },
   {
     "id": "goofmint-devrelcon-tokyo-2021",
@@ -8728,7 +8736,7 @@
     "discoveredAt": "2026-06-17T21:59:32.584Z",
     "source": "github-code-search",
     "sourcePath": "public/www/index.html",
-    "checkedAt": "2026-09-20T10:49:41.268Z",
+    "checkedAt": "2026-09-26T11:01:10.625Z",
     "forkName": "NautsSky-nautssky",
     "pagesUrl": "https://webrpg.org/NautsSky-nautssky/",
     "entryPath": "index.html",
@@ -8741,7 +8749,8 @@
     "sourceHeadSha": "76ae8356b40081d023b9541bfc2de6434c2a5b73",
     "processedHeadSha": "8a8a0306eee1a4d987d6c585ae38d896b4c2c39a",
     "coverPath": "cover.png",
-    "verificationDeferred": true
+    "reachable": true,
+    "reachabilityDetail": "https://webrpg.org/NautsSky-nautssky/ served an RPG Maker entry point and its startup resources"
   },
   {
     "id": "sawasaki-coder-test-game",
@@ -8835,7 +8844,7 @@
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "Dimmed Light/index.html",
-    "checkedAt": "2026-09-20T03:43:05.326Z",
+    "checkedAt": "2026-09-26T10:59:42.528Z",
     "forkName": "OscarGilley-OscarGilley.github.io",
     "pagesUrl": "https://webrpg.org/OscarGilley-OscarGilley.github.io/",
     "entryPath": "index.html",
@@ -8848,7 +8857,8 @@
     "sourceHeadSha": "9927e81ec35a1740dfd672408e9be2623b81b921",
     "processedHeadSha": "cb3bb08cf2dff8c4d10a32ec606cfec38a5bf8c8",
     "coverPath": "cover.png",
-    "verificationDeferred": true
+    "reachable": true,
+    "reachabilityDetail": "https://webrpg.org/OscarGilley-OscarGilley.github.io/ served an RPG Maker entry point and its startup resources"
   },
   {
     "id": "zhuobinggang-dirt-rpg",
@@ -11311,7 +11321,7 @@
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "game.html",
-    "checkedAt": "2026-09-20T03:41:27.045Z",
+    "checkedAt": "2026-09-26T10:58:38.860Z",
     "forkName": "M00NL16H7-m00nl16h7.github.io",
     "pagesUrl": "https://webrpg.org/M00NL16H7-m00nl16h7.github.io/",
     "entryPath": "index.html",
@@ -11324,7 +11334,8 @@
     "sourceHeadSha": "c34fc4c685af3bc4265e35a9496b0395eddf3952",
     "processedHeadSha": "1355990e4d67f02a51b2dc85f29bc7f047bc6e80",
     "coverPath": "cover.png",
-    "verificationDeferred": true
+    "reachable": true,
+    "reachabilityDetail": "https://webrpg.org/M00NL16H7-m00nl16h7.github.io/ served an RPG Maker entry point and its startup resources"
   },
   {
     "id": "talon24229-talon24229-github-io",
@@ -12250,7 +12261,7 @@
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-09-20T10:49:23.660Z",
+    "checkedAt": "2026-09-26T11:01:03.132Z",
     "forkName": "Mrxdaunknown-EncodeHackathon",
     "pagesUrl": "https://webrpg.org/Mrxdaunknown-EncodeHackathon/",
     "entryPath": "index.html",
@@ -12263,7 +12274,8 @@
     "sourceHeadSha": "486f34b056376cdb8e1034de47baa9589b307cf2",
     "processedHeadSha": "6997d9c980e93256522521209317ed02f1044eaf",
     "coverPath": "cover.png",
-    "verificationDeferred": true
+    "reachable": true,
+    "reachabilityDetail": "https://webrpg.org/Mrxdaunknown-EncodeHackathon/ served an RPG Maker entry point and its startup resources"
   },
   {
     "id": "nerdsonly-half-heroes",
@@ -12276,7 +12288,7 @@
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-09-20T10:48:53.205Z",
+    "checkedAt": "2026-09-26T11:00:31.740Z",
     "forkName": "nerdsonly-half-heroes",
     "pagesUrl": "https://webrpg.org/nerdsonly-half-heroes/",
     "entryPath": "index.html",
@@ -12289,7 +12301,8 @@
     "sourceHeadSha": "24225adc9569a8e3eb8883309e1897f82a07632d",
     "processedHeadSha": "2ce3a20b32da98773c2de6ff587812410ac30b4e",
     "coverPath": "cover.png",
-    "verificationDeferred": true
+    "reachable": true,
+    "reachabilityDetail": "https://webrpg.org/nerdsonly-half-heroes/ served an RPG Maker entry point and its startup resources"
   },
   {
     "id": "balensmatheo-balensmatheo-github-io",
@@ -13539,7 +13552,7 @@
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "www/index.html",
-    "checkedAt": "2026-09-20T03:44:06.265Z",
+    "checkedAt": "2026-09-26T11:00:07.655Z",
     "forkName": "okshaone-Kiki-s-adventure-v1",
     "pagesUrl": "https://webrpg.org/okshaone-Kiki-s-adventure-v1/",
     "entryPath": "index.html",
@@ -13552,7 +13565,8 @@
     "sourceHeadSha": "d7968fd986ec9a086fd39163761c860c9472fe0a",
     "processedHeadSha": "64f20fcd7c449f3d6af34f0d433a83caf4ddb4a4",
     "coverPath": "cover.png",
-    "verificationDeferred": true
+    "reachable": true,
+    "reachabilityDetail": "https://webrpg.org/okshaone-Kiki-s-adventure-v1/ served an RPG Maker entry point and its startup resources"
   },
   {
     "id": "redhawkphyre-killer-nights",
@@ -15298,7 +15312,7 @@
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-09-20T10:49:11.806Z",
+    "checkedAt": "2026-09-26T11:00:53.353Z",
     "forkName": "Nad795-Memories-of-You-Demo-Version",
     "pagesUrl": "https://webrpg.org/Nad795-Memories-of-You-Demo-Version/",
     "entryPath": "index.html",
@@ -15311,7 +15325,8 @@
     "sourceHeadSha": "89c1e50d2b41e191f2f6f155faaf9d7bd846f0a0",
     "processedHeadSha": "55c135d8ed1cc0f96deed52e8ada72f00c3eb0f3",
     "coverPath": "cover.png",
-    "verificationDeferred": true
+    "reachable": true,
+    "reachabilityDetail": "https://webrpg.org/Nad795-Memories-of-You-Demo-Version/ served an RPG Maker entry point and its startup resources"
   },
   {
     "id": "grimelion-gamedev",
@@ -16077,7 +16092,7 @@
     "discoveredAt": "2026-06-16T21:41:12.505Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-09-20T03:43:19.081Z",
+    "checkedAt": "2026-09-26T10:59:46.588Z",
     "forkName": "zhiwei-zhiwei-Game_RPGMaker_MagicnoMagic",
     "pagesUrl": "https://webrpg.org/zhiwei-zhiwei-Game_RPGMaker_MagicnoMagic/",
     "entryPath": "index.html",
@@ -16090,7 +16105,8 @@
     "sourceHeadSha": "a5eca6097f4612eeced7e514f1b000cac4f838b8",
     "processedHeadSha": "f2d526a6e4d1c96b5642794e91207114866e3683",
     "coverPath": "cover.png",
-    "verificationDeferred": true
+    "reachable": true,
+    "reachabilityDetail": "https://webrpg.org/zhiwei-zhiwei-Game_RPGMaker_MagicnoMagic/ served an RPG Maker entry point and its startup resources"
   },
   {
     "id": "sunset513-ncu-fresh-map-draft",
@@ -17043,7 +17059,7 @@
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-09-20T10:48:56.034Z",
+    "checkedAt": "2026-09-26T11:00:45.025Z",
     "forkName": "Neoexm-Kuakin",
     "pagesUrl": "https://webrpg.org/Neoexm-Kuakin/",
     "entryPath": "index.html",
@@ -17677,18 +17693,18 @@
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "GoldRelease/index.html",
-    "checkedAt": "2026-09-20T10:48:54.398Z",
+    "checkedAt": "2026-09-26T11:00:30.580Z",
     "forkName": "navdeep5-navdeep5.github.io",
     "pagesUrl": "https://webrpg.org/navdeep5-navdeep5.github.io/",
     "entryPath": "index.html",
     "cover": "https://webrpg.org/navdeep5-navdeep5.github.io/cover.png",
     "validationScore": 108,
     "totalSize": 528806,
-    "dataSize": 1766771,
+    "dataSize": 3259705,
     "sourceRepo": "navdeep5/navdeep5.github.io",
     "sourceDefaultBranch": "main",
     "sourceHeadSha": "644c83c07aa2cfb5a13f053c93aa6dfe20c2fd30",
-    "processedHeadSha": "d0961522e068eb6d134643518f0c10074979e0d7",
+    "processedHeadSha": "19ecbdefecbb1bf9341eb57beff5425e8e371263",
     "coverPath": "cover.png",
     "verificationDeferred": true
   },
@@ -17703,7 +17719,7 @@
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "cmput250 game_test/index.html",
-    "checkedAt": "2026-09-20T10:48:52.798Z",
+    "checkedAt": "2026-09-26T11:00:28.719Z",
     "forkName": "navdeep5-Quokka_Quest_Team",
     "pagesUrl": "https://webrpg.org/navdeep5-Quokka_Quest_Team/",
     "entryPath": "index.html",
@@ -19514,7 +19530,7 @@
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-09-20T03:41:52.913Z",
+    "checkedAt": "2026-09-26T10:58:48.508Z",
     "forkName": "LiXiaYu-MVMota",
     "pagesUrl": "https://webrpg.org/LiXiaYu-MVMota/",
     "entryPath": "index.html",
@@ -19527,7 +19543,8 @@
     "sourceHeadSha": "92db15e275cc909d85d9d4ad9dac4c4fda926908",
     "processedHeadSha": "bbcf225e14f4f1177fbe6b598ef8ca8189ff28e8",
     "coverPath": "cover.png",
-    "verificationDeferred": true
+    "reachable": true,
+    "reachabilityDetail": "https://webrpg.org/LiXiaYu-MVMota/ served an RPG Maker entry point and its startup resources"
   },
   {
     "id": "31mada-liyab-prime",
@@ -19647,7 +19664,7 @@
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "Project2/index.html",
-    "checkedAt": "2026-09-20T03:41:37.710Z",
+    "checkedAt": "2026-09-26T10:58:42.708Z",
     "forkName": "mattieFM-idkGame",
     "pagesUrl": "https://webrpg.org/mattieFM-idkGame/",
     "entryPath": "index.html",
@@ -19660,7 +19677,8 @@
     "sourceHeadSha": "90e63668e506a4f42d1ea1d7db5cfdb344821ec0",
     "processedHeadSha": "3545fa1fcc85cc3dc3a540a2b49bba811fc7a676",
     "coverPath": "cover.png",
-    "verificationDeferred": true
+    "reachable": true,
+    "reachabilityDetail": "https://webrpg.org/mattieFM-idkGame/ served an RPG Maker entry point and its startup resources"
   },
   {
     "id": "rinne-grid-tkoolmv-plugin-recollectionmode",
@@ -19990,7 +20008,7 @@
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-09-20T03:42:00.133Z",
+    "checkedAt": "2026-09-26T10:58:53.979Z",
     "forkName": "LeMarsito02-core",
     "pagesUrl": "https://webrpg.org/LeMarsito02-core/",
     "entryPath": "index.html",
@@ -20003,7 +20021,8 @@
     "sourceHeadSha": "52a27fa12b6f033729d96f72e1a7531c58d423c6",
     "processedHeadSha": "2cfada2d2d825f1830f07edb74b29dff0fb3a94a",
     "coverPath": "cover.png",
-    "verificationDeferred": true
+    "reachable": true,
+    "reachabilityDetail": "https://webrpg.org/LeMarsito02-core/ served an RPG Maker entry point and its startup resources"
   },
   {
     "id": "anthonygit1-qhatulab-frontend",
@@ -20109,7 +20128,7 @@
     "discoveredAt": "2026-06-16T21:41:12.505Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-09-20T03:43:37.449Z",
+    "checkedAt": "2026-09-26T10:59:50.486Z",
     "forkName": "eijialice-Raison-D-Etre",
     "pagesUrl": "https://webrpg.org/eijialice-Raison-D-Etre/",
     "entryPath": "index.html",
@@ -20122,7 +20141,8 @@
     "sourceHeadSha": "65685273d7462ddc4a85cc7919470ca6cd7f0b4e",
     "processedHeadSha": "72c135dc97bccc444e707aadfd98dbd6e5f59a13",
     "coverPath": "cover.png",
-    "verificationDeferred": true
+    "reachable": true,
+    "reachabilityDetail": "https://webrpg.org/eijialice-Raison-D-Etre/ served an RPG Maker entry point and its startup resources"
   },
   {
     "id": "rakkiisto-rakkiisto-rmmv",
@@ -21312,7 +21332,7 @@
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "public/_source/rpg-forest/Sample Map/index.html",
-    "checkedAt": "2026-09-20T03:42:26.067Z",
+    "checkedAt": "2026-09-26T10:59:10.441Z",
     "forkName": "LoLoSenPai-AOB",
     "pagesUrl": "https://webrpg.org/LoLoSenPai-AOB/",
     "entryPath": "index.html",
@@ -21323,7 +21343,8 @@
     "sourceDefaultBranch": "main",
     "sourceHeadSha": "7b71bb3dd2fabf12d56776db7ebe6b41bb684527",
     "processedHeadSha": "512e7282906fb7ee0f5e74d183129b343d8f9bac",
-    "verificationDeferred": true
+    "reachable": true,
+    "reachabilityDetail": "https://webrpg.org/LoLoSenPai-AOB/ served an RPG Maker entry point and its startup resources"
   },
   {
     "id": "takushisato-futakobusan",
@@ -23102,7 +23123,7 @@
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-09-20T03:42:57.136Z",
+    "checkedAt": "2026-09-26T10:59:28.765Z",
     "forkName": "PabloTorr17-Juego-ITC",
     "pagesUrl": "https://webrpg.org/PabloTorr17-Juego-ITC/",
     "entryPath": "index.html",
@@ -23115,7 +23136,10 @@
     "sourceHeadSha": "7968d3335c9bb6d08c02df6a3196bc94c914526d",
     "processedHeadSha": "2a87554be12ad22effa3c5cd10e44b5bc72a1016",
     "coverPath": "cover.png",
-    "verificationDeferred": true
+    "verificationDeferred": true,
+    "lastCheckError": "Deployed entry is not reachable: https://webrpg.org/PabloTorr17-Juego-ITC/ does not serve valid data/System.json",
+    "consecutiveFailures": 1,
+    "lastFailedAt": "2026-09-26T10:59:28.765Z"
   },
   {
     "id": "emowbaik-project-tefa-b",
@@ -23392,7 +23416,7 @@
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "index_OLD.html",
-    "checkedAt": "2026-09-20T03:41:19.686Z",
+    "checkedAt": "2026-09-26T10:58:24.552Z",
     "forkName": "MarcusKim442-LostInWonder",
     "pagesUrl": "https://webrpg.org/MarcusKim442-LostInWonder/",
     "entryPath": "index.html",
@@ -23657,7 +23681,7 @@
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-09-20T03:44:08.383Z",
+    "checkedAt": "2026-09-26T11:00:11.270Z",
     "forkName": "NuyyKatazou-TheAmazonia",
     "pagesUrl": "https://webrpg.org/NuyyKatazou-TheAmazonia/",
     "entryPath": "index.html",
@@ -23818,7 +23842,7 @@
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-09-20T03:42:25.921Z",
+    "checkedAt": "2026-09-26T10:59:09.263Z",
     "forkName": "PaulStubbs-TheCorporateLadder",
     "pagesUrl": "https://webrpg.org/PaulStubbs-TheCorporateLadder/",
     "entryPath": "index.html",
@@ -24384,7 +24408,7 @@
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "game2mz/index.html",
-    "checkedAt": "2026-09-20T03:42:45.528Z",
+    "checkedAt": "2026-09-26T10:59:25.711Z",
     "forkName": "Patrick-ayo-MISINFORMATION-GAME",
     "pagesUrl": "https://webrpg.org/Patrick-ayo-MISINFORMATION-GAME/",
     "entryPath": "index.html",
@@ -24931,7 +24955,7 @@
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "Twilightning/index.html",
-    "checkedAt": "2026-09-20T10:49:17.474Z",
+    "checkedAt": "2026-09-26T11:00:54.979Z",
     "forkName": "mysterymagination-twilightning",
     "pagesUrl": "https://webrpg.org/mysterymagination-twilightning/",
     "entryPath": "index.html",
@@ -24944,7 +24968,8 @@
     "sourceHeadSha": "f712bdf322f1e6d174507d6cbcfca9dddc8062d0",
     "processedHeadSha": "fbe9bce0c988968e3ca0b304f36488ece2bdfb52",
     "coverPath": "cover.png",
-    "verificationDeferred": true
+    "reachable": true,
+    "reachabilityDetail": "https://webrpg.org/mysterymagination-twilightning/ served an RPG Maker entry point and its startup resources"
   },
   {
     "id": "skypad123-ntu-cz3003-ultraregin-mono",
@@ -25338,7 +25363,7 @@
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "Project2/index.html",
-    "checkedAt": "2026-09-20T03:44:07.737Z",
+    "checkedAt": "2026-09-26T11:00:10.266Z",
     "forkName": "ojoh1993-SCP_OOPArt",
     "pagesUrl": "https://webrpg.org/ojoh1993-SCP_OOPArt/",
     "entryPath": "index.html",
@@ -25351,7 +25376,8 @@
     "sourceHeadSha": "44f29d735762ba1a840a51b037844bb67d8eb889",
     "processedHeadSha": "f92c722606232ed075e41ef537bd22d2af391acb",
     "coverPath": "cover.png",
-    "verificationDeferred": true
+    "reachable": true,
+    "reachabilityDetail": "https://webrpg.org/ojoh1993-SCP_OOPArt/ served an RPG Maker entry point and its startup resources"
   },
   {
     "id": "versionaryy-versionary-game",
@@ -25444,7 +25470,7 @@
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-09-20T03:41:19.487Z",
+    "checkedAt": "2026-09-26T10:58:25.903Z",
     "forkName": "MaterialRandom-ViajeTirNaNog1",
     "pagesUrl": "https://webrpg.org/MaterialRandom-ViajeTirNaNog1/",
     "entryPath": "index.html",
@@ -25787,7 +25813,7 @@
     "discoveredAt": "2026-06-16T21:41:12.505Z",
     "source": "github-code-search",
     "sourcePath": "Weird Wyrd World/index.html",
-    "checkedAt": "2026-09-20T03:43:11.103Z",
+    "checkedAt": "2026-09-26T10:59:47.570Z",
     "forkName": "mysterymagination-WeirdWyrdWorld",
     "pagesUrl": "https://webrpg.org/mysterymagination-WeirdWyrdWorld/",
     "entryPath": "index.html",
@@ -25800,7 +25826,8 @@
     "sourceHeadSha": "734e8f2b5217291d5e840583f4615323a5005457",
     "processedHeadSha": "ab28d4d5d82174f67d10edbe651a09ff98c84c30",
     "coverPath": "cover.png",
-    "verificationDeferred": true
+    "reachable": true,
+    "reachabilityDetail": "https://webrpg.org/mysterymagination-WeirdWyrdWorld/ served an RPG Maker entry point and its startup resources"
   },
   {
     "id": "plumelumyn-welcome-to-red-zone",
@@ -26550,7 +26577,7 @@
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "_site/game/index.html",
-    "checkedAt": "2026-09-20T03:42:36.257Z",
+    "checkedAt": "2026-09-26T10:59:25.932Z",
     "forkName": "llb1026-llb1026.github.io",
     "pagesUrl": "https://webrpg.org/llb1026-llb1026.github.io/",
     "entryPath": "index.html",
@@ -26563,7 +26590,8 @@
     "sourceHeadSha": "98a27e302631d72b2b9c8bfc6b61b4c621a54de3",
     "processedHeadSha": "7b6e75173ea20ba4f160d7b138d3d37d7f98172c",
     "coverPath": "cover.png",
-    "verificationDeferred": true
+    "reachable": true,
+    "reachabilityDetail": "https://webrpg.org/llb1026-llb1026.github.io/ served an RPG Maker entry point and its startup resources"
   },
   {
     "id": "painh-sparrow",
