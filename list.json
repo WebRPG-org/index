@@ -3866,7 +3866,7 @@
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "alpha-omega/index.html",
-    "checkedAt": "2026-09-21T03:37:44.325Z",
+    "checkedAt": "2026-09-27T03:58:55.433Z",
     "forkName": "eduardomourar-easyrpg-web",
     "pagesUrl": "https://webrpg.org/eduardomourar-easyrpg-web/",
     "entryPath": "index.html",
@@ -3879,7 +3879,8 @@
     "sourceHeadSha": "232903cd8d92b73c310eb7ed8455386e3223a600",
     "processedHeadSha": "bbe7aaaebf42b2670fcd7b507b4579699cce5b35",
     "coverPath": "cover.png",
-    "verificationDeferred": true
+    "reachable": true,
+    "reachabilityDetail": "https://webrpg.org/eduardomourar-easyrpg-web/ served an RPG Maker entry point and its startup resources"
   },
   {
     "id": "kondo-yuuki-altereal",
@@ -4704,7 +4705,7 @@
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-09-21T03:36:44.812Z",
+    "checkedAt": "2026-09-27T03:57:56.163Z",
     "forkName": "didgogns-MineHero",
     "pagesUrl": "https://webrpg.org/didgogns-MineHero/",
     "entryPath": "index.html",
@@ -4731,22 +4732,20 @@
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "biblioteca_web/game.html",
-    "checkedAt": "2026-09-21T03:37:18.574Z",
+    "checkedAt": "2026-09-27T03:58:40.179Z",
     "forkName": "DiegOliveros-diegoliveros.github.io",
     "pagesUrl": "https://webrpg.org/DiegOliveros-diegoliveros.github.io/game.html",
     "entryPath": "game.html",
     "cover": "https://webrpg.org/DiegOliveros-diegoliveros.github.io/cover.png",
-    "validationScore": 110,
-    "totalSize": 445631,
+    "validationScore": 100,
+    "totalSize": 447830,
     "dataSize": 1326259,
     "sourceRepo": "DiegOliveros/diegoliveros.github.io",
     "sourceDefaultBranch": "master",
-    "sourceHeadSha": "b4019474859c5b7afa28fe2513555feeb9765cba",
-    "processedHeadSha": "526736ff2ddce121cee91ed90f4f79f6024d6e0b",
-    "syncedFromSource": true,
-    "lastCheckError": "GitHub API 403: You have exceeded a secondary rate limit. Please wait a few minutes before you try again. For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service) If you reach out to GitHub Support for help, please include the request ID 2FC3:4FD81:1675CC6:4B5DE2E:6AB0A6B1.",
-    "consecutiveFailures": 1,
-    "lastFailedAt": "2026-09-21T03:37:18.574Z"
+    "sourceHeadSha": "86ce55be8a9b90f74cc249e1c165fde4761448bf",
+    "processedHeadSha": "271191d319fa95e7abcf4db0c88b2422f9f7327b",
+    "coverPath": "cover.png",
+    "verificationDeferred": true
   },
   {
     "id": "iswpoli-servicios-bibliotecarios",
@@ -6704,11 +6703,22 @@
     "owner": "AzelMe",
     "name": "Star-Destiny",
     "engine": "RPG Maker MV",
-    "status": "indexed",
+    "status": "verified",
     "discoveredAt": "2026-09-27T03:50:22.274Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "plannedForkName": "AzelMe-Star-Destiny"
+    "checkedAt": "2026-09-27T03:57:16.720Z",
+    "forkName": "AzelMe-Star-Destiny",
+    "pagesUrl": "https://webrpg.org/AzelMe-Star-Destiny/",
+    "entryPath": "index.html",
+    "verificationDeferred": true,
+    "validationScore": 108,
+    "totalSize": 3855,
+    "dataSize": 63746,
+    "sourceRepo": "AzelMe/Star-Destiny",
+    "sourceDefaultBranch": "main",
+    "sourceHeadSha": "b88d918799b78437c4a208bcc5438c52d4a905dc",
+    "processedHeadSha": "84d2251d8da10a80905236294a1b041923a45c72"
   },
   {
     "id": "sonata-chan-clubecaixao",
@@ -7029,7 +7039,7 @@
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-09-21T03:36:40.146Z",
+    "checkedAt": "2026-09-27T03:57:42.299Z",
     "forkName": "DewandraR-College-Live",
     "pagesUrl": "https://webrpg.org/DewandraR-College-Live/",
     "entryPath": "index.html",
@@ -7042,7 +7052,8 @@
     "sourceHeadSha": "7687b9b3f048ce9809a64189db55f18e5dc0da52",
     "processedHeadSha": "492e1c919e34263110ac3cb7b93918aaf6cb7fe0",
     "coverPath": "cover.png",
-    "verificationDeferred": true
+    "reachable": true,
+    "reachabilityDetail": "https://webrpg.org/DewandraR-College-Live/ served an RPG Maker entry point and its startup resources"
   },
   {
     "id": "patbqc-rpg-csb",
@@ -7459,7 +7470,7 @@
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-09-21T03:36:27.248Z",
+    "checkedAt": "2026-09-27T03:57:34.807Z",
     "forkName": "Dejely-Bean-Studios-Crime-Never-Sleeps",
     "pagesUrl": "https://webrpg.org/Dejely-Bean-Studios-Crime-Never-Sleeps/",
     "entryPath": "index.html",
@@ -7671,7 +7682,7 @@
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "www/index.html",
-    "checkedAt": "2026-09-20T23:11:10.358Z",
+    "checkedAt": "2026-09-27T03:57:16.158Z",
     "forkName": "Cute-Fame-Studio-cutefamedemo",
     "pagesUrl": "https://webrpg.org/Cute-Fame-Studio-cutefamedemo/",
     "entryPath": "index.html",
@@ -12415,7 +12426,7 @@
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-09-21T03:36:54.887Z",
+    "checkedAt": "2026-09-27T03:57:57.849Z",
     "forkName": "discus-sions-The-Fall-PREVIEW1",
     "pagesUrl": "https://webrpg.org/discus-sions-The-Fall-PREVIEW1/",
     "entryPath": "index.html",
@@ -12428,7 +12439,8 @@
     "sourceHeadSha": "ad0556915082d9f4dbbd8cd44579196a6ee36e08",
     "processedHeadSha": "0d117ed4371ef860e54544b107933a97968ee424",
     "coverPath": "cover.png",
-    "verificationDeferred": true
+    "reachable": true,
+    "reachabilityDetail": "https://webrpg.org/discus-sions-The-Fall-PREVIEW1/ served an RPG Maker entry point and its startup resources"
   },
   {
     "id": "pbkn-hbd-rpg",
@@ -13099,7 +13111,7 @@
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "IntoTheDark/index.html",
-    "checkedAt": "2026-09-21T03:38:59.156Z",
+    "checkedAt": "2026-09-27T04:00:05.567Z",
     "forkName": "EnigmaDragons-IntoTheDark",
     "pagesUrl": "https://webrpg.org/EnigmaDragons-IntoTheDark/",
     "entryPath": "index.html",
@@ -13110,7 +13122,8 @@
     "sourceDefaultBranch": "master",
     "sourceHeadSha": "0cad7b0a975756e7ec955cac070400b28564379e",
     "processedHeadSha": "8dbab5c3d9189395aac629f4604f054334489142",
-    "verificationDeferred": true
+    "reachable": true,
+    "reachabilityDetail": "https://webrpg.org/EnigmaDragons-IntoTheDark/ served an RPG Maker entry point and its startup resources"
   },
   {
     "id": "donjuanplatinum-irodorimidori-rpg-server",
@@ -13819,7 +13832,7 @@
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-09-21T03:37:10.773Z",
+    "checkedAt": "2026-09-27T03:58:19.411Z",
     "forkName": "ealiagay-RPG-Web-Game-Vercel",
     "pagesUrl": "https://webrpg.org/ealiagay-RPG-Web-Game-Vercel/",
     "entryPath": "index.html",
@@ -13846,7 +13859,7 @@
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-09-21T03:36:24.543Z",
+    "checkedAt": "2026-09-27T03:57:33.419Z",
     "forkName": "davidcolla11-La-Cruzada-del-Ebola",
     "pagesUrl": "https://webrpg.org/davidcolla11-La-Cruzada-del-Ebola/",
     "entryPath": "index.html",
@@ -13979,7 +13992,7 @@
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-09-21T03:37:03.022Z",
+    "checkedAt": "2026-09-27T03:58:14.877Z",
     "forkName": "drusepth-game-sandbox",
     "pagesUrl": "https://webrpg.org/drusepth-game-sandbox/",
     "entryPath": "index.html",
@@ -15765,7 +15778,7 @@
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-09-21T03:39:31.369Z",
+    "checkedAt": "2026-09-27T04:00:25.886Z",
     "forkName": "erasmojunkes-Mutant-Codebreaker",
     "pagesUrl": "https://webrpg.org/erasmojunkes-Mutant-Codebreaker/",
     "entryPath": "index.html",
@@ -15778,7 +15791,8 @@
     "sourceHeadSha": "167e0ad7251c2bd332135f1a9f7745a25de665a7",
     "processedHeadSha": "88f42c59d510958be06f776aff5eab0600f0c8e7",
     "coverPath": "cover.png",
-    "verificationDeferred": true
+    "reachable": true,
+    "reachabilityDetail": "https://webrpg.org/erasmojunkes-Mutant-Codebreaker/ served an RPG Maker entry point and its startup resources"
   },
   {
     "id": "aaron1299-muurien-valissa",
@@ -15888,7 +15902,7 @@
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "project/index.html",
-    "checkedAt": "2026-09-21T03:38:03.660Z",
+    "checkedAt": "2026-09-27T03:59:04.929Z",
     "forkName": "Electravirus-MV3D",
     "pagesUrl": "https://webrpg.org/Electravirus-MV3D/",
     "entryPath": "index.html",
@@ -15901,7 +15915,8 @@
     "sourceHeadSha": "0a6cde6b7691dbd8319dec7c69ac3a0250b78e38",
     "processedHeadSha": "7985ec8f21441cee78b51f32209914f6608a9def",
     "coverPath": "cover.png",
-    "verificationDeferred": true
+    "reachable": true,
+    "reachabilityDetail": "https://webrpg.org/Electravirus-MV3D/ served an RPG Maker entry point and its startup resources"
   },
   {
     "id": "pieworkplace-mota-mv-2",
@@ -16433,7 +16448,7 @@
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "public/games/matheus/index.html",
-    "checkedAt": "2026-09-21T03:38:57.321Z",
+    "checkedAt": "2026-09-27T04:00:00.628Z",
     "forkName": "eltonleao-happycodegames",
     "pagesUrl": "https://webrpg.org/eltonleao-happycodegames/",
     "entryPath": "index.html",
@@ -16443,10 +16458,11 @@
     "dataSize": 810480,
     "sourceRepo": "eltonleao/happycodegames",
     "coverPath": "cover.png",
-    "verificationDeferred": true,
     "sourceDefaultBranch": "master",
     "sourceHeadSha": "bd5d228e53ba1175af64a22c78909588409ded45",
-    "processedHeadSha": "f46e1d6156ecfe425329efa051c1f52ed3a52458"
+    "processedHeadSha": "f46e1d6156ecfe425329efa051c1f52ed3a52458",
+    "reachable": true,
+    "reachabilityDetail": "https://webrpg.org/eltonleao-happycodegames/ served an RPG Maker entry point and its startup resources"
   },
   {
     "id": "oblividev-subathon",
@@ -16713,7 +16729,7 @@
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-09-21T03:37:14.093Z",
+    "checkedAt": "2026-09-27T03:58:25.271Z",
     "forkName": "duong1234-li-HeroMOD",
     "pagesUrl": "https://webrpg.org/duong1234-li-HeroMOD/",
     "entryPath": "index.html",
@@ -17538,7 +17554,7 @@
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-09-21T03:39:37.181Z",
+    "checkedAt": "2026-09-27T04:00:49.197Z",
     "forkName": "Erizki0712-ONL-MV",
     "pagesUrl": "https://webrpg.org/Erizki0712-ONL-MV/",
     "entryPath": "index.html",
@@ -17551,7 +17567,8 @@
     "sourceHeadSha": "a0b841dab0cd72798aaa7f7fa3cf6810ef6c2582",
     "processedHeadSha": "a75d6fd86bcf1c733dd847e726cc5691ba470e24",
     "coverPath": "cover.png",
-    "verificationDeferred": true
+    "reachable": true,
+    "reachabilityDetail": "https://webrpg.org/Erizki0712-ONL-MV/ served an RPG Maker entry point and its startup resources"
   },
   {
     "id": "bthibaut-rpgmserver",
@@ -18914,7 +18931,7 @@
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-09-21T03:36:43.077Z",
+    "checkedAt": "2026-09-27T03:57:52.115Z",
     "forkName": "DiegoNave-diegonave.github.io",
     "pagesUrl": "https://webrpg.org/DiegoNave-diegonave.github.io/",
     "entryPath": "index.html",
@@ -20033,22 +20050,20 @@
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "DevIII/ScapeGame-main/fronted/login/src/assets/Prison/index.html",
-    "checkedAt": "2026-09-21T03:37:30.676Z",
+    "checkedAt": "2026-09-27T03:58:41.770Z",
     "forkName": "dudleydehenau-Ephec",
     "pagesUrl": "https://webrpg.org/dudleydehenau-Ephec/",
-    "entryPath": "DevIII/ScapeGame-dev/fronted/login/src/assets/Prison/index.html",
+    "entryPath": "index.html",
     "cover": "https://webrpg.org/dudleydehenau-Ephec/cover.png",
-    "validationScore": 115,
+    "validationScore": 108,
     "totalSize": 395996,
-    "dataSize": 0,
+    "dataSize": 918016,
     "sourceRepo": "dudleydehenau/Ephec",
     "sourceDefaultBranch": "main",
     "sourceHeadSha": "27b97ef306c71998d2ada026c7c080737f8c8ca9",
-    "processedHeadSha": "6e2fa5c901594193345ee01e1fc11e04debe34be",
-    "syncedFromSource": true,
-    "lastCheckError": "GitHub API 403: You have exceeded a secondary rate limit. Please wait a few minutes before you try again. For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service) If you reach out to GitHub Support for help, please include the request ID 7410:164E72:179ACA0:4F3FAA3:6AB0A6D3.",
-    "consecutiveFailures": 1,
-    "lastFailedAt": "2026-09-21T03:37:30.676Z"
+    "processedHeadSha": "f55ad42af34be970251cfec4894500d3f56ceaf4",
+    "coverPath": "cover.png",
+    "verificationDeferred": true
   },
   {
     "id": "lemarsito02-core",
@@ -20440,7 +20455,7 @@
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-09-21T03:37:17.582Z",
+    "checkedAt": "2026-09-27T03:58:32.990Z",
     "forkName": "Dyloso-AttacksOnDDD",
     "pagesUrl": "https://webrpg.org/Dyloso-AttacksOnDDD/",
     "entryPath": "index.html",
@@ -20453,7 +20468,8 @@
     "sourceHeadSha": "df7fc4928380c73cd696613ab29e9e0a4e1a761e",
     "processedHeadSha": "8f3b356681bc4720db8bad57f9589f041e41c696",
     "coverPath": "cover.png",
-    "verificationDeferred": true
+    "reachable": true,
+    "reachabilityDetail": "https://webrpg.org/Dyloso-AttacksOnDDD/ served an RPG Maker entry point and its startup resources"
   },
   {
     "id": "rinne-grid-tkoolmz-plugin-recollectionmodemz",
@@ -20966,7 +20982,7 @@
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "testProject/index.html",
-    "checkedAt": "2026-09-21T03:39:36.366Z",
+    "checkedAt": "2026-09-27T04:00:46.090Z",
     "forkName": "Epic12Terrarian-Road-to-Joshsdale",
     "pagesUrl": "https://webrpg.org/Epic12Terrarian-Road-to-Joshsdale/",
     "entryPath": "index.html",
@@ -20979,7 +20995,8 @@
     "sourceHeadSha": "c8c04b3ff18a40ab7c7674189020f35bdc7ceb41",
     "processedHeadSha": "220027f6cbc8c662e5e215d9127deffa6498dbed",
     "coverPath": "cover.png",
-    "verificationDeferred": true
+    "reachable": true,
+    "reachabilityDetail": "https://webrpg.org/Epic12Terrarian-Road-to-Joshsdale/ served an RPG Maker entry point and its startup resources"
   },
   {
     "id": "aguiano18-rpg-maker",
@@ -21135,7 +21152,7 @@
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "SpookySeaGame/index.html",
-    "checkedAt": "2026-09-21T03:38:30.765Z",
+    "checkedAt": "2026-09-27T03:59:26.262Z",
     "forkName": "eml17028-RPGMaker_Horror_GameJam_24",
     "pagesUrl": "https://webrpg.org/eml17028-RPGMaker_Horror_GameJam_24/",
     "entryPath": "index.html",
@@ -21148,7 +21165,8 @@
     "sourceHeadSha": "30f31111508f86fe461cbc5d77708eef163d9713",
     "processedHeadSha": "8679adf0a3562e4e1db9248cb05da51e7ecf2e23",
     "coverPath": "cover.png",
-    "verificationDeferred": true
+    "reachable": true,
+    "reachabilityDetail": "https://webrpg.org/eml17028-RPGMaker_Horror_GameJam_24/ served an RPG Maker entry point and its startup resources"
   },
   {
     "id": "h4cander-rpgmakerh4",
@@ -23934,7 +23952,7 @@
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "www/index.html",
-    "checkedAt": "2026-09-21T03:36:58.315Z",
+    "checkedAt": "2026-09-27T03:58:03.720Z",
     "forkName": "drclcomputers-The-Curse-of-The-Sceptrum",
     "pagesUrl": "https://webrpg.org/drclcomputers-The-Curse-of-The-Sceptrum/",
     "entryPath": "index.html",
@@ -23947,7 +23965,8 @@
     "sourceHeadSha": "592c7343f83b72c39f60de188394732f3d500854",
     "processedHeadSha": "c86aaa1d1431f05b43c159a6a0f2ab4cef3f9975",
     "coverPath": "cover.png",
-    "verificationDeferred": true
+    "reachable": true,
+    "reachabilityDetail": "https://webrpg.org/drclcomputers-The-Curse-of-The-Sceptrum/ served an RPG Maker entry point and its startup resources"
   },
   {
     "id": "dcarlin-devil-king-rpgmaker-mv-game",
@@ -24038,7 +24057,7 @@
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-09-21T03:36:58.465Z",
+    "checkedAt": "2026-09-27T03:58:15.236Z",
     "forkName": "discus-sions-The-Fall-PREVIEW2",
     "pagesUrl": "https://webrpg.org/discus-sions-The-Fall-PREVIEW2/",
     "entryPath": "index.html",
@@ -24315,7 +24334,7 @@
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-09-21T03:37:38.437Z",
+    "checkedAt": "2026-09-27T03:58:46.891Z",
     "forkName": "Cloudxtreme-The-Nights-Watch",
     "pagesUrl": "https://webrpg.org/Cloudxtreme-The-Nights-Watch/",
     "entryPath": "index.html",
@@ -24396,7 +24415,7 @@
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-09-21T03:39:13.814Z",
+    "checkedAt": "2026-09-27T04:00:26.126Z",
     "forkName": "EnigmaDragons-TheShutdown",
     "pagesUrl": "https://webrpg.org/EnigmaDragons-TheShutdown/",
     "entryPath": "index.html",
@@ -24971,7 +24990,7 @@
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-09-20T23:11:05.206Z",
+    "checkedAt": "2026-09-27T03:57:16.163Z",
     "forkName": "Darlos9D-TurnBasedStrategy",
     "pagesUrl": "https://webrpg.org/Darlos9D-TurnBasedStrategy/",
     "entryPath": "index.html",
@@ -24984,7 +25003,8 @@
     "sourceHeadSha": "0e89e04a355cc6077ad8c75b5b00c9f86fb0d156",
     "processedHeadSha": "89d98c5cabcb410def5b7b59a32b743e97ae2a6b",
     "coverPath": "cover.png",
-    "verificationDeferred": true
+    "reachable": true,
+    "reachabilityDetail": "https://webrpg.org/Darlos9D-TurnBasedStrategy/ served an RPG Maker entry point and its startup resources"
   },
   {
     "id": "briancain-tutorial-test",
@@ -25802,7 +25822,7 @@
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-09-21T03:36:26.398Z",
+    "checkedAt": "2026-09-27T03:57:35.084Z",
     "forkName": "Darius1325-the-enemy-within",
     "pagesUrl": "https://webrpg.org/Darius1325-the-enemy-within/",
     "entryPath": "index.html",
@@ -25815,7 +25835,8 @@
     "sourceHeadSha": "e7046cd23fee58f8162b2511705b72e887e18253",
     "processedHeadSha": "934828d1542745ea8148860c03284abe62af443d",
     "coverPath": "cover.png",
-    "verificationDeferred": true
+    "reachable": true,
+    "reachabilityDetail": "https://webrpg.org/Darius1325-the-enemy-within/ served an RPG Maker entry point and its startup resources"
   },
   {
     "id": "aewol09-wcn",
@@ -25978,7 +25999,7 @@
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-09-21T03:38:39.491Z",
+    "checkedAt": "2026-09-27T03:59:47.694Z",
     "forkName": "emay6-WhatLiesBeneath",
     "pagesUrl": "https://webrpg.org/emay6-WhatLiesBeneath/",
     "entryPath": "index.html",
@@ -25991,7 +26012,8 @@
     "sourceHeadSha": "01ae7c2f6c36a6e3b7303bdad87eab95af113dc5",
     "processedHeadSha": "ec528200f7346dab97b7ab023515dc65e96c0f86",
     "coverPath": "cover.png",
-    "verificationDeferred": true
+    "reachable": true,
+    "reachabilityDetail": "https://webrpg.org/emay6-WhatLiesBeneath/ served an RPG Maker entry point and its startup resources"
   },
   {
     "id": "dadaqi-xiaohuangyouslg",
@@ -26366,7 +26388,7 @@
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-09-20T23:11:04.829Z",
+    "checkedAt": "2026-09-27T03:57:18.592Z",
     "forkName": "Dalk12-DD",
     "pagesUrl": "https://webrpg.org/Dalk12-DD/",
     "entryPath": "index.html",
@@ -26379,7 +26401,8 @@
     "sourceHeadSha": "a745a35380441c31d47a2cc9409b5c756d004422",
     "processedHeadSha": "aa3003c6e28eb83a60e645ca7c9310bc0382b760",
     "coverPath": "cover.png",
-    "verificationDeferred": true
+    "reachable": true,
+    "reachabilityDetail": "https://webrpg.org/Dalk12-DD/ served an RPG Maker entry point and its startup resources"
   },
   {
     "id": "tmedrei-pereh2",
@@ -26463,7 +26486,7 @@
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-09-21T03:38:39.090Z",
+    "checkedAt": "2026-09-27T03:59:39.716Z",
     "forkName": "ELGHINN2512-CyberSchool",
     "pagesUrl": "https://webrpg.org/ELGHINN2512-CyberSchool/",
     "entryPath": "index.html",
@@ -26476,7 +26499,8 @@
     "sourceHeadSha": "6e9355f4cf23d18ff9107cdce75d8354f6721447",
     "processedHeadSha": "1b72d2a7109ba165bd201756fe662266d4d2d8f0",
     "coverPath": "cover.png",
-    "verificationDeferred": true
+    "reachable": true,
+    "reachabilityDetail": "https://webrpg.org/ELGHINN2512-CyberSchool/ served an RPG Maker entry point and its startup resources"
   },
   {
     "id": "elghinn2512-testgame",
@@ -26489,7 +26513,7 @@
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-09-21T03:38:20.975Z",
+    "checkedAt": "2026-09-27T03:59:17.433Z",
     "forkName": "ELGHINN2512-testGame",
     "pagesUrl": "https://webrpg.org/ELGHINN2512-testGame/",
     "entryPath": "index.html",
