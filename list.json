@@ -220,7 +220,7 @@
     "discoveredAt": "2026-06-20T13:59:12.969Z",
     "source": "github-code-search",
     "sourcePath": "Special/recoil/index.html",
-    "checkedAt": "2026-09-22T03:40:35.279Z",
+    "checkedAt": "2026-09-27T23:47:51.139Z",
     "forkName": "amarillonmc-amarillonmc.github.io",
     "pagesUrl": "https://webrpg.org/amarillonmc-amarillonmc.github.io/",
     "entryPath": "index.html",
@@ -233,7 +233,8 @@
     "sourceHeadSha": "8a326e5503f0c3e49073cf2fed5e5bd8b0eedb04",
     "processedHeadSha": "4ddda75d9ddf373cae6f72c992649654d9549737",
     "coverPath": "cover.png",
-    "verificationDeferred": true
+    "reachable": true,
+    "reachabilityDetail": "https://webrpg.org/amarillonmc-amarillonmc.github.io/ served an RPG Maker entry point and its startup resources"
   },
   {
     "id": "gamer-tool-studio-gamer-tool-studio-github-io",
@@ -273,7 +274,7 @@
     "discoveredAt": "2026-07-13T16:30:54.605Z",
     "source": "github-code-search",
     "sourcePath": "Assets/Ken-assets/Map Assets/MV版サンプルプロジェクト_住宅地/index.html",
-    "checkedAt": "2026-09-22T11:10:11.133Z",
+    "checkedAt": "2026-09-27T23:50:54.880Z",
     "forkName": "Chino-541-Saikou-no-Ramen-Damashi",
     "pagesUrl": "https://webrpg.org/Chino-541-Saikou-no-Ramen-Damashi/",
     "entryPath": "index.html",
@@ -286,7 +287,8 @@
     "sourceHeadSha": "cbe53d0960295bb75e163646357be47d61b0e3e1",
     "processedHeadSha": "d14ff1267c0debae78ee663c84c3c8385ec3f849",
     "coverPath": "cover.png",
-    "verificationDeferred": true
+    "reachable": true,
+    "reachabilityDetail": "https://webrpg.org/Chino-541-Saikou-no-Ramen-Damashi/ served an RPG Maker entry point and its startup resources"
   },
   {
     "id": "soycosmosgg-nimogames",
@@ -556,18 +558,18 @@
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "sideProject/NCUE107Physics/www/game.html",
-    "checkedAt": "2026-09-22T03:38:49.709Z",
+    "checkedAt": "2026-09-27T23:47:48.624Z",
     "forkName": "michaelpig0912-michaelpig0912.github.io",
     "pagesUrl": "https://webrpg.org/michaelpig0912-michaelpig0912.github.io/game.html",
     "entryPath": "game.html",
     "cover": "https://webrpg.org/michaelpig0912-michaelpig0912.github.io/cover.png",
     "validationScore": 100,
-    "totalSize": 608587,
+    "totalSize": 607933,
     "dataSize": 1621017,
     "sourceRepo": "michaelpig0912/michaelpig0912.github.io",
     "sourceDefaultBranch": "master",
-    "sourceHeadSha": "de01c6725b535d198a0a66c1ac640b9359b83392",
-    "processedHeadSha": "8fde9ed024f5dc123e49892d8c68dfc7a769441a",
+    "sourceHeadSha": "803eec3118c3b566d8e5c45ade24c4e7d24e3b6b",
+    "processedHeadSha": "987d0a57fc6442039259fef1472283aa432724e5",
     "syncedFromSource": true,
     "coverPath": "cover.png",
     "verificationDeferred": true
@@ -3463,12 +3465,11 @@
     "discoveredAt": "2026-06-21T08:56:26.601Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-09-22T11:08:36.872Z",
+    "checkedAt": "2026-09-27T23:49:11.574Z",
     "forkName": "IsekaiAgile-laboratory",
     "pagesUrl": "https://webrpg.org/IsekaiAgile-laboratory/",
     "entryPath": "index.html",
     "coverPath": "cover.png",
-    "verificationDeferred": true,
     "cover": "https://webrpg.org/IsekaiAgile-laboratory/cover.png",
     "validationScore": 108,
     "totalSize": 109074,
@@ -3476,7 +3477,9 @@
     "sourceRepo": "IsekaiAgile/laboratory",
     "sourceDefaultBranch": "main",
     "sourceHeadSha": "ca8d82caa78d62b0d145ac481e8683432d497d73",
-    "processedHeadSha": "8e37f4f13d64bd57b2330fb1ff592ec59212d39a"
+    "processedHeadSha": "8e37f4f13d64bd57b2330fb1ff592ec59212d39a",
+    "reachable": true,
+    "reachabilityDetail": "https://webrpg.org/IsekaiAgile-laboratory/ served an RPG Maker entry point and its startup resources"
   },
   {
     "id": "1lgr-treinamento-rpg-maker",
@@ -7284,7 +7287,7 @@
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "Project/index.html",
-    "checkedAt": "2026-09-22T03:38:52.082Z",
+    "checkedAt": "2026-09-27T23:47:19.434Z",
     "forkName": "monaca-monaca-quest",
     "pagesUrl": "https://webrpg.org/monaca-monaca-quest/",
     "entryPath": "index.html",
@@ -7297,7 +7300,8 @@
     "sourceHeadSha": "5df10c829ba610d7c50091ce8f0c18591fee808b",
     "processedHeadSha": "9d10aeaa797a37cd4c8e6183debc8b0a150d6b39",
     "coverPath": "cover.png",
-    "verificationDeferred": true
+    "reachable": true,
+    "reachabilityDetail": "https://webrpg.org/monaca-monaca-quest/ served an RPG Maker entry point and its startup resources"
   },
   {
     "id": "monaca-monaca-github-io",
@@ -7310,7 +7314,7 @@
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "rpg/index.html",
-    "checkedAt": "2026-09-22T03:38:45.810Z",
+    "checkedAt": "2026-09-27T23:47:13.236Z",
     "forkName": "monaca-monaca.github.io",
     "pagesUrl": "https://webrpg.org/monaca-monaca.github.io/",
     "entryPath": "index.html",
@@ -7323,7 +7327,8 @@
     "sourceHeadSha": "0f661723474081387c27bc0f1ad88c8842393dba",
     "processedHeadSha": "fb51e40c22df93bc067569d7256d0c2fd5af5542",
     "coverPath": "cover.png",
-    "verificationDeferred": true
+    "reachable": true,
+    "reachabilityDetail": "https://webrpg.org/monaca-monaca.github.io/ served an RPG Maker entry point and its startup resources"
   },
   {
     "id": "rpgtkoolmv-corescript",
@@ -8671,7 +8676,7 @@
     "discoveredAt": "2026-06-21T08:56:26.601Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-09-22T11:08:34.468Z",
+    "checkedAt": "2026-09-27T23:48:57.741Z",
     "forkName": "EC-Developer-Hub-desolationnn",
     "pagesUrl": "https://webrpg.org/EC-Developer-Hub-desolationnn/",
     "entryPath": "index.html",
@@ -9038,7 +9043,7 @@
     "discoveredAt": "2026-06-23T08:34:02.944Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-09-22T11:08:55.751Z",
+    "checkedAt": "2026-09-27T23:49:15.286Z",
     "forkName": "akanetr-Divirtual",
     "pagesUrl": "https://webrpg.org/akanetr-Divirtual/",
     "entryPath": "index.html",
@@ -9270,7 +9275,7 @@
     "discoveredAt": "2026-06-20T08:53:11.629Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-09-22T03:39:28.109Z",
+    "checkedAt": "2026-09-27T23:47:31.402Z",
     "forkName": "AdanRafli-Dreamcore-X1",
     "pagesUrl": "https://webrpg.org/AdanRafli-Dreamcore-X1/",
     "entryPath": "index.html",
@@ -9556,7 +9561,7 @@
     "discoveredAt": "2026-06-23T23:54:52.922Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-09-22T11:09:55.033Z",
+    "checkedAt": "2026-09-27T23:50:35.000Z",
     "forkName": "BotakHage-Eduventure",
     "pagesUrl": "https://webrpg.org/BotakHage-Eduventure/",
     "entryPath": "index.html",
@@ -12392,7 +12397,7 @@
     "discoveredAt": "2026-06-23T23:54:52.922Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-09-22T11:09:33.610Z",
+    "checkedAt": "2026-09-27T23:50:07.907Z",
     "forkName": "balensmatheo-balensmatheo.github.io",
     "pagesUrl": "https://webrpg.org/balensmatheo-balensmatheo.github.io/",
     "entryPath": "index.html",
@@ -12405,8 +12410,8 @@
     "sourceHeadSha": "d2182ff93d14ab4c43e958414503150ad8f793af",
     "processedHeadSha": "f78f921b4eb99ed347ac49ca1bd1819822f4b7a7",
     "coverPath": "cover.png",
-    "verificationDeferred": true,
-    "syncedFromSource": true
+    "reachable": true,
+    "reachabilityDetail": "https://webrpg.org/balensmatheo-balensmatheo.github.io/ served an RPG Maker entry point and its startup resources"
   },
   {
     "id": "balensmatheo-harassmentescape-github-io",
@@ -12419,7 +12424,7 @@
     "discoveredAt": "2026-06-23T23:54:52.922Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-09-22T11:09:34.631Z",
+    "checkedAt": "2026-09-27T23:50:09.290Z",
     "forkName": "balensmatheo-HarassmentEscape.github.io",
     "pagesUrl": "https://webrpg.org/balensmatheo-HarassmentEscape.github.io/",
     "entryPath": "index.html",
@@ -13415,7 +13420,7 @@
     "discoveredAt": "2026-06-23T23:54:52.922Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-09-22T11:09:23.664Z",
+    "checkedAt": "2026-09-27T23:49:53.030Z",
     "forkName": "ASlated-JSTesting",
     "pagesUrl": "https://webrpg.org/ASlated-JSTesting/",
     "entryPath": "index.html",
@@ -13907,7 +13912,7 @@
     "discoveredAt": "2026-06-23T23:54:52.922Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-09-22T11:09:57.963Z",
+    "checkedAt": "2026-09-27T23:50:52.650Z",
     "forkName": "CesarVfilo-videojuegosyfilosofia",
     "pagesUrl": "https://webrpg.org/CesarVfilo-videojuegosyfilosofia/",
     "entryPath": "index.html",
@@ -13988,7 +13993,7 @@
     "discoveredAt": "2026-06-15T10:30:32.062Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-09-22T03:40:35.806Z",
+    "checkedAt": "2026-09-27T23:47:58.509Z",
     "forkName": "Giltry-Lamento-de-las-Flores",
     "pagesUrl": "https://webrpg.org/Giltry-Lamento-de-las-Flores/",
     "entryPath": "index.html",
@@ -14504,7 +14509,7 @@
     "discoveredAt": "2026-06-23T23:54:52.922Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-09-22T11:09:13.991Z",
+    "checkedAt": "2026-09-27T23:49:45.211Z",
     "forkName": "Apokryph-lost_places",
     "pagesUrl": "https://webrpg.org/Apokryph-lost_places/",
     "entryPath": "index.html",
@@ -14637,7 +14642,7 @@
     "discoveredAt": "2026-06-20T13:59:12.969Z",
     "source": "github-code-search",
     "sourcePath": "Luxx/index.html",
-    "checkedAt": "2026-09-22T03:40:59.003Z",
+    "checkedAt": "2026-09-27T23:48:18.099Z",
     "forkName": "kellym19-Luxx",
     "pagesUrl": "https://webrpg.org/kellym19-Luxx/",
     "entryPath": "index.html",
@@ -14650,7 +14655,8 @@
     "sourceHeadSha": "2e9d4171d90292671da679ee2fd10d0bffce3144",
     "processedHeadSha": "9cdb05d43e0db26f4936621e20ee5399b8db0521",
     "coverPath": "cover.png",
-    "verificationDeferred": true
+    "reachable": true,
+    "reachabilityDetail": "https://webrpg.org/kellym19-Luxx/ served an RPG Maker entry point and its startup resources"
   },
   {
     "id": "tensaiando-remonaquest",
@@ -14932,7 +14938,7 @@
     "discoveredAt": "2026-06-23T23:54:52.922Z",
     "source": "github-code-search",
     "sourcePath": "Ingreso/homecoming/www/index.html",
-    "checkedAt": "2026-09-22T11:09:16.725Z",
+    "checkedAt": "2026-09-27T23:49:51.774Z",
     "forkName": "AnibalSJ-Last-Years",
     "pagesUrl": "https://webrpg.org/AnibalSJ-Last-Years/",
     "entryPath": "index.html",
@@ -14945,7 +14951,8 @@
     "sourceHeadSha": "d21d8d8421a18dfd996968d1c0268bbf1199b3bb",
     "processedHeadSha": "f958edeb27d7240a13e743dfa3df45b38782ceeb",
     "coverPath": "cover.png",
-    "verificationDeferred": true
+    "reachable": true,
+    "reachabilityDetail": "https://webrpg.org/AnibalSJ-Last-Years/ served an RPG Maker entry point and its startup resources"
   },
   {
     "id": "0x416c616e-2drpggamengine",
@@ -16449,7 +16456,7 @@
     "discoveredAt": "2026-06-21T08:56:26.601Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-09-22T11:08:34.734Z",
+    "checkedAt": "2026-09-27T23:48:58.049Z",
     "forkName": "paulo1211-O-Castelo-das-Sombras",
     "pagesUrl": "https://webrpg.org/paulo1211-O-Castelo-das-Sombras/",
     "entryPath": "index.html",
@@ -18387,7 +18394,7 @@
     "discoveredAt": "2026-06-21T04:01:38.873Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-09-22T03:41:21.879Z",
+    "checkedAt": "2026-09-27T23:48:38.269Z",
     "forkName": "leejh10003-PreProduction_foglands",
     "pagesUrl": "https://webrpg.org/leejh10003-PreProduction_foglands/",
     "entryPath": "index.html",
@@ -18593,7 +18600,7 @@
     "discoveredAt": "2026-09-03T15:50:07.720Z",
     "source": "github-code-search",
     "sourcePath": "Project Starman/index.html",
-    "checkedAt": "2026-09-22T11:09:47.869Z",
+    "checkedAt": "2026-09-27T23:50:28.804Z",
     "forkName": "Beeveelutions-Project-Starmans",
     "pagesUrl": "https://webrpg.org/Beeveelutions-Project-Starmans/",
     "entryPath": "index.html",
@@ -18606,7 +18613,8 @@
     "sourceHeadSha": "d4c63fed66fc3a1c65d4ce2ba100136d947cf72a",
     "processedHeadSha": "f029b3b28e26a376d2c2d2d4149433678ef790ea",
     "coverPath": "cover.png",
-    "verificationDeferred": true
+    "reachable": true,
+    "reachabilityDetail": "https://webrpg.org/Beeveelutions-Project-Starmans/ served an RPG Maker entry point and its startup resources"
   },
   {
     "id": "moonyoulove-project-tiny",
@@ -18725,7 +18733,7 @@
     "discoveredAt": "2026-06-20T11:17:06.834Z",
     "source": "github-code-search",
     "sourcePath": "Project1/index.html",
-    "checkedAt": "2026-09-22T03:39:49.301Z",
+    "checkedAt": "2026-09-27T23:47:40.280Z",
     "forkName": "affonsoamendola-oldprojects",
     "pagesUrl": "https://webrpg.org/affonsoamendola-oldprojects/",
     "entryPath": "Project1/index.html",
@@ -18737,9 +18745,9 @@
     "sourceDefaultBranch": "master",
     "sourceHeadSha": "996469b2fddda324685a8bb2e17c27391e7c31ae",
     "processedHeadSha": "1304aefd92f0af2c6a692185f4b384f434577584",
-    "lastCheckError": "GitHub API 403: You have exceeded a secondary rate limit. Please wait a few minutes before you try again. For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service) If you reach out to GitHub Support for help, please include the request ID 2C13:1B157C:1B7130B:59836B2:6AB1F8B2.",
-    "consecutiveFailures": 1,
-    "lastFailedAt": "2026-09-22T03:39:49.301Z"
+    "lastCheckError": "GitHub API 403: You have exceeded a secondary rate limit. Please wait a few minutes before you try again. For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service) If you reach out to GitHub Support for help, please include the request ID 7038:190DC5:13E46D9:416A0F4:6AB9AB59.",
+    "consecutiveFailures": 2,
+    "lastFailedAt": "2026-09-27T23:47:40.280Z"
   },
   {
     "id": "akshatiyer-gamejam2025",
@@ -19273,7 +19281,7 @@
     "discoveredAt": "2026-06-20T23:06:31.201Z",
     "source": "github-code-search",
     "sourcePath": "www/index.html",
-    "checkedAt": "2026-09-22T03:41:04.835Z",
+    "checkedAt": "2026-09-27T23:48:32.665Z",
     "forkName": "Luerl21-RPGMakerMV1",
     "pagesUrl": "https://webrpg.org/Luerl21-RPGMakerMV1/",
     "entryPath": "index.html",
@@ -19286,7 +19294,8 @@
     "sourceHeadSha": "8835190a2a584cff166035497715476af2f95e58",
     "processedHeadSha": "6725e514d955f5ed0c62ad8699c5f78eccbcdd2c",
     "coverPath": "cover.png",
-    "verificationDeferred": true
+    "reachable": true,
+    "reachabilityDetail": "https://webrpg.org/Luerl21-RPGMakerMV1/ served an RPG Maker entry point and its startup resources"
   },
   {
     "id": "manaten-rpgclitest",
@@ -19659,12 +19668,11 @@
     "discoveredAt": "2026-09-05T17:09:36.033Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-09-22T11:09:10.130Z",
+    "checkedAt": "2026-09-27T23:49:32.362Z",
     "forkName": "31madA-LIYAB-Prime",
     "pagesUrl": "https://webrpg.org/31madA-LIYAB-Prime/",
     "entryPath": "index.html",
     "coverPath": "cover.png",
-    "verificationDeferred": true,
     "cover": "https://webrpg.org/31madA-LIYAB-Prime/cover.png",
     "validationScore": 108,
     "totalSize": 471871,
@@ -19672,7 +19680,9 @@
     "sourceRepo": "31madA/LIYAB-Prime",
     "sourceDefaultBranch": "main",
     "sourceHeadSha": "df3b6c8a3f1a8ff6fdbea4a44055439bc97de0a7",
-    "processedHeadSha": "054d4bd5b919966c8f27477d0dfc06e8aba04209"
+    "processedHeadSha": "054d4bd5b919966c8f27477d0dfc06e8aba04209",
+    "reachable": true,
+    "reachabilityDetail": "https://webrpg.org/31madA-LIYAB-Prime/ served an RPG Maker entry point and its startup resources"
   },
   {
     "id": "chiyungjie-rpg20240811",
@@ -21139,7 +21149,7 @@
     "discoveredAt": "2026-06-23T08:34:02.944Z",
     "source": "github-code-search",
     "sourcePath": "demo/index.html",
-    "checkedAt": "2026-09-22T11:08:56.052Z",
+    "checkedAt": "2026-09-27T23:49:18.477Z",
     "forkName": "a2937-RPG-Maker-MV-Test-Template",
     "pagesUrl": "https://webrpg.org/a2937-RPG-Maker-MV-Test-Template/",
     "entryPath": "index.html",
@@ -21152,7 +21162,8 @@
     "sourceHeadSha": "3b63092c1ad1bc0342a6b0c28209dd1a7bc462e4",
     "processedHeadSha": "2d1f8c2ac023ed2f7a46ef65c143179caa3aad6d",
     "coverPath": "cover.png",
-    "verificationDeferred": true
+    "reachable": true,
+    "reachabilityDetail": "https://webrpg.org/a2937-RPG-Maker-MV-Test-Template/ served an RPG Maker entry point and its startup resources"
   },
   {
     "id": "lokilyn-rpgmakermv",
@@ -21866,7 +21877,7 @@
     "discoveredAt": "2026-06-23T08:34:02.944Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-09-22T11:09:00.521Z",
+    "checkedAt": "2026-09-27T23:49:32.567Z",
     "forkName": "EC-Developer-Hub-virusssss",
     "pagesUrl": "https://webrpg.org/EC-Developer-Hub-virusssss/",
     "entryPath": "index.html",
@@ -22653,7 +22664,7 @@
     "discoveredAt": "2026-06-23T23:54:52.922Z",
     "source": "github-code-search",
     "sourcePath": "www/index.html",
-    "checkedAt": "2026-09-22T11:09:53.647Z",
+    "checkedAt": "2026-09-27T23:51:03.183Z",
     "forkName": "caiocpassos-Sorcery-of-Truth",
     "pagesUrl": "https://webrpg.org/caiocpassos-Sorcery-of-Truth/",
     "entryPath": "index.html",
@@ -22666,7 +22677,8 @@
     "sourceHeadSha": "e267d5111b8ab962f843cf6ad779d94f01855dfc",
     "processedHeadSha": "0ebd41eb57dabf11442109163571629c8e9b4d60",
     "coverPath": "cover.png",
-    "verificationDeferred": true
+    "reachable": true,
+    "reachabilityDetail": "https://webrpg.org/caiocpassos-Sorcery-of-Truth/ served an RPG Maker entry point and its startup resources"
   },
   {
     "id": "frogboymv-health",
@@ -24504,7 +24516,7 @@
     "discoveredAt": "2026-06-20T13:59:12.969Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-09-22T03:40:46.626Z",
+    "checkedAt": "2026-09-27T23:48:15.427Z",
     "forkName": "apotb-the-trail",
     "pagesUrl": "https://webrpg.org/apotb-the-trail/",
     "entryPath": "index.html",
@@ -24515,8 +24527,8 @@
     "sourceDefaultBranch": "master",
     "sourceHeadSha": "451fdf5c17126e217017741228098b1a01f7ea1a",
     "processedHeadSha": "e826c16e053ecfaf757095380bacd67ffbd73840",
-    "verificationDeferred": true,
-    "syncedFromSource": true
+    "reachable": true,
+    "reachabilityDetail": "https://webrpg.org/apotb-the-trail/ served an RPG Maker entry point and its startup resources"
   },
   {
     "id": "patrick-ayo-misinformation-game",
@@ -26386,7 +26398,7 @@
     "discoveredAt": "2026-06-21T08:56:26.601Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-09-22T11:08:33.924Z",
+    "checkedAt": "2026-09-27T23:48:51.533Z",
     "forkName": "Wolverinexxxxxz-Sat-Muhammed-Ali-Ture",
     "pagesUrl": "https://webrpg.org/Wolverinexxxxxz-Sat-Muhammed-Ali-Ture/",
     "entryPath": "index.html",
@@ -26485,7 +26497,7 @@
     "discoveredAt": "2026-06-23T23:54:52.922Z",
     "source": "github-code-search",
     "sourcePath": "Подлая афера сэра Белика/index.html",
-    "checkedAt": "2026-09-22T11:09:41.176Z",
+    "checkedAt": "2026-09-27T23:50:14.608Z",
     "forkName": "Boris12432-Afera-belika-alfa-1.0",
     "pagesUrl": "https://webrpg.org/Boris12432-Afera-belika-alfa-1.0/",
     "entryPath": "index.html",
@@ -26498,7 +26510,8 @@
     "sourceHeadSha": "17df261eb38b43f44dcd45681cbbe938a7f7e6a8",
     "processedHeadSha": "75ac5abc171121c724fce09947b742bb3ad05c81",
     "coverPath": "cover.png",
-    "verificationDeferred": true
+    "reachable": true,
+    "reachabilityDetail": "https://webrpg.org/Boris12432-Afera-belika-alfa-1.0/ served an RPG Maker entry point and its startup resources"
   },
   {
     "id": "docpainkiller-fargohl",
@@ -26617,7 +26630,7 @@
     "discoveredAt": "2026-06-20T11:17:06.834Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-09-22T03:40:10.518Z",
+    "checkedAt": "2026-09-27T23:47:41.338Z",
     "forkName": "gorani777-1930",
     "pagesUrl": "https://webrpg.org/gorani777-1930/",
     "entryPath": "index.html",
@@ -26644,7 +26657,7 @@
     "discoveredAt": "2026-06-19T21:08:52.167Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-09-22T03:39:05.168Z",
+    "checkedAt": "2026-09-27T23:47:13.255Z",
     "forkName": "ServerMana-Country-Life",
     "pagesUrl": "https://webrpg.org/ServerMana-Country-Life/",
     "entryPath": "index.html",
