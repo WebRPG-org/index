@@ -25169,6 +25169,19 @@
     "reachabilityDetail": "https://webrpg.org/EpxStudio-Universe25/ served an RPG Maker entry point and its startup resources"
   },
   {
+    "id": "gmshelf-ckv",
+    "title": "University of Adelaide",
+    "repo": "https://github.com/gmshelf/ckv",
+    "owner": "gmshelf",
+    "name": "ckv",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "discoveredAt": "2026-09-27T11:27:35.975Z",
+    "source": "github-code-search",
+    "sourcePath": "ckv/omori.html",
+    "plannedForkName": "gmshelf-ckv"
+  },
+  {
     "id": "nebuli-os-nebuli-os-github-io",
     "title": "University of Adelaide",
     "repo": "https://github.com/Nebuli-OS/Nebuli-OS.github.io",
