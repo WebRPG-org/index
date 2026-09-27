@@ -6698,6 +6698,19 @@
     "reachabilityDetail": "https://webrpg.org/yutom3-UCI-CKI-RPGMMO/ served an RPG Maker entry point and its startup resources"
   },
   {
+    "id": "azelme-star-destiny",
+    "title": "Clean Project",
+    "repo": "https://github.com/AzelMe/Star-Destiny",
+    "owner": "AzelMe",
+    "name": "Star-Destiny",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "discoveredAt": "2026-09-27T03:50:22.274Z",
+    "source": "github-code-search",
+    "sourcePath": "index.html",
+    "plannedForkName": "AzelMe-Star-Destiny"
+  },
+  {
     "id": "sonata-chan-clubecaixao",
     "title": "clubecaixao",
     "repo": "https://github.com/Sonata-chan/clubecaixao",
