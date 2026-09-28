@@ -3506,6 +3506,19 @@
     "deletedAt": "2026-09-20T10:49:28.335Z"
   },
   {
+    "id": "harleythetech-a-gift",
+    "title": "A Gift.",
+    "repo": "https://github.com/Harleythetech/A-Gift.",
+    "owner": "Harleythetech",
+    "name": "A-Gift.",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "discoveredAt": "2026-09-28T03:50:00.397Z",
+    "source": "github-code-search",
+    "sourcePath": "index.html",
+    "plannedForkName": "Harleythetech-A-Gift"
+  },
+  {
     "id": "pedromaxdev-a-lenda-de-camutanga",
     "title": "A Lenda de Camutanga",
     "repo": "https://github.com/PedroMaxDEV/A-LENDA-DE-CAMUTANGA",
@@ -4170,6 +4183,19 @@
     "syncedFromSource": true,
     "invalidReason": "No RPG Maker MV/MZ HTML entry point loading js/main.js was found.",
     "deletedAt": "2026-09-22T00:00:14.627Z"
+  },
+  {
+    "id": "rex-lam-anti-fraudx",
+    "title": "AntiFraudX",
+    "repo": "https://github.com/rex-lam/Anti-FraudX",
+    "owner": "rex-lam",
+    "name": "Anti-FraudX",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "discoveredAt": "2026-09-28T03:50:00.397Z",
+    "source": "github-code-search",
+    "sourcePath": "RPG_platform/RPG_Project/rpg_game.html",
+    "plannedForkName": "rex-lam-Anti-FraudX"
   },
   {
     "id": "puteourien2-puteourien2-github-io",
@@ -23896,6 +23922,19 @@
     "consecutiveFailures": 1,
     "lastFailedAt": "2026-09-16T11:02:51.408Z",
     "invalidReason": "GitHub API 422: Sorry, your request timed out.  It's likely that your input was too large to process.  Consider building the tree incrementally, or building the commits you need in a local clone of the repository and then pushing them to GitHub."
+  },
+  {
+    "id": "kidev-testrepo",
+    "title": "The Coffin of Andy and Leyley",
+    "repo": "https://github.com/Kidev/TestRepo",
+    "owner": "Kidev",
+    "name": "TestRepo",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "discoveredAt": "2026-09-28T03:50:00.397Z",
+    "source": "github-code-search",
+    "sourcePath": "www/index.html",
+    "plannedForkName": "Kidev-TestRepo"
   },
   {
     "id": "suhukk-bbb",
