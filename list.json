@@ -10435,6 +10435,19 @@
     "validationScore": 50
   },
   {
+    "id": "ubghyper-gamelist-github-io",
+    "title": "Fear & Hunger 2: TERMINA",
+    "repo": "https://github.com/UBGHyper/GameList.github.io",
+    "owner": "UBGHyper",
+    "name": "GameList.github.io",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "discoveredAt": "2026-09-28T12:59:37.347Z",
+    "source": "github-code-search",
+    "sourcePath": "Fear-and-Hunger-2-Termina/index.html",
+    "plannedForkName": "UBGHyper-GameList.github.io"
+  },
+  {
     "id": "web-ports-fear-and-hunger-2",
     "title": "Fear & Hunger 2: TERMINA",
     "repo": "https://github.com/web-ports/fear-and-hunger-2",
@@ -23963,7 +23976,6 @@
     "discoveredAt": "2026-09-28T03:50:00.397Z",
     "source": "github-code-search",
     "sourcePath": "www/index.html",
-    "plannedForkName": "Kidev-TestRepo",
     "checkedAt": "2026-09-28T03:57:15.567Z",
     "forkName": "Kidev-TestRepo",
     "lastCheckError": "GitHub API 502: Server Error",
