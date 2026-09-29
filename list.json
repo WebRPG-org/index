@@ -6924,6 +6924,19 @@
     "validationScore": 45
   },
   {
+    "id": "nethywy-ui-ugs-singlefile",
+    "title": "Cold Front",
+    "repo": "https://github.com/Nethywy-ui/ugs-singlefile",
+    "owner": "Nethywy-ui",
+    "name": "ugs-singlefile",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "discoveredAt": "2026-09-29T19:47:35.955Z",
+    "source": "github-code-search",
+    "sourcePath": "UGS-Files/clcoldfront.html",
+    "plannedForkName": "Nethywy-ui-ugs-singlefile"
+  },
+  {
     "id": "pixonetwork-galactic-lite-storage",
     "title": "Cold Front",
     "repo": "https://github.com/pixonetwork/galactic-lite-storage",
