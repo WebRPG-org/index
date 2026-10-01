@@ -13016,6 +13016,19 @@
     "reachabilityDetail": "https://webrpg.org/Donais04-ISATArchipelago/ served an RPG Maker entry point and its startup resources"
   },
   {
+    "id": "phant0m0567-games",
+    "title": "IN STARS AND TIME v1.0.6.3",
+    "repo": "https://github.com/Phant0m0567/games",
+    "owner": "Phant0m0567",
+    "name": "games",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "discoveredAt": "2026-10-01T12:29:57.692Z",
+    "source": "github-code-search",
+    "sourcePath": "In Stars and Time/index.html",
+    "plannedForkName": "Phant0m0567-games"
+  },
+  {
     "id": "prismdev3-chalkle",
     "title": "IN STARS AND TIME v1.0.6.3",
     "repo": "https://github.com/PrismDev3/chalkle",
@@ -16694,6 +16707,19 @@
     "invalidReason": "RPG Maker structure is incomplete near MOREGAMES/OTHERONES/BLOODMONEY!.html.",
     "deletedAt": "2026-06-18T04:16:39.492Z",
     "validationScore": 45
+  },
+  {
+    "id": "axk-coder-cool-maths",
+    "title": "OMORI",
+    "repo": "https://github.com/axk-coder/Cool-maths",
+    "owner": "axk-coder",
+    "name": "Cool-maths",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "discoveredAt": "2026-10-01T12:29:57.692Z",
+    "source": "github-code-search",
+    "sourcePath": "public/truffled/gamefile/truffled-omori-webport-335.html",
+    "plannedForkName": "axk-coder-Cool-maths"
   },
   {
     "id": "axk-coder-void",
