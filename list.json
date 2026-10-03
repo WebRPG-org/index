@@ -8154,7 +8154,6 @@
     "discoveredAt": "2026-10-03T20:37:17.726Z",
     "source": "github-code-search",
     "sourcePath": "assets/src/deadplate/index.html",
-    "plannedForkName": "coinbaselarper-celestial",
     "checkedAt": "2026-10-03T20:44:49.404Z",
     "forkName": "coinbaselarper-celestial",
     "invalidReason": "No RPG Maker MV/MZ HTML entry point loading js/main.js was found.",
