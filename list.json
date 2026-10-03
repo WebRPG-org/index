@@ -3078,6 +3078,19 @@
     "reachabilityDetail": "https://webrpg.org/CNFrestone-RPGTCYX/ served an RPG Maker entry point and its startup resources"
   },
   {
+    "id": "ddceka-faraway-celesphia",
+    "title": "遥かなるセレスフィア v2.0.0 [ctrl]メッセージウィンドウ非表示",
+    "repo": "https://github.com/ddCeka/faraway-celesphia",
+    "owner": "ddCeka",
+    "name": "faraway-celesphia",
+    "engine": "RPG Maker MZ",
+    "status": "indexed",
+    "discoveredAt": "2026-10-02T21:51:00.712Z",
+    "source": "github-code-search",
+    "sourcePath": "resources/app/project/index.html",
+    "plannedForkName": "ddCeka-faraway-celesphia"
+  },
+  {
     "id": "ciallo0721-cmd-ciallo0721-cmd-github-io",
     "title": "一坨大的要来了",
     "repo": "https://github.com/ciallo0721-cmd/ciallo0721-cmd.github.io",
@@ -12995,6 +13008,19 @@
     "coverPath": "cover.png",
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/Donais04-ISATArchipelago/ served an RPG Maker entry point and its startup resources"
+  },
+  {
+    "id": "obitocourage-commits-solid-dollop",
+    "title": "IN STARS AND TIME v1.0.6.3",
+    "repo": "https://github.com/ObitoCourage-commits/solid-dollop",
+    "owner": "ObitoCourage-commits",
+    "name": "solid-dollop",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "discoveredAt": "2026-10-03T03:55:23.124Z",
+    "source": "github-code-search",
+    "sourcePath": "667-fix.html",
+    "plannedForkName": "ObitoCourage-commits-solid-dollop"
   },
   {
     "id": "phant0m0567-games",
