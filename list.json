@@ -8144,6 +8144,19 @@
     "validationScore": 45
   },
   {
+    "id": "coinbaselarper-celestial",
+    "title": "DEAD PLATE",
+    "repo": "https://github.com/coinbaselarper/celestial",
+    "owner": "coinbaselarper",
+    "name": "celestial",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "discoveredAt": "2026-10-03T20:37:17.726Z",
+    "source": "github-code-search",
+    "sourcePath": "assets/src/deadplate/index.html",
+    "plannedForkName": "coinbaselarper-celestial"
+  },
+  {
     "id": "frenchhelp-games",
     "title": "DEAD PLATE",
     "repo": "https://github.com/FrenchHelp/Games",
@@ -13051,6 +13064,19 @@
     "checkedAt": "2026-10-01T12:38:42.749Z",
     "forkName": "Phant0m0567-games",
     "invalidReason": "Repository has 833 HTML files, exceeding the 500 file limit."
+  },
+  {
+    "id": "phant0m0567-lessons",
+    "title": "IN STARS AND TIME v1.0.6.3",
+    "repo": "https://github.com/Phant0m0567/lessons",
+    "owner": "Phant0m0567",
+    "name": "lessons",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "discoveredAt": "2026-10-03T20:37:17.726Z",
+    "source": "github-code-search",
+    "sourcePath": "In Stars and Time/index.html",
+    "plannedForkName": "Phant0m0567-lessons"
   },
   {
     "id": "prismdev3-chalkle",
