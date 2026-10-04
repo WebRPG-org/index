@@ -8522,6 +8522,19 @@
     "validationScore": 45
   },
   {
+    "id": "t4ctica1yt-tactics-v2",
+    "title": "DEAD PLATE",
+    "repo": "https://github.com/T4ctica1YT/TACTICS-V2",
+    "owner": "T4ctica1YT",
+    "name": "TACTICS-V2",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "discoveredAt": "2026-10-04T11:49:26.778Z",
+    "source": "github-code-search",
+    "sourcePath": "assets/htmlandpng/DEAD PLATE.html",
+    "plannedForkName": "T4ctica1YT-TACTICS-V2"
+  },
+  {
     "id": "verdjs-idkrly1919",
     "title": "DEAD PLATE",
     "repo": "https://github.com/verdjs/idkrly1919",
