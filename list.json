@@ -18779,6 +18779,19 @@
     "reachabilityDetail": "https://webrpg.org/immortal3180-Project_RPG/ served an RPG Maker entry point and its startup resources"
   },
   {
+    "id": "amarillonmc-pj-spaceship",
+    "title": "Project Spaceship",
+    "repo": "https://github.com/amarillonmc/pj_Spaceship",
+    "owner": "amarillonmc",
+    "name": "pj_Spaceship",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "discoveredAt": "2026-10-06T12:48:07.065Z",
+    "source": "github-code-search",
+    "sourcePath": "index.html",
+    "plannedForkName": "amarillonmc-pj_Spaceship"
+  },
+  {
     "id": "beeveelutions-project-starmans",
     "title": "Project Starman",
     "repo": "https://github.com/Beeveelutions/Project-Starmans",
