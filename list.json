@@ -4924,7 +4924,6 @@
     "discoveredAt": "2026-10-08T10:02:44.665Z",
     "source": "github-code-search",
     "sourcePath": "assets/html/main/bloodmoney.html",
-    "plannedForkName": "Catchallcat5382-Unbl0ck3d-Zone-Remix",
     "checkedAt": "2026-10-08T10:11:13.111Z",
     "forkName": "Catchallcat5382-Unbl0ck3d-Zone-Remix",
     "invalidReason": "No RPG Maker MV/MZ HTML entry point loading js/main.js was found.",
@@ -10611,6 +10610,19 @@
     "validationScore": 45
   },
   {
+    "id": "c3p0r2d2luke-lla",
+    "title": "Fear Hunger",
+    "repo": "https://github.com/c3p0r2d2luke/lla",
+    "owner": "c3p0r2d2luke",
+    "name": "lla",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "discoveredAt": "2026-10-08T18:27:22.707Z",
+    "source": "github-code-search",
+    "sourcePath": "s/schoolwork/html-main/706-fix.html",
+    "plannedForkName": "c3p0r2d2luke-lla"
+  },
+  {
     "id": "hyperfrog7-books",
     "title": "Fear Hunger",
     "repo": "https://github.com/HyperFrog7/books",
@@ -13645,6 +13657,45 @@
     "processedHeadSha": "cf29a1c886e1399e27992b4d3d3d4c6cb315686c",
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/mantojoshua-mantojoshua.github.io/ served an RPG Maker entry point and its startup resources"
+  },
+  {
+    "id": "harleythetech-jovellano-act1",
+    "title": "Jovellano_ACT1",
+    "repo": "https://github.com/Harleythetech/Jovellano_ACT1",
+    "owner": "Harleythetech",
+    "name": "Jovellano_ACT1",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "discoveredAt": "2026-10-08T18:27:22.707Z",
+    "source": "github-code-search",
+    "sourcePath": "index.html",
+    "plannedForkName": "Harleythetech-Jovellano_ACT1"
+  },
+  {
+    "id": "harleythetech-jovellano-act2",
+    "title": "Jovellano_ACT2",
+    "repo": "https://github.com/Harleythetech/Jovellano_ACT2",
+    "owner": "Harleythetech",
+    "name": "Jovellano_ACT2",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "discoveredAt": "2026-10-08T18:27:22.707Z",
+    "source": "github-code-search",
+    "sourcePath": "index.html",
+    "plannedForkName": "Harleythetech-Jovellano_ACT2"
+  },
+  {
+    "id": "harleythetech-jovellano-act3",
+    "title": "Jovellano_ACT3",
+    "repo": "https://github.com/Harleythetech/Jovellano_ACT3",
+    "owner": "Harleythetech",
+    "name": "Jovellano_ACT3",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "discoveredAt": "2026-10-08T18:27:22.707Z",
+    "source": "github-code-search",
+    "sourcePath": "index.html",
+    "plannedForkName": "Harleythetech-Jovellano_ACT3"
   },
   {
     "id": "aslated-jstesting",
