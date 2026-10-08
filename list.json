@@ -4896,6 +4896,19 @@
     "invalidReason": "Repository has 2793 HTML files, exceeding the 500 file limit."
   },
   {
+    "id": "b4936955-hue-g4m3s123",
+    "title": "Bloodmoney",
+    "repo": "https://github.com/b4936955-hue/G4m3s123",
+    "owner": "b4936955-hue",
+    "name": "G4m3s123",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "discoveredAt": "2026-10-08T00:43:05.602Z",
+    "source": "github-code-search",
+    "sourcePath": "assets/html/main/bloodmoney.html",
+    "plannedForkName": "b4936955-hue-G4m3s123"
+  },
+  {
     "id": "67-factory-nikosgames",
     "title": "BLOODMONEY!",
     "repo": "https://github.com/67-Factory/nikosgames",
@@ -13180,6 +13193,19 @@
     "invalidReason": "RPG Maker structure is incomplete near 427-z.html.",
     "deletedAt": "2026-06-15T15:57:02.749Z",
     "validationScore": 45
+  },
+  {
+    "id": "zaka13alt-history",
+    "title": "IN STARS AND TIME v1.0.6.3",
+    "repo": "https://github.com/zaka13alt/history",
+    "owner": "zaka13alt",
+    "name": "history",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "discoveredAt": "2026-10-08T00:43:05.602Z",
+    "source": "github-code-search",
+    "sourcePath": "english/667-fixes2.html",
+    "plannedForkName": "zaka13alt-history"
   },
   {
     "id": "plumelumyn-in-the-hall-of-the-king-kong",
