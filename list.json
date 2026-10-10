@@ -8199,6 +8199,19 @@
     "validationScore": 0
   },
   {
+    "id": "drunkenkermit-kermit-rtpk-network-v2",
+    "title": "DEAD PLATE",
+    "repo": "https://github.com/DrunkenKermit/Kermit-RTPK-Network-V2",
+    "owner": "DrunkenKermit",
+    "name": "Kermit-RTPK-Network-V2",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "discoveredAt": "2026-10-10T04:28:36.267Z",
+    "source": "github-code-search",
+    "sourcePath": "stores/gn-math/462.html",
+    "plannedForkName": "DrunkenKermit-Kermit-RTPK-Network-V2"
+  },
+  {
     "id": "frenchhelp-games",
     "title": "DEAD PLATE",
     "repo": "https://github.com/FrenchHelp/Games",
