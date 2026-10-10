@@ -17251,6 +17251,19 @@
     "validationScore": 45
   },
   {
+    "id": "gnome-steader-dotgui",
+    "title": "OMORI",
+    "repo": "https://github.com/Gnome-Steader/dotgui",
+    "owner": "Gnome-Steader",
+    "name": "dotgui",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "discoveredAt": "2026-10-10T21:11:51.880Z",
+    "source": "github-code-search",
+    "sourcePath": "game-embeds/omori.html",
+    "plannedForkName": "Gnome-Steader-dotgui"
+  },
+  {
     "id": "holy-unblocker-theatre",
     "title": "OMORI",
     "repo": "https://github.com/holy-unblocker/theatre",
