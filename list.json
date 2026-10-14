@@ -4929,6 +4929,19 @@
     "validationScore": 0
   },
   {
+    "id": "s0n-1m-cr1n3-sc13nc3",
+    "title": "Bloodmoney",
+    "repo": "https://github.com/s0n-1m-cr1n3/sc13nc3",
+    "owner": "s0n-1m-cr1n3",
+    "name": "sc13nc3",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "discoveredAt": "2026-10-14T14:20:34.200Z",
+    "source": "github-code-search",
+    "sourcePath": "assets/html/main/bloodmoney.html",
+    "plannedForkName": "s0n-1m-cr1n3-sc13nc3"
+  },
+  {
     "id": "67-factory-nikosgames",
     "title": "BLOODMONEY!",
     "repo": "https://github.com/67-Factory/nikosgames",
@@ -20593,6 +20606,19 @@
     "syncedFromSource": true,
     "invalidReason": "No RPG Maker MV/MZ HTML entry point loading js/main.js was found.",
     "deletedAt": "2026-09-19T15:32:46.499Z"
+  },
+  {
+    "id": "elgworks-truth-stone-seekers",
+    "title": "Quests of Ancient Relics: Distant World",
+    "repo": "https://github.com/ELGWorks/Truth-Stone-Seekers",
+    "owner": "ELGWorks",
+    "name": "Truth-Stone-Seekers",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "discoveredAt": "2026-10-14T14:20:34.200Z",
+    "source": "github-code-search",
+    "sourcePath": "www/www/index.html",
+    "plannedForkName": "ELGWorks-Truth-Stone-Seekers"
   },
   {
     "id": "cheekibreeki421-quillquest3",
