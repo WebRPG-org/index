@@ -4854,6 +4854,19 @@
     "deletedAt": "2026-09-21T20:03:39.935Z"
   },
   {
+    "id": "nephiginnett-bijou",
+    "title": "Bijou",
+    "repo": "https://github.com/NephiGinnett/Bijou",
+    "owner": "NephiGinnett",
+    "name": "Bijou",
+    "engine": "RPG Maker MZ",
+    "status": "indexed",
+    "discoveredAt": "2026-10-15T10:54:19.082Z",
+    "source": "github-code-search",
+    "sourcePath": "Bijou/index.html",
+    "plannedForkName": "NephiGinnett-Bijou"
+  },
+  {
     "id": "salaxios-sonar-js",
     "title": "BlankProject",
     "repo": "https://github.com/salaxios/Sonar.js",
