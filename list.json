@@ -8141,6 +8141,19 @@
     "reachabilityDetail": "https://webrpg.org/SheikhSafwan-Daybreak/ served an RPG Maker entry point and its startup resources"
   },
   {
+    "id": "0nebyte-ctrl-neon-vault",
+    "title": "DEAD PLATE",
+    "repo": "https://github.com/0neByte-Ctrl/neon-vault",
+    "owner": "0neByte-Ctrl",
+    "name": "neon-vault",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "discoveredAt": "2026-10-15T23:36:48.537Z",
+    "source": "github-code-search",
+    "sourcePath": "iframe/462.html",
+    "plannedForkName": "0neByte-Ctrl-neon-vault"
+  },
+  {
     "id": "1ucent-centauri",
     "title": "DEAD PLATE",
     "repo": "https://github.com/1ucent/centauri",
