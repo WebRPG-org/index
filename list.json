@@ -5177,6 +5177,19 @@
     "invalidReason": "Repository has 1253 HTML files, exceeding the 500 file limit."
   },
   {
+    "id": "dapoofermaker-gm2",
+    "title": "BLOODMONEY!",
+    "repo": "https://github.com/DaPooferMaker/gm2",
+    "owner": "DaPooferMaker",
+    "name": "gm2",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "discoveredAt": "2026-10-17T10:11:27.185Z",
+    "source": "github-code-search",
+    "sourcePath": "bubbls ugs-singlefile main UGS-Files/clbloodmoney.html",
+    "plannedForkName": "DaPooferMaker-gm2"
+  },
+  {
     "id": "darkdragonzxs-zxs-games",
     "title": "BLOODMONEY!",
     "repo": "https://github.com/Darkdragonzxs/ZXS-games",
