@@ -17734,6 +17734,19 @@
     "validationScore": 45
   },
   {
+    "id": "notreallyrx-omori",
+    "title": "OMORI",
+    "repo": "https://github.com/NotReallyRx/omori",
+    "owner": "NotReallyRx",
+    "name": "omori",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "discoveredAt": "2026-10-18T22:47:36.700Z",
+    "source": "github-code-search",
+    "sourcePath": "index.html",
+    "plannedForkName": "NotReallyRx-omori"
+  },
+  {
     "id": "phexus23-phexus23-github-io",
     "title": "OMORI",
     "repo": "https://github.com/phexus23/phexus23.github.io",
