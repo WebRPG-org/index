@@ -354,6 +354,19 @@
     "reachabilityDetail": "https://webrpg.org/WataKoro-GameDevProject/ served an RPG Maker entry point and its startup resources"
   },
   {
+    "id": "demostenespedrosa-1889",
+    "title": "1889: o Último Império",
+    "repo": "https://github.com/demostenespedrosa/1889",
+    "owner": "demostenespedrosa",
+    "name": "1889",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "discoveredAt": "2026-10-19T20:22:33.468Z",
+    "source": "github-code-search",
+    "sourcePath": "index.html",
+    "plannedForkName": "demostenespedrosa-1889"
+  },
+  {
     "id": "xwilarg-19thrpgmakerhorrorjam",
     "title": "19thRPGMakerHorrorJam",
     "repo": "https://github.com/Xwilarg/19thRPGMakerHorrorJam",
