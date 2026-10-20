@@ -19606,6 +19606,19 @@
     "lastFailedAt": "2026-10-19T12:22:01.795Z"
   },
   {
+    "id": "eldoig-wamai",
+    "title": "Project1",
+    "repo": "https://github.com/ElDoig/Wamai",
+    "owner": "ElDoig",
+    "name": "Wamai",
+    "engine": "RPG Maker MZ",
+    "status": "indexed",
+    "discoveredAt": "2026-10-20T00:06:43.573Z",
+    "source": "github-code-search",
+    "sourcePath": "Project/index.html",
+    "plannedForkName": "ElDoig-Wamai"
+  },
+  {
     "id": "eslym-rmmz-cordova",
     "title": "Project1",
     "repo": "https://github.com/eslym/rmmz-cordova",
