@@ -25516,6 +25516,19 @@
     "reachabilityDetail": "https://webrpg.org/tnguy510-Split-4/ served an RPG Maker entry point and its startup resources"
   },
   {
+    "id": "newtranslator007-rgb-trench-face-thai-patch",
+    "title": "Trench Face",
+    "repo": "https://github.com/newtranslator007-rgb/Trench-Face-Thai-patch",
+    "owner": "newtranslator007-rgb",
+    "name": "Trench-Face-Thai-patch",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "discoveredAt": "2026-10-21T16:39:57.879Z",
+    "source": "github-code-search",
+    "sourcePath": "www/index.html",
+    "plannedForkName": "newtranslator007-rgb-Trench-Face-Thai-patch"
+  },
+  {
     "id": "getsentry-hackweek-trialbytriage",
     "title": "Trial by Triage",
     "repo": "https://github.com/getsentry/hackweek-trialbytriage",
