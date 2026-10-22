@@ -8715,7 +8715,6 @@
     "discoveredAt": "2026-10-21T21:16:47.449Z",
     "source": "github-code-search",
     "sourcePath": "stores/gn-math/462.html",
-    "plannedForkName": "UnblockableMan-svg",
     "checkedAt": "2026-10-21T21:25:05.535Z",
     "forkName": "UnblockableMan-svg",
     "invalidReason": "Repository has 778 HTML files, exceeding the 500 file limit."
