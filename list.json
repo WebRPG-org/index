@@ -16293,7 +16293,6 @@
     "discoveredAt": "2026-10-22T11:12:24.352Z",
     "source": "github-code-search",
     "sourcePath": "fixtures/engines/rpgmaker-mz/index.html",
-    "plannedForkName": "originai-game-wizard",
     "checkedAt": "2026-10-22T16:51:24.156Z",
     "forkName": "originai-game-wizard",
     "invalidReason": "Missing files: fixtures/engines/rpgmaker-mv/www/js/rpg_managers.js, fixtures/engines/rpgmaker-mv/www/js/rpg_objects.js, fixtures/engines/rpgmaker-mv/www/js/rpg_scenes.js, fixtures/engines/rpgmaker-mv/www/js/rpg_sprites.js, fixtures/engines/rpgmaker-mv/www/js/rpg_windows.js, fixtures/engines/rpgmaker-mv/www/js/plugins.js, fixtures/engines/rpgmaker-mv/www/data/Actors.json, fixtures/engines/rpgmaker-mv/www/data/Classes.json, fixtures/engines/rpgmaker-mv/www/data/Skills.json, fixtures/engines/rpgmaker-mv/www/data/Items.json, fixtures/engines/rpgmaker-mv/www/data/Weapons.json, fixtures/engines/rpgmaker-mv/www/data/Armors.json, fixtures/engines/rpgmaker-mv/www/data/Enemies.json, fixtures/engines/rpgmaker-mv/www/data/Troops.json, fixtures/engines/rpgmaker-mv/www/data/States.json, fixtures/engines/rpgmaker-mv/www/data/Animations.json, fixtures/engines/rpgmaker-mv/www/data/Tilesets.json, fixtures/engines/rpgmaker-mv/www/data/CommonEvents.json, fixtures/engines/rpgmaker-mv/www/data/System.json, fixtures/engines/rpgmaker-mv/www/data/MapInfos.json; Startup does not load: js/rpg_managers.js, js/rpg_objects.js, js/rpg_scenes.js, js/rpg_sprites.js, js/rpg_windows.js, js/plugins.js",
@@ -25932,7 +25931,6 @@
     "discoveredAt": "2026-10-22T16:40:46.144Z",
     "source": "github-code-search",
     "sourcePath": "gamefiles/DEAD PLATE.html",
-    "plannedForkName": "bingletonbartos-bingletonbartos.github.io",
     "checkedAt": "2026-10-22T16:51:24.875Z",
     "forkName": "bingletonbartos-bingletonbartos.github.io",
     "invalidReason": "Repository has 1701 HTML files, exceeding the 500 file limit."
