@@ -16283,6 +16283,19 @@
     "reachabilityDetail": "https://webrpg.org/Synrec-Monster-Capture-MZ/ served an RPG Maker entry point and its startup resources"
   },
   {
+    "id": "originai-game-wizard",
+    "title": "Moonlit Harbor",
+    "repo": "https://github.com/originai-game/wizard",
+    "owner": "originai-game",
+    "name": "wizard",
+    "engine": "RPG Maker MZ",
+    "status": "indexed",
+    "discoveredAt": "2026-10-22T11:12:24.352Z",
+    "source": "github-code-search",
+    "sourcePath": "fixtures/engines/rpgmaker-mz/index.html",
+    "plannedForkName": "originai-game-wizard"
+  },
+  {
     "id": "jackdarker-moonwood",
     "title": "MoonWood",
     "repo": "https://github.com/jackdarker/MoonWood",
@@ -25902,6 +25915,19 @@
     "processedHeadSha": "30525f6100665ce720be7bcbc1fde0b3595e9da2",
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/EpxStudio-Universe25/ served an RPG Maker entry point and its startup resources"
+  },
+  {
+    "id": "bingletonbartos-bingletonbartos-github-io",
+    "title": "University of Adelaide",
+    "repo": "https://github.com/bingletonbartos/bingletonbartos.github.io",
+    "owner": "bingletonbartos",
+    "name": "bingletonbartos.github.io",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "discoveredAt": "2026-10-22T16:40:46.144Z",
+    "source": "github-code-search",
+    "sourcePath": "gamefiles/DEAD PLATE.html",
+    "plannedForkName": "bingletonbartos-bingletonbartos.github.io"
   },
   {
     "id": "gmshelf-ckv",
