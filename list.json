@@ -461,6 +461,19 @@
     "reachabilityDetail": "https://webrpg.org/Yesenmidnight-2000sEscape/ served an RPG Maker entry point and its startup resources"
   },
   {
+    "id": "dungjane4112-droid-30-lewd",
+    "title": "30 Lewd Days with My Adolescent Little Sister",
+    "repo": "https://github.com/dungjane4112-droid/30-lewd",
+    "owner": "dungjane4112-droid",
+    "name": "30-lewd",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "discoveredAt": "2026-10-22T11:12:24.352Z",
+    "source": "github-code-search",
+    "sourcePath": "index.html",
+    "plannedForkName": "dungjane4112-droid-30-lewd"
+  },
+  {
     "id": "28lpotter-28lpotter-github-io",
     "title": "3D Horror Early build",
     "repo": "https://github.com/28LPotter/28LPotter.github.io",
