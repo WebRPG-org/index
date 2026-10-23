@@ -23692,6 +23692,19 @@
     "reachabilityDetail": "https://webrpg.org/QuantumTrolling-CursedMemory/ served an RPG Maker entry point and its startup resources"
   },
   {
+    "id": "html-online-game-summer-memories",
+    "title": "Summer Memories+ v2.03",
+    "repo": "https://github.com/html-online-game/summer-memories",
+    "owner": "html-online-game",
+    "name": "summer-memories",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "discoveredAt": "2026-10-23T16:30:40.541Z",
+    "source": "github-code-search",
+    "sourcePath": "index.html",
+    "plannedForkName": "html-online-game-summer-memories"
+  },
+  {
     "id": "excel-magic-tech",
     "title": "Summoner Support",
     "repo": "https://github.com/Excel/magic-tech",
