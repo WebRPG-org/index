@@ -18206,6 +18206,19 @@
     "validationScore": 45
   },
   {
+    "id": "yaanscoat-lonlii",
+    "title": "OMORI",
+    "repo": "https://github.com/yaanscoat/lonlii",
+    "owner": "yaanscoat",
+    "name": "lonlii",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "discoveredAt": "2026-10-24T22:54:23.223Z",
+    "source": "github-code-search",
+    "sourcePath": "games/gn-math/427-z.html",
+    "plannedForkName": "yaanscoat-lonlii"
+  },
+  {
     "id": "yellowdevelopment-sienna",
     "title": "OMORI",
     "repo": "https://github.com/yellowdevelopment/sienna",
