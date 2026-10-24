@@ -13421,7 +13421,6 @@
     "discoveredAt": "2026-10-24T10:20:11.320Z",
     "source": "github-code-search",
     "sourcePath": "gnm/667-fix.html",
-    "plannedForkName": "solargames-cosmosis-neo",
     "checkedAt": "2026-10-24T10:28:14.670Z",
     "forkName": "solargames-cosmosis-neo",
     "invalidReason": "Repository has 2460 HTML files, exceeding the 500 file limit."
