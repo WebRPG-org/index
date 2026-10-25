@@ -16784,6 +16784,19 @@
     "reachabilityDetail": "https://webrpg.org/Dai696-MZPlus/ served an RPG Maker entry point and its startup resources"
   },
   {
+    "id": "html-online-game-natsu-no-sagashimono",
+    "title": "Natsu no Sagashimono v1.04",
+    "repo": "https://github.com/html-online-game/natsu-no-sagashimono",
+    "owner": "html-online-game",
+    "name": "natsu-no-sagashimono",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "discoveredAt": "2026-10-25T15:36:00.140Z",
+    "source": "github-code-search",
+    "sourcePath": "index.html",
+    "plannedForkName": "html-online-game-natsu-no-sagashimono"
+  },
+  {
     "id": "zhiwei-zhiwei-game-rpgmaker-magicnomagic",
     "title": "Nature no Nature",
     "repo": "https://github.com/zhiwei-zhiwei/Game_RPGMaker_MagicnoMagic",
