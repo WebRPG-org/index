@@ -435,6 +435,19 @@
     "reachabilityDetail": "https://webrpg.org/HanbitGaram-1ststudio-game/ served an RPG Maker entry point and its startup resources"
   },
   {
+    "id": "tsuji-eiji-rpg-maker",
+    "title": "1stツクール",
+    "repo": "https://github.com/tsuji-eiji/RPG_Maker",
+    "owner": "tsuji-eiji",
+    "name": "RPG_Maker",
+    "engine": "RPG Maker MZ",
+    "status": "indexed",
+    "discoveredAt": "2026-10-26T12:18:25.259Z",
+    "source": "github-code-search",
+    "sourcePath": "index.html",
+    "plannedForkName": "tsuji-eiji-RPG_Maker"
+  },
+  {
     "id": "yesenmidnight-2000sescape",
     "title": "2000sEscape",
     "repo": "https://github.com/Yesenmidnight/2000sEscape",
@@ -10130,6 +10143,19 @@
     "reachabilityDetail": "https://webrpg.org/dariusstrasel-RMMV_EngineDemo/ served an RPG Maker entry point and its startup resources"
   },
   {
+    "id": "tenantintent-englishherotrial",
+    "title": "English Hero 英語勇者",
+    "repo": "https://github.com/tenantintent/EnglishHeroTrial",
+    "owner": "tenantintent",
+    "name": "EnglishHeroTrial",
+    "engine": "RPG Maker MZ",
+    "status": "indexed",
+    "discoveredAt": "2026-10-26T12:18:25.259Z",
+    "source": "github-code-search",
+    "sourcePath": "index.html",
+    "plannedForkName": "tenantintent-EnglishHeroTrial"
+  },
+  {
     "id": "isaacrogovski-enigmaria",
     "title": "Enigmária",
     "repo": "https://github.com/IsaacRogovski/enigmaria",
@@ -15624,6 +15650,19 @@
     "processedHeadSha": "7b2ff66ed982ebc1ed9757b2f2b7dd4c1e87e1b1",
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/rtlh0-marcarpg/ served an RPG Maker entry point and its startup resources"
+  },
+  {
+    "id": "literallycat-marsbarsthegamewebedition",
+    "title": "Mars bars save Christmas",
+    "repo": "https://github.com/literallycat/marsbarsthegamewebedition",
+    "owner": "literallycat",
+    "name": "marsbarsthegamewebedition",
+    "engine": "RPG Maker MZ",
+    "status": "indexed",
+    "discoveredAt": "2026-10-26T12:18:25.259Z",
+    "source": "github-code-search",
+    "sourcePath": "index.html",
+    "plannedForkName": "literallycat-marsbarsthegamewebedition"
   },
   {
     "id": "klimberkg-mask-of-dead-2-shadow-of-pelagius",
@@ -24539,6 +24578,19 @@
     "reachabilityDetail": "https://webrpg.org/koohdev-chronicles/ served an RPG Maker entry point and its startup resources"
   },
   {
+    "id": "koohdev-chronicles-demo",
+    "title": "Tests",
+    "repo": "https://github.com/koohdev/chronicles-demo",
+    "owner": "koohdev",
+    "name": "chronicles-demo",
+    "engine": "RPG Maker MZ",
+    "status": "indexed",
+    "discoveredAt": "2026-10-26T12:18:25.259Z",
+    "source": "github-code-search",
+    "sourcePath": "index.html",
+    "plannedForkName": "koohdev-chronicles-demo"
+  },
+  {
     "id": "teritaris-tenxym-en",
     "title": "That Time I Got Reincarnated in another world, fiat currency is XYM",
     "repo": "https://github.com/teritaris/tenxym_en",
@@ -24976,6 +25028,19 @@
     "processedHeadSha": "aca3ec9265a536850016a656ffd5207b3ca3a46b",
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/JadaMase-Biology/ served an RPG Maker entry point and its startup resources"
+  },
+  {
+    "id": "elzorno-rpgmakerlsp",
+    "title": "The Last Sword Protocol",
+    "repo": "https://github.com/Elzorno/rpgmakerLSP",
+    "owner": "Elzorno",
+    "name": "rpgmakerLSP",
+    "engine": "RPG Maker MZ",
+    "status": "indexed",
+    "discoveredAt": "2026-10-26T12:18:25.259Z",
+    "source": "github-code-search",
+    "sourcePath": "index.html",
+    "plannedForkName": "Elzorno-rpgmakerLSP"
   },
   {
     "id": "jdrevets-afk-kenshen",
@@ -26321,6 +26386,19 @@
     "sourceRepo": "zoujiahuan/TheGame4Muse",
     "invalidReason": "No RPG Maker MV/MZ HTML entry point loading js/main.js was found.",
     "deletedAt": "2026-09-18T16:05:03.836Z"
+  },
+  {
+    "id": "blacktunes-vbup-game",
+    "title": "VBUP GAME",
+    "repo": "https://github.com/blacktunes/vbup-game",
+    "owner": "blacktunes",
+    "name": "vbup-game",
+    "engine": "RPG Maker MZ",
+    "status": "indexed",
+    "discoveredAt": "2026-10-26T12:18:25.259Z",
+    "source": "github-code-search",
+    "sourcePath": "index.html",
+    "plannedForkName": "blacktunes-vbup-game"
   },
   {
     "id": "ojoh1993-scp-oopart",
