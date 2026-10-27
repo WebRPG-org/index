@@ -10034,6 +10034,19 @@
     "reachabilityDetail": "https://webrpg.org/gcascalese-TFG_UOC/ served an RPG Maker entry point and its startup resources"
   },
   {
+    "id": "na-na-ti-game-design",
+    "title": "Eles ainda estão nas paredes!",
+    "repo": "https://github.com/Na-Na-Ti/Game-Design",
+    "owner": "Na-Na-Ti",
+    "name": "Game-Design",
+    "engine": "RPG Maker MZ",
+    "status": "indexed",
+    "discoveredAt": "2026-10-27T00:14:32.450Z",
+    "source": "github-code-search",
+    "sourcePath": "index.html",
+    "plannedForkName": "Na-Na-Ti-Game-Design"
+  },
+  {
     "id": "jacsongold-12dtm-rpgmakergame-repository",
     "title": "Elise.",
     "repo": "https://github.com/JacsonGold/12DTM-RPGMakerGame-Repository",
@@ -12774,6 +12787,19 @@
     "consecutiveFailures": 2,
     "lastFailedAt": "2026-09-22T11:10:41.263Z",
     "invalidReason": "GitHub API 403: Resource not accessible by integration"
+  },
+  {
+    "id": "vaultmancs-gar-thegame",
+    "title": "Grasping at Reality: The Game",
+    "repo": "https://github.com/VaultManCs/GaR_TheGame",
+    "owner": "VaultManCs",
+    "name": "GaR_TheGame",
+    "engine": "RPG Maker MZ",
+    "status": "indexed",
+    "discoveredAt": "2026-10-27T00:14:32.450Z",
+    "source": "github-code-search",
+    "sourcePath": "index.html",
+    "plannedForkName": "VaultManCs-GaR_TheGame"
   },
   {
     "id": "jesussantos05-greenhorizon",
@@ -15874,6 +15900,19 @@
     "deletedAt": "2026-09-20T03:44:29.892Z"
   },
   {
+    "id": "octx29-max-aura-the-legend-of-john",
+    "title": "Max Aura : The Legend of John",
+    "repo": "https://github.com/Octx29/Max-Aura-The-Legend-of-John",
+    "owner": "Octx29",
+    "name": "Max-Aura-The-Legend-of-John",
+    "engine": "RPG Maker MZ",
+    "status": "indexed",
+    "discoveredAt": "2026-10-27T00:14:32.450Z",
+    "source": "github-code-search",
+    "sourcePath": "index.html",
+    "plannedForkName": "Octx29-Max-Aura-The-Legend-of-John"
+  },
+  {
     "id": "fannarhrafn-veffortvoloka",
     "title": "Maze of Levers",
     "repo": "https://github.com/FannarHrafn/veffortvoloka",
@@ -16206,6 +16245,19 @@
     "syncedFromSource": true,
     "invalidReason": "Unresolved script references: ../../assets/javascript/time.js",
     "deletedAt": "2026-09-25T03:44:19.347Z"
+  },
+  {
+    "id": "thiagoschumann-play-financial-mystery",
+    "title": "Mistério Financeiro: A Jornada de Chico",
+    "repo": "https://github.com/ThiagoSchumann/play-financial-mystery",
+    "owner": "ThiagoSchumann",
+    "name": "play-financial-mystery",
+    "engine": "RPG Maker MZ",
+    "status": "indexed",
+    "discoveredAt": "2026-10-27T00:14:32.450Z",
+    "source": "github-code-search",
+    "sourcePath": "index.html",
+    "plannedForkName": "ThiagoSchumann-play-financial-mystery"
   },
   {
     "id": "clone1018-mv-mmo-test",
@@ -27052,6 +27104,19 @@
     "processedHeadSha": "7b51e2e9ca9d3382bc45a2a09a18daefa05acb8f",
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/athillaazka-What-A-Roll/ served an RPG Maker entry point and its startup resources"
+  },
+  {
+    "id": "leeashlee-what-happened-here",
+    "title": "What Happened Here!",
+    "repo": "https://github.com/leeashlee/what-happened-here",
+    "owner": "leeashlee",
+    "name": "what-happened-here",
+    "engine": "RPG Maker MZ",
+    "status": "indexed",
+    "discoveredAt": "2026-10-27T00:14:32.450Z",
+    "source": "github-code-search",
+    "sourcePath": "index.html",
+    "plannedForkName": "leeashlee-what-happened-here"
   },
   {
     "id": "emay6-whatliesbeneath",
