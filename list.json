@@ -6792,6 +6792,19 @@
     "reachabilityDetail": "https://webrpg.org/SaiguruNagula-ik2/ served an RPG Maker entry point and its startup resources"
   },
   {
+    "id": "camzzz-vrgt-toby-web",
+    "title": "Childhood's End",
+    "repo": "https://github.com/Camzzz-vrgt/Toby-Web",
+    "owner": "Camzzz-vrgt",
+    "name": "Toby-Web",
+    "engine": "RPG Maker MZ",
+    "status": "indexed",
+    "discoveredAt": "2026-10-28T04:09:12.089Z",
+    "source": "github-code-search",
+    "sourcePath": "files/childhoods-end/index.html",
+    "plannedForkName": "Camzzz-vrgt-Toby-Web"
+  },
+  {
     "id": "koohdev-chronicles-of-arithmos",
     "title": "Chronicles of Arithmos",
     "repo": "https://github.com/koohdev/chronicles_of_arithmos",
