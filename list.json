@@ -19590,6 +19590,19 @@
     "reachabilityDetail": "https://webrpg.org/kushpatel43-RPG_Maker/ served an RPG Maker entry point and its startup resources"
   },
   {
+    "id": "gil9red-rpg-maker-mz-foo",
+    "title": "Project-Foo",
+    "repo": "https://github.com/gil9red/RPG-Maker-MZ-Foo",
+    "owner": "gil9red",
+    "name": "RPG-Maker-MZ-Foo",
+    "engine": "RPG Maker MZ",
+    "status": "indexed",
+    "discoveredAt": "2026-10-30T17:44:06.818Z",
+    "source": "github-code-search",
+    "sourcePath": "index.html",
+    "plannedForkName": "gil9red-RPG-Maker-MZ-Foo"
+  },
+  {
     "id": "0ui0-owo-terminal-public",
     "title": "Project1",
     "repo": "https://github.com/0ui0/owo_terminal_public",
