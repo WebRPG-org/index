@@ -3969,6 +3969,19 @@
     "processedHeadSha": "b6bf76d554239f92e2bd2eb77993c20cd9d9d314"
   },
   {
+    "id": "deasyprod-ds-dsgame",
+    "title": "AIDEASY",
+    "repo": "https://github.com/deasyprod-ds/DSgame",
+    "owner": "deasyprod-ds",
+    "name": "DSgame",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "discoveredAt": "2026-10-31T16:51:26.813Z",
+    "source": "github-code-search",
+    "sourcePath": "index.html",
+    "plannedForkName": "deasyprod-ds-DSgame"
+  },
+  {
     "id": "ailab-foi-aiworld",
     "title": "AIWorld",
     "repo": "https://github.com/AILab-FOI/AIWorld",
@@ -9260,6 +9273,19 @@
     "processedHeadSha": "7ac85f7febd342ab534df9f688dc898ef58cef79",
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/Sawasaki-coder-test-game/ served an RPG Maker entry point and its startup resources"
+  },
+  {
+    "id": "sawasaki-coder-thu",
+    "title": "Di Qua Mua Ha",
+    "repo": "https://github.com/Sawasaki-coder/Thu",
+    "owner": "Sawasaki-coder",
+    "name": "Thu",
+    "engine": "RPG Maker MZ",
+    "status": "indexed",
+    "discoveredAt": "2026-10-31T11:43:37.382Z",
+    "source": "github-code-search",
+    "sourcePath": "Legacy/RPGMaker/HaGames/index.html",
+    "plannedForkName": "Sawasaki-coder-Thu"
   },
   {
     "id": "ovate-rmmv-dice",
