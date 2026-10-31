@@ -3943,6 +3943,19 @@
     "validationScore": 0
   },
   {
+    "id": "savesub-ahazon-dash-en",
+    "title": "AHAZONDASH!",
+    "repo": "https://github.com/SaveSub/AHAZON_DASH_EN",
+    "owner": "SaveSub",
+    "name": "AHAZON_DASH_EN",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "discoveredAt": "2026-10-31T11:43:37.382Z",
+    "source": "github-code-search",
+    "sourcePath": "index.html",
+    "plannedForkName": "SaveSub-AHAZON_DASH_EN"
+  },
+  {
     "id": "ailab-foi-aiworld",
     "title": "AIWorld",
     "repo": "https://github.com/AILab-FOI/AIWorld",
