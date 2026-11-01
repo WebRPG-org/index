@@ -23235,6 +23235,19 @@
     "reachabilityDetail": "https://webrpg.org/takoikatakotako-HappyBirthday-2018/ served an RPG Maker entry point and its startup resources"
   },
   {
+    "id": "juaniliguere-agraria",
+    "title": "Shop Map Pack 1",
+    "repo": "https://github.com/juaniliguere/Agraria",
+    "owner": "juaniliguere",
+    "name": "Agraria",
+    "engine": "RPG Maker MZ",
+    "status": "indexed",
+    "discoveredAt": "2026-10-31T21:00:31.314Z",
+    "source": "github-code-search",
+    "sourcePath": "assets/pantallas/tienda/ShopMapPack1 (1)/ShopMapPack1/index.html",
+    "plannedForkName": "juaniliguere-Agraria"
+  },
+  {
     "id": "ec-developer-hub-showdownnn",
     "title": "showdownnn",
     "repo": "https://github.com/EC-Developer-Hub/showdownnn",
