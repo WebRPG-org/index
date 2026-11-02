@@ -10863,6 +10863,19 @@
     "reachabilityDetail": "https://webrpg.org/SillyLittleLuaScripter-fear-and-hunger/ served an RPG Maker entry point and its startup resources"
   },
   {
+    "id": "master234534567-calc",
+    "title": "Fear & Hunger 2: TERMINA",
+    "repo": "https://github.com/master234534567/calc",
+    "owner": "master234534567",
+    "name": "calc",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "discoveredAt": "2026-11-02T21:25:41.926Z",
+    "source": "github-code-search",
+    "sourcePath": "gamelist/Fear-and-Hunger-2-Termina/index.html",
+    "plannedForkName": "master234534567-calc"
+  },
+  {
     "id": "phexusmath-phexusmath-github-io",
     "title": "Fear & Hunger 2: TERMINA",
     "repo": "https://github.com/phexusmath/phexusmath.github.io",
