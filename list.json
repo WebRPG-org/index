@@ -9263,6 +9263,19 @@
     "reachabilityDetail": "https://webrpg.org/NautsSky-nautssky/ served an RPG Maker entry point and its startup resources"
   },
   {
+    "id": "sawasaki-coder-ha-thu",
+    "title": "Di Qua Mua Ha",
+    "repo": "https://github.com/Sawasaki-coder/ha-thu",
+    "owner": "Sawasaki-coder",
+    "name": "ha-thu",
+    "engine": "RPG Maker MZ",
+    "status": "indexed",
+    "discoveredAt": "2026-11-04T10:30:05.122Z",
+    "source": "github-code-search",
+    "sourcePath": "Legacy/RPGMaker/HaGames/index.html",
+    "plannedForkName": "Sawasaki-coder-ha-thu"
+  },
+  {
     "id": "sawasaki-coder-test-game",
     "title": "Di Qua Mua Ha",
     "repo": "https://github.com/Sawasaki-coder/test-game-",
@@ -17275,7 +17288,6 @@
     "discoveredAt": "2026-11-04T10:30:05.122Z",
     "source": "github-code-search",
     "sourcePath": "engine/index.html",
-    "plannedForkName": "ninetranslator-ninetranslator-tutorial-rpgm",
     "checkedAt": "2026-11-04T10:40:08.139Z",
     "forkName": "ninetranslator-ninetranslator-tutorial-rpgm",
     "lastCheckError": "GitHub API 502: Server Error",
@@ -22327,6 +22339,19 @@
     "coverPath": "cover.png",
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/eml17028-RPGMaker_Horror_GameJam_24/ served an RPG Maker entry point and its startup resources"
+  },
+  {
+    "id": "nekobotmx-rpgmaker-mv-mz-android-studio",
+    "title": "rpgmaker-mv-mz-android-studio",
+    "repo": "https://github.com/NEKOBOTMX/rpgmaker-mv-mz-android-studio",
+    "owner": "NEKOBOTMX",
+    "name": "rpgmaker-mv-mz-android-studio",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "discoveredAt": "2026-11-04T19:23:58.946Z",
+    "source": "github-code-search",
+    "sourcePath": "android/app/src/main/assets/www/index.html",
+    "plannedForkName": "NEKOBOTMX-rpgmaker-mv-mz-android-studio"
   },
   {
     "id": "h4cander-rpgmakerh4",
