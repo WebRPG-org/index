@@ -18583,6 +18583,19 @@
     "validationScore": 0
   },
   {
+    "id": "nashkitwo-onisan",
+    "title": "OniSan",
+    "repo": "https://github.com/NASHKITWO/OniSan",
+    "owner": "NASHKITWO",
+    "name": "OniSan",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "discoveredAt": "2026-11-05T19:31:35.180Z",
+    "source": "github-code-search",
+    "sourcePath": "index.html",
+    "plannedForkName": "NASHKITWO-OniSan"
+  },
+  {
     "id": "erizki0712-onl-mv",
     "title": "ONL-MV",
     "repo": "https://github.com/Erizki0712/ONL-MV",
