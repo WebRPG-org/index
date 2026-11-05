@@ -22339,7 +22339,6 @@
     "discoveredAt": "2026-11-04T19:23:58.946Z",
     "source": "github-code-search",
     "sourcePath": "android/app/src/main/assets/www/index.html",
-    "plannedForkName": "NEKOBOTMX-rpgmaker-mv-mz-android-studio",
     "checkedAt": "2026-11-04T19:33:09.287Z",
     "forkName": "NEKOBOTMX-rpgmaker-mv-mz-android-studio",
     "invalidReason": "No RPG Maker MV/MZ HTML entry point loading js/main.js was found.",
