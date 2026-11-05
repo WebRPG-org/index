@@ -27685,6 +27685,19 @@
     "processedHeadSha": "3ba6147a72e2112d2eec9de7efac2bcc93d0b7ac"
   },
   {
+    "id": "thermaplates-yure-party",
+    "title": "Yure Party",
+    "repo": "https://github.com/Thermaplates/Yure_Party",
+    "owner": "Thermaplates",
+    "name": "Yure_Party",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "discoveredAt": "2026-11-05T10:23:06.980Z",
+    "source": "github-code-search",
+    "sourcePath": "index.html",
+    "plannedForkName": "Thermaplates-Yure_Party"
+  },
+  {
     "id": "luisaugusto2005-cheeesss",
     "title": "Zadrez",
     "repo": "https://github.com/LuisAugusto2005/Cheeesss",
