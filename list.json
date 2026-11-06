@@ -27261,6 +27261,19 @@
     "syncedFromSource": true
   },
   {
+    "id": "wasmdotrip-wasm-rip",
+    "title": "wasm.rip",
+    "repo": "https://github.com/wasmdotrip/wasm.rip",
+    "owner": "wasmdotrip",
+    "name": "wasm.rip",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "discoveredAt": "2026-11-06T10:24:43.467Z",
+    "source": "github-code-search",
+    "sourcePath": "files/dead-plate/index.html",
+    "plannedForkName": "wasmdotrip-wasm.rip"
+  },
+  {
     "id": "aewol09-wcn",
     "title": "WCN",
     "repo": "https://github.com/aewol09/wcn",
