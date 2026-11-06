@@ -12143,7 +12143,15 @@
     "processedHeadSha": "3fbf4df69483b380556952df8a5b4cab51c23439",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/ISUNCY-RPGMakerMV-TaskSystem-Plugins/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/ISUNCY-RPGMakerMV-TaskSystem-Plugins/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "template"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "ismailabdurrahimnf-gangster-jakarta",
@@ -13775,7 +13783,15 @@
     "processedHeadSha": "6b9cffda87bc3ce92106ec122e76e39fd2a76202",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/DaxSoft-immersion_package/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/DaxSoft-immersion_package/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "template"
+      ],
+      "nsfw": false,
+      "playable": false,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "johbcodes-fictional-train",
@@ -14567,7 +14583,15 @@
     "processedHeadSha": "5efe590f03bc9b02fc19063703e455614aef2731",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/ASlated-JSTesting/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/ASlated-JSTesting/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "template"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "szatkus-wachaj-pale-kajdaniarzu",
@@ -15312,7 +15336,20 @@
     "sourceHeadSha": "ee7c3c4afbd91389f684b0f0395e6e5367e21755",
     "processedHeadSha": "26998f78416be31a827828ed893298f56e758b21",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/Yjjsw-LiChuan/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/Yjjsw-LiChuan/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "adventure"
+      ],
+      "languages": [
+        "zh-Hans"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "mytriv-lightpathfinder",
@@ -15417,7 +15454,15 @@
     "processedHeadSha": "777df46964078bf98447ec7dead3048dcdfdd259",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/CardCaph-rpg-pwa-test-1/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/CardCaph-rpg-pwa-test-1/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "template"
+      ],
+      "nsfw": false,
+      "playable": false,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "tw123777tw-littledifficulty0-9-3",
@@ -15831,7 +15876,15 @@
     "sourceHeadSha": "14e1e3f5ffa91c8cfd9570cddff1020030d1585d",
     "processedHeadSha": "c5420583b7234c47a96c5cd3d71b337745dea0ae",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/theartofme-rmmv-ink/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/theartofme-rmmv-ink/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "template"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "wiktoryk-maciekthegame",
@@ -15885,7 +15938,20 @@
     "processedHeadSha": "7d5e3789ec90cabac35ad2120b99edfde3731e08",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/CollinSumrell-Sunset-Valley/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/CollinSumrell-Sunset-Valley/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "adventure"
+      ],
+      "languages": [
+        "en"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "luciddreamforcapstone-luciddream",
@@ -16034,7 +16100,15 @@
     "sourceHeadSha": "c5909adbf237441da520122e975e4ce17d40727f",
     "processedHeadSha": "ec3ab9a2d9703455b36c68d9d2dd998b667fa970",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/XMandarava-Plugins4RMMV/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/XMandarava-Plugins4RMMV/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "template"
+      ],
+      "nsfw": false,
+      "playable": false,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "sticky1705-gradproject",
@@ -16433,7 +16507,15 @@
     "sourceHeadSha": "f12e08b48d8b27b219d8b3b604c512d1d5391a87",
     "processedHeadSha": "934f8228c690007ab6f3d24821cefa3218f1142e",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/REALmyenemy-MEMZ_InstanceActors/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/REALmyenemy-MEMZ_InstanceActors/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "template"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "9to5ninja-projects-mechaacademy",
@@ -16566,7 +16648,20 @@
     "processedHeadSha": "4dcdaf9a14d635616ec73e3aaa993407eb4697d8",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/CopperChihuahua-Coppers-Touhou-Game-Jam/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/CopperChihuahua-Coppers-Touhou-Game-Jam/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg"
+      ],
+      "languages": [
+        "en"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "nad795-memories-of-you-demo-version",
@@ -16593,7 +16688,22 @@
     "processedHeadSha": "55c135d8ed1cc0f96deed52e8ada72f00c3eb0f3",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/Nad795-Memories-of-You-Demo-Version/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/Nad795-Memories-of-You-Demo-Version/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "adventure",
+        "drama"
+      ],
+      "languages": [
+        "en",
+        "id"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "grimelion-gamedev",
@@ -16755,7 +16865,15 @@
     "processedHeadSha": "41c184fe85dff178e8d91737b59c1fa0d2a303f9",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/clone1018-mv-mmo-test/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/clone1018-mv-mmo-test/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "template"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "rpgcosmos-example-mmo",
@@ -17201,7 +17319,15 @@
     "processedHeadSha": "41e14d5c46dcbfaf4efb69c910c7a4fd18cae83e",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/pieworkplace-mota-mv-template/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/pieworkplace-mota-mv-template/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "template"
+      ],
+      "nsfw": false,
+      "playable": false,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "katai5plate-mvblackout",
@@ -17277,7 +17403,20 @@
     "sourceHeadSha": "7997e4f4b9000690c3c5687a0b4b3c4c1a2abf78",
     "processedHeadSha": "283cc739c04967a1b1870a2de32fb12dd8f34889",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/kdmmanapul-testing-lfg/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/kdmmanapul-testing-lfg/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg"
+      ],
+      "languages": [
+        "ko"
+      ],
+      "nsfw": false,
+      "playable": false,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "jswessler-mymemory",
@@ -19097,7 +19236,15 @@
     "sourceHeadSha": "104055fd2d84c77ec5a6a9ab49a335b50e794c66",
     "processedHeadSha": "b91e7624f4b33501ad7a88576b520a1eeef709bd",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/Tiny-Country-Games-Orthographic/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/Tiny-Country-Games-Orthographic/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "template"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "jpmendezf-osianndventures",
@@ -20121,7 +20268,15 @@
     "reachabilityDetail": "https://webrpg.org/0ui0-owo_terminal_public/ served an RPG Maker entry point and its startup resources",
     "lastCheckError": "GitHub API 403: You have exceeded a secondary rate limit. Please wait a few minutes before you try again. For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service) If you reach out to GitHub Support for help, please include the request ID F81B:2F14D8:B110C46:25229A0E:6AE7363E.",
     "consecutiveFailures": 1,
-    "lastFailedAt": "2026-11-01T12:52:24.037Z"
+    "lastFailedAt": "2026-11-01T12:52:24.037Z",
+    "meta": {
+      "genres": [
+        "template"
+      ],
+      "nsfw": false,
+      "playable": false,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "29abrenton-rgb-29abrenton-rgb-github-io",
@@ -20148,7 +20303,20 @@
     "sourceHeadSha": "12d938e84e2ff2a74293bcdd2b52927291217ce4",
     "processedHeadSha": "4eae60d94a3239674058cf7ebe4af23186ac247f",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/29abrenton-rgb-29abrenton-rgb.github.io/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/29abrenton-rgb-29abrenton-rgb.github.io/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "adventure"
+      ],
+      "languages": [
+        "en"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "affonsoamendola-oldprojects",
@@ -20175,7 +20343,15 @@
     "totalSize": 425205,
     "dataSize": 669066,
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/affonsoamendola-oldprojects/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/affonsoamendola-oldprojects/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "template"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "akshatiyer-gamejam2025",
@@ -20202,7 +20378,20 @@
     "sourceHeadSha": "28fb6d8874b0a2827ba3b1781ac8102f2c92b203",
     "processedHeadSha": "b4a026e7f109ebdc1d213c7bc83401e4afaa17db",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/AkshatIyer-GameJam2025/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/AkshatIyer-GameJam2025/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "adventure"
+      ],
+      "languages": [
+        "en"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "alriosa-awaken-mz",
@@ -20229,7 +20418,21 @@
     "processedHeadSha": "bcdc3be3cb98b7a2da9fa672c0e360b54ed96260",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/Alriosa-awaken-mz/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/Alriosa-awaken-mz/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg"
+      ],
+      "languages": [
+        "en"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07",
+      "title": "Awaken"
+    }
   },
   {
     "id": "asifexplore-secret-paladin",
