@@ -21332,7 +21332,15 @@
     "sourceHeadSha": "6f86800ca1392db89890e224b38bcfd4b3451dcd",
     "processedHeadSha": "22c310cc35b5bcc807cde0d396a95b02c6827e3e",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/Safmica-rpg_maker_test/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/Safmica-rpg_maker_test/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "template"
+      ],
+      "nsfw": false,
+      "playable": false,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "stuocs-pequejrpg",
@@ -21404,7 +21412,21 @@
     "processedHeadSha": "55b490efb514f5bdfc192e998744cf956824bdce",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/ThatTakashi-Tales-of-Arcadia/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/ThatTakashi-Tales-of-Arcadia/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg"
+      ],
+      "languages": [
+        "en"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 3,
+      "rating": 5,
+      "reviewedAt": "2026-11-07",
+      "title": "Tales of Arcadia"
+    }
   },
   {
     "id": "x451f-campus-rpg",
@@ -21449,7 +21471,15 @@
     "sourceHeadSha": "b06c7e194b5d5be042a26a5d25b2fafcc37c7f61",
     "processedHeadSha": "edec9fdebe2a6e3e981f4a37698f81f0a648309d",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/yan-0929-yyy-RPG-Maker/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/yan-0929-yyy-RPG-Maker/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "template"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "thinkwee-thinkwee-github-io",
@@ -21931,7 +21961,15 @@
     "sourceHeadSha": "43e66a964048ade84eb91219d1bd182e871faddb",
     "processedHeadSha": "a06dc274d237709240d7317a9abdcadb36cde46e",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/Monroees-LaChambre/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/Monroees-LaChambre/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "template"
+      ],
+      "nsfw": false,
+      "playable": false,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "fivj-prouni",
@@ -22434,7 +22472,15 @@
     "sourceHeadSha": "ff92be6cf425a82f197757f25a2bbccd613032d4",
     "processedHeadSha": "91043eeb640778f12c85081daf061083e0936ce2",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/rinne-grid-tkoolmz_plugin_RecollectionModeMZ/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/rinne-grid-tkoolmz_plugin_RecollectionModeMZ/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "template"
+      ],
+      "nsfw": false,
+      "playable": false,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "framormar-rpg-adventure-windows",
@@ -22813,7 +22859,15 @@
     "processedHeadSha": "e62c2cf376d3fbbe534dc7e4d1c2cce55727a6b9",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/Cronus23-tenComandments/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/Cronus23-tenComandments/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "template"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "kdipippo-rpg-maker-mv-starter-template",
@@ -22840,7 +22894,15 @@
     "sourceHeadSha": "04702dbf190f22610eb3b0a6b2aeed7e7cecd3a7",
     "processedHeadSha": "c87839be42ae5c566f7c7ceef13d48cee52a065f",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/kdipippo-RPG-Maker-MV-Starter-Template/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/kdipippo-RPG-Maker-MV-Starter-Template/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "template"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "syberorange-dsefv",
@@ -22867,7 +22929,15 @@
     "sourceHeadSha": "0e98e02faecc1a3dcc20d65ce68d9d57182605d4",
     "processedHeadSha": "650a94470c0f91c9730cdb9e7960a4bfdd28b8ce",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/syberorange-dsefv/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/syberorange-dsefv/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "template"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "alekevin12-rmmz-plus",
@@ -23059,7 +23129,15 @@
     "processedHeadSha": "2d1f8c2ac023ed2f7a46ef65c143179caa3aad6d",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/a2937-RPG-Maker-MV-Test-Template/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/a2937-RPG-Maker-MV-Test-Template/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "template"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "lokilyn-rpgmakermv",
@@ -23219,7 +23297,15 @@
     "processedHeadSha": "ff5c282599c65eb86def07ea25d27ef721dd6d8d",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/oden-RMMV/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/oden-RMMV/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "template"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "hikko624-rpg-maker-mv-kc3-lt",
@@ -23376,7 +23462,15 @@
     "sourceHeadSha": "7b71bb3dd2fabf12d56776db7ebe6b41bb684527",
     "processedHeadSha": "512e7282906fb7ee0f5e74d183129b343d8f9bac",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/LoLoSenPai-AOB/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/LoLoSenPai-AOB/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "template"
+      ],
+      "nsfw": false,
+      "playable": false,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "takushisato-futakobusan",
@@ -23403,7 +23497,15 @@
     "sourceHeadSha": "bdac0fb24b35fc85f676f4f1128ba5bbea0cd4f9",
     "processedHeadSha": "d3503a1fe06ff38dcb2d3d4d18ce1be0be88be29",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/takushisato-futakobusan/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/takushisato-futakobusan/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "template"
+      ],
+      "nsfw": false,
+      "playable": false,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "spritestudio-ss6playerforweb",
@@ -23428,7 +23530,15 @@
     "sourceHeadSha": "934a920553694836a3fd96bef75e84e02c63feb4",
     "processedHeadSha": "d76baaf0b446f42a8464eb1d94ed7a0fa35cd999",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/SpriteStudio-SS6PlayerForWeb/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/SpriteStudio-SS6PlayerForWeb/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "template"
+      ],
+      "nsfw": false,
+      "playable": false,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "suppayami-yami-engine-delta",
@@ -23453,7 +23563,15 @@
     "sourceHeadSha": "73b7ef29ae019173ca32f0a0e79849fc5678f25c",
     "processedHeadSha": "fc47ac851cfb96888c44b2ccc137420ba599c5a6",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/suppayami-yami-engine-delta/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/suppayami-yami-engine-delta/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "template"
+      ],
+      "nsfw": false,
+      "playable": false,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "byvalvin-sanctuary",
@@ -23747,7 +23865,15 @@
     "sourceHeadSha": "9ac4726262ab5af1eca81475f50da96a2f2a2ce9",
     "processedHeadSha": "fd8f9dc31d7c2003e878d23900ae191a88489d17",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/zkrejcov-rmmv-plugins/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/zkrejcov-rmmv-plugins/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "template"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "tcc-iago-lucas-game",
@@ -24320,7 +24446,20 @@
     "sourceHeadSha": "2000bba92d00ae660a0159cc2c4a6cbd0d15025d",
     "processedHeadSha": "cc41e29b8ff1e3acc2001f0ecf877d1d900f03e3",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/overhillgames-singdemov2v12/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/overhillgames-singdemov2v12/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "aliases": [
+        "Sing"
+      ],
+      "genres": [
+        "rpg"
+      ],
+      "nsfw": false,
+      "playable": false,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "javisscode-callatekevin",
@@ -24910,7 +25049,15 @@
     "sourceHeadSha": "867c988edac32f670cb8449b209d7bd5964ab705",
     "processedHeadSha": "498c741483ccc6e43f5743e5428c4857250b0ec3",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/stl1988-stl1988.github.io/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/stl1988-stl1988.github.io/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "template"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "quantumtrolling-cursedmemory",
@@ -25067,7 +25214,17 @@
     "sourceHeadSha": "fcdb84b90fe064caaa67fecc5961f57cd1a106b5",
     "processedHeadSha": "b1fae5fdeec9549860c13052d9e630a3117c0a80",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/MartinBenes-Demo-Taborska/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/MartinBenes-Demo-Taborska/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "adventure"
+      ],
+      "nsfw": false,
+      "playable": false,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "hyperpixel-212-tales-of-atheria",
@@ -25345,7 +25502,15 @@
     "processedHeadSha": "eb6c3d1dfe49e667bcd09321970c15cf364176e4",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/Corddt-RPG_Maker_toAndroid/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/Corddt-RPG_Maker_toAndroid/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "template"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "sin-hu-study",
@@ -25372,7 +25537,21 @@
     "sourceHeadSha": "28ed5603bb41d2e135d6aaa1802106537181df57",
     "processedHeadSha": "bbfef0840309ef5bc2f1d13a22a2d65024db3021",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/sin-hu-study/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/sin-hu-study/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "adventure",
+        "slice-of-life"
+      ],
+      "languages": [
+        "ko"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "spikespieg-el-rpgtest",
