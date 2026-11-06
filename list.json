@@ -2088,7 +2088,27 @@
     "processedHeadSha": "8ce39fbc09dadc034ae1f9b93f170849c5ba7393",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/Aooni2016-Aooni2016.github.io/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/Aooni2016-Aooni2016.github.io/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "reviewedAt": "2026-11-07",
+      "playable": true,
+      "rating": 7,
+      "popularity": 8,
+      "originalTitle": "青鬼",
+      "aliases": [
+        "ao oni",
+        "aoni"
+      ],
+      "genres": [
+        "adventure",
+        "horror",
+        "puzzle"
+      ],
+      "nsfw": false,
+      "languages": [
+        "ja"
+      ]
+    }
   },
   {
     "id": "renrender0209-aooni",
@@ -7559,7 +7579,15 @@
     "sourceHeadSha": "8f4aea983137a0eff1166c401f28ee2014bb659b",
     "processedHeadSha": "312fdea223dc04c93060d2a794855722920d3f07",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/comuns-rpgmaker-comuns-master-demo/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/comuns-rpgmaker-comuns-master-demo/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "reviewedAt": "2026-11-07",
+      "playable": false,
+      "genres": [
+        "template"
+      ],
+      "nsfw": false
+    }
   },
   {
     "id": "stevenromero98-conceptgamedeployment",
@@ -10783,7 +10811,28 @@
     "processedHeadSha": "fae68787115164fa09c1b0d4c48ea92fde2eb0ea",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/apollovy-fear-and-hunger/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/apollovy-fear-and-hunger/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "reviewedAt": "2026-11-07",
+      "playable": true,
+      "rating": 9,
+      "popularity": 9,
+      "originalTitle": "Fear & Hunger",
+      "aliases": [
+        "恐惧与饥饿",
+        "Страх и голод"
+      ],
+      "genres": [
+        "rpg",
+        "horror",
+        "fantasy",
+        "survival"
+      ],
+      "nsfw": true,
+      "languages": [
+        "ru"
+      ]
+    }
   },
   {
     "id": "iiviigames-fnh-pwa-emtfr-luv-iivii",
@@ -13344,7 +13393,21 @@
     "processedHeadSha": "96fefb4f46e05b169f1df9f3a5166f72638eecab",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/FalconPilot-house-of-the-7th-star/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/FalconPilot-house-of-the-7th-star/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "reviewedAt": "2026-11-07",
+      "playable": true,
+      "rating": 5,
+      "popularity": 2,
+      "genres": [
+        "rpg",
+        "fantasy"
+      ],
+      "nsfw": false,
+      "languages": [
+        "fr"
+      ]
+    }
   },
   {
     "id": "franck-audiger-hunterevolutionjs",
@@ -17500,7 +17563,25 @@
     "sourceHeadSha": "63dfb2895ac8bae519e79b9ab8a2de70962560b6",
     "processedHeadSha": "6349a482c2f11d3a81be4b15bb083dd2f38de48e",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/0x736f6d657468696e67-new_layers/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/0x736f6d657468696e67-new_layers/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "reviewedAt": "2026-11-07",
+      "playable": false,
+      "rating": 9,
+      "popularity": 10,
+      "aliases": [
+        "omori"
+      ],
+      "genres": [
+        "rpg",
+        "horror",
+        "drama"
+      ],
+      "nsfw": false,
+      "languages": [
+        "en"
+      ]
+    }
   },
   {
     "id": "arcadia-diddy-arcadiax",
