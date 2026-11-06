@@ -17886,6 +17886,19 @@
     "validationScore": 45
   },
   {
+    "id": "flashedcode-pastpapergenie-v3",
+    "title": "OMORI",
+    "repo": "https://github.com/flashedcode/pastpapergenie-v3",
+    "owner": "flashedcode",
+    "name": "pastpapergenie-v3",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "discoveredAt": "2026-11-06T18:55:15.140Z",
+    "source": "github-code-search",
+    "sourcePath": "game-embeds/omori.html",
+    "plannedForkName": "flashedcode-pastpapergenie-v3"
+  },
+  {
     "id": "gabrielzarpellon-omoriptbr",
     "title": "OMORI",
     "repo": "https://github.com/GabrielZarpellon/omoriptbr",
@@ -27352,7 +27365,6 @@
     "discoveredAt": "2026-11-06T10:24:43.467Z",
     "source": "github-code-search",
     "sourcePath": "files/dead-plate/index.html",
-    "plannedForkName": "wasmdotrip-wasm.rip",
     "checkedAt": "2026-11-06T10:33:23.752Z",
     "forkName": "wasmdotrip-wasm.rip",
     "invalidReason": "No RPG Maker MV/MZ HTML entry point loading js/main.js was found.",
