@@ -75,7 +75,15 @@
     "processedHeadSha": "d6e12233e064fb0887bff0c5940627bea57c5f68",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/katai5plate-Demoscene-2017/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/katai5plate-Demoscene-2017/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "reviewedAt": "2026-11-07",
+      "playable": false,
+      "genres": [
+        "template"
+      ],
+      "nsfw": false
+    }
   },
   {
     "id": "dododogame-dododogame-github-io",
@@ -261,7 +269,22 @@
     "sourceHeadSha": "ecb85131c1eefb286f5b269f0947225cf9891a54",
     "processedHeadSha": "f2170f28726c8ccb14b189ce4ba48d0f3bf02aa1",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/Gamer-Tool-Studio-Gamer-Tool-Studio.github.io/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/Gamer-Tool-Studio-Gamer-Tool-Studio.github.io/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "reviewedAt": "2026-11-07",
+      "playable": true,
+      "rating": 5,
+      "popularity": 2,
+      "title": "CLUAIDO",
+      "genres": [
+        "adventure",
+        "mystery"
+      ],
+      "nsfw": false,
+      "languages": [
+        "en"
+      ]
+    }
   },
   {
     "id": "chino-541-saikou-no-ramen-damashi",
@@ -288,7 +311,15 @@
     "processedHeadSha": "d14ff1267c0debae78ee663c84c3c8385ec3f849",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/Chino-541-Saikou-no-Ramen-Damashi/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/Chino-541-Saikou-no-Ramen-Damashi/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "reviewedAt": "2026-11-07",
+      "playable": true,
+      "genres": [
+        "template"
+      ],
+      "nsfw": false
+    }
   },
   {
     "id": "soycosmosgg-nimogames",
@@ -1431,7 +1462,20 @@
     "sourceHeadSha": "d77b8b1f020e8d5778c0bc13bfe23df1c262e69c",
     "processedHeadSha": "147d80776c0162b9eebd30dc61dc7bb4cbeec0aa",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/AnthonyTonyZ-rougedemo/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/AnthonyTonyZ-rougedemo/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "reviewedAt": "2026-11-07",
+      "playable": true,
+      "rating": 5,
+      "popularity": 2,
+      "genres": [
+        "rpg"
+      ],
+      "nsfw": false,
+      "languages": [
+        "zh-Hans"
+      ]
+    }
   },
   {
     "id": "grayblackannihilation-goldenmap",
@@ -1591,7 +1635,21 @@
     "processedHeadSha": "14a27eec4cd46caf2bcc1c48d20b0aa435c2aaf8",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/430230562-kerman-s-dream/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/430230562-kerman-s-dream/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "reviewedAt": "2026-11-07",
+      "playable": true,
+      "rating": 5,
+      "popularity": 2,
+      "genres": [
+        "adventure",
+        "slice-of-life"
+      ],
+      "nsfw": false,
+      "languages": [
+        "zh-Hans"
+      ]
+    }
   },
   {
     "id": "kata235-mv01",
@@ -1795,7 +1853,21 @@
     "processedHeadSha": "41468413839dfa4eeaa58de9fdcaae083c06bef9",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/easychen-GameDemo/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/easychen-GameDemo/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "reviewedAt": "2026-11-07",
+      "playable": true,
+      "rating": 5,
+      "popularity": 3,
+      "genres": [
+        "adventure",
+        "slice-of-life"
+      ],
+      "nsfw": false,
+      "languages": [
+        "zh-Hans"
+      ]
+    }
   },
   {
     "id": "magicalyuto-secret-funeral",
@@ -2473,7 +2545,15 @@
     "processedHeadSha": "115b71d28f2ad8938089b101b88e52288b0922a0",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/sydomo-MiyoiPluginsTestDemo/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/sydomo-MiyoiPluginsTestDemo/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "reviewedAt": "2026-11-07",
+      "playable": true,
+      "genres": [
+        "template"
+      ],
+      "nsfw": false
+    }
   },
   {
     "id": "shd101wyy-shd101wyy-github-io",
@@ -2797,7 +2877,21 @@
     "processedHeadSha": "d18efbe1958195bf0c67d1243f17917760d49ba0",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/zenhanyin-RPGmakerdemo/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/zenhanyin-RPGmakerdemo/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "reviewedAt": "2026-11-07",
+      "playable": true,
+      "rating": 5,
+      "popularity": 2,
+      "genres": [
+        "rpg",
+        "fantasy"
+      ],
+      "nsfw": false,
+      "languages": [
+        "zh-Hans"
+      ]
+    }
   },
   {
     "id": "cyh0521-rpg-7b8c988a",
@@ -3029,7 +3123,23 @@
     "processedHeadSha": "53a9d3d5cac0fc58310a81c7ae742c44294fd047",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/Cos3915-kksalldemo/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/Cos3915-kksalldemo/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "reviewedAt": "2026-11-07",
+      "playable": true,
+      "rating": 5,
+      "popularity": 2,
+      "genres": [
+        "rpg",
+        "fantasy",
+        "mystery",
+        "romance"
+      ],
+      "nsfw": false,
+      "languages": [
+        "zh-Hans"
+      ]
+    }
   },
   {
     "id": "cara-ko-rpg",
@@ -3507,7 +3617,15 @@
     "sourceHeadSha": "56b3b4be91f7c3eb53f23c525cca76a4a3c641dd",
     "processedHeadSha": "a3d97c1941e67185f232557e1cd5d17bce68477f",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/munokura-Sword-Floor-MV-sample/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/munokura-Sword-Floor-MV-sample/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "reviewedAt": "2026-11-07",
+      "playable": true,
+      "genres": [
+        "template"
+      ],
+      "nsfw": false
+    }
   },
   {
     "id": "aaixy-rm-mvmz-plugins-8fc29a70",
@@ -3945,7 +4063,20 @@
     "sourceHeadSha": "1eab26c5b3724c855e4bec8a2b126f9412e9eb66",
     "processedHeadSha": "da9985ab7090e404b080e7f52129a05c94b27c2b",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/FrostyToast37-frostytoast37.github.io/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/FrostyToast37-frostytoast37.github.io/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "reviewedAt": "2026-11-07",
+      "playable": false,
+      "rating": 5,
+      "popularity": 3,
+      "genres": [
+        "rpg"
+      ],
+      "nsfw": false,
+      "languages": [
+        "en"
+      ]
+    }
   },
   {
     "id": "aaaaagold-mylightballs",
@@ -4095,7 +4226,21 @@
     "processedHeadSha": "bbe7aaaebf42b2670fcd7b507b4579699cce5b35",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/eduardomourar-easyrpg-web/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/eduardomourar-easyrpg-web/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "reviewedAt": "2026-11-07",
+      "playable": true,
+      "rating": 5,
+      "popularity": 2,
+      "title": "Alpha/Omega",
+      "genres": [
+        "rpg"
+      ],
+      "nsfw": false,
+      "languages": [
+        "en"
+      ]
+    }
   },
   {
     "id": "kondo-yuuki-altereal",
@@ -7554,7 +7699,15 @@
     "sourceHeadSha": "8e01c6ff34af4b939c1398df7f9b4f09cc13c01b",
     "processedHeadSha": "a0036cbde8f781b5585bb1a8632aabf8706ea8dc",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/ImaginaryVillain-community_lights/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/ImaginaryVillain-community_lights/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "reviewedAt": "2026-11-07",
+      "playable": true,
+      "genres": [
+        "template"
+      ],
+      "nsfw": false
+    }
   },
   {
     "id": "comuns-rpgmaker-comuns-master-demo",
@@ -8077,7 +8230,22 @@
     "processedHeadSha": "2a1c1eb2d325d8d2459614009303062801382603",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/VictorFlor-Cursed_Roots_Demo/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/VictorFlor-Cursed_Roots_Demo/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "reviewedAt": "2026-11-07",
+      "playable": true,
+      "rating": 5,
+      "popularity": 2,
+      "genres": [
+        "rpg",
+        "mystery",
+        "horror"
+      ],
+      "nsfw": false,
+      "languages": [
+        "pt"
+      ]
+    }
   },
   {
     "id": "cute-fame-studio-cutefamedemo",
@@ -8104,7 +8272,20 @@
     "processedHeadSha": "43799cbb941f46c26f1548da99990bfaedf165ce",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/Cute-Fame-Studio-cutefamedemo/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/Cute-Fame-Studio-cutefamedemo/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "reviewedAt": "2026-11-07",
+      "playable": true,
+      "rating": 5,
+      "popularity": 2,
+      "genres": [
+        "rpg"
+      ],
+      "nsfw": false,
+      "languages": [
+        "en"
+      ]
+    }
   },
   {
     "id": "4nddrs-cyber-tech",
@@ -9016,7 +9197,20 @@
     "sourceHeadSha": "6e1914c748dc41a84ac26de661fbec780a09410a",
     "processedHeadSha": "e15072fb8a79f185a4bf36ed62e269ba8ecc4e02",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/Rockinraven-daniRaven/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/Rockinraven-daniRaven/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "reviewedAt": "2026-11-07",
+      "playable": true,
+      "rating": 5,
+      "popularity": 2,
+      "genres": [
+        "rpg"
+      ],
+      "nsfw": false,
+      "languages": [
+        "en"
+      ]
+    }
   },
   {
     "id": "marcovarasperez-marcovarasperez-github-io",
@@ -9040,7 +9234,22 @@
     "coverPath": "cover.png",
     "processedHeadSha": "8fdd446b4430879c3ce5c75cb6b8f3de766e3549",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/marcovarasperez-marcovarasperez.github.io/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/marcovarasperez-marcovarasperez.github.io/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "reviewedAt": "2026-11-07",
+      "playable": true,
+      "rating": 5,
+      "popularity": 1,
+      "title": "ESCAPE ROOM TFG",
+      "genres": [
+        "puzzle",
+        "mystery"
+      ],
+      "nsfw": false,
+      "languages": [
+        "es"
+      ]
+    }
   },
   {
     "id": "deogracia-rpgmaker-creditsmarkdown",
@@ -9089,7 +9298,15 @@
     "sourceHeadSha": "b4789d0920a0a6bfe3997251334569a9591fdd94",
     "processedHeadSha": "f794426cce6ba85dcf3227577a5bc62614e33206",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/furkkurt-Kurt-s-Plugins-Demo-Project/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/furkkurt-Kurt-s-Plugins-Demo-Project/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "reviewedAt": "2026-11-07",
+      "playable": false,
+      "genres": [
+        "template"
+      ],
+      "nsfw": false
+    }
   },
   {
     "id": "uppteam-uppteam-github-io",
@@ -9573,7 +9790,22 @@
     "processedHeadSha": "edc6bff2e74193fc863da7ac64a42a5caf2f378f",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/tomoshibi06-divirtualdemo/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/tomoshibi06-divirtualdemo/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "reviewedAt": "2026-11-07",
+      "playable": true,
+      "rating": 5,
+      "popularity": 2,
+      "title": "Divirtual!",
+      "genres": [
+        "rpg",
+        "fantasy"
+      ],
+      "nsfw": false,
+      "languages": [
+        "ja"
+      ]
+    }
   },
   {
     "id": "mgsraiden2-dk-crew",
@@ -10299,7 +10531,15 @@
     "processedHeadSha": "094b32f7396b989b5ec458708503cd308a42f5e0",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/dariusstrasel-RMMV_EngineDemo/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/dariusstrasel-RMMV_EngineDemo/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "reviewedAt": "2026-11-07",
+      "playable": true,
+      "genres": [
+        "template"
+      ],
+      "nsfw": false
+    }
   },
   {
     "id": "tenantintent-englishherotrial",
