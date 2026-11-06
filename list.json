@@ -12598,7 +12598,20 @@
     "sourceHeadSha": "f55ea38a274228ce80a90187878d9c3060f141c0",
     "processedHeadSha": "9deb03f8f79ce871be0eefa66a4dda881563b0bc",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/27DAnderson-GameBarPortfolio/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/27DAnderson-GameBarPortfolio/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg"
+      ],
+      "languages": [
+        "en"
+      ],
+      "nsfw": false,
+      "playable": false,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "27danderson-pogipediaportfolio",
@@ -12625,7 +12638,20 @@
     "sourceHeadSha": "c8874ecaac7a1f74d6298675973bfcec5f98a731",
     "processedHeadSha": "8225afe133c010608fcaa31c3f5e9a5d48c97ada",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/27DAnderson-PogipediaPortfolio/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/27DAnderson-PogipediaPortfolio/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg"
+      ],
+      "languages": [
+        "en"
+      ],
+      "nsfw": false,
+      "playable": false,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "27danderson-portfolio",
@@ -12652,7 +12678,20 @@
     "sourceHeadSha": "82d0d63e9ee46ac4121ffa473ae93c43ce5df7ad",
     "processedHeadSha": "ca1767d83e6144e067f77d4691f8a9e15c4bf0a4",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/27DAnderson-Portfolio/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/27DAnderson-Portfolio/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg"
+      ],
+      "languages": [
+        "en"
+      ],
+      "nsfw": false,
+      "playable": false,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "28ashapiro-28ashapiro-github-io",
@@ -12679,7 +12718,20 @@
     "sourceHeadSha": "4fbda5292b4c44d5b5d33fbd16c273581a3be2f6",
     "processedHeadSha": "ef18d13f112b7da5a2a0b0d3c91375d663ace342",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/28ashapiro-28ashapiro.github.io/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/28ashapiro-28ashapiro.github.io/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg"
+      ],
+      "languages": [
+        "en"
+      ],
+      "nsfw": false,
+      "playable": false,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "28cspillman-28cspillman-github-io",
@@ -25578,7 +25630,15 @@
     "processedHeadSha": "37793fbd8fb69a85236b3728cd38c7322b9cd497",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/SpikeSpieg-el-rpgTest/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/SpikeSpieg-el-rpgTest/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "template"
+      ],
+      "nsfw": false,
+      "playable": false,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "bryce26550-rpg-maker-suff",
@@ -25626,7 +25686,20 @@
     "processedHeadSha": "95846380a2f123ee4cef655dcf7d9c0530e35e30",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/firekula-EroGame/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/firekula-EroGame/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg"
+      ],
+      "languages": [
+        "zh-Hans"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "impeccablen-unigame-rpgmaker",
@@ -25655,7 +25728,24 @@
     "verificationDeferred": true,
     "lastCheckError": "Deployed entry is not reachable: https://webrpg.org/ImpeccableN-unigame_rpgmaker/ does not serve valid data/System.json",
     "consecutiveFailures": 2,
-    "lastFailedAt": "2026-10-31T11:53:39.053Z"
+    "lastFailedAt": "2026-10-31T11:53:39.053Z",
+    "meta": {
+      "aliases": [
+        "KyoshiGame"
+      ],
+      "genres": [
+        "rpg"
+      ],
+      "languages": [
+        "en"
+      ],
+      "nsfw": false,
+      "playable": false,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07",
+      "title": "Becoming Kyoshi"
+    }
   },
   {
     "id": "marcuskim442-lostinwonder",
@@ -25680,7 +25770,21 @@
     "sourceHeadSha": "9876c1afbec62d0d1e2d9ec82d5408a2417c81ef",
     "processedHeadSha": "f9da904356b717c07b0c56c92e3f51c027cb7595",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/MarcusKim442-LostInWonder/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/MarcusKim442-LostInWonder/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "adventure"
+      ],
+      "languages": [
+        "en"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07",
+      "title": "Lost in Wonder"
+    }
   },
   {
     "id": "kittenception-kbfkwfkwbfwk",
@@ -25707,7 +25811,15 @@
     "sourceHeadSha": "813d878b1dc9c457a09c0b30dcd9c332b5070987",
     "processedHeadSha": "e44733bb0ff71a4536af9ab3afa47ef5407d21a1",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/Kittenception-kbfkwfkwbfwk/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/Kittenception-kbfkwfkwbfwk/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "template"
+      ],
+      "nsfw": false,
+      "playable": false,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "scringly-testquest",
@@ -25734,7 +25846,20 @@
     "processedHeadSha": "1d7cecfe1d70037d788111749197106c4ef548d4",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/scringly-TestQuest/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/scringly-TestQuest/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg"
+      ],
+      "languages": [
+        "en"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "94entertainment-rmmv",
@@ -25921,7 +26046,15 @@
     "sourceHeadSha": "a4eeca3ce822ee84b5e23046c2f4d1710f5025d4",
     "processedHeadSha": "a7e7b22880a8d15c7e60429663a24322d22d028c",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/koohdev-chronicles-demo/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/koohdev-chronicles-demo/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "template"
+      ],
+      "nsfw": false,
+      "playable": false,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "teritaris-tenxym-en",
@@ -26951,7 +27084,15 @@
     "sourceHeadSha": "9872e100e51070a872a0eea12d1948c2f74fcb0f",
     "processedHeadSha": "9e91e723e3211f2abdbbc106824e001002635fd2",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/valkyrieproject001-test01/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/valkyrieproject001-test01/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "template"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "martinetto33-to-glory",
@@ -27321,7 +27462,15 @@
     "processedHeadSha": "a1b9756eb8e8ead8ebf582a5188cdee9ce006f26",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/briancain-tutorial-test/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/briancain-tutorial-test/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "template"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "mysterymagination-twilightning",
@@ -29006,7 +29155,23 @@
     "sourceHeadSha": "a874a84b7da9a877b6c9e1c0bf497db214971ef5",
     "processedHeadSha": "98be84e8ad4a3e2022453fba216cb786f2c65b3e",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/kangana1024-demorpggame/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/kangana1024-demorpggame/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "aliases": [
+        "Adventure in a Dangerous Land"
+      ],
+      "genres": [
+        "rpg"
+      ],
+      "languages": [
+        "th"
+      ],
+      "nsfw": false,
+      "playable": false,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "gorani777-1930",
@@ -29339,7 +29504,15 @@
     "sourceHeadSha": "f2fb7a4ee5e82fca6cee0981f420532d33432838",
     "processedHeadSha": "c04c12d325450087eaee8141400963de9a604b5f",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/unagiootoro-QuestSystemSample/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/unagiootoro-QuestSystemSample/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "template"
+      ],
+      "nsfw": false,
+      "playable": false,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "savesub-slavetrader-en",
@@ -29486,7 +29659,15 @@
     "processedHeadSha": "7078486b671d751439245b596471c40c27875152",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/triacontane-NovelGameSample/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/triacontane-NovelGameSample/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "template"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "yukkif-sanyachan",
@@ -29610,7 +29791,15 @@
     "sourceHeadSha": "0e60bc95f89caad301af22bd70e294aa2383c6c0",
     "processedHeadSha": "bd0f128b1af44c6b52b8f7a240b4b22ef5bd6546",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/munokura-DQ-like-Sample-MZ/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/munokura-DQ-like-Sample-MZ/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "template"
+      ],
+      "nsfw": false,
+      "playable": false,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "munokura-dq-like-sample-mv",
@@ -29632,7 +29821,15 @@
     "sourceHeadSha": "5742c526c13cc28fa4209b3d53cc77a92afe9f2a",
     "processedHeadSha": "b569df89575d20356ac60b5c05332eb233208e52",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/munokura-DQ-like-Sample-MV/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/munokura-DQ-like-Sample-MV/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "template"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "neonnoiru-xzxrdbw",
@@ -29767,7 +29964,15 @@
     "processedHeadSha": "bbfc103fa5bcdc2f0410329287ea8e28413829ff",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/AlecYawata-TkoolMV_PluginCommandBook/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/AlecYawata-TkoolMV_PluginCommandBook/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "template"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "krmbn0576-rpgmakermv",
@@ -29791,7 +29996,15 @@
     "sourceHeadSha": "6b952ac8f282ee93cfa23a8b096436720a6ec6ba",
     "processedHeadSha": "4df1a2800980a703cefd8ebf2bde185e6e74d9ad",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/krmbn0576-rpgmakermv/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/krmbn0576-rpgmakermv/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "template"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "ryanbram-rpgmv-plugins",
