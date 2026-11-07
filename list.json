@@ -22377,7 +22377,21 @@
     "processedHeadSha": "f7e670882b84102afeec3e84a5b5d7a448a4996a",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/NguyenDacLiem-monad/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/NguyenDacLiem-monad/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg",
+        "fantasy"
+      ],
+      "languages": [
+        "en"
+      ],
+      "nsfw": false,
+      "playable": false,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-08"
+    }
   },
   {
     "id": "dorodore-monophobia",
@@ -22404,7 +22418,21 @@
     "sourceHeadSha": "987f7ac9280a7f24cf9b934169a320263a831b0e",
     "processedHeadSha": "f7554e1ede0b2b26d576fceb602ed43586cf25e7",
     "reachable": false,
-    "reachabilityDetail": "https://webrpg.org/DoroDore-Monophobia/data/System.json responded with HTTP 503"
+    "reachabilityDetail": "https://webrpg.org/DoroDore-Monophobia/data/System.json responded with HTTP 503",
+    "meta": {
+      "genres": [
+        "rpg",
+        "puzzle"
+      ],
+      "languages": [
+        "en"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-08"
+    }
   },
   {
     "id": "synrec-monster-capture-mz",
@@ -22431,7 +22459,15 @@
     "sourceHeadSha": "5d3657d83a5002bd32bb510e507f401246252581",
     "processedHeadSha": "c078aa0c708952227499456990d7836aa6025c51",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/Synrec-Monster-Capture-MZ/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/Synrec-Monster-Capture-MZ/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "template"
+      ],
+      "nsfw": false,
+      "playable": false,
+      "reviewedAt": "2026-11-08"
+    }
   },
   {
     "id": "originai-game-wizard",
@@ -22473,7 +22509,17 @@
     "sourceHeadSha": "452bb26747eb19bb6b70d1fc6f878972ce71298f",
     "processedHeadSha": "495ac89f64426a01ee8c744d26f0e21640c88635",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/jackdarker-MoonWood/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/jackdarker-MoonWood/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg"
+      ],
+      "nsfw": false,
+      "playable": false,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-08"
+    }
   },
   {
     "id": "buttertoasty-games2",
@@ -22519,7 +22565,22 @@
     "processedHeadSha": "789765c469466ec83513208e4614f3d8fd331281",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/Fairlyll-Horror/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/Fairlyll-Horror/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "adventure",
+        "horror",
+        "mystery"
+      ],
+      "languages": [
+        "en"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-08"
+    }
   },
   {
     "id": "erasmojunkes-mutant-codebreaker",
@@ -22546,7 +22607,21 @@
     "processedHeadSha": "88f42c59d510958be06f776aff5eab0600f0c8e7",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/erasmojunkes-Mutant-Codebreaker/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/erasmojunkes-Mutant-Codebreaker/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "puzzle",
+        "educational"
+      ],
+      "languages": [
+        "pt"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-08"
+    }
   },
   {
     "id": "aaron1299-muurien-valissa",
@@ -22573,7 +22648,25 @@
     "sourceHeadSha": "4d8b8c778399094981ada2b043feb64b05e3b355",
     "processedHeadSha": "26fa558f7a021bd75d87b25105d9211912a2f60b",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/aaron1299-muurien-valissa/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/aaron1299-muurien-valissa/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "aliases": [
+        "muurien-valissa"
+      ],
+      "genres": [
+        "adventure",
+        "drama"
+      ],
+      "languages": [
+        "fi"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-08",
+      "title": "Muurien välissä"
+    }
   },
   {
     "id": "mechadragonx-mvgagotoku",
@@ -22600,7 +22693,21 @@
     "processedHeadSha": "496b985ecdc33a5f05520188d18b54d17130d30b",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/MechaDragonX-MVGaGotoku/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/MechaDragonX-MVGaGotoku/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg",
+        "drama"
+      ],
+      "languages": [
+        "en"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-08"
+    }
   },
   {
     "id": "take-cheeze-rpg-maker-clone",
@@ -22643,7 +22750,15 @@
     "sourceHeadSha": "22287bd9670806a47f7ca6ec0681f57f30b1aed4",
     "processedHeadSha": "459709a699151cd2b869cb182d9d2b132335885a",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/xuyanwen2012-RMMV-Battle-System-JS/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/xuyanwen2012-RMMV-Battle-System-JS/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "template"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "reviewedAt": "2026-11-08"
+    }
   },
   {
     "id": "electravirus-mv3d",
@@ -22670,7 +22785,15 @@
     "processedHeadSha": "7985ec8f21441cee78b51f32209914f6608a9def",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/Electravirus-MV3D/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/Electravirus-MV3D/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "template"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "reviewedAt": "2026-11-08"
+    }
   },
   {
     "id": "pieworkplace-mota-mv-2",
@@ -22694,7 +22817,15 @@
     "processedHeadSha": "4bb6d00c69ce75378cff683f0e89157a10a29932",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/pieworkplace-mota-mv-2/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/pieworkplace-mota-mv-2/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "template"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "reviewedAt": "2026-11-08"
+    }
   },
   {
     "id": "pieworkplace-mota-mv-template",
@@ -22751,7 +22882,15 @@
     "sourceHeadSha": "bff19dd29cf64979af8fb413c6482bec05959658",
     "processedHeadSha": "fdac7d07daaab79235775f5b669ecae70ffd6505",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/katai5plate-mvblackout/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/katai5plate-mvblackout/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "template"
+      ],
+      "nsfw": false,
+      "playable": false,
+      "reviewedAt": "2026-11-08"
+    }
   },
   {
     "id": "katai5plate-rpgmv-starter-for-me",
@@ -22842,7 +22981,22 @@
     "processedHeadSha": "a9f1eeeb65986256e8004b51c871347a58563744",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/jswessler-MYMEMORY/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/jswessler-MYMEMORY/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "adventure",
+        "horror",
+        "mystery"
+      ],
+      "languages": [
+        "en"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 6,
+      "rating": 7,
+      "reviewedAt": "2026-11-08"
+    }
   },
   {
     "id": "27danderson-mythologyrpgm",
@@ -22869,7 +23023,21 @@
     "sourceHeadSha": "2a5ff1bd59a4fd1c4cdc0fc74ad4053d75a9a1ba",
     "processedHeadSha": "6cf5446252599ce30d9bdb3cb9d6a9d21bcdb34d",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/27DAnderson-MythologyRPGM/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/27DAnderson-MythologyRPGM/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg",
+        "fantasy"
+      ],
+      "languages": [
+        "en"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 3,
+      "reviewedAt": "2026-11-08"
+    }
   },
   {
     "id": "icemastert-mz3d-project",
@@ -22894,7 +23062,15 @@
     "sourceHeadSha": "ab46192a4d8ced9fdc9932af49daa1c3a256b43e",
     "processedHeadSha": "45d4f3edf11070a68dceee6efc10c39ca10d2950",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/IceMasterT-MZ3D-Project/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/IceMasterT-MZ3D-Project/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "template"
+      ],
+      "nsfw": false,
+      "playable": false,
+      "reviewedAt": "2026-11-08"
+    }
   },
   {
     "id": "dai696-mzplus",
@@ -22921,7 +23097,15 @@
     "sourceHeadSha": "b1a9afc1960906694f12ab5fd7739fe37f3dc3dc",
     "processedHeadSha": "a9dda46d1de8ec0f575877d3beb8a68a6ba0d0b0",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/Dai696-MZPlus/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/Dai696-MZPlus/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "template"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "reviewedAt": "2026-11-08"
+    }
   },
   {
     "id": "html-online-game-natsu-no-sagashimono",
@@ -22963,7 +23147,20 @@
     "processedHeadSha": "f2d526a6e4d1c96b5642794e91207114866e3683",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/zhiwei-zhiwei-Game_RPGMaker_MagicnoMagic/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/zhiwei-zhiwei-Game_RPGMaker_MagicnoMagic/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "adventure"
+      ],
+      "languages": [
+        "en"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-08"
+    }
   },
   {
     "id": "sunset513-ncu-fresh-map-draft",
@@ -22990,7 +23187,19 @@
     "processedHeadSha": "882263897d120dcb95c5a486a88a973750c30df2",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/sunset513-ncu-fresh-map-draft/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/sunset513-ncu-fresh-map-draft/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "aliases": [
+        "NCU Frech 2024"
+      ],
+      "genres": [
+        "template"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "reviewedAt": "2026-11-08",
+      "title": "2024 新生知識網"
+    }
   },
   {
     "id": "katai5plate-rpgmz-newgame-lite",
@@ -23017,7 +23226,15 @@
     "sourceHeadSha": "35caf0b9180aae4a934315230b22a79ac801d0be",
     "processedHeadSha": "37d099e39b1412fbaf54e49228a767a996a518bd",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/katai5plate-rpgmz-newgame-lite/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/katai5plate-rpgmz-newgame-lite/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "template"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "reviewedAt": "2026-11-08"
+    }
   },
   {
     "id": "katai5plate-rpgmv-newgame-lite",
@@ -23044,7 +23261,15 @@
     "processedHeadSha": "771734e245ce9d36119cbb0beb0717b39edb5c97",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/katai5plate-rpgmv-newgame-lite/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/katai5plate-rpgmv-newgame-lite/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "template"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "reviewedAt": "2026-11-08"
+    }
   },
   {
     "id": "antiperfectclub-codingforfun",
