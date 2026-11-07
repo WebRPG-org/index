@@ -5381,7 +5381,20 @@
     "processedHeadSha": "ed65245a45b5107a1d10700f2e846db8d2d39c04",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/MettaSeven-Abby-Rayshine/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/MettaSeven-Abby-Rayshine/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg"
+      ],
+      "languages": [
+        "en"
+      ],
+      "nsfw": false,
+      "playable": false,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "blocklet-rpgmaker-demo",
@@ -5427,7 +5440,21 @@
     "sourceHeadSha": "ae3d37b28c5a10d9a9bf7b6b4965e53cfbbda59f",
     "processedHeadSha": "0617cb4b4d6f382b4ed0fafc5cd9bde47b5c8d99",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/Elrias-elrias-lab/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/Elrias-elrias-lab/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg",
+        "fantasy"
+      ],
+      "languages": [
+        "en"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "paraztekhitr-debug-adventure-call",
@@ -5472,7 +5499,21 @@
     "processedHeadSha": "3ce88d6932f787d8098285d86cc2f4f893841dcb",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/okshaone-loop/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/okshaone-loop/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "adventure",
+        "slice-of-life"
+      ],
+      "languages": [
+        "en"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "frostytoast37-frostytoast37-github-io",
@@ -5555,7 +5596,21 @@
     "sourceRepo": "SaveSub/AHAZON_DASH_EN",
     "sourceDefaultBranch": "main",
     "sourceHeadSha": "bdc8c8bd330fe41704cd9fdd63d396bbf917cfa0",
-    "processedHeadSha": "b6bf76d554239f92e2bd2eb77993c20cd9d9d314"
+    "processedHeadSha": "b6bf76d554239f92e2bd2eb77993c20cd9d9d314",
+    "meta": {
+      "genres": [
+        "adventure",
+        "comedy"
+      ],
+      "languages": [
+        "en"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "deasyprod-ds-dsgame",
@@ -5581,7 +5636,20 @@
     "sourceRepo": "deasyprod-ds/DSgame",
     "sourceDefaultBranch": "main",
     "sourceHeadSha": "d4c755a389e1837061f833a05c5aa865b1078248",
-    "processedHeadSha": "fd49a2705a03c21eb68c71ac02fc89e7e0ed0913"
+    "processedHeadSha": "fd49a2705a03c21eb68c71ac02fc89e7e0ed0913",
+    "meta": {
+      "genres": [
+        "rpg"
+      ],
+      "languages": [
+        "ru"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "ailab-foi-aiworld",
@@ -5608,7 +5676,18 @@
     "processedHeadSha": "8fc7b11f41c0ea1ef83b6a8b71593b42ba6e8bac",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/AILab-FOI-AIWorld/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/AILab-FOI-AIWorld/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg",
+        "experimental"
+      ],
+      "nsfw": false,
+      "playable": false,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "hacksider-alpha-chronicles",
@@ -5635,7 +5714,21 @@
     "sourceHeadSha": "a1266d7d65bfc2b7a1052527705aaaead431fdcb",
     "processedHeadSha": "8395536f833064dd3dd779dc440ef05375beb1eb",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/hacksider-Alpha-Chronicles/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/hacksider-Alpha-Chronicles/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg",
+        "fantasy"
+      ],
+      "languages": [
+        "en"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "eduardomourar-easyrpg-web",
@@ -5703,7 +5796,21 @@
     "processedHeadSha": "6225ff83ace026d65d4f769b161c3931c0f7b37a",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/KONDO-Yuuki-alteReal/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/KONDO-Yuuki-alteReal/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg",
+        "fantasy"
+      ],
+      "languages": [
+        "ja"
+      ],
+      "nsfw": false,
+      "playable": false,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "bubseatbubs-amogii-defeaters-2-test",
@@ -5866,7 +5973,21 @@
     "sourceHeadSha": "ab9ed043b1a9bd5c9223774eef793c9849a5a82c",
     "processedHeadSha": "1565ddf75feaf303208f677ec11856085a7e6fc2",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/chocabloc-adventure-game/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/chocabloc-adventure-game/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "adventure",
+        "slice-of-life"
+      ],
+      "languages": [
+        "en"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "flamerl13-andy-is-sick-mod-conversion-public",
@@ -5893,7 +6014,18 @@
     "processedHeadSha": "bfcd42c8375eee4a6038645416e5d09a89795968",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/FlamerL13-andy_is_sick_mod_conversion_public/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/FlamerL13-andy_is_sick_mod_conversion_public/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "adventure",
+        "horror"
+      ],
+      "nsfw": false,
+      "playable": false,
+      "popularity": 3,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "masudinn-animal-hunting",
@@ -5920,7 +6052,21 @@
     "processedHeadSha": "23571c1129dcc5cfdc2ae050ae2b056c8b3e290d",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/masudinn-Animal-Hunting/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/masudinn-Animal-Hunting/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "adventure",
+        "educational"
+      ],
+      "languages": [
+        "id"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "rexgit-animated-enemies",
@@ -5947,7 +6093,15 @@
     "processedHeadSha": "c791ae43425780afd6894b7485ff807877544522",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/RexGit-Animated-Enemies/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/RexGit-Animated-Enemies/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "template"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "caiofov-animationgenerator-dataset-propor2024",
@@ -5974,7 +6128,15 @@
     "processedHeadSha": "c2566edb68ad3c4a8cc31569e5633eeb493fc5f2",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/caiofov-AnimationGenerator-Dataset-PROPOR2024/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/caiofov-AnimationGenerator-Dataset-PROPOR2024/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "template"
+      ],
+      "nsfw": false,
+      "playable": false,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "lamchingfung-2425-anti-fraudx",
@@ -6025,7 +6187,18 @@
     "sourceHeadSha": "e5954d92661ddc56ad4aee768fcca498d03bc56e",
     "processedHeadSha": "3a6166596ca4271151d09c7d5a4cc4ed681543a4",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/rex-lam-Anti-FraudX/rpg_game.html served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/rex-lam-Anti-FraudX/rpg_game.html served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg",
+        "educational"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "puteourien2-puteourien2-github-io",
@@ -6052,7 +6225,21 @@
     "sourceHeadSha": "b9ce7e39648471c4d438db550717f9440b2bc0e2",
     "processedHeadSha": "9ebca6f3809c1a7a6f3fc7bc5b0b43185c10caa8",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/Puteourien2-puteourien2.github.io/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/Puteourien2-puteourien2.github.io/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "adventure",
+        "comedy"
+      ],
+      "languages": [
+        "fr"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "retro-muffins-arcadia",
@@ -6079,7 +6266,21 @@
     "processedHeadSha": "12a561e218192193fdf80a5dfa71c2bf4575cc8a",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/Retro-Muffins-Arcadia/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/Retro-Muffins-Arcadia/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "adventure",
+        "slice-of-life"
+      ],
+      "languages": [
+        "en"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "imtomzizle-write-399-rpg-maker-game",
@@ -6106,7 +6307,21 @@
     "processedHeadSha": "3109ec4e097a11f3dd3104079d5b4966c2844af4",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/Imtomzizle-Write-399-RPG-Maker-Game/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/Imtomzizle-Write-399-RPG-Maker-Game/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg",
+        "fantasy"
+      ],
+      "languages": [
+        "en"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "raihlima-gerente-projetos-web-mz",
@@ -6131,7 +6346,22 @@
     "sourceHeadSha": "5b3e60f2058c5234f58ba435bd188cbdd7cc6588",
     "processedHeadSha": "20950132a3c9e0c1a1b9d1bbfad7caedd76e7a07",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/raihlima-Gerente-Projetos-Web-MZ/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/raihlima-Gerente-Projetos-Web-MZ/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg",
+        "educational"
+      ],
+      "languages": [
+        "pt"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07",
+      "title": "Odisseia de Jevain"
+    }
   },
   {
     "id": "devdinho-ascending-magic",
@@ -6158,7 +6388,22 @@
     "processedHeadSha": "e47497437fef466f5662a68e8ec5d27682bf5234",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/devdinho-Ascending-Magic/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/devdinho-Ascending-Magic/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg",
+        "fantasy"
+      ],
+      "languages": [
+        "pt"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07",
+      "title": "Ascending Magic — Empire of the Syels"
+    }
   },
   {
     "id": "leonardorss18-testeaurora",
@@ -6185,7 +6430,21 @@
     "sourceHeadSha": "4fd4e4a5c5a339e100fc5dd2428246b15f074449",
     "processedHeadSha": "5893a9e6c2b156b64327f8005f4ef3f6a72c162b",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/LeonardoRSS18-TesteAurora/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/LeonardoRSS18-TesteAurora/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg",
+        "fantasy"
+      ],
+      "languages": [
+        "pt"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "william-52021008-rpg-whw",
