@@ -19133,7 +19133,20 @@
     "sourceHeadSha": "8e056eb7ef95a7daa0303c04e54d514448aba95f",
     "processedHeadSha": "7f392cf27e34790ffef7001a5d9a7e265df11e4c",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/Harleythetech-Jovellano_ACT2/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/Harleythetech-Jovellano_ACT2/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg"
+      ],
+      "languages": [
+        "en"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "harleythetech-jovellano-act3",
@@ -19160,7 +19173,20 @@
     "sourceHeadSha": "4eac32fd5a47a92eec04b5d47da1bf6c07a5e691",
     "processedHeadSha": "35fd971bec4df163d05c232158ab9723fae49c18",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/Harleythetech-Jovellano_ACT3/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/Harleythetech-Jovellano_ACT3/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg"
+      ],
+      "languages": [
+        "en"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "aslated-jstesting",
@@ -19222,7 +19248,17 @@
     "processedHeadSha": "e0ca74700681c4672824453a8950635e3213bca5",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/szatkus-wachaj_pale_kajdaniarzu/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/szatkus-wachaj_pale_kajdaniarzu/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "themodernsmoore-themodernsmoore-github-io",
@@ -19268,7 +19304,18 @@
     "sourceHeadSha": "acff4edd39e00167b8db388fe3815173024eb2a2",
     "processedHeadSha": "251f648f91b67dd0ca63cc9890e5b3c1122d4381",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/Raizen884-KamigamiMZ/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/Raizen884-KamigamiMZ/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg",
+        "fantasy"
+      ],
+      "nsfw": false,
+      "playable": false,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "waycrosspublicmedia-assets",
@@ -19295,7 +19342,22 @@
     "coverPath": "cover.png",
     "cover": "https://webrpg.org/waycrosspublicmedia-assets/cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/waycrosspublicmedia-assets/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/waycrosspublicmedia-assets/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "simulation",
+        "slice-of-life"
+      ],
+      "languages": [
+        "en"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07",
+      "title": "human_expenditure_program"
+    }
   },
   {
     "id": "daknux-html",
@@ -19339,7 +19401,26 @@
     "sourceHeadSha": "3f0d4092014ee4ad860409bce54ef949b941d304",
     "processedHeadSha": "a809d03a16bacbee0773b0fc236a47ac769277fa",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/renrender0209-kankin/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/renrender0209-kankin/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "aliases": [
+        "kankin",
+        "愛の監禁ごはんはXXXチャーハン"
+      ],
+      "genres": [
+        "visual-novel",
+        "horror"
+      ],
+      "languages": [
+        "ja"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 3,
+      "rating": 5,
+      "reviewedAt": "2026-11-07",
+      "title": "愛の監禁ごはんは×××チャーハン"
+    }
   },
   {
     "id": "eric0308a-game-karryns-prison",
@@ -19381,7 +19462,20 @@
     "sourceHeadSha": "5b28a03875a8e4e66c06b132e492b2ab6790254a",
     "processedHeadSha": "6f0dd12cc6a9aef69b0ad78be5e24f65dc87cbe5",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/tranlamphuduc-Game-Zombie/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/tranlamphuduc-Game-Zombie/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg"
+      ],
+      "languages": [
+        "vi"
+      ],
+      "nsfw": false,
+      "playable": false,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "okshaone-kiki-s-adventure-v1",
@@ -19408,7 +19502,20 @@
     "processedHeadSha": "64f20fcd7c449f3d6af34f0d433a83caf4ddb4a4",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/okshaone-Kiki-s-adventure-v1/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/okshaone-Kiki-s-adventure-v1/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg"
+      ],
+      "languages": [
+        "en"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "redhawkphyre-killer-nights",
@@ -19435,7 +19542,20 @@
     "processedHeadSha": "8264a805b068b8b787cf9964f57b910dd6c70aa4",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/RedhawkPhyre-Killer-Nights/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/RedhawkPhyre-Killer-Nights/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg"
+      ],
+      "languages": [
+        "en"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "flashdim-kins-chronicle",
@@ -19462,7 +19582,21 @@
     "sourceHeadSha": "f038a23594497807b0dbc2e7f379cb078d902a97",
     "processedHeadSha": "89040d28f5b501b4680a5fa1633d23937cd6d29c",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/flashdim-kins-chronicle/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/flashdim-kins-chronicle/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg",
+        "fantasy"
+      ],
+      "languages": [
+        "en"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 5,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "juridon-juridon-github-io",
@@ -19486,7 +19620,20 @@
     "processedHeadSha": "81d50dc7c125042b7065d64c6befb82da06a5120",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/juridon-juridon.github.io/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/juridon-juridon.github.io/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "adventure"
+      ],
+      "languages": [
+        "ja"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "ikyih-gamesofthehub",
@@ -19633,7 +19780,20 @@
     "sourceHeadSha": "092f29528fd7091905f64ddcfda6ef4d4a1f3bae",
     "processedHeadSha": "82881e2207995557e6b2e26e717d915b9e467a1d",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/heronat-SI28_Test/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/heronat-SI28_Test/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg"
+      ],
+      "languages": [
+        "fr"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "ealiagay-rpg-web-game-vercel",
@@ -19660,7 +19820,21 @@
     "processedHeadSha": "2e45842d1c5d6d49e6d9348c3c859fdf7abdd597",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/ealiagay-RPG-Web-Game-Vercel/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/ealiagay-RPG-Web-Game-Vercel/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg"
+      ],
+      "languages": [
+        "en",
+        "es"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "davidcolla11-la-cruzada-del-ebola",
@@ -19687,7 +19861,20 @@
     "processedHeadSha": "d124ba14a5bf568884a6003298f33defd7e37fc9",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/davidcolla11-La-Cruzada-del-Ebola/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/davidcolla11-La-Cruzada-del-Ebola/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg"
+      ],
+      "languages": [
+        "es"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "cesarvfilo-videojuegosyfilosofia",
@@ -19714,7 +19901,21 @@
     "processedHeadSha": "caf0a292f0d9c654d2c0506c1658eb12f74f88e7",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/CesarVfilo-videojuegosyfilosofia/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/CesarVfilo-videojuegosyfilosofia/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "adventure",
+        "educational"
+      ],
+      "languages": [
+        "es"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "kaotickj-labyrinth",
@@ -19741,7 +19942,20 @@
     "sourceHeadSha": "f2f6e7bbac4440d2062b8745441062ba8a3e46ad",
     "processedHeadSha": "46deb20ce80cedccb41ff4d55d88ff73fd88f42e",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/kaotickj-Labyrinth/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/kaotickj-Labyrinth/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "strategy"
+      ],
+      "languages": [
+        "en"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 3,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "dovmantov-lack-of-life",
@@ -19768,7 +19982,22 @@
     "processedHeadSha": "4ec3d9ed8de7926335cbca4020594c3b10ed474a",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/dovmantov-Lack-of-Life/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/dovmantov-Lack-of-Life/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg",
+        "slice-of-life"
+      ],
+      "languages": [
+        "ru",
+        "en"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "giltry-lamento-de-las-flores",
@@ -19793,7 +20022,20 @@
     "sourceHeadSha": "300512beab3c12a09a7b317b942563f8a23fefe2",
     "processedHeadSha": "8073ee30279c18e3dbb7a9bd8c7ad1d088ad1c16",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/Giltry-Lamento-de-las-Flores/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/Giltry-Lamento-de-las-Flores/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg"
+      ],
+      "languages": [
+        "es"
+      ],
+      "nsfw": false,
+      "playable": false,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "drusepth-game-sandbox",
@@ -19820,7 +20062,17 @@
     "processedHeadSha": "dcc1902cb3ba7488a87c031caad0154ab22281d2",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/drusepth-game-sandbox/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/drusepth-game-sandbox/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "galerial-le-petit-morte",
@@ -19847,7 +20099,15 @@
     "sourceHeadSha": "e7a8be72902702ccc7c5e01dd7dcc5217c3f5051",
     "processedHeadSha": "80aab186a10dbafbeb8ccfe3e80e5e031a260864",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/Galerial-Le-Petit-Morte/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/Galerial-Le-Petit-Morte/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "template"
+      ],
+      "nsfw": false,
+      "playable": false,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "kenshindias-kenshindias-github-io",
