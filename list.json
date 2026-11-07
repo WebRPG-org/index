@@ -22053,7 +22053,15 @@
     "processedHeadSha": "333b3eca167151d56cf357afe703dab47c114cc6",
     "coverPath": "cover.png",
     "reachable": false,
-    "reachabilityDetail": "https://webrpg.org/sinonymousx-rpgMakerTest/js/plugins.js could not be fetched: fetch failed"
+    "reachabilityDetail": "https://webrpg.org/sinonymousx-rpgMakerTest/js/plugins.js could not be fetched: fetch failed",
+    "meta": {
+      "reviewedAt": "2026-11-07",
+      "playable": true,
+      "genres": [
+        "template"
+      ],
+      "nsfw": false
+    }
   },
   {
     "id": "pascal-the-elf-project-h5",
