@@ -17880,7 +17880,20 @@
     "sourceHeadSha": "6d1d5647f6127df69b71cc26404c368abf42c15a",
     "processedHeadSha": "af6228fd7cf7d4f0d475657eb8b10ef541c79fa9",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/nickchu91-HoloIsland/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/nickchu91-HoloIsland/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg"
+      ],
+      "languages": [
+        "zh-Hant"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "ashton20271-unblockedgames",
@@ -18002,7 +18015,21 @@
     "coverPath": "cover.png",
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/franck-audiger-HunterEvolutionJS/ served an RPG Maker entry point and its startup resources",
-    "processedHeadSha": "7efcaf8e68821e365706efb7aafbab871eb0e39c"
+    "processedHeadSha": "7efcaf8e68821e365706efb7aafbab871eb0e39c",
+    "meta": {
+      "genres": [
+        "rpg",
+        "fantasy"
+      ],
+      "languages": [
+        "fr"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 3,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "shinyjiggly-dungeon-crashers-website",
@@ -18052,7 +18079,18 @@
     "sourceHeadSha": "ea965d272b9dbadac0079e328ad9f9639c5a0fd1",
     "processedHeadSha": "c520f49aa2601e10a62abe27c7f0c697ced15c20",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/stuartmrwong-stuartmrwong.github.io/CISA.html served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/stuartmrwong-stuartmrwong.github.io/CISA.html served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07",
+      "title": "CISA"
+    }
   },
   {
     "id": "jakubiszon-rpg-maker-mz-iframe",
@@ -18079,7 +18117,18 @@
     "sourceHeadSha": "96a8d696c94ca9f22fafad0b4f135e17c4d7212a",
     "processedHeadSha": "a8cfe64ee65409475a327b5d61aa5cd31ec6587b",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/jakubiszon-rpg-maker-mz-iframe/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/jakubiszon-rpg-maker-mz-iframe/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "template"
+      ],
+      "languages": [
+        "en"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "daxsoft-immersion-package",
@@ -18141,7 +18190,17 @@
     "processedHeadSha": "eae72b0a822a2f97fbb9daa6a6ed7f7800ac984b",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/johbcodes-fictional-train/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/johbcodes-fictional-train/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg"
+      ],
+      "nsfw": false,
+      "playable": false,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "rphsoftware-oneloader-isat",
@@ -18442,7 +18501,21 @@
     "sourceHeadSha": "02075437617bf518c8316c9d8037ce5255d695b6",
     "processedHeadSha": "7d337cfa0686ac73cc21d54af51d391572074df7",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/PlumeLumyn-In-the-hall-of-the-King-Kong/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/PlumeLumyn-In-the-hall-of-the-King-Kong/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg"
+      ],
+      "languages": [
+        "en",
+        "fr"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "kuhaku411a-infinite-domination-rw",
@@ -18487,7 +18560,17 @@
     "processedHeadSha": "a1b99f3df884f24780efd6e7a52695c4ce08e47b",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/Raphaell-Maiwen-Informed-Consent/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/Raphaell-Maiwen-Informed-Consent/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg"
+      ],
+      "nsfw": false,
+      "playable": false,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "dvancuyk-initial-fantasy",
@@ -18514,7 +18597,20 @@
     "processedHeadSha": "1ea23e03e4cbf954e1a4176bf1923e5fbb8dbdab",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/dvancuyk-initial-fantasy/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/dvancuyk-initial-fantasy/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg"
+      ],
+      "languages": [
+        "en"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "falconpilot-inquisitor-rpg-mv",
@@ -18541,7 +18637,21 @@
     "processedHeadSha": "38b622f25e59ad31dcd20f1f6b44dbc274f66403",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/FalconPilot-inquisitor_rpg_mv/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/FalconPilot-inquisitor_rpg_mv/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg",
+        "fantasy"
+      ],
+      "languages": [
+        "fr"
+      ],
+      "nsfw": false,
+      "playable": false,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "enigmadragons-intothedark",
@@ -18566,7 +18676,17 @@
     "sourceHeadSha": "0cad7b0a975756e7ec955cac070400b28564379e",
     "processedHeadSha": "8dbab5c3d9189395aac629f4604f054334489142",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/EnigmaDragons-IntoTheDark/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/EnigmaDragons-IntoTheDark/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg"
+      ],
+      "nsfw": false,
+      "playable": false,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "donjuanplatinum-irodorimidori-rpg-server",
@@ -18593,7 +18713,21 @@
     "sourceHeadSha": "b0c82ae385e7ac40497a0b3e4068473b021cab68",
     "processedHeadSha": "026c9386c21e88b2602e3c55c7173a055f2b406d",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/donjuanplatinum-irodorimidori-rpg-server/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/donjuanplatinum-irodorimidori-rpg-server/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg",
+        "fantasy"
+      ],
+      "languages": [
+        "ja"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 5,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "yumetsukiiii-irotoridorino-sekai-game",
@@ -18620,7 +18754,20 @@
     "sourceHeadSha": "7e86af62b0cffc05ade97ca9a73d66683a940d12",
     "processedHeadSha": "4ee1066dbcdaedba8812881d555d379f9c404994",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/yumeTsukiiii-irotoridorino_sekai_game/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/yumeTsukiiii-irotoridorino_sekai_game/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg"
+      ],
+      "languages": [
+        "zh-Hans"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "thomazdevmaster-iso25k-square-rpg",
@@ -18647,7 +18794,21 @@
     "processedHeadSha": "2b6cf336734aaa19cfd9837da1408892d9cb96c7",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/thomazdevmaster-ISO25k-Square-RPG/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/thomazdevmaster-ISO25k-Square-RPG/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg",
+        "educational"
+      ],
+      "languages": [
+        "pt"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "sirpacings-isoislandrpg",
@@ -18674,7 +18835,20 @@
     "sourceHeadSha": "3ad155d6326d02d2332e8c4b6e1d1cf1cf8f2a8c",
     "processedHeadSha": "7dd2a3fca1951cbf3c0760ed01b8bf4eeba36a5b",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/SirPacings-IsoIslandRpg/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/SirPacings-IsoIslandRpg/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg"
+      ],
+      "languages": [
+        "en"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "preuksuksiri-jabs-survival-shooting-system",
@@ -18701,7 +18875,17 @@
     "sourceHeadSha": "e1a127aaa25a299c022acbbed5492b00cca9ca61",
     "processedHeadSha": "8099ffab3ddf88a0fe9bb1da7c72e5d1c67572e1",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/PreukSuksiri-JABS-Survival-Shooting-System/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/PreukSuksiri-JABS-Survival-Shooting-System/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg"
+      ],
+      "nsfw": false,
+      "playable": false,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "thomazdevmaster-matematica",
@@ -18728,7 +18912,22 @@
     "sourceHeadSha": "8c2fcc0ff1bf015e59080bba3860825c99e29c52",
     "processedHeadSha": "5c993d7705a859f96e14a5484f8b065823935713",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/thomazdevmaster-matematica/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/thomazdevmaster-matematica/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg",
+        "educational"
+      ],
+      "languages": [
+        "pt"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07",
+      "title": "O GUARDIÃO DA MATEMÁTICA / O LEGADO DOS NÚMEROS"
+    }
   },
   {
     "id": "qadwas-qwerty1s",
@@ -18772,7 +18971,20 @@
     "processedHeadSha": "7c9ad12291c070aa210b161eecc717b877f522e4",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/exadmax-Proto/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/exadmax-Proto/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg"
+      ],
+      "languages": [
+        "pt"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "sanmollp-sanmollp-github-io",
@@ -18799,7 +19011,22 @@
     "sourceHeadSha": "829dee3b3de34b53033ed47f1bf872cdb2d82334",
     "processedHeadSha": "45f2a37293f37f49ec8380baa74b2cb3f35d2742",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/sanmollp-sanmollp.github.io/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/sanmollp-sanmollp.github.io/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg",
+        "educational"
+      ],
+      "languages": [
+        "en",
+        "es"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "mantojoshua-mantojoshua-github-io",
@@ -18826,7 +19053,20 @@
     "sourceHeadSha": "c5c5bb421a73c20874f667bd70d6e9fa0ee446be",
     "processedHeadSha": "cf29a1c886e1399e27992b4d3d3d4c6cb315686c",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/mantojoshua-mantojoshua.github.io/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/mantojoshua-mantojoshua.github.io/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "adventure"
+      ],
+      "languages": [
+        "en"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "harleythetech-jovellano-act1",
@@ -18853,7 +19093,20 @@
     "sourceHeadSha": "588502c7735f914d32ce79ef4bbff6ae08783b1c",
     "processedHeadSha": "c9202b663ba781248f8d3bd9106677fc18e5f4e2",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/Harleythetech-Jovellano_ACT1/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/Harleythetech-Jovellano_ACT1/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg"
+      ],
+      "languages": [
+        "en"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "harleythetech-jovellano-act2",
