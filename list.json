@@ -945,7 +945,21 @@
     "processedHeadSha": "f5fc0b5eca23e97b7f14529508f69505b990db5d",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/lisachouHC-drdresapre/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/lisachouHC-drdresapre/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "adventure",
+        "puzzle"
+      ],
+      "languages": [
+        "zh-Hant"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "lisachouhc-drdrescape-v2",
@@ -969,7 +983,21 @@
     "processedHeadSha": "7f76675a6ee8e9174c05967af639f87fc1ace5b2",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/lisachouHC-drdrescape_V2/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/lisachouHC-drdrescape_V2/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "adventure",
+        "puzzle"
+      ],
+      "languages": [
+        "zh-Hant"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "neonnoir-yuki-drkxq",
@@ -1186,7 +1214,17 @@
     "sourceHeadSha": "f777aacfedd46b8779a7e21ccf41d33293b5db52",
     "processedHeadSha": "1786ace01d90964b660357ff619957a921c68e39",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/yinshi91-game/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/yinshi91-game/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg"
+      ],
+      "nsfw": false,
+      "playable": false,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "yinshi91-game-3",
@@ -1208,7 +1246,17 @@
     "sourceHeadSha": "f64402a49573592ba310f08ccf3772f7e49a1fa5",
     "processedHeadSha": "13306d0ae80c8a46c086f0ec34ac2555eeab4044",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/yinshi91-game_3/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/yinshi91-game_3/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg"
+      ],
+      "nsfw": false,
+      "playable": false,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "myueqf-myueqf-github-io",
@@ -1344,7 +1392,20 @@
     "processedHeadSha": "85de40570ac2b38c8a8c0ffb83d73be8d18831ed",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/say-hanabi-dev-hanabi-rpg-game-dev/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/say-hanabi-dev-hanabi-rpg-game-dev/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "adventure"
+      ],
+      "languages": [
+        "zh-Hans"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 3,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "say-hanabi-dev-hanabi-rpg-game-frontend",
@@ -1368,7 +1429,20 @@
     "processedHeadSha": "7a5be97b626e9b4f9f6f85bfc6110e6d96e5ee7d",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/say-hanabi-dev-hanabi-rpg-game-frontend/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/say-hanabi-dev-hanabi-rpg-game-frontend/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "adventure"
+      ],
+      "languages": [
+        "zh-Hans"
+      ],
+      "nsfw": false,
+      "playable": false,
+      "popularity": 3,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "miracleyoo-hcrs-online",
@@ -1392,7 +1466,22 @@
     "processedHeadSha": "c2e2be1e40ef53e94a8cd6ef04fbe48c071dd46a",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/miracleyoo-HCRS-Online/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/miracleyoo-HCRS-Online/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg",
+        "simulation",
+        "slice-of-life"
+      ],
+      "languages": [
+        "zh-Hans"
+      ],
+      "nsfw": false,
+      "playable": false,
+      "popularity": 6,
+      "rating": 7,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "miracleyoo-hua-cai-ren-sheng",
@@ -1416,7 +1505,22 @@
     "processedHeadSha": "b2044d8191c07c1eee11a5106843bbd2ca3cc33d",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/miracleyoo-Hua-Cai-Ren-Sheng/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/miracleyoo-Hua-Cai-Ren-Sheng/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg",
+        "simulation",
+        "slice-of-life"
+      ],
+      "languages": [
+        "zh-Hans"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 6,
+      "rating": 7,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "q3226257-rpg-game",
@@ -2204,7 +2308,27 @@
     "processedHeadSha": "d4c2b542d2d566274d59adf22e7265f4404d5064",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/renrender0209-aooni/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/renrender0209-aooni/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "aliases": [
+        "ao oni",
+        "aoni"
+      ],
+      "genres": [
+        "adventure",
+        "horror",
+        "puzzle"
+      ],
+      "languages": [
+        "ja"
+      ],
+      "nsfw": false,
+      "originalTitle": "青鬼",
+      "playable": true,
+      "popularity": 8,
+      "rating": 7,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "riyoway-aooni2016-restored",
@@ -2231,7 +2355,27 @@
     "sourceHeadSha": "3b3f773039bcf8b42ce0d1bb1eb87709fa093a16",
     "processedHeadSha": "9db60004b6957943645fd576b345ba4121b3082d",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/Riyoway-aooni2016-restored/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/Riyoway-aooni2016-restored/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "aliases": [
+        "ao oni",
+        "aoni"
+      ],
+      "genres": [
+        "adventure",
+        "horror",
+        "puzzle"
+      ],
+      "languages": [
+        "ja"
+      ],
+      "nsfw": false,
+      "originalTitle": "青鬼",
+      "playable": true,
+      "popularity": 8,
+      "rating": 7,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "tkoolsamchi-aooni2016fix-github-io",
@@ -2401,7 +2545,21 @@
     "processedHeadSha": "35e751eb8d7b7b18efefcb95740cf9e6285a97b7",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/arisuYurika-threenights/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/arisuYurika-threenights/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "adventure",
+        "horror"
+      ],
+      "languages": [
+        "zh-Hans"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 3,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "arisuyurika-threenights2",
@@ -2425,7 +2583,21 @@
     "processedHeadSha": "69f543665bb61ce72cc06e182fd57549ce1cc0f8",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/arisuYurika-threenights2/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/arisuYurika-threenights2/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "adventure",
+        "horror"
+      ],
+      "languages": [
+        "zh-Hans"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 3,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "kata235-mv02",
@@ -2712,7 +2884,25 @@
     "processedHeadSha": "382c9b58e902bd5a143242e3153af866d65ddad9",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/gfdgd-xi-siyemuxu-online/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/gfdgd-xi-siyemuxu-online/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "aliases": [
+        "四叶苜蓿",
+        "siyemuxu"
+      ],
+      "genres": [
+        "rpg",
+        "fantasy"
+      ],
+      "languages": [
+        "zh-Hans"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 3,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "guilhermelemos14-fabulousbeasts",
@@ -2739,7 +2929,25 @@
     "processedHeadSha": "9edb8eb852252bc0d1e038b933159c43770c42b6",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/GuilhermeLemos14-FabulousBeasts/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/GuilhermeLemos14-FabulousBeasts/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "aliases": [
+        "四叶苜蓿",
+        "siyemuxu"
+      ],
+      "genres": [
+        "rpg",
+        "fantasy"
+      ],
+      "languages": [
+        "zh-Hans"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 3,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "joshika39-rpg-camp-game",
@@ -2763,7 +2971,23 @@
     "processedHeadSha": "79080bbbb326fe0d1f0d3f11777330b1082dc95c",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/joshika39-rpg-camp-game/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/joshika39-rpg-camp-game/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "aliases": [
+        "subarashii sekai de"
+      ],
+      "genres": [
+        "rpg"
+      ],
+      "languages": [
+        "ja"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "lsc-jh-rpg-maker",
@@ -12996,7 +13220,20 @@
     "sourceHeadSha": "937634a0c314b92b6a4dcd9296f39ad8480633eb",
     "processedHeadSha": "e38b8ecebbe654ecab0837341e069e6dc1a8777a",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/29sdavis-29sdavis.github.io/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/29sdavis-29sdavis.github.io/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg"
+      ],
+      "languages": [
+        "en"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "angeltheromero-angeltheromero-github-io",
@@ -13023,7 +13260,20 @@
     "sourceHeadSha": "e06e7cb3686e0d5c9487362dd8b40c99abfd91ed",
     "processedHeadSha": "d1af09393bd93a32793334f3a47b2353f0768f7c",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/AngeltheRomero-AngeltheRomero.github.io/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/AngeltheRomero-AngeltheRomero.github.io/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg"
+      ],
+      "languages": [
+        "en"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "csmith1188-csmith1188-github-io",
@@ -24343,7 +24593,20 @@
     "sourceHeadSha": "b1ae76532ac742502b023daaa1b78a92a09f656a",
     "processedHeadSha": "9088d9c8636f07ccf6280689f8e326499a870d5e",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/AAK581-blokkat-arabicblockchain-developer-bootcamp-graduation-project/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/AAK581-blokkat-arabicblockchain-developer-bootcamp-graduation-project/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "adventure"
+      ],
+      "languages": [
+        "en"
+      ],
+      "nsfw": false,
+      "playable": false,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "aak581-rpg-game-sepolia-cats",
@@ -24368,7 +24631,20 @@
     "sourceHeadSha": "1b287722340c10a585228fdb87b557884c975e3d",
     "processedHeadSha": "e65afe2335545f46bf3b7b38415c4fee504a7346",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/AAK581-rpg-game-sepolia-cats/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/AAK581-rpg-game-sepolia-cats/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "adventure"
+      ],
+      "languages": [
+        "en"
+      ],
+      "nsfw": false,
+      "playable": false,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "aak581-testnet-cats-dapp",
@@ -24393,7 +24669,20 @@
     "sourceHeadSha": "a18b4bf83ae0652cca89c5608015c24b012d48ed",
     "processedHeadSha": "c20716f1c73e6bddd4138c88c33c5baae50d2356",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/AAK581-testnet-cats-dapp/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/AAK581-testnet-cats-dapp/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "adventure"
+      ],
+      "languages": [
+        "en"
+      ],
+      "nsfw": false,
+      "playable": false,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "blixuk-settelment",
