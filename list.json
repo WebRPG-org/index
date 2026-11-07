@@ -7656,6 +7656,19 @@
     "invalidReason": "Upstream repository size 10386135 KB exceeds the 8388608 KB limit."
   },
   {
+    "id": "gitgui26-first-cool-ads",
+    "title": "BLOODMONEY!",
+    "repo": "https://github.com/GitGUI26/first-cool-ads",
+    "owner": "GitGUI26",
+    "name": "first-cool-ads",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "discoveredAt": "2026-11-07T17:27:38.005Z",
+    "source": "github-code-search",
+    "sourcePath": "games/86.html",
+    "plannedForkName": "GitGUI26-first-cool-ads"
+  },
+  {
     "id": "goaded-bazinga",
     "title": "BLOODMONEY!",
     "repo": "https://github.com/goaded/bazinga",
@@ -23681,6 +23694,19 @@
     "invalidReason": "No RPG Maker MV/MZ HTML entry point loading js/main.js was found.",
     "deletedAt": "2026-11-06T19:05:14.805Z",
     "validationScore": 0
+  },
+  {
+    "id": "flashedcode-pastpapergeniegfh",
+    "title": "OMORI",
+    "repo": "https://github.com/flashedcode/pastpapergeniegfh",
+    "owner": "flashedcode",
+    "name": "pastpapergeniegfh",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "discoveredAt": "2026-11-07T17:27:38.005Z",
+    "source": "github-code-search",
+    "sourcePath": "game-embeds/omori.html",
+    "plannedForkName": "flashedcode-pastpapergeniegfh"
   },
   {
     "id": "gabrielzarpellon-omoriptbr",
