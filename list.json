@@ -29398,7 +29398,17 @@
     "sourceHeadSha": "c9494d969739070af9cedd2be1c0ae8714163078",
     "processedHeadSha": "26810d8c506bad5921748e1f218882bbc09ea591",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/yoshikizh-rpgmaker-world/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/yoshikizh-rpgmaker-world/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg"
+      ],
+      "nsfw": false,
+      "playable": false,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-08"
+    }
   },
   {
     "id": "johnqwq-secret-escape",
@@ -29423,7 +29433,17 @@
     "sourceHeadSha": "56b812ba0f6d06cad4f5bc64d7d383bff790c300",
     "processedHeadSha": "20fb9135a2e58278585900c5b275b95a4457ac7e",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/johnqwq-secret-escape/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/johnqwq-secret-escape/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "puzzle"
+      ],
+      "nsfw": false,
+      "playable": false,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-08"
+    }
   },
   {
     "id": "sirmcpotato-rmmv-mmo-webkit",
@@ -29450,7 +29470,15 @@
     "processedHeadSha": "a7c00c3a249099e15f233350bea4e6b1b22b0128",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/SirMcPotato-RMMV-MMO-webkit/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/SirMcPotato-RMMV-MMO-webkit/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "template"
+      ],
+      "nsfw": false,
+      "playable": false,
+      "reviewedAt": "2026-11-08"
+    }
   },
   {
     "id": "aiko-it-systems-rmmv-core",
@@ -29599,7 +29627,15 @@
     "sourceHeadSha": "6caffa18918d299486e0937ce31f127fa044fa89",
     "processedHeadSha": "a95bd7d917ff1b0e19beb7a593a2c18c15f8eda9",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/Alekevin12-RMMZ-PLUS/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/Alekevin12-RMMZ-PLUS/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "template"
+      ],
+      "nsfw": false,
+      "playable": false,
+      "reviewedAt": "2026-11-08"
+    }
   },
   {
     "id": "matth26676-docpacs2526",
@@ -29641,7 +29677,20 @@
     "processedHeadSha": "220027f6cbc8c662e5e215d9127deffa6498dbed",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/Epic12Terrarian-Road-to-Joshsdale/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/Epic12Terrarian-Road-to-Joshsdale/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg"
+      ],
+      "languages": [
+        "en"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-08"
+    }
   },
   {
     "id": "aguiano18-rpg-maker",
@@ -29668,7 +29717,20 @@
     "processedHeadSha": "6ba9fc2c5e91dc488c4676d440ea01d7e923ad84",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/Aguiano18-Rpg.maker/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/Aguiano18-Rpg.maker/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg"
+      ],
+      "languages": [
+        "pt"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-08"
+    }
   },
   {
     "id": "lucianoapz-m07-uf3-fitesexercicis",
@@ -29710,7 +29772,20 @@
     "sourceHeadSha": "746360dbbc9044904268145950871a0c93b9f0f8",
     "processedHeadSha": "a3624664f2d1adf2a74e0f1b8037f667c8a62082",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/RoryTheGame-RoryRPG/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/RoryTheGame-RoryRPG/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg"
+      ],
+      "languages": [
+        "en"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 4,
+      "reviewedAt": "2026-11-08"
+    }
   },
   {
     "id": "cjtan0503-rpgfantasy",
@@ -29737,7 +29812,17 @@
     "processedHeadSha": "65e6ea5aba27103e140402c900f508697b506ff6",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/CJTan0503-RPGFantasy/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/CJTan0503-RPGFantasy/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg"
+      ],
+      "nsfw": false,
+      "playable": false,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-08"
+    }
   },
   {
     "id": "a2937-rpg-maker-mv-test-template",
@@ -29817,7 +29902,25 @@
     "processedHeadSha": "8679adf0a3562e4e1db9248cb05da51e7ecf2e23",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/eml17028-RPGMaker_Horror_GameJam_24/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/eml17028-RPGMaker_Horror_GameJam_24/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "aliases": [
+        "RPGMaker_Horror_GameJam_24"
+      ],
+      "genres": [
+        "adventure",
+        "horror"
+      ],
+      "languages": [
+        "en"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 3,
+      "rating": 5,
+      "reviewedAt": "2026-11-08",
+      "title": "Siren Isle"
+    }
   },
   {
     "id": "nekobotmx-rpgmaker-mv-mz-android-studio",
@@ -29859,7 +29962,17 @@
     "sourceHeadSha": "2451a237ec78a7f9283c51a6c3ef9189f5607a73",
     "processedHeadSha": "db16025fdae32744628732207a017fe971f9aa0a",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/h4cander-RPGMakerH4/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/h4cander-RPGMakerH4/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg"
+      ],
+      "nsfw": false,
+      "playable": false,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-08"
+    }
   },
   {
     "id": "peq42-rpg-battle-royal",
@@ -29884,7 +29997,17 @@
     "sourceHeadSha": "cb371f1f7ba157af23881d8e74a661f1e92f95fa",
     "processedHeadSha": "1e55281e99bcbced0787bbfa3e017c036e991e17",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/peq42-RPG-Battle-Royal/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/peq42-RPG-Battle-Royal/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg"
+      ],
+      "nsfw": false,
+      "playable": false,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-08"
+    }
   },
   {
     "id": "taroxd-rpgmv-taiko",
@@ -29964,7 +30087,15 @@
     "processedHeadSha": "9303743ae5dd3c95649eb863e9b040308816c3aa",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/hikko624-RPG_maker_MV_KC3_LT/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/hikko624-RPG_maker_MV_KC3_LT/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "template"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "reviewedAt": "2026-11-08"
+    }
   },
   {
     "id": "archeia-ruselandnessy",
@@ -29991,7 +30122,20 @@
     "processedHeadSha": "238cbab988af6794947911823f416cff6543a3f6",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/Archeia-RuselandNessy/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/Archeia-RuselandNessy/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg"
+      ],
+      "languages": [
+        "en"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-08"
+    }
   },
   {
     "id": "thewhitecanvas-saintseiya-rmmv",
@@ -30018,7 +30162,18 @@
     "sourceHeadSha": "6f7130cbe0597d717dd89bdc280c21d323a52b23",
     "processedHeadSha": "2f9ff3982b95170d7909f996e1ad77fbb5b51a13",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/TheWhiteCanvas-SaintSeiya_RMMV/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/TheWhiteCanvas-SaintSeiya_RMMV/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg",
+        "fantasy"
+      ],
+      "nsfw": false,
+      "playable": false,
+      "popularity": 3,
+      "rating": 5,
+      "reviewedAt": "2026-11-08"
+    }
   },
   {
     "id": "jaegyoon-hero-raising",
@@ -30045,7 +30200,17 @@
     "sourceHeadSha": "add2436560fa4086af2e6ca086decea88b567936",
     "processedHeadSha": "7e5b34eea9f22437bbcdc287af5415f9c407d76f",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/JaeGyoon-Hero-raising/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/JaeGyoon-Hero-raising/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg"
+      ],
+      "nsfw": false,
+      "playable": false,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-08"
+    }
   },
   {
     "id": "webservicesjarm-juego1",
@@ -30072,7 +30237,20 @@
     "processedHeadSha": "32ebf0ae1d5d56f909e9dfe57c9e4086ad8b777f",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/webservicesjarm-Juego1/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/webservicesjarm-Juego1/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg"
+      ],
+      "languages": [
+        "es"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-08"
+    }
   },
   {
     "id": "lolosenpai-aob",
@@ -30233,7 +30411,21 @@
     "processedHeadSha": "2378811ab9a731c6144cb83d2f857bfb52d25049",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/Byvalvin-Sanctuary/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/Byvalvin-Sanctuary/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg",
+        "sci-fi"
+      ],
+      "languages": [
+        "en"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-08"
+    }
   },
   {
     "id": "sailorshulk9-test",
@@ -30278,7 +30470,20 @@
     "sourceHeadSha": "53920cd4446d59dbe97047864fe1e67feea31588",
     "processedHeadSha": "ca0e59c53597c1c49b0b607355203591c173a1a2",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/scaryinc-tg/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/scaryinc-tg/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg"
+      ],
+      "languages": [
+        "en"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-08"
+    }
   },
   {
     "id": "tarifekhan-scene-of-the-crime",
@@ -30305,7 +30510,18 @@
     "sourceHeadSha": "d199a241708b1b663e4c50c3ba3930e5bba34c93",
     "processedHeadSha": "897711eaf6311f25cea14a1c2ab9cf591dc92101",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/TarifEKhan-Scene-of-the-crime/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/TarifEKhan-Scene-of-the-crime/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "adventure",
+        "mystery"
+      ],
+      "nsfw": false,
+      "playable": false,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-08"
+    }
   },
   {
     "id": "miegithub-scholars-journey",
@@ -30332,7 +30548,22 @@
     "processedHeadSha": "fdf6afe5d324e9da2f50a6d0d6c7f28ddec423a9",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/miegithub-Scholars_Journey/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/miegithub-Scholars_Journey/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "adventure",
+        "slice-of-life"
+      ],
+      "languages": [
+        "en",
+        "tl"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-08"
+    }
   },
   {
     "id": "mag-sleeper-scholarquest-hack-h-er2025",
