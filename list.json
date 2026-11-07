@@ -3011,7 +3011,23 @@
     "processedHeadSha": "e41d4377a3755114fd718a6c5f41091dcffc4c2e",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/lsc-jh-rpg-maker/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/lsc-jh-rpg-maker/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "aliases": [
+        "subarashii sekai de"
+      ],
+      "genres": [
+        "rpg"
+      ],
+      "languages": [
+        "ja"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "ambiwlans-toofastrpg",
@@ -3598,7 +3614,17 @@
     "sourceHeadSha": "a103933e27e0ffcbde9deef58f793ff1cd2b5c9a",
     "processedHeadSha": "5b21501f7a77d2e57457f87a7cdcff670035161d",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/teritaris-kakeyokonnectMZ/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/teritaris-kakeyokonnectMZ/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg"
+      ],
+      "nsfw": false,
+      "playable": false,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "teritaris-tenxym",
@@ -3625,7 +3651,17 @@
     "sourceHeadSha": "f3d7d358ca1379a8288c8d7ea78d3606ef2e7179",
     "processedHeadSha": "5df8e000bd96525793fc8d6edd509983dbced06c",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/teritaris-tenxym/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/teritaris-tenxym/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg"
+      ],
+      "nsfw": false,
+      "playable": false,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "etxian-heroland",
@@ -5222,7 +5258,20 @@
     "sourceHeadSha": "c4d3e344684ad51f82ce415c313e519b6f6169ea",
     "processedHeadSha": "537305a9b6bcf0f69838ba2c0de3df24ce7bac8e",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/UnboxingVideoReal-bambi-civ/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/UnboxingVideoReal-bambi-civ/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg"
+      ],
+      "languages": [
+        "en"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "unboxingvideoreal-bambi-civ-fangame-pc",
@@ -5249,7 +5298,20 @@
     "sourceHeadSha": "12fa96938b2d629a7cbfd52b975bc3cc53ac223b",
     "processedHeadSha": "6f0e933a280e11451ea8fe8b2325e5782d4f0ce9",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/UnboxingVideoReal-bambi-civ-fangame-pc/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/UnboxingVideoReal-bambi-civ-fangame-pc/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg"
+      ],
+      "languages": [
+        "en"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "benjaminpants-benjaminpants-github-io",
@@ -5327,7 +5389,21 @@
     "processedHeadSha": "af11fb6bf35c7747c0711f519cb54a686a95cfce",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/SaveSub-BathroomMaze_EN/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/SaveSub-BathroomMaze_EN/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg",
+        "puzzle"
+      ],
+      "languages": [
+        "en"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "tomoshibi06-bathroom",
@@ -5354,7 +5430,21 @@
     "processedHeadSha": "83ac56941fa5d95ff178538c01e954c6fefa3f1b",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/tomoshibi06-bathroom/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/tomoshibi06-bathroom/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg",
+        "puzzle"
+      ],
+      "languages": [
+        "ja"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "didgogns-minehero",
@@ -7061,7 +7151,22 @@
     "processedHeadSha": "8ff30ccfc6409b34b0080737857a37e8ee2e701c",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/PeterDrake-cascadia-pilot-game/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/PeterDrake-cascadia-pilot-game/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "adventure",
+        "educational"
+      ],
+      "languages": [
+        "en"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07",
+      "title": "Cascadia Earthquake"
+    }
   },
   {
     "id": "selena-flores-game",
@@ -7088,7 +7193,22 @@
     "sourceHeadSha": "65f8e5fc8b5bd76b4be1e6ab36d6f46f9ea60b53",
     "processedHeadSha": "6dacf49947a6771eafd19ed2d553f6f8716cfabe",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/selena-flores-game/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/selena-flores-game/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "adventure",
+        "educational"
+      ],
+      "languages": [
+        "en"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07",
+      "title": "Cascadia Earthquake"
+    }
   },
   {
     "id": "cosmiccatacorn-ahjkjh",
@@ -7169,7 +7289,20 @@
     "processedHeadSha": "5680068f658c75fc264d40c9736931e97c4710a1",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/shirorimi-chaos/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/shirorimi-chaos/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg"
+      ],
+      "languages": [
+        "ja"
+      ],
+      "nsfw": true,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "shirorimi-chaosver10",
@@ -7196,7 +7329,20 @@
     "processedHeadSha": "d2c117cbe97892902a2e7910b8e660c07ab36452",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/shirorimi-chaosver10/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/shirorimi-chaosver10/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg"
+      ],
+      "languages": [
+        "ja"
+      ],
+      "nsfw": true,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "je-can-code-ca",
@@ -7802,7 +7948,18 @@
     "sourceHeadSha": "f2d83eb27e32c79eeab8a626c3d4e8bd2bc6dc0b",
     "processedHeadSha": "aaf6b899b30e37562481d95c0d0a628bddcea279",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/GullamAlmuzadid-Pengembangan_Game/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/GullamAlmuzadid-Pengembangan_Game/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "simulation",
+        "slice-of-life"
+      ],
+      "nsfw": false,
+      "playable": false,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "gullamalmuzadid-pg-collegelive",
@@ -7829,7 +7986,18 @@
     "sourceHeadSha": "dbba8209dc5752846704dde4ad14e7ae36efc51d",
     "processedHeadSha": "a3218d3d1d8f59d439ef2bf30d0bac6b06eb3e99",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/GullamAlmuzadid-PG_CollegeLive/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/GullamAlmuzadid-PG_CollegeLive/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "simulation",
+        "slice-of-life"
+      ],
+      "nsfw": false,
+      "playable": false,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "dewandrar-college-live",
@@ -8292,7 +8460,22 @@
     "sourceHeadSha": "2c3f7bfb6a4fc7f0dda740fc31e04fc5fc29dda5",
     "processedHeadSha": "a82c63ea4d9cc48ba867c185b3e47a9b83086ddd",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/szymor-elemental-saga/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/szymor-elemental-saga/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg",
+        "fantasy"
+      ],
+      "languages": [
+        "ja"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07",
+      "title": "紋章物語"
+    }
   },
   {
     "id": "szymor-games",
@@ -8319,7 +8502,22 @@
     "sourceHeadSha": "eb348862f170b936b0822796bac34c028fe65010",
     "processedHeadSha": "c0416c846531bc15479bd3af49a6811b42589185",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/szymor-games/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/szymor-games/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg",
+        "fantasy"
+      ],
+      "languages": [
+        "en"
+      ],
+      "nsfw": false,
+      "originalTitle": "紋章物語",
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "dejely-bean-studios-crime-never-sleeps",
@@ -8373,7 +8571,21 @@
     "processedHeadSha": "34772e4136cfe1fa1b01314ae1448d735795e892",
     "coverPath": "cover.png",
     "verificationDeferred": true,
-    "syncedFromSource": true
+    "syncedFromSource": true,
+    "meta": {
+      "genres": [
+        "rpg",
+        "comedy"
+      ],
+      "languages": [
+        "en"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "soapstain22-soapstain22-github-io",
@@ -8400,7 +8612,21 @@
     "sourceHeadSha": "da78f37924477657f05e72caa106b5c54980af29",
     "processedHeadSha": "4c08882d47c9f9041156535d3bc223d58a0200ed",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/soapstain22-soapstain22.github.io/crimpoquest.html served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/soapstain22-soapstain22.github.io/crimpoquest.html served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg",
+        "comedy"
+      ],
+      "languages": [
+        "en"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "ineudaimonia-game-development",
@@ -9781,7 +10007,24 @@
     "processedHeadSha": "4d22e9346b8b467163c9babcc6fe5e5e0fd3462a",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/Kendid29-AfterRain/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/Kendid29-AfterRain/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "aliases": [
+        "afterrain"
+      ],
+      "genres": [
+        "rpg"
+      ],
+      "languages": [
+        "en",
+        "id"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "nautssky-nautssky",
@@ -9808,7 +10051,24 @@
     "processedHeadSha": "8a8a0306eee1a4d987d6c585ae38d896b4c2c39a",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/NautsSky-nautssky/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/NautsSky-nautssky/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "aliases": [
+        "afterrain"
+      ],
+      "genres": [
+        "rpg"
+      ],
+      "languages": [
+        "en",
+        "id"
+      ],
+      "nsfw": false,
+      "playable": false,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "sawasaki-coder-ha-thu",
@@ -9963,7 +10223,17 @@
     "processedHeadSha": "7a39343efa3767be500699005d0c3fcff1683fbd",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/zhuobinggang-dirt-rpg/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/zhuobinggang-dirt-rpg/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "adventure"
+      ],
+      "nsfw": false,
+      "playable": false,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "zhuobinggang-flower-of-evil",
