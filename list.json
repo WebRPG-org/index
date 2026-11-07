@@ -10004,7 +10004,22 @@
     "processedHeadSha": "492e1c919e34263110ac3cb7b93918aaf6cb7fe0",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/DewandraR-College-Live/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/DewandraR-College-Live/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "simulation",
+        "slice-of-life"
+      ],
+      "languages": [
+        "en",
+        "id"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "patbqc-rpg-csb",
@@ -10031,7 +10046,21 @@
     "sourceHeadSha": "49877a6affb2774d1ca9f3b43181e2ae3507b5fc",
     "processedHeadSha": "1b1ed89ada52d9d22225d6fdd04c75d8890b0a75",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/PatBQc-rpg-csb/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/PatBQc-rpg-csb/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg"
+      ],
+      "languages": [
+        "en",
+        "fr"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "blairwilcox-colosseum",
@@ -10056,7 +10085,17 @@
     "sourceHeadSha": "8779c6e181def7813a28744da458573b7a2e965b",
     "processedHeadSha": "cf155bb2f5bbdd468dcec90ca39042032e60b5f6",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/blairwilcox-Colosseum/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/blairwilcox-Colosseum/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg"
+      ],
+      "nsfw": false,
+      "playable": false,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "unboundstudios-colours-missing",
@@ -10083,7 +10122,21 @@
     "processedHeadSha": "3b2227a37d2112b3ce8d53cdd06c1137239895af",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/UnboundStudios-colours-missing/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/UnboundStudios-colours-missing/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "puzzle",
+        "adventure"
+      ],
+      "languages": [
+        "en"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 3,
+      "rating": 6,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "imaginaryvillain-community-lights",
@@ -10176,7 +10229,20 @@
     "sourceHeadSha": "b02292a22c32c63b1d17793b82437e4dc8f5b81c",
     "processedHeadSha": "893943b79cb908d323e8119a3958ae7de8ceed6e",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/StevenRomero98-ConceptGameDeployment/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/StevenRomero98-ConceptGameDeployment/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg"
+      ],
+      "languages": [
+        "en"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "ec-developer-hub-conquesttttt",
@@ -10203,7 +10269,22 @@
     "sourceHeadSha": "e6c889fef4458d30b26b11612c9c1d166020fa9d",
     "processedHeadSha": "7f7480ddfd4819014aad0e19cfadf4fde5cb3955",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/EC-Developer-Hub-conquesttttt/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/EC-Developer-Hub-conquesttttt/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg",
+        "slice-of-life"
+      ],
+      "languages": [
+        "en"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07",
+      "title": "SEMESTER SURVIVAL"
+    }
   },
   {
     "id": "masahirotanaka-cordova-final-quest",
@@ -10368,7 +10449,21 @@
     "processedHeadSha": "b9d3e35856e35a72b57c706daaf205e8dd0ba6c3",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/mn3zx-CorridaAcademica/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/mn3zx-CorridaAcademica/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "minigame",
+        "educational"
+      ],
+      "languages": [
+        "pt"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "c7lison-cozy-studio-game",
@@ -10413,7 +10508,22 @@
     "sourceHeadSha": "45fd21c490a572733e739ac25e8210018d1ea26f",
     "processedHeadSha": "17c2980ba972fb647538c7cf5f9afd146a4ca7d6",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/hanr61-Creative-Journey-New/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/hanr61-Creative-Journey-New/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "adventure",
+        "slice-of-life"
+      ],
+      "languages": [
+        "en",
+        "id"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "szymor-elemental-saga",
@@ -10524,7 +10634,21 @@
     "processedHeadSha": "60047a93f063972cf961e504f1e7d988e464a170",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/Dejely-Bean-Studios-Crime-Never-Sleeps/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/Dejely-Bean-Studios-Crime-Never-Sleeps/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "puzzle",
+        "mystery"
+      ],
+      "languages": [
+        "en"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "soapstain22-crimpoquestmv",
@@ -10657,7 +10781,20 @@
     "sourceHeadSha": "0c8e9fb3c21dd2256aa38ffcb65df2564d1f2fde",
     "processedHeadSha": "edc979aa9e8ad3a515fbe1da09f1de32ce3374d3",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/teritaris-CryptoCasino/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/teritaris-CryptoCasino/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "minigame"
+      ],
+      "languages": [
+        "ja"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "telegd-ctf-shoottnup",
@@ -10684,7 +10821,20 @@
     "sourceHeadSha": "5773f33690d8c63d0360027372b1adec03cc32d8",
     "processedHeadSha": "2954820d2c413e1c5d816642e15ec7b027ad373a",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/TeleGD-CTF-ShootTNUp/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/TeleGD-CTF-ShootTNUp/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg"
+      ],
+      "languages": [
+        "fr"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "supersonic187-culinary-combat",
@@ -10711,7 +10861,21 @@
     "sourceHeadSha": "4f23f15140a36942ff1a363b9d77154159b2e30c",
     "processedHeadSha": "aa8a3ac04f21c898d880acd193fc255aeb63b2df",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/Supersonic187-Culinary-Combat/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/Supersonic187-Culinary-Combat/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg",
+        "slice-of-life"
+      ],
+      "languages": [
+        "en"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 3,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "victorflor-cursed-roots-demo",
@@ -10820,7 +10984,21 @@
     "processedHeadSha": "6f2362773328f1d35dbc1ec4b70b4f1128485504",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/4nddrs-Cyber-Tech/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/4nddrs-Cyber-Tech/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg",
+        "sci-fi"
+      ],
+      "languages": [
+        "es"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "leowolf26-d-1",
@@ -10847,7 +11025,20 @@
     "sourceHeadSha": "2b8a99c6b964b490c8cf4736128a26ee8ade2777",
     "processedHeadSha": "d1622723845da73b643b1555e8181be99590ed33",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/LeoWolf26-D-1/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/LeoWolf26-D-1/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg"
+      ],
+      "languages": [
+        "zh-Hant"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "poopsterbrown-schoolofrock",
@@ -10913,7 +11104,17 @@
     "sourceHeadSha": "574925aa9215854c542bbc338329a79b72b7be46",
     "processedHeadSha": "3d6f0da4135007e54a4f604ad3ee72b36788b310",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/JacotPlus-TurboPlus_Studios-RPGMaker/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/JacotPlus-TurboPlus_Studios-RPGMaker/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg"
+      ],
+      "nsfw": false,
+      "playable": false,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "edneyreis999-projectx",
@@ -10985,7 +11186,21 @@
     "sourceHeadSha": "b6e24cc6502fbf0d7d18db1684dbe10b7b440944",
     "processedHeadSha": "1a648adc4af111f435717f9f3d23e6982ef246ef",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/azunyuuuuuuu-Das-Auge-des-Sturms/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/azunyuuuuuuu-Das-Auge-des-Sturms/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg",
+        "fantasy"
+      ],
+      "languages": [
+        "de"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "pixelwelt-deepspacemainzgamevault",
@@ -11012,7 +11227,20 @@
     "sourceHeadSha": "e40da38fb3808b3309d6c45df1427e565ad3d3f9",
     "processedHeadSha": "932862ebca5eb2d811369b0eeb1f76727acb5598",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/PixelWelt-DeepSpaceMainzGameVault/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/PixelWelt-DeepSpaceMainzGameVault/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg"
+      ],
+      "languages": [
+        "de"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "sheikhsafwan-daybreak",
@@ -11039,7 +11267,21 @@
     "processedHeadSha": "90ca2a6206601f018b5da5a5aac1eab13dc63f04",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/SheikhSafwan-Daybreak/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/SheikhSafwan-Daybreak/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg",
+        "sci-fi"
+      ],
+      "languages": [
+        "en"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "0nebyte-ctrl-googleslides1234",
@@ -11841,7 +12083,21 @@
     "sourceHeadSha": "d52282455927fe77f5e22cde1adda53357797d92",
     "processedHeadSha": "3017efd64319a57a89021244a6555f2f4526ec87",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/uppteam-uppteam.github.io/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/uppteam-uppteam.github.io/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "minigame",
+        "educational"
+      ],
+      "languages": [
+        "es"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "ruandersonvieira-educamais",
@@ -11868,7 +12124,21 @@
     "processedHeadSha": "b445b2c873e34c2d3b0f3778eda82c7c44134c7d",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/Ruandersonvieira-educamais/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/Ruandersonvieira-educamais/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg",
+        "educational"
+      ],
+      "languages": [
+        "pt"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "ec-developer-hub-desolationnn",
