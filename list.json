@@ -458,7 +458,22 @@
     "processedHeadSha": "0b867adadb711079d60e9d6740404236d0c1813f",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/WataKoro-GameDevProject/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/WataKoro-GameDevProject/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg",
+        "fantasy"
+      ],
+      "languages": [
+        "en"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07",
+      "title": "1680 THE BEGINNING"
+    }
   },
   {
     "id": "demostenespedrosa-1889",
@@ -485,7 +500,21 @@
     "sourceHeadSha": "003cf22750eef427f5edad41f1f765a6445ea7ff",
     "processedHeadSha": "c5973488e7ed2aae163ff8cf3dec443feb53346a",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/demostenespedrosa-1889/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/demostenespedrosa-1889/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg",
+        "drama"
+      ],
+      "languages": [
+        "pt"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "xwilarg-19thrpgmakerhorrorjam",
@@ -512,7 +541,21 @@
     "processedHeadSha": "4bec80aedd03382552c2f1cba4bc1a0796679995",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/Xwilarg-19thRPGMakerHorrorJam/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/Xwilarg-19thRPGMakerHorrorJam/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg",
+        "horror"
+      ],
+      "languages": [
+        "en"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "hanbitgaram-1ststudio-game",
@@ -539,7 +582,20 @@
     "processedHeadSha": "9256ea16a8d5d382a4d522b10a283eb0142529b4",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/HanbitGaram-1ststudio-game/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/HanbitGaram-1ststudio-game/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "adventure"
+      ],
+      "languages": [
+        "ko"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "tsuji-eiji-rpg-maker",
@@ -566,7 +622,17 @@
     "sourceHeadSha": "93e2a46bffeb10981155db23f4c1e5d5e8974dc4",
     "processedHeadSha": "97e7da3a0dcaaa8832d9d7a76a08b64ffb01bbb1",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/tsuji-eiji-RPG_Maker/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/tsuji-eiji-RPG_Maker/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg"
+      ],
+      "nsfw": false,
+      "playable": false,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "yesenmidnight-2000sescape",
@@ -593,7 +659,25 @@
     "sourceHeadSha": "4b5ca1013a4a7c48ac265ea3a0eb5923ece8d9ad",
     "processedHeadSha": "fcbb8d8fb1debdb5bc8c48b5e0d956dbc28648a4",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/Yesenmidnight-2000sEscape/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/Yesenmidnight-2000sEscape/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "aliases": [
+        "2000sEscape"
+      ],
+      "genres": [
+        "puzzle",
+        "adventure"
+      ],
+      "languages": [
+        "zh-Hans"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 4,
+      "rating": 5,
+      "reviewedAt": "2026-11-07",
+      "title": "逃离千禧年"
+    }
   },
   {
     "id": "dungjane4112-droid-30-lewd",
@@ -620,7 +704,22 @@
     "sourceDefaultBranch": "main",
     "sourceHeadSha": "95842dd7b1147069cf9adf0a616151cf3315771b",
     "processedHeadSha": "b8acc7c005ad03b43cbfa8ad5dd18cb33a128951",
-    "syncedFromSource": true
+    "syncedFromSource": true,
+    "meta": {
+      "genres": [
+        "simulation",
+        "romance"
+      ],
+      "languages": [
+        "vi"
+      ],
+      "nsfw": true,
+      "originalTitle": "思春期妹とえっちな30日間",
+      "playable": true,
+      "popularity": 4,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "dungjane4112-droid-30-lewd-github-io",
@@ -661,7 +760,21 @@
     "sourceHeadSha": "d6a96e58be04ff7761989cb99589c3d6e7936dcd",
     "processedHeadSha": "336a58071e562c001da302b4a32ae54ea4a7eb35",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/28LPotter-28LPotter.github.io/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/28LPotter-28LPotter.github.io/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg"
+      ],
+      "languages": [
+        "en"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07",
+      "title": "Get to School 6"
+    }
   },
   {
     "id": "eric0308a-amelie-falls-over-and-over-again",
@@ -701,7 +814,17 @@
     "sourceHeadSha": "fa2e024535d3b6ee41d8eb6149064669c4306954",
     "processedHeadSha": "789f7bfc3ca4f16c768b4bf08908ef74cfc8ea0a",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/huanggaole-huanggaole.github.io/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/huanggaole-huanggaole.github.io/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg"
+      ],
+      "nsfw": false,
+      "playable": false,
+      "popularity": 3,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "tw123777tw-pdlsdyzzh-9cbba636",
@@ -725,7 +848,24 @@
     "processedHeadSha": "f4f002b78213dfdbffa24db3b8164d064069bf6a",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/tw123777tw-pdlsdyzzh/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/tw123777tw-pdlsdyzzh/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "aliases": [
+        "Finish the cake!"
+      ],
+      "genres": [
+        "visual-novel"
+      ],
+      "languages": [
+        "zh-Hans"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07",
+      "title": "请把这个蛋糕完成"
+    }
   },
   {
     "id": "kotpot197-bikiniarmor",
@@ -749,7 +889,22 @@
     "processedHeadSha": "8c8263bc0f1c906cc2af40fa3e57db06a12722ba",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/kotpot197-BikiniArmor/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/kotpot197-BikiniArmor/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg",
+        "fantasy"
+      ],
+      "languages": [
+        "zh-Hans"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07",
+      "title": "比基尼铠甲探险队 Bikini Armour Explorers"
+    }
   },
   {
     "id": "michaelpig0912-michaelpig0912-github-io",
@@ -779,7 +934,17 @@
     "reachabilityDetail": "https://webrpg.org/michaelpig0912-michaelpig0912.github.io/game.html served an RPG Maker entry point and its startup resources",
     "lastCheckError": "GitHub API 403: You have exceeded a secondary rate limit. Please wait a few minutes before you try again. For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service) If you reach out to GitHub Support for help, please include the request ID 8008:1FB3D0:18B1D18:51E592E:6AE65A71.",
     "consecutiveFailures": 2,
-    "lastFailedAt": "2026-10-31T21:10:11.053Z"
+    "lastFailedAt": "2026-10-31T21:10:11.053Z",
+    "meta": {
+      "genres": [
+        "rpg"
+      ],
+      "nsfw": false,
+      "playable": false,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "mandy321555-rpg",
@@ -806,7 +971,21 @@
     "sourceHeadSha": "95401e2eb3395aeca4c38bab605e640abdbc2ad8",
     "processedHeadSha": "5f739afbd816afd9049b273ffa2979761a06266a",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/mandy321555-rpg/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/mandy321555-rpg/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "minigame",
+        "educational"
+      ],
+      "languages": [
+        "zh-Hant"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "shuangboxu-harry-potter-game",
@@ -833,7 +1012,22 @@
     "sourceHeadSha": "3ad3075616d96091fb1b756e4cee823bac449801",
     "processedHeadSha": "1b2a517f660ba79bd40cb24a3fc257a4fe4302a4",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/shuangboxu-Harry-Potter-Game/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/shuangboxu-Harry-Potter-Game/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg",
+        "fantasy"
+      ],
+      "languages": [
+        "zh-Hans"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07",
+      "title": "霍格沃茨：掠夺纪元"
+    }
   },
   {
     "id": "rabimew-rabimew-github-io",
@@ -857,7 +1051,18 @@
     "processedHeadSha": "52e5378046ea4926a423bcb41bd580f4c6930cf0",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/RabiMew-RabiMew.github.io/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/RabiMew-RabiMew.github.io/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "template"
+      ],
+      "languages": [
+        "zh-Hans"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "ruan-cat-rm-monorepo-96263908",
@@ -905,7 +1110,18 @@
     "processedHeadSha": "c79663bab91a32ed7cab5be3d04886f525c3a0a9",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/Laplace321-FFXIVFanGame/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/Laplace321-FFXIVFanGame/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "template"
+      ],
+      "languages": [
+        "zh-Hans"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "vanilanya-journey-of-the-shit",
@@ -945,7 +1161,22 @@
     "processedHeadSha": "fb5748b1c0b4b5474a6600f4164007be5ba8b102",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/cdgaming-cdgaming.github.io/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/cdgaming-cdgaming.github.io/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg"
+      ],
+      "languages": [
+        "en"
+      ],
+      "nsfw": false,
+      "originalTitle": "純真無知娘の修学旅行物語",
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07",
+      "title": "BROWSER ONLINE"
+    }
   },
   {
     "id": "isao0926-rpg-maker-mzz",
@@ -972,7 +1203,18 @@
     "sourceHeadSha": "740811c0297d73c5915c012a4778f2ed21fdc088",
     "processedHeadSha": "f80c19de94b381bf8990475732d9cf1063237f85",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/isao0926-RPG-Maker-mzz/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/isao0926-RPG-Maker-mzz/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg",
+        "fantasy"
+      ],
+      "nsfw": false,
+      "playable": false,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "tylike-ai-labs",
@@ -997,7 +1239,15 @@
     "sourceHeadSha": "c9acf4eddac71de5e884ddd866f4f67a2018e490",
     "processedHeadSha": "9ba1a4e30f42c67514dd1783cee28af55b6b0c08",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/tylike-AI.Labs/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/tylike-AI.Labs/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "template"
+      ],
+      "nsfw": false,
+      "playable": false,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "lisachouhc-drdresapre",
@@ -1126,7 +1376,21 @@
     "processedHeadSha": "d9df85f2b80616926a7d7466ed4718fed84f3b62",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/cbginoshoo-Touhou_Isouhu/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/cbginoshoo-Touhou_Isouhu/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg",
+        "fantasy"
+      ],
+      "languages": [
+        "ja"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 3,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "yuukiogino-projecttogebutraial",
