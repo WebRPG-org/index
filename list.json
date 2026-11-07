@@ -12165,7 +12165,22 @@
     "processedHeadSha": "2e415f0fc652a4eaf473b586d5cb7c5230f1113a",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/EC-Developer-Hub-desolationnn/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/EC-Developer-Hub-desolationnn/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg",
+        "slice-of-life"
+      ],
+      "languages": [
+        "en"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07",
+      "title": "SEMESTER SURVIVAL"
+    }
   },
   {
     "id": "orang9-destiny-project",
@@ -12192,7 +12207,20 @@
     "sourceHeadSha": "d127b7048cbd0b4909f54d4a3027d141295aabae",
     "processedHeadSha": "ddf1b1e466e193c72ad322e5eb66a9470ab22c09",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/Orang9-Destiny-Project/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/Orang9-Destiny-Project/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg"
+      ],
+      "languages": [
+        "en"
+      ],
+      "nsfw": false,
+      "playable": false,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "willshw89-deus",
@@ -12392,7 +12420,19 @@
     "processedHeadSha": "27e739733a486f636685a59e690ec898dc4a9a9e",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/ovate-RMMV-Dice/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/ovate-RMMV-Dice/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "template"
+      ],
+      "languages": [
+        "en",
+        "ja"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "tw123777tw-kyoko",
@@ -12419,7 +12459,22 @@
     "sourceHeadSha": "fc590e6bb41afd8680b96afb971b9e1453ac7deb",
     "processedHeadSha": "3e0082cca7872d304a36efab477b9c3673dc4209",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/tw123777tw-Kyoko/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/tw123777tw-Kyoko/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "visual-novel",
+        "drama"
+      ],
+      "languages": [
+        "en",
+        "zh-Hans"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "oscargilley-oscargilley-github-io",
@@ -12446,7 +12501,20 @@
     "processedHeadSha": "cb3bb08cf2dff8c4d10a32ec606cfec38a5bf8c8",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/OscarGilley-OscarGilley.github.io/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/OscarGilley-OscarGilley.github.io/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg"
+      ],
+      "languages": [
+        "en"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "zhuobinggang-dirt-rpg",
@@ -12574,7 +12642,21 @@
     "processedHeadSha": "c634296865459003220842802c221c01a265eab2",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/unofficialsquaregames-DISSIDIA-TACTICS-FANTASY/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/unofficialsquaregames-DISSIDIA-TACTICS-FANTASY/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "strategy",
+        "fantasy"
+      ],
+      "languages": [
+        "ja"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 3,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "akanetr-divirtual",
@@ -12601,7 +12683,21 @@
     "processedHeadSha": "c438b970012f03684d135ff0a8adc8dc1f8b5c5e",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/akanetr-Divirtual/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/akanetr-Divirtual/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg",
+        "slice-of-life"
+      ],
+      "languages": [
+        "en"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 3,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "tomoshibi06-divirtualdemo",
@@ -12667,7 +12763,20 @@
     "processedHeadSha": "ebd556e1fcdb5002eedc826a91f155d0ffc30a8a",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/MGSRaiden2-DK-Crew/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/MGSRaiden2-DK-Crew/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg"
+      ],
+      "languages": [
+        "en"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "noorinasjad-global-gamejam-2018",
@@ -12692,7 +12801,20 @@
     "sourceHeadSha": "192ce54c5697ad5d633d3f316c2fa81fe947ce6f",
     "processedHeadSha": "1801207c40ef527f95c98a4bf6c9de438d0bbcb8",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/NoorinAsjad-Global-Gamejam-2018/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/NoorinAsjad-Global-Gamejam-2018/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg"
+      ],
+      "languages": [
+        "en"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 3,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "ttoonnaa-dq3remake",
@@ -12717,7 +12839,18 @@
     "sourceHeadSha": "2799edbc817067c1b74022637f02c4537eca7abb",
     "processedHeadSha": "5ddc0d0e310db444a014dba96d1421f9044c87bd",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/ttoonnaa-DQ3Remake/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/ttoonnaa-DQ3Remake/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg",
+        "fantasy"
+      ],
+      "nsfw": false,
+      "playable": false,
+      "popularity": 4,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "johnnypackard-unnamed-rpg",
@@ -12744,7 +12877,20 @@
     "processedHeadSha": "81ad81c01249d9623d3c4011f0f0b57dd784fc76",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/johnnypackard-unnamed-rpg/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/johnnypackard-unnamed-rpg/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg"
+      ],
+      "languages": [
+        "en"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 4,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "tnuzzi-dragonwarriormv",
@@ -12769,7 +12915,21 @@
     "sourceHeadSha": "ba13883bb94b3186499c3a654a81067e60f4f3f6",
     "processedHeadSha": "8e751b6e56b73f68d02c36b8e4cfd418808d77ac",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/TNuzzi-DragonWarriorMV/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/TNuzzi-DragonWarriorMV/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg",
+        "fantasy"
+      ],
+      "languages": [
+        "en"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 6,
+      "rating": 7,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "brunolcarli-dragonsden",
@@ -12878,7 +13038,22 @@
     "processedHeadSha": "c6a5c43554112193c15aa154a3e331121610f662",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/AdanRafli-Dreamcore-X1/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/AdanRafli-Dreamcore-X1/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg",
+        "fantasy"
+      ],
+      "languages": [
+        "en",
+        "id"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "happyfp-dreamsdestiny",
@@ -12905,7 +13080,20 @@
     "processedHeadSha": "ec9af37cac489ef22fc09bb895345015dcd0c8a3",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/HappyFP-DreamsDestiny/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/HappyFP-DreamsDestiny/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg"
+      ],
+      "languages": [
+        "en"
+      ],
+      "nsfw": false,
+      "playable": false,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "lunlis-dreamtale",
@@ -12932,7 +13120,20 @@
     "sourceHeadSha": "203971e3d38cd2641c5a98f18b46e90207d0f489",
     "processedHeadSha": "4b015f171c086c4baeb820c50f190b885042c565",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/Lunlis-DreamTale/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/Lunlis-DreamTale/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg"
+      ],
+      "languages": [
+        "ru"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "dsaf-decompliations-opendsaf3",
@@ -12959,7 +13160,26 @@
     "processedHeadSha": "af1b83ea2bc0f1eee4e730df4480d59e825877e7",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/DSAF-Decompliations-OpenDSAF3/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/DSAF-Decompliations-OpenDSAF3/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "aliases": [
+        "DSaF 3"
+      ],
+      "genres": [
+        "rpg",
+        "comedy"
+      ],
+      "languages": [
+        "en"
+      ],
+      "nsfw": false,
+      "originalTitle": "A Dayshift at Freddy's 3",
+      "playable": true,
+      "popularity": 5,
+      "rating": 6,
+      "reviewedAt": "2026-11-07",
+      "title": "DAYSHIFT AT FREDDY'S 3"
+    }
   },
   {
     "id": "mattmaomao-dual-escape-rpg",
@@ -12986,7 +13206,20 @@
     "processedHeadSha": "a2f2c677b5d4f866ac4db497bf1117c2f03a8d06",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/mattmaomao-Dual-Escape-RPG/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/mattmaomao-Dual-Escape-RPG/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg"
+      ],
+      "languages": [
+        "zh-Hant"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "uides1-uides1-dcs-github-io",
@@ -13010,7 +13243,20 @@
     "coverPath": "cover.png",
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/uides1-uides1.dcs.github.io/ served an RPG Maker entry point and its startup resources",
-    "processedHeadSha": "c55678a9a5361c882288d08467f7c68e0af12379"
+    "processedHeadSha": "c55678a9a5361c882288d08467f7c68e0af12379",
+    "meta": {
+      "genres": [
+        "rpg"
+      ],
+      "languages": [
+        "en"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "andrewharn-dwellers-empty-path-plus",
@@ -13037,7 +13283,18 @@
     "processedHeadSha": "28e0bbbdc55875f66aa1f786f0454144e31c5871",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/andrewharn-Dwellers-Empty-Path-Plus/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/andrewharn-Dwellers-Empty-Path-Plus/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg",
+        "horror"
+      ],
+      "nsfw": false,
+      "playable": false,
+      "popularity": 7,
+      "rating": 7,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "chruscikszef-dzzt-android",
@@ -13083,7 +13340,20 @@
     "sourceHeadSha": "f8c0b090ad9ab56b8148863e3cfb531c16bbf4b5",
     "processedHeadSha": "a59cea50e12ef720070b6d9bfbf97bc746a789f7",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/gominsu08-GainProject/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/gominsu08-GainProject/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg"
+      ],
+      "languages": [
+        "en"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "horke-root-echoofdespire",
