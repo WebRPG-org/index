@@ -2645,7 +2645,26 @@
     "processedHeadSha": "3e00ad81f31afff7dbda2fdac865addc3c8a86f0",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/Kyouka8234-Magical-Girl-Celesphonia/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/Kyouka8234-Magical-Girl-Celesphonia/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "aliases": [
+        "Magical Girl Celesphonia",
+        "魔法少女天穹法妮雅"
+      ],
+      "genres": [
+        "rpg",
+        "fantasy"
+      ],
+      "languages": [
+        "zh-Hans"
+      ],
+      "nsfw": true,
+      "originalTitle": "魔法少女 セレスフォニア",
+      "playable": true,
+      "popularity": 7,
+      "rating": 7,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "tomoshibi06-mio",
@@ -2672,7 +2691,21 @@
     "processedHeadSha": "7389178d518ef9f96f02b2065099578c1fe4dc6f",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/tomoshibi06-mio/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/tomoshibi06-mio/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg",
+        "fantasy"
+      ],
+      "languages": [
+        "ja"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 3,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "kinami0331-mh2023-archived",
@@ -2699,7 +2732,18 @@
     "processedHeadSha": "ef4ce714436c49252192b675dec34f4736051725",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/kinami0331-mh2023-archived/mota.html served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/kinami0331-mh2023-archived/mota.html served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "puzzle",
+        "fantasy"
+      ],
+      "nsfw": false,
+      "playable": false,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "tklninja-magicsword",
@@ -2723,7 +2767,21 @@
     "processedHeadSha": "d589ce5a105fab243d6cca2f269239c5a89f1acf",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/TKLNinja-MagicSword/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/TKLNinja-MagicSword/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg",
+        "fantasy"
+      ],
+      "languages": [
+        "ja"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 3,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "pieworkplace-tower-of-sorcerer-2018",
@@ -2747,7 +2805,21 @@
     "processedHeadSha": "b9b95649b1e4036a3af24ca8db8487e3153c3be4",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/pieworkplace-Tower-of-Sorcerer-2018/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/pieworkplace-Tower-of-Sorcerer-2018/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "puzzle",
+        "fantasy"
+      ],
+      "languages": [
+        "zh-Hans"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 3,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "pieworkplace-mota-mv",
@@ -2771,7 +2843,21 @@
     "processedHeadSha": "12c0876bd2259b0bc4fa3bc8568f52b7ba8f962a",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/pieworkplace-mota-mv/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/pieworkplace-mota-mv/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "puzzle",
+        "fantasy"
+      ],
+      "languages": [
+        "zh-Hans"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 3,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "tw123777tw-pdlsdyzzh-4ce89b29",
@@ -2816,7 +2902,22 @@
     "sourceHeadSha": "85d96e303c7a5e589e6e2c580d77a83cd3b5e0da",
     "processedHeadSha": "164950b074fba54d6168cb1c1de436a581d4065a",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/shunufy-shunufy.github.io/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/shunufy-shunufy.github.io/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "adventure",
+        "slice-of-life"
+      ],
+      "languages": [
+        "ja"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07",
+      "title": "中村の冒険"
+    }
   },
   {
     "id": "199023-pixel-aooni2016",
@@ -3059,7 +3160,21 @@
     "processedHeadSha": "361e8102f8bfbfe03bdf6e334e6aaa7f907b9e22",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/lzk716088-prisoner/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/lzk716088-prisoner/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg",
+        "drama"
+      ],
+      "languages": [
+        "zh-Hant"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "hitexe2023mino-prog-quarta-alumines-and-tangel-eg",
@@ -3104,7 +3219,20 @@
     "sourceHeadSha": "bc1afecd099281416446f7159bc82807b0763e7c",
     "processedHeadSha": "ca69dca8876b73f4d9036d0364d0d72f50935be5",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/Kevin28576-rpgmv-great-escape/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/Kevin28576-rpgmv-great-escape/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "adventure"
+      ],
+      "languages": [
+        "zh-Hant"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "ruan-cat-drill-plugins-fork-from-drill",
@@ -3225,7 +3353,22 @@
     "processedHeadSha": "487d6338237292edac0730ca040f2aabca3ea9ef",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/kata235-MV02/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/kata235-MV02/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "visual-novel",
+        "drama",
+        "horror"
+      ],
+      "languages": [
+        "ja"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 3,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "takuantoono-kn1-30",
@@ -3249,7 +3392,21 @@
     "processedHeadSha": "036ae49878beb0bd91b2333b65f1bd6548a886e7",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/takuantoono-kn1.30/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/takuantoono-kn1.30/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg",
+        "fantasy"
+      ],
+      "languages": [
+        "ja"
+      ],
+      "nsfw": false,
+      "playable": false,
+      "popularity": 3,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "thomazli-shanghai",
@@ -3273,7 +3430,22 @@
     "processedHeadSha": "9bf4fee6d7c1c16a4e893f92aecad9ec7cc6c94d",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/thomazli-shanghai/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/thomazli-shanghai/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg",
+        "drama"
+      ],
+      "languages": [
+        "zh-Hans",
+        "en"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "eric0308a-game-shao-cao-zhi",
@@ -3297,7 +3469,22 @@
     "processedHeadSha": "15d5577ea89e12b210431e63e1c2b4543709fbd8",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/eric0308a-Game_shao_cao_zhi/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/eric0308a-Game_shao_cao_zhi/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "adventure",
+        "slice-of-life"
+      ],
+      "languages": [
+        "zh-Hant"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 4,
+      "rating": 5,
+      "reviewedAt": "2026-11-07",
+      "title": "少女莎草紙"
+    }
   },
   {
     "id": "sydomo-miyoipluginstestdemo",
@@ -3416,7 +3603,17 @@
     "sourceHeadSha": "f24d69bce08b22718c41453acebeacfd2a3081e7",
     "processedHeadSha": "82fffd8f6db2382481e276629527ebb9c0247120",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/Cloudy0717-WorldsGreatestMercenary/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/Cloudy0717-WorldsGreatestMercenary/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg"
+      ],
+      "nsfw": false,
+      "playable": false,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "tychouhaha-zk-restaurant",
@@ -3440,7 +3637,21 @@
     "processedHeadSha": "62ab395880385ea35679b06f8a6bdc2fcf94ea0d",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/tychouhaha-ZK_restaurant/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/tychouhaha-ZK_restaurant/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "simulation",
+        "educational"
+      ],
+      "languages": [
+        "zh-Hant"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "numanicloud-immortalfairy",
@@ -3464,7 +3675,21 @@
     "processedHeadSha": "0e50b0cad6d5176735142bb28f427a3a151f462e",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/numanicloud-ImmortalFairy/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/numanicloud-ImmortalFairy/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg",
+        "fantasy"
+      ],
+      "languages": [
+        "ja"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "gfdgd-xi-siyemuxu-online",
@@ -3697,7 +3922,22 @@
     "sourceHeadSha": "665b57ddbfd47ade5e59f03a96eb12b7665c9b51",
     "processedHeadSha": "7eee087691aaada97044715b4b27b6d819507caf",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/kotpot197-game/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/kotpot197-game/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg",
+        "fantasy"
+      ],
+      "languages": [
+        "zh-Hans"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 3,
+      "rating": 5,
+      "reviewedAt": "2026-11-07",
+      "title": "云烟"
+    }
   },
   {
     "id": "zenhanyin-rpgmakerdemo",
@@ -3793,7 +4033,22 @@
     "sourceHeadSha": "a417ac693ae6ad00dd601d47026b7c875509bb98",
     "processedHeadSha": "a9b60cb275f371883440cae7afc0ea79fd750b78",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/Starktomy-tunshi/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/Starktomy-tunshi/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg",
+        "fantasy"
+      ],
+      "languages": [
+        "zh-Hans"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 4,
+      "rating": 5,
+      "reviewedAt": "2026-11-07",
+      "title": "吞食天地二合一"
+    }
   },
   {
     "id": "mrxiyi666-wanshenjiegame",
@@ -3820,7 +4075,21 @@
     "sourceHeadSha": "194f75d32a3b98f7f505acd54275b8c2477ce2c7",
     "processedHeadSha": "49a27ce2d15936e16d2920445628ad4a6fdefc6a",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/MrXiyi666-WanShenjieGame/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/MrXiyi666-WanShenjieGame/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg",
+        "fantasy"
+      ],
+      "languages": [
+        "zh-Hans"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "mingpnyy-rpgmaker-mv",
@@ -3847,7 +4116,20 @@
     "processedHeadSha": "efcf777399fe087173d8840fc25705ba0c83c59f",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/mingpnyy-rpgmaker-mv/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/mingpnyy-rpgmaker-mv/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg"
+      ],
+      "languages": [
+        "zh-Hant"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "sgxoxds-no-one-betray",
