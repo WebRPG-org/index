@@ -48,7 +48,22 @@
     "sourceHeadSha": "92e51f041207cd1d73178015932930131ff746d7",
     "processedHeadSha": "9adad8e60a1dbd4cdc8dcee5e673876a4348eb24",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/lishi19990812-mlsy041/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/lishi19990812-mlsy041/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg",
+        "fantasy"
+      ],
+      "languages": [
+        "zh-Hans"
+      ],
+      "nsfw": true,
+      "playable": true,
+      "popularity": 6,
+      "rating": 5,
+      "reviewedAt": "2026-11-07",
+      "title": "绯色修仙录"
+    }
   },
   {
     "id": "katai5plate-demoscene-2017",
@@ -145,7 +160,17 @@
     "processedHeadSha": "bcbf1eb522cff70a3ddb3b3334f18564ef5486a5",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/TimirlanKenji-Phantasma/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/TimirlanKenji-Phantasma/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg"
+      ],
+      "nsfw": false,
+      "playable": false,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "destiny236-narcissuweb",
@@ -172,7 +197,26 @@
     "processedHeadSha": "51ec9cd9a96246d1f50cbccaca14271ce748941f",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/Destiny236-Narcissuweb/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/Destiny236-Narcissuweb/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "aliases": [
+        "水仙"
+      ],
+      "genres": [
+        "visual-novel",
+        "drama"
+      ],
+      "languages": [
+        "zh-Hans"
+      ],
+      "nsfw": false,
+      "originalTitle": "ナルキッソス",
+      "playable": true,
+      "popularity": 8,
+      "rating": 8,
+      "reviewedAt": "2026-11-07",
+      "title": "Narcissu"
+    }
   },
   {
     "id": "uryankarl-myphrpg-maze-webpage",
@@ -215,7 +259,23 @@
     "processedHeadSha": "f2db550a9e32e7627c67e5683e8ceb7b2733facf",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/anglesgirl-Ambrosia/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/anglesgirl-Ambrosia/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg",
+        "fantasy"
+      ],
+      "languages": [
+        "zh-Hans"
+      ],
+      "nsfw": true,
+      "originalTitle": "アンブロシア",
+      "playable": true,
+      "popularity": 5,
+      "rating": 5,
+      "reviewedAt": "2026-11-07",
+      "title": "Ambrosia 永生之物"
+    }
   },
   {
     "id": "amarillonmc-amarillonmc-github-io",
@@ -242,7 +302,23 @@
     "processedHeadSha": "4ddda75d9ddf373cae6f72c992649654d9549737",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/amarillonmc-amarillonmc.github.io/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/amarillonmc-amarillonmc.github.io/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "adventure",
+        "horror",
+        "mystery"
+      ],
+      "languages": [
+        "en"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07",
+      "title": "/RE:COIL"
+    }
   },
   {
     "id": "gamer-tool-studio-gamer-tool-studio-github-io",
@@ -25756,7 +25832,17 @@
     "sourceHeadSha": "165cd05c3550f00814b6a78223c1b668c4de2a6f",
     "processedHeadSha": "450b45f4fc6e1d96acf8ab095c6d6db8500c938f",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/FF-NET-shunjiheights2/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/FF-NET-shunjiheights2/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg"
+      ],
+      "nsfw": false,
+      "playable": false,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "jahmezz-20minutesgamedev",
@@ -26262,7 +26348,20 @@
     "processedHeadSha": "de6346a7c3f451d4f3aafc5796e54e2f8d491a3a",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/TKLNinja-Spectoria-Eng/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/TKLNinja-Spectoria-Eng/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg"
+      ],
+      "languages": [
+        "en"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 3,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "tomoshibi06-spectoria",
@@ -26286,7 +26385,20 @@
     "processedHeadSha": "501e4415108d94a7f2bec0dc3ddabe7261145ddd",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/tomoshibi06-SPECTORIA/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/tomoshibi06-SPECTORIA/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg"
+      ],
+      "languages": [
+        "ja"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 3,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "webrpg-translations-spectoria-eng-cn",
@@ -27557,7 +27669,21 @@
     "sourceRepo": "aminegold0/ios-port-TCOAAL",
     "sourceDefaultBranch": "main",
     "sourceHeadSha": "2dde9f791ea66ad97e54cb3030d966a020f1d3e4",
-    "processedHeadSha": "8cfb6de479a0c0e1fb88eac4421229e59caa9ff8"
+    "processedHeadSha": "8cfb6de479a0c0e1fb88eac4421229e59caa9ff8",
+    "meta": {
+      "genres": [
+        "adventure",
+        "horror"
+      ],
+      "languages": [
+        "en"
+      ],
+      "nsfw": true,
+      "playable": false,
+      "popularity": 9,
+      "rating": 8,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "escartem-tcoaalsource",
@@ -27620,7 +27746,21 @@
     "sourceHeadSha": "aa4de8f48accf2dc0d211b40f127eecef48c87d4",
     "processedHeadSha": "98043ae41fbc901b4686fced5f0d181cdac86df5",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/Suhukk-bbb/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/Suhukk-bbb/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "adventure",
+        "horror"
+      ],
+      "languages": [
+        "en"
+      ],
+      "nsfw": true,
+      "playable": false,
+      "popularity": 9,
+      "rating": 8,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "vertexiii-vertexiii-github-io",
@@ -27763,7 +27903,21 @@
     "dataSize": 1079790,
     "processedHeadSha": "db70f1ca5d7406ad2add87b40e4764a84081618d",
     "reachable": false,
-    "reachabilityDetail": "https://webrpg.org/angeelpm-JuegoRPG-TheESI/js/rpg_objects.js could not be fetched: The operation was aborted due to timeout"
+    "reachabilityDetail": "https://webrpg.org/angeelpm-JuegoRPG-TheESI/js/rpg_objects.js could not be fetched: The operation was aborted due to timeout",
+    "meta": {
+      "genres": [
+        "adventure",
+        "slice-of-life"
+      ],
+      "languages": [
+        "es"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "robles1301-videojuego",
@@ -27790,7 +27944,21 @@
     "processedHeadSha": "0aa9d1d03525d101a0719e403ed8324f444c5aa7",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/robles1301-videojuego/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/robles1301-videojuego/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "adventure",
+        "slice-of-life"
+      ],
+      "languages": [
+        "en"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "discus-sions-the-fall-preview2",
@@ -29398,7 +29566,21 @@
     "sourceHeadSha": "106b815451127012bbd91704201c2e986435c0a1",
     "processedHeadSha": "26a368b2a649b3638bb1e49cac17639b9a75fe99",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/nativenewengland-Game/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/nativenewengland-Game/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "simulation",
+        "fantasy"
+      ],
+      "languages": [
+        "en"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "nativenewengland-godot",
@@ -29425,7 +29607,18 @@
     "sourceHeadSha": "09b62c47658392f33d010b9f80fbce67e78d7464",
     "processedHeadSha": "24bb21e3f35de2cc59e07ac592d9d11814e61d63",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/nativenewengland-godot/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/nativenewengland-godot/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "simulation",
+        "fantasy"
+      ],
+      "nsfw": false,
+      "playable": false,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "materialrandom-viajetirnanog1",
@@ -29495,7 +29688,20 @@
     "sourceHeadSha": "59ff2258bfd6a2b9aee5bdf52106c6ed25b0269d",
     "processedHeadSha": "1abb17192a05a11b5a0eb27e6b943c1f2a08f288",
     "verificationDeferred": true,
-    "syncedFromSource": true
+    "syncedFromSource": true,
+    "meta": {
+      "genres": [
+        "rpg"
+      ],
+      "languages": [
+        "id"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "salsabilazhaqqi-rpgriris",
@@ -29522,7 +29728,20 @@
     "sourceHeadSha": "b64c8a6141762f324e1d833602130183d6c73ea6",
     "processedHeadSha": "ce5cfb356afff4362fa1d211ed3994f2685ff775",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/SalsabilaZhaqqi-rpgRIRIS/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/SalsabilaZhaqqi-rpgRIRIS/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg"
+      ],
+      "languages": [
+        "id"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "trollsigma-sigma-face",
@@ -30159,7 +30378,22 @@
     "processedHeadSha": "1975ecab50de5ff1f4872f38c0079cd1d0d82048",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/frogteapot-Your-Turn-to-Die/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/frogteapot-Your-Turn-to-Die/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "adventure",
+        "horror",
+        "mystery"
+      ],
+      "languages": [
+        "ru"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 9,
+      "rating": 9,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "kuroeks-kuroeks-github-io",
@@ -30183,7 +30417,22 @@
     "coverPath": "cover.png",
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/Kuroeks-Kuroeks.github.io/ served an RPG Maker entry point and its startup resources",
-    "processedHeadSha": "3ba6147a72e2112d2eec9de7efac2bcc93d0b7ac"
+    "processedHeadSha": "3ba6147a72e2112d2eec9de7efac2bcc93d0b7ac",
+    "meta": {
+      "genres": [
+        "adventure",
+        "horror",
+        "mystery"
+      ],
+      "languages": [
+        "it"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 9,
+      "rating": 9,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "thermaplates-yure-party",
@@ -30482,7 +30731,20 @@
     "processedHeadSha": "1b72d2a7109ba165bd201756fe662266d4d2d8f0",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/ELGHINN2512-CyberSchool/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/ELGHINN2512-CyberSchool/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "adventure"
+      ],
+      "languages": [
+        "ru"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "elghinn2512-testgame",
@@ -30509,7 +30771,20 @@
     "processedHeadSha": "2a96a02e2d7a5e4e9d091b98e3fbb9b290065e97",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/ELGHINN2512-testGame/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/ELGHINN2512-testGame/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "adventure"
+      ],
+      "languages": [
+        "ru"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "kangana1024-demorpggame",
