@@ -13423,7 +13423,20 @@
     "sourceHeadSha": "59d86becae592f1d9d8aa8648a19ceacfa57220b",
     "processedHeadSha": "6018bbf27c63960dcfe694537caa97de25cc0b7f",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/28hershey-28hershey.github.io/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/28hershey-28hershey.github.io/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg"
+      ],
+      "languages": [
+        "en"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "27danderson-gamebarportfolio",
@@ -14344,7 +14357,20 @@
     "processedHeadSha": "27e2dc22271a7a34bd5e2d6ceb202656f51dda7b",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/balensmatheo-balensmatheo.github.io/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/balensmatheo-balensmatheo.github.io/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "adventure"
+      ],
+      "languages": [
+        "fr"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "balensmatheo-harassmentescape-github-io",
@@ -14371,7 +14397,20 @@
     "processedHeadSha": "6494220926e55e60a57fa24cb7d1d42c17217838",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/balensmatheo-HarassmentEscape.github.io/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/balensmatheo-HarassmentEscape.github.io/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "adventure"
+      ],
+      "languages": [
+        "fr"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "discus-sions-the-fall-preview1",
@@ -14862,7 +14901,21 @@
     "processedHeadSha": "2ceb1abdfec5b3c7b97949de353107215e5e7569",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/Donais04-ISATArchipelago/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/Donais04-ISATArchipelago/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg",
+        "fantasy"
+      ],
+      "languages": [
+        "en"
+      ],
+      "nsfw": false,
+      "playable": false,
+      "popularity": 8,
+      "rating": 8,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "obitocourage-commits-solid-dollop",
@@ -15014,7 +15067,21 @@
     "processedHeadSha": "bb60d34a017365ef2fb1fb6b35260b55d9d3f2ae",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/web-ports-in-stars-and-time/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/web-ports-in-stars-and-time/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg",
+        "fantasy"
+      ],
+      "languages": [
+        "en"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 8,
+      "rating": 8,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "xtoazt-iyf2b9",
@@ -15909,7 +15976,22 @@
     "sourceHeadSha": "a9e7bc15e14a692c0da06d269fccc7b0e568388c",
     "processedHeadSha": "f32ed9bcdff043a94868e793b4343e1456dd6111",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/etg227-NEW-GAME/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/etg227-NEW-GAME/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg",
+        "educational",
+        "fantasy"
+      ],
+      "languages": [
+        "en"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 3,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "etg227-new-game",
@@ -15954,7 +16036,22 @@
     "sourceHeadSha": "fd0cfe7a9605cf3128ee5c429fc696a1ba7d6cf7",
     "processedHeadSha": "975624d597d89295ecd0a016c0cad1eed0b5bbc0",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/wongcyrus-k8s-isekai/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/wongcyrus-k8s-isekai/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg",
+        "educational",
+        "fantasy"
+      ],
+      "languages": [
+        "en"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 3,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "heronat-si28-test",
@@ -20394,7 +20491,21 @@
     "processedHeadSha": "414610efda1bdaaabbbf6a379bc700d8d99bede1",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/navdeep5-navdeep5.github.io/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/navdeep5-navdeep5.github.io/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "adventure",
+        "horror"
+      ],
+      "languages": [
+        "en"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "navdeep5-quokka-quest-team",
@@ -20421,7 +20532,21 @@
     "processedHeadSha": "cd76a90bc516befb6118374d16b4714733673544",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/navdeep5-Quokka_Quest_Team/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/navdeep5-Quokka_Quest_Team/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "adventure",
+        "horror"
+      ],
+      "languages": [
+        "en"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "andaroth-anda-ninja",
@@ -20617,7 +20742,15 @@
     "sourceHeadSha": "3e297b40138c9bafc3396f7510bda2b59f0ec3ce",
     "processedHeadSha": "1ba82120670c9d867d06c50c0c517f4bb3511f2e",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/U-K-L-ContentSupportExamples/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/U-K-L-ContentSupportExamples/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "template"
+      ],
+      "nsfw": false,
+      "playable": false,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "u-k-l-rpgame-patreon-example",
@@ -20644,7 +20777,18 @@
     "sourceHeadSha": "e5dc3cd797a0937047da597cfeabb0d3004c6542",
     "processedHeadSha": "74273b86040bffa97f97135499deea07daa6420e",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/U-K-L-RPGAME-Patreon-Example/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/U-K-L-RPGAME-Patreon-Example/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "template"
+      ],
+      "languages": [
+        "en"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "wfay42-enemy-corruption",
@@ -20694,7 +20838,15 @@
     "sourceHeadSha": "4cf83f7450e538e3419992e02194beefab042449",
     "processedHeadSha": "310e3cfb09b00120403a7f9175e6dddb0d052164",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/Hectovargas-repositorioZELDA/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/Hectovargas-repositorioZELDA/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "template"
+      ],
+      "nsfw": false,
+      "playable": false,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "saluji-tsot",
@@ -20719,7 +20871,17 @@
     "sourceHeadSha": "b9ef43ed903c4c7ef18c64ff0ff779bc94c59313",
     "processedHeadSha": "08e67ee89b995b6619fc688adb1ad74ec7691ccd",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/saluji-tsot/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/saluji-tsot/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "adventure"
+      ],
+      "nsfw": false,
+      "playable": false,
+      "popularity": 1,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "saitsuki-gamedesign",
@@ -21050,7 +21212,20 @@
     "processedHeadSha": "7cbe7c23a798bdcf1f60fb25ace8f7e116d8acdd",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/chanchipong1226-dev-project.repositry/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/chanchipong1226-dev-project.repositry/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg"
+      ],
+      "languages": [
+        "en"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "dg12345689-rpgmaker0730",
@@ -21077,7 +21252,21 @@
     "processedHeadSha": "ab1b0051f168655a0329efcbf224166f01f1fba5",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/dg12345689-rpgmaker0730/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/dg12345689-rpgmaker0730/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg",
+        "fantasy"
+      ],
+      "languages": [
+        "zh-Hant"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "ryanbram-rpg-mv-ace",
@@ -23420,7 +23609,21 @@
     "processedHeadSha": "a97fdec2720f14fc12e382e703a6e2f6b612c165",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/shen0V0-GDP/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/shen0V0-GDP/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg",
+        "fantasy"
+      ],
+      "languages": [
+        "en"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "shen0v0-gdp-op",
@@ -23447,7 +23650,21 @@
     "processedHeadSha": "6262fa31ad8dbe72bb68044d9229ae5a60f24e66",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/shen0V0-GDP_OP/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/shen0V0-GDP_OP/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg",
+        "fantasy"
+      ],
+      "languages": [
+        "en"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "favoriteheroes-re-tale",
@@ -25091,7 +25308,21 @@
     "processedHeadSha": "ba77f23cac7c0e6ad32c2c36426ea30b416701de",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/Altrisk-altrisk.github.io/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/Altrisk-altrisk.github.io/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg",
+        "drama"
+      ],
+      "languages": [
+        "id"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "daffadaff-pengembangan-game",
@@ -25118,7 +25349,21 @@
     "processedHeadSha": "6c9910fcd4e26a1ddae8d5cbf5111511c94e4818",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/DaffaDaff-pengembangan-game/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/DaffaDaff-pengembangan-game/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg",
+        "drama"
+      ],
+      "languages": [
+        "id"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "aak581-blokkat-arabicblockchain-developer-bootcamp-graduation-project",
@@ -25474,7 +25719,17 @@
     "sourceHeadSha": "45631c328f5c24a61b64111f65ad5050b376e854",
     "processedHeadSha": "3b8e22d7decb65d93a04496c56f65eeb38285a16",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/FF-NET-shunjiheights/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/FF-NET-shunjiheights/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg"
+      ],
+      "nsfw": false,
+      "playable": false,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "ff-net-shunjiheights2",
