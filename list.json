@@ -13380,7 +13380,21 @@
     "sourceHeadSha": "965017b9a773e0579673b39a6ce0009981a442fb",
     "processedHeadSha": "94b1bea5776db1acb29b31226f84bcc4882a55ee",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/horke-root-EchoOfDespire/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/horke-root-EchoOfDespire/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg",
+        "fantasy"
+      ],
+      "languages": [
+        "en"
+      ],
+      "nsfw": false,
+      "playable": false,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "lamawd-eco-quest",
@@ -13407,7 +13421,21 @@
     "sourceHeadSha": "21660546b8a26ad642e91c17565407134334f959",
     "processedHeadSha": "e649f604da37e0f2dd337a3ec4529288e84d78d7",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/Lamawd-Eco-quest/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/Lamawd-Eco-quest/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg",
+        "educational"
+      ],
+      "languages": [
+        "en"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "botakhage-eduventure",
@@ -13434,7 +13462,22 @@
     "processedHeadSha": "5856cb73a464ae9cd8e4843ed7c2fbd270bcc9dc",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/BotakHage-Eduventure/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/BotakHage-Eduventure/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg",
+        "educational"
+      ],
+      "languages": [
+        "en",
+        "id"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "agjimenez-ra-s-quest",
@@ -13461,7 +13504,21 @@
     "processedHeadSha": "ad5f8d3918d94eb6e7348d4ff95ed6ea5cfd4061",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/AGJimenez-Ra-s-Quest/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/AGJimenez-Ra-s-Quest/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg",
+        "fantasy"
+      ],
+      "languages": [
+        "en"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "rravenorr-el-fili",
@@ -13488,7 +13545,27 @@
     "sourceHeadSha": "ffee2b54a1c76c90970ebdfb8bbb117e53f6bf89",
     "processedHeadSha": "d86e485ee713e1bd54e72398dd08492f7633f475",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/rravenorr-El_Fili/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/rravenorr-El_Fili/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "aliases": [
+        "El Fili",
+        "El Filibusterismo"
+      ],
+      "genres": [
+        "rpg",
+        "drama"
+      ],
+      "languages": [
+        "en",
+        "tl"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07",
+      "title": "REIGN OF GREED"
+    }
   },
   {
     "id": "gcascalese-tfg-uoc",
@@ -13515,7 +13592,21 @@
     "processedHeadSha": "0da733b24da7f17ffc7efc3e8d22004d54db593f",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/gcascalese-TFG_UOC/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/gcascalese-TFG_UOC/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "adventure",
+        "fantasy"
+      ],
+      "languages": [
+        "es"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "na-na-ti-game-design",
@@ -13542,7 +13633,22 @@
     "sourceHeadSha": "d077be6d6b255b38a9605dcb3d0abd81505dc113",
     "processedHeadSha": "a1c3479ad01a342d6c1d619b977a1ecc5088e049",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/Na-Na-Ti-Game-Design/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/Na-Na-Ti-Game-Design/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "adventure",
+        "horror",
+        "mystery"
+      ],
+      "languages": [
+        "pt"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "jacsongold-12dtm-rpgmakergame-repository",
@@ -13569,7 +13675,21 @@
     "processedHeadSha": "348a531a1fc836b6d9ef100ea0714892bd685c1b",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/JacsonGold-12DTM-RPGMakerGame-Repository/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/JacsonGold-12DTM-RPGMakerGame-Repository/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "visual-novel",
+        "drama"
+      ],
+      "languages": [
+        "en"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "redpillphil-emberchain",
@@ -13596,7 +13716,21 @@
     "sourceHeadSha": "c03c50403c49931973dea1d59025c33fb2dcb9ab",
     "processedHeadSha": "59eb1b5423baad3903ed05f3e0c190dbfc60033e",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/RedPillPhil-Emberchain/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/RedPillPhil-Emberchain/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg",
+        "fantasy"
+      ],
+      "languages": [
+        "en"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "luisdef-end",
@@ -13699,7 +13833,22 @@
     "sourceHeadSha": "4f285bcbe41a845b896ac8975ec2c52ccc09f0e5",
     "processedHeadSha": "6967b337af622051116ac4ce77a9f86aa9c00080",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/tenantintent-EnglishHeroTrial/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/tenantintent-EnglishHeroTrial/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg",
+        "educational"
+      ],
+      "languages": [
+        "en",
+        "zh-Hant"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "isaacrogovski-enigmaria",
@@ -13726,7 +13875,21 @@
     "processedHeadSha": "1fcc39a0c8edb825eca9c8415aab8fc62fdb322a",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/IsaacRogovski-enigmaria/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/IsaacRogovski-enigmaria/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg",
+        "drama"
+      ],
+      "languages": [
+        "pt"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "z9z9z9z9z9z9-tt",
@@ -13753,7 +13916,18 @@
     "sourceHeadSha": "58a10505730852a1a4a0b9b83d885f287d5e6998",
     "processedHeadSha": "2a36126c0df8cf5e85e8c7be1a05201137b70c4b",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/z9z9z9z9z9z9-tt/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/z9z9z9z9z9z9-tt/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg",
+        "fantasy"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "susobhang70-rpg-maze-runner",
@@ -13780,7 +13954,21 @@
     "processedHeadSha": "56ec63b6cde17dd98203adef5b104cd5928a4930",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/susobhang70-rpg_maze_runner/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/susobhang70-rpg_maze_runner/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "puzzle",
+        "adventure"
+      ],
+      "languages": [
+        "en"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "luics415-eternalmazesrpg-windows",
@@ -13807,7 +13995,21 @@
     "sourceHeadSha": "3d38457e92615d0cc807151fc0ac856b76adab61",
     "processedHeadSha": "05f8496abd9335469e59bcf59f98aeb779162154",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/Luics415-EternalMazesRPG-Windows/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/Luics415-EternalMazesRPG-Windows/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg",
+        "fantasy"
+      ],
+      "languages": [
+        "es"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "huanbieyuan-huanbieyuan-github-io",
@@ -13932,7 +14134,17 @@
     "sourceHeadSha": "1d0b1a9b640e2ea5e4f98b4970c1438d17b48ac7",
     "processedHeadSha": "8231610f034d1bf73dcda0dcd2b9cb914e0a9ff4",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/katai5plate-rpgmv-game-kanban/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/katai5plate-rpgmv-game-kanban/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg"
+      ],
+      "nsfw": false,
+      "playable": false,
+      "popularity": 3,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "ovate-rmmv-skit-system",
@@ -13959,7 +14171,18 @@
     "processedHeadSha": "3aea1c013bad62d48da7268f37623d0d326b15e5",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/ovate-RMMV-Skit-System/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/ovate-RMMV-Skit-System/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "template"
+      ],
+      "languages": [
+        "en"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "savesub-fairymaze-en",
@@ -14063,7 +14286,21 @@
     "processedHeadSha": "b002a272e7d64d0caf4bf985e8bfaf7fbb93f8cf",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/tomoshibi06-fm2/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/tomoshibi06-fm2/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg",
+        "fantasy"
+      ],
+      "languages": [
+        "ja"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 3,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "tomoshibi06-fairymaze",
@@ -14087,7 +14324,21 @@
     "processedHeadSha": "25695db843a7162c021b2d35192c608783560b27",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/tomoshibi06-FairyMaze/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/tomoshibi06-FairyMaze/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg",
+        "fantasy"
+      ],
+      "languages": [
+        "ja"
+      ],
+      "nsfw": false,
+      "playable": false,
+      "popularity": 4,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "tomoshibi06-fairymaze3",
@@ -14111,7 +14362,21 @@
     "processedHeadSha": "0b892f34978804a0efa39cbfca6a319d63a2b892",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/tomoshibi06-FairyMaze3/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/tomoshibi06-FairyMaze3/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg",
+        "fantasy"
+      ],
+      "languages": [
+        "ja"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 3,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "mdderuofa-fallen",
@@ -14136,7 +14401,21 @@
     "sourceHeadSha": "07812d2403afb5cf0e6473d89d4291924737844f",
     "processedHeadSha": "6d462bf386fc6ceb51498f62f9c70dec3e4b4dba",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/MdderUofA-Fallen/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/MdderUofA-Fallen/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg",
+        "fantasy"
+      ],
+      "languages": [
+        "en"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "altoc-rpg-maker-jam",
