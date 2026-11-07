@@ -7666,7 +7666,6 @@
     "discoveredAt": "2026-11-07T17:27:38.005Z",
     "source": "github-code-search",
     "sourcePath": "games/86.html",
-    "plannedForkName": "GitGUI26-first-cool-ads",
     "checkedAt": "2026-11-07T17:35:30.357Z",
     "forkName": "GitGUI26-first-cool-ads",
     "invalidReason": "Repository has 522 HTML files, exceeding the 500 file limit."
@@ -24020,7 +24019,6 @@
     "discoveredAt": "2026-11-07T17:27:38.005Z",
     "source": "github-code-search",
     "sourcePath": "game-embeds/omori.html",
-    "plannedForkName": "flashedcode-pastpapergeniegfh",
     "checkedAt": "2026-11-07T17:35:30.859Z",
     "forkName": "flashedcode-pastpapergeniegfh",
     "invalidReason": "No RPG Maker MV/MZ HTML entry point loading js/main.js was found.",
@@ -31101,6 +31099,19 @@
     "coverPath": "cover.png",
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/sifue-SIerQuest/ served an RPG Maker entry point and its startup resources"
+  },
+  {
+    "id": "deeeland0ohio-sigma-games-2ca86c86",
+    "title": "sigma_games",
+    "repo": "https://github.com/deeeland0ohio/sigma_games",
+    "owner": "deeeland0ohio",
+    "name": "sigma_games",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "discoveredAt": "2026-11-07T21:28:16.789Z",
+    "source": "github-code-search",
+    "sourcePath": "public/games/omori/index.html",
+    "plannedForkName": "deeeland0ohio-sigma_games"
   },
   {
     "id": "dorphiaderp-rpg-test-project",
