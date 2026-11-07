@@ -21188,7 +21188,20 @@
     "processedHeadSha": "398a110bb0b99df3b4a162bfc77687cb9da16e0c",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/blairwilcox-magic-battle/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/blairwilcox-magic-battle/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg"
+      ],
+      "languages": [
+        "en"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-08"
+    }
   },
   {
     "id": "apress-make-a-2d-rpg-in-a-weekend-15",
@@ -21287,7 +21300,24 @@
     "processedHeadSha": "f958edeb27d7240a13e743dfa3df45b38782ceeb",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/AnibalSJ-Last-Years/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/AnibalSJ-Last-Years/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "aliases": [
+        "Mapa nuevo en mv"
+      ],
+      "genres": [
+        "rpg"
+      ],
+      "languages": [
+        "es"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-08",
+      "title": "De Regreso a Casa"
+    }
   },
   {
     "id": "0x416c616e-2drpggamengine",
@@ -21338,7 +21368,15 @@
     "processedHeadSha": "2b5ab66cb3aad15190aac4f568da968c69f73560",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/watchmedash-mojazer/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/watchmedash-mojazer/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "template"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "reviewedAt": "2026-11-08"
+    }
   },
   {
     "id": "rtlh0-marcarpg",
@@ -21365,7 +21403,21 @@
     "sourceHeadSha": "b54bac65b4becb08c7cc74c76f84ab2c78a5fb12",
     "processedHeadSha": "7b2ff66ed982ebc1ed9757b2f2b7dd4c1e87e1b1",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/rtlh0-marcarpg/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/rtlh0-marcarpg/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg",
+        "sci-fi"
+      ],
+      "languages": [
+        "en"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-08"
+    }
   },
   {
     "id": "literallycat-marsbarsthegamewebedition",
@@ -21392,7 +21444,21 @@
     "sourceHeadSha": "c07ca83bc0c2844773a1ee41c9e82b97d92a195f",
     "processedHeadSha": "57b8f5408da3f68dcdf3050d247a99cbddf99875",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/literallycat-marsbarsthegamewebedition/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/literallycat-marsbarsthegamewebedition/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg",
+        "comedy"
+      ],
+      "languages": [
+        "en"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-08"
+    }
   },
   {
     "id": "klimberkg-mask-of-dead-2-shadow-of-pelagius",
@@ -21419,7 +21485,22 @@
     "processedHeadSha": "b48a473a50cda21d387aba36727c473d8de3a0a5",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/KlimberKG-Mask_of_Dead_2_Shadow_of_Pelagius/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/KlimberKG-Mask_of_Dead_2_Shadow_of_Pelagius/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg",
+        "fantasy",
+        "horror"
+      ],
+      "languages": [
+        "en"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-08"
+    }
   },
   {
     "id": "dorphiaderp-rpg-super-april-build",
@@ -21464,7 +21545,21 @@
     "sourceHeadSha": "5f4bb0fc8d8ec88a86ebffa3ce86a3d68b94780e",
     "processedHeadSha": "9775ab469e9964d8d0e61d23cc58a1f1f39b2547",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/TeamCstudios-mastersofahs/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/TeamCstudios-mastersofahs/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg",
+        "slice-of-life"
+      ],
+      "languages": [
+        "en"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-08"
+    }
   },
   {
     "id": "donaldcpk-mathrpgjs",
@@ -21491,7 +21586,21 @@
     "sourceHeadSha": "309c40fd357918f71bad8dc82ec8434d7ddfebcd",
     "processedHeadSha": "caf90bb6da3b73b7938cc18e3468ad87b34d3572",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/Donaldcpk-MathRpgJS/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/Donaldcpk-MathRpgJS/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg",
+        "educational"
+      ],
+      "languages": [
+        "zh-Hant"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-08"
+    }
   },
   {
     "id": "blueslime0216-node-math",
@@ -21539,7 +21648,24 @@
     "processedHeadSha": "4ba52dba9c9c3a242aa79a80134cdbad0f16f67f",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/jackHuang1130-68ba90b5-358d-407f-a2f9-e79ba757286d/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/jackHuang1130-68ba90b5-358d-407f-a2f9-e79ba757286d/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "aliases": [
+        "數學遊戲 誰是殺手"
+      ],
+      "genres": [
+        "rpg",
+        "mystery"
+      ],
+      "languages": [
+        "zh-Hant"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-08"
+    }
   },
   {
     "id": "nikitabelk-nikita-channel-animation",
@@ -21590,7 +21716,21 @@
     "sourceHeadSha": "63d53a787199a9594548e5c0a0512bf674c1d402",
     "processedHeadSha": "d4dcff424de580a8b3a0b34396aedb7d03f9a4af",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/Octx29-Max-Aura-The-Legend-of-John/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/Octx29-Max-Aura-The-Legend-of-John/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg",
+        "fantasy"
+      ],
+      "languages": [
+        "en"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-08"
+    }
   },
   {
     "id": "fannarhrafn-veffortvoloka",
@@ -21617,7 +21757,20 @@
     "processedHeadSha": "a0afaa0f6082141848080eb5fd2e35065a5e4dcb",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/FannarHrafn-veffortvoloka/maze.html served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/FannarHrafn-veffortvoloka/maze.html served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "puzzle"
+      ],
+      "languages": [
+        "en"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-08"
+    }
   },
   {
     "id": "realmyenemy-memz-instanceactors",
@@ -21679,7 +21832,20 @@
     "sourceHeadSha": "c212cf87be87d45b3f9c8ea8dc873813ba7814b0",
     "processedHeadSha": "c3d03d334422741377a58f5c6f0d403af6596923",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/9to5ninja-projects-MechaAcademy/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/9to5ninja-projects-MechaAcademy/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg"
+      ],
+      "languages": [
+        "en"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 3,
+      "reviewedAt": "2026-11-08"
+    }
   },
   {
     "id": "saigurunagula-ik5",
@@ -21704,7 +21870,17 @@
     "sourceHeadSha": "d192886d29ad9a17fc7ed10daa0250ae10e7a331",
     "processedHeadSha": "f5b48ebb2c7e6830896e6ef475bef50091b0c6e7",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/SaiguruNagula-ik5/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/SaiguruNagula-ik5/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg"
+      ],
+      "nsfw": false,
+      "playable": false,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-08"
+    }
   },
   {
     "id": "jefrob-megaearth2049",
@@ -21731,7 +21907,18 @@
     "processedHeadSha": "1dea565f4711f58d6d2f8cb21fd957597b5c3c46",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/JefroB-MegaEarth2049/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/JefroB-MegaEarth2049/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg",
+        "sci-fi"
+      ],
+      "nsfw": false,
+      "playable": false,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-08"
+    }
   },
   {
     "id": "denmarx-resume23-24",
@@ -21758,7 +21945,21 @@
     "sourceHeadSha": "99091480918e2bd65660e07a79ce816cc9bb2dcf",
     "processedHeadSha": "a89e5f7ed9558e0fea1a9f9736cd5373b4acc2f5",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/denmarx-resume23-24/rpg.html served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/denmarx-resume23-24/rpg.html served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg",
+        "fantasy"
+      ],
+      "languages": [
+        "en"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-08"
+    }
   },
   {
     "id": "copperchihuahua-coppers-touhou-game-jam",
@@ -21891,7 +22092,20 @@
     "processedHeadSha": "66d438b11d235d53f676e32f1672fff2fb44badb",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/professor-eggs-Mighty-Game/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/professor-eggs-Mighty-Game/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg"
+      ],
+      "languages": [
+        "en"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 4,
+      "reviewedAt": "2026-11-08"
+    }
   },
   {
     "id": "m2wasabi-milkcocoa-adv-20151203",
@@ -21918,7 +22132,15 @@
     "processedHeadSha": "9fa9f2076fe66ed50e5c442b7a49094debe9999f",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/m2wasabi-milkcocoa-adv-20151203/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/m2wasabi-milkcocoa-adv-20151203/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "template"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "reviewedAt": "2026-11-08"
+    }
   },
   {
     "id": "viet281101-itlmau",
@@ -22037,7 +22259,15 @@
     "sourceHeadSha": "07828424284328691ac1a2cbd43d24310e0bc4ad",
     "processedHeadSha": "135b13a4d5b35b3f2ee23efca631edaa9d6baa37",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/RPGCosmos-Example-MMO/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/RPGCosmos-Example-MMO/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "template"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "reviewedAt": "2026-11-08"
+    }
   },
   {
     "id": "jpmendezf-my-mmorpg",
@@ -22064,7 +22294,15 @@
     "processedHeadSha": "796c1ce4a869564ac2616f21641a1adda6db3e52",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/jpmendezf-MY-MMORPG/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/jpmendezf-MY-MMORPG/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "template"
+      ],
+      "nsfw": false,
+      "playable": false,
+      "reviewedAt": "2026-11-08"
+    }
   },
   {
     "id": "kyubuns-mmom",
@@ -22088,7 +22326,15 @@
     "processedHeadSha": "634fdf1dbbd7457397ade6efc02ceee1af388093",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/kyubuns-MMOM/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/kyubuns-MMOM/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "template"
+      ],
+      "nsfw": false,
+      "playable": false,
+      "reviewedAt": "2026-11-08"
+    }
   },
   {
     "id": "nguyendacliem-monad",
