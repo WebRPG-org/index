@@ -28373,7 +28373,20 @@
     "processedHeadSha": "feb74d92bf81b720df9966a9ec9e661caaef55a8",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/dudleydehenau-Ephec/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/dudleydehenau-Ephec/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg"
+      ],
+      "languages": [
+        "fr"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-08"
+    }
   },
   {
     "id": "lemarsito02-core",
@@ -28400,7 +28413,20 @@
     "processedHeadSha": "2cfada2d2d825f1830f07edb74b29dff0fb3a94a",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/LeMarsito02-core/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/LeMarsito02-core/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg"
+      ],
+      "languages": [
+        "es"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-08"
+    }
   },
   {
     "id": "anthonygit1-qhatulab-frontend",
@@ -28427,7 +28453,20 @@
     "processedHeadSha": "4da2a984039e40ce28cfed763fa42ff9ab17e9f9",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/AnthonyGit1-QhatuLab-Frontend/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/AnthonyGit1-QhatuLab-Frontend/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg"
+      ],
+      "languages": [
+        "es"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-08"
+    }
   },
   {
     "id": "arise-qmv-master-demo-dev",
@@ -28478,7 +28517,24 @@
     "sourceHeadSha": "c174f49693a37bc69d77a49fa8217f4a4435dfbc",
     "processedHeadSha": "8b8f47d8c32f7a36f00b68764a188a96dfba1511",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/ELGWorks-Truth-Stone-Seekers/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/ELGWorks-Truth-Stone-Seekers/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "aliases": [
+        "Quests of Ancient Relics: Distant World"
+      ],
+      "genres": [
+        "rpg"
+      ],
+      "languages": [
+        "en"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-08",
+      "title": "Truth/Stone Seekers"
+    }
   },
   {
     "id": "cheekibreeki421-quillquest3",
@@ -28505,7 +28561,20 @@
     "processedHeadSha": "14dabd4f396f549542524bce5e2936644d2f009a",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/CheekiBreeki421-QuillQuest3/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/CheekiBreeki421-QuillQuest3/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg"
+      ],
+      "languages": [
+        "en"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-08"
+    }
   },
   {
     "id": "rewrite2411-loginthiencuu2411",
@@ -28549,7 +28618,20 @@
     "processedHeadSha": "3f0e5b8b5799b777bae84b4a7415e5c549d07540",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/eijialice-Raison-D-Etre/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/eijialice-Raison-D-Etre/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg"
+      ],
+      "languages": [
+        "en"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-08"
+    }
   },
   {
     "id": "rakkiisto-rakkiisto-rmmv",
@@ -28594,7 +28676,15 @@
     "sourceHeadSha": "1786198c238697512e5cb096d65c7e6c79427893",
     "processedHeadSha": "cfe3fe1ea69c4e4907afa6e4cced0a03825bd226",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/HashakGik-Raycasting-RMMV/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/HashakGik-Raycasting-RMMV/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "template"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "reviewedAt": "2026-11-08"
+    }
   },
   {
     "id": "themabus-get-the-balance-right",
@@ -28727,7 +28817,24 @@
     "processedHeadSha": "ab33d7363f663f1a4c958b3e17a9df52d3522aca",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/favoriteheroes-Re-Tale/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/favoriteheroes-Re-Tale/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "aliases": [
+        "Re-Tale"
+      ],
+      "genres": [
+        "rpg"
+      ],
+      "languages": [
+        "ja"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-08",
+      "title": "Re-Tale Sweet Dreams"
+    }
   },
   {
     "id": "saintclairlima-reachup",
@@ -28754,7 +28861,18 @@
     "processedHeadSha": "568bcdb70f43f7d2f68c5429877883ae14bf00e1",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/saintclairlima-ReachUp/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/saintclairlima-ReachUp/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "languages": [
+        "pt"
+      ],
+      "nsfw": false,
+      "playable": false,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-08",
+      "title": "Reaching Higher"
+    }
   },
   {
     "id": "agus-sosa-reactmonster",
@@ -28781,7 +28899,24 @@
     "processedHeadSha": "1b12df343253212c07b46e9f6e4f69102cd4cbb0",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/Agus-Sosa-ReactMonster/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/Agus-Sosa-ReactMonster/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "aliases": [
+        "React Monster"
+      ],
+      "genres": [
+        "rpg"
+      ],
+      "languages": [
+        "es"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-08",
+      "title": "React Monsters"
+    }
   },
   {
     "id": "teamcstudios-realmtiers",
@@ -28808,7 +28943,20 @@
     "sourceHeadSha": "1ab8e1dfbaebc93065b73612aa240e3333549ac0",
     "processedHeadSha": "462ab5e24347b42ceff9e5a3c17acbf814a6d909",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/TeamCstudios-RealmTiers/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/TeamCstudios-RealmTiers/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg"
+      ],
+      "languages": [
+        "en"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-08"
+    }
   },
   {
     "id": "dyloso-attacksonddd",
@@ -28835,7 +28983,20 @@
     "processedHeadSha": "8f3b356681bc4720db8bad57f9589f041e41c696",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/Dyloso-AttacksOnDDD/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/Dyloso-AttacksOnDDD/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg"
+      ],
+      "languages": [
+        "en"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-08"
+    }
   },
   {
     "id": "rinne-grid-tkoolmz-plugin-recollectionmodemz",
@@ -28919,7 +29080,14 @@
     "sourceHeadSha": "fd011692970770b3e2f4919f27fa8d6ee0baf49e",
     "processedHeadSha": "48ce06a51eb990e5e2aca6863c0d840b5f966281",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/habichta-ReinforcementLearningRPGMV/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/habichta-ReinforcementLearningRPGMV/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "nsfw": false,
+      "playable": false,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-08"
+    }
   },
   {
     "id": "brenoluna0-reliquias-de-fen",
@@ -28946,7 +29114,20 @@
     "processedHeadSha": "d684fe1ec5591e0dc3c3776bc9fc488fc775c814",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/BrenoLuna0-Reliquias-de-Fen/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/BrenoLuna0-Reliquias-de-Fen/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg"
+      ],
+      "languages": [
+        "pt"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-08"
+    }
   },
   {
     "id": "byvalvin-excalibur",
@@ -28973,7 +29154,20 @@
     "processedHeadSha": "fa9c2a620bb3e5ac4da7390aa9512f70a96f7184",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/Byvalvin-Excalibur/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/Byvalvin-Excalibur/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg"
+      ],
+      "languages": [
+        "en"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-08"
+    }
   },
   {
     "id": "naturalpowergames-rpgmaker",
@@ -29000,7 +29194,20 @@
     "sourceHeadSha": "458157e1790d6a123987188c895509f44023a2a4",
     "processedHeadSha": "33ffea55ba64d6d8c2c28b0ef0213c0a77567cae",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/NaturalPowerGames-rpgmaker/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/NaturalPowerGames-rpgmaker/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg"
+      ],
+      "languages": [
+        "es"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-08"
+    }
   },
   {
     "id": "homestrife-retrofantasy",
@@ -29027,7 +29234,14 @@
     "sourceHeadSha": "67f3200b55c41cb6f6c04cf186ebcf1b29d11324",
     "processedHeadSha": "3055c304e9ea1d0df81ce061e592b820b77888f3",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/Homestrife-RetroFantasy/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/Homestrife-RetroFantasy/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "nsfw": false,
+      "playable": false,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-08"
+    }
   },
   {
     "id": "retrom-project-retrom",
@@ -29072,7 +29286,20 @@
     "sourceHeadSha": "c05cfa4a903c4baac6d1ef17c1688eb7165078d2",
     "processedHeadSha": "09bc2ae8962653395a79fc3ebd33f1aa98c2fa9b",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/Pelinal-ReturnToSender/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/Pelinal-ReturnToSender/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg"
+      ],
+      "languages": [
+        "en"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-08"
+    }
   },
   {
     "id": "meet-joshi00971-ri-the-game",
@@ -29099,7 +29326,14 @@
     "sourceHeadSha": "010ba6240ed85a849bf18924b0ccba081d6394f8",
     "processedHeadSha": "fc8792ab9098293f87f380c90af0e3e3d40df751",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/Meet-Joshi00971-RI-The-Game/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/Meet-Joshi00971-RI-The-Game/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "nsfw": false,
+      "playable": false,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-08"
+    }
   },
   {
     "id": "matheuspereirakrumm-rise-of-shinigami",
@@ -29126,7 +29360,20 @@
     "processedHeadSha": "bd5d00058d0739f784a4c6efae1a75fd3802c77b",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/matheusPereiraKrumm-rise-of-shinigami/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/matheusPereiraKrumm-rise-of-shinigami/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg"
+      ],
+      "languages": [
+        "pt"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-08"
+    }
   },
   {
     "id": "yoshikizh-rpgmaker-world",
