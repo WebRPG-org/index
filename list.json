@@ -8742,7 +8742,22 @@
     "sourceHeadSha": "b0ff70594615cd9311e0bc7d0433bfa650a4bcde",
     "processedHeadSha": "70fa5c614113926eff20acda36fb8ab7a4acdd26",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/edneyreis999-Jonny/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/edneyreis999-Jonny/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "visual-novel",
+        "drama"
+      ],
+      "languages": [
+        "en",
+        "pt"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "winterdp-projectelfattorney",
@@ -8769,7 +8784,21 @@
     "processedHeadSha": "b0bb8f548d05fb1eb4711576f5342ff1167afb19",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/WinterDP-ProjectElfAttorney/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/WinterDP-ProjectElfAttorney/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "adventure",
+        "drama"
+      ],
+      "languages": [
+        "pt"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "mik-kaewwichian-rpg-game-mv-maker",
@@ -8796,7 +8825,20 @@
     "processedHeadSha": "5392f290f574a3800394b4122f5cdfefd69af959",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/Mik-kaewwichian-RPG_Game_mv_maker/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/Mik-kaewwichian-RPG_Game_mv_maker/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg"
+      ],
+      "languages": [
+        "en"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "josephbh0622-simulatedcampus",
@@ -8823,7 +8865,22 @@
     "processedHeadSha": "6abc379eeaf7c043963e52efc5611354cc3cd9ab",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/JosephBH0622-SimulatedCampus/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/JosephBH0622-SimulatedCampus/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "simulation",
+        "slice-of-life"
+      ],
+      "languages": [
+        "zh-Hans",
+        "en"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "peterdrake-cascadia-pilot-game",
@@ -8934,7 +8991,21 @@
     "processedHeadSha": "d4455927be7c99b172beaaf89c49f15fcf8db3b9",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/cosmiccatacorn-ahjkjh/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/cosmiccatacorn-ahjkjh/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "adventure",
+        "mystery"
+      ],
+      "languages": [
+        "es"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "gelatolabs-catachresis",
@@ -8961,7 +9032,21 @@
     "processedHeadSha": "d16bb1063577b5be2bf5dd1404eb0a55576ac8d0",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/gelatolabs-catachresis/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/gelatolabs-catachresis/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg",
+        "sci-fi"
+      ],
+      "languages": [
+        "en"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 3,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "shirorimi-chaos",
@@ -9091,7 +9176,17 @@
     "sourceHeadSha": "662cc3f2f3c1679b675dc02ef96faae8cd3297c1",
     "processedHeadSha": "98220d90d7bb368f2b4972ad5e5bd5e247da2135",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/GyoannZ-works/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/GyoannZ-works/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "minigame"
+      ],
+      "nsfw": false,
+      "playable": false,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "saigurunagula-ik2",
@@ -9118,7 +9213,21 @@
     "sourceHeadSha": "685fa2ae0f34a40a29e5fa0e60a8b27b335ba114",
     "processedHeadSha": "6d5eedf488956ea50c2ed412ffc09e1ba4eb7ffe",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/SaiguruNagula-ik2/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/SaiguruNagula-ik2/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg",
+        "fantasy"
+      ],
+      "languages": [
+        "en"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "camzzz-vrgt-toby-web",
@@ -9160,7 +9269,22 @@
     "sourceHeadSha": "9865d6ded435abee63b07f2cf6e84c6f75ef04d7",
     "processedHeadSha": "417c0832bdf54acbea3219ebbfeda33a2d623d3d",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/koohdev-chronicles_of_arithmos/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/koohdev-chronicles_of_arithmos/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg",
+        "educational",
+        "fantasy"
+      ],
+      "languages": [
+        "en"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "hackerman998-spacejam",
@@ -9204,7 +9328,23 @@
     "sourceHeadSha": "c48dc308a47afbb131d54552b185e628873396ed",
     "processedHeadSha": "9a53582d509501bdb59f0ff4dae67a9e8cf9b0db",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/Gilloo-Lab-RPG_Beta01/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/Gilloo-Lab-RPG_Beta01/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg",
+        "fantasy",
+        "comedy"
+      ],
+      "languages": [
+        "en",
+        "fr"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "sasakimika487-chuyentausninhtu",
@@ -9229,7 +9369,27 @@
     "sourceHeadSha": "7460be54d14e3562563de81605c5869fcfb25b29",
     "processedHeadSha": "5d3c0c589212c049080528f1b79351523d71039b",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/sasakimika487-chuyentausninhtu/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/sasakimika487-chuyentausninhtu/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "aliases": [
+        "chuyentausinhtu",
+        "生死列车"
+      ],
+      "genres": [
+        "adventure",
+        "horror"
+      ],
+      "languages": [
+        "vi"
+      ],
+      "nsfw": false,
+      "originalTitle": "Tsugunohi",
+      "playable": true,
+      "popularity": 3,
+      "rating": 5,
+      "reviewedAt": "2026-11-07",
+      "title": "CHUYẾN TÀU SINH TỬ"
+    }
   },
   {
     "id": "p-guilherme-cidadesustentavel",
@@ -9256,7 +9416,20 @@
     "processedHeadSha": "db795c2276ae2d1602e68670efe0ccb40775fbfd",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/p-guilherme-cidadesustentavel/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/p-guilherme-cidadesustentavel/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg"
+      ],
+      "languages": [
+        "pt"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 4,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "kuzhenlarn-kuzhenproject",
@@ -9283,7 +9456,24 @@
     "sourceHeadSha": "3f52bd4a4313937e001bb7ef2d2453b2fdad81c5",
     "processedHeadSha": "e931ff0cfa4269a0ae3926ab31547580afa6fd73",
     "verificationDeferred": true,
-    "syncedFromSource": true
+    "syncedFromSource": true,
+    "meta": {
+      "aliases": [
+        "CKA3KA"
+      ],
+      "genres": [
+        "rpg"
+      ],
+      "languages": [
+        "ru"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07",
+      "title": "СКАЗКА"
+    }
   },
   {
     "id": "yutom3-uci-cki-rpgmmo",
@@ -9310,7 +9500,21 @@
     "processedHeadSha": "e85e8badd21b63c202bd6857e6413508887accdf",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/yutom3-UCI-CKI-RPGMMO/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/yutom3-UCI-CKI-RPGMMO/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg",
+        "educational"
+      ],
+      "languages": [
+        "en"
+      ],
+      "nsfw": false,
+      "playable": false,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "azelme-star-destiny",
@@ -9335,7 +9539,18 @@
     "sourceHeadSha": "1286576f38a07f37daff52d0d905deac203fe230",
     "processedHeadSha": "f69de3670468f1d0a5c134b8464bd7f7b1983839",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/AzelMe-Star-Destiny/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/AzelMe-Star-Destiny/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "template"
+      ],
+      "languages": [
+        "fr"
+      ],
+      "nsfw": false,
+      "playable": false,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "sonata-chan-clubecaixao",
@@ -9362,7 +9577,21 @@
     "sourceHeadSha": "e09e25b8ec8cad3693d52710552b38b5c37ce89b",
     "processedHeadSha": "020d5d4ee9ad1396498ca43b26b5436dd69fd18a",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/Sonata-chan-clubecaixao/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/Sonata-chan-clubecaixao/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg",
+        "romance"
+      ],
+      "languages": [
+        "pt"
+      ],
+      "nsfw": false,
+      "playable": false,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "mdderuofa-cmput250-lab",
@@ -9389,7 +9618,18 @@
     "processedHeadSha": "a26c167015385bf378d64da9a9b5f42f779c873d",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/MdderUofA-cmput250_Lab/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/MdderUofA-cmput250_Lab/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "template"
+      ],
+      "languages": [
+        "en"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "altingame-cmput250",
@@ -9416,7 +9656,19 @@
     "processedHeadSha": "e4472f3005d53b6f11b5dd192af117f2defb56a5",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/AltinGame-CMPUT250/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/AltinGame-CMPUT250/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "template"
+      ],
+      "languages": [
+        "en"
+      ],
+      "nsfw": false,
+      "playable": false,
+      "reviewedAt": "2026-11-07",
+      "title": "MIND INTO MATTER"
+    }
   },
   {
     "id": "msc-cqu-cba",
@@ -9443,7 +9695,22 @@
     "processedHeadSha": "00d6710e75b34861414a70c3589e48625c7dc3f3",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/MSC-CQU-cba/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/MSC-CQU-cba/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "puzzle",
+        "adventure"
+      ],
+      "languages": [
+        "en",
+        "zh-Hans"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "acrazyquasar-ugs-games",
@@ -9551,7 +9818,21 @@
     "sourceHeadSha": "ec34844ada90ae2a936ec57337c1b871be5fa8a8",
     "processedHeadSha": "c74673c98e4a9637b45381e7d587b24ead41f922",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/shayderrr-idkugssuggestion/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/shayderrr-idkugssuggestion/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "adventure",
+        "horror"
+      ],
+      "languages": [
+        "en"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "taekfighter-google-drive-hub",
