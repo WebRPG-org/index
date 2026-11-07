@@ -1414,7 +1414,21 @@
     "processedHeadSha": "13daf6a701185d7b64eec41ebb58a24f70d93162",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/YuukiOgino-ProjectTogebuTraial/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/YuukiOgino-ProjectTogebuTraial/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "adventure",
+        "slice-of-life"
+      ],
+      "languages": [
+        "ja"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "eric0308a-the-devils-seven-days",
@@ -1460,7 +1474,18 @@
     "sourceHeadSha": "66a1073d463f475065e01dd6cc737b150fc9d4c8",
     "processedHeadSha": "dcab359e8042643d79e087dbb48e729507ceb216",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/bill42362-mortals-journey-rmmz/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/bill42362-mortals-journey-rmmz/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg",
+        "fantasy"
+      ],
+      "nsfw": false,
+      "playable": false,
+      "popularity": 3,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "cyh0521-rpg-e580416c",
@@ -1484,7 +1509,21 @@
     "processedHeadSha": "58531ec9c6a03c9f45d1c8a4c2e48e65f0bce73b",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/cyh0521-rpg/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/cyh0521-rpg/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "adventure",
+        "educational"
+      ],
+      "languages": [
+        "zh-Hant"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "kotpot197-furantozaininnosima",
@@ -1508,7 +1547,21 @@
     "processedHeadSha": "7e661d2992681f1796cfce0d6b2b920cd3763101",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/kotpot197-FuranToZaininNoSima/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/kotpot197-FuranToZaininNoSima/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg",
+        "fantasy"
+      ],
+      "languages": [
+        "zh-Hans"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 3,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "lzk716088-beneath-the-snow",
@@ -1532,7 +1585,21 @@
     "processedHeadSha": "8602303ac9ee4db3b3d04c313534a0fa37356701",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/lzk716088-beneath-the-snow/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/lzk716088-beneath-the-snow/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg",
+        "fantasy"
+      ],
+      "languages": [
+        "zh-Hant"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "yinshi91-game",
@@ -1621,7 +1688,21 @@
     "sourceHeadSha": "42fd70da1c589421976b23624368ef4d11ab4c07",
     "processedHeadSha": "79e1696818e1ba6454512e914b5bb0e1ea7d283a",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/myueqf-myueqf.github.io/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/myueqf-myueqf.github.io/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "visual-novel",
+        "fantasy"
+      ],
+      "languages": [
+        "zh-Hans"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "formidi-kanzidego",
@@ -1645,7 +1726,21 @@
     "processedHeadSha": "3b523d414c289b94a601464bb875a173cddc2baa",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/Formidi-KanzideGo/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/Formidi-KanzideGo/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "minigame",
+        "educational"
+      ],
+      "languages": [
+        "ja"
+      ],
+      "nsfw": false,
+      "playable": false,
+      "popularity": 8,
+      "rating": 7,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "hidegonsan-kanzidego",
@@ -1684,7 +1779,24 @@
     "processedHeadSha": "0537c415a0d25baa63930331fd1577c78f0b9862",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/xlanwux-TravelInDoomWithYou/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/xlanwux-TravelInDoomWithYou/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "aliases": [
+        "Journey to the End with You"
+      ],
+      "genres": [
+        "adventure",
+        "drama"
+      ],
+      "languages": [
+        "zh-Hans"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 3,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "rfvtgbzxc-rmmz-ts-vite",
@@ -1884,7 +1996,17 @@
     "processedHeadSha": "845a100adb3997bda8981f1609ae9198fd493a2c",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/q3226257-rpg-game/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/q3226257-rpg-game/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg"
+      ],
+      "nsfw": false,
+      "playable": false,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "anthonytonyz-rougedemo",
@@ -1941,7 +2063,20 @@
     "sourceHeadSha": "584cbc6a30cb0f2e8e86e704c14f216d3ddae21f",
     "processedHeadSha": "ab1c27be8bc683aece8fcf5ca4e2b733f922239e",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/grayblackannihilation-goldenmap/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/grayblackannihilation-goldenmap/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "other"
+      ],
+      "languages": [
+        "zh-Hant"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "cyberocean-web-polaris",
@@ -1965,7 +2100,21 @@
     "processedHeadSha": "881500903d8b83e19bcff5bf8d26bdedac11a0e2",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/cyberocean-web-polaris/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/cyberocean-web-polaris/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg",
+        "slice-of-life"
+      ],
+      "languages": [
+        "zh-Hant"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "mrxiyi666-destroygame",
@@ -1992,7 +2141,21 @@
     "sourceHeadSha": "964bba6a9fc336736871433886bcb53e78357414",
     "processedHeadSha": "f71b9243990a649cee69879d41b3b5c43778c1e8",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/MrXiyi666-DestroyGame/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/MrXiyi666-DestroyGame/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg",
+        "fantasy"
+      ],
+      "languages": [
+        "zh-Hans"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "tw123777tw-juyanshe",
@@ -2052,7 +2215,17 @@
     "sourceHeadSha": "9baeb96da6aadb0af88fd715c485a63c03391554",
     "processedHeadSha": "55cd2977a9eb27e33e21c28edc50240b4e831204",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/zhuobinggang-decision_maker-RPG-game/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/zhuobinggang-decision_maker-RPG-game/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "adventure"
+      ],
+      "nsfw": false,
+      "playable": false,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "430230562-kerman-s-dream",
@@ -2117,7 +2290,21 @@
     "processedHeadSha": "b6cfd537e26e6388989ef250fc4436e8379a917c",
     "coverPath": "cover.png",
     "reachable": false,
-    "reachabilityDetail": "https://webrpg.org/kata235-MV01/js/rpg_core.js could not be fetched: fetch failed"
+    "reachabilityDetail": "https://webrpg.org/kata235-MV01/js/rpg_core.js could not be fetched: fetch failed",
+    "meta": {
+      "genres": [
+        "adventure",
+        "horror"
+      ],
+      "languages": [
+        "ja"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 3,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "xjzsq-1",
@@ -2180,7 +2367,18 @@
     "processedHeadSha": "4f756aa2f9c66e7c5daaf8c57bf47ce8840bb644",
     "coverPath": "cover.png",
     "verificationDeferred": true,
-    "syncedFromSource": true
+    "syncedFromSource": true,
+    "meta": {
+      "genres": [
+        "rpg",
+        "fantasy"
+      ],
+      "nsfw": false,
+      "playable": false,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "hefsjgaeik-hefsjgaeik-github-io",
@@ -2204,7 +2402,21 @@
     "processedHeadSha": "0719d3863577e19d02f9afbb8bb522a6588ff9e3",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/hefsjgaeiK-hefsjgaeiK.github.io/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/hefsjgaeiK-hefsjgaeiK.github.io/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "adventure",
+        "sci-fi"
+      ],
+      "languages": [
+        "zh-Hans"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "sammabel-87531",
@@ -2249,7 +2461,22 @@
     "processedHeadSha": "16a51af8a97beb7cd80cdd61068ec42cbf9a37a4",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/whiterrabbit3672-touhou-GhostFairy-do-people/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/whiterrabbit3672-touhou-GhostFairy-do-people/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg",
+        "fantasy"
+      ],
+      "languages": [
+        "zh-Hans"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 3,
+      "rating": 5,
+      "reviewedAt": "2026-11-07",
+      "title": "麻薯干！千！ ~touhou GhostFairydopeople"
+    }
   },
   {
     "id": "kotpot197-rabbit",
@@ -2273,7 +2500,23 @@
     "processedHeadSha": "ddf908585e4c854d99802454fecf72eb10586a83",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/kotpot197-rabbit/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/kotpot197-rabbit/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg",
+        "puzzle",
+        "sci-fi"
+      ],
+      "languages": [
+        "zh-Hans"
+      ],
+      "nsfw": true,
+      "playable": false,
+      "popularity": 7,
+      "rating": 7,
+      "reviewedAt": "2026-11-07",
+      "title": "梅卡妮可 ―兔子与水星之谣―"
+    }
   },
   {
     "id": "easychen-gamedemo",
@@ -2333,7 +2576,18 @@
     "sourceHeadSha": "a9b860f167bb7ac2197efff47f8b6f19fef608c3",
     "processedHeadSha": "16cf56c94646b5eec4a5c63b01c93c45cd8d84ed",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/MagicalYuto-Secret-Funeral/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/MagicalYuto-Secret-Funeral/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg",
+        "horror"
+      ],
+      "nsfw": false,
+      "playable": false,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "klsdf-get-free-javascript-learning-materials",
@@ -2357,7 +2611,17 @@
     "processedHeadSha": "4ce1fa1e4e5aaaf8b338f40d20d65a573e98e01b",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/klsdf-Get-Free-JavaScript-Learning-Materials/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/klsdf-Get-Free-JavaScript-Learning-Materials/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg"
+      ],
+      "nsfw": false,
+      "playable": false,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "kyouka8234-magical-girl-celesphonia",
