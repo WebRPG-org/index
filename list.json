@@ -16931,7 +16931,20 @@
     "sourceHeadSha": "45685c32ff1120bbceb7d8268314d9c9f2997b1c",
     "processedHeadSha": "3b6711c86d69c849798b97b357a3ed893defb75f",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/TheCyanHusky-TheCyanHusky.github.io/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/TheCyanHusky-TheCyanHusky.github.io/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg"
+      ],
+      "languages": [
+        "en"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "kazedevid-girl-hunting",
@@ -16958,7 +16971,17 @@
     "sourceHeadSha": "d0c6b4d714cfd55522553beea304a72b1a9825bc",
     "processedHeadSha": "4e70154e104e425ea9d290c886b0254b53391ef6",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/KazeDevID-Girl-hunting/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/KazeDevID-Girl-hunting/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg"
+      ],
+      "nsfw": false,
+      "playable": false,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "hamoda434-girlpower",
@@ -16985,7 +17008,21 @@
     "processedHeadSha": "9bc37ea03cbd2981a71eedd2793deb17bdf4bc0b",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/Hamoda434-GirlPower/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/Hamoda434-GirlPower/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg",
+        "educational"
+      ],
+      "languages": [
+        "en"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "strelokhalfer-hghu",
@@ -17012,7 +17049,20 @@
     "sourceHeadSha": "876127003fd67001ab3d046e860cf10d0cd204ef",
     "processedHeadSha": "574d8c0333ca0888b979e7745cba6118050b4f2e",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/strelokhalfer-HGHU/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/strelokhalfer-HGHU/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg"
+      ],
+      "languages": [
+        "ru"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "gary26834947-eng-github-rpg-congroup-v1",
@@ -17039,7 +17089,21 @@
     "sourceHeadSha": "3942ae4d5aa7a7ab3b8cb6c7f762f91b0f81a1f8",
     "processedHeadSha": "e17d0be3a8394d98fd141a6c333e5f30d0dc8cd0",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/gary26834947-eng-github_rpg_conGroup_v1/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/gary26834947-eng-github_rpg_conGroup_v1/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg"
+      ],
+      "languages": [
+        "zh-Hant"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07",
+      "title": "星途旅人：小王子的星幣夢航"
+    }
   },
   {
     "id": "gary31136-github-rpg-exgroup-v1",
@@ -17066,7 +17130,21 @@
     "sourceHeadSha": "ed6904d91df252e62630debd44c4db5c9ddbafc9",
     "processedHeadSha": "38d2ae2e3e70b05e3e4730d3d9547c882ef1fc5a",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/gary31136-github_rpg_exGroup_v1/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/gary31136-github_rpg_exGroup_v1/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg"
+      ],
+      "languages": [
+        "zh-Hant"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07",
+      "title": "星途旅人：星幣與選擇的冒險"
+    }
   },
   {
     "id": "huangxinyi2626-byte-github-teaching-experiment",
@@ -17093,7 +17171,21 @@
     "sourceHeadSha": "68e6365746f0413e5831a20f56ca6b677dd66699",
     "processedHeadSha": "9bbb5441cbe81d9d1d0654d1435d5459f66c974c",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/huangxinyi2626-byte-github_teaching_experiment/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/huangxinyi2626-byte-github_teaching_experiment/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg"
+      ],
+      "languages": [
+        "zh-Hant"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07",
+      "title": "星途旅人：星幣與選擇的冒險"
+    }
   },
   {
     "id": "rem5462-gition",
@@ -17117,7 +17209,20 @@
     "processedHeadSha": "068972cee61a44541bc701bdf53371a0ebc7be8d",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/rem5462-gition/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/rem5462-gition/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg"
+      ],
+      "languages": [
+        "zh-Hans"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "igfcoimbra-gladius-saga",
@@ -17144,7 +17249,21 @@
     "processedHeadSha": "65be9682d1f8503744d4105c0ac30c16cd3aa0d5",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/IGFCoimbra-Gladius-Saga/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/IGFCoimbra-Gladius-Saga/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg",
+        "fantasy"
+      ],
+      "languages": [
+        "en"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "xflorora-prototype-studio-2025",
@@ -17168,7 +17287,21 @@
     "coverPath": "cover.png",
     "processedHeadSha": "7a4c6365deaee24fffc3b2c168bf60aa46e7d622",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/xflorora-prototype-studio-2025/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/xflorora-prototype-studio-2025/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "adventure",
+        "slice-of-life"
+      ],
+      "languages": [
+        "en"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "enigmadragons-legendaryfrailty",
@@ -17195,7 +17328,18 @@
     "processedHeadSha": "5375a94818ecf51782aab0998dbbd3f05ba05ba6",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/EnigmaDragons-LegendaryFrailty/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/EnigmaDragons-LegendaryFrailty/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg",
+        "fantasy"
+      ],
+      "nsfw": false,
+      "playable": false,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "vamyvamizy-vamyvamizy-github-io",
@@ -17222,7 +17366,20 @@
     "sourceHeadSha": "039ab66cf4339f54e486ff255cb023d71514ecda",
     "processedHeadSha": "48413e948f195f1dc21e6113343c8aa6c0c6666f",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/VamyVamizy-VamyVamizy.github.io/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/VamyVamizy-VamyVamizy.github.io/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg"
+      ],
+      "languages": [
+        "en"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "dixonsolutions-potatoetomatoe3",
@@ -17267,7 +17424,20 @@
     "sourceHeadSha": "829b118bb4e5dbaee01181426dd8bd49dbc0b7b8",
     "processedHeadSha": "6c46ab1245f914de4b4c540572f28ab8c4045f62",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/VaultManCs-GaR_TheGame/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/VaultManCs-GaR_TheGame/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg"
+      ],
+      "languages": [
+        "en"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "jesussantos05-greenhorizon",
@@ -17294,7 +17464,20 @@
     "processedHeadSha": "c4b0223ae352625ca80aa6cb2ce3cd5f1fd8ce8b",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/jesussantos05-GreenHorizon/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/jesussantos05-GreenHorizon/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg"
+      ],
+      "languages": [
+        "en"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "hoshiyomi0322-guonuo",
@@ -17321,7 +17504,20 @@
     "processedHeadSha": "f748ce256c5605934d9da304e2155161888d67f8",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/hoshiyomi0322-Guonuo/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/hoshiyomi0322-Guonuo/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg"
+      ],
+      "languages": [
+        "zh-Hant"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "mrxdaunknown-encodehackathon",
@@ -17348,7 +17544,18 @@
     "processedHeadSha": "6997d9c980e93256522521209317ed02f1044eaf",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/Mrxdaunknown-EncodeHackathon/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/Mrxdaunknown-EncodeHackathon/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "template"
+      ],
+      "languages": [
+        "en"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "nerdsonly-half-heroes",
@@ -17375,7 +17582,20 @@
     "processedHeadSha": "2ce3a20b32da98773c2de6ff587812410ac30b4e",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/nerdsonly-half-heroes/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/nerdsonly-half-heroes/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg"
+      ],
+      "languages": [
+        "pt"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "balensmatheo-balensmatheo-github-io",
@@ -17482,7 +17702,21 @@
     "processedHeadSha": "0d117ed4371ef860e54544b107933a97968ee424",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/discus-sions-The-Fall-PREVIEW1/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/discus-sions-The-Fall-PREVIEW1/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg"
+      ],
+      "languages": [
+        "en"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07",
+      "title": "Harold's Journey"
+    }
   },
   {
     "id": "pbkn-hbd-rpg",
@@ -17533,7 +17767,20 @@
     "sourceHeadSha": "c6c3639647f1a73a7dbb3ece4c6462ae78ca75dc",
     "processedHeadSha": "452b2013cccf26dd7d21d55f0880477b062ea303",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/Pear104-hcm202/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/Pear104-hcm202/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg"
+      ],
+      "languages": [
+        "en"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "merrilynnqm-merrilynnqm-github-io",
@@ -17578,7 +17825,17 @@
     "sourceHeadSha": "97d7945e29f5bfd02bf6525d91eeedfeefaaff31",
     "processedHeadSha": "59190702866eaa1a3902169d31347cb4f7dee7fd",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/WookieeMatt-Heirloom/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/WookieeMatt-Heirloom/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg"
+      ],
+      "nsfw": false,
+      "playable": false,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "mizchi-sandbox-tkool-sandbox",
