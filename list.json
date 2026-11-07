@@ -10260,7 +10260,20 @@
     "processedHeadSha": "6d17dcf6b73c7dfb23284e65602801c56f436a5c",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/zhuobinggang-flower-of-evil/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/zhuobinggang-flower-of-evil/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "adventure"
+      ],
+      "languages": [
+        "zh-Hans"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "lucaslovestacos-lucaslovestacos-github-io",
@@ -10533,7 +10546,21 @@
     "processedHeadSha": "ae9b696225014d6d8bdacacf43b4920b6cf55c0e",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/brunolcarli-Dragonsden/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/brunolcarli-Dragonsden/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg",
+        "fantasy"
+      ],
+      "languages": [
+        "en"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "brunolcarli-rpgmakermvweb3integration-testgame",
@@ -10560,7 +10587,21 @@
     "processedHeadSha": "427db3e5d4e1903322118a0439a636cba4e99374",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/brunolcarli-RPGMakerMVWeb3Integration_testgame/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/brunolcarli-RPGMakerMVWeb3Integration_testgame/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg",
+        "fantasy"
+      ],
+      "languages": [
+        "en"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "adanrafli-dreamcore-x1",
@@ -11273,7 +11314,21 @@
     "sourceHeadSha": "34eb39756d212a5a23a3e73c39ec26d0a3cd783a",
     "processedHeadSha": "057f8857f544c069de2e1fba5205b848a8d02c38",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/huanbieyuan-huanbieyuan.github.io/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/huanbieyuan-huanbieyuan.github.io/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg",
+        "fantasy"
+      ],
+      "languages": [
+        "zh-Hans"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "tenebrous-world-tenebrous-github-io",
@@ -11300,7 +11355,21 @@
     "sourceHeadSha": "9e5eac95a67bec425c4a7c76451f4ee9e5888fde",
     "processedHeadSha": "5496c199aeec0b3d2dbf2330f64f4c83f67fe2c3",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/tenebrous-world-tenebrous.github.io/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/tenebrous-world-tenebrous.github.io/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg",
+        "fantasy"
+      ],
+      "languages": [
+        "zh-Hans"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "lokinious-rpg-maker-game-1",
@@ -11397,7 +11466,20 @@
     "processedHeadSha": "10b7ede4f9827bb0cd3e8a2e1c8bd94655f91180",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/SaveSub-FairyMaze_EN/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/SaveSub-FairyMaze_EN/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg"
+      ],
+      "languages": [
+        "en"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "tomoshibi06-fairymaze2",
@@ -11424,7 +11506,17 @@
     "processedHeadSha": "564f0217f029f2756e6b5973396b9b2e35ae5e7a",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/tomoshibi06-FairyMaze2/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/tomoshibi06-FairyMaze2/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg"
+      ],
+      "nsfw": false,
+      "playable": false,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "tomoshibi06-fm2",
@@ -11668,7 +11760,28 @@
     "dataSize": 144690998,
     "processedHeadSha": "4f9a2a9c0b17729bb6b059e7b4eae8004ad2cfe5",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/iiviigames-fnh-pwa-emtfr-luv.IIVII/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/iiviigames-fnh-pwa-emtfr-luv.IIVII/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "aliases": [
+        "恐惧与饥饿",
+        "Страх и голод"
+      ],
+      "genres": [
+        "rpg",
+        "horror",
+        "fantasy",
+        "survival"
+      ],
+      "languages": [
+        "en"
+      ],
+      "nsfw": true,
+      "originalTitle": "Fear & Hunger",
+      "playable": true,
+      "popularity": 9,
+      "rating": 9,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "mattiefm-andyandlayley",
@@ -11731,7 +11844,28 @@
     "sourceHeadSha": "6f6df3def65895b9966aef902a3a8cde5d0c7666",
     "processedHeadSha": "e66f1f780653c4c88b65132eca3a2b1d8a4fd6ae",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/SillyLittleLuaScripter-fear-and-hunger/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/SillyLittleLuaScripter-fear-and-hunger/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "aliases": [
+        "恐惧与饥饿",
+        "Страх и голод"
+      ],
+      "genres": [
+        "rpg",
+        "horror",
+        "fantasy",
+        "survival"
+      ],
+      "languages": [
+        "en"
+      ],
+      "nsfw": true,
+      "originalTitle": "Fear & Hunger",
+      "playable": true,
+      "popularity": 9,
+      "rating": 9,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "master234534567-calc",
@@ -12263,7 +12397,21 @@
     "processedHeadSha": "d34f43c1fe17153f4235c049c07071507af32ce4",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/ProximitiGames-FrayedSystem/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/ProximitiGames-FrayedSystem/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg",
+        "sci-fi"
+      ],
+      "languages": [
+        "en"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "proximitigames-frayedsystemexe",
@@ -12290,7 +12438,21 @@
     "processedHeadSha": "ebe3c0198e5c789dedd1c70b39a30134ad7ac018",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/ProximitiGames-FrayedSystemExe/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/ProximitiGames-FrayedSystemExe/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg",
+        "sci-fi"
+      ],
+      "languages": [
+        "en"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "hellowin-freerun",
@@ -12553,7 +12715,21 @@
     "processedHeadSha": "10af7924b0d1acf5f87292675b8b729edb6f0451",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/miku1hhhh-miku1hhhh.github.io/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/miku1hhhh-miku1hhhh.github.io/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg",
+        "horror"
+      ],
+      "languages": [
+        "zh-Hans"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "oliver-grant-game",
@@ -12580,7 +12756,20 @@
     "sourceHeadSha": "1305fcfd5104f2507cd340130d49e51413fc965f",
     "processedHeadSha": "f4d09c3098aaabd8e25a3b31116202984dffd709",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/oliver-grant-game/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/oliver-grant-game/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg"
+      ],
+      "languages": [
+        "en"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "h0ngliangli-game-name",
@@ -12880,7 +13069,20 @@
     "processedHeadSha": "1f9e58825ce6f89c472572d98360311bb6616afb",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/Isobe26505-Isobe26505.github.io/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/Isobe26505-Isobe26505.github.io/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg"
+      ],
+      "languages": [
+        "en"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "m00nl16h7-m00nl16h7-github-io",
@@ -12907,7 +13109,20 @@
     "processedHeadSha": "1355990e4d67f02a51b2dc85f29bc7f047bc6e80",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/M00NL16H7-m00nl16h7.github.io/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/M00NL16H7-m00nl16h7.github.io/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg"
+      ],
+      "languages": [
+        "en"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "talon24229-talon24229-github-io",
@@ -12985,7 +13200,20 @@
     "sourceHeadSha": "014266f36425fcc9bc2df58ff4821365f9db0a38",
     "processedHeadSha": "827414e53561e4d7d2181578a74d48b93f639141",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/27klarosa-27klarosa.github.io/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/27klarosa-27klarosa.github.io/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg"
+      ],
+      "languages": [
+        "en"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "donaldg2027-donaldg2027-github-io",
@@ -13035,7 +13263,20 @@
     "sourceHeadSha": "3a1ea605cfeb6dd6a4eef28d95b1174b394f69ed",
     "processedHeadSha": "466bbe83165e2529472b4e273caa28c2ab60987d",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/pzahutdwg-pzahutdwg.github.io/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/pzahutdwg-pzahutdwg.github.io/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg"
+      ],
+      "languages": [
+        "en"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "28dosei-28dosei-github-io",
@@ -13062,7 +13303,20 @@
     "sourceHeadSha": "bf7567afc8573c6a7c9d85d8ea12370c9abe0ea9",
     "processedHeadSha": "1d125e9339228d567c3e86dd86e65d1a4bf12b68",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/28dosei-28dosei.github.io/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/28dosei-28dosei.github.io/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg"
+      ],
+      "languages": [
+        "en"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "28msnyder-28msnyder-github-io",
@@ -13089,7 +13343,20 @@
     "sourceHeadSha": "a380805a2b1c8a7dcfed8d47951489d6bd65b834",
     "processedHeadSha": "88e8f507a58267caf13f6d7eff98d907b915b02b",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/28MSnyder-28MSnyder.github.io/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/28MSnyder-28MSnyder.github.io/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg"
+      ],
+      "languages": [
+        "en"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "28diezel-28diezel-github-io",
@@ -13116,7 +13383,20 @@
     "sourceHeadSha": "b946a5fd74915fd2994b869902284c1691725efb",
     "processedHeadSha": "fb548371dfc11beccb28b77dd3fc4a1ff68405b8",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/28Diezel-28Diezel.github.io/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/28Diezel-28Diezel.github.io/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg"
+      ],
+      "languages": [
+        "en"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "28hershey-28hershey-github-io",
