@@ -18475,7 +18475,6 @@
     "discoveredAt": "2026-11-06T18:55:15.140Z",
     "source": "github-code-search",
     "sourcePath": "game-embeds/omori.html",
-    "plannedForkName": "flashedcode-pastpapergenie-v3",
     "checkedAt": "2026-11-06T19:04:29.115Z",
     "forkName": "flashedcode-pastpapergenie-v3",
     "invalidReason": "No RPG Maker MV/MZ HTML entry point loading js/main.js was found.",
@@ -18620,6 +18619,19 @@
     "invalidReason": "RPG Maker structure is incomplete near games/OMORI.html.",
     "deletedAt": "2026-06-18T22:15:14.214Z",
     "validationScore": 45
+  },
+  {
+    "id": "ineedsomemorelapeace-gamesplay",
+    "title": "OMORI",
+    "repo": "https://github.com/ineedsomemorelapeace/gamesplay",
+    "owner": "ineedsomemorelapeace",
+    "name": "gamesplay",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "discoveredAt": "2026-11-07T00:37:48.306Z",
+    "source": "github-code-search",
+    "sourcePath": "omori/index.html",
+    "plannedForkName": "ineedsomemorelapeace-gamesplay"
   },
   {
     "id": "justjxrdanwasdefinetlytaken-jmw-node",
