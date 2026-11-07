@@ -23320,7 +23320,20 @@
     "processedHeadSha": "f913a516791b57754347a9ed82b7b04d2dcb8874",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/Potasiuombun-NHKGame-collab/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/Potasiuombun-NHKGame-collab/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg"
+      ],
+      "languages": [
+        "en"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-08"
+    }
   },
   {
     "id": "sabotai-sabotai-github-io",
@@ -23382,7 +23395,20 @@
     "sourceHeadSha": "2759349d101f218aa850a195491dc88f150090cd",
     "processedHeadSha": "1b489ac70edb5cf2c01889dd8f79bbf3859c6f37",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/k45514n-NodeConfAR-2017/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/k45514n-NodeConfAR-2017/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "adventure"
+      ],
+      "languages": [
+        "en"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 3,
+      "rating": 5,
+      "reviewedAt": "2026-11-08"
+    }
   },
   {
     "id": "excel-myl",
@@ -23409,7 +23435,21 @@
     "processedHeadSha": "c80f44d2d385f6e4d352a15b840d00317844a9ad",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/Excel-myl/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/Excel-myl/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "visual-novel",
+        "romance"
+      ],
+      "languages": [
+        "en"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-08"
+    }
   },
   {
     "id": "fifomori-nwcompat",
@@ -23470,7 +23510,22 @@
     "processedHeadSha": "8ee7a990e1766ef385625d09bfb0fb2b7ee66686",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/paulo1211-O-Castelo-das-Sombras/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/paulo1211-O-Castelo-das-Sombras/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg",
+        "fantasy"
+      ],
+      "languages": [
+        "pt",
+        "en"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-08"
+    }
   },
   {
     "id": "eltonleao-happycodegames",
@@ -23497,7 +23552,25 @@
     "sourceHeadSha": "bd5d228e53ba1175af64a22c78909588409ded45",
     "processedHeadSha": "f46e1d6156ecfe425329efa051c1f52ed3a52458",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/eltonleao-happycodegames/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/eltonleao-happycodegames/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "aliases": [
+        "o monstro da preguiça"
+      ],
+      "genres": [
+        "rpg",
+        "educational"
+      ],
+      "languages": [
+        "pt"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-08",
+      "title": "UpSchool!"
+    }
   },
   {
     "id": "oblividev-subathon",
@@ -23541,7 +23614,20 @@
     "processedHeadSha": "ea9f81ff690351cafa17858310b912cd1e672058",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/SausageMania-Odd-of-Eden-Project/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/SausageMania-Odd-of-Eden-Project/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg"
+      ],
+      "languages": [
+        "ko"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-08"
+    }
   },
   {
     "id": "0x736f6d657468696e67-new-layers",
@@ -24812,7 +24898,14 @@
     "sourceRepo": "NASHKITWO/OniSan",
     "sourceDefaultBranch": "main",
     "sourceHeadSha": "234dff96c0a5a97821264a3294105ad305cee14e",
-    "processedHeadSha": "6a092e36820d9b2007389823c236199516448091"
+    "processedHeadSha": "6a092e36820d9b2007389823c236199516448091",
+    "meta": {
+      "nsfw": false,
+      "playable": false,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-08"
+    }
   },
   {
     "id": "erizki0712-onl-mv",
@@ -24839,7 +24932,21 @@
     "processedHeadSha": "a75d6fd86bcf1c733dd847e726cc5691ba470e24",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/Erizki0712-ONL-MV/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/Erizki0712-ONL-MV/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg"
+      ],
+      "languages": [
+        "en",
+        "id"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-08"
+    }
   },
   {
     "id": "bthibaut-rpgmserver",
@@ -24937,7 +25044,21 @@
     "processedHeadSha": "b1b50a1e14eea53cfc374bbc76c6536158b9dfe9",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/kayaphilliaiac-orangeblood/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/kayaphilliaiac-orangeblood/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg",
+        "sci-fi"
+      ],
+      "languages": [
+        "en"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 7,
+      "rating": 7,
+      "reviewedAt": "2026-11-08"
+    }
   },
   {
     "id": "tiny-country-games-orthographic",
@@ -24999,7 +25120,20 @@
     "processedHeadSha": "b6f29042dea975c8b31b302ea333b5fcd901f9d4",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/jpmendezf-osianndventures/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/jpmendezf-osianndventures/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg"
+      ],
+      "languages": [
+        "en"
+      ],
+      "nsfw": false,
+      "playable": false,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-08"
+    }
   },
   {
     "id": "beatrizminoura-cmyk-ossos-do-oficio",
@@ -25026,7 +25160,21 @@
     "processedHeadSha": "d6aa162b831ee1aab3539cb4ef7c523254e7691f",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/beatrizminoura-cmyk-ossos-do-oficio/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/beatrizminoura-cmyk-ossos-do-oficio/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "adventure",
+        "educational"
+      ],
+      "languages": [
+        "pt"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-08"
+    }
   },
   {
     "id": "navdeep5-navdeep5-github-io",
@@ -25135,7 +25283,20 @@
     "processedHeadSha": "4d8fcaf70892d82d1b1f1a57a2f4205e6ee83049",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/Andaroth-anda.ninja/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/Andaroth-anda.ninja/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "minigame"
+      ],
+      "languages": [
+        "fr"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-08"
+    }
   },
   {
     "id": "harleythetech-capstone-ppv2",
@@ -25180,7 +25341,22 @@
     "coverPath": "cover.png",
     "cover": "https://webrpg.org/Harleythetech-CAPSTONE_PPV2/cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/Harleythetech-CAPSTONE_PPV2/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/Harleythetech-CAPSTONE_PPV2/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg",
+        "educational"
+      ],
+      "languages": [
+        "en",
+        "tl"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-08"
+    }
   },
   {
     "id": "cizz22-rpgmaker",
@@ -25207,7 +25383,20 @@
     "sourceHeadSha": "209853276c2820f0aa3039a31d40e5b41b72a20e",
     "processedHeadSha": "0d4eaac5dc6ccf7db497ed32f018bd7be7b06f6b",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/Cizz22-rpgmaker/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/Cizz22-rpgmaker/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg"
+      ],
+      "languages": [
+        "en"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-08"
+    }
   },
   {
     "id": "binkalogi-pantiesia1-0",
@@ -25234,7 +25423,14 @@
     "processedHeadSha": "2111714ad64c8d38e2199193ede2a46e72058129",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/binkalogi-pantiesia1.0/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/binkalogi-pantiesia1.0/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "nsfw": false,
+      "playable": false,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-08"
+    }
   },
   {
     "id": "druxpp-parallelsouls-github-io",
@@ -25279,7 +25475,22 @@
     "sourceHeadSha": "af3b0f76ac5b3cc59ebcab17c020958c7d06c79d",
     "processedHeadSha": "dce0b7d9303211da79fbebc6350d418be6b71875",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/H3yko-Loop_Medieval/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/H3yko-Loop_Medieval/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg",
+        "fantasy"
+      ],
+      "languages": [
+        "pt"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-08",
+      "title": "Loop Medieval"
+    }
   },
   {
     "id": "u-k-l-contentsupportexamples",
@@ -25375,7 +25586,14 @@
     "sourceHeadSha": "e2f166dd68137c3b96711233242fa525c0a1fe6a",
     "processedHeadSha": "10bd57d3ea72bd1b646053341690848dcca2ca09",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/wfay42-enemy-corruption/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/wfay42-enemy-corruption/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "nsfw": false,
+      "playable": false,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-08"
+    }
   },
   {
     "id": "hectovargas-repositoriozelda",
@@ -25470,7 +25688,20 @@
     "processedHeadSha": "602420cbaeac5cfede708945322ef0834a5c240d",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/SaiTsuki-GameDesign/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/SaiTsuki-GameDesign/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg"
+      ],
+      "languages": [
+        "en"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-08"
+    }
   },
   {
     "id": "laferu-platina-the-wolf",
@@ -25515,7 +25746,21 @@
     "processedHeadSha": "4e7bf139f46026f02d776532683c58ffd20d399d",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/Laferu-Platina-the-Wolf-and-the-Heir-of-Light/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/Laferu-Platina-the-Wolf-and-the-Heir-of-Light/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg",
+        "fantasy"
+      ],
+      "languages": [
+        "pt"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-08"
+    }
   },
   {
     "id": "henkigames-henkigames-github-io",
@@ -25542,7 +25787,20 @@
     "sourceHeadSha": "5a5dcb44175d572f8093c4c22632a28c9cb2e14e",
     "processedHeadSha": "a08040687ecc0e388eb81cd22c30398361b31331",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/HenkiGames-henkigames.github.io/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/HenkiGames-henkigames.github.io/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg"
+      ],
+      "languages": [
+        "fr"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 3,
+      "rating": 5,
+      "reviewedAt": "2026-11-08"
+    }
   },
   {
     "id": "pokemon-essentials-pokemon-essentials",
