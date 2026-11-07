@@ -6471,7 +6471,20 @@
     "sourceHeadSha": "0b856a0994a880664d6064231686bc6f407c58b2",
     "processedHeadSha": "b95f4eb9d455be4b8ed045251ea31f67e92bb6d0",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/William-52021008-RPG-WHW/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/William-52021008-RPG-WHW/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg"
+      ],
+      "languages": [
+        "en"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "wongcyrus-azure-isekai",
@@ -6498,7 +6511,21 @@
     "processedHeadSha": "744dd5370034715ee1242306f3301207df7682f4",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/wongcyrus-azure-isekai/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/wongcyrus-azure-isekai/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg",
+        "fantasy"
+      ],
+      "languages": [
+        "en"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "ff-net-xyz",
@@ -6525,7 +6552,21 @@
     "sourceHeadSha": "d660ac062bdfe023ff1ef17395ef85dff5eda575",
     "processedHeadSha": "e5b52ea517ae99eda5ef7fd23e3f697f3a749e94",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/FF-NET-XYZ/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/FF-NET-XYZ/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "adventure"
+      ],
+      "languages": [
+        "ko"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07",
+      "title": "b35 테스트"
+    }
   },
   {
     "id": "mikanhako1024-rpgmaker-is-you",
@@ -6552,7 +6593,21 @@
     "processedHeadSha": "c9dcaa040362565ae657f15fddd33413398c7f23",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/MikanHako1024-RpgMaker-is-you/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/MikanHako1024-RpgMaker-is-you/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "puzzle"
+      ],
+      "languages": [
+        "zh-Hans",
+        "en"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "victor-vd-babassu",
@@ -6579,7 +6634,20 @@
     "processedHeadSha": "df665542d93c4353d0459a58153a4c7b75439ac2",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/victor-vd-babassu/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/victor-vd-babassu/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg"
+      ],
+      "languages": [
+        "en"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "tw123777tw-badstatusdr",
@@ -6625,7 +6693,21 @@
     "sourceHeadSha": "b361fe1a6b5311e3d6604fbd68ce5bf76d4f75ae",
     "processedHeadSha": "be30e5cb1ba1f3d350bf259c083889a5c0c829ba",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/GenGames-66JamSubmissions/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/GenGames-66JamSubmissions/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg",
+        "comedy"
+      ],
+      "languages": [
+        "en"
+      ],
+      "nsfw": false,
+      "playable": false,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "maxwin-studios-balintataw",
@@ -6652,7 +6734,17 @@
     "processedHeadSha": "c02071236bb80db378f63fbdc449297b3d0770e2",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/MaxWin-Studios-balintataw/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/MaxWin-Studios-balintataw/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg"
+      ],
+      "nsfw": false,
+      "playable": false,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "paldogies-ai-balintataw",
@@ -6797,7 +6889,20 @@
     "processedHeadSha": "988a572100b514d5a4f6457a03517801365221d3",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/avery-pierce-averypierce.me/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/avery-pierce-averypierce.me/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg"
+      ],
+      "languages": [
+        "en"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "savesub-bathroommaze-en",
@@ -6906,7 +7011,21 @@
     "processedHeadSha": "5ae736841b0c54981c74f7dfcfeb0a9f054267b5",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/didgogns-MineHero/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/didgogns-MineHero/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "puzzle",
+        "fantasy"
+      ],
+      "languages": [
+        "en"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "diegoliveros-diegoliveros-github-io",
@@ -6933,7 +7052,21 @@
     "processedHeadSha": "271191d319fa95e7abcf4db0c88b2422f9f7327b",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/DiegOliveros-diegoliveros.github.io/game.html served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/DiegOliveros-diegoliveros.github.io/game.html served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg",
+        "slice-of-life"
+      ],
+      "languages": [
+        "es"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "iswpoli-servicios-bibliotecarios",
@@ -6984,7 +7117,17 @@
     "sourceHeadSha": "98a4a08f8a1683963f982ab170b3db63b0d2621d",
     "processedHeadSha": "100ff0796f8ce6c4d58b79c8eeec8a6a398e410d",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/NephiGinnett-Bijou/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/NephiGinnett-Bijou/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg"
+      ],
+      "nsfw": false,
+      "playable": false,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "salaxios-sonar-js",
@@ -7011,7 +7154,18 @@
     "sourceHeadSha": "66c9df05d599ac20e2c9219dca729490c11d1cbc",
     "processedHeadSha": "c50a31b33e27ca6249ff550395157720de161ce8",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/salaxios-Sonar.js/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/salaxios-Sonar.js/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "template"
+      ],
+      "languages": [
+        "en"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "totally-a-real-scripter-games",
@@ -8242,7 +8396,20 @@
     "sourceHeadSha": "176e9b50908d07f75f97e85cd9f2a958c48019a4",
     "processedHeadSha": "8f86136c430f2fea6d814c3e16c53f338805f3fa",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/jhadden25-BrandedShadow/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/jhadden25-BrandedShadow/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg"
+      ],
+      "languages": [
+        "en"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "apress-beg-rpg-maker-mv",
@@ -8293,7 +8460,22 @@
     "sourceHeadSha": "658992813a71ca315a55ee3a95eda47d66f36f67",
     "processedHeadSha": "709e481807033c388d9f0dd4bc4e82f52a6c3439",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/EC-Developer-Hub-broadwayyyy/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/EC-Developer-Hub-broadwayyyy/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg",
+        "slice-of-life"
+      ],
+      "languages": [
+        "en"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07",
+      "title": "SEMESTER SURVIVAL"
+    }
   },
   {
     "id": "frogfrogforg-c0llage",
@@ -8318,7 +8500,21 @@
     "sourceHeadSha": "dc51a236f79a7c66846ced6c0385b4f4f2bad924",
     "processedHeadSha": "a47b055a04197e1535611b76537d904e6a94e879",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/frogfrogforg-c0llage/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/frogfrogforg-c0llage/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg",
+        "comedy"
+      ],
+      "languages": [
+        "en"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "azurealexis-animasola-bb",
@@ -8343,7 +8539,21 @@
     "sourceHeadSha": "42aaf0c45048458a13800de89fe33bb2b1a92225",
     "processedHeadSha": "28af1a1e497d369f6ebf4f7d07bd5021ea65c341",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/AzureAlexis-AnimaSola-BB/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/AzureAlexis-AnimaSola-BB/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg",
+        "drama"
+      ],
+      "languages": [
+        "en"
+      ],
+      "nsfw": false,
+      "playable": false,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "danh295-bromden-of-the-ward",
@@ -8370,7 +8580,22 @@
     "sourceHeadSha": "f6587ffdb401f34836ba265705c9a13d9fe5832a",
     "processedHeadSha": "bbd2826ed4980a01103eb9663e56ec26ab410bed",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/Danh295-Bromden-of-The-Ward/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/Danh295-Bromden-of-The-Ward/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg",
+        "horror",
+        "drama"
+      ],
+      "languages": [
+        "en"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "bundtologist-rpgmaker",
@@ -8397,7 +8622,20 @@
     "processedHeadSha": "22de3c12bd976df8a72e1be5d7ba9382dbbe2282",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/Bundtologist-rpgmaker/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/Bundtologist-rpgmaker/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg"
+      ],
+      "languages": [
+        "en"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "hashakgik-bullethell-rmmv",
@@ -8424,7 +8662,19 @@
     "processedHeadSha": "069940f25f402823e1fb2a3ed4868e14f475d5b4",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/HashakGik-BulletHell-RMMV/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/HashakGik-BulletHell-RMMV/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "template"
+      ],
+      "languages": [
+        "en",
+        "it"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "choyoru-bunny-and-space-dungeons",
@@ -8451,7 +8701,21 @@
     "processedHeadSha": "f6834f580cda503f7375563dd9cfa83e2873efa6",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/Choyoru-Bunny-and-space-dungeons/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/Choyoru-Bunny-and-space-dungeons/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg",
+        "sci-fi"
+      ],
+      "languages": [
+        "en"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "edneyreis999-jonny",
