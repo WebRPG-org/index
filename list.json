@@ -14487,7 +14487,20 @@
     "sourceHeadSha": "70262008fed75a27b2ea09e27ecade9fa10f4a19",
     "processedHeadSha": "4b71291cc6cc7f2e210af18007322249f794f87b",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/Liuyikui-RPGMAKER-FD1.1/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/Liuyikui-RPGMAKER-FD1.1/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg"
+      ],
+      "languages": [
+        "en"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "apollovy-fear-and-hunger",
@@ -14985,7 +14998,18 @@
     "dataSize": 5008062,
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/paisuygoda-ff5likedata/ served an RPG Maker entry point and its startup resources",
-    "processedHeadSha": "460e5ae12fb7d6365a1e74d409df26b48ccaa7b2"
+    "processedHeadSha": "460e5ae12fb7d6365a1e74d409df26b48ccaa7b2",
+    "meta": {
+      "genres": [
+        "rpg",
+        "fantasy"
+      ],
+      "nsfw": false,
+      "playable": false,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "drwhomust-fightinggame",
@@ -15012,7 +15036,17 @@
     "sourceHeadSha": "56086c31182a23ecfa20b4e43e59eea6689e0712",
     "processedHeadSha": "0ae666ef8e4bae2fb06cea9d7c6c6595e0b21cab",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/Drwhomust-fightinggame/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/Drwhomust-fightinggame/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "lovehina13-finalsymphonia",
@@ -15063,7 +15097,20 @@
     "sourceHeadSha": "cad2b93d8f9485a229c1293a5e71952646fc27ca",
     "processedHeadSha": "ba7f0b54194a6a271c559a1fa78876c3ce347ffc",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/df478-Fire-And-Root/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/df478-Fire-And-Root/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg"
+      ],
+      "languages": [
+        "es"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "sombriks-foo-bar-tales",
@@ -15090,7 +15137,18 @@
     "processedHeadSha": "f490abfe7bf3b575b4439568baf321a6dafe2317",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/sombriks-foo-bar-tales/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/sombriks-foo-bar-tales/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "template"
+      ],
+      "languages": [
+        "pt"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "sity06-for-the-world-updated",
@@ -15115,7 +15173,20 @@
     "sourceHeadSha": "89112b6fb513b3c82363d19ed86c0d3d2a5db4f2",
     "processedHeadSha": "db404e92893df06d86edbb8ec977bac0c1e43fd1",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/sity06-for-the-world-updated/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/sity06-for-the-world-updated/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg"
+      ],
+      "languages": [
+        "en"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "manndevani-forgotten-weekend-dev",
@@ -15142,7 +15213,20 @@
     "sourceHeadSha": "675bbef8c9d6fcdce972f14d9237d527cf111c29",
     "processedHeadSha": "b49843eec77dc1231f9b4d1d04bbf42d40e5d884",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/manndevani-Forgotten-Weekend-DEV/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/manndevani-Forgotten-Weekend-DEV/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg"
+      ],
+      "languages": [
+        "en"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "helisoya-fouziquest2",
@@ -15169,7 +15253,21 @@
     "sourceHeadSha": "36bf391242d44a111218f1a30b3b9492c6d93d1f",
     "processedHeadSha": "3a0476f0f55fbd53040d5fe2a774a341f2bb3198",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/helisoya-FouziQuest2/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/helisoya-FouziQuest2/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg",
+        "comedy"
+      ],
+      "languages": [
+        "fr"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 3,
+      "rating": 6,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "proximitigames-frayedsystem",
@@ -15278,7 +15376,18 @@
     "processedHeadSha": "7d864b9cc075845c47a6a98bef0f8504d4cde3af",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/hellowin-freerun/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/hellowin-freerun/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "template"
+      ],
+      "languages": [
+        "en"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "safejoy-15-gay-launcher",
@@ -15327,7 +15436,20 @@
     "processedHeadSha": "6e8e786ffab59977b7da57f172e2d0a474075cc9",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/feilongproject-Fubuki-H-Game/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/feilongproject-Fubuki-H-Game/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg"
+      ],
+      "languages": [
+        "zh-Hant"
+      ],
+      "nsfw": true,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "unbl0ckedz0ne-ubassets",
@@ -15391,7 +15513,18 @@
     "sourceHeadSha": "431ccec373fcf1a93131cb9f8326ca5a7fabe073",
     "processedHeadSha": "0dd959dd19a87728e1a4acc26e4a89392c295130",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/AltanTuran-Protocol-Takeover/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/AltanTuran-Protocol-Takeover/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg",
+        "sci-fi"
+      ],
+      "nsfw": false,
+      "playable": false,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "enclaireee-spacegame",
@@ -15595,7 +15728,20 @@
     "sourceHeadSha": "5c8894ed2548b28c23f4225c2aa409b7742c6d4f",
     "processedHeadSha": "bba702e7122ed92c31e506b2cee6be3a9d55e78c",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/h0ngliangli-Game-Name/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/h0ngliangli-Game-Name/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg"
+      ],
+      "languages": [
+        "en"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "fangbruce-rpg-game1",
@@ -15622,7 +15768,20 @@
     "processedHeadSha": "9dd0ef54d06a739061ee8c35b32d0f4f62967cb0",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/FangBruce-RPG_game1/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/FangBruce-RPG_game1/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg"
+      ],
+      "languages": [
+        "zh-Hant"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "alphinbijeesh-test-version",
@@ -15649,7 +15808,18 @@
     "processedHeadSha": "0aa5974393ac26bd2c6bf5902331f80cb59f27ad",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/AlphinBijeesh-test_version/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/AlphinBijeesh-test_version/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "template"
+      ],
+      "languages": [
+        "en"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "yancharkin-game-jams",
@@ -15676,7 +15846,19 @@
     "sourceHeadSha": "a3c3ec739071ca285045025f9b619d17877a7193",
     "processedHeadSha": "1a1211f454c379e007ed36844cc32d8500723336",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/yancharkin-game_jams/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/yancharkin-game_jams/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "adventure",
+        "comedy"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 3,
+      "rating": 5,
+      "reviewedAt": "2026-11-07",
+      "title": "HP Bar"
+    }
   },
   {
     "id": "isuncy-rpgmakermv-tasksystem-plugins",
@@ -15738,7 +15920,20 @@
     "processedHeadSha": "d6e455daa8d3ed1b7308b2fb8c8f702d076949b6",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/ISMAILABDURRAHIMNF-gangster_jakarta/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/ISMAILABDURRAHIMNF-gangster_jakarta/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg"
+      ],
+      "languages": [
+        "id"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "pipakin-gdg-gcf-talk",
@@ -15765,7 +15960,18 @@
     "processedHeadSha": "309d57656b33b2ff350290779649b5834c0abf33",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/pipakin-GDG-GCF-Talk/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/pipakin-GDG-GCF-Talk/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "template"
+      ],
+      "languages": [
+        "en"
+      ],
+      "nsfw": false,
+      "playable": false,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "ratchetgame-ratchetgame-github-io",
@@ -15816,7 +16022,20 @@
     "processedHeadSha": "f26bba2b1d9047de6d2cfa341e118b83b5273a76",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/Brand24376-Brand24376.github.io/game.html served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/Brand24376-Brand24376.github.io/game.html served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg"
+      ],
+      "languages": [
+        "en"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "wasipo09-getschooled-alpha-1",
@@ -15841,7 +16060,20 @@
     "sourceHeadSha": "0506b7aa5758d767426671f89e0357978187e90b",
     "processedHeadSha": "cd1045f2b5d03f680135499deee8f0baafc2e082",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/wasipo09-getschooled-alpha-1/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/wasipo09-getschooled-alpha-1/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "adventure"
+      ],
+      "languages": [
+        "en"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07"
+    }
   },
   {
     "id": "isobe26505-isobe26505-github-io",
@@ -15948,7 +16180,21 @@
     "sourceHeadSha": "59bac03c9eef5ea7d075b9be8d0c8fd87db57447",
     "processedHeadSha": "45fd3df9120d460897d872476e7fa2f111146fae",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/Talon24229-Talon24229.github.io/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/Talon24229-Talon24229.github.io/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg"
+      ],
+      "languages": [
+        "en"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-07",
+      "title": "Gat2choool2: Electric Bugaloo"
+    }
   },
   {
     "id": "hayde26904-hayde26904-github-io",
