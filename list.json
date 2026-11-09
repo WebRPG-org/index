@@ -19951,6 +19951,19 @@
     }
   },
   {
+    "id": "juanipis-neoclasicismo",
+    "title": "La leyenda de Harold",
+    "repo": "https://github.com/Juanipis/Neoclasicismo",
+    "owner": "Juanipis",
+    "name": "Neoclasicismo",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "discoveredAt": "2026-11-09T10:55:44.291Z",
+    "source": "github-code-search",
+    "sourcePath": "index.html",
+    "plannedForkName": "Juanipis-Neoclasicismo"
+  },
+  {
     "id": "kaotickj-labyrinth",
     "title": "Labyrinth | The Adventures of Jaida | A Turn-Based Strategy RPG",
     "repo": "https://github.com/kaotickj/Labyrinth",
