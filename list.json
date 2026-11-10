@@ -8096,6 +8096,19 @@
     "invalidReason": "Repository has 1722 HTML files, exceeding the 500 file limit."
   },
   {
+    "id": "realomlit-bananaos",
+    "title": "BLOODMONEY!",
+    "repo": "https://github.com/RealOmlit/BananaOS",
+    "owner": "RealOmlit",
+    "name": "BananaOS",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "discoveredAt": "2026-11-10T06:02:00.404Z",
+    "source": "github-code-search",
+    "sourcePath": "html-main/454-f.html",
+    "plannedForkName": "RealOmlit-BananaOS"
+  },
+  {
     "id": "rosinxsosa-rosin",
     "title": "BLOODMONEY!",
     "repo": "https://github.com/rosinxsosa/rosin",
