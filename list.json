@@ -9790,6 +9790,19 @@
     "validationScore": 45
   },
   {
+    "id": "darby9123-arch-lolite-os",
+    "title": "Cold Front",
+    "repo": "https://github.com/darby9123-arch/Lolite-OS",
+    "owner": "darby9123-arch",
+    "name": "Lolite-OS",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "discoveredAt": "2026-11-11T04:50:14.705Z",
+    "source": "github-code-search",
+    "sourcePath": "html games/ugs/clcoldfront.html",
+    "plannedForkName": "darby9123-arch-Lolite-OS"
+  },
+  {
     "id": "nethywy-ui-ugs-singlefile",
     "title": "Cold Front",
     "repo": "https://github.com/Nethywy-ui/ugs-singlefile",
