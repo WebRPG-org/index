@@ -34429,7 +34429,20 @@
     "sourceHeadSha": "6b0db05e3b1749f60e25295c2f01dfa792a1e22b",
     "processedHeadSha": "17815282780105fd88c0600d88b09ecaa55a99d6",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/jdrevets-afk-Kenshen/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/jdrevets-afk-Kenshen/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg"
+      ],
+      "languages": [
+        "en"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-12"
+    }
   },
   {
     "id": "anqui3tas-fiesta-rpg",
@@ -34474,7 +34487,20 @@
     "processedHeadSha": "3807cf47c15399fc124c82c128d8a6a010262912",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/BintangFauzan-The-Letter/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/BintangFauzan-The-Letter/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg"
+      ],
+      "languages": [
+        "id"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-12"
+    }
   },
   {
     "id": "cppiod-eagle-s-crossing",
@@ -34501,7 +34527,20 @@
     "processedHeadSha": "7416689286f097b4b902cbc406603270d8fd0238",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/cppiod-Eagle-s-Crossing/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/cppiod-Eagle-s-Crossing/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg"
+      ],
+      "languages": [
+        "en"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-12"
+    }
   },
   {
     "id": "shivanshs9-mmorpg-tlo",
@@ -34576,7 +34615,20 @@
     "processedHeadSha": "715a36697acd275e248f39114b2870f4a52a87d6",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/Polatrite-TheMindsEyeRPG/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/Polatrite-TheMindsEyeRPG/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg"
+      ],
+      "languages": [
+        "en"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-12"
+    }
   },
   {
     "id": "cloudxtreme-the-nights-watch",
@@ -34603,7 +34655,20 @@
     "processedHeadSha": "99ff1d7cd4cb0440ff2019fea70c17eff80b5b6d",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/Cloudxtreme-The-Nights-Watch/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/Cloudxtreme-The-Nights-Watch/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg"
+      ],
+      "languages": [
+        "en"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-12"
+    }
   },
   {
     "id": "vivekmedepalli-threedungeonsneakpeak-ver-2",
@@ -34630,7 +34695,20 @@
     "processedHeadSha": "f4630aeeaeeb51f25de7c43a751f2a121e9acb3f",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/vivekmedepalli-ThreeDungeonSneakPeak_Ver.2/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/vivekmedepalli-ThreeDungeonSneakPeak_Ver.2/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg"
+      ],
+      "languages": [
+        "en"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-12"
+    }
   },
   {
     "id": "somewhatcold-ocadgame",
@@ -34657,7 +34735,14 @@
     "sourceHeadSha": "019571597b5f29e3aa1cef5ba87b0107d2847cdd",
     "processedHeadSha": "6c3422e6d1ed846757887c5b6a4ab4cbbd513947",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/somewhatcold-OCADgame/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/somewhatcold-OCADgame/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "nsfw": false,
+      "playable": false,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-12"
+    }
   },
   {
     "id": "enigmadragons-theshutdown",
@@ -34684,7 +34769,20 @@
     "processedHeadSha": "4c4ea6324c640a774b0139f22a5eb7cad9bbb856",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/EnigmaDragons-TheShutdown/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/EnigmaDragons-TheShutdown/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg"
+      ],
+      "languages": [
+        "en"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-12"
+    }
   },
   {
     "id": "miguelc5172-the-tower",
@@ -34711,7 +34809,20 @@
     "processedHeadSha": "f1d4a98c66e0d09b6a701dc88ff2801eb08d7038",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/miguelc5172-The-Tower/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/miguelc5172-The-Tower/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg"
+      ],
+      "languages": [
+        "en"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-12"
+    }
   },
   {
     "id": "apotb-the-trail",
@@ -34736,7 +34847,14 @@
     "sourceHeadSha": "9047f4aa6bf662719fa15b5d9fd0393111ea75da",
     "processedHeadSha": "e943804eb17ac658cdbe262bf87c0637be9bac1f",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/apotb-the-trail/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/apotb-the-trail/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "nsfw": false,
+      "playable": false,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-12"
+    }
   },
   {
     "id": "patrick-ayo-misinformation-game",
@@ -34763,7 +34881,21 @@
     "processedHeadSha": "9ed164351804f9daf1c23661ba145defa673b46a",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/Patrick-ayo-MISINFORMATION-GAME/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/Patrick-ayo-MISINFORMATION-GAME/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg",
+        "educational"
+      ],
+      "languages": [
+        "en"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-12"
+    }
   },
   {
     "id": "patrick-ayo-mumbai-hacks",
@@ -34814,7 +34946,21 @@
     "processedHeadSha": "8450a29682f79e01d512236bdf57d26c3f56cc8b",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/st651102064101-design-The-game-The-Late-Riser/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/st651102064101-design-The-game-The-Late-Riser/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "aliases": [
+        "The Late-Riser"
+      ],
+      "languages": [
+        "th"
+      ],
+      "nsfw": false,
+      "playable": false,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-12",
+      "title": "ไอหนุ่มตื่นสาย"
+    }
   },
   {
     "id": "thomassuu-the-others",
@@ -34841,7 +34987,14 @@
     "sourceHeadSha": "29b625a70d1d4f189814b41ca44112415e702b94",
     "processedHeadSha": "5ae73562612d836729800298c42897c43c89a550",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/thomassuu-The-Others/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/thomassuu-The-Others/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "nsfw": false,
+      "playable": false,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-12"
+    }
   },
   {
     "id": "ian2a-yyybd",
@@ -34868,7 +35021,14 @@
     "sourceHeadSha": "473a50aec3afbc118b7832da51835383722d72d5",
     "processedHeadSha": "23e868cc0f333130dbaf7a32b707ca37cfed1dae",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/ian2a-yyybd/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/ian2a-yyybd/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "nsfw": false,
+      "playable": false,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-12"
+    }
   },
   {
     "id": "stebpleb-thisisnicegame",
@@ -34895,7 +35055,17 @@
     "processedHeadSha": "d1b9323e3a9bb04d185300a130d2376aecb172db",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/StebPleb-ThisIsNiceGame/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/StebPleb-ThisIsNiceGame/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "languages": [
+        "en"
+      ],
+      "nsfw": false,
+      "playable": false,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-12"
+    }
   },
   {
     "id": "tklninja-timbrowser",
@@ -34975,7 +35145,20 @@
     "sourceHeadSha": "c02586107e12bbec589de09e02692b289297b2e5",
     "processedHeadSha": "df64c379a0fe8c2eab8b2f59a93be018387e4af3",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/Martinetto33-To-Glory/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/Martinetto33-To-Glory/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg"
+      ],
+      "languages": [
+        "en"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-12"
+    }
   },
   {
     "id": "tyllastarr-ld46",
@@ -35002,7 +35185,20 @@
     "processedHeadSha": "410311949d711fa7756de74b739151cb1b99b6a5",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/tyllastarr-ld46/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/tyllastarr-ld46/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg"
+      ],
+      "languages": [
+        "en"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-12"
+    }
   },
   {
     "id": "boolaw-tombofhorrors",
@@ -35053,7 +35249,20 @@
     "processedHeadSha": "b41b17f7c974dec121e7fd33cc2a901bbbc267ba",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/IkuTronHD-Touhou-Era/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/IkuTronHD-Touhou-Era/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg"
+      ],
+      "languages": [
+        "es"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-12"
+    }
   },
   {
     "id": "weepingwitch-weepingwitch-github-io",
@@ -35078,7 +35287,14 @@
     "sourceHeadSha": "e9994d6b379955efb799edf21a1a64d964f518d4",
     "processedHeadSha": "a7d3eafe0f95906edf626950f227c8c9cad81cfb",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/weepingwitch-weepingwitch.github.io/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/weepingwitch-weepingwitch.github.io/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "nsfw": false,
+      "playable": false,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-12"
+    }
   },
   {
     "id": "tnguy510-split-4",
@@ -35105,7 +35321,21 @@
     "processedHeadSha": "53e438ca6f23bc770377c98a58c5c17f2a369817",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/tnguy510-Split-4/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/tnguy510-Split-4/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "adventure",
+        "horror"
+      ],
+      "languages": [
+        "en"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-12"
+    }
   },
   {
     "id": "newtranslator007-rgb-trench-face-thai-patch",
