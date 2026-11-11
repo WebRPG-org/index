@@ -30698,7 +30698,21 @@
     "sourceHeadSha": "126e962d687d45493cabf789c81d1d8284f1ca02",
     "processedHeadSha": "9eb341ed03121b274817a89a8545e00644bfbc6e",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/kelvintaco-gamedevrpg/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/kelvintaco-gamedevrpg/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg",
+        "slice-of-life"
+      ],
+      "languages": [
+        "en"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-12"
+    }
   },
   {
     "id": "jsnb21-sci-high-rmmv",
@@ -30740,7 +30754,21 @@
     "coverPath": "cover.png",
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/jsnb21-SCI-HIGH_WEBSITE/ served an RPG Maker entry point and its startup resources",
-    "processedHeadSha": "bfaf12ab0b9f174d54c8422e0aec4ab942237c08"
+    "processedHeadSha": "bfaf12ab0b9f174d54c8422e0aec4ab942237c08",
+    "meta": {
+      "genres": [
+        "rpg",
+        "educational"
+      ],
+      "languages": [
+        "en"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-12"
+    }
   },
   {
     "id": "kimhanwol-rpgmaker-projectsu",
@@ -30767,7 +30795,18 @@
     "processedHeadSha": "a103e3965f094c461b14881dac2857dba162d713",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/KimHanWol-RPGMaker-ProjectSU/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/KimHanWol-RPGMaker-ProjectSU/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "template"
+      ],
+      "languages": [
+        "ko"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "reviewedAt": "2026-11-12"
+    }
   },
   {
     "id": "fcv17-secret-gpt",
@@ -30794,7 +30833,21 @@
     "sourceHeadSha": "3fbe5741d714acd0ea91e4afc2d0e92b6053d639",
     "processedHeadSha": "305564db06f3614297b986d7ad999d04ecbf495a",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/FCV17-secret-gpt/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/FCV17-secret-gpt/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg",
+        "mystery"
+      ],
+      "languages": [
+        "en"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-12"
+    }
   },
   {
     "id": "zkrejcov-rmmv-plugins",
@@ -30856,7 +30909,22 @@
     "sourceHeadSha": "1bb8f98a2f418d82253428c802fcb3f2b64d2ade",
     "processedHeadSha": "b9c3f0cb4c422610124dd6f4a1ce13b030cddba5",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/tcc-Iago-Lucas-game/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/tcc-Iago-Lucas-game/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg",
+        "slice-of-life"
+      ],
+      "languages": [
+        "pt"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-12",
+      "title": "Noob Security"
+    }
   },
   {
     "id": "ec-developer-hub-virusssss",
@@ -30883,7 +30951,21 @@
     "processedHeadSha": "76a510dbcabec45bc168204f045568baf7f095a5",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/EC-Developer-Hub-virusssss/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/EC-Developer-Hub-virusssss/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg",
+        "slice-of-life"
+      ],
+      "languages": [
+        "en"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-12"
+    }
   },
   {
     "id": "altrisk-altrisk-github-io",
@@ -31106,7 +31188,21 @@
     "processedHeadSha": "58501c553766a23fe66c74bf983fe2bc23c43feb",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/blixuk-settelment/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/blixuk-settelment/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "simulation"
+      ],
+      "languages": [
+        "en"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-12",
+      "title": "Settelment!"
+    }
   },
   {
     "id": "arturllvale-esarmmv",
@@ -31133,7 +31229,15 @@
     "processedHeadSha": "cfb06c9733e9254da3511560775ac913f96566f4",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/ArturllVale-esarmmv/game.html served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/ArturllVale-esarmmv/game.html served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "template"
+      ],
+      "nsfw": false,
+      "playable": false,
+      "reviewedAt": "2026-11-12"
+    }
   },
   {
     "id": "jkaz1968-output",
@@ -31160,7 +31264,21 @@
     "processedHeadSha": "1af2793727f95400f3ad0a2aa8207daeed18dde2",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/jkaz1968-Output/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/jkaz1968-Output/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg",
+        "sci-fi"
+      ],
+      "languages": [
+        "en"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-12"
+    }
   },
   {
     "id": "schwarze-neko-shattered-dreams",
@@ -31187,7 +31305,21 @@
     "sourceHeadSha": "d772a7218ab9d10d5d661321d56da4d7f56d7205",
     "processedHeadSha": "8d3e5e61a847671543d0157d4f61fe137084ee28",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/Schwarze-Neko-Shattered-Dreams/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/Schwarze-Neko-Shattered-Dreams/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg",
+        "fantasy"
+      ],
+      "languages": [
+        "en"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-12"
+    }
   },
   {
     "id": "takoikatakotako-happybirthday-2018",
@@ -31214,7 +31346,22 @@
     "processedHeadSha": "b85a28f1ecce3e82f2f2dba5adcdd83991811cc1",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/takoikatakotako-HappyBirthday-2018/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/takoikatakotako-HappyBirthday-2018/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg",
+        "slice-of-life"
+      ],
+      "languages": [
+        "ja"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-12",
+      "title": "RealQuest ~真クエスト~"
+    }
   },
   {
     "id": "juaniliguere-agraria",
@@ -31241,7 +31388,18 @@
     "sourceDefaultBranch": "main",
     "sourceHeadSha": "ae92a70bfbca6ccd17b1855ff921dfcf39ff5eaa",
     "processedHeadSha": "0ec3d2823eda1d8029186cddd179382de34c8e61",
-    "syncedFromSource": true
+    "syncedFromSource": true,
+    "meta": {
+      "genres": [
+        "template"
+      ],
+      "languages": [
+        "en"
+      ],
+      "nsfw": false,
+      "playable": false,
+      "reviewedAt": "2026-11-12"
+    }
   },
   {
     "id": "ec-developer-hub-showdownnn",
@@ -31268,7 +31426,22 @@
     "sourceHeadSha": "ada12eb38140ffc4177695928acafb8d8213e9e1",
     "processedHeadSha": "7b922ad64019e56156831e5ccb4f959e753722f6",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/EC-Developer-Hub-showdownnn/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/EC-Developer-Hub-showdownnn/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg",
+        "slice-of-life"
+      ],
+      "languages": [
+        "en"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-12",
+      "title": "SEMESTER SURVIVAL"
+    }
   },
   {
     "id": "albondigaboy-juegos-creados",
@@ -31295,7 +31468,21 @@
     "processedHeadSha": "8d136b5d436fb1e6500679d9034dcbd96018492e",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/AlbondigaBoy-Juegos_creados/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/AlbondigaBoy-Juegos_creados/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg",
+        "comedy"
+      ],
+      "languages": [
+        "es"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-12"
+    }
   },
   {
     "id": "ff-net-shunjiheights",
@@ -31396,7 +31583,18 @@
     "totalSize": 882904,
     "dataSize": 674150,
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/jahmezz-20minutesgamedev/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/jahmezz-20minutesgamedev/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "template"
+      ],
+      "languages": [
+        "en"
+      ],
+      "nsfw": false,
+      "playable": false,
+      "reviewedAt": "2026-11-12"
+    }
   },
   {
     "id": "sifue-sierquest",
@@ -31420,7 +31618,21 @@
     "processedHeadSha": "9195a3fe48941e9b82a71e40843c90027e4d73f5",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/sifue-SIerQuest/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/sifue-SIerQuest/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg",
+        "slice-of-life"
+      ],
+      "languages": [
+        "ja"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 4,
+      "rating": 5,
+      "reviewedAt": "2026-11-12"
+    }
   },
   {
     "id": "deeeland0ohio-sigma-games-2ca86c86",
@@ -31480,7 +31692,15 @@
     "sourceHeadSha": "d1c295c922ab49fc930924b79c6c7e24d63681db",
     "processedHeadSha": "f2c8f94c85ef2b9d5e5df672d7e7d549b66d562b",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/biud436-CefMV/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/biud436-CefMV/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "template"
+      ],
+      "nsfw": false,
+      "playable": false,
+      "reviewedAt": "2026-11-12"
+    }
   },
   {
     "id": "overhillgames-singdemov2v12",
@@ -31547,7 +31767,22 @@
     "processedHeadSha": "6f203d84070195679be67a79f459766dd26b84f9",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/JaviSSCode-CallateKevin/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/JaviSSCode-CallateKevin/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg",
+        "comedy"
+      ],
+      "languages": [
+        "es"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-12",
+      "title": "CALLATE KEVIN"
+    }
   },
   {
     "id": "angel-a-flores-angel-flores-github-io",
@@ -31574,7 +31809,21 @@
     "sourceHeadSha": "eaef89922cf48996649bb05f38017f20028d68c0",
     "processedHeadSha": "51202c1d5e639707f4da7feb567205b78e88cad9",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/Angel-A-Flores-Angel-Flores.github.io/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/Angel-A-Flores-Angel-Flores.github.io/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg",
+        "drama"
+      ],
+      "languages": [
+        "en"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-12"
+    }
   },
   {
     "id": "givanilddo-skullseeker",
@@ -31601,7 +31850,21 @@
     "processedHeadSha": "f1d1039138ba6c37d60a44f886e62816df8db559",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/givanilddo-SkullSeeker/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/givanilddo-SkullSeeker/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg",
+        "fantasy"
+      ],
+      "languages": [
+        "pt"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-12"
+    }
   },
   {
     "id": "00due-rupuauto-game",
