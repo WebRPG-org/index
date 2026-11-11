@@ -33012,7 +33012,20 @@
     "sourceHeadSha": "e3ded53650c034431924e069dd9749bf0e5f5836",
     "processedHeadSha": "2b763c0f34d4ce04898aceda233304032622b320",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/emowbaik-project-Tefa-B/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/emowbaik-project-Tefa-B/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg"
+      ],
+      "languages": [
+        "id"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-12"
+    }
   },
   {
     "id": "synystercola-ldjam44",
@@ -33039,7 +33052,14 @@
     "processedHeadSha": "544c330b5869d2524745419f06f5cc97ea6f89e3",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/SynysterCola-ldjam44/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/SynysterCola-ldjam44/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "nsfw": false,
+      "playable": false,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-12"
+    }
   },
   {
     "id": "rtlh0-objectverse",
@@ -33066,7 +33086,20 @@
     "sourceHeadSha": "2012cf20797bc316042ea0477cc94e8c919779b9",
     "processedHeadSha": "0a28dc099667bd92bad902d400ac0c794da57697",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/rtlh0-objectverse/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/rtlh0-objectverse/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "adventure"
+      ],
+      "languages": [
+        "en"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-12"
+    }
   },
   {
     "id": "0mnipr3z-hitcraft-php-js",
@@ -33441,7 +33474,20 @@
     "sourceHeadSha": "657a03c400b50a9514d89360c895cfb7e803dd54",
     "processedHeadSha": "9ef15cf0f20eceabe70463c87edb733bc780475a",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/94entertainment-rmmv/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/94entertainment-rmmv/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "minigame"
+      ],
+      "languages": [
+        "zh-Hant"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-12"
+    }
   },
   {
     "id": "hzj199710-rpgmakerp1",
@@ -33468,7 +33514,18 @@
     "sourceHeadSha": "1c2cae76af03e2849b5a287eea44e4aef7b96853",
     "processedHeadSha": "afb079fd32512d3d73775ad6eb35957c517e8e12",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/hzj199710-rpgMakerP1/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/hzj199710-rpgMakerP1/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "template"
+      ],
+      "languages": [
+        "zh-Hans"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "reviewedAt": "2026-11-12"
+    }
   },
   {
     "id": "bigren0615-rpgmakermv-custommainmenulearning",
@@ -33495,7 +33552,18 @@
     "processedHeadSha": "6ff9f3b7aabb5f6e54d97588d832e75c355713c5",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/bigren0615-rpgMakerMV-CustomMainMenuLearning/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/bigren0615-rpgMakerMV-CustomMainMenuLearning/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "template"
+      ],
+      "languages": [
+        "zh-Hant"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "reviewedAt": "2026-11-12"
+    }
   },
   {
     "id": "samsam2310-zatho",
@@ -33520,7 +33588,14 @@
     "sourceHeadSha": "682dda48ebc8e1f39accef3c32c6ca34da026ccb",
     "processedHeadSha": "ae4673f5f61571ace42a1f2b1ce0ade347f9f68e",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/samsam2310-Zatho/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/samsam2310-Zatho/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "nsfw": false,
+      "playable": false,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-12"
+    }
   },
   {
     "id": "bywuuu-lecweb",
@@ -33547,7 +33622,18 @@
     "processedHeadSha": "dbf68b8ca82299f31bd03838026494c0f1129556",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/bywuuu-lecWeb/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/bywuuu-lecWeb/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "template"
+      ],
+      "languages": [
+        "zh-Hans"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "reviewedAt": "2026-11-12"
+    }
   },
   {
     "id": "koohdev-chronicles",
@@ -33574,7 +33660,18 @@
     "sourceHeadSha": "edb68432468bb531d4940782c8668e19c81a26f8",
     "processedHeadSha": "88e2e960d6a6d1870ead6c3fb23f457112475fc9",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/koohdev-chronicles/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/koohdev-chronicles/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "template"
+      ],
+      "languages": [
+        "en"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "reviewedAt": "2026-11-12"
+    }
   },
   {
     "id": "koohdev-chronicles-demo",
@@ -33636,7 +33733,20 @@
     "sourceHeadSha": "06e46281bcbc429f0f2f2561bd77a2e5501eedd8",
     "processedHeadSha": "9dc5a24505d790116dbcc3c622a4931f3b4087e9",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/teritaris-tenxym_en/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/teritaris-tenxym_en/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg"
+      ],
+      "languages": [
+        "en"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-12"
+    }
   },
   {
     "id": "nuyykatazou-theamazonia",
@@ -33663,7 +33773,20 @@
     "processedHeadSha": "328d083fa70cb7aed872ef158fc0a8df842ce446",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/NuyyKatazou-TheAmazonia/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/NuyyKatazou-TheAmazonia/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg"
+      ],
+      "languages": [
+        "fr"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-12"
+    }
   },
   {
     "id": "pigg0bot-s-rpgmaker-proj",
@@ -33690,7 +33813,24 @@
     "processedHeadSha": "b86b108ca401638d728f5fd9232f8944d2996f56",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/Pigg0Bot-S-rpgmaker-proj/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/Pigg0Bot-S-rpgmaker-proj/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "aliases": [
+        "The Camel's Journey"
+      ],
+      "genres": [
+        "adventure"
+      ],
+      "languages": [
+        "en"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 4,
+      "reviewedAt": "2026-11-12",
+      "title": "The Alchemist: The Game"
+    }
   },
   {
     "id": "graveyardshiftpd-tcoaar-project",
@@ -33889,7 +34029,15 @@
     "processedHeadSha": "2d9c14519a2751e459ec2677cc8bd762ceeb070c",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/PaulStubbs-TheCorporateLadder/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/PaulStubbs-TheCorporateLadder/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "template"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "reviewedAt": "2026-11-12"
+    }
   },
   {
     "id": "drclcomputers-the-curse-of-the-sceptrum",
@@ -33916,7 +34064,20 @@
     "processedHeadSha": "c86aaa1d1431f05b43c159a6a0f2ab4cef3f9975",
     "coverPath": "cover.png",
     "reachable": false,
-    "reachabilityDetail": "https://webrpg.org/drclcomputers-The-Curse-of-The-Sceptrum/js/rpg_scenes.js responded with HTTP 503"
+    "reachabilityDetail": "https://webrpg.org/drclcomputers-The-Curse-of-The-Sceptrum/js/rpg_scenes.js responded with HTTP 503",
+    "meta": {
+      "genres": [
+        "rpg"
+      ],
+      "languages": [
+        "en"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-12"
+    }
   },
   {
     "id": "dcarlin-devil-king-rpgmaker-mv-game",
@@ -33943,7 +34104,20 @@
     "processedHeadSha": "a662995d14bac26cf955002233ff0a6004b4e7b2",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/dcarlin-Devil-King-RPGMaker-MV-Game/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/dcarlin-Devil-King-RPGMaker-MV-Game/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg"
+      ],
+      "languages": [
+        "en"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-12"
+    }
   },
   {
     "id": "angeelpm-juegorpg-theesi",
@@ -34049,7 +34223,20 @@
     "processedHeadSha": "f74d1dc339c906de8fcff76faec525020bf544fd",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/discus-sions-The-Fall-PREVIEW2/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/discus-sions-The-Fall-PREVIEW2/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg"
+      ],
+      "languages": [
+        "en"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-12"
+    }
   },
   {
     "id": "reismahnic-farmhorrorgame",
@@ -34076,7 +34263,21 @@
     "processedHeadSha": "4b90b4e1e436e2fc4657b50ce92abc5331785310",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/reismahnic-FarmHorrorGame/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/reismahnic-FarmHorrorGame/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg",
+        "horror"
+      ],
+      "languages": [
+        "en"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-12"
+    }
   },
   {
     "id": "mazemakersbetsy-2023-s2",
@@ -34105,7 +34306,24 @@
     "dataSize": 772240,
     "lastCheckError": "GitHub API 403: You have exceeded a secondary rate limit. Please wait a few minutes before you try again. For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service) If you reach out to GitHub Support for help, please include the request ID BC07:257D47:5439CE5:114460F3:6AE97394.",
     "consecutiveFailures": 1,
-    "lastFailedAt": "2026-11-03T05:37:24.033Z"
+    "lastFailedAt": "2026-11-03T05:37:24.033Z",
+    "meta": {
+      "aliases": [
+        "The Great Cat Kidnapping"
+      ],
+      "genres": [
+        "puzzle"
+      ],
+      "languages": [
+        "en"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-12",
+      "title": "Puzzle Quest"
+    }
   },
   {
     "id": "jadamase-biology",
@@ -34132,7 +34350,21 @@
     "sourceHeadSha": "d4d29c4b88122b8e36d35afc8067aa57f84fbc3f",
     "processedHeadSha": "aca3ec9265a536850016a656ffd5207b3ca3a46b",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/JadaMase-Biology/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/JadaMase-Biology/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg",
+        "educational"
+      ],
+      "languages": [
+        "en"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-12"
+    }
   },
   {
     "id": "elzorno-rpgmakerlsp",
@@ -34159,7 +34391,20 @@
     "sourceHeadSha": "378713943919c2d26c8c60558ef9df6741549740",
     "processedHeadSha": "9eb0f068ba22c744ab1ee00b94772be98e3240ab",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/Elzorno-rpgmakerLSP/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/Elzorno-rpgmakerLSP/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg"
+      ],
+      "languages": [
+        "en"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-12"
+    }
   },
   {
     "id": "jdrevets-afk-kenshen",
