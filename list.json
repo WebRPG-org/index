@@ -31891,7 +31891,20 @@
     "sourceHeadSha": "39e1a35f10153f4f92e5725422316045dd72bbe5",
     "processedHeadSha": "ce5ded2775b9a9eb2721aff77caeda410f0c1cca",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/00due-rupuauto-game/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/00due-rupuauto-game/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "aliases": [
+        "Rupu Auto"
+      ],
+      "genres": [
+        "minigame"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-12"
+    }
   },
   {
     "id": "doamaster-gameoff2022tss",
@@ -31918,7 +31931,20 @@
     "processedHeadSha": "235666a7c5f3cf024172fef5ec4ab862f197bf8a",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/DOAmaster-GameOff2022TSS/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/DOAmaster-GameOff2022TSS/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "visual-novel"
+      ],
+      "languages": [
+        "en"
+      ],
+      "nsfw": true,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-12"
+    }
   },
   {
     "id": "fsworld009-rmmv-snake",
@@ -31969,7 +31995,21 @@
     "processedHeadSha": "7941dd1f143eabc6ec40962f0200b7d36e7f77e1",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/shirorimi-snipe/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/shirorimi-snipe/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg"
+      ],
+      "languages": [
+        "ja",
+        "en"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-12"
+    }
   },
   {
     "id": "melinh0-extensao2-jogo",
@@ -31996,7 +32036,21 @@
     "sourceHeadSha": "a9cebd2962fab8b1921b33fa306beb3a5a1fa642",
     "processedHeadSha": "b4e2b9853e07577be6865492701c9b199294a662",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/Melinh0-Extensao2-Jogo/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/Melinh0-Extensao2-Jogo/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "adventure",
+        "educational"
+      ],
+      "languages": [
+        "pt"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-12"
+    }
   },
   {
     "id": "miguelarcjr-sombradalua",
@@ -32023,7 +32077,21 @@
     "sourceHeadSha": "bb5897143bc38e7fadaca4f88249cda15d6b8db8",
     "processedHeadSha": "9989043d97ea322cb44b5bb3a3b50d3f97b2b417",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/miguelarcjr-sombradalua/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/miguelarcjr-sombradalua/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg",
+        "fantasy"
+      ],
+      "languages": [
+        "pt"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-12"
+    }
   },
   {
     "id": "songsongxxx-dream",
@@ -32050,7 +32118,20 @@
     "sourceHeadSha": "68755582139d4a71cffed4f34e1bdc8713d3aed6",
     "processedHeadSha": "beddbdee0ebd365c9e82a645cc42bb5d51875b3f",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/songsongxxx-dream/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/songsongxxx-dream/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "adventure"
+      ],
+      "languages": [
+        "en"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-12"
+    }
   },
   {
     "id": "caiocpassos-sorcery-of-truth",
@@ -32077,7 +32158,20 @@
     "processedHeadSha": "0ebd41eb57dabf11442109163571629c8e9b4d60",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/caiocpassos-Sorcery-of-Truth/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/caiocpassos-Sorcery-of-Truth/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg"
+      ],
+      "languages": [
+        "pt"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-12"
+    }
   },
   {
     "id": "frogboymv-health",
@@ -32104,7 +32198,15 @@
     "processedHeadSha": "b5a6518f13101c7fd1a86ca23a69f13630620b66",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/FrogboyMV-Health/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/FrogboyMV-Health/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "template"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "reviewedAt": "2026-11-12"
+    }
   },
   {
     "id": "darkusfoxis-sota-game",
@@ -32131,7 +32233,23 @@
     "sourceHeadSha": "6347203184e78ef46b82bbc4692a28d253257261",
     "processedHeadSha": "71f700d9b6a120bf9f110c5fd8d67abfaddfcead",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/DarkusFoxis-Sota_Game/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/DarkusFoxis-Sota_Game/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "aliases": [
+        "Song of the Abyss"
+      ],
+      "genres": [
+        "rpg"
+      ],
+      "languages": [
+        "ru"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-12"
+    }
   },
   {
     "id": "tklninja-spectoria-eng",
@@ -32252,7 +32370,20 @@
     "processedHeadSha": "d394182928c12ffd4596bf99e2027efcdce0f350",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/SaddlebackCSS-Parker/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/SaddlebackCSS-Parker/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "adventure"
+      ],
+      "languages": [
+        "en"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-12"
+    }
   },
   {
     "id": "inababyakko-ssplayerforrpgmv",
@@ -32300,7 +32431,20 @@
     "processedHeadSha": "e0e92a0d2d81cab50e9376c0ef3d5f808b2dc283",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/Dreafun-starcrystal/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/Dreafun-starcrystal/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg"
+      ],
+      "languages": [
+        "ru"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-12"
+    }
   },
   {
     "id": "teyplays-starfall-sanctuary",
@@ -32327,7 +32471,20 @@
     "sourceHeadSha": "7fde7886de7ffd741e622c6ccd3088b07f952ee2",
     "processedHeadSha": "f103d2e4267795a9f1524228b06c11a964277b52",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/teyplays-starfall-sanctuary/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/teyplays-starfall-sanctuary/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg"
+      ],
+      "languages": [
+        "en"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-12"
+    }
   },
   {
     "id": "jakeayy-starshift",
@@ -32372,7 +32529,17 @@
     "processedHeadSha": "50523db24f3a1dc5b52e3ea788d174418451ede4",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/Zikanforum-Stir/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/Zikanforum-Stir/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "other"
+      ],
+      "nsfw": false,
+      "playable": false,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-12"
+    }
   },
   {
     "id": "stl1988-stl1988-github-io",
@@ -32434,7 +32601,26 @@
     "processedHeadSha": "7a249a4006e4837eea8e5aef3bd3b29b58cb7e6e",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/QuantumTrolling-CursedMemory/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/QuantumTrolling-CursedMemory/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "aliases": [
+        "Story of Mirein",
+        "Cursed Memory"
+      ],
+      "genres": [
+        "visual-novel"
+      ],
+      "languages": [
+        "ru",
+        "en"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-12",
+      "title": "Cursed Memory: Story of Mirein"
+    }
   },
   {
     "id": "html-online-game-summer-memories",
@@ -32458,7 +32644,21 @@
     "dataSize": 46749866,
     "processedHeadSha": "e42ea37bbbd7206b1e03bce4549d2a927ab2bf37",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/html-online-game-summer-memories/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/html-online-game-summer-memories/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "simulation",
+        "romance"
+      ],
+      "languages": [
+        "en"
+      ],
+      "nsfw": true,
+      "playable": false,
+      "popularity": 4,
+      "rating": 5,
+      "reviewedAt": "2026-11-12"
+    }
   },
   {
     "id": "excel-magic-tech",
@@ -32485,7 +32685,21 @@
     "processedHeadSha": "21e693a77c0fdda4c36ee6528605b39ddbf10aea",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/Excel-magic-tech/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/Excel-magic-tech/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg",
+        "fantasy"
+      ],
+      "languages": [
+        "en"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-12"
+    }
   },
   {
     "id": "momoriarty-survivalgame",
@@ -32512,7 +32726,21 @@
     "processedHeadSha": "6bc79c9cf815bc81446789923856998bc4c92cf2",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/Momoriarty-SurvivalGame/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/Momoriarty-SurvivalGame/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg"
+      ],
+      "languages": [
+        "id",
+        "en"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-12"
+    }
   },
   {
     "id": "ailab-foi-svjetovi-znanja",
@@ -32539,7 +32767,21 @@
     "processedHeadSha": "e646fabf09b56b8b73337a3da602f5a0999c4bdb",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/AILab-FOI-svjetovi-znanja/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/AILab-FOI-svjetovi-znanja/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg",
+        "educational"
+      ],
+      "languages": [
+        "hr"
+      ],
+      "nsfw": false,
+      "playable": false,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-12"
+    }
   },
   {
     "id": "martinbenes-demo-taborska",
@@ -32672,7 +32914,20 @@
     "processedHeadSha": "31462391b680ff26c52b0912d691d8c61b97fd0a",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/Excel-top/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/Excel-top/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg"
+      ],
+      "languages": [
+        "en"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-12"
+    }
   },
   {
     "id": "teamcstudios-teamcstudiosadventure-exploration",
@@ -32699,7 +32954,17 @@
     "sourceHeadSha": "bd99cf14183eb29da2301f542114771310224d1f",
     "processedHeadSha": "73d8e580c9d9e4252e33133b2651229a776bbf1e",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/TeamCstudios-TeamCStudiosAdventure-Exploration/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/TeamCstudios-TeamCStudiosAdventure-Exploration/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "other"
+      ],
+      "nsfw": false,
+      "playable": false,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-12"
+    }
   },
   {
     "id": "pablotorr17-juego-itc",
