@@ -7947,6 +7947,19 @@
     "validationScore": 45
   },
   {
+    "id": "ling-ting-droid-nonchalantcalculators",
+    "title": "BLOODMONEY!",
+    "repo": "https://github.com/ling-ting-droid/NonchalantCalculators",
+    "owner": "ling-ting-droid",
+    "name": "NonchalantCalculators",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "discoveredAt": "2026-11-11T13:37:26.571Z",
+    "source": "github-code-search",
+    "sourcePath": "games/bloodmoney.html",
+    "plannedForkName": "ling-ting-droid-NonchalantCalculators"
+  },
+  {
     "id": "lloganisawsome-tac0-000",
     "title": "BLOODMONEY!",
     "repo": "https://github.com/lloganisawsome/TAC0.000",
@@ -9800,7 +9813,6 @@
     "discoveredAt": "2026-11-11T04:50:14.705Z",
     "source": "github-code-search",
     "sourcePath": "html games/ugs/clcoldfront.html",
-    "plannedForkName": "darby9123-arch-Lolite-OS",
     "checkedAt": "2026-11-11T04:59:08.967Z",
     "forkName": "darby9123-arch-Lolite-OS",
     "invalidReason": "Repository has 1309 HTML files, exceeding the 500 file limit."
