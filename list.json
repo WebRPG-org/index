@@ -36314,7 +36314,21 @@
     "sourceHeadSha": "836e5b3dc303f60f59d90d7fae826bae63e290b7",
     "processedHeadSha": "19abe965f71e8853883e4eb688c348be9e85ef1a",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/Versionaryy-versionary-game/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/Versionaryy-versionary-game/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg",
+        "educational"
+      ],
+      "languages": [
+        "pt"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 3,
+      "rating": 5,
+      "reviewedAt": "2026-11-12"
+    }
   },
   {
     "id": "nativenewengland-game",
@@ -36420,7 +36434,20 @@
     "processedHeadSha": "5b8bb942f56100fec4fca1c30e078d641a7df25d",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/MaterialRandom-ViajeTirNaNog1/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/MaterialRandom-ViajeTirNaNog1/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg"
+      ],
+      "languages": [
+        "es"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-12"
+    }
   },
   {
     "id": "hu-prts-giselle",
@@ -36578,7 +36605,20 @@
     "sourceHeadSha": "b293c1a7ae842027496de6662c097fc96c1b5e84",
     "processedHeadSha": "366dd6c18af94753d74fc8fe3aa3ec6a1f05ac3e",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/VolcaEM-volcaem.github.io/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/VolcaEM-volcaem.github.io/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg"
+      ],
+      "languages": [
+        "it"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 4,
+      "reviewedAt": "2026-11-12"
+    }
   },
   {
     "id": "ltw6610-vrpg",
@@ -36605,7 +36645,20 @@
     "sourceHeadSha": "3fc43211df299521a07ec052897828bec7559a64",
     "processedHeadSha": "3b28f9d65f6f85c95275059d6e69ded72b3a31b6",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/ltw6610-vrpg/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/ltw6610-vrpg/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg"
+      ],
+      "languages": [
+        "en"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 3,
+      "rating": 5,
+      "reviewedAt": "2026-11-12"
+    }
   },
   {
     "id": "cromewar-world-of-hackathon-wingbirds",
@@ -36632,7 +36685,25 @@
     "sourceHeadSha": "184e0bcb0c76362b70bb33ed148c43360ea6d74f",
     "processedHeadSha": "4d04ad161eb81707f1d3e1d65d0760a532fad86e",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/cromewar-World-of-Hackathon-Wingbirds/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/cromewar-World-of-Hackathon-Wingbirds/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "aliases": [
+        "W0HW: World 0-Hackathon Teambuilding Sim RPG"
+      ],
+      "genres": [
+        "simulation",
+        "educational"
+      ],
+      "languages": [
+        "en"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-12",
+      "title": "W0HW: Hackathon Teambuilding Sim RPG"
+    }
   },
   {
     "id": "ledouzy-wacchorror2",
@@ -36659,7 +36730,18 @@
     "sourceHeadSha": "cb4325cb66d2ad132b2ea2cdcb9f046348090e65",
     "processedHeadSha": "29d906216893a345fd58ac9a59b4f788abb2a298",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/Ledouzy-WaccHorror2/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/Ledouzy-WaccHorror2/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg",
+        "horror"
+      ],
+      "nsfw": false,
+      "playable": false,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-12"
+    }
   },
   {
     "id": "vladimirmarduk-wake",
@@ -36683,7 +36765,20 @@
     "coverPath": "cover.png",
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/vladimirmarduk-wake/ served an RPG Maker entry point and its startup resources",
-    "processedHeadSha": "ad1f2cbecebf566818e94a2b9df6e252bf1ee539"
+    "processedHeadSha": "ad1f2cbecebf566818e94a2b9df6e252bf1ee539",
+    "meta": {
+      "genres": [
+        "rpg"
+      ],
+      "languages": [
+        "en"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-12"
+    }
   },
   {
     "id": "darius1325-the-enemy-within",
@@ -36710,7 +36805,22 @@
     "processedHeadSha": "9b3e635567b0dc51c72d09cef9d44817ea869641",
     "coverPath": "cover.png",
     "verificationDeferred": true,
-    "syncedFromSource": true
+    "syncedFromSource": true,
+    "meta": {
+      "genres": [
+        "rpg",
+        "fantasy"
+      ],
+      "languages": [
+        "en",
+        "fr"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 3,
+      "rating": 4,
+      "reviewedAt": "2026-11-12"
+    }
   },
   {
     "id": "wasmdotrip-wasm-rip",
@@ -36754,7 +36864,17 @@
     "sourceHeadSha": "11dbea5ff7ef0f9711131353f72eeb70a3af25c2",
     "processedHeadSha": "d426577f328680dd61acdace1f4415b46ef2494c",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/aewol09-wcn/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/aewol09-wcn/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg"
+      ],
+      "nsfw": false,
+      "playable": false,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-12"
+    }
   },
   {
     "id": "juhonamnam-web-game-presentation",
@@ -36781,7 +36901,17 @@
     "sourceHeadSha": "331d4e5ea2f5001c1dfa8ce5f215c5785735465d",
     "processedHeadSha": "32fa588f667aa161b66431dd8fc279af75c5a9c8",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/juhonamnam-web-game-presentation/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/juhonamnam-web-game-presentation/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg"
+      ],
+      "nsfw": false,
+      "playable": false,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-12"
+    }
   },
   {
     "id": "mysterymagination-weirdwyrdworld",
@@ -36808,7 +36938,21 @@
     "processedHeadSha": "ab28d4d5d82174f67d10edbe651a09ff98c84c30",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/mysterymagination-WeirdWyrdWorld/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/mysterymagination-WeirdWyrdWorld/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg",
+        "fantasy"
+      ],
+      "languages": [
+        "en"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-12"
+    }
   },
   {
     "id": "plumelumyn-welcome-to-red-zone",
@@ -36835,7 +36979,21 @@
     "sourceHeadSha": "fa25303df2b071e82b4fceb9640867dd373811f4",
     "processedHeadSha": "ad525074cfa553425f9ab6238545de25d5963c34",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/PlumeLumyn-Welcome-to-Red-Zone/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/PlumeLumyn-Welcome-to-Red-Zone/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "minigame"
+      ],
+      "languages": [
+        "en",
+        "fr"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-12"
+    }
   },
   {
     "id": "raeptor-studio-raeptor",
@@ -36877,7 +37035,20 @@
     "sourceHeadSha": "fe3b61db86b00d32c11f9c53763207dc6936dc8a",
     "processedHeadSha": "7b51e2e9ca9d3382bc45a2a09a18daefa05acb8f",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/athillaazka-What-A-Roll/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/athillaazka-What-A-Roll/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg"
+      ],
+      "languages": [
+        "en"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-12"
+    }
   },
   {
     "id": "leeashlee-what-happened-here",
@@ -36902,7 +37073,21 @@
     "sourceHeadSha": "231c8d6487e8be1bd7e2ee1539e62aaf65556e3a",
     "processedHeadSha": "c5a064835adbe4d1d75710238d3c2e5e13178a86",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/leeashlee-what-happened-here/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/leeashlee-what-happened-here/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "adventure",
+        "horror"
+      ],
+      "languages": [
+        "en"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 3,
+      "rating": 5,
+      "reviewedAt": "2026-11-12"
+    }
   },
   {
     "id": "emay6-whatliesbeneath",
@@ -36929,7 +37114,20 @@
     "processedHeadSha": "ec528200f7346dab97b7ab023515dc65e96c0f86",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/emay6-WhatLiesBeneath/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/emay6-WhatLiesBeneath/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "adventure"
+      ],
+      "languages": [
+        "en"
+      ],
+      "nsfw": false,
+      "playable": false,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-12"
+    }
   },
   {
     "id": "eymc-group-workstudy",
@@ -36993,7 +37191,21 @@
     "processedHeadSha": "645de721e2a5976514cd3fd58021f7a18f212775",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/tomoshibi06-XmasMaze/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/tomoshibi06-XmasMaze/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "adventure"
+      ],
+      "languages": [
+        "en",
+        "ja"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-12"
+    }
   },
   {
     "id": "avianjay-discord-bot-explore-game",
@@ -37018,7 +37230,20 @@
     "sourceHeadSha": "171714df955417704de3c5ae4514dd468e26912d",
     "processedHeadSha": "ccf0ad58d4585276ac11cfd3a125c1336ba54b1a",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/AvianJay-Discord-Bot-Explore-Game/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/AvianJay-Discord-Bot-Explore-Game/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg"
+      ],
+      "languages": [
+        "zh-Hant"
+      ],
+      "nsfw": false,
+      "playable": false,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-12"
+    }
   },
   {
     "id": "soupcanubg-yesterdays-meat",
@@ -37045,7 +37270,21 @@
     "sourceHeadSha": "0619c0711092007b4c06186e798820626929e7ad",
     "processedHeadSha": "f6f060cfd0ca40b9deb188ede09d86750a80f264",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/SoupcanUBG-Yesterdays-Meat/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/SoupcanUBG-Yesterdays-Meat/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg",
+        "horror"
+      ],
+      "languages": [
+        "en"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 3,
+      "rating": 5,
+      "reviewedAt": "2026-11-12"
+    }
   },
   {
     "id": "brunolcarli-yggdrasilmmo",
@@ -37072,7 +37311,21 @@
     "processedHeadSha": "74f694369ba3fdff5328e92a8f323ce128d16823",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/brunolcarli-yggdrasilMMO/index2.html served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/brunolcarli-yggdrasilMMO/index2.html served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg"
+      ],
+      "languages": [
+        "en",
+        "pt"
+      ],
+      "nsfw": false,
+      "playable": false,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-12"
+    }
   },
   {
     "id": "plumelumyn-you-gonna-be-eaten-by-a-fish",
@@ -37099,7 +37352,21 @@
     "sourceHeadSha": "bbb7f3b8fe9687021319980fa2f1366e50ca21ff",
     "processedHeadSha": "b550eb69975e49a5634fe724375a6d25482acadb",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/PlumeLumyn-You-gonna-be-eaten-by-a-fish/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/PlumeLumyn-You-gonna-be-eaten-by-a-fish/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "minigame"
+      ],
+      "languages": [
+        "en",
+        "fr"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-12"
+    }
   },
   {
     "id": "plumelumyn-you-gonna-have-a-genophobia",
