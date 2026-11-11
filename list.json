@@ -35358,7 +35358,23 @@
     "sourceHeadSha": "ddde63b0ee21ebc7a1633353d41f65c12e442126",
     "processedHeadSha": "17b53232db63eb4a8782efe70e60a96b2e3651f2",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/newtranslator007-rgb-Trench-Face-Thai-patch/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/newtranslator007-rgb-Trench-Face-Thai-patch/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg",
+        "horror"
+      ],
+      "languages": [
+        "th"
+      ],
+      "nsfw": false,
+      "originalTitle": "Trench Face",
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-12",
+      "title": "หน้าเน่า"
+    }
   },
   {
     "id": "getsentry-hackweek-trialbytriage",
@@ -35385,7 +35401,20 @@
     "sourceHeadSha": "89d752b924152a1564aac70fbf787b041758a715",
     "processedHeadSha": "a51c13a65a12f3fa2da311f690fcf11001494cfd",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/getsentry-hackweek-trialbytriage/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/getsentry-hackweek-trialbytriage/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg"
+      ],
+      "languages": [
+        "en"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-12"
+    }
   },
   {
     "id": "ryanbram-ryanbram-github-io",
@@ -35412,7 +35441,24 @@
     "processedHeadSha": "cdc7d7d53989151e7db8ecec55a69cc36fd70ae7",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/RyanBram-ryanbram.github.io/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/RyanBram-ryanbram.github.io/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "aliases": [
+        "Triple Triad"
+      ],
+      "genres": [
+        "minigame"
+      ],
+      "languages": [
+        "en"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-12",
+      "title": "bullethell"
+    }
   },
   {
     "id": "arqui-dev-projetocaminhoneiro",
@@ -35439,7 +35485,20 @@
     "processedHeadSha": "066f45801d373332f9bab97426c2f3030baaafe7",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/arqui-dev-ProjetoCaminhoneiro/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/arqui-dev-ProjetoCaminhoneiro/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg"
+      ],
+      "languages": [
+        "en"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-12"
+    }
   },
   {
     "id": "xymol-tsmgi",
@@ -35463,7 +35522,20 @@
     "processedHeadSha": "1936e9887cd91d7adbc481cbec92fd73b1f794c9",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/xymol-tsmgi/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/xymol-tsmgi/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg"
+      ],
+      "languages": [
+        "zh-Hans"
+      ],
+      "nsfw": true,
+      "playable": true,
+      "popularity": 3,
+      "rating": 5,
+      "reviewedAt": "2026-11-12"
+    }
   },
   {
     "id": "minnnpannn9585-justinproj01-rpgmaker",
@@ -35490,7 +35562,17 @@
     "sourceHeadSha": "81bf3da7db2c6c4f9767b84e28c30c2e32da1dec",
     "processedHeadSha": "1d0b4f797bf893e5181e59839d8d032b4a535b90",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/minnnpannn9585-JustinProj01_rpgmaker/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/minnnpannn9585-JustinProj01_rpgmaker/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-12"
+    }
   },
   {
     "id": "darlos9d-turnbasedstrategy",
@@ -35517,7 +35599,15 @@
     "processedHeadSha": "89d98c5cabcb410def5b7b59a32b743e97ae2a6b",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/Darlos9D-TurnBasedStrategy/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/Darlos9D-TurnBasedStrategy/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "template"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "reviewedAt": "2026-11-12"
+    }
   },
   {
     "id": "briancain-tutorial-test",
@@ -35579,7 +35669,21 @@
     "processedHeadSha": "fbe9bce0c988968e3ca0b304f36488ece2bdfb52",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/mysterymagination-twilightning/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/mysterymagination-twilightning/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "adventure",
+        "horror"
+      ],
+      "languages": [
+        "en"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-12"
+    }
   },
   {
     "id": "skypad123-ntu-cz3003-ultraregin-mono",
@@ -35606,7 +35710,14 @@
     "sourceHeadSha": "8d6ac48398aa9d824ad26ceba52fcc71b496cdea",
     "processedHeadSha": "1ea05f4dd35c471e6fbdec42bf2a87ad0ca1fec2",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/skypad123-ntu_cz3003-ultraregin-mono/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/skypad123-ntu_cz3003-ultraregin-mono/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "nsfw": false,
+      "playable": false,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-12"
+    }
   },
   {
     "id": "gallegosjaime-rpg-project",
@@ -35633,7 +35744,20 @@
     "sourceHeadSha": "654b6ec308424f754d28e852fe68a39f661eb24c",
     "processedHeadSha": "c56beef3cc14efe55b47d405f3dfa4c7c558187b",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/gallegosjaime-rpg-project/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/gallegosjaime-rpg-project/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg"
+      ],
+      "languages": [
+        "es"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-12"
+    }
   },
   {
     "id": "beyondoff-umi-the-game",
@@ -35660,7 +35784,20 @@
     "processedHeadSha": "ffd0eb04c6fda644c4ee50d796511b1bf663ce17",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/BeyonDoff-umi_the_game/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/BeyonDoff-umi_the_game/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg"
+      ],
+      "languages": [
+        "zh-Hans"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-12"
+    }
   },
   {
     "id": "epxstudio-universe25",
@@ -35687,7 +35824,20 @@
     "sourceHeadSha": "3138e7f76bdf6ddeb93c6ecde72b25f6e7def74b",
     "processedHeadSha": "30525f6100665ce720be7bcbc1fde0b3595e9da2",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/EpxStudio-Universe25/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/EpxStudio-Universe25/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "adventure"
+      ],
+      "languages": [
+        "en"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-12"
+    }
   },
   {
     "id": "bingletonbartos-bingletonbartos-github-io",
@@ -35777,7 +35927,20 @@
     "sourceHeadSha": "17364f75928b41a951068c7d84d474ecdec0a745",
     "processedHeadSha": "6e56486cb20ee646796d302fe96c468485b17672",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/UrrezkoKaiola-gaiden-one/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/UrrezkoKaiola-gaiden-one/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg"
+      ],
+      "languages": [
+        "en"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-12"
+    }
   },
   {
     "id": "urrezkokaiola-gaiden-two",
@@ -35823,7 +35986,15 @@
     "sourceHeadSha": "23fad1cbcf7685e6918f8badc402f4be065637e4",
     "processedHeadSha": "6cdd32fdb440a302ebf029c6b44b49840615fd51",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/UrrezkoKaiola-terminal1/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/UrrezkoKaiola-terminal1/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "template"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "reviewedAt": "2026-11-12"
+    }
   },
   {
     "id": "urrezkokaiola-urrezkokaiola-github-io",
@@ -35869,7 +36040,20 @@
     "sourceHeadSha": "c2a5e62b68932387a8c178241b8416c991612d6d",
     "processedHeadSha": "43490053d645bb6a24ee7170d9f11ab357a1a7d8",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/UrrezkoKaiola-terminal2/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/UrrezkoKaiola-terminal2/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg"
+      ],
+      "languages": [
+        "en"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-12"
+    }
   },
   {
     "id": "urrezkokaiola-terminal5",
@@ -35896,7 +36080,20 @@
     "sourceHeadSha": "e70ada5df26167b9b2766f063f916e3f4ac6f5d2",
     "processedHeadSha": "5a38fd7728f0e0d6b7c4e179e2fba755effa5681",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/UrrezkoKaiola-terminal5/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/UrrezkoKaiola-terminal5/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg"
+      ],
+      "languages": [
+        "en"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-12"
+    }
   },
   {
     "id": "urrezkokaiola-terminal6",
@@ -35923,7 +36120,20 @@
     "sourceHeadSha": "c52d20420799ccf83382e406c69f55110844d0de",
     "processedHeadSha": "aa77bf61dd316e7761cea31a2de3d9c76c6a90da",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/UrrezkoKaiola-terminal6/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/UrrezkoKaiola-terminal6/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg"
+      ],
+      "languages": [
+        "en"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-12"
+    }
   },
   {
     "id": "urrezkokaiola-terminal7",
@@ -35973,7 +36183,20 @@
     "processedHeadSha": "1cae209bfcc4aef825617f8c25c7f65fd333801e",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/Abner1710-Goty-rpg/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/Abner1710-Goty-rpg/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg"
+      ],
+      "languages": [
+        "es"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-12"
+    }
   },
   {
     "id": "zoujiahuan-thegame4muse",
@@ -36020,7 +36243,14 @@
     "sourceHeadSha": "41a57e7552c034a2ef694a4c399add9bc011e309",
     "processedHeadSha": "067b494ddb03eff7bbe738f17faf1f9b81813fae",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/blacktunes-vbup-game/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/blacktunes-vbup-game/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "nsfw": false,
+      "playable": false,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-12"
+    }
   },
   {
     "id": "ojoh1993-scp-oopart",
@@ -36047,7 +36277,17 @@
     "processedHeadSha": "f92c722606232ed075e41ef537bd22d2af391acb",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/ojoh1993-SCP_OOPArt/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/ojoh1993-SCP_OOPArt/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "languages": [
+        "ko"
+      ],
+      "nsfw": false,
+      "playable": false,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-12"
+    }
   },
   {
     "id": "versionaryy-versionary-game",
