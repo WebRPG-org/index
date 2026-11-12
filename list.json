@@ -10607,18 +10607,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/azunyuuuuuuu-Das-Auge-des-Sturms/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg",
-        "fantasy"
-      ],
-      "languages": [
-        "de"
-      ],
-      "nsfw": false,
+      "gameSlug": "das-auge-des-sturms",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "reviewedAt": "2026-11-07",
+      "nsfw": false,
+      "reviewedSourceHeadSha": "b6e24cc6502fbf0d7d18db1684dbe10b7b440944"
     }
   },
   {
@@ -10648,17 +10641,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/PixelWelt-DeepSpaceMainzGameVault/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg"
-      ],
-      "languages": [
-        "de"
-      ],
-      "nsfw": false,
+      "gameSlug": "das-land-mit-den-loechern",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "reviewedAt": "2026-11-07",
+      "nsfw": false,
+      "reviewedSourceHeadSha": "e40da38fb3808b3309d6c45df1427e565ad3d3f9"
     }
   },
   {
@@ -10688,18 +10675,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/SheikhSafwan-Daybreak/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg",
-        "sci-fi"
-      ],
-      "languages": [
-        "en"
-      ],
-      "nsfw": false,
+      "gameSlug": "daybreak",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "reviewedAt": "2026-11-07",
+      "nsfw": false,
+      "reviewedSourceHeadSha": "fc06334aaeea14b45b471f5f9cf8aa4ca84917bc"
     }
   },
   {
@@ -11368,17 +11348,9 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/Rockinraven-daniRaven/ served an RPG Maker entry point and its startup resources",
     "meta": {
+      "playable": false,
       "reviewedAt": "2026-11-07",
-      "playable": true,
-      "rating": 5,
-      "popularity": 2,
-      "genres": [
-        "rpg"
-      ],
-      "nsfw": false,
-      "languages": [
-        "en"
-      ]
+      "nsfw": false
     }
   },
   {
@@ -11405,19 +11377,10 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/marcovarasperez-marcovarasperez.github.io/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "reviewedAt": "2026-11-07",
+      "gameSlug": "escape-room-tfg",
       "playable": true,
-      "rating": 5,
-      "popularity": 1,
-      "title": "ESCAPE ROOM TFG",
-      "genres": [
-        "puzzle",
-        "mystery"
-      ],
-      "nsfw": false,
-      "languages": [
-        "es"
-      ]
+      "reviewedAt": "2026-11-07",
+      "nsfw": false
     }
   },
   {
@@ -11504,18 +11467,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/uppteam-uppteam.github.io/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "minigame",
-        "educational"
-      ],
-      "languages": [
-        "es"
-      ],
-      "nsfw": false,
+      "gameSlug": "desafio-matematico-mas-alla-de-los-problemas",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "reviewedAt": "2026-11-07",
+      "nsfw": false,
+      "reviewedSourceHeadSha": "d52282455927fe77f5e22cde1adda53357797d92"
     }
   },
   {
@@ -11545,18 +11501,9 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/Ruandersonvieira-educamais/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg",
-        "educational"
-      ],
-      "languages": [
-        "pt"
-      ],
-      "nsfw": false,
-      "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "playable": false,
+      "reviewedAt": "2026-11-07",
+      "nsfw": false
     }
   },
   {
@@ -11586,19 +11533,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/EC-Developer-Hub-desolationnn/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg",
-        "slice-of-life"
-      ],
-      "languages": [
-        "en"
-      ],
-      "nsfw": false,
+      "gameSlug": "desolationnn",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
       "reviewedAt": "2026-11-07",
-      "title": "SEMESTER SURVIVAL"
+      "nsfw": false,
+      "reviewedSourceHeadSha": "97d4da0732b721588535a38cf03041f19b437b70"
     }
   },
   {
@@ -11706,21 +11645,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/Kendid29-AfterRain/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "aliases": [
-        "afterrain"
-      ],
-      "genres": [
-        "rpg"
-      ],
-      "languages": [
-        "en",
-        "id"
-      ],
-      "nsfw": false,
+      "gameSlug": "di-balik-hujan",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "reviewedAt": "2026-11-07",
+      "nsfw": false,
+      "reviewedSourceHeadSha": "b537afd94e84c64a89d6c9abbd3c8ae3ff0e061e"
     }
   },
   {
@@ -11750,21 +11679,9 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/NautsSky-nautssky/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "aliases": [
-        "afterrain"
-      ],
-      "genres": [
-        "rpg"
-      ],
-      "languages": [
-        "en",
-        "id"
-      ],
-      "nsfw": false,
       "playable": false,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "reviewedAt": "2026-11-07",
+      "nsfw": false
     }
   },
   {
@@ -11894,19 +11811,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/tw123777tw-Kyoko/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "visual-novel",
-        "drama"
-      ],
-      "languages": [
-        "en",
-        "zh-Hans"
-      ],
-      "nsfw": false,
+      "gameSlug": "diminishing-returns",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "reviewedAt": "2026-11-07",
+      "nsfw": true,
+      "reviewedSourceHeadSha": "fc590e6bb41afd8680b96afb971b9e1453ac7deb"
     }
   },
   {

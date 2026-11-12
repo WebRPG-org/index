@@ -6104,6 +6104,671 @@
       "contentAdvisory": {
         "nsfw": false
       }
+    },
+    "das-auge-des-sturms": {
+      "schemaVersion": 1,
+      "slug": "das-auge-des-sturms",
+      "originalTitle": "Das Auge des Sturms!",
+      "taxonomy": {
+        "genres": [
+          "rpg"
+        ],
+        "themes": [
+          "fantasy"
+        ],
+        "contentType": "full-game"
+      },
+      "developers": [
+        {
+          "name": "azunyuuuuuuu",
+          "url": "https://github.com/azunyuuuuuuu"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/azunyuuuuuuu-Das-Auge-des-Sturms/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "azunyuuuuuuu-das-auge-des-sturms",
+          "title": "Das Auge des Sturms!",
+          "languages": [
+            "de"
+          ],
+          "nsfw": false
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/azunyuuuuuuu/Das-Auge-des-Sturms"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 1,
+      "assessedAt": "2026-11-12",
+      "assessmentSources": [
+        "https://github.com/azunyuuuuuuu/Das-Auge-des-Sturms"
+      ],
+      "assessmentNote": "No trace outside GitHub (0 stars, 1 release, no README, no Steam/itch/wiki/press); repo is the only source; game data 38 maps / 656 events / 4626 dialogue lines, 3 endings, 8 party members; 'sex' hits are cocktail names ('Sex on the Beach') in an inn minigame, not sexual content, so nsfw stays false; translated titles are non-official literal translations; rating blank; popularity 1.",
+      "translatedTitles": {
+        "en": "The Eye of the Storm",
+        "zh-Hans": "暴风雨之眼",
+        "ja": "嵐の目"
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "一款德语奇幻 RPG：八名同伴结伴冒险，38 张地图、4626 行对白，包含多个结局（A 结局、B 结局与最终结局）。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "A German-language fantasy RPG: eight companions adventure together across 38 maps with 4,626 lines of dialogue and multiple endings (Ending A, Ending B, and a Final Ending).",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "ドイツ語のファンタジーRPG。8人の仲間とともに冒険し、38のマップと4,626行の台詞、複数のエンディング（エンディングA、B、ファイナルエンディング）を持つ。",
+          "editorialStatus": "draft"
+        }
+      },
+      "externalLinks": [
+        {
+          "type": "source",
+          "url": "https://github.com/azunyuuuuuuu/Das-Auge-des-Sturms",
+          "label": "GitHub — azunyuuuuuuu/Das-Auge-des-Sturms"
+        }
+      ],
+      "contentAdvisory": {
+        "nsfw": false
+      }
+    },
+    "das-land-mit-den-loechern": {
+      "schemaVersion": 1,
+      "slug": "das-land-mit-den-loechern",
+      "originalTitle": "Das Land mit den Löchern",
+      "taxonomy": {
+        "genres": [
+          "adventure"
+        ],
+        "themes": [],
+        "contentType": "full-game"
+      },
+      "developers": [
+        {
+          "name": "Deep Space Mainz",
+          "url": "https://www.juz-gofi.de"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/PixelWelt-DeepSpaceMainzGameVault/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "pixelwelt-deepspacemainzgamevault",
+          "title": "Das Land mit den Löchern",
+          "languages": [
+            "de"
+          ],
+          "nsfw": false
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/PixelWelt/DeepSpaceMainzGameVault",
+          "https://www.mainz.de/newsdesk/publications/Mainz/181010100000856455.php?sp-mode=pdf"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 2,
+      "assessedAt": "2026-11-12",
+      "assessmentSources": [
+        "https://github.com/PixelWelt/DeepSpaceMainzGameVault",
+        "https://www.mainz.de/newsdesk/publications/Mainz/181010100000856455.php?sp-mode=pdf"
+      ],
+      "assessmentNote": "No per-game description anywhere (vault README describes the collection only); vault repo 2 stars; Deep Space Mainz is a Mainz youth makerspace (Ehrenamt 4.0 prize Feb 2025, City of Mainz article); game data 21 maps / 335 events but only 19 dialogue lines, transfer-heavy hole-walking — genres corrected from old [rpg] to [adventure] (exploration, no story/quest/combat evidence); translated titles are non-official literal translations; rating blank; popularity 2.",
+      "translatedTitles": {
+        "en": "The Land with the Holes",
+        "zh-Hans": "有洞之地",
+        "ja": "穴の国"
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "一款由德国美因茨青少年创客空间 Deep Space Mainz 成员制作的小型探索游戏：玩家穿过一个个洞口，在村庄之间穿行。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "A small exploration game by members of Deep Space Mainz, a youth makerspace in Mainz, Germany: the player walks through holes to travel between villages.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "ドイツ・マインツのユース・メイカースペース Deep Space Mainz のメンバーによる小さな探索ゲーム。穴を通って村々を移動する。",
+          "editorialStatus": "draft"
+        }
+      },
+      "externalLinks": [
+        {
+          "type": "source",
+          "url": "https://github.com/PixelWelt/DeepSpaceMainzGameVault",
+          "label": "GitHub — PixelWelt/DeepSpaceMainzGameVault"
+        }
+      ],
+      "contentAdvisory": {
+        "nsfw": false
+      }
+    },
+    "daybreak": {
+      "schemaVersion": 1,
+      "slug": "daybreak",
+      "originalTitle": "Daybreak",
+      "taxonomy": {
+        "genres": [
+          "rpg",
+          "adventure"
+        ],
+        "themes": [
+          "sci-fi"
+        ],
+        "contentType": "full-game"
+      },
+      "developers": [
+        {
+          "name": "Sheikh Safwan",
+          "url": "https://github.com/SheikhSafwan"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/SheikhSafwan-Daybreak/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "sheikhsafwan-daybreak",
+          "title": "Daybreak",
+          "languages": [
+            "en"
+          ],
+          "nsfw": false
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/SheikhSafwan/Daybreak",
+          "http://sakif-hossain.github.io/"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 2,
+      "assessedAt": "2026-11-12",
+      "assessmentSources": [
+        "https://github.com/SheikhSafwan/Daybreak",
+        "http://sakif-hossain.github.io/"
+      ],
+      "assessmentNote": "README + author portfolio are the only sources (0 stars, no Steam/itch/wiki/reviews); 5-person CMPUT 250 team, University of Alberta, 4 months; game data 20 maps / 1074 events / 410 dialogue lines; must not be confused with Steam's 'Daybreak' (app 3632820) or GreenRobot's 'Daybreak'; zh-Hans 破晓 is a non-official literal translation (collides with an unrelated Steam game's Chinese title); rating blank; popularity 2.",
+      "translatedTitles": {
+        "zh-Hans": "破晓",
+        "ja": "デイブレイク"
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "一款 2D 动作冒险 RPG：玩家扮演一名独行游侠，困在未知的星球上，必须搜集资源、修复故障的飞船才能返回太空。阿尔伯塔大学 CMPUT 250 课程的五人团队作品。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "A 2D action-adventure RPG: a lone ranger stranded on an uncharted planet must source essential resources to repair a malfunctioning spacecraft and return to space. A five-person team project from the University of Alberta's CMPUT 250 course.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "2DアクションアドベンチャーRPG。未知の惑星に取り残された一人のレンジャーが、故障した宇宙船を修理するための資源を集め、宇宙へ帰還する。アルバータ大学CMPUT 250の5人チームによる作品。",
+          "editorialStatus": "draft"
+        }
+      },
+      "externalLinks": [
+        {
+          "type": "source",
+          "url": "https://github.com/SheikhSafwan/Daybreak",
+          "label": "GitHub — SheikhSafwan/Daybreak"
+        },
+        {
+          "type": "official",
+          "url": "http://sakif-hossain.github.io/",
+          "label": "Author portfolio — Sheikh Safwan Hossain"
+        }
+      ],
+      "contentAdvisory": {
+        "nsfw": false
+      }
+    },
+    "escape-room-tfg": {
+      "schemaVersion": 1,
+      "slug": "escape-room-tfg",
+      "originalTitle": "ESCAPE ROOM TFG",
+      "taxonomy": {
+        "genres": [
+          "puzzle"
+        ],
+        "themes": [
+          "mystery"
+        ],
+        "contentType": "full-game"
+      },
+      "developers": [
+        {
+          "name": "Marco Varas Pérez"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/marcovarasperez-marcovarasperez.github.io/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "marcovarasperez-marcovarasperez-github-io",
+          "title": "ESCAPE ROOM TFG",
+          "languages": [
+            "es"
+          ],
+          "nsfw": false
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/marcovarasperez/marcovarasperez.github.io",
+          "https://webrpg.org/marcovarasperez-marcovarasperez.github.io/"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 1,
+      "assessedAt": "2026-11-12",
+      "assessmentSources": [
+        "https://github.com/marcovarasperez/marcovarasperez.github.io",
+        "https://webrpg.org/marcovarasperez-marcovarasperez.github.io/"
+      ],
+      "assessmentNote": "Source repo now 404 (deleted/renamed) and GitHub Pages also 404; game survives only via the webrpg.org mirror; no reviews, no trace of the author elsewhere; game data 7 maps / 28 events / 23 dialogue lines, riddle switches across 4+ themed areas — a complete small escape-room game; rating blank; popularity 1.",
+      "introductions": {
+        "zh-Hans": {
+          "summary": "一款西班牙语密室逃脱游戏，是作者的毕业设计（Trabajo Fin de Grado）：玩家在浮岛、洞穴、Kid Island 与 Inferno 等场景中解开谜题逃出生天。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "A Spanish-language escape-room game built as the author's final degree project (Trabajo Fin de Grado): solve riddles across themed areas — a floating island, caves, Kid Island, and Inferno — to escape.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "スペイン語の脱出ゲームで、作者の卒業制作（Trabajo Fin de Grado）。浮島、洞窟、Kid Island、Inferno などのエリアで謎を解いて脱出する。",
+          "editorialStatus": "draft"
+        }
+      },
+      "externalLinks": [
+        {
+          "type": "source",
+          "url": "https://github.com/marcovarasperez/marcovarasperez.github.io",
+          "label": "GitHub — marcovarasperez/marcovarasperez.github.io (now 404)"
+        }
+      ],
+      "contentAdvisory": {
+        "nsfw": false
+      }
+    },
+    "desafio-matematico-mas-alla-de-los-problemas": {
+      "schemaVersion": 1,
+      "slug": "desafio-matematico-mas-alla-de-los-problemas",
+      "originalTitle": "Desafío Matemático: Más Allá de los Problemas",
+      "taxonomy": {
+        "genres": [
+          "minigame"
+        ],
+        "themes": [
+          "educational"
+        ],
+        "contentType": "full-game"
+      },
+      "developers": [
+        {
+          "name": "uppteam",
+          "url": "https://github.com/uppteam"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/uppteam-uppteam.github.io/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "uppteam-uppteam-github-io",
+          "title": "Desafío Matemático: Más Allá de los Problemas",
+          "languages": [
+            "es"
+          ],
+          "nsfw": false
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/uppteam/uppteam.github.io"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 1,
+      "assessedAt": "2026-11-12",
+      "assessmentSources": [
+        "https://github.com/uppteam/uppteam.github.io"
+      ],
+      "assessmentNote": "GitHub repo only (0 stars, 2023 conditional-probability teaching site, game in juego/); no reviews or presence beyond the repo; game data 3 maps / 20 events / 81 dialogue lines — a complete small educational minigame; en title is a non-official literal translation; rating blank; popularity 1.",
+      "translatedTitles": {
+        "en": "Math Challenge: Beyond the Problems"
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "一款西班牙语数学挑战小游戏：玩家在表达式与应用题两个场景中练习数学，是条件概率教学网站的一部分。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "A Spanish-language math-challenge minigame: practise maths across expression and word-problem scenes, part of a conditional-probability teaching site.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "スペイン語の数学チャレンジ・ミニゲーム。式と文章題のステージで数学を練習する、条件付き確率の学習サイトの一部。",
+          "editorialStatus": "draft"
+        }
+      },
+      "externalLinks": [
+        {
+          "type": "source",
+          "url": "https://github.com/uppteam/uppteam.github.io",
+          "label": "GitHub — uppteam/uppteam.github.io"
+        }
+      ],
+      "contentAdvisory": {
+        "nsfw": false
+      }
+    },
+    "desolationnn": {
+      "schemaVersion": 1,
+      "slug": "desolationnn",
+      "originalTitle": "desolationnn",
+      "taxonomy": {
+        "genres": [
+          "rpg"
+        ],
+        "themes": [
+          "comedy",
+          "slice-of-life"
+        ],
+        "contentType": "full-game"
+      },
+      "developers": [
+        {
+          "name": "EC-Developer-Hub",
+          "url": "https://github.com/EC-Developer-Hub"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/EC-Developer-Hub-desolationnn/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "ec-developer-hub-desolationnn",
+          "title": "desolationnn",
+          "languages": [
+            "en"
+          ],
+          "nsfw": false
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/EC-Developer-Hub/desolationnn"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 1,
+      "assessedAt": "2026-11-12",
+      "assessmentSources": [
+        "https://github.com/EC-Developer-Hub/desolationnn"
+      ],
+      "assessmentNote": "GitHub repo only (0 stars, 1 commit, 2021, no README); no reviews or presence; game data 2 maps / 19 events / 59 dialogue lines — a complete one-scene campus comedy skit, kept as full-game (judgment call: complete scene, not an empty shell); old meta title 'SEMESTER SURVIVAL' is unverified (no web trace tied to this game) and is not used; rating blank; popularity 1.",
+      "introductions": {
+        "zh-Hans": {
+          "summary": "一款印度校园喜剧小品：学生考试挂科后，被同学 Naagraj 嘲笑，又被教授训诫要好好学习。仅两个场景的微型游戏。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "A tiny Indian campus comedy skit: after failing an exam, a student is mocked by classmate Naagraj and lectured by a professor about studying. A two-scene micro-game.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "インドの学園コメディ小品。試験に落ちた学生がクラスメイトのNaagrajにからかわれ、教授に勉強を説かれる。2シーンだけのマイクロゲーム。",
+          "editorialStatus": "draft"
+        }
+      },
+      "externalLinks": [
+        {
+          "type": "source",
+          "url": "https://github.com/EC-Developer-Hub/desolationnn",
+          "label": "GitHub — EC-Developer-Hub/desolationnn"
+        }
+      ],
+      "contentAdvisory": {
+        "nsfw": false
+      }
+    },
+    "di-balik-hujan": {
+      "schemaVersion": 1,
+      "slug": "di-balik-hujan",
+      "originalTitle": "Di Balik Hujan",
+      "taxonomy": {
+        "genres": [
+          "rpg"
+        ],
+        "themes": [],
+        "contentType": "full-game"
+      },
+      "developers": [
+        {
+          "name": "NautsSky",
+          "url": "https://github.com/NautsSky"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/Kendid29-AfterRain/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "kendid29-afterrain",
+          "title": "Di Balik Hujan",
+          "languages": [
+            "en",
+            "id"
+          ],
+          "nsfw": false
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/Kendid29/AfterRain",
+          "https://github.com/NautsSky/nautssky"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 1,
+      "assessedAt": "2026-11-12",
+      "assessmentSources": [
+        "https://github.com/Kendid29/AfterRain",
+        "https://github.com/NautsSky/nautssky"
+      ],
+      "assessmentNote": "No trace outside GitHub (both repos 0 stars; NautsSky 2025-03-16, 28 commits; Kendid29 2025-05-27, 4 commits — Kendid29 appears to be a copy of the NautsSky original); both forks have byte-identical game data (13 maps / 88 events / 149 dialogue lines, quest switches, villages/Nomad Camp/forest); only the playable fork is listed as an instance (the nautssky fork is unplayable in old meta and stays unlinked); 'AfterRain' is the project's own English name, recorded as an en alias; rating blank; popularity 1.",
+      "aliases": {
+        "en": [
+          "AfterRain"
+        ]
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "一款印尼语角色扮演游戏：玩家在村庄、游牧营地与森林之间冒险，完成寻找 Rhea 等任务。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "An Indonesian role-playing game: adventure between villages, a Nomad Camp, and the forest, completing quests such as the search for Rhea.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "インドネシア語のRPG。村々、ノマドキャンプ、森を巡り、Rheaを探すなどのクエストに挑む。",
+          "editorialStatus": "draft"
+        }
+      },
+      "externalLinks": [
+        {
+          "type": "source",
+          "url": "https://github.com/Kendid29/AfterRain",
+          "label": "GitHub — Kendid29/AfterRain"
+        },
+        {
+          "type": "source",
+          "url": "https://github.com/NautsSky/nautssky",
+          "label": "GitHub — NautsSky/nautssky"
+        }
+      ],
+      "contentAdvisory": {
+        "nsfw": false
+      }
+    },
+    "diminishing-returns": {
+      "schemaVersion": 1,
+      "slug": "diminishing-returns",
+      "originalTitle": "Diminishing Returns",
+      "taxonomy": {
+        "genres": [
+          "visual-novel"
+        ],
+        "themes": [
+          "drama",
+          "fantasy"
+        ],
+        "contentType": "full-game"
+      },
+      "developers": [
+        {
+          "name": "D.S.",
+          "url": "https://kyoko.jimdosite.com/"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/tw123777tw-Kyoko/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "tw123777tw-kyoko",
+          "title": "Diminishing Returns",
+          "languages": [
+            "en",
+            "zh-Hans"
+          ],
+          "nsfw": true
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://kyoko.jimdosite.com/games/",
+          "https://kyoko.jimdosite.com/",
+          "https://github.com/tw123777tw/Kyoko"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 2,
+      "assessedAt": "2026-11-12",
+      "assessmentSources": [
+        "https://kyoko.jimdosite.com/games/",
+        "https://kyoko.jimdosite.com/",
+        "https://github.com/tw123777tw/Kyoko"
+      ],
+      "assessmentNote": "Official site marks the game [R-18] (all five Kyoko games are R-18; site: 'various images of giant girls doing giant girl things'; genres: shrinking, growth, city destruction, giga, tera); in-game 'Naked 1' scene has Nina accusing Kyoko of forcing Chris to 'play ball' with her ('这是强奸！真正的强奸！') — nsfw corrected false -> true; author D.S. active 2016-2025, retired 2025-04-25; no release date found; no reviews anywhere; game data 109 maps / 555 events / 3097 dialogue lines, multiple endings; the indexed fork is a Chinese fan translation of the English original; rating blank; popularity 2 (niche size-fetish community only, with a community archive).",
+      "introductions": {
+        "zh-Hans": {
+          "summary": "一款以缩小/巨大化为主题的剧情游戏：重制版的京子某天夜里在家门前发现一个神秘手提箱，从此生活天翻地覆。作者官网标注 [R-18]，包含多个结局。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "A shrinking/growth story game: a rebooted Kyoko finds a very special suitcase in front of her house one night, and its contents turn her life upside down. Marked [R-18] on the author's official site; multiple endings.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "縮小／巨大化をテーマにしたストーリーゲーム。リブートされた京子がある夜、家の前に置かれた特別なスーツケースを見つけ、人生が一変する。作者公式サイトで[R-18]と表示され、マルチエンディング。",
+          "editorialStatus": "draft"
+        }
+      },
+      "externalLinks": [
+        {
+          "type": "official",
+          "url": "https://kyoko.jimdosite.com/games/",
+          "label": "Official site — Kyoko games ([R-18])"
+        },
+        {
+          "type": "community",
+          "url": "https://sites.google.com/barz.foo/ds-kyoko-archive/",
+          "label": "FooBarz archive — D.S. / Kyoko games"
+        },
+        {
+          "type": "source",
+          "url": "https://github.com/tw123777tw/Kyoko",
+          "label": "GitHub — tw123777tw/Kyoko (Chinese fan translation)"
+        }
+      ],
+      "contentAdvisory": {
+        "nsfw": true,
+        "warnings": [
+          "sexual content, including non-consensual sexual themes in dialogue"
+        ]
+      }
     }
   }
 }
