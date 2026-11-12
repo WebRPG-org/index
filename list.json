@@ -23694,6 +23694,19 @@
     }
   },
   {
+    "id": "aetherincarnate-scholaris-learning",
+    "title": "OMORI",
+    "repo": "https://github.com/AetherIncarnate/scholaris-learning",
+    "owner": "AetherIncarnate",
+    "name": "scholaris-learning",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "discoveredAt": "2026-11-12T05:52:08.076Z",
+    "source": "github-code-search",
+    "sourcePath": "public/games/omori.html",
+    "plannedForkName": "AetherIncarnate-scholaris-learning"
+  },
+  {
     "id": "arcadia-diddy-arcadiax",
     "title": "OMORI",
     "repo": "https://github.com/Arcadia-diddy/ArcadiaX",
