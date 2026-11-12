@@ -852,6 +852,11 @@
         "en": "The Legend of Camutanga",
         "ja": "ア・レンダ・ジ・カムタンガ",
         "zh-Hans": "卡穆坦加传说"
+      },
+      "aliases": {
+        "pt": [
+          "A Lenda de Camutanga — Recomeço"
+        ]
       }
     },
     "a-rather-long-walk": {
@@ -2056,6 +2061,11 @@
       ],
       "contentAdvisory": {
         "nsfw": false
+      },
+      "aliases": {
+        "pt": [
+          "Odisseia de Jevain"
+        ]
       }
     },
     "aurora": {
