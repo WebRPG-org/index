@@ -4448,6 +4448,785 @@
       "contentAdvisory": {
         "nsfw": false
       }
+    },
+    "coders-bizarre-adventure": {
+      "schemaVersion": 1,
+      "slug": "coders-bizarre-adventure",
+      "originalTitle": "Coder's Bizarre Adventure",
+      "taxonomy": {
+        "genres": [
+          "puzzle",
+          "adventure"
+        ],
+        "themes": [
+          "fantasy"
+        ],
+        "contentType": "full-game"
+      },
+      "developers": [
+        {
+          "name": "MSC-CQU",
+          "url": "https://github.com/MSC-CQU"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/MSC-CQU-cba/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "msc-cqu-cba",
+          "title": "Coder's Bizarre Adventure",
+          "languages": [
+            "zh-Hans"
+          ],
+          "nsfw": false
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/MSC-CQU/cba",
+          "https://youth.cqu.edu.cn/__local/E/95/82/0FD69C310E3C0FE9EB7AFFBFDD4_CBE099FF_44F5B.pdf"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 2,
+      "assessedAt": "2026-11-12",
+      "assessmentSources": [
+        "https://github.com/MSC-CQU/cba",
+        "https://youth.cqu.edu.cn/__local/E/95/82/0FD69C310E3C0FE9EB7AFFBFDD4_CBE099FF_44F5B.pdf"
+      ],
+      "assessmentNote": "No external trace (web search only finds unrelated JoJo games); game data 13 maps / 484 events / 217 Chinese dialogue lines with coloured-ball puzzle switches, slime encounters and seal collecting; dialogue is Chinese — the only English-looking lines are an Atari Adventure easter egg ('Created By Warren Robinett') and code fragments, so languages are corrected from the old meta's [en, zh-Hans] to [zh-Hans]; MSC-CQU is Chongqing University's Microsoft Student Club (listed in the university's 2020-2021 society register); rating blank; popularity 2.",
+      "translatedTitles": {
+        "zh-Hans": "程序员的奇妙冒险",
+        "ja": "コーダーズ・ビザール・アドベンチャー"
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "重庆大学微软学生俱乐部制作的中文解谜冒险游戏：穿越茶馆、迷宫、木屋与梦境等 13 张地图，解开彩球机关、躲避史莱姆、收集封印，途中还藏有致敬雅达利《Adventure》的彩蛋；一句对白写明更多内容正在开发中。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "A Chinese puzzle-adventure by the Microsoft Student Club of Chongqing University: cross 13 maps — a teahouse, a maze, a cabin and a dream world — solving coloured-ball switches, dodging slimes and collecting seals, with an easter egg honouring Atari's Adventure; one line notes more content is in development.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "重慶大学マイクロソフト学生クラブによる中国語パズルアドベンチャー。茶館、迷路、小屋、夢の世界など13のマップを巡り、色玉の仕掛けを解き、スライムを避け、封印を集める。アタリの『Adventure』へのイースターエッグもあり、さらなるコンテンツ開発中の旨の台詞もある。",
+          "editorialStatus": "draft"
+        }
+      },
+      "externalLinks": [
+        {
+          "type": "source",
+          "url": "https://github.com/MSC-CQU/cba",
+          "label": "GitHub — MSC-CQU/cba"
+        }
+      ],
+      "contentAdvisory": {
+        "nsfw": false
+      }
+    },
+    "cold-front": {
+      "schemaVersion": 1,
+      "slug": "cold-front",
+      "originalTitle": "Cold Front",
+      "taxonomy": {
+        "genres": [
+          "adventure"
+        ],
+        "themes": [
+          "horror",
+          "drama"
+        ],
+        "contentType": "full-game"
+      },
+      "developers": [
+        {
+          "name": "RachelDrawsThis",
+          "url": "https://racheldrawsthis.itch.io/cold-front"
+        },
+        {
+          "name": "STUDIO INVESTIGRAVE"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/shayderrr-idkugssuggestion/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "shayderrr-idkugssuggestion",
+          "title": "Cold Front",
+          "languages": [
+            "en"
+          ],
+          "nsfw": false
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://racheldrawsthis.itch.io/cold-front",
+          "https://coldfront.fandom.com/wiki/Cold_Front",
+          "https://gravenoxhorrorgames.com/postgame-review-rpg-maker-cold-front/",
+          "https://github.com/shayderrr/idkugssuggestion"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 7,
+      "assessedAt": "2026-11-12",
+      "assessmentSources": [
+        "https://racheldrawsthis.itch.io/cold-front",
+        "https://coldfront.fandom.com/wiki/Cold_Front",
+        "https://gravenoxhorrorgames.com/postgame-review-rpg-maker-cold-front/",
+        "https://github.com/shayderrr/idkugssuggestion"
+      ],
+      "assessmentNote": "itch.io official page: rating 4.8 from 1559 ratings, 534 comments, 45 min-1 hr, 2 endings, fan translations in KR/ESP/pt-BR/zh-CN/RUS; Fandom wiki, TV Tropes and Kotaku listings plus a Gravenox Horror Gaming review; made in 25 days for a Korean RPG Maker jam, released 2022-08-03; this fork's data matches the original exactly (Augustine/Winnie, elk/bear monster, snowman, car scenes, 2 ending switches, 7007 English dialogue lines; Korean only in map/switch names); rating 9, popularity 7.",
+      "rating": 9,
+      "release": {
+        "date": "2022-08-03"
+      },
+      "translatedTitles": {
+        "zh-Hans": "冷锋",
+        "ja": "コールド・フロント"
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "RachelDrawsThis 与 STUDIO INVESTIGRAVE 的短篇恐怖叙事游戏（2022 年韩国 RPG Maker 限时创作，25 天完成）：发小 Augustine 与 Winnie 在七月驾车出游时被突如其来的暴风雪困住，友情、嫉妒与悔恨在风雪中浮现；约 45 分钟至 1 小时，双结局。本条目为英文版转贴，韩语只存在于编辑器地图名中。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "A short horror narrative game by RachelDrawsThis and STUDIO INVESTIGRAVE, made in 25 days for a Korean RPG Maker jam (released 2022-08-03): childhood friends Augustine and Winnie are trapped in a sudden blizzard on a July drive, and friendship, jealousy and regret surface in the snow; 45 minutes to an hour, two endings. This entry is an English re-upload — Korean survives only in the editor's map names.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "RachelDrawsThisとSTUDIO INVESTIGRAVEによる短編ホラーナラティブゲーム（2022年韓国のRPGツクールジャム向けに25日間で制作、2022年8月3日公開）。幼なじみのオーガスティンとウィニーは7月のドライブ中に突然の吹雪に閉じ込められ、友情、嫉妬、後悔が雪の中で浮かび上がる。45分〜1時間、2エンディング。本エントリは英語版の転載で、韓国語はエディタのマップ名にのみ残っている。",
+          "editorialStatus": "draft"
+        }
+      },
+      "externalLinks": [
+        {
+          "type": "store",
+          "url": "https://racheldrawsthis.itch.io/cold-front",
+          "label": "itch.io — Cold Front"
+        },
+        {
+          "type": "wiki",
+          "url": "https://coldfront.fandom.com/wiki/Cold_Front",
+          "label": "Cold Front Wiki (Fandom)"
+        },
+        {
+          "type": "source",
+          "url": "https://github.com/shayderrr/idkugssuggestion",
+          "label": "GitHub — shayderrr/idkugssuggestion"
+        }
+      ],
+      "contentAdvisory": {
+        "nsfw": false
+      }
+    },
+    "college-live": {
+      "schemaVersion": 1,
+      "slug": "college-live",
+      "originalTitle": "College Live",
+      "taxonomy": {
+        "genres": [
+          "simulation"
+        ],
+        "themes": [
+          "slice-of-life"
+        ],
+        "contentType": "full-game"
+      },
+      "developers": [
+        {
+          "name": "DewandraR",
+          "url": "https://github.com/DewandraR"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/DewandraR-College-Live/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "dewandrar-college-live",
+          "title": "College Live",
+          "languages": [
+            "id"
+          ],
+          "nsfw": false
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/DewandraR/College-Live"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 2,
+      "assessedAt": "2026-11-12",
+      "assessmentSources": [
+        "https://github.com/DewandraR/College-Live"
+      ],
+      "assessmentNote": "No external trace (web search only finds the unrelated adult game 'College Life' by MikeMasters — a different game, do not confuse); game data 7 maps / 58 events / 72 Indonesian dialogue lines (prologue, kos rental, campus, card-gambling switches Judi / Dealer Cards / Taruhan); dialogue is Indonesian, so languages are corrected from the old meta's [en, id] to [id]; gambling is a card mini-game, not sexual content, so nsfw stays false; rating blank; popularity 2.",
+      "translatedTitles": {
+        "zh-Hans": "大学生活",
+        "ja": "カレッジ・ライブ"
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "印尼语大学生活模拟游戏：高中毕业生来到大城市求学，租下 kost（学生宿舍）、逛校园与商店街、在路边小吃摊吃饭，还能玩卡牌赌博小游戏。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "An Indonesian college-life simulation: a fresh high-school graduate moves to the big city to study, rents a kos (boarding room), explores the campus, shopping district and food stall, and plays a card-gambling mini-game.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "インドネシア語の大学生活シミュレーション。高校を卒業した青年が進学のため大都会へ移り、コス（下宿）を借り、キャンパスや商店街、屋台を巡り、カード賭博のミニゲームも楽しめる。",
+          "editorialStatus": "draft"
+        }
+      },
+      "externalLinks": [
+        {
+          "type": "source",
+          "url": "https://github.com/DewandraR/College-Live",
+          "label": "GitHub — DewandraR/College-Live"
+        }
+      ],
+      "contentAdvisory": {
+        "nsfw": false
+      }
+    },
+    "college-st-bernard-de-drummondville": {
+      "schemaVersion": 1,
+      "slug": "college-st-bernard-de-drummondville",
+      "originalTitle": "Collège St-Bernard de Drummondville",
+      "taxonomy": {
+        "genres": [
+          "rpg"
+        ],
+        "themes": [
+          "educational"
+        ],
+        "contentType": "full-game"
+      },
+      "developers": [
+        {
+          "name": "Vincent Bélanger"
+        },
+        {
+          "name": "Henri-Victor Côté"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/PatBQc-rpg-csb/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "patbqc-rpg-csb",
+          "title": "Collège St-Bernard de Drummondville",
+          "languages": [
+            "fr"
+          ],
+          "nsfw": false
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/PatBQc/rpg-csb"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 2,
+      "assessedAt": "2026-11-12",
+      "assessmentSources": [
+        "https://github.com/PatBQc/rpg-csb"
+      ],
+      "assessmentNote": "No external trace; README: 'Jeux RPG pour le Collège St-Bernard fait par Vincent Bélanger et Henri-Victor Côté, basé sur RPG Maker MV'; game data 2 maps / 21 events / 24 French dialogue lines — a complete micro-game (arrival, name/age, grade placement, desk, maths quiz with right/wrong branches), not an empty shell; dialogue is French, so languages are corrected from the old meta's [en, fr] to [fr]; rating blank; popularity 2.",
+      "translatedTitles": {
+        "zh-Hans": "德拉蒙德维尔圣伯纳德学院",
+        "en": "St. Bernard College of Drummondville",
+        "ja": "コレージュ・サン＝ベルナール・ド・ドラモンヴィル"
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "两名学生为母校 Collège St-Bernard 制作的法语微型 RPG：新生入校，自我介绍年龄后按年级分班，老师带你到座位上，随后开始数学测验（6x7），答对答错各有分支。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "A French micro-RPG made by two students for their school, Collège St-Bernard de Drummondville: a new pupil arrives, gives their name and age, is placed in a grade, is shown to their desk, and takes a maths quiz (6x7) with right/wrong branches.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "生徒2人が母校コレージュ・サン＝ベルナールのために作ったフランス語のミニRPG。新入生が名前と年齢を答えて学年に振り分けられ、先生に席まで案内され、算数のクイズ（6×7）に挑む。正解・不正解で分岐する。",
+          "editorialStatus": "draft"
+        }
+      },
+      "externalLinks": [
+        {
+          "type": "source",
+          "url": "https://github.com/PatBQc/rpg-csb",
+          "label": "GitHub — PatBQc/rpg-csb"
+        }
+      ],
+      "contentAdvisory": {
+        "nsfw": false
+      }
+    },
+    "colours-missing-yikes": {
+      "schemaVersion": 1,
+      "slug": "colours-missing-yikes",
+      "originalTitle": "Colours Missing?! YiKes!",
+      "taxonomy": {
+        "genres": [
+          "puzzle",
+          "adventure"
+        ],
+        "themes": [
+          "sci-fi"
+        ],
+        "contentType": "full-game"
+      },
+      "developers": [
+        {
+          "name": "UnboundStudios",
+          "url": "https://github.com/UnboundStudios"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/UnboundStudios-colours-missing/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "unboundstudios-colours-missing",
+          "title": "Colours Missing?! YiKes!",
+          "languages": [
+            "en"
+          ],
+          "nsfw": false
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/UnboundStudios/colours-missing"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 2,
+      "assessedAt": "2026-11-12",
+      "assessmentSources": [
+        "https://github.com/UnboundStudios/colours-missing"
+      ],
+      "assessmentNote": "No store page, reviews or media found (two web searches only return unrelated same-name works); game data 19 maps / 632 events / 740 dialogue lines across Magenta Land and multi-phase Greyscale Land with colour-tinting mechanics (Cyan/Magenta/Yellow switches); README claims a 'Best Technical and Story Excellence Award' but names no event, so it is noted here and not used as rating evidence; the old v1.1 rating 6 / popularity 3 have no external backing and are not carried over — rating blank, popularity 2.",
+      "translatedTitles": {
+        "zh-Hans": "颜色失踪了？！哎呀！",
+        "ja": "カラーズ・ミッシング？！ヤイクス！"
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "2018 年学生解谜冒险游戏：故事发生在一台激光打印机内部，墨粉错误（TONER ERROR 0xC19A003）让世界只剩黑白，负责色彩的小机器人必须用上色能力找回品红、青、黄三色墨盒碎片，完成打印任务。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "A 2018 student puzzle-adventure set inside a laser printer: a toner error (TONER ERROR 0xC19A003) drains all colour but black and white, and the little robot in charge of toner must use colour-tinting powers to recover the missing Magenta, Cyan and Yellow cartridge pieces and finish the print job.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "2018年の学生パズルアドベンチャー。レーザープリンターの内部を舞台に、トナーエラー（TONER ERROR 0xC19A003）で白黒以外の色が消え去り、トナー担当の小さなロボットが着色能力でマゼンタ、シアン、イエローのカートリッジ片を取り戻し、印刷を完了させる。",
+          "editorialStatus": "draft"
+        }
+      },
+      "externalLinks": [
+        {
+          "type": "source",
+          "url": "https://github.com/UnboundStudios/colours-missing",
+          "label": "GitHub — UnboundStudios/colours-missing"
+        }
+      ],
+      "contentAdvisory": {
+        "nsfw": false
+      }
+    },
+    "conquesttttt": {
+      "schemaVersion": 1,
+      "slug": "conquesttttt",
+      "originalTitle": "conquesttttt",
+      "taxonomy": {
+        "genres": [
+          "rpg"
+        ],
+        "themes": [
+          "slice-of-life"
+        ],
+        "contentType": "full-game"
+      },
+      "developers": [
+        {
+          "name": "EC-Developer-Hub",
+          "url": "https://github.com/EC-Developer-Hub"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/EC-Developer-Hub-conquesttttt/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "ec-developer-hub-conquesttttt",
+          "title": "conquesttttt",
+          "languages": [
+            "en"
+          ],
+          "nsfw": false
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/EC-Developer-Hub/conquesttttt"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 2,
+      "assessedAt": "2026-11-12",
+      "assessmentSources": [
+        "https://github.com/EC-Developer-Hub/conquesttttt"
+      ],
+      "assessmentNote": "No external trace; game data 2 maps / 19 events / 58 English dialogue lines — a complete exam-passing scene, not an empty shell; title note: the v1.1 meta title 'SEMESTER SURVIVAL' cannot be verified (System.json gameTitle empty, deployed index.html <title> empty, no 'Semester' in any map, title image is a default RTP asset), and the sibling repo broadwayyyy already migrated as semester-survival has entirely different content (0 shared dialogue lines, 12 maps vs 2), so this is a distinct game filed under its repo/list title conquesttttt; zh-Hans translated title left blank (the repo name is not meaningfully translatable); rating blank; popularity 2.",
+      "translatedTitles": {
+        "ja": "コンクエスト"
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "EC-Developer-Hub 的英文校园小品：走廊与教室两张地图，58 行对白全是同学们对“新生通过考试”的反应——有人喝彩、有人想合作开频道、对手则指控作弊。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "A small English campus vignette by EC-Developer-Hub: two maps (hallway and classroom) and 58 lines of classmates reacting to the new kid passing the exams — some cheer, one wants to collaborate on a video channel, and a rival accuses him of cheating.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "EC-Developer-Hubによる英語の学園小品。廊下と教室の2マップで、新入生の試験合格に対するクラスメイトの反応58行——歓声を上げる者、動画チャンネルでのコラボを持ちかける者、カンニングを疑うライバル。",
+          "editorialStatus": "draft"
+        }
+      },
+      "externalLinks": [
+        {
+          "type": "source",
+          "url": "https://github.com/EC-Developer-Hub/conquesttttt",
+          "label": "GitHub — EC-Developer-Hub/conquesttttt"
+        }
+      ],
+      "contentAdvisory": {
+        "nsfw": false
+      }
+    },
+    "cordova-kuns-final-quest": {
+      "schemaVersion": 1,
+      "slug": "cordova-kuns-final-quest",
+      "originalTitle": "Cordova-kun's Final Quest",
+      "taxonomy": {
+        "genres": [
+          "rpg"
+        ],
+        "themes": [
+          "comedy"
+        ],
+        "contentType": "demo"
+      },
+      "developers": [
+        {
+          "name": "Monaca",
+          "url": "https://github.com/monaca"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/masahirotanaka-cordova-final-quest/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "masahirotanaka-cordova-final-quest",
+          "title": "Cordova-kun's Final Quest",
+          "languages": [
+            "en"
+          ],
+          "nsfw": false
+        },
+        {
+          "type": "internal",
+          "id": "monaca-monaca-quest",
+          "title": "Cordova-kun's Final Quest",
+          "languages": [
+            "en"
+          ],
+          "nsfw": false
+        },
+        {
+          "type": "internal",
+          "id": "monaca-monaca-github-io",
+          "title": "Cordova-kun's Final Quest",
+          "languages": [
+            "en"
+          ],
+          "nsfw": false
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/monaca/monaca-quest",
+          "https://monaca.github.io/rpg/",
+          "https://github.com/masahirotanaka/cordova-final-quest"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 3,
+      "assessedAt": "2026-11-12",
+      "assessmentSources": [
+        "https://github.com/monaca/monaca-quest",
+        "https://monaca.github.io/rpg/",
+        "https://github.com/masahirotanaka/cordova-final-quest"
+      ],
+      "assessmentNote": "No store page or reviews (README and repos are the only sources); all three forks have identical game data (3 maps / 20 events / 29 English dialogue lines, same gameTitle, same Boss switch) — confirmed the same game; a complete mini-story arc with a boss, kept as contentType demo because it is Monaca's official sample game for demonstrating the framework (playable link https://monaca.github.io/rpg/ returns 200; masahirotanaka fork description points to a Monaca/Onsen UI SlideShare talk); dialogue is English (ja_JP is only the editor locale); rating blank; popularity 3 (official sample with a live playable link and talk references, above a 0-star student repo).",
+      "translatedTitles": {
+        "zh-Hans": "科尔多瓦君的最终任务",
+        "ja": "コルドバくんの最終クエスト"
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "Monaca 官方示例游戏：21 世纪，小王国们（Symbiania、Palm 王国、MeeGo……）朝生暮死，开发者军队推举 Cordova-kun 为领袖，他习得 Onsen UI 法术、掌握 HTML5 与异步 JavaScript，于 2011 年出征讨伐恶棍、为开发者带来和平。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "Monaca's official sample game: in the 21st century, tiny kingdoms (Symbiania, Palm Kingdom, MeeGo...) rise and fall daily, and the developer army crowns Cordova-kun its leader; he masters HTML5, asynchronous JavaScript and Onsen UI spells and is sent in 2011 to defeat the villains and bring peace to developers.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "Monaca公式のサンプルゲーム。21世紀、小さな王国（シンビアニア、パーム王国、MeeGo……）が日々興亡するなか、開発者軍はコルドバくんを盟主に推戴。彼はHTML5や非同期JavaScript、Onsen UIの呪文を習得し、2011年に悪役討伐へ赴き開発者に平和をもたらす。",
+          "editorialStatus": "draft"
+        }
+      },
+      "externalLinks": [
+        {
+          "type": "source",
+          "url": "https://github.com/monaca/monaca-quest",
+          "label": "GitHub — monaca/monaca-quest"
+        },
+        {
+          "type": "official",
+          "url": "https://monaca.github.io/rpg/",
+          "label": "Playable — monaca.github.io/rpg"
+        }
+      ],
+      "contentAdvisory": {
+        "nsfw": false
+      }
+    },
+    "corrida-academica": {
+      "schemaVersion": 1,
+      "slug": "corrida-academica",
+      "originalTitle": "Corrida Acadêmica",
+      "taxonomy": {
+        "genres": [
+          "minigame"
+        ],
+        "themes": [
+          "educational"
+        ],
+        "contentType": "full-game"
+      },
+      "developers": [
+        {
+          "name": "mn3zx",
+          "url": "https://github.com/mn3zx"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/mn3zx-CorridaAcademica/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "mn3zx-corridaacademica",
+          "title": "Corrida Acadêmica",
+          "languages": [
+            "pt"
+          ],
+          "nsfw": false
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/mn3zx/CorridaAcademica"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 2,
+      "assessedAt": "2026-11-12",
+      "assessmentSources": [
+        "https://github.com/mn3zx/CorridaAcademica"
+      ],
+      "assessmentNote": "No external trace; game data 2 maps / 42 events / 23 Portuguese dialogue lines with race switches (npc para / pc para / corrida começa) and speed/obstacle variables — a complete race minigame; repo description: 'Projeto Final da Matéria de Produção Multimídia Bilíngue V'; rating blank; popularity 2.",
+      "translatedTitles": {
+        "zh-Hans": "学术竞赛",
+        "en": "Academic Race",
+        "ja": "アカデミック・レース"
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "葡语竞速小游戏，双语多媒体制作课的期末项目：在学校里与 NPC 同学竞速，躲避障碍物，双方各有速度变量。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "A Portuguese race minigame, the final project of a bilingual multimedia production course: race an NPC classmate through the school, dodging obstacles, with speed variables for both racers.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "ポルトガル語のレースミニゲーム。バイリンガル・マルチメディア制作科目の期末制作で、学校を舞台にNPCのクラスメイトと競走し、障害物を避ける。両者に速度変数がある。",
+          "editorialStatus": "draft"
+        }
+      },
+      "externalLinks": [
+        {
+          "type": "source",
+          "url": "https://github.com/mn3zx/CorridaAcademica",
+          "label": "GitHub — mn3zx/CorridaAcademica"
+        }
+      ],
+      "contentAdvisory": {
+        "nsfw": false
+      }
+    },
+    "creative-journey": {
+      "schemaVersion": 1,
+      "slug": "creative-journey",
+      "originalTitle": "Creative Journey",
+      "taxonomy": {
+        "genres": [
+          "adventure"
+        ],
+        "themes": [
+          "educational",
+          "slice-of-life"
+        ],
+        "contentType": "full-game"
+      },
+      "developers": [
+        {
+          "name": "hanr61",
+          "url": "https://github.com/hanr61"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/hanr61-Creative-Journey-New/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "hanr61-creative-journey-new",
+          "title": "Creative Journey",
+          "languages": [
+            "id"
+          ],
+          "nsfw": false
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/hanr61/Creative-Journey-New"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 2,
+      "assessedAt": "2026-11-12",
+      "assessmentSources": [
+        "https://github.com/hanr61/Creative-Journey-New"
+      ],
+      "assessmentNote": "No external trace (web search only finds the unrelated itch game 'Creator Journey'); game data 5 maps / 89 events / 279 Indonesian dialogue lines with typography/photography quiz switches and scoring variables, a boss switch (Boss_Kalah) and a time system; dialogue is Indonesian (English hits are loanwords like 'game' and one 'Have fun'), so languages are corrected from the old meta's [en, id] to [id]; rating blank; popularity 2.",
+      "translatedTitles": {
+        "zh-Hans": "创意之旅",
+        "ja": "クリエイティブ・ジャーニー"
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "印尼语 DKV（视觉传达设计）校园冒险游戏：设计系学生 Arga 在排版公园、摄影屋与恶魔区之间探索，回答排版与摄影问答题，挑战 Boss，内置时间系统。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "An Indonesian DKV (visual communication design) school adventure: Arga, a design student, explores the typography park, the photography house and the demon area, answering typography and photography quiz questions, fighting a boss, with a time system running.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "インドネシア語のDKV（ビジュアルコミュニケーションデザイン）学園アドベンチャー。デザイン科の学生アルガがタイポグラフィ公園、写真の家、悪魔エリアを巡り、タイポグラフィと写真のクイズに答え、ボスに挑む。時間システム付き。",
+          "editorialStatus": "draft"
+        }
+      },
+      "externalLinks": [
+        {
+          "type": "source",
+          "url": "https://github.com/hanr61/Creative-Journey-New",
+          "label": "GitHub — hanr61/Creative-Journey-New"
+        }
+      ],
+      "contentAdvisory": {
+        "nsfw": false
+      }
     }
   }
 }

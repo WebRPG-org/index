@@ -9269,19 +9269,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/MSC-CQU-cba/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "puzzle",
-        "adventure"
-      ],
-      "languages": [
-        "en",
-        "zh-Hans"
-      ],
-      "nsfw": false,
+      "gameSlug": "coders-bizarre-adventure",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "reviewedAt": "2026-11-07",
+      "nsfw": false,
+      "reviewedSourceHeadSha": "1e1af7789ca7eea511144bd4abd05c4f718a806c"
     }
   },
   {
@@ -9407,18 +9399,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/shayderrr-idkugssuggestion/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "adventure",
-        "horror"
-      ],
-      "languages": [
-        "en"
-      ],
-      "nsfw": false,
+      "gameSlug": "cold-front",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "reviewedAt": "2026-11-07",
+      "nsfw": false,
+      "reviewedSourceHeadSha": "ec34844ada90ae2a936ec57337c1b871be5fa8a8"
     }
   },
   {
@@ -9593,19 +9578,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/DewandraR-College-Live/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "simulation",
-        "slice-of-life"
-      ],
-      "languages": [
-        "en",
-        "id"
-      ],
-      "nsfw": false,
+      "gameSlug": "college-live",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "reviewedAt": "2026-11-07",
+      "nsfw": false,
+      "reviewedSourceHeadSha": "7687b9b3f048ce9809a64189db55f18e5dc0da52"
     }
   },
   {
@@ -9635,18 +9612,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/PatBQc-rpg-csb/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg"
-      ],
-      "languages": [
-        "en",
-        "fr"
-      ],
-      "nsfw": false,
+      "gameSlug": "college-st-bernard-de-drummondville",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "reviewedAt": "2026-11-07",
+      "nsfw": false,
+      "reviewedSourceHeadSha": "49877a6affb2774d1ca9f3b43181e2ae3507b5fc"
     }
   },
   {
@@ -9711,18 +9681,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/UnboundStudios-colours-missing/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "puzzle",
-        "adventure"
-      ],
-      "languages": [
-        "en"
-      ],
-      "nsfw": false,
+      "gameSlug": "colours-missing-yikes",
       "playable": true,
-      "popularity": 3,
-      "rating": 6,
-      "reviewedAt": "2026-11-07"
+      "reviewedAt": "2026-11-07",
+      "nsfw": false,
+      "reviewedSourceHeadSha": "dc0d0f123ade598843abd3144444f4284d3f5fba"
     }
   },
   {
@@ -9818,17 +9781,9 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/StevenRomero98-ConceptGameDeployment/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg"
-      ],
-      "languages": [
-        "en"
-      ],
-      "nsfw": false,
-      "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "playable": false,
+      "reviewedAt": "2026-11-07",
+      "nsfw": false
     }
   },
   {
@@ -9858,19 +9813,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/EC-Developer-Hub-conquesttttt/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg",
-        "slice-of-life"
-      ],
-      "languages": [
-        "en"
-      ],
-      "nsfw": false,
+      "gameSlug": "conquesttttt",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
       "reviewedAt": "2026-11-07",
-      "title": "SEMESTER SURVIVAL"
+      "nsfw": false,
+      "reviewedSourceHeadSha": "e6c889fef4458d30b26b11612c9c1d166020fa9d"
     }
   },
   {
@@ -9900,17 +9847,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/masahirotanaka-cordova-final-quest/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg"
-      ],
-      "languages": [
-        "en"
-      ],
-      "nsfw": false,
+      "gameSlug": "cordova-kuns-final-quest",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "reviewedAt": "2026-11-07",
+      "nsfw": false,
+      "reviewedSourceHeadSha": "9ba9ffacb90a5b419f3e37bbe3768a7907bbc16b"
     }
   },
   {
@@ -9940,17 +9881,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/monaca-monaca-quest/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg"
-      ],
-      "languages": [
-        "en"
-      ],
-      "nsfw": false,
+      "gameSlug": "cordova-kuns-final-quest",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "reviewedAt": "2026-11-07",
+      "nsfw": false,
+      "reviewedSourceHeadSha": "5df10c829ba610d7c50091ce8f0c18591fee808b"
     }
   },
   {
@@ -9980,17 +9915,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/monaca-monaca.github.io/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg"
-      ],
-      "languages": [
-        "en"
-      ],
-      "nsfw": false,
+      "gameSlug": "cordova-kuns-final-quest",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "reviewedAt": "2026-11-07",
+      "nsfw": false,
+      "reviewedSourceHeadSha": "0f661723474081387c27bc0f1ad88c8842393dba"
     }
   },
   {
@@ -10038,18 +9967,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/mn3zx-CorridaAcademica/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "minigame",
-        "educational"
-      ],
-      "languages": [
-        "pt"
-      ],
-      "nsfw": false,
+      "gameSlug": "corrida-academica",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "reviewedAt": "2026-11-07",
+      "nsfw": false,
+      "reviewedSourceHeadSha": "b8f989e716b7055f14878262c659e984b5cfa170"
     }
   },
   {
@@ -10097,19 +10019,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/hanr61-Creative-Journey-New/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "adventure",
-        "slice-of-life"
-      ],
-      "languages": [
-        "en",
-        "id"
-      ],
-      "nsfw": false,
+      "gameSlug": "creative-journey",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "reviewedAt": "2026-11-07",
+      "nsfw": false,
+      "reviewedSourceHeadSha": "45fd21c490a572733e739ac25e8210018d1ea26f"
     }
   },
   {
