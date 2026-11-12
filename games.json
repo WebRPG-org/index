@@ -1,0 +1,679 @@
+{
+  "registryVersion": 1,
+  "games": {
+    "narcissu": {
+      "schemaVersion": 1,
+      "slug": "narcissu",
+      "originalTitle": "ナルキッソス",
+      "translatedTitles": {
+        "zh-Hans": "水仙",
+        "en": "Narcissu"
+      },
+      "aliases": {
+        "zh-Hans": [
+          "Narcissu 水仙"
+        ]
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "一部以生命与旅途为主题的剧情向视觉小说。",
+          "overview": "待审核的作品介绍（示例内容，不应发布）。",
+          "editorialStatus": "draft"
+        }
+      },
+      "taxonomy": {
+        "genres": [
+          "visual-novel"
+        ],
+        "themes": [
+          "drama"
+        ],
+        "contentType": "full-game"
+      },
+      "developers": [
+        {
+          "name": "stage-nana"
+        }
+      ],
+      "publishers": [
+        {
+          "name": "Sekai Project"
+        }
+      ],
+      "release": {
+        "date": "2005-08-01",
+        "originalPlatforms": [
+          "Windows"
+        ]
+      },
+      "rating": 8,
+      "popularity": 8,
+      "assessedAt": "2026-11-12",
+      "assessmentSources": [
+        "https://store.steampowered.com/app/264380/Narcissu_1st__2nd/",
+        "https://www.otakuaniverse.com/index.php/visual-novels/pc-narcissu-1st-2nd-review",
+        "https://gamebrain.co/game/narcissu-1st-2nd",
+        "http://en.wikipedia.org/wiki/Narcissu"
+      ],
+      "assessmentNote": "Web search 2026-11-12 confirms the old 8/8: Steam (Sekai Project, free, 1st & 2nd), OtakuAniverse review 9.0/10, GameBrain 94% audience score from 2,097 reviews, Wikipedia/NamuWiki record the 2005 stage-nana original, all-ages kinetic novel. Old scores kept, now with evidence attached; no silent change.",
+      "media": {
+        "cover": "https://webrpg.org/Destiny236-Narcissuweb/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "destiny236-narcissuweb",
+          "title": "Narcissu（中文网页版）",
+          "languages": [
+            "zh-Hans"
+          ],
+          "nsfw": false
+        }
+      ],
+      "externalLinks": [
+        {
+          "url": "https://store.steampowered.com/app/264380/Narcissu_1st__2nd/",
+          "type": "store",
+          "label": "Steam — Narcissu 1st & 2nd (free)"
+        }
+      ],
+      "contentAdvisory": {
+        "nsfw": false
+      },
+      "editorial": {
+        "status": "draft",
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      }
+    },
+    "cluaido": {
+      "schemaVersion": 1,
+      "slug": "cluaido",
+      "originalTitle": "CLUAIDO",
+      "introductions": {
+        "zh-Hans": {
+          "summary": "扮演侦探，在毒气蔓延的豪宅中调查谋杀案的程序化推理游戏试玩版，可自由审问由 AI 驱动的嫌疑人。",
+          "editorialStatus": "draft"
+        }
+      },
+      "taxonomy": {
+        "genres": [
+          "adventure"
+        ],
+        "themes": [
+          "mystery"
+        ],
+        "contentType": "demo"
+      },
+      "developers": [
+        {
+          "name": "Gamer Tool Studio"
+        }
+      ],
+      "publishers": [
+        {
+          "name": "Gamer Tool Studio"
+        }
+      ],
+      "popularity": 3,
+      "assessedAt": "2026-11-12",
+      "assessmentSources": [
+        "https://store.steampowered.com/app/2919500/CLUAIDO/",
+        "https://gamertoolstudio.itch.io/cluaido",
+        "https://www.gamedeveloper.com/press-release/gamer-tool-studio-announces-cluaido-a-revolutionary-procedural-mystery-game-coming-to-steam-in-may-2024"
+      ],
+      "assessmentNote": "Steam page (app 2919500), itch demo page and GameDeveloper press release confirm a real procedural-mystery demo with a full murder case to solve (interrogate AI suspects, find clues, beat the toxic-gas timer); no review scores found, so rating is left blank.",
+      "media": {
+        "cover": "https://webrpg.org/Gamer-Tool-Studio-Gamer-Tool-Studio.github.io/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "gamer-tool-studio-gamer-tool-studio-github-io",
+          "title": "CLUAIDO",
+          "languages": [
+            "en"
+          ],
+          "nsfw": false
+        }
+      ],
+      "externalLinks": [
+        {
+          "url": "https://store.steampowered.com/app/2919500/CLUAIDO/",
+          "type": "store",
+          "label": "Steam — CLUAIDO"
+        },
+        {
+          "url": "https://gamertoolstudio.itch.io/cluaido",
+          "type": "store",
+          "label": "itch.io — CLUAIDO [DEMO]"
+        }
+      ],
+      "contentAdvisory": {
+        "nsfw": false
+      },
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://store.steampowered.com/app/2919500/CLUAIDO/",
+          "https://gamertoolstudio.itch.io/cluaido",
+          "https://www.gamedeveloper.com/press-release/gamer-tool-studio-announces-cluaido-a-revolutionary-procedural-mystery-game-coming-to-steam-in-may-2024"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      }
+    },
+    "recoil": {
+      "schemaVersion": 1,
+      "slug": "recoil",
+      "originalTitle": "/recoil",
+      "aliases": {
+        "en": [
+          "/RE:COIL"
+        ]
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "以乡间与一栋名为 C.H. 的建筑为舞台的恐怖冒险游戏，共 27 张地图。",
+          "editorialStatus": "draft"
+        }
+      },
+      "taxonomy": {
+        "genres": [
+          "adventure"
+        ],
+        "themes": [
+          "horror",
+          "mystery"
+        ],
+        "contentType": "full-game"
+      },
+      "developers": [
+        {
+          "name": "amarillonmc"
+        }
+      ],
+      "popularity": 2,
+      "assessedAt": "2026-11-12",
+      "assessmentSources": [
+        "https://github.com/amarillonmc/amarillonmc.github.io"
+      ],
+      "assessmentNote": "Repo data shows a 27-map horror adventure (Turian Countryside plus the C.H. building with corridors and rooms); no Steam/itch/media footprint found in web search, so rating is left blank and popularity is 2.",
+      "media": {
+        "cover": "https://webrpg.org/amarillonmc-amarillonmc.github.io/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "amarillonmc-amarillonmc-github-io",
+          "title": "/recoil",
+          "languages": [
+            "en"
+          ],
+          "nsfw": false
+        }
+      ],
+      "contentAdvisory": {
+        "nsfw": false
+      },
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/amarillonmc/amarillonmc.github.io"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      }
+    },
+    "1680": {
+      "schemaVersion": 1,
+      "slug": "1680",
+      "originalTitle": "1680",
+      "aliases": {
+        "en": [
+          "1680 THE BEGINNING"
+        ]
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "以城堡与港口城镇为舞台的奇幻角色扮演游戏，共 24 张地图。",
+          "editorialStatus": "draft"
+        }
+      },
+      "taxonomy": {
+        "genres": [
+          "rpg"
+        ],
+        "themes": [
+          "fantasy"
+        ],
+        "contentType": "full-game"
+      },
+      "developers": [
+        {
+          "name": "WataKoro"
+        }
+      ],
+      "popularity": 2,
+      "assessedAt": "2026-11-12",
+      "assessmentSources": [
+        "https://github.com/WataKoro/GameDevProject"
+      ],
+      "assessmentNote": "Repo data shows a 24-map fantasy RPG (castle, harbor, outskirts, homestead); no external footprint found in web search, so rating is left blank and popularity is 2.",
+      "media": {
+        "cover": "https://webrpg.org/WataKoro-GameDevProject/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "watakoro-gamedevproject",
+          "title": "1680",
+          "languages": [
+            "en"
+          ],
+          "nsfw": false
+        }
+      ],
+      "contentAdvisory": {
+        "nsfw": false
+      },
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/WataKoro/GameDevProject"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      }
+    },
+    "1889-o-ultimo-imperio": {
+      "schemaVersion": 1,
+      "slug": "1889-o-ultimo-imperio",
+      "originalTitle": "1889: O Último Império",
+      "introductions": {
+        "zh-Hans": {
+          "summary": "以 1888–1889 年里约为背景的历史剧情角色扮演游戏。",
+          "editorialStatus": "draft"
+        }
+      },
+      "taxonomy": {
+        "genres": [
+          "rpg"
+        ],
+        "themes": [
+          "drama"
+        ],
+        "contentType": "full-game"
+      },
+      "developers": [
+        {
+          "name": "demostenespedrosa"
+        }
+      ],
+      "popularity": 2,
+      "assessedAt": "2026-11-12",
+      "assessmentSources": [
+        "https://github.com/demostenespedrosa/1889"
+      ],
+      "assessmentNote": "Repo data shows an 8-map historical RPG set in Rio de Janeiro, 1888-1889 (cinematic prologue, conspiracy plot); no external footprint found in web search, so rating is left blank and popularity is 2.",
+      "media": {
+        "cover": "https://webrpg.org/demostenespedrosa-1889/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "demostenespedrosa-1889",
+          "title": "1889: O Último Império",
+          "languages": [
+            "pt"
+          ],
+          "nsfw": false
+        }
+      ],
+      "contentAdvisory": {
+        "nsfw": false
+      },
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/demostenespedrosa/1889"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      }
+    },
+    "1st-studio": {
+      "schemaVersion": 1,
+      "slug": "1st-studio",
+      "originalTitle": "1st Studio",
+      "introductions": {
+        "zh-Hans": {
+          "summary": "韩语冒险游戏，包含村庄、游牧民营地、住所与商店等场景。",
+          "editorialStatus": "draft"
+        }
+      },
+      "taxonomy": {
+        "genres": [
+          "adventure"
+        ],
+        "contentType": "full-game"
+      },
+      "developers": [
+        {
+          "name": "HanbitGaram"
+        }
+      ],
+      "popularity": 2,
+      "assessedAt": "2026-11-12",
+      "assessmentSources": [
+        "https://github.com/HanbitGaram/1ststudio-game"
+      ],
+      "assessmentNote": "Repo data shows a 4-map Korean adventure with 115 events across village, nomad camp, house and shop; no external footprint found in web search, so rating is left blank and popularity is 2.",
+      "media": {
+        "cover": "https://webrpg.org/HanbitGaram-1ststudio-game/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "hanbitgaram-1ststudio-game",
+          "title": "1st Studio",
+          "languages": [
+            "ko"
+          ],
+          "nsfw": false
+        }
+      ],
+      "contentAdvisory": {
+        "nsfw": false
+      },
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/HanbitGaram/1ststudio-game"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      }
+    },
+    "2000sescape": {
+      "schemaVersion": 1,
+      "slug": "2000sescape",
+      "originalTitle": "2000sEscape",
+      "translatedTitles": {
+        "zh-Hans": "逃离千禧年"
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "以梦境般的 2000 年中国为背景的像素风横版解谜逃脱游戏试玩版，含轻度心理恐怖元素。",
+          "editorialStatus": "draft"
+        }
+      },
+      "taxonomy": {
+        "genres": [
+          "puzzle",
+          "adventure"
+        ],
+        "themes": [
+          "horror"
+        ],
+        "contentType": "demo"
+      },
+      "developers": [
+        {
+          "name": "yesen"
+        }
+      ],
+      "popularity": 2,
+      "assessedAt": "2026-11-12",
+      "assessmentSources": [
+        "https://yesen.itch.io/2000sescape",
+        "https://github.com/Yesenmidnight/2000sEscape"
+      ],
+      "assessmentNote": "itch page and 11-map repo data confirm a real puzzle-escape demo (home + school areas, weirdcore/dreamcore); labelled test/demo version, still in development; no reviews found, so rating is left blank and popularity is 2.",
+      "media": {
+        "cover": "https://webrpg.org/Yesenmidnight-2000sEscape/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "yesenmidnight-2000sescape",
+          "title": "2000sEscape",
+          "languages": [
+            "zh-Hans"
+          ],
+          "nsfw": false
+        }
+      ],
+      "externalLinks": [
+        {
+          "url": "https://yesen.itch.io/2000sescape",
+          "type": "store",
+          "label": "itch.io — 2000sEscape"
+        }
+      ],
+      "contentAdvisory": {
+        "nsfw": false
+      },
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://yesen.itch.io/2000sescape",
+          "https://github.com/Yesenmidnight/2000sEscape"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      }
+    },
+    "shishunki-imouto-to-ecchi-na-30-nichikan": {
+      "schemaVersion": 1,
+      "slug": "shishunki-imouto-to-ecchi-na-30-nichikan",
+      "originalTitle": "思春期妹とえっちな30日間",
+      "translatedTitles": {
+        "en": "30 Lewd Days with My Adolescent Little Sister"
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "与妹妹同居 30 天的成人向模拟游戏，按日推进剧情并分支多结局。",
+          "editorialStatus": "draft"
+        }
+      },
+      "taxonomy": {
+        "genres": [
+          "simulation"
+        ],
+        "themes": [
+          "romance"
+        ],
+        "contentType": "full-game"
+      },
+      "popularity": 2,
+      "assessedAt": "2026-11-12",
+      "assessmentSources": [
+        "https://github.com/dungjane4112-droid/30-lewd.github.io"
+      ],
+      "assessmentNote": "Repo data (401 switches, 351 variables) confirms a substantial 30-day adult simulation; exact-title web search found no store/review footprint (only similarly-named sister games), so rating is left blank and popularity is 2; nsfw true per explicit adult content.",
+      "media": {
+        "cover": "https://webrpg.org/dungjane4112-droid-30-lewd/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "dungjane4112-droid-30-lewd",
+          "title": "30 Lewd Days with My Adolescent Little Sister",
+          "languages": [
+            "vi"
+          ],
+          "nsfw": true
+        }
+      ],
+      "contentAdvisory": {
+        "nsfw": true
+      },
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/dungjane4112-droid/30-lewd.github.io"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      }
+    },
+    "get-to-school-6": {
+      "schemaVersion": 1,
+      "slug": "get-to-school-6",
+      "originalTitle": "Get to School 6",
+      "introductions": {
+        "zh-Hans": {
+          "summary": "以高地、城镇与地牢为舞台的 3D 恐怖游戏早期版本。",
+          "editorialStatus": "draft"
+        }
+      },
+      "taxonomy": {
+        "genres": [
+          "rpg"
+        ],
+        "themes": [
+          "horror"
+        ],
+        "contentType": "prototype"
+      },
+      "developers": [
+        {
+          "name": "28LPotter"
+        }
+      ],
+      "popularity": 2,
+      "assessedAt": "2026-11-12",
+      "assessmentSources": [
+        "https://github.com/28LPotter/28LPotter.github.io"
+      ],
+      "assessmentNote": "Repo data shows a 10-map horror game (Northern Highlands, Downtown, dungeon, maze areas); author labels it an early build, so contentType is prototype; no external footprint found, so rating is left blank and popularity is 2.",
+      "media": {
+        "cover": "https://webrpg.org/28LPotter-28LPotter.github.io/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "28lpotter-28lpotter-github-io",
+          "title": "Get to School 6",
+          "languages": [
+            "en"
+          ],
+          "nsfw": false
+        }
+      ],
+      "contentAdvisory": {
+        "nsfw": false
+      },
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/28LPotter/28LPotter.github.io"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      }
+    },
+    "happy-birthday-my-love": {
+      "schemaVersion": 1,
+      "slug": "happy-birthday-my-love",
+      "originalTitle": "Happy Birthday, My Love!",
+      "aliases": {
+        "en": [
+          "A Gift."
+        ]
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "以赌场、住所与餐厅为场景的短篇恋爱冒险游戏。",
+          "editorialStatus": "draft"
+        }
+      },
+      "taxonomy": {
+        "genres": [
+          "adventure"
+        ],
+        "themes": [
+          "romance"
+        ],
+        "contentType": "full-game"
+      },
+      "developers": [
+        {
+          "name": "Harleythetech"
+        }
+      ],
+      "popularity": 2,
+      "assessedAt": "2026-11-12",
+      "assessmentSources": [
+        "https://webrpg.org/Harleythetech-A-Gift/"
+      ],
+      "assessmentNote": "Source repo is gone (404) but the webrpg mirror's game data shows a real 4-map romance game (casino, house, restaurant); in-game title is 'Happy Birthday, My Love!', not the list title 'A Gift.'; no external footprint found, so rating is left blank and popularity is 2.",
+      "media": {
+        "cover": "https://webrpg.org/Harleythetech-A-Gift/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "harleythetech-a-gift",
+          "title": "Happy Birthday, My Love!",
+          "languages": [
+            "en"
+          ],
+          "nsfw": false
+        }
+      ],
+      "contentAdvisory": {
+        "nsfw": false
+      },
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://webrpg.org/Harleythetech-A-Gift/"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      }
+    }
+  }
+}

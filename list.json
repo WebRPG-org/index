@@ -304,20 +304,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/amarillonmc-amarillonmc.github.io/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "adventure",
-        "horror",
-        "mystery"
-      ],
-      "languages": [
-        "en"
-      ],
-      "nsfw": false,
+      "gameSlug": "recoil",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
+      "nsfw": false,
       "reviewedAt": "2026-11-07",
-      "title": "/RE:COIL"
+      "reviewedSourceHeadSha": "8a326e5503f0c3e49073cf2fed5e5bd8b0eedb04"
     }
   },
   {
@@ -347,19 +338,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/Gamer-Tool-Studio-Gamer-Tool-Studio.github.io/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "reviewedAt": "2026-11-07",
+      "gameSlug": "cluaido",
       "playable": true,
-      "rating": 5,
-      "popularity": 2,
-      "title": "CLUAIDO",
-      "genres": [
-        "adventure",
-        "mystery"
-      ],
       "nsfw": false,
-      "languages": [
-        "en"
-      ]
+      "reviewedAt": "2026-11-07",
+      "reviewedSourceHeadSha": "ecb85131c1eefb286f5b269f0947225cf9891a54"
     }
   },
   {
@@ -460,19 +443,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/WataKoro-GameDevProject/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg",
-        "fantasy"
-      ],
-      "languages": [
-        "en"
-      ],
-      "nsfw": false,
+      "gameSlug": "1680",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
+      "nsfw": false,
       "reviewedAt": "2026-11-07",
-      "title": "1680 THE BEGINNING"
+      "reviewedSourceHeadSha": "242d0697670700c03da8c7ba007c6f1f669dc6cf"
     }
   },
   {
@@ -502,18 +477,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/demostenespedrosa-1889/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg",
-        "drama"
-      ],
-      "languages": [
-        "pt"
-      ],
-      "nsfw": false,
+      "gameSlug": "1889-o-ultimo-imperio",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "nsfw": false,
+      "reviewedAt": "2026-11-07",
+      "reviewedSourceHeadSha": "003cf22750eef427f5edad41f1f765a6445ea7ff"
     }
   },
   {
@@ -543,17 +511,8 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/Xwilarg-19thRPGMakerHorrorJam/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg",
-        "horror"
-      ],
-      "languages": [
-        "en"
-      ],
+      "playable": false,
       "nsfw": false,
-      "playable": true,
-      "popularity": 2,
-      "rating": 5,
       "reviewedAt": "2026-11-07"
     }
   },
@@ -584,17 +543,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/HanbitGaram-1ststudio-game/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "adventure"
-      ],
-      "languages": [
-        "ko"
-      ],
-      "nsfw": false,
+      "gameSlug": "1st-studio",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "nsfw": false,
+      "reviewedAt": "2026-11-07",
+      "reviewedSourceHeadSha": "a992af92ccacef9faa185941526e341849af216e"
     }
   },
   {
@@ -661,22 +614,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/Yesenmidnight-2000sEscape/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "aliases": [
-        "2000sEscape"
-      ],
-      "genres": [
-        "puzzle",
-        "adventure"
-      ],
-      "languages": [
-        "zh-Hans"
-      ],
-      "nsfw": false,
+      "gameSlug": "2000sescape",
       "playable": true,
-      "popularity": 4,
-      "rating": 5,
+      "nsfw": false,
       "reviewedAt": "2026-11-07",
-      "title": "逃离千禧年"
+      "reviewedSourceHeadSha": "4b5ca1013a4a7c48ac265ea3a0eb5923ece8d9ad"
     }
   },
   {
@@ -706,19 +648,11 @@
     "processedHeadSha": "b8acc7c005ad03b43cbfa8ad5dd18cb33a128951",
     "syncedFromSource": true,
     "meta": {
-      "genres": [
-        "simulation",
-        "romance"
-      ],
-      "languages": [
-        "vi"
-      ],
-      "nsfw": true,
-      "originalTitle": "思春期妹とえっちな30日間",
+      "gameSlug": "shishunki-imouto-to-ecchi-na-30-nichikan",
       "playable": true,
-      "popularity": 4,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "nsfw": true,
+      "reviewedAt": "2026-11-07",
+      "reviewedSourceHeadSha": "95842dd7b1147069cf9adf0a616151cf3315771b"
     }
   },
   {
@@ -762,18 +696,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/28LPotter-28LPotter.github.io/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg"
-      ],
-      "languages": [
-        "en"
-      ],
-      "nsfw": false,
+      "gameSlug": "get-to-school-6",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
+      "nsfw": false,
       "reviewedAt": "2026-11-07",
-      "title": "Get to School 6"
+      "reviewedSourceHeadSha": "d6a96e58be04ff7761989cb99589c3d6e7936dcd"
     }
   },
   {
@@ -5139,17 +5066,9 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/Harleythetech-A-Gift/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "adventure",
-        "romance"
-      ],
-      "languages": [
-        "en"
-      ],
-      "nsfw": false,
+      "gameSlug": "happy-birthday-my-love",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
+      "nsfw": false,
       "reviewedAt": "2026-11-07"
     }
   },
