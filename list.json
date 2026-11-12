@@ -12303,19 +12303,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/AdanRafli-Dreamcore-X1/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg",
-        "fantasy"
-      ],
-      "languages": [
-        "en",
-        "id"
-      ],
-      "nsfw": false,
+      "gameSlug": "dreamcore-x1",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "reviewedAt": "2026-11-07",
+      "nsfw": false,
+      "reviewedSourceHeadSha": "80b50d32f335a9362566bf7a71b5890358bde66d"
     }
   },
   {
@@ -12385,17 +12377,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/Lunlis-DreamTale/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg"
-      ],
-      "languages": [
-        "ru"
-      ],
-      "nsfw": false,
+      "gameSlug": "dreamtale",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "reviewedAt": "2026-11-07",
+      "nsfw": false,
+      "reviewedSourceHeadSha": "203971e3d38cd2641c5a98f18b46e90207d0f489"
     }
   },
   {
@@ -12425,23 +12411,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/DSAF-Decompliations-OpenDSAF3/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "aliases": [
-        "DSaF 3"
-      ],
-      "genres": [
-        "rpg",
-        "comedy"
-      ],
-      "languages": [
-        "en"
-      ],
-      "nsfw": false,
-      "originalTitle": "A Dayshift at Freddy's 3",
+      "gameSlug": "dayshift-at-freddys-3",
       "playable": true,
-      "popularity": 5,
-      "rating": 6,
       "reviewedAt": "2026-11-07",
-      "title": "DAYSHIFT AT FREDDY'S 3"
+      "nsfw": false,
+      "reviewedSourceHeadSha": "86a3cd50931c3c4aeb9f9d455112c8ec1ef3a848"
     }
   },
   {
@@ -12471,17 +12445,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/mattmaomao-Dual-Escape-RPG/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg"
-      ],
-      "languages": [
-        "zh-Hant"
-      ],
-      "nsfw": false,
+      "gameSlug": "dual-escape",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "reviewedAt": "2026-11-07",
+      "nsfw": false,
+      "reviewedSourceHeadSha": "186400608f8ca255fbecd7db6bdb369a0821de57"
     }
   },
   {
@@ -12508,17 +12476,10 @@
     "reachabilityDetail": "https://webrpg.org/uides1-uides1.dcs.github.io/ served an RPG Maker entry point and its startup resources",
     "processedHeadSha": "c55678a9a5361c882288d08467f7c68e0af12379",
     "meta": {
-      "genres": [
-        "rpg"
-      ],
-      "languages": [
-        "en"
-      ],
-      "nsfw": false,
+      "gameSlug": "dungeons-crawler-something",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "reviewedAt": "2026-11-07",
+      "nsfw": false
     }
   },
   {
@@ -12605,17 +12566,9 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/gominsu08-GainProject/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg"
-      ],
-      "languages": [
-        "en"
-      ],
-      "nsfw": false,
-      "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "playable": false,
+      "reviewedAt": "2026-11-07",
+      "nsfw": false
     }
   },
   {
@@ -12686,18 +12639,9 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/Lamawd-Eco-quest/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg",
-        "educational"
-      ],
-      "languages": [
-        "en"
-      ],
-      "nsfw": false,
-      "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "playable": false,
+      "reviewedAt": "2026-11-07",
+      "nsfw": false
     }
   },
   {
@@ -12727,19 +12671,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/BotakHage-Eduventure/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg",
-        "educational"
-      ],
-      "languages": [
-        "en",
-        "id"
-      ],
-      "nsfw": false,
+      "gameSlug": "eduventure",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "reviewedAt": "2026-11-07",
+      "nsfw": false,
+      "reviewedSourceHeadSha": "4c50af76203d12eee1cfa37900bb151a4754b788"
     }
   },
   {
@@ -12769,18 +12705,9 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/AGJimenez-Ra-s-Quest/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg",
-        "fantasy"
-      ],
-      "languages": [
-        "en"
-      ],
-      "nsfw": false,
-      "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "playable": false,
+      "reviewedAt": "2026-11-07",
+      "nsfw": false
     }
   },
   {
@@ -12810,24 +12737,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/rravenorr-El_Fili/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "aliases": [
-        "El Fili",
-        "El Filibusterismo"
-      ],
-      "genres": [
-        "rpg",
-        "drama"
-      ],
-      "languages": [
-        "en",
-        "tl"
-      ],
-      "nsfw": false,
+      "gameSlug": "el-fili",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
       "reviewedAt": "2026-11-07",
-      "title": "REIGN OF GREED"
+      "nsfw": false,
+      "reviewedSourceHeadSha": "ffee2b54a1c76c90970ebdfb8bbb117e53f6bf89"
     }
   },
   {

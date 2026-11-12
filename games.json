@@ -7481,6 +7481,642 @@
       "contentAdvisory": {
         "nsfw": false
       }
+    },
+    "dreamcore-x1": {
+      "schemaVersion": 1,
+      "slug": "dreamcore-x1",
+      "originalTitle": "Dreamcore-X1 (Version: 2.0)",
+      "taxonomy": {
+        "genres": [
+          "rpg"
+        ],
+        "themes": [
+          "fantasy"
+        ],
+        "contentType": "full-game"
+      },
+      "developers": [
+        {
+          "name": "AdanRafli",
+          "url": "https://github.com/AdanRafli"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/AdanRafli-Dreamcore-X1/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "adanrafli-dreamcore-x1",
+          "title": "Dreamcore-X1 (Version: 2.0)",
+          "languages": [
+            "en",
+            "id"
+          ],
+          "nsfw": false
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/AdanRafli/Dreamcore-X1",
+          "https://webrpg.org/AdanRafli-Dreamcore-X1/"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 1,
+      "assessedAt": "2026-11-12",
+      "assessmentSources": [
+        "https://github.com/AdanRafli/Dreamcore-X1",
+        "https://webrpg.org/AdanRafli-Dreamcore-X1/"
+      ],
+      "assessmentNote": "GitHub repo + webrpg mirror only (1 star, no README, no Steam/itch/reviews; must not be confused with the Steam Unreal Engine game 'Dreamcore'); game data 5 maps / 24 events / 295 dialogue lines (Forest Town alone has 249 lines); dialogue is Indonesian; translated titles are non-official; rating blank; popularity 1.",
+      "translatedTitles": {
+        "zh-Hans": "梦核-X1",
+        "ja": "ドリームコア-X1"
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "印尼作者 AdanRafli 的奇幻 RPG：英雄 Liyue 抵达森林小镇，遭遇自称野蛮人的怪人，冒险就此展开；武器店与防具店、抽卡与变身系统俱全。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "An Indonesian fantasy RPG by AdanRafli: the hero Liyue arrives in a forest town and crosses paths with a strange man who calls himself a Barbarian; weapon and armor shops, a gacha system, and transformations round out the small adventure.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "インドネシアの作者 AdanRafli によるファンタジーRPG。英雄 Liyue が森の町に到着し、自らをバーバリアンと名乗る怪人と出会い、冒険が始まる。武器屋・防具屋、ガチャや変身システムを備える。",
+          "editorialStatus": "draft"
+        }
+      },
+      "externalLinks": [
+        {
+          "type": "official",
+          "url": "https://webrpg.org/AdanRafli-Dreamcore-X1/",
+          "label": "Play — Dreamcore-X1 (WebRPG)"
+        },
+        {
+          "type": "source",
+          "url": "https://github.com/AdanRafli/Dreamcore-X1",
+          "label": "GitHub — AdanRafli/Dreamcore-X1"
+        }
+      ],
+      "contentAdvisory": {
+        "nsfw": false
+      }
+    },
+    "dreamtale": {
+      "schemaVersion": 1,
+      "slug": "dreamtale",
+      "originalTitle": "DreamTale",
+      "taxonomy": {
+        "genres": [
+          "rpg"
+        ],
+        "themes": [
+          "fantasy"
+        ],
+        "contentType": "full-game"
+      },
+      "developers": [
+        {
+          "name": "Lunlis",
+          "url": "https://github.com/Lunlis"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/Lunlis-DreamTale/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "lunlis-dreamtale",
+          "title": "DreamTale",
+          "languages": [
+            "ru"
+          ],
+          "nsfw": false
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/Lunlis/DreamTale",
+          "https://webrpg.org/Lunlis-DreamTale/"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 1,
+      "assessedAt": "2026-11-12",
+      "assessmentSources": [
+        "https://github.com/Lunlis/DreamTale",
+        "https://webrpg.org/Lunlis-DreamTale/"
+      ],
+      "assessmentNote": "GitHub repo + webrpg mirror only (0 stars, no README, no Steam/itch/reviews); game data 20 maps / 131 events / 603 dialogue lines with side quests (Ivanka, lost bear) and a day/night schedule system; dialogue is Russian; translated titles are non-official; rating blank; popularity 1.",
+      "translatedTitles": {
+        "zh-Hans": "梦之传说",
+        "ja": "ドリームテイル"
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "俄语奇幻 RPG：南方村庄正为丰收节做准备，主角卷入村庄的日常与支线——寻找失踪的熊、帮助邻里，日夜流转中推进剧情。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "A Russian fantasy RPG: the southern village prepares for the Harvest Festival while the hero gets drawn into village life and side quests — a lost bear, neighbours in need — as day turns to night.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "ロシア語のファンタジーRPG。南の村が収穫祭の準備を進めるなか、主人公は村の日常とサイドクエスト——行方不明の熊、困っている隣人たち——に巻き込まれ、昼夜の移ろいのなかで物語が進む。",
+          "editorialStatus": "draft"
+        }
+      },
+      "externalLinks": [
+        {
+          "type": "official",
+          "url": "https://webrpg.org/Lunlis-DreamTale/",
+          "label": "Play — DreamTale (WebRPG)"
+        },
+        {
+          "type": "source",
+          "url": "https://github.com/Lunlis/DreamTale",
+          "label": "GitHub — Lunlis/DreamTale"
+        }
+      ],
+      "contentAdvisory": {
+        "nsfw": false
+      }
+    },
+    "dayshift-at-freddys-3": {
+      "schemaVersion": 1,
+      "slug": "dayshift-at-freddys-3",
+      "originalTitle": "A Dayshift at Freddy's 3",
+      "taxonomy": {
+        "genres": [
+          "rpg",
+          "visual-novel"
+        ],
+        "themes": [
+          "comedy",
+          "horror"
+        ],
+        "contentType": "full-game",
+        "mechanics": [
+          "tycoon-management"
+        ]
+      },
+      "developers": [
+        {
+          "name": "DirectDogman",
+          "url": "https://dayshift-at-freddys.fandom.com/wiki/DirectDogman"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/DSAF-Decompliations-OpenDSAF3/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "dsaf-decompliations-opendsaf3",
+          "title": "DSaF 3",
+          "languages": [
+            "en"
+          ],
+          "nsfw": false,
+          "notes": "Full decompilation of DSaF 3 v2.0.4 (OpenDSAF3); game content is the original's."
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://dayshift-at-freddys.fandom.com/wiki/Dayshift_at_Freddy%27s_3",
+          "https://gamejolt.com/games/dsaf/370419",
+          "https://github.com/DSAF-Decompliations/OpenDSAF3"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 7,
+      "assessedAt": "2026-11-12",
+      "assessmentSources": [
+        "https://dayshift-at-freddys.fandom.com/wiki/Dayshift_at_Freddy%27s_3",
+        "https://gamejolt.com/games/dsaf/370419",
+        "https://github.com/DSAF-Decompliations/OpenDSAF3"
+      ],
+      "assessmentNote": "Dedicated Fandom wiki + Game Jolt trilogy page + AO3 fanfic rewrite (2025-07-19) + 2025 article 'Is Dayshift at Freddy's worth watching?'; game data 200 maps / 1482 events / 18441 dialogue lines (tycoon days, Flipside missions, arcade RPG battles); the indexed entry is the OpenDSAF3 full decompilation of v2.0.4, not the original distribution; rating blank — no review score found (Game Jolt page sits behind a mature-audience interstitial; wiki documents but does not score); nsfw stays false — 'sex'/'adult'/'dick'/'fuck' hits are crude jokes or profanity located in the original dialogue, and Game Jolt's mature tag is for fantasy violence + alcohol reference; popularity 7.",
+      "translatedTitles": {
+        "zh-Hans": "弗雷迪的白班3",
+        "ja": "デイシフト・アット・フレディーズ3"
+      },
+      "aliases": {
+        "en": [
+          "DSaF 3",
+          "DSAF 3"
+        ]
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "DirectDogman 的《玩具熊的五夜后宫》同人讽刺三部曲终章：2023 年，主角 Jack 买下 Freddy Fazbender 披萨店套装，经营自己的披萨店、打捞旧店的机械玩偶；夜里则进入灵魂栖息的“里侧”（Flipside），完成六个救赎任务，对抗 Henry Miller。另有街机对战玩法。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "The final chapter of DirectDogman's satirical Five Nights at Freddy's fan trilogy: in 2023, Jack buys a Start Your Own Freddy Fazbender's Pizza Kit and runs his own pizzeria — salvaging animatronics from abandoned locations by day — and enters the Flipside, where souls linger, to complete six redemption missions against Henry Miller. Arcade-machine RPG battles included.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "DirectDogman による『Five Nights at Freddy's』の風刺同人三部作の最終章。2023年、主人公 Jack はフレディ・ファズベンダー・ピザ店キットを購入し、自分のピザ店を経営しながら廃墟となった旧店舗からアニマトロニクスを回収する。夜には魂が集う「裏側」（Flipside）に入り、6つの救済ミッションをこなして Henry Miller に立ち向かう。アーケードマシンでのRPGバトルも備える。",
+          "editorialStatus": "draft"
+        }
+      },
+      "externalLinks": [
+        {
+          "type": "official",
+          "url": "https://gamejolt.com/games/dsaf/370419",
+          "label": "Game Jolt — Dayshift at Freddy's Trilogy"
+        },
+        {
+          "type": "wiki",
+          "url": "https://dayshift-at-freddys.fandom.com/wiki/Dayshift_at_Freddy%27s_3",
+          "label": "Fandom wiki — Dayshift at Freddy's 3"
+        },
+        {
+          "type": "source",
+          "url": "https://github.com/DSAF-Decompliations/OpenDSAF3",
+          "label": "GitHub — DSAF-Decompliations/OpenDSAF3 (v2.0.4 decompilation)"
+        }
+      ],
+      "contentAdvisory": {
+        "nsfw": false
+      }
+    },
+    "dual-escape": {
+      "schemaVersion": 1,
+      "slug": "dual-escape",
+      "originalTitle": "Dual Escape",
+      "taxonomy": {
+        "genres": [
+          "puzzle",
+          "adventure"
+        ],
+        "themes": [
+          "mystery"
+        ],
+        "contentType": "full-game"
+      },
+      "developers": [
+        {
+          "name": "mattmaomao",
+          "url": "https://github.com/mattmaomao"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/mattmaomao-Dual-Escape-RPG/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "mattmaomao-dual-escape-rpg",
+          "title": "Dual Escape",
+          "languages": [
+            "zh-Hant"
+          ],
+          "nsfw": false
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/mattmaomao/Dual-Escape-RPG",
+          "https://webrpg.org/mattmaomao-Dual-Escape-RPG/"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 1,
+      "assessedAt": "2026-11-12",
+      "assessmentSources": [
+        "https://github.com/mattmaomao/Dual-Escape-RPG",
+        "https://webrpg.org/mattmaomao-Dual-Escape-RPG/"
+      ],
+      "assessmentNote": "GitHub repo + webrpg mirror only (0 stars, no README, no Steam/itch/reviews); game data 23 maps / 487 events / 900 dialogue lines — a complete two-player co-op puzzle chain (chest puzzle, prison keys, pie delivery, Annie's diary, master-room finale); dialogue is Cantonese in Traditional characters; translated titles are non-official; rating blank; popularity 1.",
+      "translatedTitles": {
+        "zh-Hans": "双重逃脱",
+        "ja": "デュアル・エスケープ"
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "粤语双人合作密室逃脱游戏：两名玩家在催眠师的引导下进入梦境，醒来发现身处一栋旧式大宅，须分头合作解开客房、地下室、游戏室与主人房的机关，找出大宅的秘密。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "A Cantonese two-player co-operative escape game: under a hypnotist's guidance, two players enter a dream and wake in an old mansion, where they must split up and cooperate through guest rooms, the basement, game rooms, and the master bedroom to uncover the mansion's secret.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "広東語の2人協力型脱出ゲーム。催眠術師の誘導で夢に入った2人のプレイヤーは古い大邸宅で目覚め、客室、地下室、ゲーム部屋、主人の部屋の仕掛けを分担して解き、邸宅の秘密を探る。",
+          "editorialStatus": "draft"
+        }
+      },
+      "externalLinks": [
+        {
+          "type": "official",
+          "url": "https://webrpg.org/mattmaomao-Dual-Escape-RPG/",
+          "label": "Play — Dual Escape (WebRPG)"
+        },
+        {
+          "type": "source",
+          "url": "https://github.com/mattmaomao/Dual-Escape-RPG",
+          "label": "GitHub — mattmaomao/Dual-Escape-RPG"
+        }
+      ],
+      "contentAdvisory": {
+        "nsfw": false
+      }
+    },
+    "dungeons-crawler-something": {
+      "schemaVersion": 1,
+      "slug": "dungeons-crawler-something",
+      "originalTitle": "Dungeons Crawler Something",
+      "taxonomy": {
+        "genres": [
+          "rpg"
+        ],
+        "themes": [
+          "fantasy"
+        ],
+        "contentType": "full-game"
+      },
+      "developers": [
+        {
+          "name": "uides1",
+          "url": "https://github.com/uides1"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/uides1-uides1.dcs.github.io/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "uides1-uides1-dcs-github-io",
+          "title": "Dungeons Crawler Something",
+          "languages": [
+            "en"
+          ],
+          "nsfw": false
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://webrpg.org/uides1-uides1.dcs.github.io/"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 1,
+      "assessedAt": "2026-11-12",
+      "assessmentSources": [
+        "https://webrpg.org/uides1-uides1.dcs.github.io/"
+      ],
+      "assessmentNote": "WebRPG mirror only (no sourceRepo, no sourceHeadSha, no Steam/itch/reviews); game data 23 maps / 336 events / 857 dialogue lines — a complete dungeon crawl (five cave types, crystal restoration, Thieves' Guild + tower bosses, secret boss); translated titles are non-official; rating blank; popularity 1.",
+      "translatedTitles": {
+        "zh-Hans": "地牢爬行者",
+        "ja": "ダンジョンズ・クローラー・サムシング"
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "一款地牢探索 RPG：洞窟中的水晶相继失灵，冒险者公会派出小队深入石窟、下水道、冰窟、熔岩洞与诅咒洞窟，修复水晶，挑战盗贼公会与高塔之主，并有隐藏 Boss。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "A dungeon-crawling RPG: the crystals in the caves have failed, and the Adventurers' Guild sends a party deep into stone, sewer, ice, lava, and cursed caves to restore them, taking on the Thieves' Guild and the masters of the tower — with a secret boss waiting.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "ダンジョン探索RPG。洞窟のクリスタルが次々と機能を失い、冒険者ギルドは一行を石窟、下水道、氷窟、溶岩洞、呪いの洞窟へ送り込む。クリスタルを修復し、盗賊ギルドと塔の主たちに挑む。隠しボスも待ち受ける。",
+          "editorialStatus": "draft"
+        }
+      },
+      "externalLinks": [
+        {
+          "type": "official",
+          "url": "https://webrpg.org/uides1-uides1.dcs.github.io/",
+          "label": "Play — Dungeons Crawler Something (WebRPG)"
+        }
+      ],
+      "contentAdvisory": {
+        "nsfw": false
+      }
+    },
+    "eduventure": {
+      "schemaVersion": 1,
+      "slug": "eduventure",
+      "originalTitle": "EduVenture",
+      "taxonomy": {
+        "genres": [
+          "rpg"
+        ],
+        "themes": [
+          "educational"
+        ],
+        "contentType": "full-game",
+        "mechanics": [
+          "quiz"
+        ]
+      },
+      "developers": [
+        {
+          "name": "BotakHage",
+          "url": "https://github.com/BotakHage"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/BotakHage-Eduventure/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "botakhage-eduventure",
+          "title": "EduVenture",
+          "languages": [
+            "en",
+            "id"
+          ],
+          "nsfw": false
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/BotakHage/Eduventure",
+          "https://webrpg.org/BotakHage-Eduventure/"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 1,
+      "assessedAt": "2026-11-12",
+      "assessmentSources": [
+        "https://github.com/BotakHage/Eduventure",
+        "https://webrpg.org/BotakHage-Eduventure/"
+      ],
+      "assessmentNote": "GitHub repo + webrpg mirror only (0 stars, no README, no Steam/itch/reviews; the Devpost 'Edu-venture' is a different 2017 Unity game); game data 8 maps / 160 events / 812 dialogue lines — subject-themed quiz stages with stage-progress switches; the 'dick' keyword hit is the quiz answer 'Moby-Dick', harmless; translated titles are non-official; rating blank; popularity 1.",
+      "translatedTitles": {
+        "zh-Hans": "教育冒险",
+        "ja": "エデュベンチャー"
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "印尼教育 RPG：玩家在校园中穿梭于语言、艺术与技术等科目关卡，通过答题推进——莎士比亚、文学名著等课堂问答构成主要玩法。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "An Indonesian educational RPG: explore a school through subject-themed stages — language, arts, technology — answering classroom quiz questions (Shakespeare, classic literature, and more) to progress.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "インドネシアの教育RPG。言語、芸術、技術などの科目別ステージが並ぶ校舎を巡り、シェイクスピアや古典文学などの授業クイズに答えて進む。",
+          "editorialStatus": "draft"
+        }
+      },
+      "externalLinks": [
+        {
+          "type": "official",
+          "url": "https://webrpg.org/BotakHage-Eduventure/",
+          "label": "Play — EduVenture (WebRPG)"
+        },
+        {
+          "type": "source",
+          "url": "https://github.com/BotakHage/Eduventure",
+          "label": "GitHub — BotakHage/Eduventure"
+        }
+      ],
+      "contentAdvisory": {
+        "nsfw": false
+      }
+    },
+    "el-fili": {
+      "schemaVersion": 1,
+      "slug": "el-fili",
+      "originalTitle": "El Fili",
+      "taxonomy": {
+        "genres": [
+          "rpg"
+        ],
+        "themes": [
+          "drama"
+        ],
+        "contentType": "full-game"
+      },
+      "developers": [
+        {
+          "name": "rravenorr",
+          "url": "https://github.com/rravenorr"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/rravenorr-El_Fili/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "rravenorr-el-fili",
+          "title": "El Fili",
+          "languages": [
+            "en",
+            "tl"
+          ],
+          "nsfw": false
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/rravenorr/El_Fili",
+          "https://webrpg.org/rravenorr-El_Fili/"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 1,
+      "assessedAt": "2026-11-12",
+      "assessmentSources": [
+        "https://github.com/rravenorr/El_Fili",
+        "https://webrpg.org/rravenorr-El_Fili/"
+      ],
+      "assessmentNote": "GitHub repo + webrpg mirror only (0 stars, no README, no Steam/itch/reviews; web search returns only study material on Rizal's novel); game data 21 maps / 220 events / 693 dialogue lines adapting El Filibusterismo (steamboat arrival, churches, jails, forests, wedding venue); opening monologue is Tagalog; en title 'Reign of Greed' is the novel's English alternative title (also the old meta title field); zh-Hans title left blank (no verifiable Chinese title); rating blank; popularity 1.",
+      "translatedTitles": {
+        "en": "Reign of Greed",
+        "ja": "エル・フィリ"
+      },
+      "aliases": {
+        "en": [
+          "The Reign of Greed"
+        ],
+        "es": [
+          "El Filibusterismo"
+        ]
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "改编自菲律宾民族英雄黎刹 1891 年小说 El Filibusterismo 的 RPG：被认为已死的 Ibarra 以珠宝商 Simoun 的身份归来，誓要颠覆殖民统治；玩家乘蒸汽船抵达，在教堂、监狱与森林之间推进革命剧情。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "An RPG adapting José Rizal's 1891 novel El Filibusterismo: Ibarra, believed dead, returns as the jeweller Simoun, bent on overturning colonial rule; arrive by steamboat and push the revolutionary plot through churches, jails, and forests.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "フィリピンの国民的英雄ホセ・リサールの1891年の小説『El Filibusterismo』を題材にしたRPG。死んだと思われていた Ibarra は宝石商 Simoun として帰国し、植民地支配の転覆を誓う。蒸気船で到着し、教会、牢獄、森を巡りながら革命の物語が進む。",
+          "editorialStatus": "draft"
+        }
+      },
+      "externalLinks": [
+        {
+          "type": "official",
+          "url": "https://webrpg.org/rravenorr-El_Fili/",
+          "label": "Play — El Fili (WebRPG)"
+        },
+        {
+          "type": "source",
+          "url": "https://github.com/rravenorr/El_Fili",
+          "label": "GitHub — rravenorr/El_Fili"
+        }
+      ],
+      "contentAdvisory": {
+        "nsfw": false
+      }
     }
   }
 }
