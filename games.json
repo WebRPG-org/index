@@ -8117,6 +8117,801 @@
       "contentAdvisory": {
         "nsfw": false
       }
+    },
+    "el-redentor-mistico": {
+      "schemaVersion": 1,
+      "slug": "el-redentor-mistico",
+      "originalTitle": "EL REDENTOR MÍSTICO",
+      "taxonomy": {
+        "genres": [
+          "rpg"
+        ],
+        "themes": [
+          "fantasy"
+        ],
+        "contentType": "full-game"
+      },
+      "developers": [
+        {
+          "name": "gcascalese",
+          "url": "https://github.com/gcascalese"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/gcascalese-TFG_UOC/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "gcascalese-tfg-uoc",
+          "title": "EL REDENTOR MÍSTICO",
+          "languages": [
+            "es"
+          ],
+          "nsfw": false
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/gcascalese/TFG_UOC",
+          "https://webrpg.org/gcascalese-TFG_UOC/"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 1,
+      "assessedAt": "2026-11-12",
+      "assessmentSources": [
+        "https://github.com/gcascalese/TFG_UOC",
+        "https://webrpg.org/gcascalese-TFG_UOC/"
+      ],
+      "assessmentNote": "GitHub repo + webrpg mirror only (README is two lines, no Steam/itch/reviews); game data 21 maps / 830 events / 2321 dialogue lines — a complete RPG arc (shipwreck start, Clariate kingdom, Despaire ruins, castle tower, Hephaestus volcano, Dark Kingdom, Ending switch); dialogue is Spanish; translated titles are non-official; rating blank; popularity 1.",
+      "translatedTitles": {
+        "en": "The Mystical Redeemer",
+        "ja": "エル・レデントール・ミスティコ",
+        "zh-Hans": "神秘救世主"
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "西班牙语毕业设计（UOC）奇幻 RPG：主角遭遇海难后，在 Clariate 王国、Despaire 遗迹、Hefesto 火山与黑暗王国之间冒险，与 Fanny、Markius、Figur 等伙伴同行，对抗恶魔实体，迎接结局。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "A Spanish final-degree-project fantasy RPG (UOC): after a shipwreck, the hero adventures across the Kingdom of Clariate, the Ruins of Despaire, the Volcano of Hephaestus, and the Dark Kingdom, travelling with companions Fanny, Markius, and Figur to confront a demonic entity and reach the ending.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "スペイン語の卒業制作（UOC）ファンタジーRPG。難破した主人公は Clariate 王国、Despaire 遺跡、Hefesto 火山、闇の王国を巡り、Fanny、Markius、Figur ら仲間とともに悪魔の存在に立ち向かい、結末へと進む。",
+          "editorialStatus": "draft"
+        }
+      },
+      "externalLinks": [
+        {
+          "type": "official",
+          "url": "https://webrpg.org/gcascalese-TFG_UOC/",
+          "label": "Play — El Redentor Místico (WebRPG)"
+        },
+        {
+          "type": "source",
+          "url": "https://github.com/gcascalese/TFG_UOC",
+          "label": "GitHub — gcascalese/TFG_UOC"
+        }
+      ],
+      "contentAdvisory": {
+        "nsfw": false
+      }
+    },
+    "eles-ainda-estao-nas-paredes": {
+      "schemaVersion": 1,
+      "slug": "eles-ainda-estao-nas-paredes",
+      "originalTitle": "Eles ainda estão nas paredes!",
+      "taxonomy": {
+        "genres": [
+          "adventure"
+        ],
+        "themes": [
+          "horror",
+          "mystery"
+        ],
+        "contentType": "full-game"
+      },
+      "developers": [
+        {
+          "name": "Na-Na-Ti",
+          "url": "https://github.com/Na-Na-Ti"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/Na-Na-Ti-Game-Design/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "na-na-ti-game-design",
+          "title": "Eles ainda estão nas paredes!",
+          "languages": [
+            "pt"
+          ],
+          "nsfw": false
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/Na-Na-Ti/Game-Design",
+          "https://webrpg.org/Na-Na-Ti-Game-Design/"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 1,
+      "assessedAt": "2026-11-12",
+      "assessmentSources": [
+        "https://github.com/Na-Na-Ti/Game-Design",
+        "https://webrpg.org/Na-Na-Ti-Game-Design/"
+      ],
+      "assessmentNote": "GitHub repo + webrpg mirror only (README is two lines, no Steam/itch/reviews); game data 25 maps / 293 events / 792 dialogue lines — a complete haunted-mansion adventure (living room, basement maze, dream room, old-man/rats/face scenes, kitchen, office, library); dialogue is Portuguese (System.json locale is the RPG Maker default en_US); translated titles are non-official; rating blank; popularity 1.",
+      "translatedTitles": {
+        "en": "They're Still in the Walls!",
+        "ja": "壁の中にまだいる！",
+        "zh-Hans": "它们还在墙里！"
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "葡萄牙语恐怖冒险游戏：玩家走进一栋闹鬼的大宅，穿过客厅、地下室迷宫与走廊，经历梦境房间、老人、老鼠与面孔等场景，在厨房、办公室与图书馆之间追寻“墙里的东西”。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "A Portuguese horror adventure: step into a haunted mansion and cross the living room, the basement maze, and the corridors, living through the dream room, the old man, the rats, and the face scenes, and searching the kitchen, office, and library for what is still in the walls.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "ポルトガル語のホラーアドベンチャー。呪われた館に足を踏み入れ、居間、地下室の迷宮、廊下を進み、夢の部屋、老人、ネズミ、顔の場面を経て、台所、書斎、図書室で「壁の中にまだいるもの」を追う。",
+          "editorialStatus": "draft"
+        }
+      },
+      "externalLinks": [
+        {
+          "type": "official",
+          "url": "https://webrpg.org/Na-Na-Ti-Game-Design/",
+          "label": "Play — Eles ainda estão nas paredes! (WebRPG)"
+        },
+        {
+          "type": "source",
+          "url": "https://github.com/Na-Na-Ti/Game-Design",
+          "label": "GitHub — Na-Na-Ti/Game-Design"
+        }
+      ],
+      "contentAdvisory": {
+        "nsfw": false
+      }
+    },
+    "elise": {
+      "schemaVersion": 1,
+      "slug": "elise",
+      "originalTitle": "Elise.",
+      "taxonomy": {
+        "genres": [
+          "visual-novel"
+        ],
+        "themes": [
+          "drama"
+        ],
+        "contentType": "full-game"
+      },
+      "developers": [
+        {
+          "name": "JacsonGold",
+          "url": "https://github.com/JacsonGold"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/JacsonGold-12DTM-RPGMakerGame-Repository/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "jacsongold-12dtm-rpgmakergame-repository",
+          "title": "Elise.",
+          "languages": [
+            "en"
+          ],
+          "nsfw": false
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/JacsonGold/12DTM-RPGMakerGame-Repository",
+          "https://webrpg.org/JacsonGold-12DTM-RPGMakerGame-Repository/"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 1,
+      "assessedAt": "2026-11-12",
+      "assessmentSources": [
+        "https://github.com/JacsonGold/12DTM-RPGMakerGame-Repository",
+        "https://webrpg.org/JacsonGold-12DTM-RPGMakerGame-Repository/"
+      ],
+      "assessmentNote": "GitHub repo + webrpg mirror only (no Steam/itch/reviews; must not be confused with the adult visual novel 'Elise and the Spellbinding Marionette', a different game); game data 13 maps / 75 events / 1823 dialogue lines — a dialogue-dense school drama VN (classrooms, music practice room, home; Dad, Anne, dinner confrontation, Shadow Figure); translated titles are non-official; rating blank; popularity 1.",
+      "translatedTitles": {
+        "zh-Hans": "爱丽丝",
+        "ja": "エリーズ"
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "英语视觉小说：以学校为舞台的家庭剧情，1823 行对白贯穿教室、音乐练习室与家中场景——父亲、Anne、晚餐桌上的对峙，以及徘徊的黑影。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "An English visual novel: a school-set family drama told across 1,823 dialogue lines — classrooms, the music practice room, and home, with Dad, Anne, a dinner-table confrontation, and a lurking Shadow Figure.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "英語のビジュアルノベル。学校を舞台にした家族ドラマで、1,823行の台詞が教室、音楽練習室、家を貫く。父、Anne、夕食の対峙、そして忍び寄る影の人物。",
+          "editorialStatus": "draft"
+        }
+      },
+      "externalLinks": [
+        {
+          "type": "official",
+          "url": "https://webrpg.org/JacsonGold-12DTM-RPGMakerGame-Repository/",
+          "label": "Play — Elise. (WebRPG)"
+        },
+        {
+          "type": "source",
+          "url": "https://github.com/JacsonGold/12DTM-RPGMakerGame-Repository",
+          "label": "GitHub — JacsonGold/12DTM-RPGMakerGame-Repository"
+        }
+      ],
+      "contentAdvisory": {
+        "nsfw": false
+      }
+    },
+    "embermon": {
+      "schemaVersion": 1,
+      "slug": "embermon",
+      "originalTitle": "Embermon",
+      "taxonomy": {
+        "genres": [
+          "rpg"
+        ],
+        "themes": [
+          "sci-fi"
+        ],
+        "contentType": "full-game"
+      },
+      "developers": [
+        {
+          "name": "RedPillPhil",
+          "url": "https://github.com/RedPillPhil"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/RedPillPhil-Emberchain/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "redpillphil-emberchain",
+          "title": "Embermon",
+          "languages": [
+            "en"
+          ],
+          "nsfw": false
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/RedPillPhil/Emberchain",
+          "https://webrpg.org/RedPillPhil-Emberchain/"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 1,
+      "assessedAt": "2026-11-12",
+      "assessmentSources": [
+        "https://github.com/RedPillPhil/Emberchain",
+        "https://webrpg.org/RedPillPhil-Emberchain/"
+      ],
+      "assessmentNote": "GitHub repo + webrpg mirror only (no README, no Steam/itch/reviews; must not be confused with blockchain monster games like Ethermon); game data 11 maps / 48 events / 91 dialogue lines — small but structurally complete (intro, town, house, Boston, Wasteland, Vault 111; starter selection, enemy battles, Pip-Boy-style menu); nsfw stays false — the 'sex' hit is the 'Sex/Male' character-sex selection switch; translated titles are non-official; rating blank; popularity 1.",
+      "translatedTitles": {
+        "zh-Hans": "余烬兽",
+        "ja": "エンバーモン"
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "辐射风味的怪物收集 RPG：玩家在 Ember 小镇出发，穿过波士顿与废土，进入 111 号避难所；开局选择初始怪，沿途与敌人战斗，菜单致敬 Pip-Boy。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "A Fallout-flavoured monster-catching RPG: set out from Ember Town, cross Boston and the Wasteland, and enter Vault 111; pick a starter monster, battle enemies along the way, and navigate a Pip-Boy-style menu.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "フォールアウト風のモンスター収集RPG。Ember の町から出発し、ボストンと荒野を越えて Vault 111 へ。最初のモンスターを選び、道中の敵と戦い、Pip-Boy 風メニューを使いこなす。",
+          "editorialStatus": "draft"
+        }
+      },
+      "externalLinks": [
+        {
+          "type": "official",
+          "url": "https://webrpg.org/RedPillPhil-Emberchain/",
+          "label": "Play — Embermon (WebRPG)"
+        },
+        {
+          "type": "source",
+          "url": "https://github.com/RedPillPhil/Emberchain",
+          "label": "GitHub — RedPillPhil/Emberchain"
+        }
+      ],
+      "contentAdvisory": {
+        "nsfw": false
+      }
+    },
+    "english-hero": {
+      "schemaVersion": 1,
+      "slug": "english-hero",
+      "originalTitle": "English Hero 英語勇者",
+      "taxonomy": {
+        "genres": [
+          "rpg"
+        ],
+        "themes": [
+          "educational"
+        ],
+        "contentType": "demo",
+        "mechanics": [
+          "quiz"
+        ]
+      },
+      "developers": [
+        {
+          "name": "tenantintent",
+          "url": "https://github.com/tenantintent"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/tenantintent-EnglishHeroTrial/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "tenantintent-englishherotrial",
+          "title": "English Hero 英語勇者",
+          "languages": [
+            "en",
+            "zh-Hant"
+          ],
+          "nsfw": false
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/tenantintent/EnglishHeroTrial",
+          "https://webrpg.org/tenantintent-EnglishHeroTrial/"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 1,
+      "assessedAt": "2026-11-12",
+      "assessmentSources": [
+        "https://github.com/tenantintent/EnglishHeroTrial",
+        "https://webrpg.org/tenantintent-EnglishHeroTrial/"
+      ],
+      "assessmentNote": "GitHub repo + webrpg mirror only (no README, no Steam/itch/reviews); game data 17 maps / 119 events / 381 dialogue lines — a complete quiz-level loop (level init, vocabulary segments, review scoring, boss levels, campfire dialogue, fast travel); contentType demo — the repo is explicitly named EnglishHeroTrial; the original title already contains en + zh-Hant, so translatedTitles lists only zh-Hans (simplified form) and ja; rating blank; popularity 1.",
+      "translatedTitles": {
+        "zh-Hans": "英语勇者",
+        "ja": "イングリッシュ・ヒーロー"
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "繁中英语学习 RPG（试玩版）：玩家在胡迪村与 BM 森林之间冒险，通过关卡问答学生词——复习计分、Boss 关卡、营火对话，边打怪边背单词。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "A Traditional Chinese English-learning RPG (trial version): adventure through Hoodie Village and the BM Forest while learning English vocabulary through level quizzes — review scoring, boss levels, and campfire chats between battles.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "繁体字中国語の英語学習RPG（体験版）。フーディ村と BM の森を冒険しながら、レベルクイズで英単語を学ぶ。復習の採点、ボスレベル、焚き火の会話を交えて、戦いながら単語を覚える。",
+          "editorialStatus": "draft"
+        }
+      },
+      "externalLinks": [
+        {
+          "type": "official",
+          "url": "https://webrpg.org/tenantintent-EnglishHeroTrial/",
+          "label": "Play — English Hero 英語勇者 (WebRPG)"
+        },
+        {
+          "type": "source",
+          "url": "https://github.com/tenantintent/EnglishHeroTrial",
+          "label": "GitHub — tenantintent/EnglishHeroTrial"
+        }
+      ],
+      "contentAdvisory": {
+        "nsfw": false
+      }
+    },
+    "enigmaria": {
+      "schemaVersion": 1,
+      "slug": "enigmaria",
+      "originalTitle": "Enigmária",
+      "taxonomy": {
+        "genres": [
+          "puzzle",
+          "adventure"
+        ],
+        "themes": [
+          "mystery"
+        ],
+        "contentType": "full-game"
+      },
+      "developers": [
+        {
+          "name": "IsaacRogovski",
+          "url": "https://github.com/IsaacRogovski"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/IsaacRogovski-enigmaria/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "isaacrogovski-enigmaria",
+          "title": "Enigmária",
+          "languages": [
+            "pt"
+          ],
+          "nsfw": false
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/IsaacRogovski/enigmaria",
+          "https://webrpg.org/IsaacRogovski-enigmaria/"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 1,
+      "assessedAt": "2026-11-12",
+      "assessmentSources": [
+        "https://github.com/IsaacRogovski/enigmaria",
+        "https://webrpg.org/IsaacRogovski-enigmaria/"
+      ],
+      "assessmentNote": "GitHub repo + webrpg mirror only (no README, no Steam/itch/reviews); game data 21 maps / 243 events / 204 dialogue lines — a complete puzzle chain (doors, buttons, stones m1–m15, clock activation, password door, ev1–ev15 switches) across Vila Fuya, houses, tower, prison, and labyrinth; translated titles are non-official (en is the accent-stripped title, zh-Hans is a transliteration); rating blank; popularity 1.",
+      "translatedTitles": {
+        "en": "Enigmaria",
+        "ja": "エニグマリア",
+        "zh-Hans": "埃尼格玛丽亚"
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "葡萄牙语解谜冒险游戏：玩家来到 Vila Fuya 村，在 Diane、Mairla、Sarah 等人的屋子之间穿梭，解开门、按钮、石头、时钟与密码门构成的谜题链，深入高塔、监狱与迷宫。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "A Portuguese puzzle adventure: arrive in Vila Fuya and move between the houses of Diane, Mairla, Sarah, and the others, solving a puzzle chain of doors, buttons, stones, a clock, and a password door, down into the tower, the prison, and the labyrinth.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "ポルトガル語のパズルアドベンチャー。Vila Fuya 村に到着し、Diane、Mairla、Sarah らの家々を巡りながら、扉、ボタン、石、時計、暗証番号の扉からなる謎解きの連鎖を解き、塔、牢獄、迷宮へと進む。",
+          "editorialStatus": "draft"
+        }
+      },
+      "externalLinks": [
+        {
+          "type": "official",
+          "url": "https://webrpg.org/IsaacRogovski-enigmaria/",
+          "label": "Play — Enigmária (WebRPG)"
+        },
+        {
+          "type": "source",
+          "url": "https://github.com/IsaacRogovski/enigmaria",
+          "label": "GitHub — IsaacRogovski/enigmaria"
+        }
+      ],
+      "contentAdvisory": {
+        "nsfw": false
+      }
+    },
+    "escape-from-shangri-la": {
+      "schemaVersion": 1,
+      "slug": "escape-from-shangri-la",
+      "originalTitle": "Escape from Shangri-La",
+      "taxonomy": {
+        "genres": [
+          "puzzle",
+          "adventure"
+        ],
+        "themes": [],
+        "contentType": "full-game"
+      },
+      "developers": [
+        {
+          "name": "susobhang70",
+          "url": "https://github.com/susobhang70"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/susobhang70-rpg_maze_runner/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "susobhang70-rpg-maze-runner",
+          "title": "Escape from Shangri-La",
+          "languages": [
+            "en"
+          ],
+          "nsfw": false
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/susobhang70/rpg_maze_runner",
+          "https://webrpg.org/susobhang70-rpg_maze_runner/"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 1,
+      "assessedAt": "2026-11-12",
+      "assessmentSources": [
+        "https://github.com/susobhang70/rpg_maze_runner",
+        "https://webrpg.org/susobhang70-rpg_maze_runner/"
+      ],
+      "assessmentNote": "GitHub repo + webrpg mirror only (no Steam/itch/reviews; must not be confused with Michael Morpurgo's 1998 children's novel or the Forgotten Futures tabletop adventure of the same name); README documents a complete game (3 levels, limited FOV mazes, 4 treasures per level, trap doors, timer); game data 9 maps / 15 events / 35 dialogue lines with a 22-line final sequence; themes left empty (no verifiable theme label); rating blank; popularity 1.",
+      "translatedTitles": {
+        "zh-Hans": "逃离香格里拉",
+        "ja": "シャングリラからの脱出"
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "儿童迷宫解谜游戏：每关都是一座视野受限的迷宫，收集 4 件宝藏、找到陷阱门进入下一关；每关前有一段小故事，计时器全程运转，终幕收束剧情。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "A children's maze puzzle game: each level is a maze with a small visible range around the character — collect 4 treasures, find the trap door to the next level, and race the timer, with a short story before each level and a final sequence to close it out.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "子ども向け迷路パズルゲーム。各レベルは視界の限られた迷宮で、4つの宝物を集め、罠の扉から次のレベルへ。タイマーが刻むなか、各レベルの前に短い物語があり、最終シークエンスで締めくくる。",
+          "editorialStatus": "draft"
+        }
+      },
+      "externalLinks": [
+        {
+          "type": "official",
+          "url": "https://webrpg.org/susobhang70-rpg_maze_runner/",
+          "label": "Play — Escape from Shangri-La (WebRPG)"
+        },
+        {
+          "type": "source",
+          "url": "https://github.com/susobhang70/rpg_maze_runner",
+          "label": "GitHub — susobhang70/rpg_maze_runner"
+        }
+      ],
+      "contentAdvisory": {
+        "nsfw": false
+      }
+    },
+    "eternal-mazes": {
+      "schemaVersion": 1,
+      "slug": "eternal-mazes",
+      "originalTitle": "Eternal Mazes",
+      "taxonomy": {
+        "genres": [
+          "rpg"
+        ],
+        "themes": [
+          "fantasy"
+        ],
+        "contentType": "full-game"
+      },
+      "developers": [
+        {
+          "name": "Luics415",
+          "url": "https://github.com/Luics415"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/Luics415-EternalMazesRPG-Windows/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "luics415-eternalmazesrpg-windows",
+          "title": "Eternal Mazes",
+          "languages": [
+            "es"
+          ],
+          "nsfw": false
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/Luics415/EternalMazesRPG-Windows",
+          "https://webrpg.org/Luics415-EternalMazesRPG-Windows/"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 1,
+      "assessedAt": "2026-11-12",
+      "assessmentSources": [
+        "https://github.com/Luics415/EternalMazesRPG-Windows",
+        "https://webrpg.org/Luics415-EternalMazesRPG-Windows/"
+      ],
+      "assessmentNote": "GitHub repo + webrpg mirror only (no Steam/itch/reviews; must not be confused with FredBear Games' mobile game 'Eternal Maze'); game data 71 maps / 941 events / 990 dialogue lines — a large RPG (four elemental labyrinths with start/final switches, three-floor demon castle, school intro, fishing village, party members Maria/Bryans/David, turn-based combat); translated titles are non-official; rating blank; popularity 1.",
+      "translatedTitles": {
+        "zh-Hans": "永恒迷宫",
+        "ja": "エターナル・メイズ"
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "西班牙语大型奇幻 RPG：玩家穿越火、冰、毒、雪四元素迷宫，攻入三层恶魔城堡，途经古代遗迹、学校与渔村，与 Maria、Bryans、David 等伙伴并肩作战。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "A large Spanish fantasy RPG: cross the four elemental labyrinths — fire, ice, poison, and snow — storm the three-floor demon castle, and pass through ancient ruins, a school, and a fishing village, fighting turn-based battles alongside Maria, Bryans, and David.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "スペイン語の大作ファンタジーRPG。火・氷・毒・雪の4つの元素迷宮を越え、3階建ての魔王城に攻め込み、古代遺跡、学校、漁村を巡りながら、Maria、Bryans、David ら仲間とターン制バトルを繰り広げる。",
+          "editorialStatus": "draft"
+        }
+      },
+      "externalLinks": [
+        {
+          "type": "official",
+          "url": "https://webrpg.org/Luics415-EternalMazesRPG-Windows/",
+          "label": "Play — Eternal Mazes (WebRPG)"
+        },
+        {
+          "type": "source",
+          "url": "https://github.com/Luics415/EternalMazesRPG-Windows",
+          "label": "GitHub — Luics415/EternalMazesRPG-Windows"
+        }
+      ],
+      "contentAdvisory": {
+        "nsfw": false
+      }
+    },
+    "etudes01": {
+      "schemaVersion": 1,
+      "slug": "etudes01",
+      "originalTitle": "Etudes01",
+      "taxonomy": {
+        "genres": [
+          "rpg"
+        ],
+        "themes": [
+          "fantasy"
+        ],
+        "contentType": "full-game"
+      },
+      "developers": [],
+      "media": {
+        "cover": "https://webrpg.org/huanbieyuan-huanbieyuan.github.io/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "huanbieyuan-huanbieyuan-github-io",
+          "title": "Etudes01",
+          "languages": [
+            "zh-Hans"
+          ],
+          "nsfw": false
+        },
+        {
+          "type": "internal",
+          "id": "tenebrous-world-tenebrous-github-io",
+          "title": "Etudes01",
+          "languages": [
+            "zh-Hans"
+          ],
+          "nsfw": false
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://webrpg.org/huanbieyuan-huanbieyuan.github.io/",
+          "https://webrpg.org/tenebrous-world-tenebrous.github.io/"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 1,
+      "assessedAt": "2026-11-12",
+      "assessmentSources": [
+        "https://webrpg.org/huanbieyuan-huanbieyuan.github.io/",
+        "https://webrpg.org/tenebrous-world-tenebrous.github.io/"
+      ],
+      "assessmentNote": "WebRPG mirrors only (no README on one fork, Next.js boilerplate README on the other, no Steam/itch/reviews); both forks carry byte-identical game data (5 maps / 69 events / 152 dialogue lines, same map names, switches, and variables) — one game, two instances; developers left blank (both forks are personal-site hosts, author unconfirmed); translatedTitles are non-official (zh-Hans is a literal translation of Études, ja is katakana); rating blank; popularity 1.",
+      "translatedTitles": {
+        "zh-Hans": "练习曲01",
+        "ja": "エチュード01"
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "中文小品 RPG：主角接受委托，深入空中神殿、遗迹与沼泽之间探险；开场白、遗迹深处与沼泽小径构成一段短小完整的冒险。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "A Chinese bite-size RPG: accept a commission and explore between the sky temple, the ruins, and the swamp — a short, complete adventure from the opening lines to the ruins' depths.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "中国語の小品RPG。依頼を受け、空中神殿、遺跡、沼沢を巡る短くも完結した冒険。開幕の言葉から遺跡の奥へと物語が進む。",
+          "editorialStatus": "draft"
+        }
+      },
+      "externalLinks": [
+        {
+          "type": "official",
+          "url": "https://webrpg.org/huanbieyuan-huanbieyuan.github.io/",
+          "label": "Play — Etudes01 (WebRPG)"
+        },
+        {
+          "type": "official",
+          "url": "https://webrpg.org/tenebrous-world-tenebrous.github.io/",
+          "label": "Play — Etudes01, second fork (WebRPG)"
+        }
+      ],
+      "contentAdvisory": {
+        "nsfw": false
+      }
     }
   }
 }

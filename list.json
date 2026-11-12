@@ -12771,18 +12771,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/gcascalese-TFG_UOC/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "adventure",
-        "fantasy"
-      ],
-      "languages": [
-        "es"
-      ],
-      "nsfw": false,
+      "gameSlug": "el-redentor-mistico",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "reviewedAt": "2026-11-07",
+      "nsfw": false,
+      "reviewedSourceHeadSha": "f62a74b99f2957e145e09f419bb9de1372bec5ac"
     }
   },
   {
@@ -12812,19 +12805,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/Na-Na-Ti-Game-Design/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "adventure",
-        "horror",
-        "mystery"
-      ],
-      "languages": [
-        "pt"
-      ],
-      "nsfw": false,
+      "gameSlug": "eles-ainda-estao-nas-paredes",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "reviewedAt": "2026-11-07",
+      "nsfw": false,
+      "reviewedSourceHeadSha": "d077be6d6b255b38a9605dcb3d0abd81505dc113"
     }
   },
   {
@@ -12854,18 +12839,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/JacsonGold-12DTM-RPGMakerGame-Repository/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "visual-novel",
-        "drama"
-      ],
-      "languages": [
-        "en"
-      ],
-      "nsfw": false,
+      "gameSlug": "elise",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "reviewedAt": "2026-11-07",
+      "nsfw": false,
+      "reviewedSourceHeadSha": "0765c85d313222ddfcc39b90d86e658df38a6734"
     }
   },
   {
@@ -12895,18 +12873,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/RedPillPhil-Emberchain/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg",
-        "fantasy"
-      ],
-      "languages": [
-        "en"
-      ],
-      "nsfw": false,
+      "gameSlug": "embermon",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "reviewedAt": "2026-11-07",
+      "nsfw": false,
+      "reviewedSourceHeadSha": "c03c50403c49931973dea1d59025c33fb2dcb9ab"
     }
   },
   {
@@ -13012,19 +12983,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/tenantintent-EnglishHeroTrial/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg",
-        "educational"
-      ],
-      "languages": [
-        "en",
-        "zh-Hant"
-      ],
-      "nsfw": false,
+      "gameSlug": "english-hero",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "reviewedAt": "2026-11-07",
+      "nsfw": false,
+      "reviewedSourceHeadSha": "4f285bcbe41a845b896ac8975ec2c52ccc09f0e5"
     }
   },
   {
@@ -13054,18 +13017,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/IsaacRogovski-enigmaria/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg",
-        "drama"
-      ],
-      "languages": [
-        "pt"
-      ],
-      "nsfw": false,
+      "gameSlug": "enigmaria",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "reviewedAt": "2026-11-07",
+      "nsfw": false,
+      "reviewedSourceHeadSha": "b2e17886d48bc270d89513732a2f76134844893d"
     }
   },
   {
@@ -13095,15 +13051,9 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/z9z9z9z9z9z9-tt/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg",
-        "fantasy"
-      ],
-      "nsfw": false,
-      "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "playable": false,
+      "reviewedAt": "2026-11-07",
+      "nsfw": false
     }
   },
   {
@@ -13133,18 +13083,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/susobhang70-rpg_maze_runner/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "puzzle",
-        "adventure"
-      ],
-      "languages": [
-        "en"
-      ],
-      "nsfw": false,
+      "gameSlug": "escape-from-shangri-la",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "reviewedAt": "2026-11-07",
+      "nsfw": false,
+      "reviewedSourceHeadSha": "9bee9af4109fc3df720573025923ffeb5a90a8ad"
     }
   },
   {
@@ -13174,18 +13117,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/Luics415-EternalMazesRPG-Windows/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg",
-        "fantasy"
-      ],
-      "languages": [
-        "es"
-      ],
-      "nsfw": false,
+      "gameSlug": "eternal-mazes",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "reviewedAt": "2026-11-07",
+      "nsfw": false,
+      "reviewedSourceHeadSha": "3d38457e92615d0cc807151fc0ac856b76adab61"
     }
   },
   {
@@ -13215,18 +13151,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/huanbieyuan-huanbieyuan.github.io/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg",
-        "fantasy"
-      ],
-      "languages": [
-        "zh-Hans"
-      ],
-      "nsfw": false,
+      "gameSlug": "etudes01",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "reviewedAt": "2026-11-07",
+      "nsfw": false,
+      "reviewedSourceHeadSha": "34eb39756d212a5a23a3e73c39ec26d0a3cd783a"
     }
   },
   {
@@ -13256,18 +13185,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/tenebrous-world-tenebrous.github.io/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg",
-        "fantasy"
-      ],
-      "languages": [
-        "zh-Hans"
-      ],
-      "nsfw": false,
+      "gameSlug": "etudes01",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "reviewedAt": "2026-11-07",
+      "nsfw": false,
+      "reviewedSourceHeadSha": "9e5eac95a67bec425c4a7c76451f4ee9e5888fde"
     }
   },
   {
