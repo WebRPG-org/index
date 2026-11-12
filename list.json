@@ -38491,7 +38491,24 @@
     "processedHeadSha": "bb2f6fc7328d2f26e88e291274021f97ee213805",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/SaveSub-SlaveTrader_EN/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/SaveSub-SlaveTrader_EN/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "aliases": [
+        "Tickling Slave Trader",
+        "Tickling Slave Trader ~100 Days of Rebellion~"
+      ],
+      "genres": [
+        "rpg"
+      ],
+      "languages": [
+        "en"
+      ],
+      "nsfw": true,
+      "playable": true,
+      "popularity": 4,
+      "rating": 5,
+      "reviewedAt": "2026-11-12"
+    }
   },
   {
     "id": "ihatechickfila-tickling-escape-2",
@@ -38515,7 +38532,20 @@
     "processedHeadSha": "7cddb3b0f69db4bae9f5d143d7177e3643fa8ed9",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/Ihatechickfila-Tickling-escape-2/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/Ihatechickfila-Tickling-escape-2/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "adventure"
+      ],
+      "languages": [
+        "ja"
+      ],
+      "nsfw": true,
+      "playable": true,
+      "popularity": 3,
+      "rating": 5,
+      "reviewedAt": "2026-11-12"
+    }
   },
   {
     "id": "savesub-elise-tickleland-en",
@@ -38539,7 +38569,23 @@
     "processedHeadSha": "c4f75a28dafff4ffd6b64d622eacca03ff043c64",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/SaveSub-Elise_Tickleland_EN/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/SaveSub-Elise_Tickleland_EN/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "aliases": [
+        "Elise in Tickleland"
+      ],
+      "genres": [
+        "adventure"
+      ],
+      "languages": [
+        "en"
+      ],
+      "nsfw": true,
+      "playable": true,
+      "popularity": 3,
+      "rating": 5,
+      "reviewedAt": "2026-11-12"
+    }
   },
   {
     "id": "john-smith-rpg-kuso",
@@ -38563,7 +38609,21 @@
     "processedHeadSha": "fd209b9ab66444df6091b73d385d8fd5942c035d",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/john-smith-rpg-kuso/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/john-smith-rpg-kuso/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "adventure",
+        "comedy"
+      ],
+      "languages": [
+        "ja"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-12"
+    }
   },
   {
     "id": "watatarutaru-kochobus",
@@ -38590,7 +38650,17 @@
     "sourceHeadSha": "e3e29d180620bdd84eaa85e9c115bb41988e1265",
     "processedHeadSha": "eadc10f8666128790c26eff7da801ae40c2860ff",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/watatarutaru-Kochobus/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/watatarutaru-Kochobus/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg"
+      ],
+      "nsfw": false,
+      "playable": false,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-12"
+    }
   },
   {
     "id": "triacontane-novelgamesample",
@@ -38682,7 +38752,21 @@
     "processedHeadSha": "b3c5d9d735f752b95ef911eda53adfd83f6d8596",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/tw123777tw-SiyuToHusigiNoGakuen/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/tw123777tw-SiyuToHusigiNoGakuen/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg"
+      ],
+      "languages": [
+        "zh-Hans",
+        "ja"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-12"
+    }
   },
   {
     "id": "haturatu-sradjp",
@@ -38721,7 +38805,21 @@
     "sourceHeadSha": "61b097fe7cadfb3a648710fc36236573a94b98d9",
     "processedHeadSha": "981890501cc4abc3e343421848a0a20605102486",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/watatarutaru-TickleFantasia/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/watatarutaru-TickleFantasia/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "minigame"
+      ],
+      "languages": [
+        "ja",
+        "en"
+      ],
+      "nsfw": true,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-12"
+    }
   },
   {
     "id": "munokura-dq-like-sample-mz",
@@ -38823,7 +38921,20 @@
     "processedHeadSha": "deb9a92b29182d80ef91d2d9bcc1f0933eb9770a",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/oden-neetles/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/oden-neetles/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg"
+      ],
+      "languages": [
+        "ja"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 4,
+      "reviewedAt": "2026-11-12"
+    }
   },
   {
     "id": "hanakusogame-hanakusogame-github-io",
@@ -38871,7 +38982,21 @@
     "processedHeadSha": "cd0da822c97f09ae9d52438ecf11619d15c9a089",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/akanetr-Bounty_Hunter_3/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/akanetr-Bounty_Hunter_3/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg"
+      ],
+      "languages": [
+        "ja",
+        "en"
+      ],
+      "nsfw": true,
+      "playable": true,
+      "popularity": 3,
+      "rating": 5,
+      "reviewedAt": "2026-11-12"
+    }
   },
   {
     "id": "catbread00-www",
@@ -38895,7 +39020,24 @@
     "sourceHeadSha": "5652b3a3bd982f5ea59a8daa684ce995685e8a41",
     "processedHeadSha": "ef428736ac7a667bb39b146007b7034e14ba9415",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/CatBread00-www/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/CatBread00-www/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "aliases": [
+        "Haramase! Mini elf forest."
+      ],
+      "genres": [
+        "rpg"
+      ],
+      "languages": [
+        "ja",
+        "en"
+      ],
+      "nsfw": true,
+      "playable": false,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-12"
+    }
   },
   {
     "id": "alecyawata-tkoolmv-plugincommandbook",
@@ -39004,7 +39146,20 @@
     "processedHeadSha": "d150cb8226a4f48521425ba80481df66d06e3ba2",
     "coverPath": "cover.png",
     "reachable": false,
-    "reachabilityDetail": "https://webrpg.org/oden-Bremen/data/Armors.json responded with HTTP 503"
+    "reachabilityDetail": "https://webrpg.org/oden-Bremen/data/Armors.json responded with HTTP 503",
+    "meta": {
+      "genres": [
+        "adventure"
+      ],
+      "languages": [
+        "ja"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-12"
+    }
   },
   {
     "id": "katai5plate-rpgmv-overflow",
@@ -39026,7 +39181,17 @@
     "sourceHeadSha": "ddd60b93da50f5c8beb01e87153259f894df9b27",
     "processedHeadSha": "06ecdc133ecf84f20ff9e34e01792f42716c0897",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/katai5plate-rpgmv_overflow/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/katai5plate-rpgmv_overflow/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg"
+      ],
+      "nsfw": false,
+      "playable": false,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-12"
+    }
   },
   {
     "id": "a12204002-ryujiatsuta-eboshi-web",
@@ -39050,7 +39215,20 @@
     "processedHeadSha": "722a4f1147eb160340bbdeef30d3d2c4194f42cb",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/a12204002-RyujiAtsuta-Eboshi_web/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/a12204002-RyujiAtsuta-Eboshi_web/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "other"
+      ],
+      "languages": [
+        "ja"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-12"
+    }
   },
   {
     "id": "triacontane-loadingtest",
@@ -39072,7 +39250,15 @@
     "sourceHeadSha": "c0d681eb12bdb5b4feee7fd6d8f117634892790e",
     "processedHeadSha": "b5a976c1afe6dcdfaf96895e071aeb7b8908bce9",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/triacontane-LoadingTest/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/triacontane-LoadingTest/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "template"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "reviewedAt": "2026-11-12"
+    }
   },
   {
     "id": "cicini-melancholianna",
@@ -39096,7 +39282,21 @@
     "sourceHeadSha": "98685f94f061aea7bceaf0bba99c224a33b66813",
     "processedHeadSha": "54a0bdbbf75f87806b623b365b60f26aa07cff4e",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/Cicini-melancholianna/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/Cicini-melancholianna/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "adventure"
+      ],
+      "languages": [
+        "ja",
+        "en"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 6,
+      "rating": 5,
+      "reviewedAt": "2026-11-12"
+    }
   },
   {
     "id": "jyxjyx1234-misc-game-chs",
@@ -39139,7 +39339,24 @@
     "sourceHeadSha": "2d8dca9f1711d2c7ba0f79adb5bb00e6296c48ab",
     "processedHeadSha": "a139868fea3e81745e7e8e961a7ba1ba8ba74607",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/umaaji298-rituRPG/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/umaaji298-rituRPG/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "aliases": [
+        "りつねぇ！RPG"
+      ],
+      "genres": [
+        "rpg"
+      ],
+      "languages": [
+        "ja"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 3,
+      "rating": 5,
+      "reviewedAt": "2026-11-12",
+      "title": "りつねぇ! RPG III NOCTURNE マニアクス"
+    }
   },
   {
     "id": "chorako666-obake",
@@ -39163,7 +39380,20 @@
     "processedHeadSha": "ceb13998824d8d0dc4903e6669f5e4d6cf8013b6",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/chorako666-obake/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/chorako666-obake/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg"
+      ],
+      "languages": [
+        "ja"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-12"
+    }
   },
   {
     "id": "irebachan-page",
@@ -39190,6 +39420,16 @@
     "sourceHeadSha": "d25b8331ff61df833f2f0210e52032773fa6a093",
     "processedHeadSha": "abbaf868bb24ae587389eece7f4e3103636f372b",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/irebachan-page/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/irebachan-page/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg"
+      ],
+      "nsfw": false,
+      "playable": false,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-12"
+    }
   }
 ]
