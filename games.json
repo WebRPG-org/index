@@ -12,6 +12,9 @@
       "aliases": {
         "zh-Hans": [
           "Narcissu 水仙"
+        ],
+        "en": [
+          "Narcissus"
         ]
       },
       "introductions": {
@@ -19,6 +22,14 @@
           "summary": "一部以生命与旅途为主题的剧情向视觉小说。",
           "overview": "待审核的作品介绍（示例内容，不应发布）。",
           "editorialStatus": "draft"
+        },
+        "en": {
+          "editorialStatus": "draft",
+          "summary": "A thought-provoking visual novel about terminal illness, living, and dying: two terminally ill patients meet on the 7th floor hospice ward and set off on a journey together, toward the narcissus fields of Awaji Island."
+        },
+        "ja": {
+          "editorialStatus": "draft",
+          "summary": "不治の病を患い、病院のホスピス「7階」に入った主人公が、そこで出会ったセツミと共に7階を抜け出し、水仙の咲く淡路島を目指して旅に出る物語。"
         }
       },
       "taxonomy": {
@@ -98,6 +109,14 @@
         "zh-Hans": {
           "summary": "扮演侦探，在毒气蔓延的豪宅中调查谋杀案的程序化推理游戏试玩版，可自由审问由 AI 驱动的嫌疑人。",
           "editorialStatus": "draft"
+        },
+        "en": {
+          "editorialStatus": "draft",
+          "summary": "A procedural mystery game where you play as a detective racing against time to solve a murder case. Mr. Hamilton has been murdered in his mansion; as toxic gas slowly spreads through the house, find hidden clues and freely interrogate the AI-driven suspects to identify the killer."
+        },
+        "ja": {
+          "editorialStatus": "draft",
+          "summary": "探偵となって時間との戦いの中で殺人事件を解決する、手続き型ミステリーゲーム。ハミルトン氏が自宅の豪邸で殺害された。毒ガスが屋敷に広がる中、隠された手がかりを見つけ、AIで動く容疑者たちを自由に尋問して犯人を特定する。"
         }
       },
       "taxonomy": {
@@ -169,6 +188,9 @@
       },
       "seo": {
         "indexPolicy": "auto"
+      },
+      "translatedTitles": {
+        "ja": "クルアイド"
       }
     },
     "recoil": {
@@ -184,6 +206,14 @@
         "zh-Hans": {
           "summary": "以乡间与一栋名为 C.H. 的建筑为舞台的恐怖冒险游戏，共 27 张地图。",
           "editorialStatus": "draft"
+        },
+        "en": {
+          "editorialStatus": "draft",
+          "summary": "A horror adventure game set in the countryside and a building called C.H., spanning 27 maps."
+        },
+        "ja": {
+          "editorialStatus": "draft",
+          "summary": "田舎とC.H.という名の建物を舞台にしたホラーアドベンチャーゲーム。全27マップ。"
         }
       },
       "taxonomy": {
@@ -235,6 +265,10 @@
       },
       "seo": {
         "indexPolicy": "auto"
+      },
+      "translatedTitles": {
+        "ja": "/リコイル",
+        "zh-Hans": "反冲"
       }
     },
     "1680": {
@@ -250,6 +284,14 @@
         "zh-Hans": {
           "summary": "以城堡与港口城镇为舞台的奇幻角色扮演游戏，共 24 张地图。",
           "editorialStatus": "draft"
+        },
+        "en": {
+          "editorialStatus": "draft",
+          "summary": "A fantasy role-playing game set in a castle and a port town, featuring 24 maps."
+        },
+        "ja": {
+          "editorialStatus": "draft",
+          "summary": "城と港町を舞台にしたファンタジーロールプレイングゲーム。全24マップ。"
         }
       },
       "taxonomy": {
@@ -310,6 +352,14 @@
         "zh-Hans": {
           "summary": "以 1888–1889 年里约为背景的历史剧情角色扮演游戏。",
           "editorialStatus": "draft"
+        },
+        "en": {
+          "editorialStatus": "draft",
+          "summary": "A historical story-driven role-playing game set in Rio de Janeiro in 1888–1889."
+        },
+        "ja": {
+          "editorialStatus": "draft",
+          "summary": "1888年から1889年のリオデジャネイロを背景にした歴史ストーリーロールプレイングゲーム。"
         }
       },
       "taxonomy": {
@@ -360,6 +410,11 @@
       },
       "seo": {
         "indexPolicy": "auto"
+      },
+      "translatedTitles": {
+        "en": "1889: The Last Empire",
+        "ja": "1889: O ウルチモ・インペーリオ",
+        "zh-Hans": "1889：最后的帝国"
       }
     },
     "1st-studio": {
@@ -370,6 +425,14 @@
         "zh-Hans": {
           "summary": "韩语冒险游戏，包含村庄、游牧民营地、住所与商店等场景。",
           "editorialStatus": "draft"
+        },
+        "en": {
+          "editorialStatus": "draft",
+          "summary": "A Korean-language adventure game featuring a village, a nomad camp, dwellings, shops, and other scenes."
+        },
+        "ja": {
+          "editorialStatus": "draft",
+          "summary": "村、遊牧民のキャンプ、住居、商店などのシーンを含む韓国語アドベンチャーゲーム。"
         }
       },
       "taxonomy": {
@@ -417,6 +480,10 @@
       },
       "seo": {
         "indexPolicy": "auto"
+      },
+      "translatedTitles": {
+        "ja": "ファースト・スタジオ",
+        "zh-Hans": "第一工作室"
       }
     },
     "2000sescape": {
@@ -424,12 +491,21 @@
       "slug": "2000sescape",
       "originalTitle": "2000sEscape",
       "translatedTitles": {
-        "zh-Hans": "逃离千禧年"
+        "zh-Hans": "逃离千禧年",
+        "ja": "2000sエスケープ"
       },
       "introductions": {
         "zh-Hans": {
           "summary": "以梦境般的 2000 年中国为背景的像素风横版解谜逃脱游戏试玩版，含轻度心理恐怖元素。",
           "editorialStatus": "draft"
+        },
+        "en": {
+          "editorialStatus": "draft",
+          "summary": "A 2D pixel art side-scrolling puzzle escape game set in a dreamlike recreation of year 2000 China. Navigate nostalgic spaces — apartments, schools, streets — in a Weirdcore/Dreamcore atmosphere where comfort meets unease. This is a test/demo version, and it contains mild psychological horror elements and surreal imagery."
+        },
+        "ja": {
+          "editorialStatus": "draft",
+          "summary": "夢のような2000年の中国を舞台にした、2Dピクセルアートの横スクロール謎解き脱出ゲーム。アパート、学校、街並みといった懐かしい空間を巡り、心地よさと不安が交わるウィアードコア／ドリームコアの雰囲気を味わう。テスト／デモ版で、軽度の心理ホラー要素とシュールな表現を含む。"
         }
       },
       "taxonomy": {
@@ -497,12 +573,21 @@
       "slug": "shishunki-imouto-to-ecchi-na-30-nichikan",
       "originalTitle": "思春期妹とえっちな30日間",
       "translatedTitles": {
-        "en": "30 Lewd Days with My Adolescent Little Sister"
+        "en": "30 Lewd Days with My Adolescent Little Sister",
+        "zh-Hans": "思春期妹妹与色色的30天"
       },
       "introductions": {
         "zh-Hans": {
           "summary": "与妹妹同居 30 天的成人向模拟游戏，按日推进剧情并分支多结局。",
           "editorialStatus": "draft"
+        },
+        "en": {
+          "editorialStatus": "draft",
+          "summary": "An adult cohabitation life-simulation game: due to their parents' circumstances, an older brother spends 30 days living alone with his aloof adolescent younger sister. Through talking and touching, the two gradually grow closer in their room for two, with the story advancing day by day and branching into multiple endings."
+        },
+        "ja": {
+          "editorialStatus": "draft",
+          "summary": "そっけない思春期の妹と過ごす、ちょっとドキドキえっちな30日間。親の都合で30日間一緒に暮らすことになった兄と妹。二人きりの部屋で、距離が少しずつ縮まっていく……いちゃらぶ妹同棲生活シミュレーション！"
         }
       },
       "taxonomy": {
@@ -558,6 +643,14 @@
         "zh-Hans": {
           "summary": "以高地、城镇与地牢为舞台的 3D 恐怖游戏早期版本。",
           "editorialStatus": "draft"
+        },
+        "en": {
+          "editorialStatus": "draft",
+          "summary": "An early version of a 3D horror game set across highlands, a town, and a dungeon."
+        },
+        "ja": {
+          "editorialStatus": "draft",
+          "summary": "高地、町、ダンジョンを舞台にした3Dホラーゲームの早期バージョン。"
         }
       },
       "taxonomy": {
@@ -608,6 +701,10 @@
       },
       "seo": {
         "indexPolicy": "auto"
+      },
+      "translatedTitles": {
+        "ja": "ゲット・トゥ・スクール6",
+        "zh-Hans": "去上学6"
       }
     },
     "happy-birthday-my-love": {
@@ -623,6 +720,14 @@
         "zh-Hans": {
           "summary": "以赌场、住所与餐厅为场景的短篇恋爱冒险游戏。",
           "editorialStatus": "draft"
+        },
+        "en": {
+          "editorialStatus": "draft",
+          "summary": "A short romance adventure game set in a casino, a home, and a restaurant."
+        },
+        "ja": {
+          "editorialStatus": "draft",
+          "summary": "カジノ、住まい、レストランを舞台にした短編恋愛アドベンチャーゲーム。"
         }
       },
       "taxonomy": {
@@ -673,6 +778,10 @@
       },
       "seo": {
         "indexPolicy": "auto"
+      },
+      "translatedTitles": {
+        "ja": "ハッピー・バースデー、マイ・ラブ！",
+        "zh-Hans": "生日快乐，我的爱！"
       }
     },
     "a-lenda-de-camutanga": {
@@ -713,6 +822,14 @@
         "zh-Hans": {
           "editorialStatus": "draft",
           "summary": "以巴西小镇卡穆坦加为背景的角色扮演游戏，含战役剧情与自由漫游模式，共 28 张地图。"
+        },
+        "en": {
+          "editorialStatus": "draft",
+          "summary": "A role-playing game set in the Brazilian town of Camutanga, featuring a campaign story and a free-roam mode across 28 maps."
+        },
+        "ja": {
+          "editorialStatus": "draft",
+          "summary": "ブラジルの町カムタンガを背景にしたロールプレイングゲーム。キャンペーンストーリーと自由探索モードがあり、全28マップ。"
         }
       },
       "media": {
@@ -730,6 +847,11 @@
         "genres": [
           "rpg"
         ]
+      },
+      "translatedTitles": {
+        "en": "The Legend of Camutanga",
+        "ja": "ア・レンダ・ジ・カムタンガ",
+        "zh-Hans": "卡穆坦加传说"
       }
     },
     "a-rather-long-walk": {
@@ -770,6 +892,14 @@
         "zh-Hans": {
           "editorialStatus": "draft",
           "summary": "选择角色后一路长途跋涉、击败玩笑 Boss 的短篇喜剧冒险游戏。"
+        },
+        "en": {
+          "editorialStatus": "draft",
+          "summary": "A short comedic adventure game in which you choose a character and set off on a long walk, defeating joke bosses along the way."
+        },
+        "ja": {
+          "editorialStatus": "draft",
+          "summary": "キャラクターを選んで長い道のりを歩き、ジョークボスを倒していく短編コメディアドベンチャーゲーム。"
         }
       },
       "media": {
@@ -790,6 +920,10 @@
         "themes": [
           "comedy"
         ]
+      },
+      "translatedTitles": {
+        "ja": "ア・ラザー・ロング・ウォーク",
+        "zh-Hans": "相当漫长的步行"
       }
     },
     "abyss-awakening": {
@@ -830,6 +964,14 @@
         "zh-Hans": {
           "editorialStatus": "draft",
           "summary": "含多座地牢、森林、营地与支线任务的大型奇幻角色扮演游戏。"
+        },
+        "en": {
+          "editorialStatus": "draft",
+          "summary": "A large-scale fantasy role-playing game featuring multiple dungeons, forests, camps, and side quests."
+        },
+        "ja": {
+          "editorialStatus": "draft",
+          "summary": "複数のダンジョン、森林、キャンプ、サイドクエストを含む大規模ファンタジーロールプレイングゲーム。"
         }
       },
       "media": {
@@ -850,6 +992,10 @@
         "themes": [
           "fantasy"
         ]
+      },
+      "translatedTitles": {
+        "ja": "アビス・アウェイクニング",
+        "zh-Hans": "深渊觉醒"
       }
     },
     "adventure-of-yours": {
@@ -890,6 +1036,14 @@
         "zh-Hans": {
           "editorialStatus": "draft",
           "summary": "失忆学生醒来于黑暗之地、与女神相遇的短篇冒险游戏。"
+        },
+        "en": {
+          "editorialStatus": "draft",
+          "summary": "A short adventure game in which an amnesiac student wakes up in a dark place and meets a goddess."
+        },
+        "ja": {
+          "editorialStatus": "draft",
+          "summary": "記憶を失った学生が暗闇の地で目覚め、女神と出会う短編アドベンチャーゲーム。"
         }
       },
       "media": {
@@ -910,6 +1064,10 @@
         "themes": [
           "slice-of-life"
         ]
+      },
+      "translatedTitles": {
+        "ja": "アドベンチャー・オブ・ユアーズ",
+        "zh-Hans": "你的冒险"
       }
     },
     "ahazondash": {
@@ -945,6 +1103,14 @@
         "zh-Hans": {
           "editorialStatus": "draft",
           "summary": "以多关卡推进、直捣魔王城的动作冒险游戏（日文原作的英文版）。"
+        },
+        "en": {
+          "editorialStatus": "draft",
+          "summary": "An action-adventure game that progresses through multiple stages on the way to storm the Demon King's castle. (English version of a Japanese original.)"
+        },
+        "ja": {
+          "editorialStatus": "draft",
+          "summary": "複数のステージを進み、魔王城へと突き進むアクションアドベンチャーゲーム（日本語原作の英語版）。"
         }
       },
       "media": {
@@ -965,6 +1131,10 @@
         "themes": [
           "comedy"
         ]
+      },
+      "translatedTitles": {
+        "ja": "アハゾンダッシュ",
+        "zh-Hans": "阿哈宗达什"
       }
     },
     "alpha-chronicle": {
@@ -1005,6 +1175,14 @@
         "zh-Hans": {
           "editorialStatus": "draft",
           "summary": "以世界地图与小镇玛丽基纳为舞台的奇幻角色扮演游戏，含可加入队伍的 NPC。"
+        },
+        "en": {
+          "editorialStatus": "draft",
+          "summary": "A fantasy role-playing game set across a world map and the town of Marykina, featuring NPCs who can join the party."
+        },
+        "ja": {
+          "editorialStatus": "draft",
+          "summary": "世界地図とマリキナの町を舞台にしたファンタジーRPG。仲間にできるNPCが登場する。"
         }
       },
       "media": {
@@ -1025,6 +1203,10 @@
         "themes": [
           "fantasy"
         ]
+      },
+      "translatedTitles": {
+        "ja": "アルファ・クロニクル",
+        "zh-Hans": "阿尔法编年史"
       }
     },
     "alpha-omega": {
@@ -1060,6 +1242,14 @@
         "zh-Hans": {
           "editorialStatus": "draft",
           "summary": "以《圣经》故事为题材的角色扮演游戏试玩版，开场为天堂路西法叛乱（启示录 12:7）。"
+        },
+        "en": {
+          "editorialStatus": "draft",
+          "summary": "A role-playing game demo based on stories from the Bible, opening with Lucifer's rebellion in Heaven (Revelation 12:7)."
+        },
+        "ja": {
+          "editorialStatus": "draft",
+          "summary": "『聖書』の物語を題材にしたRPGの試玩版。冒頭は天におけるルシファーの反乱（ヨハネの黙示録12:7）を描く。"
         }
       },
       "media": {
@@ -1076,6 +1266,16 @@
         "contentType": "demo",
         "genres": [
           "rpg"
+        ]
+      },
+      "translatedTitles": {
+        "ja": "アルファ／オメガ",
+        "zh-Hans": "阿尔法与欧米伽"
+      },
+      "aliases": {
+        "en": [
+          "Alpha/Omega: The Christian RPG",
+          "Alpha/Omega: Lucifer's Rebellion"
         ]
       }
     },
@@ -1133,6 +1333,14 @@
         "zh-Hans": {
           "editorialStatus": "draft",
           "summary": "被病娇少女囚禁后设法逃脱的密室逃脱游戏，共 4 种结局。"
+        },
+        "en": {
+          "editorialStatus": "draft",
+          "summary": "An escape game in which the protagonist, abducted and confined by Menhera-chan, aims to escape her house. The only basic controls are move and confirm, items are used automatically, and the difficulty is low, with no difficult puzzles. There are four endings: BAD, NORMAL, GOOD, and BEST."
+        },
+        "ja": {
+          "editorialStatus": "draft",
+          "summary": "メンヘラちゃんに拉致・監禁されてしまった主人公が脱出を目指すゲームです。基本操作は移動と決定ボタンのみで、入手したアイテムは自動使用されます。難易度は低めで、難しい謎解きはありません。エンディングはBAD、NORMAL、GOOD、BESTの4種類です。"
         }
       },
       "media": {
@@ -1160,7 +1368,8 @@
         ]
       },
       "translatedTitles": {
-        "en": "Escape from Menhera-chan's House"
+        "en": "Escape from Menhera-chan's House",
+        "zh-Hans": "逃出病娇酱的家"
       }
     }
   }
