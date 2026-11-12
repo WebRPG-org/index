@@ -10361,6 +10361,1186 @@
       "contentAdvisory": {
         "nsfw": false
       }
+    },
+    "get-schooled": {
+      "schemaVersion": 1,
+      "slug": "get-schooled",
+      "originalTitle": "Get Schooled",
+      "taxonomy": {
+        "genres": [
+          "rpg"
+        ],
+        "themes": [
+          "horror",
+          "comedy"
+        ],
+        "contentType": "full-game"
+      },
+      "developers": [
+        {
+          "name": "wasipo09",
+          "url": "https://github.com/wasipo09"
+        }
+      ],
+      "media": {
+        "cover": null
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "wasipo09-getschooled-alpha-1",
+          "title": "Get Schooled",
+          "languages": [
+            "en"
+          ],
+          "nsfw": false
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/wasipo09/getschooled-alpha-1",
+          "https://webrpg.org/wasipo09-getschooled-alpha-1/"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 1,
+      "assessedAt": "2026-11-13",
+      "assessmentSources": [
+        "https://github.com/wasipo09/getschooled-alpha-1",
+        "https://webrpg.org/wasipo09-getschooled-alpha-1/"
+      ],
+      "assessmentNote": "GitHub repo + webrpg mirror only (0 stars, no cover; web search for 'Get Schooled' finds only a card game and a Korean webtoon, both different works); game data 3 maps / 214 events / 301 dialogue lines, repo description 'A game inspired by Baldi's.'; translated titles are non-official; rating blank; popularity 1.",
+      "translatedTitles": {
+        "zh-Hans": "被上了一课",
+        "ja": "ゲット・スクールド"
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "受《Baldi's Basics》启发的校园恐怖小品：主角 Min 在迷宫、学校与民居三张地图间穿行，躲避杀手与史莱姆，走两条路线，301 行粗口喜剧对白。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "A Baldi's-inspired school horror short: Min moves between a maze, the school and a house, dodging a killer and slimes across two routes, with 301 lines of crude-comedy dialogue.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "『Baldi's Basics』に着想を得た学園ホラー小品。主人公Minは迷宮・学校・民家を巡り、殺人鬼とスライムを避けながら2つのルートを進む。301行の粗い笑いの台詞。",
+          "editorialStatus": "draft"
+        }
+      },
+      "contentAdvisory": {
+        "nsfw": false
+      }
+    },
+    "get-to-school-isobe26505": {
+      "schemaVersion": 1,
+      "slug": "get-to-school-isobe26505",
+      "originalTitle": "Get To School",
+      "taxonomy": {
+        "genres": [
+          "rpg"
+        ],
+        "themes": [
+          "slice-of-life"
+        ],
+        "contentType": "full-game",
+        "mechanics": [
+          "fishing"
+        ]
+      },
+      "developers": [
+        {
+          "name": "Isobe26505",
+          "url": "https://github.com/Isobe26505"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/Isobe26505-Isobe26505.github.io/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "isobe26505-isobe26505-github-io",
+          "title": "Get To School",
+          "languages": [
+            "en"
+          ],
+          "nsfw": false
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/Isobe26505/Isobe26505.github.io",
+          "https://webrpg.org/Isobe26505-Isobe26505.github.io/"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 1,
+      "assessedAt": "2026-11-13",
+      "assessmentSources": [
+        "https://github.com/Isobe26505/Isobe26505.github.io",
+        "https://webrpg.org/Isobe26505-Isobe26505.github.io/"
+      ],
+      "assessmentNote": "GitHub repo + webrpg mirror only (0 stars; web search finds only unrelated games, e.g. Steam 'RE: Get To Schol On Time'); game data 19 maps / 96 events / 87 dialogue lines with fishing and achievements; shares the class-template intro (well water, fishing) with the other 'Get to School' forks but maps/content differ, so a separate game (author-suffixed slug); translated titles are non-official; rating blank; popularity 1.",
+      "translatedTitles": {
+        "zh-Hans": "去上学",
+        "ja": "ゲット・トゥ・スクール"
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "上学路 RPG：从家里出发，穿过街道与地牢，钓鱼、解锁成就，一路走到学校；19 张地图、87 行对白的学生习作。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "A walk-to-school RPG: leave home, cross streets and dungeons, fish and unlock achievements on the way to school — a 19-map student project with 87 lines of dialogue.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "登校RPG。家を出て街とダンジョンを越え、釣りをし、実績を解除しながら学校を目指す。19マップ・87行の台詞の学生作品。",
+          "editorialStatus": "draft"
+        }
+      },
+      "contentAdvisory": {
+        "nsfw": false
+      }
+    },
+    "get-to-school-m00nl16h7": {
+      "schemaVersion": 1,
+      "slug": "get-to-school-m00nl16h7",
+      "originalTitle": "Get To School",
+      "taxonomy": {
+        "genres": [
+          "rpg"
+        ],
+        "themes": [
+          "slice-of-life"
+        ],
+        "contentType": "full-game",
+        "mechanics": [
+          "day-night-cycle"
+        ]
+      },
+      "developers": [
+        {
+          "name": "M00NL16H7",
+          "url": "https://github.com/M00NL16H7"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/M00NL16H7-m00nl16h7.github.io/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "m00nl16h7-m00nl16h7-github-io",
+          "title": "Get To School",
+          "languages": [
+            "en"
+          ],
+          "nsfw": false
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/M00NL16H7/m00nl16h7.github.io",
+          "https://webrpg.org/M00NL16H7-m00nl16h7.github.io/"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 1,
+      "assessedAt": "2026-11-13",
+      "assessmentSources": [
+        "https://github.com/M00NL16H7/m00nl16h7.github.io",
+        "https://webrpg.org/M00NL16H7-m00nl16h7.github.io/"
+      ],
+      "assessmentNote": "GitHub repo + webrpg mirror only (0 stars; web search finds only unrelated games); game data 6 maps / 26 events / 25 dialogue lines with a shop and a day/night clock — short but a complete loop, kept; shares the class-template intro with the other 'Get to School' forks but maps/content differ, so a separate game (author-suffixed slug); translated titles are non-official; rating blank; popularity 1.",
+      "translatedTitles": {
+        "zh-Hans": "去上学",
+        "ja": "ゲット・トゥ・スクール"
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "上学路小品：买剑、穿过巨石通道的两座地牢，带昼夜系统；6 张地图、25 行对白的短篇学生习作。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "A short walk-to-school game: buy a sword, clear two boulder-pass dungeons, with a day/night clock — a 6-map student short with 25 lines of dialogue.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "短編の登校ゲーム。剣を買い、巨石通路の2つのダンジョンを抜ける。昼夜システム付き。6マップ・25行の台詞。",
+          "editorialStatus": "draft"
+        }
+      },
+      "contentAdvisory": {
+        "nsfw": false
+      }
+    },
+    "gat2choool2-electric-bugaloo": {
+      "schemaVersion": 1,
+      "slug": "gat2choool2-electric-bugaloo",
+      "originalTitle": "Gat2choool2: Electric Bugaloo",
+      "taxonomy": {
+        "genres": [
+          "rpg"
+        ],
+        "themes": [
+          "comedy",
+          "slice-of-life"
+        ],
+        "contentType": "full-game",
+        "mechanics": [
+          "day-night-cycle",
+          "fishing"
+        ]
+      },
+      "developers": [
+        {
+          "name": "Talon24229",
+          "url": "https://github.com/Talon24229"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/Talon24229-Talon24229.github.io/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "talon24229-talon24229-github-io",
+          "title": "Gat2choool2: Electric Bugaloo",
+          "languages": [
+            "en"
+          ],
+          "nsfw": false
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/Talon24229/Talon24229.github.io",
+          "https://webrpg.org/Talon24229-Talon24229.github.io/"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 1,
+      "assessedAt": "2026-11-13",
+      "assessmentSources": [
+        "https://github.com/Talon24229/Talon24229.github.io",
+        "https://webrpg.org/Talon24229-Talon24229.github.io/"
+      ],
+      "assessmentNote": "GitHub repo + webrpg mirror only (1 star; web search for the joke title finds no external traces); game data 7 maps / 102 events / 213 dialogue lines with day/night variables, bossHealth and fishing; in-game title (System.json gameTitle) is the joke spelling, list title 'Get To School 2 Delux' kept as an English alias; translated titles are non-official; rating blank; popularity 1.",
+      "translatedTitles": {
+        "zh-Hans": "去上学2：电动布加洛",
+        "ja": "ゲット・トゥ・スクール2：エレクトリック・ブガルー"
+      },
+      "aliases": {
+        "en": [
+          "Get To School 2 Delux"
+        ]
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "《上学去2》的玩笑拼写标题作：昼夜系统、钓鱼、Boss 战与小丑，7 张地图、213 行对白的粗口喜剧续篇。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "The joke-spelled sequel to the walk-to-school game: a day/night clock, fishing, a boss fight and a clown across 7 maps and 213 lines of crude-comedy dialogue.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "登校ゲームの冗談めいた綴りの続編。昼夜システム、釣り、ボス戦、ピエロ。7マップ・213行の粗い笑いの台詞。",
+          "editorialStatus": "draft"
+        }
+      },
+      "contentAdvisory": {
+        "nsfw": false
+      }
+    },
+    "get-to-school-5-27klarosa": {
+      "schemaVersion": 1,
+      "slug": "get-to-school-5-27klarosa",
+      "originalTitle": "Get To School 5",
+      "taxonomy": {
+        "genres": [
+          "rpg"
+        ],
+        "themes": [
+          "slice-of-life"
+        ],
+        "contentType": "full-game",
+        "mechanics": [
+          "fishing"
+        ]
+      },
+      "developers": [
+        {
+          "name": "27klarosa",
+          "url": "https://github.com/27klarosa"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/27klarosa-27klarosa.github.io/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "27klarosa-27klarosa-github-io",
+          "title": "Get To School 5",
+          "languages": [
+            "en"
+          ],
+          "nsfw": false
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/27klarosa/27klarosa.github.io",
+          "https://webrpg.org/27klarosa-27klarosa.github.io/"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 1,
+      "assessedAt": "2026-11-13",
+      "assessmentSources": [
+        "https://github.com/27klarosa/27klarosa.github.io",
+        "https://webrpg.org/27klarosa-27klarosa.github.io/"
+      ],
+      "assessmentNote": "GitHub repo + webrpg mirror only (0 stars; web search finds only unrelated games); game data 11 maps / 85 events / 65 dialogue lines; shares the class-template intro with the other 'Get to School' forks but maps/content differ from pzahutdwg's 'Get To School 5', so a separate game (author-suffixed slug); translated titles are non-official; rating blank; popularity 1.",
+      "translatedTitles": {
+        "zh-Hans": "去上学5",
+        "ja": "ゲット・トゥ・スクール5"
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "上学路 RPG：取水、钓鱼、登岛、取父亲的铠甲，11 张地图、65 行对白的学生习作。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "A walk-to-school RPG: fetch water, fish, sail to an island and take father's armor — an 11-map student game with 65 lines of dialogue.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "登校RPG。水を汲み、釣りをし、島へ渡り、父の鎧を取る。11マップ・65行の台詞の学生作品。",
+          "editorialStatus": "draft"
+        }
+      },
+      "contentAdvisory": {
+        "nsfw": false
+      }
+    },
+    "get-to-school-5-pzahutdwg": {
+      "schemaVersion": 1,
+      "slug": "get-to-school-5-pzahutdwg",
+      "originalTitle": "Get To School 5",
+      "taxonomy": {
+        "genres": [
+          "rpg"
+        ],
+        "themes": [
+          "slice-of-life"
+        ],
+        "contentType": "full-game",
+        "mechanics": [
+          "fishing",
+          "cooking"
+        ]
+      },
+      "developers": [
+        {
+          "name": "pzahutdwg",
+          "url": "https://github.com/pzahutdwg"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/pzahutdwg-pzahutdwg.github.io/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "pzahutdwg-pzahutdwg-github-io",
+          "title": "Get To School 5",
+          "languages": [
+            "en"
+          ],
+          "nsfw": false
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/pzahutdwg/pzahutdwg.github.io",
+          "https://webrpg.org/pzahutdwg-pzahutdwg.github.io/"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 1,
+      "assessedAt": "2026-11-13",
+      "assessmentSources": [
+        "https://github.com/pzahutdwg/pzahutdwg.github.io",
+        "https://webrpg.org/pzahutdwg-pzahutdwg.github.io/"
+      ],
+      "assessmentNote": "GitHub repo + webrpg mirror only (0 stars; web search finds only unrelated games); game data 14 maps / 159 events / 123 dialogue lines with bait/fishing/cooking and a dungeon boss; shares the class-template intro with the other 'Get to School' forks but maps/content differ from 27klarosa's 'Get To School 5', so a separate game (author-suffixed slug); translated titles are non-official; rating blank; popularity 1.",
+      "translatedTitles": {
+        "zh-Hans": "去上学5",
+        "ja": "ゲット・トゥ・スクール5"
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "上学路 RPG：找虫饵、钓鱼、烹饪，穿过巨石地牢打 Boss；14 张地图、123 行对白。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "A walk-to-school RPG: dig for bait, fish, cook, and fight through the boulder dungeon to its boss — 14 maps, 123 lines of dialogue.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "登校RPG。餌を探し、釣りをし、料理を作り、巨石ダンジョンのボスへ。14マップ・123行の台詞。",
+          "editorialStatus": "draft"
+        }
+      },
+      "contentAdvisory": {
+        "nsfw": false
+      }
+    },
+    "get-to-school-6-28dosei": {
+      "schemaVersion": 1,
+      "slug": "get-to-school-6-28dosei",
+      "originalTitle": "Get to school 6",
+      "taxonomy": {
+        "genres": [
+          "rpg"
+        ],
+        "themes": [
+          "slice-of-life"
+        ],
+        "contentType": "full-game",
+        "mechanics": [
+          "fishing",
+          "cooking"
+        ]
+      },
+      "developers": [
+        {
+          "name": "28dosei",
+          "url": "https://github.com/28dosei"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/28dosei-28dosei.github.io/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "28dosei-28dosei-github-io",
+          "title": "Get to school 6",
+          "languages": [
+            "en"
+          ],
+          "nsfw": false
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/28dosei/28dosei.github.io",
+          "https://webrpg.org/28dosei-28dosei.github.io/"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 1,
+      "assessedAt": "2026-11-13",
+      "assessmentSources": [
+        "https://github.com/28dosei/28dosei.github.io",
+        "https://webrpg.org/28dosei-28dosei.github.io/"
+      ],
+      "assessmentNote": "GitHub repo + webrpg mirror only (0 stars; web search finds only unrelated games); game data 24 maps / 210 events / 51 dialogue lines — sprawling but thin in places (6 maps have 0 events, Casino/Mansion are event-heavy with almost no dialogue), kept as a messy student game; slug get-to-school-6 is already taken by 28LPotter's game (Batch 1), so author-suffixed slug; translated titles are non-official; rating blank; popularity 1.",
+      "translatedTitles": {
+        "zh-Hans": "去上学6",
+        "ja": "ゲット・トゥ・スクール6"
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "上学路 RPG：村庄、赌场、宅邸与寻犬任务，24 张地图、210 个事件；部分地图未完成。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "A walk-to-school RPG through a village, a casino, a mansion and a dog-sniffing quest — 24 maps and 210 events, with several maps left unfinished.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "登校RPG。村、カジノ、屋敷、犬の捜索クエストを巡る。24マップ・210イベント。一部のマップは未完成。",
+          "editorialStatus": "draft"
+        }
+      },
+      "contentAdvisory": {
+        "nsfw": false
+      }
+    },
+    "get-to-school-6-28msnyder": {
+      "schemaVersion": 1,
+      "slug": "get-to-school-6-28msnyder",
+      "originalTitle": "Get to school 6",
+      "taxonomy": {
+        "genres": [
+          "rpg"
+        ],
+        "themes": [
+          "slice-of-life"
+        ],
+        "contentType": "full-game",
+        "mechanics": [
+          "fishing",
+          "cooking"
+        ]
+      },
+      "developers": [
+        {
+          "name": "28MSnyder",
+          "url": "https://github.com/28MSnyder"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/28MSnyder-28MSnyder.github.io/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "28msnyder-28msnyder-github-io",
+          "title": "Get to school 6",
+          "languages": [
+            "en"
+          ],
+          "nsfw": false
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/28MSnyder/28MSnyder.github.io",
+          "https://webrpg.org/28MSnyder-28MSnyder.github.io/"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 1,
+      "assessedAt": "2026-11-13",
+      "assessmentSources": [
+        "https://github.com/28MSnyder/28MSnyder.github.io",
+        "https://webrpg.org/28MSnyder-28MSnyder.github.io/"
+      ],
+      "assessmentNote": "GitHub repo + webrpg mirror only (0 stars; web search finds only unrelated games); game data 6 maps / 37 events / 72 dialogue lines, dialogue-dense; shares the class-template intro with the other 'Get to School 6' forks but maps/content differ, so a separate game (author-suffixed slug; base slug taken by Batch 1); translated titles are non-official; rating blank; popularity 1.",
+      "translatedTitles": {
+        "zh-Hans": "去上学6",
+        "ja": "ゲット・トゥ・スクール6"
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "上学路小品：钓鱼做鱼汤、逛银行与城镇，6 张地图、72 行对白。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "A short walk-to-school game: fish, cook fish soup, visit the bank and the town — 6 maps, 72 lines of dialogue.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "短編の登校ゲーム。釣りをして魚のスープを作り、銀行と町を訪れる。6マップ・72行の台詞。",
+          "editorialStatus": "draft"
+        }
+      },
+      "contentAdvisory": {
+        "nsfw": false
+      }
+    },
+    "get-to-school-6-28diezel": {
+      "schemaVersion": 1,
+      "slug": "get-to-school-6-28diezel",
+      "originalTitle": "Get to School 6",
+      "taxonomy": {
+        "genres": [
+          "rpg"
+        ],
+        "themes": [
+          "slice-of-life"
+        ],
+        "contentType": "full-game",
+        "mechanics": [
+          "fishing",
+          "cooking"
+        ]
+      },
+      "developers": [
+        {
+          "name": "28Diezel",
+          "url": "https://github.com/28Diezel"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/28Diezel-28Diezel.github.io/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "28diezel-28diezel-github-io",
+          "title": "Get to School 6",
+          "languages": [
+            "en"
+          ],
+          "nsfw": false
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/28Diezel/28Diezel.github.io",
+          "https://webrpg.org/28Diezel-28Diezel.github.io/"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 1,
+      "assessedAt": "2026-11-13",
+      "assessmentSources": [
+        "https://github.com/28Diezel/28Diezel.github.io",
+        "https://webrpg.org/28Diezel-28Diezel.github.io/"
+      ],
+      "assessmentNote": "GitHub repo + webrpg mirror only (0 stars; web search finds only unrelated games); game data 36 maps / 929 events / 439 dialogue lines — the largest game in this batch; shares the class-template intro with the other 'Get to School 6' forks but maps/content differ, so a separate game (author-suffixed slug; base slug taken by Batch 1); translated titles are non-official; rating blank; popularity 1.",
+      "translatedTitles": {
+        "zh-Hans": "去上学6",
+        "ja": "ゲット・トゥ・スクール6"
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "本批最大的上学路 RPG：村庄、海滩、洞窟、城镇公会与监狱，36 张地图、929 个事件、439 行对白。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "The largest walk-to-school RPG in this batch: a village, beach, caves, a town guild and a jail across 36 maps, 929 events and 439 lines of dialogue.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "今バッチ最大の登校RPG。村、海岸、洞窟、町のギルド、監獄。36マップ・929イベント・439行の台詞。",
+          "editorialStatus": "draft"
+        }
+      },
+      "contentAdvisory": {
+        "nsfw": false
+      }
+    },
+    "get-to-school-6-28hershey": {
+      "schemaVersion": 1,
+      "slug": "get-to-school-6-28hershey",
+      "originalTitle": "Get to School 6",
+      "taxonomy": {
+        "genres": [
+          "rpg"
+        ],
+        "themes": [
+          "slice-of-life"
+        ],
+        "contentType": "full-game",
+        "mechanics": [
+          "fishing"
+        ]
+      },
+      "developers": [
+        {
+          "name": "28hershey",
+          "url": "https://github.com/28hershey"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/28hershey-28hershey.github.io/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "28hershey-28hershey-github-io",
+          "title": "Get to School 6",
+          "languages": [
+            "en"
+          ],
+          "nsfw": false
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/28hershey/28hershey.github.io",
+          "https://webrpg.org/28hershey-28hershey.github.io/"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 1,
+      "assessedAt": "2026-11-13",
+      "assessmentSources": [
+        "https://github.com/28hershey/28hershey.github.io",
+        "https://webrpg.org/28hershey-28hershey.github.io/"
+      ],
+      "assessmentNote": "GitHub repo + webrpg mirror only (0 stars; web search finds only unrelated games); game data 30 maps / 129 events / 254 dialogue lines, including a prayer scene at father's tombstone (god Omos); shares the class-template intro with the other 'Get to School 6' forks but maps/content differ, so a separate game (author-suffixed slug; base slug taken by Batch 1); translated titles are non-official; rating blank; popularity 1.",
+      "translatedTitles": {
+        "zh-Hans": "去上学6",
+        "ja": "ゲット・トゥ・スクール6"
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "上学路 RPG：父亲墓前祈祷、洞窟、码头与监狱，30 张地图、254 行对白。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "A walk-to-school RPG: pray at father's tombstone, cross caves, docks and jails — 30 maps, 254 lines of dialogue.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "登校RPG。父の墓前での祈り、洞窟、埠頭、監獄。30マップ・254行の台詞。",
+          "editorialStatus": "draft"
+        }
+      },
+      "contentAdvisory": {
+        "nsfw": false
+      }
+    },
+    "get-to-school-7-29sdavis": {
+      "schemaVersion": 1,
+      "slug": "get-to-school-7-29sdavis",
+      "originalTitle": "Get To School 7",
+      "taxonomy": {
+        "genres": [
+          "rpg"
+        ],
+        "themes": [
+          "slice-of-life"
+        ],
+        "contentType": "full-game",
+        "mechanics": [
+          "fishing"
+        ]
+      },
+      "developers": [
+        {
+          "name": "29sdavis",
+          "url": "https://github.com/29sdavis"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/29sdavis-29sdavis.github.io/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "29sdavis-29sdavis-github-io",
+          "title": "Get To School 7",
+          "languages": [
+            "en"
+          ],
+          "nsfw": false
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/29sdavis/29sdavis.github.io",
+          "https://webrpg.org/29sdavis-29sdavis.github.io/"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 1,
+      "assessedAt": "2026-11-13",
+      "assessmentSources": [
+        "https://github.com/29sdavis/29sdavis.github.io",
+        "https://webrpg.org/29sdavis-29sdavis.github.io/"
+      ],
+      "assessmentNote": "GitHub repo + webrpg mirror only (0 stars; web search finds only unrelated games); game data 15 maps / 211 events / 394 dialogue lines; shares the class-template intro with the other 'Get to School 7' fork but maps/content differ, so a separate game (author-suffixed slug); translated titles are non-official; rating blank; popularity 1.",
+      "translatedTitles": {
+        "zh-Hans": "去上学7",
+        "ja": "ゲット・トゥ・スクール7"
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "上学路 RPG：矿城、宅邸、酒馆与客栈，15 张地图、394 行对白。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "A walk-to-school RPG through a mining city, a mansion, a bar and an inn — 15 maps, 394 lines of dialogue.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "登校RPG。鉱山の町、屋敷、酒場、宿屋を巡る。15マップ・394行の台詞。",
+          "editorialStatus": "draft"
+        }
+      },
+      "contentAdvisory": {
+        "nsfw": false
+      }
+    },
+    "get-to-school-7-angeltheromero": {
+      "schemaVersion": 1,
+      "slug": "get-to-school-7-angeltheromero",
+      "originalTitle": "Get To School 7",
+      "taxonomy": {
+        "genres": [
+          "rpg"
+        ],
+        "themes": [
+          "comedy",
+          "slice-of-life"
+        ],
+        "contentType": "full-game",
+        "mechanics": [
+          "fishing"
+        ]
+      },
+      "developers": [
+        {
+          "name": "AngeltheRomero",
+          "url": "https://github.com/AngeltheRomero"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/AngeltheRomero-AngeltheRomero.github.io/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "angeltheromero-angeltheromero-github-io",
+          "title": "Get To School 7",
+          "languages": [
+            "en"
+          ],
+          "nsfw": false
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/AngeltheRomero/AngeltheRomero.github.io",
+          "https://webrpg.org/AngeltheRomero-AngeltheRomero.github.io/"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 1,
+      "assessedAt": "2026-11-13",
+      "assessmentSources": [
+        "https://github.com/AngeltheRomero/AngeltheRomero.github.io",
+        "https://webrpg.org/AngeltheRomero-AngeltheRomero.github.io/"
+      ],
+      "assessmentNote": "GitHub repo + webrpg mirror only (0 stars; web search finds only unrelated games); game data 25 maps / 135 events / 107 dialogue lines with a zombie house and a dragon cave; shares the class-template intro with the other 'Get to School 7' fork but maps/content differ, so a separate game (author-suffixed slug); translated titles are non-official; rating blank; popularity 1.",
+      "translatedTitles": {
+        "zh-Hans": "去上学7",
+        "ja": "ゲット・トゥ・スクール7"
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "上学路 RPG：僵尸屋、龙洞与海滩，粗口喜剧对白，25 张地图、107 行对白。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "A walk-to-school RPG with a zombie house, a dragon cave and beaches, told in crude-comedy dialogue — 25 maps, 107 lines.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "登校RPG。ゾンビの家、竜の洞窟、海辺。粗い笑いの台詞。25マップ・107行。",
+          "editorialStatus": "draft"
+        }
+      },
+      "contentAdvisory": {
+        "nsfw": false
+      }
+    },
+    "get-to-school-definitive-edition": {
+      "schemaVersion": 1,
+      "slug": "get-to-school-definitive-edition",
+      "originalTitle": "Get to School: Definitive Edition",
+      "taxonomy": {
+        "genres": [
+          "rpg"
+        ],
+        "themes": [
+          "fantasy",
+          "slice-of-life"
+        ],
+        "contentType": "demo"
+      },
+      "developers": [
+        {
+          "name": "TheCyanHusky",
+          "url": "https://github.com/TheCyanHusky"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/TheCyanHusky-TheCyanHusky.github.io/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "thecyanhusky-thecyanhusky-github-io",
+          "title": "Get to School: Definitive Edition",
+          "languages": [
+            "en"
+          ],
+          "nsfw": false
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/TheCyanHusky/TheCyanHusky.github.io",
+          "https://webrpg.org/TheCyanHusky-TheCyanHusky.github.io/"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 1,
+      "assessedAt": "2026-11-13",
+      "assessmentSources": [
+        "https://github.com/TheCyanHusky/TheCyanHusky.github.io",
+        "https://webrpg.org/TheCyanHusky-TheCyanHusky.github.io/"
+      ],
+      "assessmentNote": "GitHub repo + webrpg mirror only (0 stars; web search finds only unrelated games); game data 16 maps / 189 events / 480 dialogue lines with a Shineford tutorial, five difficulty modes (Easy/Casual/Hard/Ruthless/Normal) and a DemoEnd map, so contentType demo; 'pussy' keyword hit is a shout at a cat character ('Excuse me!!! PUSSY CAT!!!'), not sexual content, nsfw false; translated titles are non-official; rating blank; popularity 1.",
+      "translatedTitles": {
+        "zh-Hans": "去上学：决定版",
+        "ja": "ゲット・トゥ・スクール：決定版"
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "上学路 RPG 的决定版 Demo：Shineford 教学关、五档难度、城市与学校，16 张地图、480 行对白，DemoEnd 止步。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "The definitive-edition demo of the walk-to-school RPG: a Shineford tutorial, five difficulty modes, a city and a school — 16 maps, 480 lines of dialogue, ending at DemoEnd.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "登校RPG決定版のデモ。Shinefordのチュートリアル、5段階の難易度、街と学校。16マップ・480行の台詞。DemoEndで終了。",
+          "editorialStatus": "draft"
+        }
+      },
+      "contentAdvisory": {
+        "nsfw": false
+      }
+    },
+    "girlpower": {
+      "schemaVersion": 1,
+      "slug": "girlpower",
+      "originalTitle": "GirlPower",
+      "taxonomy": {
+        "genres": [
+          "rpg"
+        ],
+        "themes": [
+          "educational",
+          "drama"
+        ],
+        "contentType": "full-game"
+      },
+      "developers": [
+        {
+          "name": "Hamoda434",
+          "url": "https://github.com/Hamoda434"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/Hamoda434-GirlPower/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "hamoda434-girlpower",
+          "title": "GirlPower",
+          "languages": [
+            "en"
+          ],
+          "nsfw": false
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/Hamoda434/GirlPower",
+          "https://webrpg.org/Hamoda434-GirlPower/"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 1,
+      "assessedAt": "2026-11-13",
+      "assessmentSources": [
+        "https://github.com/Hamoda434/GirlPower",
+        "https://webrpg.org/Hamoda434-GirlPower/"
+      ],
+      "assessmentNote": "GitHub repo (README: an educational game about a girl facing bullying scenarios and sexism) + webrpg mirror only (0 stars; web search finds only unrelated games with similar names); game data 10 maps / 105 events / 954 dialogue lines with boss battles, a monster-transformation switch and multiple endings (MomEnd/DadEnd/AtHomeEnding); translated titles are non-official; rating blank; popularity 1.",
+      "translatedTitles": {
+        "zh-Hans": "女孩力量",
+        "ja": "ガールパワー"
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "反霸凌教育 RPG：少女直面校园霸凌与性别歧视，经历 Boss 战与变身，在废墟城镇与城堡间走向多结局；10 张地图、954 行对白，README 有完整玩法说明。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "An anti-bullying educational RPG: a young girl faces school bullying and sexism, fighting bosses and transforming into a monster across a ruined town and a castle toward multiple endings — 10 maps, 954 lines of dialogue, with a full README.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "いじめ防止の教育RPG。少女が校内のいじめと性差別に立ち向かい、ボス戦と変身を経て、廃墟の町と城で複数のエンディングへ。10マップ・954行の台詞。README付き。",
+          "editorialStatus": "draft"
+        }
+      },
+      "contentAdvisory": {
+        "nsfw": false
+      }
+    },
+    "xing-tu-lu-ren": {
+      "schemaVersion": 1,
+      "slug": "xing-tu-lu-ren",
+      "originalTitle": "星途旅人",
+      "taxonomy": {
+        "genres": [
+          "rpg"
+        ],
+        "themes": [
+          "educational",
+          "sci-fi"
+        ],
+        "contentType": "full-game",
+        "mechanics": [
+          "banking",
+          "investing",
+          "dice"
+        ]
+      },
+      "developers": [
+        {
+          "name": "gary26834947-eng",
+          "url": "https://github.com/gary26834947-eng"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/gary26834947-eng-github_rpg_conGroup_v1/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "gary26834947-eng-github-rpg-congroup-v1",
+          "title": "星途旅人",
+          "languages": [
+            "zh-Hant"
+          ],
+          "nsfw": false
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/gary26834947-eng/github_rpg_conGroup_v1",
+          "https://webrpg.org/gary26834947-eng-github_rpg_conGroup_v1/"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 1,
+      "assessedAt": "2026-11-13",
+      "assessmentSources": [
+        "https://github.com/gary26834947-eng/github_rpg_conGroup_v1",
+        "https://webrpg.org/gary26834947-eng-github_rpg_conGroup_v1/"
+      ],
+      "assessmentNote": "GitHub repo + webrpg mirror only (0 stars; web search for '星途旅人' finds only the unrelated commercial game '星塔旅人' / Stella Sora); game data 17 maps / 202 events / 1320 dialogue lines (Traditional Chinese) about bank interest, three risk levels of securities, dice and mining; the title '星途旅人' is verified as the protagonist name (Actors.json) and in dialogue — the old meta subtitle '小王子的星幣夢航' has no '小王子' hit anywhere in the game data and was not carried over; ja title is a katakana transliteration of the Mandarin pronunciation; rating blank; popularity 1.",
+      "translatedTitles": {
+        "zh-Hans": "星途旅人",
+        "en": "Star Traveler",
+        "ja": "シントゥリューレン"
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "繁体中文理财教育 RPG：扮演星途旅人，在星币学院城学储蓄、买证券、掷骰子与采矿，17 张地图、1320 行对白。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "A Traditional Chinese financial-literacy RPG: play a Star Traveler learning to save, buy securities, roll dice and mine in Star Coin Academy City — 17 maps, 1,320 lines of dialogue.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "繁体字の金融教育RPG。星の旅人となり、星幣学院の町で貯蓄、証券購入、サイコロ、採掘を学ぶ。17マップ・1320行の台詞。",
+          "editorialStatus": "draft"
+        }
+      },
+      "contentAdvisory": {
+        "nsfw": false
+      }
     }
   }
 }

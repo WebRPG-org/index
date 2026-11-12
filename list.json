@@ -14983,17 +14983,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/wasipo09-getschooled-alpha-1/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "adventure"
-      ],
-      "languages": [
-        "en"
-      ],
-      "nsfw": false,
+      "gameSlug": "get-schooled",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "reviewedAt": "2026-11-07",
+      "nsfw": false,
+      "reviewedSourceHeadSha": "0506b7aa5758d767426671f89e0357978187e90b"
     }
   },
   {
@@ -15023,17 +15017,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/Isobe26505-Isobe26505.github.io/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg"
-      ],
-      "languages": [
-        "en"
-      ],
-      "nsfw": false,
+      "gameSlug": "get-to-school-isobe26505",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "reviewedAt": "2026-11-07",
+      "nsfw": false,
+      "reviewedSourceHeadSha": "86ef916a077ada3cbe7317d22219f5221aa6c3b1"
     }
   },
   {
@@ -15063,17 +15051,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/M00NL16H7-m00nl16h7.github.io/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg"
-      ],
-      "languages": [
-        "en"
-      ],
-      "nsfw": false,
+      "gameSlug": "get-to-school-m00nl16h7",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "reviewedAt": "2026-11-07",
+      "nsfw": false,
+      "reviewedSourceHeadSha": "c34fc4c685af3bc4265e35a9496b0395eddf3952"
     }
   },
   {
@@ -15103,18 +15085,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/Talon24229-Talon24229.github.io/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg"
-      ],
-      "languages": [
-        "en"
-      ],
-      "nsfw": false,
+      "gameSlug": "gat2choool2-electric-bugaloo",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
       "reviewedAt": "2026-11-07",
-      "title": "Gat2choool2: Electric Bugaloo"
+      "nsfw": false,
+      "reviewedSourceHeadSha": "59bac03c9eef5ea7d075b9be8d0c8fd87db57447"
     }
   },
   {
@@ -15168,17 +15143,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/27klarosa-27klarosa.github.io/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg"
-      ],
-      "languages": [
-        "en"
-      ],
-      "nsfw": false,
+      "gameSlug": "get-to-school-5-27klarosa",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "reviewedAt": "2026-11-07",
+      "nsfw": false,
+      "reviewedSourceHeadSha": "014266f36425fcc9bc2df58ff4821365f9db0a38"
     }
   },
   {
@@ -15231,17 +15200,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/pzahutdwg-pzahutdwg.github.io/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg"
-      ],
-      "languages": [
-        "en"
-      ],
-      "nsfw": false,
+      "gameSlug": "get-to-school-5-pzahutdwg",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "reviewedAt": "2026-11-07",
+      "nsfw": false,
+      "reviewedSourceHeadSha": "3a1ea605cfeb6dd6a4eef28d95b1174b394f69ed"
     }
   },
   {
@@ -15271,17 +15234,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/28dosei-28dosei.github.io/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg"
-      ],
-      "languages": [
-        "en"
-      ],
-      "nsfw": false,
+      "gameSlug": "get-to-school-6-28dosei",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "reviewedAt": "2026-11-07",
+      "nsfw": false,
+      "reviewedSourceHeadSha": "bf7567afc8573c6a7c9d85d8ea12370c9abe0ea9"
     }
   },
   {
@@ -15311,17 +15268,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/28MSnyder-28MSnyder.github.io/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg"
-      ],
-      "languages": [
-        "en"
-      ],
-      "nsfw": false,
+      "gameSlug": "get-to-school-6-28msnyder",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "reviewedAt": "2026-11-07",
+      "nsfw": false,
+      "reviewedSourceHeadSha": "a380805a2b1c8a7dcfed8d47951489d6bd65b834"
     }
   },
   {
@@ -15351,17 +15302,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/28Diezel-28Diezel.github.io/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg"
-      ],
-      "languages": [
-        "en"
-      ],
-      "nsfw": false,
+      "gameSlug": "get-to-school-6-28diezel",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "reviewedAt": "2026-11-07",
+      "nsfw": false,
+      "reviewedSourceHeadSha": "b946a5fd74915fd2994b869902284c1691725efb"
     }
   },
   {
@@ -15391,17 +15336,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/28hershey-28hershey.github.io/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg"
-      ],
-      "languages": [
-        "en"
-      ],
-      "nsfw": false,
+      "gameSlug": "get-to-school-6-28hershey",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "reviewedAt": "2026-11-07",
+      "nsfw": false,
+      "reviewedSourceHeadSha": "59d86becae592f1d9d8aa8648a19ceacfa57220b"
     }
   },
   {
@@ -15431,17 +15370,9 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/27DAnderson-GameBarPortfolio/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg"
-      ],
-      "languages": [
-        "en"
-      ],
-      "nsfw": false,
       "playable": false,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "reviewedAt": "2026-11-07",
+      "nsfw": false
     }
   },
   {
@@ -15471,17 +15402,9 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/27DAnderson-PogipediaPortfolio/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg"
-      ],
-      "languages": [
-        "en"
-      ],
-      "nsfw": false,
       "playable": false,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "reviewedAt": "2026-11-07",
+      "nsfw": false
     }
   },
   {
@@ -15511,17 +15434,9 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/27DAnderson-Portfolio/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg"
-      ],
-      "languages": [
-        "en"
-      ],
-      "nsfw": false,
       "playable": false,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "reviewedAt": "2026-11-07",
+      "nsfw": false
     }
   },
   {
@@ -15551,17 +15466,9 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/28ashapiro-28ashapiro.github.io/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg"
-      ],
-      "languages": [
-        "en"
-      ],
-      "nsfw": false,
       "playable": false,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "reviewedAt": "2026-11-07",
+      "nsfw": false
     }
   },
   {
@@ -15591,17 +15498,9 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/28Cspillman-28Cspillman.github.io/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg"
-      ],
-      "languages": [
-        "en"
-      ],
-      "nsfw": false,
       "playable": false,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "reviewedAt": "2026-11-07",
+      "nsfw": false
     }
   },
   {
@@ -15631,17 +15530,9 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/28lharnish-28lharnish.github.io/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg"
-      ],
-      "languages": [
-        "en"
-      ],
-      "nsfw": false,
       "playable": false,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "reviewedAt": "2026-11-07",
+      "nsfw": false
     }
   },
   {
@@ -15671,17 +15562,9 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/Riley-Girgenti-Riley-Girgenti.github.io/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg"
-      ],
-      "languages": [
-        "en"
-      ],
-      "nsfw": false,
       "playable": false,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "reviewedAt": "2026-11-07",
+      "nsfw": false
     }
   },
   {
@@ -15711,17 +15594,9 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/28pmancenido-sys-28pmancenido-sys.github.io/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg"
-      ],
-      "languages": [
-        "en"
-      ],
-      "nsfw": false,
       "playable": false,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "reviewedAt": "2026-11-07",
+      "nsfw": false
     }
   },
   {
@@ -15751,17 +15626,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/29sdavis-29sdavis.github.io/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg"
-      ],
-      "languages": [
-        "en"
-      ],
-      "nsfw": false,
+      "gameSlug": "get-to-school-7-29sdavis",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "reviewedAt": "2026-11-07",
+      "nsfw": false,
+      "reviewedSourceHeadSha": "937634a0c314b92b6a4dcd9296f39ad8480633eb"
     }
   },
   {
@@ -15791,17 +15660,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/AngeltheRomero-AngeltheRomero.github.io/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg"
-      ],
-      "languages": [
-        "en"
-      ],
-      "nsfw": false,
+      "gameSlug": "get-to-school-7-angeltheromero",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "reviewedAt": "2026-11-07",
+      "nsfw": false,
+      "reviewedSourceHeadSha": "e06e7cb3686e0d5c9487362dd8b40c99abfd91ed"
     }
   },
   {
@@ -15854,17 +15717,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/TheCyanHusky-TheCyanHusky.github.io/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg"
-      ],
-      "languages": [
-        "en"
-      ],
-      "nsfw": false,
+      "gameSlug": "get-to-school-definitive-edition",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "reviewedAt": "2026-11-07",
+      "nsfw": false,
+      "reviewedSourceHeadSha": "45685c32ff1120bbceb7d8268314d9c9f2997b1c"
     }
   },
   {
@@ -15931,18 +15788,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/Hamoda434-GirlPower/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg",
-        "educational"
-      ],
-      "languages": [
-        "en"
-      ],
-      "nsfw": false,
+      "gameSlug": "girlpower",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "reviewedAt": "2026-11-07",
+      "nsfw": false,
+      "reviewedSourceHeadSha": "575fc0d43d470c8f43e8476583c7f03158649c20"
     }
   },
   {
@@ -15972,17 +15822,9 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/strelokhalfer-HGHU/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg"
-      ],
-      "languages": [
-        "ru"
-      ],
-      "nsfw": false,
-      "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "playable": false,
+      "reviewedAt": "2026-11-07",
+      "nsfw": false
     }
   },
   {
@@ -16012,18 +15854,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/gary26834947-eng-github_rpg_conGroup_v1/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg"
-      ],
-      "languages": [
-        "zh-Hant"
-      ],
-      "nsfw": false,
+      "gameSlug": "xing-tu-lu-ren",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
       "reviewedAt": "2026-11-07",
-      "title": "星途旅人：小王子的星幣夢航"
+      "nsfw": false,
+      "reviewedSourceHeadSha": "3942ae4d5aa7a7ab3b8cb6c7f762f91b0f81a1f8"
     }
   },
   {
