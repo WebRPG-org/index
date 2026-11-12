@@ -2137,6 +2137,692 @@
       "contentAdvisory": {
         "nsfw": false
       }
+    },
+    "azure-isekai": {
+      "schemaVersion": 1,
+      "slug": "azure-isekai",
+      "originalTitle": "Azure Isekai",
+      "taxonomy": {
+        "genres": [
+          "rpg"
+        ],
+        "themes": [
+          "educational",
+          "fantasy"
+        ],
+        "contentType": "full-game"
+      },
+      "developers": [
+        {
+          "name": "wongcyrus",
+          "url": "https://github.com/wongcyrus"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/wongcyrus-azure-isekai/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "wongcyrus-azure-isekai",
+          "title": "Azure Isekai",
+          "languages": [
+            "en"
+          ],
+          "nsfw": false
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/wongcyrus/azure-isekai"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 2,
+      "assessedAt": "2026-11-12",
+      "assessmentSources": [
+        "https://github.com/wongcyrus/azure-isekai"
+      ],
+      "assessmentNote": "README: a web RPG for hands-on Azure learning (NPC infrastructure tasks, Entra sign-in, Azure Functions grading); game data 15 maps / 119 events / 49 transfers, but only 6 dialogue lines, mostly placeholder text, with NPC tasks driven by plugin commands — a real walkable learning world, kept playable with this caveat; no reviews or external trace; rating blank; popularity 2.",
+      "translatedTitles": {
+        "zh-Hans": "蔚蓝异世界",
+        "ja": "アジュール・イセカイ"
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "边玩边学微软 Azure 的网页 RPG：NPC 分配云基础设施任务，后台评分服务校验玩家自己的 Azure 资源并记录进度与奖励。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "A web RPG for hands-on Microsoft Azure learning: NPCs assign cloud-infrastructure tasks while a grading service validates the player's own Azure resources and records progress and rewards.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "Microsoft Azure を遊びながら学ぶウェブRPG。NPC がクラウドインフラの課題を出し、採点サービスがプレイヤー自身の Azure リソースを検証して進捗と報酬を記録する。",
+          "editorialStatus": "draft"
+        }
+      },
+      "externalLinks": [
+        {
+          "type": "source",
+          "url": "https://github.com/wongcyrus/azure-isekai",
+          "label": "GitHub — wongcyrus/azure-isekai"
+        }
+      ],
+      "contentAdvisory": {
+        "nsfw": false
+      }
+    },
+    "b-35": {
+      "schemaVersion": 1,
+      "slug": "b-35",
+      "originalTitle": "B-35",
+      "taxonomy": {
+        "genres": [
+          "adventure"
+        ],
+        "themes": [
+          "experimental"
+        ],
+        "contentType": "full-game"
+      },
+      "developers": [
+        {
+          "name": "FF-NET",
+          "url": "https://github.com/FF-NET"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/FF-NET-XYZ/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "ff-net-xyz",
+          "title": "B-35",
+          "languages": [
+            "ko"
+          ],
+          "nsfw": false
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/FF-NET/XYZ"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 2,
+      "assessedAt": "2026-11-12",
+      "assessmentSources": [
+        "https://github.com/FF-NET/XYZ"
+      ],
+      "assessmentNote": "No README or external trace (0 stars); game data 45 maps / 46 events / 359 dialogue lines, sampled lines show a real Korean surreal narrative (mud creatures, an egg-and-record parable); the game lives under the 240629/ subfolder; rating blank; popularity 2.",
+      "introductions": {
+        "zh-Hans": {
+          "summary": "韩语超现实冒险游戏：45 张地图，以角色与档案馆为场景展开荒诞叙事（泥怪、蛋与唱片的寓言）。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "A Korean surreal adventure game: 45 maps of character- and archive-named scenes carrying an absurdist narrative about mud creatures, eggs and records.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "韓国のシュールなアドベンチャーゲーム。キャラクターやアーカイブの名を持つ45マップで、泥の生き物や卵とレコードをめぐる不条理な物語が展開する。",
+          "editorialStatus": "draft"
+        }
+      },
+      "externalLinks": [
+        {
+          "type": "source",
+          "url": "https://github.com/FF-NET/XYZ",
+          "label": "GitHub — FF-NET/XYZ"
+        }
+      ],
+      "contentAdvisory": {
+        "nsfw": false
+      }
+    },
+    "babaisyouclone": {
+      "schemaVersion": 1,
+      "slug": "babaisyouclone",
+      "originalTitle": "BabaIsYouClone",
+      "taxonomy": {
+        "genres": [
+          "puzzle"
+        ],
+        "themes": [],
+        "contentType": "full-game"
+      },
+      "developers": [
+        {
+          "name": "MikanHako1024",
+          "url": "https://github.com/MikanHako1024"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/MikanHako1024-RpgMaker-is-you/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "mikanhako1024-rpgmaker-is-you",
+          "title": "BabaIsYouClone",
+          "languages": [
+            "zh-Hans",
+            "en"
+          ],
+          "nsfw": false
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/MikanHako1024/RpgMaker-is-you"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 2,
+      "assessedAt": "2026-11-12",
+      "assessmentSources": [
+        "https://github.com/MikanHako1024/RpgMaker-is-you"
+      ],
+      "assessmentNote": "README: 'clone of Baba Is You by RpgMaker' (Chinese dev, rebuilt while replaying the original); game data 22 maps / 453 events; 3 stars, no reviews or external trace; rating blank; popularity 2.",
+      "translatedTitles": {
+        "zh-Hans": "巴巴是你克隆版",
+        "ja": "ババ・イズ・ユー・クローン"
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "用 RPG Maker 复刻《Baba Is You》的解谜游戏：推箱子式关卡中移动文字方块改写规则。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "A Baba Is You remake built in RPG Maker: push word blocks around puzzle levels to rewrite the rules.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "『Baba Is You』をRPGツクールで再現したパズルゲーム。単語ブロックを押してルールを書き換えながらステージを解く。",
+          "editorialStatus": "draft"
+        }
+      },
+      "externalLinks": [
+        {
+          "type": "source",
+          "url": "https://github.com/MikanHako1024/RpgMaker-is-you",
+          "label": "GitHub — MikanHako1024/RpgMaker-is-you"
+        }
+      ],
+      "contentAdvisory": {
+        "nsfw": false
+      }
+    },
+    "bambi-civilization-sus-virus": {
+      "schemaVersion": 1,
+      "slug": "bambi-civilization-sus-virus",
+      "originalTitle": "Bambi Civilization: Sus Virus",
+      "taxonomy": {
+        "genres": [
+          "rpg"
+        ],
+        "themes": [
+          "comedy",
+          "fantasy"
+        ],
+        "contentType": "full-game"
+      },
+      "developers": [
+        {
+          "name": "UnboxingVideoReal",
+          "url": "https://github.com/UnboxingVideoReal"
+        },
+        {
+          "name": "sk0rbias"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/UnboxingVideoReal-bambi-civ/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "unboxingvideoreal-bambi-civ",
+          "title": "Bambi Civilization: Sus Virus",
+          "languages": [
+            "en"
+          ],
+          "nsfw": false
+        },
+        {
+          "type": "internal",
+          "id": "unboxingvideoreal-bambi-civ-fangame-pc",
+          "title": "Bambi Civilization: Sus Virus",
+          "languages": [
+            "en"
+          ],
+          "nsfw": false
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/UnboxingVideoReal/bambi-civ",
+          "https://github.com/UnboxingVideoReal/bambi-civ-fangame-pc",
+          "https://en.namu.wiki/w/Friday%20Night%20Funkin'/%EB%AA%A8%EB%93%9C/Vs.%20Dave%20and%20Bambi"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 3,
+      "assessedAt": "2026-11-12",
+      "assessmentSources": [
+        "https://github.com/UnboxingVideoReal/bambi-civ",
+        "https://github.com/UnboxingVideoReal/bambi-civ-fangame-pc",
+        "https://en.namu.wiki/w/Friday%20Night%20Funkin'/%EB%AA%A8%EB%93%9C/Vs.%20Dave%20and%20Bambi"
+      ],
+      "assessmentNote": "NamuWiki's Vs. Dave and Bambi article documents it as 'the RPG Devam fan game called Bambi Civilization: Sus Virus' made with sk0rbias; both forks have identical game data (144 maps / 2157 events / 2577 dialogue lines, chapters 1-4); 1 star per repo, no reviews or store presence; the lone 'fuck' keyword in map data is profanity only, nsfw false; rating blank; popularity 3 for the wiki-documented community spread.",
+      "translatedTitles": {
+        "zh-Hans": "班比文明：可疑病毒",
+        "ja": "バンビ・シヴィリゼーション：サス・ウイルス"
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "《Vs. Dave and Bambi》的同人 RPG：班比的世界被可疑病毒侵袭，玩家在城镇、森林、火山与赌场之间冒险，共四章内容。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "A Vs. Dave and Bambi fan RPG: a sus virus spreads through Bambi's world as the player adventures across towns, forests, a volcano and a casino over four chapters.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "『Vs. Dave and Bambi』のファンRPG。怪しいウイルスがバンビの世界に広がる中、町や森、火山、カジノを巡る全4章の冒険。",
+          "editorialStatus": "draft"
+        }
+      },
+      "externalLinks": [
+        {
+          "type": "source",
+          "url": "https://github.com/UnboxingVideoReal/bambi-civ",
+          "label": "GitHub — UnboxingVideoReal/bambi-civ"
+        },
+        {
+          "type": "source",
+          "url": "https://github.com/UnboxingVideoReal/bambi-civ-fangame-pc",
+          "label": "GitHub — UnboxingVideoReal/bambi-civ-fangame-pc"
+        },
+        {
+          "type": "wiki",
+          "url": "https://en.namu.wiki/w/Friday%20Night%20Funkin'/%EB%AA%A8%EB%93%9C/Vs.%20Dave%20and%20Bambi",
+          "label": "NamuWiki — Vs. Dave and Bambi"
+        }
+      ],
+      "contentAdvisory": {
+        "nsfw": false
+      }
+    },
+    "basicrpg": {
+      "schemaVersion": 1,
+      "slug": "basicrpg",
+      "originalTitle": "BasicRPG",
+      "taxonomy": {
+        "genres": [
+          "rpg"
+        ],
+        "themes": [
+          "fantasy"
+        ],
+        "contentType": "full-game"
+      },
+      "developers": [
+        {
+          "name": "avery-pierce",
+          "url": "https://github.com/avery-pierce"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/avery-pierce-averypierce.me/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "avery-pierce-averypierce-me",
+          "title": "BasicRPG",
+          "languages": [
+            "en"
+          ],
+          "nsfw": false
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/avery-pierce/averypierce.me"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 2,
+      "assessedAt": "2026-11-12",
+      "assessmentSources": [
+        "https://github.com/avery-pierce/averypierce.me"
+      ],
+      "assessmentNote": "No README or external trace (0 stars); game data 6 maps / 42 events / 128 dialogue lines with an intro map and a mines section carrying 65 dialogue lines — a small but real RPG, not a template; rating blank; popularity 2.",
+      "translatedTitles": {
+        "zh-Hans": "基础RPG",
+        "ja": "ベーシックRPG"
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "小型完整 RPG：从开场到民居、洞窟与矿洞的短篇冒险，含 128 行对白。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "A small complete RPG: a short adventure from the intro through a house, caves and mines, with 128 lines of dialogue.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "小さな完成形RPG。イントロから家や洞窟、鉱山へと続く短い冒険で、128行の会話がある。",
+          "editorialStatus": "draft"
+        }
+      },
+      "externalLinks": [
+        {
+          "type": "source",
+          "url": "https://github.com/avery-pierce/averypierce.me",
+          "label": "GitHub — avery-pierce/averypierce.me"
+        }
+      ],
+      "contentAdvisory": {
+        "nsfw": false
+      }
+    },
+    "bathroom-maze": {
+      "schemaVersion": 1,
+      "slug": "bathroom-maze",
+      "originalTitle": "Bathroom Maze",
+      "taxonomy": {
+        "genres": [
+          "rpg",
+          "puzzle"
+        ],
+        "themes": [],
+        "contentType": "full-game"
+      },
+      "developers": [
+        {
+          "name": "tomoshibi06",
+          "url": "https://github.com/tomoshibi06"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/tomoshibi06-bathroom/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "tomoshibi06-bathroom",
+          "title": "Bathroom Maze",
+          "languages": [
+            "ja"
+          ],
+          "nsfw": true
+        },
+        {
+          "type": "internal",
+          "id": "savesub-bathroommaze-en",
+          "title": "Bathroom Maze",
+          "languages": [
+            "en"
+          ],
+          "nsfw": true
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/tomoshibi06/bathroom",
+          "https://github.com/SaveSub/BathroomMaze_EN"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 3,
+      "assessedAt": "2026-11-12",
+      "assessmentSources": [
+        "https://github.com/tomoshibi06/bathroom",
+        "https://github.com/SaveSub/BathroomMaze_EN"
+      ],
+      "assessmentNote": "Both forks share identical game data (14 maps / 115 events / 432 dialogue lines); NSFW true: System.json switches contain おもらし/くすぐり/触手 and the EN repo calls it a 'tickling JRPG puzzle game' — overturns the old meta's nsfw false; an English fan translation exists (2 stars per repo), no reviews or store presence; rating blank; popularity 3.",
+      "translatedTitles": {
+        "zh-Hans": "浴室迷宫",
+        "ja": "バスルーム・メイズ"
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "日式挠痒恋物解谜 RPG：主角在浴室与诺瓦尔城堡的迷宫中穿行，含英文 fan 翻译版。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "A Japanese tickling-fetish maze RPG: the protagonist navigates bathhouse and Noir Castle mazes; an English fan translation exists.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "日本のくすぐりフェチ系迷宮RPG。浴場とノワール城の迷宮を進む。英語ファン翻訳版がある。",
+          "editorialStatus": "draft"
+        }
+      },
+      "externalLinks": [
+        {
+          "type": "source",
+          "url": "https://github.com/tomoshibi06/bathroom",
+          "label": "GitHub — tomoshibi06/bathroom"
+        },
+        {
+          "type": "source",
+          "url": "https://github.com/SaveSub/BathroomMaze_EN",
+          "label": "GitHub — SaveSub/BathroomMaze_EN"
+        }
+      ],
+      "contentAdvisory": {
+        "nsfw": true
+      }
+    },
+    "being-the-hero-of-isekai-yet-barely-can-do-minesweeper-beginner": {
+      "schemaVersion": 1,
+      "slug": "being-the-hero-of-isekai-yet-barely-can-do-minesweeper-beginner",
+      "originalTitle": "Being the hero of Isekai, yet barely can do Minesweeper beginner",
+      "taxonomy": {
+        "genres": [
+          "puzzle",
+          "rpg"
+        ],
+        "themes": [
+          "fantasy",
+          "comedy"
+        ],
+        "contentType": "full-game"
+      },
+      "developers": [
+        {
+          "name": "didgogns",
+          "url": "https://github.com/didgogns"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/didgogns-MineHero/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "didgogns-minehero",
+          "title": "Being the hero of Isekai, yet barely can do Minesweeper beginner",
+          "languages": [
+            "en"
+          ],
+          "nsfw": false
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/didgogns/MineHero"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 2,
+      "assessedAt": "2026-11-12",
+      "assessmentSources": [
+        "https://github.com/didgogns/MineHero"
+      ],
+      "assessmentNote": "README: 'MineHero — This is for native Korean speakers'; game data 144 maps / 4995 events / 6480 dialogue lines (English dialogue sampled: truck-kun opening, minesweeper-board currency; Korean map names are editor labels only); the 'adult' keyword hits are an age-verification joke in dialogue, not sexual content, so nsfw stays false; 0 stars, no reviews or external trace — not to be confused with Steam's Mine Heroes (Sparkmine Studio, Oct 2026); rating blank; popularity 2.",
+      "translatedTitles": {
+        "zh-Hans": "转生异世界当勇者，却连初级扫雷都玩不明白",
+        "ja": "異世界勇者なのに初級マインスイーパもできない"
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "异世界勇者 + 扫雷的大型 RPG：主角被卡车撞死后转生异世界，在扫雷棋盘上战斗、解救同伴，含多结局与三个难度等级的扫雷关卡。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "A large isekai-hero meets Minesweeper RPG: after being hit by a truck, the hero is reborn in another world, fighting on minesweeper boards and rescuing companions, with multiple endings and beginner/intermediate/advanced minesweeper stages.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "異世界勇者とマインスイーパーを組み合わせた大型RPG。トラックにはねられて異世界に転生した勇者が、マインスイーパーの盤面で戦い仲間を救う。マルチエンディングと初級・中級・上級のマインスイーパーステージがある。",
+          "editorialStatus": "draft"
+        }
+      },
+      "externalLinks": [
+        {
+          "type": "source",
+          "url": "https://github.com/didgogns/MineHero",
+          "label": "GitHub — didgogns/MineHero"
+        }
+      ],
+      "contentAdvisory": {
+        "nsfw": false
+      }
+    },
+    "bibliogame": {
+      "schemaVersion": 1,
+      "slug": "bibliogame",
+      "originalTitle": "BiblioGame",
+      "taxonomy": {
+        "genres": [
+          "rpg"
+        ],
+        "themes": [
+          "educational",
+          "slice-of-life"
+        ],
+        "contentType": "full-game"
+      },
+      "developers": [
+        {
+          "name": "DiegOliveros",
+          "url": "https://github.com/DiegOliveros"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/DiegOliveros-diegoliveros.github.io/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "diegoliveros-diegoliveros-github-io",
+          "title": "BiblioGame",
+          "languages": [
+            "es"
+          ],
+          "nsfw": false
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/DiegOliveros/diegoliveros.github.io"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 2,
+      "assessedAt": "2026-11-12",
+      "assessmentSources": [
+        "https://github.com/DiegOliveros/diegoliveros.github.io"
+      ],
+      "assessmentNote": "No README or external trace (1 star); game data 18 maps / 250 events / 1056 dialogue lines set in a Spanish university library (admin block, classrooms, dream missions, enemy lair); System.json spells the in-game title 'BilioGame', a typo of BiblioGame kept as an alias; rating blank; popularity 2.",
+      "translatedTitles": {
+        "zh-Hans": "图书馆游戏",
+        "ja": "ビブリオゲーム"
+      },
+      "aliases": {
+        "en": [
+          "BilioGame"
+        ]
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "西语大学图书馆 RPG：玩家在大学楼宇间完成任务，穿越管理区、教学楼与神秘世界。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "A Spanish university-library RPG: the player completes quests across campus buildings, from the admin block and classrooms to a dream world and the enemy's lair.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "スペイン語の大学図書館RPG。管理棟や教室、夢の世界、敵のアジトなどキャンパスの建物を巡りながらクエストを進める。",
+          "editorialStatus": "draft"
+        }
+      },
+      "externalLinks": [
+        {
+          "type": "source",
+          "url": "https://github.com/DiegOliveros/diegoliveros.github.io",
+          "label": "GitHub — DiegOliveros/diegoliveros.github.io"
+        }
+      ],
+      "contentAdvisory": {
+        "nsfw": false
+      }
     }
   }
 }

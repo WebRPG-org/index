@@ -6230,17 +6230,9 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/William-52021008-RPG-WHW/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg"
-      ],
-      "languages": [
-        "en"
-      ],
-      "nsfw": false,
-      "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "playable": false,
+      "reviewedAt": "2026-11-07",
+      "nsfw": false
     }
   },
   {
@@ -6270,18 +6262,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/wongcyrus-azure-isekai/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg",
-        "fantasy"
-      ],
-      "languages": [
-        "en"
-      ],
-      "nsfw": false,
+      "gameSlug": "azure-isekai",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "reviewedAt": "2026-11-07",
+      "nsfw": false,
+      "reviewedSourceHeadSha": "0340ecb4fb70d04253d48f602ffd560c1ac6627a"
     }
   },
   {
@@ -6311,18 +6296,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/FF-NET-XYZ/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "adventure"
-      ],
-      "languages": [
-        "ko"
-      ],
-      "nsfw": false,
+      "gameSlug": "b-35",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
       "reviewedAt": "2026-11-07",
-      "title": "b35 테스트"
+      "nsfw": false,
+      "reviewedSourceHeadSha": "d660ac062bdfe023ff1ef17395ef85dff5eda575"
     }
   },
   {
@@ -6352,18 +6330,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/MikanHako1024-RpgMaker-is-you/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "puzzle"
-      ],
-      "languages": [
-        "zh-Hans",
-        "en"
-      ],
-      "nsfw": false,
+      "gameSlug": "babaisyouclone",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "reviewedAt": "2026-11-07",
+      "nsfw": false,
+      "reviewedSourceHeadSha": "a710f9ce4ea8b35c17c8b0d105be9386fb136b22"
     }
   },
   {
@@ -6393,17 +6364,9 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/victor-vd-babassu/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg"
-      ],
-      "languages": [
-        "en"
-      ],
-      "nsfw": false,
-      "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "playable": false,
+      "reviewedAt": "2026-11-07",
+      "nsfw": false
     }
   },
   {
@@ -6544,17 +6507,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/UnboxingVideoReal-bambi-civ/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg"
-      ],
-      "languages": [
-        "en"
-      ],
-      "nsfw": false,
+      "gameSlug": "bambi-civilization-sus-virus",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "reviewedAt": "2026-11-07",
+      "nsfw": false,
+      "reviewedSourceHeadSha": "c4d3e344684ad51f82ce415c313e519b6f6169ea"
     }
   },
   {
@@ -6584,17 +6541,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/UnboxingVideoReal-bambi-civ-fangame-pc/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg"
-      ],
-      "languages": [
-        "en"
-      ],
-      "nsfw": false,
+      "gameSlug": "bambi-civilization-sus-virus",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "reviewedAt": "2026-11-07",
+      "nsfw": false,
+      "reviewedSourceHeadSha": "12fa96938b2d629a7cbfd52b975bc3cc53ac223b"
     }
   },
   {
@@ -6648,17 +6599,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/avery-pierce-averypierce.me/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg"
-      ],
-      "languages": [
-        "en"
-      ],
-      "nsfw": false,
+      "gameSlug": "basicrpg",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "reviewedAt": "2026-11-07",
+      "nsfw": false,
+      "reviewedSourceHeadSha": "090f51036937eb61a6df08814890f0f12f84738d"
     }
   },
   {
@@ -6688,18 +6633,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/SaveSub-BathroomMaze_EN/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg",
-        "puzzle"
-      ],
-      "languages": [
-        "en"
-      ],
-      "nsfw": false,
+      "gameSlug": "bathroom-maze",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "reviewedAt": "2026-11-07",
+      "nsfw": true,
+      "reviewedSourceHeadSha": "01dfd85b2d86b91d9232d48aa4e88aa3ea712061"
     }
   },
   {
@@ -6729,18 +6667,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/tomoshibi06-bathroom/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg",
-        "puzzle"
-      ],
-      "languages": [
-        "ja"
-      ],
-      "nsfw": false,
+      "gameSlug": "bathroom-maze",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "reviewedAt": "2026-11-07",
+      "nsfw": true,
+      "reviewedSourceHeadSha": "12e8cc96b55e45b4844db80d80599791df6e2ced"
     }
   },
   {
@@ -6770,18 +6701,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/didgogns-MineHero/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "puzzle",
-        "fantasy"
-      ],
-      "languages": [
-        "en"
-      ],
-      "nsfw": false,
+      "gameSlug": "being-the-hero-of-isekai-yet-barely-can-do-minesweeper-beginner",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "reviewedAt": "2026-11-07",
+      "nsfw": false,
+      "reviewedSourceHeadSha": "5bac973fa34cce3b31099b1231c0a6f93cd4e6a2"
     }
   },
   {
@@ -6811,18 +6735,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/DiegOliveros-diegoliveros.github.io/game.html served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg",
-        "slice-of-life"
-      ],
-      "languages": [
-        "es"
-      ],
-      "nsfw": false,
+      "gameSlug": "bibliogame",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "reviewedAt": "2026-11-07",
+      "nsfw": false,
+      "reviewedSourceHeadSha": "86ce55be8a9b90f74cc249e1c165fde4761448bf"
     }
   },
   {
