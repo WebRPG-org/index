@@ -5100,17 +5100,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/PedroMaxDEV-A-LENDA-DE-CAMUTANGA/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg"
-      ],
-      "languages": [
-        "pt"
-      ],
+      "gameSlug": "a-lenda-de-camutanga",
       "nsfw": false,
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "reviewedAt": "2026-11-07",
+      "reviewedSourceHeadSha": "8a2a1bde71fbc30877cd00f708f0dae9f9bde2f9"
     }
   },
   {
@@ -5140,17 +5134,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/sness128-sness128.github.io/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "adventure"
-      ],
-      "languages": [
-        "en"
-      ],
+      "gameSlug": "a-rather-long-walk",
       "nsfw": false,
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "reviewedAt": "2026-11-07",
+      "reviewedSourceHeadSha": "9474a59668b821c580ad40cf93ae50cc64e454a5"
     }
   },
   {
@@ -5180,17 +5168,8 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/EVAFG-A-stormy-story/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg",
-        "fantasy"
-      ],
-      "languages": [
-        "en"
-      ],
       "nsfw": false,
-      "playable": true,
-      "popularity": 2,
-      "rating": 5,
+      "playable": false,
       "reviewedAt": "2026-11-07"
     }
   },
@@ -5237,22 +5216,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/renrender0209-Aaaao/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "aliases": [
-        "Aaaao"
-      ],
-      "genres": [
-        "puzzle",
-        "horror"
-      ],
-      "languages": [
-        "ja"
-      ],
+      "gameSlug": "menhera-chan-ie-kara-no-dasshutsu",
       "nsfw": false,
       "playable": true,
-      "popularity": 3,
-      "rating": 5,
       "reviewedAt": "2026-11-07",
-      "title": "メンヘラちゃん家からの脱出"
+      "reviewedSourceHeadSha": "a4261653ba0ec8efbfdd7b026e5329f921af6454"
     }
   },
   {
@@ -5358,18 +5326,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/Elrias-elrias-lab/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg",
-        "fantasy"
-      ],
-      "languages": [
-        "en"
-      ],
+      "gameSlug": "abyss-awakening",
       "nsfw": false,
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "reviewedAt": "2026-11-07",
+      "reviewedSourceHeadSha": "ae3d37b28c5a10d9a9bf7b6b4965e53cfbbda59f"
     }
   },
   {
@@ -5417,18 +5378,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/okshaone-loop/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "adventure",
-        "slice-of-life"
-      ],
-      "languages": [
-        "en"
-      ],
+      "gameSlug": "adventure-of-yours",
       "nsfw": false,
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "reviewedAt": "2026-11-07",
+      "reviewedSourceHeadSha": "528230e7fd2d3589ba5b61a708f3e031fb4215da"
     }
   },
   {
@@ -5513,18 +5467,11 @@
     "sourceHeadSha": "bdc8c8bd330fe41704cd9fdd63d396bbf917cfa0",
     "processedHeadSha": "b6bf76d554239f92e2bd2eb77993c20cd9d9d314",
     "meta": {
-      "genres": [
-        "adventure",
-        "comedy"
-      ],
-      "languages": [
-        "en"
-      ],
-      "nsfw": false,
+      "gameSlug": "ahazondash",
+      "nsfw": true,
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "reviewedAt": "2026-11-07",
+      "reviewedSourceHeadSha": "bdc8c8bd330fe41704cd9fdd63d396bbf917cfa0"
     },
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/SaveSub-AHAZON_DASH_EN/ served an RPG Maker entry point and its startup resources"
@@ -5551,16 +5498,8 @@
     "dataSize": 672480,
     "processedHeadSha": "fd49a2705a03c21eb68c71ac02fc89e7e0ed0913",
     "meta": {
-      "genres": [
-        "rpg"
-      ],
-      "languages": [
-        "ru"
-      ],
       "nsfw": false,
-      "playable": true,
-      "popularity": 2,
-      "rating": 5,
+      "playable": false,
       "reviewedAt": "2026-11-07"
     },
     "reachable": true,
@@ -5631,18 +5570,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/hacksider-Alpha-Chronicles/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg",
-        "fantasy"
-      ],
-      "languages": [
-        "en"
-      ],
+      "gameSlug": "alpha-chronicle",
       "nsfw": false,
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "reviewedAt": "2026-11-07",
+      "reviewedSourceHeadSha": "a1266d7d65bfc2b7a1052527705aaaead431fdcb"
     }
   },
   {
@@ -5672,18 +5604,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/eduardomourar-easyrpg-web/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "reviewedAt": "2026-11-07",
-      "playable": true,
-      "rating": 5,
-      "popularity": 2,
-      "title": "Alpha/Omega",
-      "genres": [
-        "rpg"
-      ],
+      "gameSlug": "alpha-omega",
       "nsfw": false,
-      "languages": [
-        "en"
-      ]
+      "playable": true,
+      "reviewedAt": "2026-11-07",
+      "reviewedSourceHeadSha": "232903cd8d92b73c310eb7ed8455386e3223a600"
     }
   },
   {

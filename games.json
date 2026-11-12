@@ -674,6 +674,494 @@
       "seo": {
         "indexPolicy": "auto"
       }
+    },
+    "a-lenda-de-camutanga": {
+      "assessedAt": "2026-11-12",
+      "assessmentNote": "Web search found no Steam/itch/media footprint; repo README V3.1 describes a campaign plus a free-roam 'Mundo Vivo' mode and hundreds of events, and MapInfos lists 28 named maps (intro, streets, church, village, shops, lava cave, forest); no reviews found, so rating is left blank and popularity is 2.",
+      "assessmentSources": [
+        "https://github.com/PedroMaxDEV/A-LENDA-DE-CAMUTANGA"
+      ],
+      "contentAdvisory": {
+        "nsfw": false
+      },
+      "developers": [
+        {
+          "name": "PedroMaxDEV"
+        }
+      ],
+      "editorial": {
+        "qualityFlags": [
+          "description-unverified"
+        ],
+        "sources": [
+          "https://github.com/PedroMaxDEV/A-LENDA-DE-CAMUTANGA"
+        ],
+        "status": "draft"
+      },
+      "instances": [
+        {
+          "id": "pedromaxdev-a-lenda-de-camutanga",
+          "languages": [
+            "pt"
+          ],
+          "nsfw": false,
+          "title": "A Lenda de Camutanga",
+          "type": "internal"
+        }
+      ],
+      "introductions": {
+        "zh-Hans": {
+          "editorialStatus": "draft",
+          "summary": "以巴西小镇卡穆坦加为背景的角色扮演游戏，含战役剧情与自由漫游模式，共 28 张地图。"
+        }
+      },
+      "media": {
+        "cover": "https://webrpg.org/PedroMaxDEV-A-LENDA-DE-CAMUTANGA/cover.png"
+      },
+      "originalTitle": "A Lenda de Camutanga",
+      "popularity": 2,
+      "schemaVersion": 1,
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "slug": "a-lenda-de-camutanga",
+      "taxonomy": {
+        "contentType": "full-game",
+        "genres": [
+          "rpg"
+        ]
+      }
+    },
+    "a-rather-long-walk": {
+      "assessedAt": "2026-11-12",
+      "assessmentNote": "Repo data shows a 4-map short game (character select, dungeon, boss 'SMSteve' with dialogue and battles); no external footprint found in web search, so rating is left blank and popularity is 2.",
+      "assessmentSources": [
+        "https://github.com/sness128/sness128.github.io"
+      ],
+      "contentAdvisory": {
+        "nsfw": false
+      },
+      "developers": [
+        {
+          "name": "sness128"
+        }
+      ],
+      "editorial": {
+        "qualityFlags": [
+          "description-unverified"
+        ],
+        "sources": [
+          "https://github.com/sness128/sness128.github.io"
+        ],
+        "status": "draft"
+      },
+      "instances": [
+        {
+          "id": "sness128-sness128-github-io",
+          "languages": [
+            "en"
+          ],
+          "nsfw": false,
+          "title": "A Rather Long Walk",
+          "type": "internal"
+        }
+      ],
+      "introductions": {
+        "zh-Hans": {
+          "editorialStatus": "draft",
+          "summary": "选择角色后一路长途跋涉、击败玩笑 Boss 的短篇喜剧冒险游戏。"
+        }
+      },
+      "media": {
+        "cover": "https://webrpg.org/sness128-sness128.github.io/cover.png"
+      },
+      "originalTitle": "A Rather Long Walk",
+      "popularity": 2,
+      "schemaVersion": 1,
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "slug": "a-rather-long-walk",
+      "taxonomy": {
+        "contentType": "full-game",
+        "genres": [
+          "adventure"
+        ],
+        "themes": [
+          "comedy"
+        ]
+      }
+    },
+    "abyss-awakening": {
+      "assessedAt": "2026-11-12",
+      "assessmentNote": "Repo MapInfos lists 200+ maps (dungeons, forest, camp, HQ, shop, side quests, main quest); no external footprint found in web search, so rating is left blank and popularity is 2.",
+      "assessmentSources": [
+        "https://github.com/Elrias/elrias-lab"
+      ],
+      "contentAdvisory": {
+        "nsfw": false
+      },
+      "developers": [
+        {
+          "name": "Elrias"
+        }
+      ],
+      "editorial": {
+        "qualityFlags": [
+          "description-unverified"
+        ],
+        "sources": [
+          "https://github.com/Elrias/elrias-lab"
+        ],
+        "status": "draft"
+      },
+      "instances": [
+        {
+          "id": "elrias-elrias-lab",
+          "languages": [
+            "en"
+          ],
+          "nsfw": false,
+          "title": "Abyss Awakening",
+          "type": "internal"
+        }
+      ],
+      "introductions": {
+        "zh-Hans": {
+          "editorialStatus": "draft",
+          "summary": "含多座地牢、森林、营地与支线任务的大型奇幻角色扮演游戏。"
+        }
+      },
+      "media": {
+        "cover": "https://webrpg.org/Elrias-elrias-lab/cover.png"
+      },
+      "originalTitle": "Abyss Awakening",
+      "popularity": 2,
+      "schemaVersion": 1,
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "slug": "abyss-awakening",
+      "taxonomy": {
+        "contentType": "full-game",
+        "genres": [
+          "rpg"
+        ],
+        "themes": [
+          "fantasy"
+        ]
+      }
+    },
+    "adventure-of-yours": {
+      "assessedAt": "2026-11-12",
+      "assessmentNote": "Repo data shows a 3-map short game whose intro map carries a full dialogue scene (amnesiac UCSC student, name entry, meeting the goddess); no external footprint found in web search, so rating is left blank and popularity is 2.",
+      "assessmentSources": [
+        "https://github.com/okshaone/loop"
+      ],
+      "contentAdvisory": {
+        "nsfw": false
+      },
+      "developers": [
+        {
+          "name": "okshaone"
+        }
+      ],
+      "editorial": {
+        "qualityFlags": [
+          "description-unverified"
+        ],
+        "sources": [
+          "https://github.com/okshaone/loop"
+        ],
+        "status": "draft"
+      },
+      "instances": [
+        {
+          "id": "okshaone-loop",
+          "languages": [
+            "en"
+          ],
+          "nsfw": false,
+          "title": "Adventure of Yours",
+          "type": "internal"
+        }
+      ],
+      "introductions": {
+        "zh-Hans": {
+          "editorialStatus": "draft",
+          "summary": "失忆学生醒来于黑暗之地、与女神相遇的短篇冒险游戏。"
+        }
+      },
+      "media": {
+        "cover": "https://webrpg.org/okshaone-loop/cover.png"
+      },
+      "originalTitle": "Adventure of Yours",
+      "popularity": 2,
+      "schemaVersion": 1,
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "slug": "adventure-of-yours",
+      "taxonomy": {
+        "contentType": "full-game",
+        "genres": [
+          "adventure"
+        ],
+        "themes": [
+          "slice-of-life"
+        ]
+      }
+    },
+    "ahazondash": {
+      "assessedAt": "2026-11-12",
+      "assessmentNote": "Repo data shows a 14-map stage-based action game (stages 1-1 to 2-5, Demon King Castle, laboratory); System.json confirms gameTitle 'AHAZONDASH!' and a Japanese original; no store/media footprint found, so rating is left blank and popularity is 2; nsfw true per in-repo tickle/wetting animation switches and a recollection mode.",
+      "assessmentSources": [
+        "https://github.com/SaveSub/AHAZON_DASH_EN"
+      ],
+      "contentAdvisory": {
+        "nsfw": true
+      },
+      "editorial": {
+        "qualityFlags": [
+          "description-unverified"
+        ],
+        "sources": [
+          "https://github.com/SaveSub/AHAZON_DASH_EN"
+        ],
+        "status": "draft"
+      },
+      "instances": [
+        {
+          "id": "savesub-ahazon-dash-en",
+          "languages": [
+            "en"
+          ],
+          "nsfw": true,
+          "title": "AHAZONDASH!",
+          "type": "internal"
+        }
+      ],
+      "introductions": {
+        "zh-Hans": {
+          "editorialStatus": "draft",
+          "summary": "以多关卡推进、直捣魔王城的动作冒险游戏（日文原作的英文版）。"
+        }
+      },
+      "media": {
+        "cover": "https://webrpg.org/SaveSub-AHAZON_DASH_EN/cover.png"
+      },
+      "originalTitle": "AHAZONDASH!",
+      "popularity": 2,
+      "schemaVersion": 1,
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "slug": "ahazondash",
+      "taxonomy": {
+        "contentType": "full-game",
+        "genres": [
+          "adventure"
+        ],
+        "themes": [
+          "comedy"
+        ]
+      }
+    },
+    "alpha-chronicle": {
+      "assessedAt": "2026-11-12",
+      "assessmentNote": "Repo data shows a 5-map RPG (world map with random encounters, town of Marikina, inn, river) and a joinable NPC 'Fanta' with dialogue and a party-join choice; no external footprint found in web search, so rating is left blank and popularity is 2.",
+      "assessmentSources": [
+        "https://github.com/hacksider/Alpha-Chronicles"
+      ],
+      "contentAdvisory": {
+        "nsfw": false
+      },
+      "developers": [
+        {
+          "name": "hacksider"
+        }
+      ],
+      "editorial": {
+        "qualityFlags": [
+          "description-unverified"
+        ],
+        "sources": [
+          "https://github.com/hacksider/Alpha-Chronicles"
+        ],
+        "status": "draft"
+      },
+      "instances": [
+        {
+          "id": "hacksider-alpha-chronicles",
+          "languages": [
+            "en"
+          ],
+          "nsfw": false,
+          "title": "Alpha Chronicle",
+          "type": "internal"
+        }
+      ],
+      "introductions": {
+        "zh-Hans": {
+          "editorialStatus": "draft",
+          "summary": "以世界地图与小镇玛丽基纳为舞台的奇幻角色扮演游戏，含可加入队伍的 NPC。"
+        }
+      },
+      "media": {
+        "cover": "https://webrpg.org/hacksider-Alpha-Chronicles/cover.png"
+      },
+      "originalTitle": "Alpha Chronicle",
+      "popularity": 2,
+      "schemaVersion": 1,
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "slug": "alpha-chronicle",
+      "taxonomy": {
+        "contentType": "full-game",
+        "genres": [
+          "rpg"
+        ],
+        "themes": [
+          "fantasy"
+        ]
+      }
+    },
+    "alpha-omega": {
+      "assessedAt": "2026-11-12",
+      "assessmentNote": "Repo data shows a demo with ~10 maps (Bedroom opening with full Mindy dialogue, Heaven regions, Lucifer's Rebellion story choice from Revelation 12:7); no external footprint found in web search, so rating is left blank and popularity is 2.",
+      "assessmentSources": [
+        "https://github.com/eduardomourar/easyrpg-web"
+      ],
+      "contentAdvisory": {
+        "nsfw": false
+      },
+      "editorial": {
+        "qualityFlags": [
+          "description-unverified"
+        ],
+        "sources": [
+          "https://github.com/eduardomourar/easyrpg-web"
+        ],
+        "status": "draft"
+      },
+      "instances": [
+        {
+          "id": "eduardomourar-easyrpg-web",
+          "languages": [
+            "en"
+          ],
+          "nsfw": false,
+          "title": "Alpha/Omega",
+          "type": "internal"
+        }
+      ],
+      "introductions": {
+        "zh-Hans": {
+          "editorialStatus": "draft",
+          "summary": "以《圣经》故事为题材的角色扮演游戏试玩版，开场为天堂路西法叛乱（启示录 12:7）。"
+        }
+      },
+      "media": {
+        "cover": "https://webrpg.org/eduardomourar-easyrpg-web/cover.png"
+      },
+      "originalTitle": "Alpha/Omega",
+      "popularity": 2,
+      "schemaVersion": 1,
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "slug": "alpha-omega",
+      "taxonomy": {
+        "contentType": "demo",
+        "genres": [
+          "rpg"
+        ]
+      }
+    },
+    "menhera-chan-ie-kara-no-dasshutsu": {
+      "assessedAt": "2026-11-12",
+      "assessmentNote": "App Store and Google Play listings confirm a published RPG Maker MZ escape game by あつかん (Atsukan) with 4 endings (BAD/NORMAL/GOOD/BEST); repo MapInfos lists 29 maps (rooms, basement, endings, epilogue) matching the published game; no review scores found, so rating is left blank; popularity is 4 for real two-store distribution with no media coverage.",
+      "assessmentSources": [
+        "https://apps.apple.com/jp/app/%E3%83%A1%E3%83%B3%E3%83%98%E3%83%A9%E3%81%A1%E3%82%83%E3%82%93%E5%AE%B6%E3%81%8B%E3%82%89%E3%81%AE%E8%84%B1%E5%87%BA/id1609730697",
+        "https://play.google.com/store/apps/details?id=com.atsukan.menhera",
+        "https://github.com/renrender0209/Aaaao"
+      ],
+      "contentAdvisory": {
+        "nsfw": false
+      },
+      "developers": [
+        {
+          "name": "あつかん"
+        }
+      ],
+      "editorial": {
+        "qualityFlags": [
+          "description-unverified"
+        ],
+        "sources": [
+          "https://apps.apple.com/jp/app/%E3%83%A1%E3%83%B3%E3%83%98%E3%83%A9%E3%81%A1%E3%82%83%E3%82%93%E5%AE%B6%E3%81%8B%E3%82%89%E3%81%AE%E8%84%B1%E5%87%BA/id1609730697",
+          "https://play.google.com/store/apps/details?id=com.atsukan.menhera",
+          "https://github.com/renrender0209/Aaaao"
+        ],
+        "status": "draft"
+      },
+      "externalLinks": [
+        {
+          "label": "App Store — メンヘラちゃん家からの脱出",
+          "type": "store",
+          "url": "https://apps.apple.com/jp/app/%E3%83%A1%E3%83%B3%E3%83%98%E3%83%A9%E3%81%A1%E3%82%83%E3%82%93%E5%AE%B6%E3%81%8B%E3%82%89%E3%81%AE%E8%84%B1%E5%87%BA/id1609730697"
+        },
+        {
+          "label": "Google Play — メンヘラちゃん家からの脱出",
+          "type": "store",
+          "url": "https://play.google.com/store/apps/details?id=com.atsukan.menhera"
+        }
+      ],
+      "instances": [
+        {
+          "id": "renrender0209-aaaao",
+          "languages": [
+            "ja"
+          ],
+          "nsfw": false,
+          "title": "メンヘラちゃん家からの脱出",
+          "type": "internal"
+        }
+      ],
+      "introductions": {
+        "zh-Hans": {
+          "editorialStatus": "draft",
+          "summary": "被病娇少女囚禁后设法逃脱的密室逃脱游戏，共 4 种结局。"
+        }
+      },
+      "media": {
+        "cover": null
+      },
+      "originalTitle": "メンヘラちゃん家からの脱出",
+      "popularity": 4,
+      "publishers": [
+        {
+          "name": "ぬか漬けパリピマン"
+        }
+      ],
+      "schemaVersion": 1,
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "slug": "menhera-chan-ie-kara-no-dasshutsu",
+      "taxonomy": {
+        "contentType": "full-game",
+        "genres": [
+          "puzzle"
+        ],
+        "themes": [
+          "horror"
+        ]
+      },
+      "translatedTitles": {
+        "en": "Escape from Menhera-chan's House"
+      }
     }
   }
 }
