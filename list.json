@@ -5697,17 +5697,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/rober26522-th-grade-work/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg"
-      ],
-      "languages": [
-        "en"
-      ],
-      "nsfw": false,
+      "gameSlug": "amung-us-2",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "reviewedAt": "2026-11-07",
+      "nsfw": false,
+      "reviewedSourceHeadSha": "069ec69636c4af95f8da0b377fd3575e9c8ed999"
     }
   },
   {
@@ -5737,17 +5731,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/rober26522-9thGradeWork/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg"
-      ],
-      "languages": [
-        "en"
-      ],
-      "nsfw": false,
+      "gameSlug": "amung-us-2",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "reviewedAt": "2026-11-07",
+      "nsfw": false,
+      "reviewedSourceHeadSha": "8a4a1a4d654f58056fc8ee6b20d136ff49258c06"
     }
   },
   {
@@ -5777,17 +5765,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/rober26522-rober26522.github.io/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg"
-      ],
-      "languages": [
-        "en"
-      ],
-      "nsfw": false,
+      "gameSlug": "amung-us-2",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "reviewedAt": "2026-11-07",
+      "nsfw": false,
+      "reviewedSourceHeadSha": "40438eedaf549fa5a7f2bfea05275627627b42b5"
     }
   },
   {
@@ -5815,18 +5797,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/chocabloc-adventure-game/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "adventure",
-        "slice-of-life"
-      ],
-      "languages": [
-        "en"
-      ],
-      "nsfw": false,
+      "gameSlug": "an-adventure",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "reviewedAt": "2026-11-07",
+      "nsfw": false,
+      "reviewedSourceHeadSha": "ab9ed043b1a9bd5c9223774eef793c9849a5a82c"
     }
   },
   {
@@ -5894,18 +5869,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/masudinn-Animal-Hunting/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "adventure",
-        "educational"
-      ],
-      "languages": [
-        "id"
-      ],
-      "nsfw": false,
+      "gameSlug": "animal-hunting",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "reviewedAt": "2026-11-07",
+      "nsfw": false,
+      "reviewedSourceHeadSha": "2f48cc6291a55a7022dd2bb562a86e0024723673"
     }
   },
   {
@@ -6029,15 +5997,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/rex-lam-Anti-FraudX/rpg_game.html served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg",
-        "educational"
-      ],
-      "nsfw": false,
+      "gameSlug": "antifraudx",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "reviewedAt": "2026-11-07",
+      "nsfw": false,
+      "reviewedSourceHeadSha": "e5954d92661ddc56ad4aee768fcca498d03bc56e"
     }
   },
   {
@@ -6065,18 +6029,11 @@
     "sourceHeadSha": "bd801154a86cd6863edeffbce2a3ab408161d982",
     "processedHeadSha": "3f5833b4a7f68935d6be2c22b21fd64d1d633805",
     "meta": {
-      "genres": [
-        "adventure",
-        "comedy"
-      ],
-      "languages": [
-        "fr"
-      ],
-      "nsfw": false,
+      "gameSlug": "apocalyptic-purple",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "reviewedAt": "2026-11-07",
+      "nsfw": false,
+      "reviewedSourceHeadSha": "bd801154a86cd6863edeffbce2a3ab408161d982"
     },
     "verificationDeferred": true,
     "syncedFromSource": true
@@ -6108,18 +6065,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/Retro-Muffins-Arcadia/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "adventure",
-        "slice-of-life"
-      ],
-      "languages": [
-        "en"
-      ],
-      "nsfw": false,
+      "gameSlug": "arcadia",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "reviewedAt": "2026-11-07",
+      "nsfw": false,
+      "reviewedSourceHeadSha": "591fca1dfd14c3f89a53f190b4c00732c386702f"
     }
   },
   {
@@ -6149,18 +6099,10 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/Imtomzizle-Write-399-RPG-Maker-Game/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg",
-        "fantasy"
-      ],
-      "languages": [
-        "en"
-      ],
-      "nsfw": false,
+      "gameSlug": "armitox",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "reviewedAt": "2026-11-07",
+      "reviewedSourceHeadSha": "dc9a7198f7d417333be87a054aa0f33318ba8f74"
     }
   },
   {
@@ -6188,19 +6130,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/raihlima-Gerente-Projetos-Web-MZ/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg",
-        "educational"
-      ],
-      "languages": [
-        "pt"
-      ],
-      "nsfw": false,
+      "gameSlug": "as-aventuras-de-um-gerente-de-projetos",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
       "reviewedAt": "2026-11-07",
-      "title": "Odisseia de Jevain"
+      "nsfw": false,
+      "reviewedSourceHeadSha": "5b3e60f2058c5234f58ba435bd188cbdd7cc6588"
     }
   },
   {
@@ -6230,19 +6164,9 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/devdinho-Ascending-Magic/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg",
-        "fantasy"
-      ],
-      "languages": [
-        "pt"
-      ],
-      "nsfw": false,
-      "playable": true,
-      "popularity": 2,
-      "rating": 5,
+      "playable": false,
       "reviewedAt": "2026-11-07",
-      "title": "Ascending Magic — Empire of the Syels"
+      "nsfw": false
     }
   },
   {
@@ -6272,18 +6196,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/LeonardoRSS18-TesteAurora/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg",
-        "fantasy"
-      ],
-      "languages": [
-        "pt"
-      ],
-      "nsfw": false,
+      "gameSlug": "aurora",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "reviewedAt": "2026-11-07",
+      "nsfw": false,
+      "reviewedSourceHeadSha": "4fd4e4a5c5a339e100fc5dd2428246b15f074449"
     }
   },
   {

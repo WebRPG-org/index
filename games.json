@@ -1371,6 +1371,772 @@
         "en": "Escape from Menhera-chan's House",
         "zh-Hans": "逃出病娇酱的家"
       }
+    },
+    "amung-us-2": {
+      "schemaVersion": 1,
+      "slug": "amung-us-2",
+      "originalTitle": "Amung us 2",
+      "taxonomy": {
+        "genres": [
+          "rpg"
+        ],
+        "themes": [
+          "comedy"
+        ],
+        "contentType": "full-game"
+      },
+      "developers": [
+        {
+          "name": "rober26522",
+          "url": "https://github.com/rober26522"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/rober26522-9thGradeWork/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "rober26522-th-grade-work",
+          "title": "Amung us 2",
+          "languages": [
+            "en"
+          ],
+          "nsfw": false
+        },
+        {
+          "type": "internal",
+          "id": "rober26522-9thgradework",
+          "title": "Amung us 2",
+          "languages": [
+            "en"
+          ],
+          "nsfw": false
+        },
+        {
+          "type": "internal",
+          "id": "rober26522-rober26522-github-io",
+          "title": "Amung us 2",
+          "languages": [
+            "en"
+          ],
+          "nsfw": false
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/rober26522/-th-grade-work",
+          "https://github.com/rober26522/9thGradeWork",
+          "https://github.com/rober26522/rober26522.github.io"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 2,
+      "assessedAt": "2026-11-12",
+      "assessmentSources": [
+        "https://github.com/rober26522/-th-grade-work",
+        "https://github.com/rober26522/9thGradeWork",
+        "https://github.com/rober26522/rober26522.github.io"
+      ],
+      "assessmentNote": "Web search found no trace outside the three GitHub repos (0 stars, no README, no reviews); game data shows 25 maps / ~250 events / ~200 dialogue lines in the two later forks (the first fork is an earlier 8-map version), confirming a real if crude school RPG; rating blank for lack of reputation evidence; popularity 2 for no spread.",
+      "translatedTitles": {
+        "zh-Hans": "阿蒙我们2",
+        "ja": "アマング・アス2"
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "9 年级学生作业 RPG：以 Among Us 为灵感的校园小品，玩家在家、森林、小镇与地牢之间冒险。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "A 9th-grade school-project RPG inspired by Among Us, adventuring through home, forest, town and dungeon maps.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "Among Us に着想を得た中学 9 年生の課題 RPG。家や森、町、ダンジョンを冒険する。",
+          "editorialStatus": "draft"
+        }
+      },
+      "externalLinks": [
+        {
+          "type": "source",
+          "url": "https://github.com/rober26522/-th-grade-work",
+          "label": "GitHub — rober26522/-th-grade-work"
+        },
+        {
+          "type": "source",
+          "url": "https://github.com/rober26522/9thGradeWork",
+          "label": "GitHub — rober26522/9thGradeWork"
+        },
+        {
+          "type": "source",
+          "url": "https://github.com/rober26522/rober26522.github.io",
+          "label": "GitHub — rober26522/rober26522.github.io"
+        }
+      ],
+      "contentAdvisory": {
+        "nsfw": false
+      }
+    },
+    "an-adventure": {
+      "schemaVersion": 1,
+      "slug": "an-adventure",
+      "originalTitle": "An Adventure",
+      "taxonomy": {
+        "genres": [
+          "adventure"
+        ],
+        "themes": [
+          "slice-of-life"
+        ],
+        "contentType": "full-game"
+      },
+      "developers": [
+        {
+          "name": "chocabloc",
+          "url": "https://github.com/chocabloc"
+        }
+      ],
+      "media": {
+        "cover": null
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "chocabloc-adventure-game",
+          "title": "An Adventure",
+          "languages": [
+            "en"
+          ],
+          "nsfw": false
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/chocabloc/adventure-game"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 2,
+      "assessedAt": "2026-11-12",
+      "assessmentSources": [
+        "https://github.com/chocabloc/adventure-game"
+      ],
+      "assessmentNote": "No trace outside the GitHub repo (0 stars, no README, no reviews); game data: 2 maps / 23 events / 65 dialogue lines — a tiny but real adventure; rating blank; popularity 2 for no spread.",
+      "translatedTitles": {
+        "zh-Hans": "一次冒险",
+        "ja": "アン・アドベンチャー"
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "只有两张地图的微型冒险游戏，包含少量对话与场景切换。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "A tiny two-map adventure game with a small amount of dialogue and scene changes.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "2マップのみの小さなアドベンチャーゲーム。少量の会話とシーン切り替えがある。",
+          "editorialStatus": "draft"
+        }
+      },
+      "externalLinks": [
+        {
+          "type": "source",
+          "url": "https://github.com/chocabloc/adventure-game",
+          "label": "GitHub — chocabloc/adventure-game"
+        }
+      ],
+      "contentAdvisory": {
+        "nsfw": false
+      }
+    },
+    "animal-hunting": {
+      "schemaVersion": 1,
+      "slug": "animal-hunting",
+      "originalTitle": "Animal Hunting",
+      "taxonomy": {
+        "genres": [
+          "adventure"
+        ],
+        "themes": [
+          "educational"
+        ],
+        "contentType": "full-game"
+      },
+      "developers": [
+        {
+          "name": "masudinn",
+          "url": "https://github.com/masudinn"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/masudinn-Animal-Hunting/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "masudinn-animal-hunting",
+          "title": "Animal Hunting",
+          "languages": [
+            "id"
+          ],
+          "nsfw": false
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/masudinn/Animal-Hunting"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 2,
+      "assessedAt": "2026-11-12",
+      "assessmentSources": [
+        "https://github.com/masudinn/Animal-Hunting"
+      ],
+      "assessmentNote": "Repo description: 'Final project matakuliah Teknologi Game' (Indonesian game-technology course final project); no reviews or external trace; game data 6 maps / 34 events / 301 dialogue lines; rating blank; popularity 2 for no spread.",
+      "translatedTitles": {
+        "zh-Hans": "猎捕动物",
+        "ja": "アニマル・ハンティング"
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "印尼语游戏技术课程的期末作业：狩猎主题的冒险 RPG。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "A final project for an Indonesian game-technology course: a hunting-themed adventure RPG.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "インドネシアのゲーム技術課程の最終課題。狩りをテーマにしたアドベンチャーRPG。",
+          "editorialStatus": "draft"
+        }
+      },
+      "externalLinks": [
+        {
+          "type": "source",
+          "url": "https://github.com/masudinn/Animal-Hunting",
+          "label": "GitHub — masudinn/Animal-Hunting"
+        }
+      ],
+      "contentAdvisory": {
+        "nsfw": false
+      }
+    },
+    "antifraudx": {
+      "schemaVersion": 1,
+      "slug": "antifraudx",
+      "originalTitle": "AntiFraudX",
+      "taxonomy": {
+        "genres": [
+          "rpg"
+        ],
+        "themes": [
+          "educational"
+        ],
+        "contentType": "full-game"
+      },
+      "developers": [
+        {
+          "name": "rex-lam",
+          "url": "https://github.com/rex-lam"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/rex-lam-Anti-FraudX/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "rex-lam-anti-fraudx",
+          "title": "AntiFraudX",
+          "languages": [
+            "zh-Hant",
+            "en"
+          ],
+          "nsfw": false
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/rex-lam/Anti-FraudX"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 2,
+      "assessedAt": "2026-11-12",
+      "assessmentSources": [
+        "https://github.com/rex-lam/Anti-FraudX"
+      ],
+      "assessmentNote": "README documents an AI anti-fraud education platform (multi-agent, 281 real Hong Kong fraud cases, RAG); the indexed RPG Maker entry has 18 maps / 137 events with Traditional Chinese + English dialogue; no reviews, no store presence; note the repo is now a full-stack platform whose RPG part is Phaser.js while the indexed entry is the RPG Maker build; rating blank; popularity 2.",
+      "translatedTitles": {
+        "zh-Hans": "反诈骗X",
+        "ja": "アンチフラウドX"
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "一款反诈骗教育 RPG：模拟真实香港诈骗场景，玩家在 AI 专家的指导下应对 AI 诈骗者。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "An educational RPG that simulates real-world Hong Kong fraud scenarios: players face AI-driven scammers while guided by an AI expert.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "香港の実際の詐欺シナリオを再現した反詐欺教育RPG。AI専門家の助言を受けながらAI詐欺師に立ち向かう。",
+          "editorialStatus": "draft"
+        }
+      },
+      "externalLinks": [
+        {
+          "type": "source",
+          "url": "https://github.com/rex-lam/Anti-FraudX",
+          "label": "GitHub — rex-lam/Anti-FraudX"
+        }
+      ],
+      "contentAdvisory": {
+        "nsfw": false
+      }
+    },
+    "apocalyptic-purple": {
+      "schemaVersion": 1,
+      "slug": "apocalyptic-purple",
+      "originalTitle": "Apocalyptic Purple",
+      "taxonomy": {
+        "genres": [
+          "adventure"
+        ],
+        "themes": [
+          "comedy",
+          "fantasy"
+        ],
+        "contentType": "full-game"
+      },
+      "developers": [
+        {
+          "name": "Puteourien2",
+          "url": "https://github.com/Puteourien2"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/Puteourien2-puteourien2.github.io/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "puteourien2-puteourien2-github-io",
+          "title": "Apocalyptic Purple",
+          "languages": [
+            "fr"
+          ],
+          "nsfw": false
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/Puteourien2/puteourien2.github.io",
+          "https://puteourien2.github.io/Apocalyptic%20Purple.html"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 2,
+      "assessedAt": "2026-11-12",
+      "assessmentSources": [
+        "https://github.com/Puteourien2/puteourien2.github.io",
+        "https://puteourien2.github.io/Apocalyptic%20Purple.html"
+      ],
+      "assessmentNote": "Author page (French) documents the story: Famico, a young Furfur awakened by intruders, must serve as messenger for a high-placed one who died before her eyes; game data 64 maps / 769 events / 2898 dialogue lines; no reviews or external trace; rating blank; popularity 2.",
+      "translatedTitles": {
+        "zh-Hans": "末日紫",
+        "ja": "アポカリプティック・パープル"
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "恶魔入侵之际，被入侵者唤醒的年轻恶魔法米科，不得不为一位死在自己眼前的“高位者”充当信使，由此展开一场宏大冒险，结识好坏参半的新伙伴。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "During a demonic invasion, Famico, a young Furfur awakened by intruders, must act as a messenger for a high-placed one who died before her eyes — the start of a titanic adventure and new encounters, good and bad.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "悪魔の侵攻の中、侵入者に目覚めさせられた若いフルフル族のファミコは、目の前で死んだ高位者のために使者として働くことになる。壮大な冒険と善悪さまざまな出会いが始まる。",
+          "editorialStatus": "draft"
+        }
+      },
+      "externalLinks": [
+        {
+          "type": "source",
+          "url": "https://github.com/Puteourien2/puteourien2.github.io",
+          "label": "GitHub — Puteourien2/puteourien2.github.io"
+        },
+        {
+          "type": "official",
+          "url": "https://puteourien2.github.io/Apocalyptic%20Purple.html",
+          "label": "Author page — Apocalyptic Purple"
+        }
+      ],
+      "contentAdvisory": {
+        "nsfw": false
+      }
+    },
+    "arcadia": {
+      "schemaVersion": 1,
+      "slug": "arcadia",
+      "originalTitle": "Arcadia",
+      "taxonomy": {
+        "genres": [
+          "adventure"
+        ],
+        "themes": [
+          "slice-of-life"
+        ],
+        "contentType": "full-game"
+      },
+      "developers": [
+        {
+          "name": "Retro Muffins",
+          "url": "https://github.com/Retro-Muffins"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/Retro-Muffins-Arcadia/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "retro-muffins-arcadia",
+          "title": "Arcadia",
+          "languages": [
+            "en"
+          ],
+          "nsfw": false
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/Retro-Muffins/Arcadia"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 2,
+      "assessedAt": "2026-11-12",
+      "assessmentSources": [
+        "https://github.com/Retro-Muffins/Arcadia"
+      ],
+      "assessmentNote": "README: public repo of a CMPUT 250 (Fall 2022, University of Alberta) course project; no plot or gameplay description anywhere; game data 19 maps / 252 events / 1211 dialogue lines; no reviews; rating blank; popularity 2.",
+      "translatedTitles": {
+        "zh-Hans": "阿卡迪亚",
+        "ja": "アルカディア"
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "阿尔伯塔大学 CMPUT 250（2022 年秋）课程作品，Retro Muffins 团队制作的 RPG Maker MV 项目。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "A University of Alberta CMPUT 250 (Fall 2022) course project by Retro Muffins, made in RPG Maker MV.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "アルバータ大学 CMPUT 250（2022年秋）の課題作品。Retro Muffins による RPGツクールMV プロジェクト。",
+          "editorialStatus": "draft"
+        }
+      },
+      "externalLinks": [
+        {
+          "type": "source",
+          "url": "https://github.com/Retro-Muffins/Arcadia",
+          "label": "GitHub — Retro-Muffins/Arcadia"
+        }
+      ],
+      "contentAdvisory": {
+        "nsfw": false
+      }
+    },
+    "armitox": {
+      "schemaVersion": 1,
+      "slug": "armitox",
+      "originalTitle": "ARMITOX",
+      "taxonomy": {
+        "genres": [
+          "rpg"
+        ],
+        "themes": [
+          "fantasy"
+        ],
+        "contentType": "full-game"
+      },
+      "developers": [
+        {
+          "name": "Imtomzizle",
+          "url": "https://github.com/Imtomzizle"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/Imtomzizle-Write-399-RPG-Maker-Game/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "imtomzizle-write-399-rpg-maker-game",
+          "title": "ARMITOX",
+          "languages": [
+            "en"
+          ]
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/Imtomzizle/-Write-399-RPG-Maker-Game"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 2,
+      "assessedAt": "2026-11-12",
+      "assessmentSources": [
+        "https://github.com/Imtomzizle/-Write-399-RPG-Maker-Game"
+      ],
+      "assessmentNote": "Write 399 capstone RPG, working title 'Husband-Killer', one branching path about five minutes; game data 10 maps / 254 events / 4330 dialogue lines with multiple endings (poisoned / court / grave scenes); no reviews or external trace; rating blank; popularity 2. NSFW left unknown: murder theme but no evidence of explicit content.",
+      "translatedTitles": {
+        "zh-Hans": "阿米托克斯",
+        "ja": "アーミトックス"
+      },
+      "aliases": {
+        "en": [
+          "Husband-Killer"
+        ]
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "大学写作课 Write 399 的毕业设计 RPG，暂定标题《Husband-Killer》，单条分支约 5 分钟流程，多结局。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "A Write 399 capstone RPG (working title 'Husband-Killer'); a single branching path takes about five minutes, with multiple endings.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "大学のライティング科目 Write 399 の卒業制作RPG（仮題『Husband-Killer』）。1ルート約5分で、マルチエンディング。",
+          "editorialStatus": "draft"
+        }
+      },
+      "externalLinks": [
+        {
+          "type": "source",
+          "url": "https://github.com/Imtomzizle/-Write-399-RPG-Maker-Game",
+          "label": "GitHub — Imtomzizle/-Write-399-RPG-Maker-Game"
+        }
+      ],
+      "contentAdvisory": {
+        "nsfw": "unknown"
+      }
+    },
+    "as-aventuras-de-um-gerente-de-projetos": {
+      "schemaVersion": 1,
+      "slug": "as-aventuras-de-um-gerente-de-projetos",
+      "originalTitle": "As Aventuras de um Gerente de Projetos",
+      "taxonomy": {
+        "genres": [
+          "rpg"
+        ],
+        "themes": [
+          "educational"
+        ],
+        "contentType": "full-game"
+      },
+      "developers": [
+        {
+          "name": "raihlima",
+          "url": "https://github.com/raihlima"
+        }
+      ],
+      "media": {
+        "cover": null
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "raihlima-gerente-projetos-web-mz",
+          "title": "As Aventuras de um Gerente de Projetos",
+          "languages": [
+            "pt"
+          ],
+          "nsfw": false
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/raihlima/Gerente-Projetos-Web-MZ"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 2,
+      "assessedAt": "2026-11-12",
+      "assessmentSources": [
+        "https://github.com/raihlima/Gerente-Projetos-Web-MZ"
+      ],
+      "assessmentNote": "README: 'Odisseia de Jevain', a game about a project manager teaching software-engineering concepts; game data 72 maps / 1210 events / 7734 dialogue lines covering contracts, methodologies (Waterfall, Prototyping, Spiral, Scrum) and projects (gas station, snack bar, church); no reviews or external trace; rating blank; popularity 2.",
+      "translatedTitles": {
+        "zh-Hans": "一位项目经理的冒险",
+        "en": "The Adventures of a Project Manager",
+        "ja": "プロジェクトマネージャーの冒険"
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "教育 RPG：玩家扮演项目经理 Jevain，在管理加油站、小吃店与教堂等项目的过程中学习软件工程概念（又名《Odisseia de Jevain》）。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "An educational RPG: play as Jevain, a project manager, learning software-engineering concepts while managing projects such as a gas station, a snack bar and a church (also known as 'Odisseia de Jevain').",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "教育RPG。プロジェクトマネージャーのジェヴァインとなり、ガソリンスタンドや軽食店、教会などのプロジェクトを管理しながらソフトウェア工学の概念を学ぶ（『Odisseia de Jevain』としても知られる）。",
+          "editorialStatus": "draft"
+        }
+      },
+      "externalLinks": [
+        {
+          "type": "source",
+          "url": "https://github.com/raihlima/Gerente-Projetos-Web-MZ",
+          "label": "GitHub — raihlima/Gerente-Projetos-Web-MZ"
+        }
+      ],
+      "contentAdvisory": {
+        "nsfw": false
+      }
+    },
+    "aurora": {
+      "schemaVersion": 1,
+      "slug": "aurora",
+      "originalTitle": "Aurora",
+      "taxonomy": {
+        "genres": [
+          "rpg"
+        ],
+        "themes": [
+          "fantasy"
+        ],
+        "contentType": "full-game"
+      },
+      "developers": [
+        {
+          "name": "LeonardoRSS18",
+          "url": "https://github.com/LeonardoRSS18"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/LeonardoRSS18-TesteAurora/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "leonardorss18-testeaurora",
+          "title": "Aurora",
+          "languages": [
+            "pt"
+          ],
+          "nsfw": false
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/LeonardoRSS18/TesteAurora"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 2,
+      "assessedAt": "2026-11-12",
+      "assessmentSources": [
+        "https://github.com/LeonardoRSS18/TesteAurora"
+      ],
+      "assessmentNote": "No README or external trace; game data shows 12 maps / 739 events / 894 dialogue lines with real quest dialogue (shepherd's flock, dock box-counting, stone positioning), confirming a substantive game despite the 'TesteAurora' repo name; rating blank; popularity 2.",
+      "translatedTitles": {
+        "zh-Hans": "奥罗拉",
+        "ja": "アウローラ"
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "葡萄牙语 RPG：村庄里的牧羊人、码头工人与村民向玩家发布任务，涉及数数、搬运与摆放石块等解谜。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "A Portuguese RPG set in a village: shepherds, dockworkers and villagers give the player quests involving counting, carrying and positioning stones.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "ポルトガル語のRPG。村の羊飼いや港の労働者、村人たちから依頼を受け、数えたり運んだり石を配置したりするクエストに挑む。",
+          "editorialStatus": "draft"
+        }
+      },
+      "externalLinks": [
+        {
+          "type": "source",
+          "url": "https://github.com/LeonardoRSS18/TesteAurora",
+          "label": "GitHub — LeonardoRSS18/TesteAurora"
+        }
+      ],
+      "contentAdvisory": {
+        "nsfw": false
+      }
     }
   }
 }
