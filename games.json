@@ -3651,6 +3651,803 @@
       "contentAdvisory": {
         "nsfw": false
       }
+    },
+    "cascadia-earthquake": {
+      "schemaVersion": 1,
+      "slug": "cascadia-earthquake",
+      "originalTitle": "Cascadia Earthquake",
+      "taxonomy": {
+        "genres": [
+          "adventure"
+        ],
+        "themes": [
+          "educational"
+        ],
+        "contentType": "prototype"
+      },
+      "developers": [
+        {
+          "name": "Lewis & Clark College",
+          "url": "https://www.cascadia9game.org/"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/PeterDrake-cascadia-pilot-game/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "peterdrake-cascadia-pilot-game",
+          "title": "Cascadia Earthquake",
+          "languages": [
+            "en"
+          ],
+          "nsfw": false
+        },
+        {
+          "type": "internal",
+          "id": "selena-flores-game",
+          "title": "Cascadia Earthquake",
+          "languages": [
+            "en"
+          ],
+          "nsfw": false
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/PeterDrake/cascadia-pilot-game",
+          "https://github.com/selena-flores/game",
+          "https://www.cascadia9game.org/research-and-game-design"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 2,
+      "assessedAt": "2026-11-12",
+      "assessmentSources": [
+        "https://github.com/PeterDrake/cascadia-pilot-game",
+        "https://github.com/selena-flores/game",
+        "https://www.cascadia9game.org/research-and-game-design"
+      ],
+      "assessmentNote": "Both forks are the same 2018 RPG Maker pilot (identical README text and identical game data: 18 maps / 332 events / 208 dialogue lines; Peter Drake is the L&C professor who led game development, Selena Flores is on the project team page); the media coverage (BusinessWire 2022, Portland Monthly 2024, 5,500+ users) is about the later Unity game Cascadia 9.0, not this pilot, so it does not count toward the pilot's popularity; both repos 0 stars, no reviews or store pages for the pilot itself; rating blank; popularity 2.",
+      "translatedTitles": {
+        "zh-Hans": "卡斯卡迪亚地震",
+        "ja": "カスカディア地震"
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "刘易斯与克拉克学院 2018 年地震防灾教育试点游戏：震后在公寓与街区间购买物资、寻找饮用水、关闭燃气阀并救助伤员，实验表明它提高了玩家的防灾自信。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "A 2018 earthquake-preparedness pilot game from Lewis & Clark College: after the quake, buy supplies, find drinking water, shut off a gas valve and rescue an injured neighbour across the apartment building and streets; a formal experiment found it raised players' disaster self-efficacy.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "ルイス＆クラーク大学による2018年の地震防災教育パイロットゲーム。地震発生後、アパートや通りで物資を買い、飲み水を探し、ガス栓を閉め、負傷した隣人を救助する。実験によりプレイヤーの防災自己効力感が高まることが示された。",
+          "editorialStatus": "draft"
+        }
+      },
+      "externalLinks": [
+        {
+          "type": "source",
+          "url": "https://github.com/PeterDrake/cascadia-pilot-game",
+          "label": "GitHub — PeterDrake/cascadia-pilot-game"
+        },
+        {
+          "type": "source",
+          "url": "https://github.com/selena-flores/game",
+          "label": "GitHub — selena-flores/game"
+        },
+        {
+          "type": "official",
+          "url": "https://www.cascadia9game.org/research-and-game-design",
+          "label": "Cascadia 9 project — research and game design"
+        }
+      ],
+      "contentAdvisory": {
+        "nsfw": false
+      }
+    },
+    "castillo-de-la-persona": {
+      "schemaVersion": 1,
+      "slug": "castillo-de-la-persona",
+      "originalTitle": "castillo de la persona",
+      "taxonomy": {
+        "genres": [
+          "adventure",
+          "puzzle"
+        ],
+        "themes": [
+          "mystery"
+        ],
+        "contentType": "full-game"
+      },
+      "developers": [
+        {
+          "name": "cosmiccatacorn",
+          "url": "https://github.com/cosmiccatacorn"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/cosmiccatacorn-ahjkjh/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "cosmiccatacorn-ahjkjh",
+          "title": "castillo de la persona",
+          "languages": [
+            "es"
+          ],
+          "nsfw": false
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/cosmiccatacorn/ahjkjh"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 2,
+      "assessedAt": "2026-11-12",
+      "assessmentSources": [
+        "https://github.com/cosmiccatacorn/ahjkjh"
+      ],
+      "assessmentNote": "README is a single '# ahjkjh' line; game data 9 maps / 55 events / 322 Spanish dialogue lines, switches ident_solved / asest_solved / lib_solved / personalidad-ok show room puzzles on identity, self-esteem and freedom; no reviews, store pages, media or downloads; GitHub 0 stars; rating blank; popularity 2.",
+      "translatedTitles": {
+        "zh-Hans": "人之城堡",
+        "en": "Castle of the Person",
+        "ja": "人の城"
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "西班牙语解谜冒险：在以“人格”为主题的城堡中穿行身份、自由、自尊、关系与友谊等房间解谜。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "A Spanish puzzle-adventure set in a castle themed on the persona: wander rooms of identity, freedom, self-esteem, relationships and friendship, solving each room's puzzle.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "スペイン語のパズルアドベンチャー。「人格」をテーマにした城を舞台に、アイデンティティ、自由、自尊心、人間関係、友情などの部屋を巡りながら謎を解く。",
+          "editorialStatus": "draft"
+        }
+      },
+      "externalLinks": [
+        {
+          "type": "source",
+          "url": "https://github.com/cosmiccatacorn/ahjkjh",
+          "label": "GitHub — cosmiccatacorn/ahjkjh"
+        }
+      ],
+      "contentAdvisory": {
+        "nsfw": false
+      }
+    },
+    "catachresis": {
+      "schemaVersion": 1,
+      "slug": "catachresis",
+      "originalTitle": "Catachresis",
+      "taxonomy": {
+        "genres": [
+          "rpg"
+        ],
+        "themes": [
+          "sci-fi",
+          "comedy"
+        ],
+        "contentType": "full-game"
+      },
+      "developers": [
+        {
+          "name": "Gelato Labs",
+          "url": "https://github.com/gelatolabs"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/gelatolabs-catachresis/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "gelatolabs-catachresis",
+          "title": "Catachresis",
+          "languages": [
+            "en"
+          ],
+          "nsfw": false
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/gelatolabs/catachresis",
+          "https://gelatolabs.itch.io/catachresis"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 2,
+      "assessedAt": "2026-11-12",
+      "assessmentSources": [
+        "https://github.com/gelatolabs/catachresis",
+        "https://gelatolabs.itch.io/catachresis"
+      ],
+      "assessmentNote": "README: 'Cyberpunk RPG about cats created for the Ludum Dare 72-hour game jam'; game data 23 maps / 213 events / 526 dialogue lines; itch.io page gives a 5.0 rating from only 4 ratings — too thin for a quality score, so rating stays blank; no Steam page, reviews or media; GitHub 0 stars; popularity 2.",
+      "translatedTitles": {
+        "zh-Hans": "卡塔克瑞西斯",
+        "ja": "カタクリーシス"
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "Ludum Dare 45 参赛作品：赛博朋克猫题材 RPG，大公司用生化改造猫统治世界，女主角 Rita 挺身而出，对抗邪恶组织 PITA。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "A Ludum Dare 45 cyberpunk RPG about cats: big corporations are taking over the world with cybernetically enhanced cats, and Rita stands up for the little guys against the nefarious organization PITA.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "Ludum Dare 45参加作品のサイバーパンク猫RPG。サイボーグ化された猫で世界征服を企む大企業に、主人公リタが立ち向かい、邪悪な組織PITAに挑む。",
+          "editorialStatus": "draft"
+        }
+      },
+      "externalLinks": [
+        {
+          "type": "source",
+          "url": "https://github.com/gelatolabs/catachresis",
+          "label": "GitHub — gelatolabs/catachresis"
+        },
+        {
+          "type": "store",
+          "url": "https://gelatolabs.itch.io/catachresis",
+          "label": "itch.io — Catachresis"
+        }
+      ],
+      "contentAdvisory": {
+        "nsfw": false
+      }
+    },
+    "chaos-tickle": {
+      "schemaVersion": 1,
+      "slug": "chaos-tickle",
+      "originalTitle": "Chaos Tickle",
+      "taxonomy": {
+        "genres": [
+          "rpg"
+        ],
+        "themes": [
+          "fantasy"
+        ],
+        "contentType": "full-game"
+      },
+      "developers": [
+        {
+          "name": "shirorimi",
+          "url": "https://github.com/shirorimi"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/shirorimi-chaos/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "shirorimi-chaos",
+          "title": "Chaos Tickle",
+          "languages": [
+            "ja"
+          ],
+          "nsfw": true
+        },
+        {
+          "type": "internal",
+          "id": "shirorimi-chaosver10",
+          "title": "Chaos Tickle",
+          "languages": [
+            "ja"
+          ],
+          "nsfw": true
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/shirorimi/chaos",
+          "https://github.com/shirorimi/chaosver10"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 2,
+      "assessedAt": "2026-11-12",
+      "assessmentSources": [
+        "https://github.com/shirorimi/chaos",
+        "https://github.com/shirorimi/chaosver10"
+      ],
+      "assessmentNote": "Both repos are the same game (identical gameTitle 'Chaos Tickle', identical 4 actors with matching profiles; ver10 extends 72 to 115 maps and adds final-chapter / light-end / dark-end switches); game data up to 115 maps / 1128 events / 13437 dialogue lines, multi-chapter story with a recollection gallery; NSFW true from in-repo data: switches 敗北Ｈ / 夜伽 / 壁尻鉄格子 / くすぐりダンジョンラスト, maps マッサージ店 / 夜伽する, actor profiles 'くすぐりに弱い', THP (Tickle HP) system; no Steam/itch/DLsite/wiki/reviews found; GitHub stars 1 and 0; rating blank; popularity 2.",
+      "translatedTitles": {
+        "zh-Hans": "混沌挠痒",
+        "ja": "カオス・ティックル"
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "日式 RPG Maker 角色扮演游戏：主角リミア与同伴セノーテ、テル、もみじ在城镇、森林、洞窟与城堡间冒险，包含挠痒主题与战败 H 场景；ver10 为内容更多的后期版本，已做到多结局。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "A Japanese RPG Maker MV RPG: Rimia and her companions Senote, Teru and Momiji adventure through towns, forests, caves and castles, with tickling-themed scenes and defeat H-scenes; the ver10 upload is a later expanded version with more maps and multiple endings.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "ツクールMV製の日式RPG。リミアと仲間のセノーテ、テル、もみじが街・森・洞窟・城を巡る冒険で、くすぐりを題材にしたシーンや敗北Hシーンを含む。ver10は内容を拡充した後期バージョンで、マルチエンディングまで到達する。",
+          "editorialStatus": "draft"
+        }
+      },
+      "externalLinks": [
+        {
+          "type": "source",
+          "url": "https://github.com/shirorimi/chaos",
+          "label": "GitHub — shirorimi/chaos"
+        },
+        {
+          "type": "source",
+          "url": "https://github.com/shirorimi/chaosver10",
+          "label": "GitHub — shirorimi/chaosver10"
+        }
+      ],
+      "contentAdvisory": {
+        "nsfw": true
+      }
+    },
+    "chikitsa-saga": {
+      "schemaVersion": 1,
+      "slug": "chikitsa-saga",
+      "originalTitle": "Chikitsa Saga",
+      "taxonomy": {
+        "genres": [
+          "rpg"
+        ],
+        "themes": [
+          "fantasy"
+        ],
+        "contentType": "full-game"
+      },
+      "developers": [
+        {
+          "name": "Saiguru Nagula",
+          "url": "https://github.com/SaiguruNagula"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/SaiguruNagula-ik2/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "saigurunagula-ik2",
+          "title": "Chikitsa Saga",
+          "languages": [
+            "en"
+          ],
+          "nsfw": false
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/SaiguruNagula/ik2"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 2,
+      "assessedAt": "2026-11-12",
+      "assessmentSources": [
+        "https://github.com/SaiguruNagula/ik2"
+      ],
+      "assessmentNote": "No README or external trace (0 stars, 1 commit); game data 14 maps / 199 events / 240 dialogue lines, quest chain fully traceable from map and switch names (Bala Obtained / Ashwa Obtained / found last herb / cure ready / final scene); 'Chikitsa' is Sanskrit for treatment in Ayurveda and Vaidya means Ayurvedic physician, matching the herb-cure plot, though no author statement confirms the intent; rating blank; popularity 2.",
+      "translatedTitles": {
+        "ja": "チキツァ・サーガ"
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "英文奇幻 RPG：玩家在村庄接受委托，深入森林收集 Bala、Ashwagandha 等草药，制成解药治愈村庄；标题 Chikitsa 为梵语“治疗”之意。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "An English fantasy RPG: take a quest in the village, gather medicinal herbs — Bala, Ashwagandha and a final herb — in the forest, and brew a cure for the village; 'Chikitsa' is Sanskrit for treatment.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "英語のファンタジーRPG。村で依頼を受け、森でバラやアシュワガンダなどの薬草を集めて薬を作り、村を救う。タイトルの「チキツァ」はサンスクリット語で「治療」を意味する。",
+          "editorialStatus": "draft"
+        }
+      },
+      "externalLinks": [
+        {
+          "type": "source",
+          "url": "https://github.com/SaiguruNagula/ik2",
+          "label": "GitHub — SaiguruNagula/ik2"
+        }
+      ],
+      "contentAdvisory": {
+        "nsfw": false
+      }
+    },
+    "chronicles-of-arithmos": {
+      "schemaVersion": 1,
+      "slug": "chronicles-of-arithmos",
+      "originalTitle": "Chronicles of Arithmos",
+      "taxonomy": {
+        "genres": [
+          "rpg"
+        ],
+        "themes": [
+          "educational"
+        ],
+        "contentType": "full-game"
+      },
+      "developers": [
+        {
+          "name": "John Angel Guevarra",
+          "url": "https://github.com/koohdev"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/koohdev-chronicles_of_arithmos/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "koohdev-chronicles-of-arithmos",
+          "title": "Chronicles of Arithmos",
+          "languages": [
+            "en"
+          ],
+          "nsfw": false
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/koohdev/chronicles_of_arithmos"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 2,
+      "assessedAt": "2026-11-12",
+      "assessmentSources": [
+        "https://github.com/koohdev/chronicles_of_arithmos"
+      ],
+      "assessmentNote": "Landing page and manifest.json: 'Educational 2D Math RPG Game for Primary Students' — solve math problems to cast spells, adaptive difficulty, multiplayer room codes; game data 145 maps / 2784 events / 6665 dialogue lines with region unlocks (Forest, Goblin Camp, Ancient Pyramid, Tundra Town, Volcano Outpost) and Demon Lord / Numeromancer defeated switches (one map file, Map113, failed to fetch once and was not needed for the verdict); no Steam/itch/reviews/media; GitHub 0 stars; rating blank; popularity 2.",
+      "translatedTitles": {
+        "zh-Hans": "算术编年史",
+        "ja": "クロニクルズ・オブ・アリトモス"
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "面向小学生的 2D 数学教育 RPG：解出数学题即可施法、防御或攻击怪物，难度自适应，还能与同学联机解题。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "An educational 2D math RPG for primary students: solving math problems casts spells, shields or attacks, with adaptive difficulty and multiplayer room codes for classmates.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "小学生向けの教育系2D数学RPG。計算問題を解くと魔法や攻撃が発動し、難易度が自動調整され、クラスメイトと協力プレイもできる。",
+          "editorialStatus": "draft"
+        }
+      },
+      "externalLinks": [
+        {
+          "type": "source",
+          "url": "https://github.com/koohdev/chronicles_of_arithmos",
+          "label": "GitHub — koohdev/chronicles_of_arithmos"
+        }
+      ],
+      "contentAdvisory": {
+        "nsfw": false
+      }
+    },
+    "chronicles-of-the-sacred-kouign-amann": {
+      "schemaVersion": 1,
+      "slug": "chronicles-of-the-sacred-kouign-amann",
+      "originalTitle": "Chronicles of the Sacred KwiɲaˈMɑ̃n",
+      "taxonomy": {
+        "genres": [
+          "rpg"
+        ],
+        "themes": [
+          "comedy",
+          "fantasy"
+        ],
+        "contentType": "demo"
+      },
+      "developers": [
+        {
+          "name": "Gilloo-Lab",
+          "url": "https://github.com/Gilloo-Lab"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/Gilloo-Lab-RPG_Beta01/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "gilloo-lab-rpg-beta01",
+          "title": "Chronicles of the Sacred KwiɲaˈMɑ̃n",
+          "languages": [
+            "en",
+            "fr"
+          ],
+          "nsfw": false
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/Gilloo-Lab/RPG_Beta01"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 2,
+      "assessedAt": "2026-11-12",
+      "assessmentSources": [
+        "https://github.com/Gilloo-Lab/RPG_Beta01"
+      ],
+      "assessmentNote": "No README or external trace (0 stars); game data 3 maps / 53 events / 113 French dialogue lines — a small but real Episode I beta (cliff + cave + credits) with a complete French opening monologue (tyrant Custard VI, the MDRCB stealing the kouign-amann recipe, four adventurers promised knighthood); KwiɲaˈMɑ̃n is a phonetic spelling of kouign-amann; rating blank; popularity 2.",
+      "translatedTitles": {
+        "zh-Hans": "圣库因阿曼编年史",
+        "ja": "聖なるクイニアマンのクロニクル"
+      },
+      "aliases": {
+        "en": [
+          "Chronicles of the Sacred Kouign-Amann"
+        ]
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "法式喜剧 RPG（第 1 集 Beta）：Crèmelune 王国，暴君治下，kouign-amann（布列塔尼黄油蛋糕）原始食谱被盗，四位冒险者奉命找回圣羊皮纸。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "A French comedy RPG (Episode I beta): in the kingdom of Crèmelune, under a tyrant king, the original kouign-amann recipe has been stolen, and four young adventurers are ordered to retrieve the sacred parchment.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "フランス風コメディRPG（エピソードIベータ版）。クレームリューヌ王国で、暴君の治世下、クイニアマン（ブルターニュのバターケーキ）の原レシピが盗まれ、4人の若き冒険者が聖なる羊皮紙の奪還を命じられる。",
+          "editorialStatus": "draft"
+        }
+      },
+      "externalLinks": [
+        {
+          "type": "source",
+          "url": "https://github.com/Gilloo-Lab/RPG_Beta01",
+          "label": "GitHub — Gilloo-Lab/RPG_Beta01"
+        }
+      ],
+      "contentAdvisory": {
+        "nsfw": false
+      }
+    },
+    "tsugunohi": {
+      "schemaVersion": 1,
+      "slug": "tsugunohi",
+      "originalTitle": "つぐのひ",
+      "taxonomy": {
+        "genres": [
+          "adventure"
+        ],
+        "themes": [
+          "horror"
+        ],
+        "contentType": "full-game"
+      },
+      "developers": [
+        {
+          "name": "ImCyan"
+        }
+      ],
+      "media": {
+        "cover": null
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "sasakimika487-chuyentausninhtu",
+          "title": "CHUYẾN TÀU SINH TỬ",
+          "languages": [
+            "vi",
+            "ja"
+          ],
+          "nsfw": false
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/sasakimika487/chuyentausninhtu",
+          "https://www.taptap.cn/app/764608",
+          "https://www.gameloop.com/vn/game/steam-game/tsugunohi-on-pc"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 6,
+      "assessedAt": "2026-11-12",
+      "assessmentSources": [
+        "https://github.com/sasakimika487/chuyentausninhtu",
+        "https://www.taptap.cn/app/764608",
+        "https://www.gameloop.com/vn/game/steam-game/tsugunohi-on-pc"
+      ],
+      "assessmentNote": "This fork is a Vietnamese-titled re-upload of ImCyan's Tsugunohi train episode (the 2012 free version: 5 days + ending, picture-driven, only 6 text dialogue lines by design); all switches/variables/debug text remain in Japanese; title-screen picture title_terop_1.png carries a Vietnamese warning ('LƯU Ý — ĐÂY LÀ GAME KINH DỊ CÂN NHẮC TRƯỚC KHI CHƠI') while scene pictures are the Japanese originals, so languages are corrected from the old meta's [vi] to [vi, ja]; popularity scores the GAME, not this fork: the original has a Steam collection (9 stories, free), TapTap 6.0/10 (only 3 ratings), GameLoop 4.2 (8864 ratings) and 150M+ related video views, so popularity 6; this fork itself has 1 star and no external discussion; rating stays blank (no serious review evidence).",
+      "translatedTitles": {
+        "zh-Hans": "翌日",
+        "en": "Tsugunohi"
+      },
+      "aliases": {
+        "vi": [
+          "CHUYẾN TÀU SINH TỬ",
+          "chuyentausinhtu"
+        ]
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "ImCyan 的极简日式恐怖短篇（电车篇）：少女连续五天乘电车通勤，车厢里的乘客与景象一天比一天诡异；本条目为越南语标题的转贴版本，标题画面含越南语警告，场景图为日文原作素材。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "ImCyan's minimalist Japanese horror short (the train episode): a girl commutes by train for five days as the passengers and scenery grow stranger each day; this entry is a Vietnamese-titled re-upload — its title screen carries a Vietnamese warning while the scene pictures are the Japanese originals.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "ImCyanによる極簡日式ホラー短編（電車編）。少女が5日間電車で通勤するなか、車内の乗客や風景が日を追うごとに異様になっていく。本エントリはベトナム語タイトルの転載版で、タイトル画面にはベトナム語の警告があり、シーン画像は日本語の原作素材である。",
+          "editorialStatus": "draft"
+        }
+      },
+      "externalLinks": [
+        {
+          "type": "source",
+          "url": "https://github.com/sasakimika487/chuyentausninhtu",
+          "label": "GitHub — sasakimika487/chuyentausninhtu"
+        },
+        {
+          "type": "store",
+          "url": "https://www.taptap.cn/app/764608",
+          "label": "TapTap — Tsugunohi / 翌日"
+        }
+      ],
+      "contentAdvisory": {
+        "nsfw": false
+      }
+    },
+    "skazka": {
+      "schemaVersion": 1,
+      "slug": "skazka",
+      "originalTitle": "СКАЗКА",
+      "taxonomy": {
+        "genres": [
+          "rpg"
+        ],
+        "themes": [
+          "comedy",
+          "horror"
+        ],
+        "contentType": "demo"
+      },
+      "developers": [
+        {
+          "name": "Kuzhen Larn",
+          "url": "https://github.com/KuzhenLarn"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/KuzhenLarn-KuzhenProject/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "kuzhenlarn-kuzhenproject",
+          "title": "CKA3KA",
+          "languages": [
+            "ru"
+          ],
+          "nsfw": false
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/KuzhenLarn/KuzhenProject"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 2,
+      "assessedAt": "2026-11-12",
+      "assessmentSources": [
+        "https://github.com/KuzhenLarn/KuzhenProject"
+      ],
+      "assessmentNote": "No README or external trace (0 stars); game data 51 maps / 433 events / 264 dialogue lines with quest switches (Quest1/QUEST1COMPLETE/QUEST2) and a DEMO switch, so contentType demo; СКАЗКА is Russian for 'fairy tale', CKA3KA is its look-alike Latin spelling; NOT the unrelated Steam game SKAZKA (KuKo / Mustella Games, App 1815400); Map041 'Комната траха' holds only 14 identical 'Вы получили 50 говна' (you got 50 shit) events — a crude joke currency farm, no sexual content, so nsfw stays false; rating blank; popularity 2.",
+      "translatedTitles": {
+        "zh-Hans": "童话",
+        "en": "Skazka",
+        "ja": "スカズカ"
+      },
+      "aliases": {
+        "en": [
+          "CKA3KA"
+        ]
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "俄语 RPG Maker 喜剧/恐怖 RPG（demo）：中学生 Рома 从家出发，穿过森林与学校、马桶世界与噩梦，走向城堡；含任务系统与多名同伴。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "A Russian RPG Maker comedy/horror RPG (demo): Roma, a schoolboy, travels from home through the forest and school, the toilet world and nightmares, toward the castle, with a quest system and several companions.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "ロシア語のツクール製コメディ／ホラーRPG（デモ版）。中学生ローマが家を出発し、森や学校、トイレの世界や悪夢を越えて城を目指す。クエストシステムと複数の仲間がいる。",
+          "editorialStatus": "draft"
+        }
+      },
+      "externalLinks": [
+        {
+          "type": "source",
+          "url": "https://github.com/KuzhenLarn/KuzhenProject",
+          "label": "GitHub — KuzhenLarn/KuzhenProject"
+        }
+      ],
+      "contentAdvisory": {
+        "nsfw": false
+      }
     }
   }
 }

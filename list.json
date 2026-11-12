@@ -8578,19 +8578,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/PeterDrake-cascadia-pilot-game/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "adventure",
-        "educational"
-      ],
-      "languages": [
-        "en"
-      ],
-      "nsfw": false,
+      "gameSlug": "cascadia-earthquake",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
       "reviewedAt": "2026-11-07",
-      "title": "Cascadia Earthquake"
+      "nsfw": false,
+      "reviewedSourceHeadSha": "ac293f3650dec8f6ff07a2d326ff891a7ba3aeb3"
     }
   },
   {
@@ -8620,19 +8612,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/selena-flores-game/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "adventure",
-        "educational"
-      ],
-      "languages": [
-        "en"
-      ],
-      "nsfw": false,
+      "gameSlug": "cascadia-earthquake",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
       "reviewedAt": "2026-11-07",
-      "title": "Cascadia Earthquake"
+      "nsfw": false,
+      "reviewedSourceHeadSha": "65f8e5fc8b5bd76b4be1e6ab36d6f46f9ea60b53"
     }
   },
   {
@@ -8662,18 +8646,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/cosmiccatacorn-ahjkjh/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "adventure",
-        "mystery"
-      ],
-      "languages": [
-        "es"
-      ],
-      "nsfw": false,
+      "gameSlug": "castillo-de-la-persona",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "reviewedAt": "2026-11-07",
+      "nsfw": false,
+      "reviewedSourceHeadSha": "ddf9bd600226401bb2dd0e6dfb8dbb9ad4a2085a"
     }
   },
   {
@@ -8703,18 +8680,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/gelatolabs-catachresis/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg",
-        "sci-fi"
-      ],
-      "languages": [
-        "en"
-      ],
-      "nsfw": false,
+      "gameSlug": "catachresis",
       "playable": true,
-      "popularity": 3,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "reviewedAt": "2026-11-07",
+      "nsfw": false,
+      "reviewedSourceHeadSha": "68c874ec2379481721c7740cd75c4f9f79de3216"
     }
   },
   {
@@ -8744,17 +8714,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/shirorimi-chaos/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg"
-      ],
-      "languages": [
-        "ja"
-      ],
-      "nsfw": true,
+      "gameSlug": "chaos-tickle",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "reviewedAt": "2026-11-07",
+      "nsfw": true,
+      "reviewedSourceHeadSha": "0510f2619b59f883f63092c8a6020adab918e434"
     }
   },
   {
@@ -8784,17 +8748,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/shirorimi-chaosver10/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg"
-      ],
-      "languages": [
-        "ja"
-      ],
-      "nsfw": true,
+      "gameSlug": "chaos-tickle",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "reviewedAt": "2026-11-07",
+      "nsfw": true,
+      "reviewedSourceHeadSha": "0103a61098157c80472ed07efc3a48e6dc13eb27"
     }
   },
   {
@@ -8884,18 +8842,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/SaiguruNagula-ik2/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg",
-        "fantasy"
-      ],
-      "languages": [
-        "en"
-      ],
-      "nsfw": false,
+      "gameSlug": "chikitsa-saga",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "reviewedAt": "2026-11-07",
+      "nsfw": false,
+      "reviewedSourceHeadSha": "685fa2ae0f34a40a29e5fa0e60a8b27b335ba114"
     }
   },
   {
@@ -8940,19 +8891,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/koohdev-chronicles_of_arithmos/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg",
-        "educational",
-        "fantasy"
-      ],
-      "languages": [
-        "en"
-      ],
-      "nsfw": false,
+      "gameSlug": "chronicles-of-arithmos",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "reviewedAt": "2026-11-07",
+      "nsfw": false,
+      "reviewedSourceHeadSha": "9865d6ded435abee63b07f2cf6e84c6f75ef04d7"
     }
   },
   {
@@ -8999,20 +8942,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/Gilloo-Lab-RPG_Beta01/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg",
-        "fantasy",
-        "comedy"
-      ],
-      "languages": [
-        "en",
-        "fr"
-      ],
-      "nsfw": false,
+      "gameSlug": "chronicles-of-the-sacred-kouign-amann",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "reviewedAt": "2026-11-07",
+      "nsfw": false,
+      "reviewedSourceHeadSha": "c48dc308a47afbb131d54552b185e628873396ed"
     }
   },
   {
@@ -9040,24 +8974,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/sasakimika487-chuyentausninhtu/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "aliases": [
-        "chuyentausinhtu",
-        "生死列车"
-      ],
-      "genres": [
-        "adventure",
-        "horror"
-      ],
-      "languages": [
-        "vi"
-      ],
-      "nsfw": false,
-      "originalTitle": "Tsugunohi",
+      "gameSlug": "tsugunohi",
       "playable": true,
-      "popularity": 3,
-      "rating": 5,
       "reviewedAt": "2026-11-07",
-      "title": "CHUYẾN TÀU SINH TỬ"
+      "nsfw": false,
+      "reviewedSourceHeadSha": "7460be54d14e3562563de81605c5869fcfb25b29"
     }
   },
   {
@@ -9087,17 +9008,9 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/p-guilherme-cidadesustentavel/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg"
-      ],
-      "languages": [
-        "pt"
-      ],
-      "nsfw": false,
-      "playable": true,
-      "popularity": 2,
-      "rating": 4,
-      "reviewedAt": "2026-11-07"
+      "playable": false,
+      "reviewedAt": "2026-11-07",
+      "nsfw": false
     }
   },
   {
@@ -9125,21 +9038,11 @@
     "sourceHeadSha": "3f52bd4a4313937e001bb7ef2d2453b2fdad81c5",
     "processedHeadSha": "e931ff0cfa4269a0ae3926ab31547580afa6fd73",
     "meta": {
-      "aliases": [
-        "CKA3KA"
-      ],
-      "genres": [
-        "rpg"
-      ],
-      "languages": [
-        "ru"
-      ],
-      "nsfw": false,
+      "gameSlug": "skazka",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
       "reviewedAt": "2026-11-07",
-      "title": "СКАЗКА"
+      "nsfw": false,
+      "reviewedSourceHeadSha": "3f52bd4a4313937e001bb7ef2d2453b2fdad81c5"
     },
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/KuzhenLarn-KuzhenProject/ served an RPG Maker entry point and its startup resources"
