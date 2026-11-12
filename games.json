@@ -11541,6 +11541,716 @@
       "contentAdvisory": {
         "nsfw": false
       }
+    },
+    "xing-tu-lu-ren-exgroup": {
+      "schemaVersion": 1,
+      "slug": "xing-tu-lu-ren-exgroup",
+      "originalTitle": "星途旅人",
+      "taxonomy": {
+        "genres": [
+          "rpg"
+        ],
+        "themes": [
+          "educational",
+          "sci-fi"
+        ],
+        "contentType": "full-game",
+        "mechanics": [
+          "banking",
+          "investing",
+          "dice"
+        ]
+      },
+      "developers": [
+        {
+          "name": "gary31136",
+          "url": "https://github.com/gary31136"
+        },
+        {
+          "name": "huangxinyi2626-byte",
+          "url": "https://github.com/huangxinyi2626-byte"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/gary31136-github_rpg_exGroup_v1/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "gary31136-github-rpg-exgroup-v1",
+          "title": "星途旅人",
+          "languages": [
+            "zh-Hant"
+          ],
+          "nsfw": false
+        },
+        {
+          "type": "internal",
+          "id": "huangxinyi2626-byte-github-teaching-experiment",
+          "title": "星途旅人",
+          "languages": [
+            "zh-Hant"
+          ],
+          "nsfw": false
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/gary31136/github_rpg_exGroup_v1",
+          "https://webrpg.org/gary31136-github_rpg_exGroup_v1/",
+          "https://github.com/huangxinyi2626-byte/github_teaching_experiment",
+          "https://webrpg.org/huangxinyi2626-byte-github_teaching_experiment/"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 1,
+      "assessedAt": "2026-11-13",
+      "assessmentSources": [
+        "https://github.com/gary31136/github_rpg_exGroup_v1",
+        "https://webrpg.org/gary31136-github_rpg_exGroup_v1/",
+        "https://github.com/huangxinyi2626-byte/github_teaching_experiment",
+        "https://webrpg.org/huangxinyi2626-byte-github_teaching_experiment/"
+      ],
+      "assessmentNote": "GitHub repos + webrpg mirrors only (0 stars each; web search for '星途旅人' finds only the unrelated commercial game '星塔旅人' / Stella Sora); two builds of the same game (identical map names/switches, same opening line, versionId 73225341 vs 19627940, 1049 vs 1031 dialogue lines); different game from the control-group version xing-tu-lu-ren (17 maps, no '实验组' map suffixes, 1320 lines); the old subtitle '星幣與選擇的冒險' has no hit in game data and was not carried over; rating blank; popularity 1.",
+      "translatedTitles": {
+        "zh-Hans": "星途旅人",
+        "en": "Star Traveler",
+        "ja": "シントゥリューレン"
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "繁体中文理财教育 RPG（实验组版）：扮演星途旅人，在星币学院城学储蓄、买证券、掷骰子与采矿，16 张地图、约 1040 行对白；与对照组版地图与流程不同，为不同游戏。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "A Traditional Chinese financial-literacy RPG (experimental-group version): play a Star Traveler learning to save, buy securities, roll dice and mine in Star Coin Academy City — 16 maps, about 1,040 lines of dialogue; a different game from the control-group version, with different maps and flow.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "繁体字の金融教育RPG（実験群版）。星の旅人となり、星幣学院の町で貯蓄、証券購入、サイコロ、採掘を学ぶ。16マップ・約1040行の台詞。対照群版とはマップと流れが異なる別ゲーム。",
+          "editorialStatus": "draft"
+        }
+      },
+      "contentAdvisory": {
+        "nsfw": false
+      }
+    },
+    "gition-yu-ke-ai-de-mu-gui-zi": {
+      "schemaVersion": 1,
+      "slug": "gition-yu-ke-ai-de-mu-gui-zi",
+      "originalTitle": "gition与可爱的木柜子",
+      "taxonomy": {
+        "genres": [
+          "rpg"
+        ],
+        "themes": [
+          "slice-of-life"
+        ],
+        "contentType": "full-game"
+      },
+      "developers": [
+        {
+          "name": "rem5462",
+          "url": "https://github.com/rem5462"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/rem5462-gition/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "rem5462-gition",
+          "title": "gition与可爱的木柜子",
+          "languages": [
+            "zh-Hans"
+          ],
+          "nsfw": false
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/rem5462/gition",
+          "https://webrpg.org/rem5462-gition/"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 1,
+      "assessedAt": "2026-11-13",
+      "assessmentSources": [
+        "https://github.com/rem5462/gition",
+        "https://webrpg.org/rem5462-gition/"
+      ],
+      "assessmentNote": "GitHub repo + webrpg mirror only (0 stars; web search for the full Chinese title and 'gition' finds no Steam/itch/BBS traces); game data 27 maps / 191 events / 333 dialogue lines (Simplified Chinese) about Gition, nina, Aine and Ritsuki; en/ja titles are literal translations, not official; rating blank; popularity 1.",
+      "translatedTitles": {
+        "en": "Gition and the Lovely Wooden Cabinet",
+        "ja": "gitionと可愛い木のタンス"
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "简体中文剧情 RPG：对“二次元文化”嗤之以鼻的年轻人 Gition，在机缘巧合下卷入故事，与 nina、爱音、立希等伙伴穿行小镇、学校与森林，27 张地图、333 行对白。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "A Simplified Chinese story RPG: Gition, a young man dismissive of ACG culture, is drawn into a story by chance and travels through a town, a school and a forest with companions nina, Aine and Ritsuki — 27 maps, 333 lines of dialogue.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "簡体字のストーリーRPG。「二次元文化」を鼻で笑う若者gitionは、偶然から物語に巻き込まれ、nina・愛音・立希ら仲間と町・学校・森を巡る。27マップ・333行の台詞。",
+          "editorialStatus": "draft"
+        }
+      },
+      "contentAdvisory": {
+        "nsfw": false
+      }
+    },
+    "gladius-saga": {
+      "schemaVersion": 1,
+      "slug": "gladius-saga",
+      "originalTitle": "Gladius Saga",
+      "taxonomy": {
+        "genres": [
+          "rpg"
+        ],
+        "themes": [
+          "fantasy"
+        ],
+        "contentType": "full-game"
+      },
+      "developers": [
+        {
+          "name": "IGFCoimbra",
+          "url": "https://github.com/IGFCoimbra"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/IGFCoimbra-Gladius-Saga/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "igfcoimbra-gladius-saga",
+          "title": "Gladius Saga",
+          "languages": [
+            "en"
+          ],
+          "nsfw": false
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/IGFCoimbra/Gladius-Saga",
+          "https://webrpg.org/IGFCoimbra-Gladius-Saga/"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 1,
+      "assessedAt": "2026-11-13",
+      "assessmentSources": [
+        "https://github.com/IGFCoimbra/Gladius-Saga",
+        "https://webrpg.org/IGFCoimbra-Gladius-Saga/"
+      ],
+      "assessmentNote": "GitHub repo + webrpg mirror only (0 stars; web search finds no Steam/itch page for this game; same-name games Gladius: Blood & Betrayal, Gladius Terrae, GLADIUM are all different works); game data 22 maps / 139 events / 231 dialogue lines; zh-Hans/ja titles are transliterations, not official; rating blank; popularity 1.",
+      "translatedTitles": {
+        "zh-Hans": "格拉迪乌斯传奇",
+        "ja": "グラディウス・サーガ"
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "英文奇幻 RPG：穿越世界地图、海岛、城市与三层高塔的冒险，22 张地图、231 行对白。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "An English fantasy RPG: an adventure across a world map, an island, a city and a three-floor tower — 22 maps, 231 lines of dialogue.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "英語のファンタジーRPG。ワールドマップ・島・都市・3階の塔を巡る冒険。22マップ・231行の台詞。",
+          "editorialStatus": "draft"
+        }
+      },
+      "contentAdvisory": {
+        "nsfw": false
+      }
+    },
+    "glancing-at-anothers-phone-on-the-long-ride-home": {
+      "schemaVersion": 1,
+      "slug": "glancing-at-anothers-phone-on-the-long-ride-home",
+      "originalTitle": "glancing at another's phone on the long ride home",
+      "taxonomy": {
+        "genres": [
+          "adventure"
+        ],
+        "themes": [
+          "slice-of-life",
+          "drama"
+        ],
+        "contentType": "full-game"
+      },
+      "developers": [
+        {
+          "name": "xflorora",
+          "url": "https://github.com/xflorora"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/xflorora-prototype-studio-2025/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "xflorora-prototype-studio-2025",
+          "title": "glancing at another's phone on the long ride home",
+          "languages": [
+            "en"
+          ],
+          "nsfw": false
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://pizzapranks.itch.io/indiepocalypse-74",
+          "https://itch.io/games/tag-rpg-maker-mv",
+          "https://webrpg.org/xflorora-prototype-studio-2025/"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 3,
+      "assessedAt": "2026-11-13",
+      "assessmentSources": [
+        "https://pizzapranks.itch.io/indiepocalypse-74",
+        "https://itch.io/games/tag-rpg-maker-mv",
+        "https://webrpg.org/xflorora-prototype-studio-2025/"
+      ],
+      "assessmentNote": "Included in Indiepocalypse #74 (PIZZAPRANKS itch.io anthology, 1 of 10 games; author credited as rio flores, i.e. xflorora) and listed under the itch.io RPG Maker MV tag; the anthology's own Rating 5.0 (5 ratings) is the anthology's, not this game's, so rating stays blank; game data 1 map / 13 events / 40 dialogue lines, a complete vignette loop (talk to everyone, then the end offers its seat); one profanity line and a 'feet videos' denial joke are not sexual content, nsfw false; popularity 3.",
+      "translatedTitles": {
+        "zh-Hans": "长途归家路上瞥一眼邻座的手机",
+        "ja": "長い帰り道に隣の人のスマホをちらっと見る"
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "英文地铁微型叙事：在漫长的归家路上穿行车厢，偷看 13 位邻座乘客的手机屏幕，每人一段文学化独白；与所有人聊过之后，“终点”会把座位让给你。收录于 itch 选集 Indiepocalypse #74。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "An English subway micro-narrative: on the long ride home, walk between cars and glance at the phones of 13 fellow passengers, each with a short literary vignette; once you have talked to everyone, 'the end' offers you its seat. Included in the itch.io anthology Indiepocalypse #74.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "英語の地下鉄ミクロ・ナラティブ。長い帰り道、車両を歩きながら13人の乗客のスマホをちらっと覗き、それぞれの短い文学的独白を聞く。全員と話すと「終点」が席を譲ってくれる。itch.ioのアンソロジーIndiepocalypse #74に収録。",
+          "editorialStatus": "draft"
+        }
+      },
+      "externalLinks": [
+        {
+          "url": "https://pizzapranks.itch.io/indiepocalypse-74",
+          "type": "other",
+          "label": "Indiepocalypse #74 (itch.io anthology including this game)"
+        }
+      ],
+      "contentAdvisory": {
+        "nsfw": false
+      }
+    },
+    "go-to-school-5-vamyvamizy": {
+      "schemaVersion": 1,
+      "slug": "go-to-school-5-vamyvamizy",
+      "originalTitle": "Go To School 5",
+      "taxonomy": {
+        "genres": [
+          "rpg"
+        ],
+        "themes": [
+          "slice-of-life"
+        ],
+        "contentType": "full-game"
+      },
+      "developers": [
+        {
+          "name": "VamyVamizy",
+          "url": "https://github.com/VamyVamizy"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/VamyVamizy-VamyVamizy.github.io/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "vamyvamizy-vamyvamizy-github-io",
+          "title": "Go To School 5",
+          "languages": [
+            "en"
+          ],
+          "nsfw": false
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/VamyVamizy/VamyVamizy.github.io",
+          "https://webrpg.org/VamyVamizy-VamyVamizy.github.io/"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 1,
+      "assessedAt": "2026-11-13",
+      "assessmentSources": [
+        "https://github.com/VamyVamizy/VamyVamizy.github.io",
+        "https://webrpg.org/VamyVamizy-VamyVamizy.github.io/"
+      ],
+      "assessmentNote": "GitHub repo + webrpg mirror only (0 stars; web search finds no trace of this author's version; 'Go To School' class-assignment games are numerous and only this author's version counts); game data 8 maps / 147 events / 260 dialogue lines, different maps/events/dialogue from the two Batch 15 Go To School 5 games, so a separate game with an author-suffixed slug; rating blank; popularity 1.",
+      "translatedTitles": {
+        "zh-Hans": "去上学5",
+        "ja": "ゴー・トゥ・スクール5"
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "英文校园小品 RPG（班级作业）：沿河边小屋、作业点与新通道地牢一路去上学，8 张地图、260 行对白。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "An English school-life short RPG (class assignment): make your way to school past a riverside house, an assignment spot and a new-passage dungeon — 8 maps, 260 lines of dialogue.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "英語の学園小品RPG（授業課題）。川辺の家・課題の場所・新しい通路のダンジョンを抜けて学校へ向かう。8マップ・260行の台詞。",
+          "editorialStatus": "draft"
+        }
+      },
+      "contentAdvisory": {
+        "nsfw": false
+      }
+    },
+    "grasping-at-reality-the-game": {
+      "schemaVersion": 1,
+      "slug": "grasping-at-reality-the-game",
+      "originalTitle": "Grasping at Reality: The Game",
+      "taxonomy": {
+        "genres": [
+          "rpg"
+        ],
+        "themes": [
+          "slice-of-life"
+        ],
+        "contentType": "full-game"
+      },
+      "developers": [
+        {
+          "name": "VaultManCs",
+          "url": "https://github.com/VaultManCs"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/VaultManCs-GaR_TheGame/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "vaultmancs-gar-thegame",
+          "title": "Grasping at Reality: The Game",
+          "languages": [
+            "en"
+          ],
+          "nsfw": false
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/VaultManCs/GaR_TheGame",
+          "https://webrpg.org/VaultManCs-GaR_TheGame/"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 1,
+      "assessedAt": "2026-11-13",
+      "assessmentSources": [
+        "https://github.com/VaultManCs/GaR_TheGame",
+        "https://webrpg.org/VaultManCs-GaR_TheGame/"
+      ],
+      "assessmentNote": "GitHub repo + webrpg mirror only (0 stars, 34 commits, created 2026-09-21; web search finds no itch/Steam/Game Jolt traces); game data 17 maps / 455 events / 316 dialogue lines; 11 'fuck' hits in dialogue are all profanity, not sexual content, nsfw false; zh-Hans/ja titles are literal translations, not official; rating blank; popularity 1.",
+      "translatedTitles": {
+        "zh-Hans": "把握现实：游戏",
+        "ja": "グラスピング・アット・リアリティ：ザ・ゲーム"
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "英文小镇剧情 RPG：围绕乐队演出展开的小镇故事，酒吧、舞台间与住家之间往返，17 张地图、316 行粗口喜剧对白。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "An English small-town story RPG: a band-gig storyline unfolding between a bar, stage rooms and houses — 17 maps, 316 lines of crude-comedy dialogue.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "英語の小さな町のストーリーRPG。バンドのライブを軸に、バー・ステージ・家々を巡る物語。17マップ・316行の粗い笑いの台詞。",
+          "editorialStatus": "draft"
+        }
+      },
+      "contentAdvisory": {
+        "nsfw": false
+      }
+    },
+    "greenhorizon": {
+      "schemaVersion": 1,
+      "slug": "greenhorizon",
+      "originalTitle": "GreenHorizon",
+      "taxonomy": {
+        "genres": [
+          "rpg"
+        ],
+        "themes": [
+          "sci-fi"
+        ],
+        "contentType": "full-game"
+      },
+      "developers": [
+        {
+          "name": "jesussantos05",
+          "url": "https://github.com/jesussantos05"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/jesussantos05-GreenHorizon/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "jesussantos05-greenhorizon",
+          "title": "GreenHorizon",
+          "languages": [
+            "es"
+          ],
+          "nsfw": false
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/jesussantos05/GreenHorizon",
+          "https://webrpg.org/jesussantos05-GreenHorizon/"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 1,
+      "assessedAt": "2026-11-13",
+      "assessmentSources": [
+        "https://github.com/jesussantos05/GreenHorizon",
+        "https://webrpg.org/jesussantos05-GreenHorizon/"
+      ],
+      "assessmentNote": "GitHub repo + webrpg mirror only (0 stars; web search finds no itch/media traces for this game; the Steam farm game Green Horizon app 5205810 is a different work); game data 22 maps / 252 events / 194 dialogue lines; language corrected [en] -> [es] (dialogue verified Spanish, locale es_ES); zh-Hans/ja titles are literal translations, not official; rating blank; popularity 1.",
+      "translatedTitles": {
+        "zh-Hans": "绿色地平线",
+        "ja": "グリーンホライゾン"
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "西班牙语科幻 RPG：穿行商业城、金融区、运输基地、实验室、医院与空间站的城市冒险，22 张地图、194 行对白。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "A Spanish sci-fi RPG: a city adventure across a commercial district, a financial district, a transport base, a laboratory, a hospital and a space station — 22 maps, 194 lines of dialogue.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "スペイン語のSF RPG。商業都市・金融街・運輸基地・研究所・病院・宇宙ステーションを巡る都市の冒険。22マップ・194行の台詞。",
+          "editorialStatus": "draft"
+        }
+      },
+      "contentAdvisory": {
+        "nsfw": false
+      }
+    },
+    "guonuotws-adventure-of-rockstar": {
+      "schemaVersion": 1,
+      "slug": "guonuotws-adventure-of-rockstar",
+      "originalTitle": "GuonuoTW's adventure of Rockstar",
+      "taxonomy": {
+        "genres": [
+          "rpg"
+        ],
+        "themes": [
+          "fantasy",
+          "sci-fi"
+        ],
+        "contentType": "full-game"
+      },
+      "developers": [
+        {
+          "name": "hoshiyomi0322",
+          "url": "https://github.com/hoshiyomi0322"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/hoshiyomi0322-Guonuo/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "hoshiyomi0322-guonuo",
+          "title": "GuonuoTW's adventure of Rockstar",
+          "languages": [
+            "zh-Hant"
+          ],
+          "nsfw": false
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/hoshiyomi0322/Guonuo",
+          "https://webrpg.org/hoshiyomi0322-Guonuo/"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 1,
+      "assessedAt": "2026-11-13",
+      "assessmentSources": [
+        "https://github.com/hoshiyomi0322/Guonuo",
+        "https://webrpg.org/hoshiyomi0322-Guonuo/"
+      ],
+      "assessmentNote": "GitHub repo + webrpg mirror only (0 stars; web search for GuonuoTW / 郭诺 finds no Steam/itch traces for this game; the same handle's ULTRAKILL translation, AtCoder and FNF mod credits are unrelated); game data 17 maps / 123 events / 435 dialogue lines; zh-Hans/ja titles are transliterations, not official; rating blank; popularity 1.",
+      "translatedTitles": {
+        "zh-Hans": "郭诺TW的摇滚明星冒险",
+        "ja": "グオヌオTWのロックスターの冒険"
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "繁体中文奇幻 RPG：郭诺TW的摇滚明星冒险，穿行浮游城艾恩葛朗特、地下城、Miko 的魔王城与 R 星总部，17 张地图、435 行对白。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "A Traditional Chinese fantasy RPG: GuonuoTW's adventure of Rockstar, travelling through the floating city Aincrad, a dungeon, Miko's demon castle and R-Star HQ — 17 maps, 435 lines of dialogue.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "繁体字のファンタジーRPG。GuonuoTWのロックスターの冒険。浮遊城アインクラッド・地下城・Mikoの魔王城・R星本部を巡る。17マップ・435行の台詞。",
+          "editorialStatus": "draft"
+        }
+      },
+      "contentAdvisory": {
+        "nsfw": false
+      }
+    },
+    "half-heroes": {
+      "schemaVersion": 1,
+      "slug": "half-heroes",
+      "originalTitle": "Half Heroes",
+      "taxonomy": {
+        "genres": [
+          "rpg"
+        ],
+        "themes": [
+          "fantasy"
+        ],
+        "contentType": "full-game"
+      },
+      "developers": [
+        {
+          "name": "nerdsonly",
+          "url": "https://github.com/nerdsonly"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/nerdsonly-half-heroes/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "nerdsonly-half-heroes",
+          "title": "Half Heroes",
+          "languages": [
+            "pt"
+          ],
+          "nsfw": false
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/nerdsonly/half-heroes",
+          "https://webrpg.org/nerdsonly-half-heroes/"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 1,
+      "assessedAt": "2026-11-13",
+      "assessmentSources": [
+        "https://github.com/nerdsonly/half-heroes",
+        "https://webrpg.org/nerdsonly-half-heroes/"
+      ],
+      "assessmentNote": "GitHub repo + webrpg mirror only (2 stars, 65 commits, created 2019-02-04; web search finds no itch/Steam traces for this game; Halftime Heroes Steam app 1907900, Half Hour Heroes and H.A.L.F. are all different works); game data 10 maps / 200 events / 1710 dialogue lines; zh-Hans/ja titles are literal translations, not official; rating blank; popularity 1.",
+      "translatedTitles": {
+        "zh-Hans": "半身英雄",
+        "ja": "ハーフ・ヒーローズ"
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "葡萄牙语奇幻 RPG：半身人村庄与神庙的冒险，湖畔、树屋与各家族住所之间往返，10 张地图、1710 行对白，为本批对白量最多。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "A Portuguese fantasy RPG: a halfling village and temple adventure, moving between a lake, a treehouse and the houses of rival families — 10 maps, 1,710 lines of dialogue, the most in this batch.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "ポルトガル語のファンタジーRPG。ハーフリングの村と神殿の冒険。湖・ツリーハウス・各家族の家を巡る。10マップ・1710行の台詞で、今バッチ最多。",
+          "editorialStatus": "draft"
+        }
+      },
+      "contentAdvisory": {
+        "nsfw": false
+      }
     }
   }
 }

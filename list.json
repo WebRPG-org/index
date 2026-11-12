@@ -15888,18 +15888,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/gary31136-github_rpg_exGroup_v1/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg"
-      ],
-      "languages": [
-        "zh-Hant"
-      ],
-      "nsfw": false,
+      "gameSlug": "xing-tu-lu-ren-exgroup",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
+      "nsfw": false,
       "reviewedAt": "2026-11-07",
-      "title": "星途旅人：星幣與選擇的冒險"
+      "reviewedSourceHeadSha": "ed6904d91df252e62630debd44c4db5c9ddbafc9"
     }
   },
   {
@@ -15929,18 +15922,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/huangxinyi2626-byte-github_teaching_experiment/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg"
-      ],
-      "languages": [
-        "zh-Hant"
-      ],
-      "nsfw": false,
+      "gameSlug": "xing-tu-lu-ren-exgroup",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
+      "nsfw": false,
       "reviewedAt": "2026-11-07",
-      "title": "星途旅人：星幣與選擇的冒險"
+      "reviewedSourceHeadSha": "68e6365746f0413e5831a20f56ca6b677dd66699"
     }
   },
   {
@@ -15967,17 +15953,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/rem5462-gition/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg"
-      ],
-      "languages": [
-        "zh-Hans"
-      ],
-      "nsfw": false,
+      "gameSlug": "gition-yu-ke-ai-de-mu-gui-zi",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "nsfw": false,
+      "reviewedAt": "2026-11-07",
+      "reviewedSourceHeadSha": "bdaeac9df31247e1aab11994c2edb530f1e24a9e"
     }
   },
   {
@@ -16007,18 +15987,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/IGFCoimbra-Gladius-Saga/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg",
-        "fantasy"
-      ],
-      "languages": [
-        "en"
-      ],
-      "nsfw": false,
+      "gameSlug": "gladius-saga",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "nsfw": false,
+      "reviewedAt": "2026-11-07",
+      "reviewedSourceHeadSha": "79668b437d2fede4bf8ce2f4223ad4760bf227d7"
     }
   },
   {
@@ -16045,17 +16018,9 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/xflorora-prototype-studio-2025/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "adventure",
-        "slice-of-life"
-      ],
-      "languages": [
-        "en"
-      ],
-      "nsfw": false,
+      "gameSlug": "glancing-at-anothers-phone-on-the-long-ride-home",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
+      "nsfw": false,
       "reviewedAt": "2026-11-07"
     }
   },
@@ -16124,17 +16089,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/VamyVamizy-VamyVamizy.github.io/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg"
-      ],
-      "languages": [
-        "en"
-      ],
-      "nsfw": false,
+      "gameSlug": "go-to-school-5-vamyvamizy",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "nsfw": false,
+      "reviewedAt": "2026-11-07",
+      "reviewedSourceHeadSha": "039ab66cf4339f54e486ff255cb023d71514ecda"
     }
   },
   {
@@ -16182,17 +16141,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/VaultManCs-GaR_TheGame/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg"
-      ],
-      "languages": [
-        "en"
-      ],
-      "nsfw": false,
+      "gameSlug": "grasping-at-reality-the-game",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "nsfw": false,
+      "reviewedAt": "2026-11-07",
+      "reviewedSourceHeadSha": "829b118bb4e5dbaee01181426dd8bd49dbc0b7b8"
     }
   },
   {
@@ -16222,17 +16175,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/jesussantos05-GreenHorizon/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg"
-      ],
-      "languages": [
-        "en"
-      ],
-      "nsfw": false,
+      "gameSlug": "greenhorizon",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "nsfw": false,
+      "reviewedAt": "2026-11-07",
+      "reviewedSourceHeadSha": "d8ca0fd047b7aebae62d055211fd7e9e6c34674d"
     }
   },
   {
@@ -16262,17 +16209,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/hoshiyomi0322-Guonuo/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg"
-      ],
-      "languages": [
-        "zh-Hant"
-      ],
-      "nsfw": false,
+      "gameSlug": "guonuotws-adventure-of-rockstar",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "nsfw": false,
+      "reviewedAt": "2026-11-07",
+      "reviewedSourceHeadSha": "70c04aea27324f4666e4066c67e4afe90e5b1c17"
     }
   },
   {
@@ -16340,17 +16281,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/nerdsonly-half-heroes/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg"
-      ],
-      "languages": [
-        "pt"
-      ],
-      "nsfw": false,
+      "gameSlug": "half-heroes",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "nsfw": false,
+      "reviewedAt": "2026-11-07",
+      "reviewedSourceHeadSha": "24225adc9569a8e3eb8883309e1897f82a07632d"
     }
   },
   {
