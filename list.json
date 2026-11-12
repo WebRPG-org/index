@@ -16315,17 +16315,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/balensmatheo-balensmatheo.github.io/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "adventure"
-      ],
-      "languages": [
-        "fr"
-      ],
-      "nsfw": false,
+      "gameSlug": "harassment-escape",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "nsfw": false,
+      "reviewedAt": "2026-11-07",
+      "reviewedSourceHeadSha": "70a65970e3d2c5377a9a0276cca78c2914f9656d"
     }
   },
   {
@@ -16355,17 +16349,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/balensmatheo-HarassmentEscape.github.io/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "adventure"
-      ],
-      "languages": [
-        "fr"
-      ],
-      "nsfw": false,
+      "gameSlug": "harassment-escape",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "nsfw": false,
+      "reviewedAt": "2026-11-07",
+      "reviewedSourceHeadSha": "ea59d1bf912167fc5ad9638d77c2a7cfe60cf040"
     }
   },
   {
@@ -16395,18 +16383,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/discus-sions-The-Fall-PREVIEW1/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg"
-      ],
-      "languages": [
-        "en"
-      ],
-      "nsfw": false,
+      "gameSlug": "the-fall",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
+      "nsfw": false,
       "reviewedAt": "2026-11-07",
-      "title": "Harold's Journey"
+      "reviewedSourceHeadSha": "ad0556915082d9f4dbbd8cd44579196a6ee36e08"
     }
   },
   {
@@ -16460,16 +16441,8 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/Pear104-hcm202/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg"
-      ],
-      "languages": [
-        "en"
-      ],
+      "playable": false,
       "nsfw": false,
-      "playable": true,
-      "popularity": 2,
-      "rating": 5,
       "reviewedAt": "2026-11-07"
     }
   },
@@ -16573,16 +16546,8 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/nickchu91-HoloIsland/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg"
-      ],
-      "languages": [
-        "zh-Hant"
-      ],
+      "playable": false,
       "nsfw": false,
-      "playable": true,
-      "popularity": 2,
-      "rating": 5,
       "reviewedAt": "2026-11-07"
     }
   },
@@ -16670,18 +16635,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/FalconPilot-house-of-the-7th-star/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "reviewedAt": "2026-11-07",
+      "gameSlug": "house-of-the-7th-star",
       "playable": true,
-      "rating": 5,
-      "popularity": 2,
-      "genres": [
-        "rpg",
-        "fantasy"
-      ],
       "nsfw": false,
-      "languages": [
-        "fr"
-      ]
+      "reviewedAt": "2026-11-07",
+      "reviewedSourceHeadSha": "5e31a595f62fd60eccc9cb84b2d953afb5d13985"
     }
   },
   {
@@ -16708,17 +16666,9 @@
     "reachabilityDetail": "https://webrpg.org/franck-audiger-HunterEvolutionJS/ served an RPG Maker entry point and its startup resources",
     "processedHeadSha": "7efcaf8e68821e365706efb7aafbab871eb0e39c",
     "meta": {
-      "genres": [
-        "rpg",
-        "fantasy"
-      ],
-      "languages": [
-        "fr"
-      ],
-      "nsfw": false,
+      "gameSlug": "hunter-x-hunter-evolution",
       "playable": true,
-      "popularity": 3,
-      "rating": 5,
+      "nsfw": false,
       "reviewedAt": "2026-11-07"
     }
   },
@@ -16772,15 +16722,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/stuartmrwong-stuartmrwong.github.io/CISA.html served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg"
-      ],
-      "nsfw": false,
+      "gameSlug": "i-love-cosine",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
+      "nsfw": false,
       "reviewedAt": "2026-11-07",
-      "title": "CISA"
+      "reviewedSourceHeadSha": "ea965d272b9dbadac0079e328ad9f9639c5a0fd1"
     }
   },
   {
@@ -16955,17 +16901,8 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/Donais04-ISATArchipelago/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg",
-        "fantasy"
-      ],
-      "languages": [
-        "en"
-      ],
-      "nsfw": false,
       "playable": false,
-      "popularity": 8,
-      "rating": 8,
+      "nsfw": false,
       "reviewedAt": "2026-11-07"
     }
   },
@@ -17121,18 +17058,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/web-ports-in-stars-and-time/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg",
-        "fantasy"
-      ],
-      "languages": [
-        "en"
-      ],
-      "nsfw": false,
+      "gameSlug": "in-stars-and-time",
       "playable": true,
-      "popularity": 8,
-      "rating": 8,
-      "reviewedAt": "2026-11-07"
+      "nsfw": false,
+      "reviewedAt": "2026-11-07",
+      "reviewedSourceHeadSha": "27e9333ba913797a32bd6c4c630e532aff97e967"
     }
   },
   {
@@ -17194,18 +17124,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/PlumeLumyn-In-the-hall-of-the-King-Kong/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg"
-      ],
-      "languages": [
-        "en",
-        "fr"
-      ],
-      "nsfw": false,
+      "gameSlug": "in-the-hall-of-the-king-kong",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "nsfw": false,
+      "reviewedAt": "2026-11-07",
+      "reviewedSourceHeadSha": "02075437617bf518c8316c9d8037ce5255d695b6"
     }
   },
   {
@@ -17290,17 +17213,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/dvancuyk-initial-fantasy/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg"
-      ],
-      "languages": [
-        "en"
-      ],
-      "nsfw": false,
+      "gameSlug": "initial-fantasy",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "nsfw": false,
+      "reviewedAt": "2026-11-07",
+      "reviewedSourceHeadSha": "736ae99178044264b0cf52ecdd2183bbbae6e1c7"
     }
   },
   {

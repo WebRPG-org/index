@@ -12251,6 +12251,668 @@
       "contentAdvisory": {
         "nsfw": false
       }
+    },
+    "harassment-escape": {
+      "schemaVersion": 1,
+      "slug": "harassment-escape",
+      "originalTitle": "Harassment Escape",
+      "taxonomy": {
+        "genres": [
+          "adventure"
+        ],
+        "themes": [
+          "educational"
+        ],
+        "contentType": "full-game"
+      },
+      "developers": [
+        {
+          "name": "balensmatheo",
+          "url": "https://github.com/balensmatheo"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/balensmatheo-balensmatheo.github.io/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "balensmatheo-balensmatheo-github-io",
+          "title": "Harassment Escape",
+          "languages": [
+            "fr"
+          ],
+          "nsfw": false
+        },
+        {
+          "type": "internal",
+          "id": "balensmatheo-harassmentescape-github-io",
+          "title": "Harassment Escape",
+          "languages": [
+            "fr"
+          ],
+          "nsfw": false
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/balensmatheo/balensmatheo.github.io",
+          "https://webrpg.org/balensmatheo-balensmatheo.github.io/",
+          "https://github.com/balensmatheo/HarassmentEscape.github.io",
+          "https://webrpg.org/balensmatheo-HarassmentEscape.github.io/"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 1,
+      "assessedAt": "2026-11-13",
+      "assessmentSources": [
+        "https://github.com/balensmatheo/balensmatheo.github.io",
+        "https://webrpg.org/balensmatheo-balensmatheo.github.io/",
+        "https://github.com/balensmatheo/HarassmentEscape.github.io",
+        "https://webrpg.org/balensmatheo-HarassmentEscape.github.io/"
+      ],
+      "assessmentNote": "Two GitHub repos + webrpg mirrors only (0 stars each, both created 2023-10-12; web search finds no Steam/itch/press traces; the similar-named Japanese R18 game わからせエスケープ is a different work); two forks are the same game (identical versionId 52903836, 5 maps / 18 events / 84 dialogue lines); dialogue verified French, an educational game about workplace sexual harassment (statistics + French law quoted), not erotic content, nsfw false; zh-Hans/ja titles are literal translations, not official; rating blank; popularity 1.",
+      "translatedTitles": {
+        "zh-Hans": "骚扰逃脱",
+        "ja": "ハラスメント・エスケープ"
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "法语职场反骚扰教育冒险：穿行办公室、茶水间、人事部与总裁办公室，收集资料、推进申诉，5 张地图、84 行对白；对白引用受害者统计与法国法律条文。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "A French educational adventure about workplace harassment: move through an office, a cafeteria, the HR office and the CEO's office, gathering documents and pushing a complaint forward — 5 maps, 84 lines of dialogue, citing victim statistics and French law.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "フランス語の職場ハラスメント啓発アドベンチャー。オフィス・カフェテリア・人事部・社長室を巡り、資料を集めて申立てを進める。5マップ・84行の台詞。被害者統計とフランス法の条文を引用する。",
+          "editorialStatus": "draft"
+        }
+      },
+      "contentAdvisory": {
+        "nsfw": false,
+        "warnings": [
+          "depicts workplace sexual harassment (educational context)"
+        ]
+      }
+    },
+    "the-fall": {
+      "schemaVersion": 1,
+      "slug": "the-fall",
+      "originalTitle": "The Fall",
+      "taxonomy": {
+        "genres": [
+          "rpg"
+        ],
+        "themes": [],
+        "contentType": "demo"
+      },
+      "developers": [
+        {
+          "name": "discus-sions",
+          "url": "https://github.com/discus-sions"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/discus-sions-The-Fall-PREVIEW1/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "discus-sions-the-fall-preview1",
+          "title": "Harold's Journey",
+          "languages": [
+            "en"
+          ],
+          "nsfw": false
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/discus-sions/The-Fall-PREVIEW1",
+          "https://webrpg.org/discus-sions-The-Fall-PREVIEW1/"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 1,
+      "assessedAt": "2026-11-13",
+      "assessmentSources": [
+        "https://github.com/discus-sions/The-Fall-PREVIEW1",
+        "https://webrpg.org/discus-sions-The-Fall-PREVIEW1/"
+      ],
+      "assessmentNote": "GitHub repo + webrpg mirror only (0 stars, 2 commits; web search finds no itch/Steam traces; other itch.io 'Harold' games are different works); explicitly labelled PREVIEW1 of the unfinished game The Fall (repo description; PREVIEW2 also exists), so contentType demo and slug by the game's own name, with 'Harold's Journey' (the in-game preview title, System.json gameTitle) kept as an alias; game data 10 maps / 741 events / 174 dialogue lines; zh-Hans/ja titles are literal translations, not official; rating blank; popularity 1.",
+      "translatedTitles": {
+        "zh-Hans": "陨落",
+        "ja": "ザ・フォール"
+      },
+      "aliases": {
+        "en": [
+          "Harold's Journey"
+        ]
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "英文预览版 RPG：未完成游戏《The Fall》的预览，主角 Harold 的旅程，10 张地图、741 个事件、174 行对白。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "An English preview RPG: a preview of the unfinished game The Fall, following Harold's journey — 10 maps, 741 events, 174 lines of dialogue.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "英語のプレビューRPG。未完成のゲーム『The Fall』のプレビューで、主人公ハロルドの旅を描く。10マップ・741イベント・174行の台詞。",
+          "editorialStatus": "draft"
+        }
+      },
+      "contentAdvisory": {
+        "nsfw": false
+      }
+    },
+    "house-of-the-7th-star": {
+      "schemaVersion": 1,
+      "slug": "house-of-the-7th-star",
+      "originalTitle": "House of the 7th Star",
+      "taxonomy": {
+        "genres": [
+          "rpg"
+        ],
+        "themes": [
+          "fantasy"
+        ],
+        "contentType": "full-game"
+      },
+      "developers": [
+        {
+          "name": "FalconPilot",
+          "url": "https://github.com/FalconPilot"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/FalconPilot-house-of-the-7th-star/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "falconpilot-house-of-the-7th-star",
+          "title": "House of the 7th Star",
+          "languages": [
+            "fr"
+          ],
+          "nsfw": false
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/FalconPilot/house-of-the-7th-star",
+          "https://webrpg.org/FalconPilot-house-of-the-7th-star/"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 1,
+      "assessedAt": "2026-11-13",
+      "assessmentSources": [
+        "https://github.com/FalconPilot/house-of-the-7th-star",
+        "https://webrpg.org/FalconPilot-house-of-the-7th-star/"
+      ],
+      "assessmentNote": "GitHub repo + webrpg mirror only (0 stars, 148 commits since 2019-12-21, four collaborators; web search finds no Steam/itch traces; the Steam game Seventh Star by Wolfs Moon Studios is a different work); game data 6 maps / 16 events / 52 dialogue lines, locale fr_FR; zh-Hans/ja titles are literal translations, not official; rating blank; popularity 1.",
+      "translatedTitles": {
+        "zh-Hans": "第七星之屋",
+        "ja": "セブンス・スターの家"
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "法语奇幻 RPG：第七星之屋，龙之王座、要塞、征兵室与营火引子，6 张地图、52 行对白；四人协作项目。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "A French fantasy RPG: the House of the 7th Star — a dragon throne, a stronghold, a recruitment room and a campfire intro — 6 maps, 52 lines of dialogue; a four-person collaborative project.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "フランス語のファンタジーRPG。第七の星の家——竜の玉座・要塞・徴兵室・焚き火の導入部。6マップ・52行の台詞。4人の共同プロジェクト。",
+          "editorialStatus": "draft"
+        }
+      },
+      "contentAdvisory": {
+        "nsfw": false
+      }
+    },
+    "hunter-x-hunter-evolution": {
+      "schemaVersion": 1,
+      "slug": "hunter-x-hunter-evolution",
+      "originalTitle": "Hunter x Hunter Evolution",
+      "taxonomy": {
+        "genres": [
+          "rpg"
+        ],
+        "themes": [
+          "fantasy"
+        ],
+        "contentType": "full-game"
+      },
+      "developers": [
+        {
+          "name": "franck-audiger",
+          "url": "https://github.com/franck-audiger"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/franck-audiger-HunterEvolutionJS/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "franck-audiger-hunterevolutionjs",
+          "title": "Hunter x Hunter Evolution",
+          "languages": [
+            "fr"
+          ],
+          "nsfw": false
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/WebRPG-org/franck-audiger-HunterEvolutionJS",
+          "https://webrpg.org/franck-audiger-HunterEvolutionJS/"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 1,
+      "assessedAt": "2026-11-13",
+      "assessmentSources": [
+        "https://github.com/WebRPG-org/franck-audiger-HunterEvolutionJS",
+        "https://webrpg.org/franck-audiger-HunterEvolutionJS/"
+      ],
+      "assessmentNote": "WebRPG mirror + WebRPG-org fork only (original repo franck-audiger/HunterEvolutionJS now 404; fork 302 commits, 14 tags, 0 stars; web search finds no Steam/itch scores or press; official HxH games like Nen x Impact, the idle mobile game Hunter Evolution by YSO CORP, and itch.io's A Hunter Saga are all different works); game data 163 maps / 3815 events / 947 dialogue lines, locale fr_FR, README documents branching Nebel Swamp scenarios and a fidelity system; zh-Hans/ja titles use the franchise's known Chinese/Japanese names + a literal 'Evolution', not game-specific official titles; rating blank; popularity 1.",
+      "translatedTitles": {
+        "zh-Hans": "猎人×猎人：进化",
+        "ja": "ハンター×ハンター エボリューション"
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "法语《猎人×猎人》同人 RPG：按 2011 版动画剧情展开，从鲸鱼岛、捕鲸港到猎人考试，163 张地图、947 行对白；含分支路线与 QTE 设计。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "A French Hunter x Hunter fan RPG following the 2011 anime storyline: from Whale Island and the capture port to the Hunter Exam — 163 maps, 947 lines of dialogue, with branching paths and QTE designs.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "フランス語の『HUNTER×HUNTER』ファンRPG。2011年版アニメの筋をなぞり、クジラ島・捕鯨港からハンター試験へ。163マップ・947行の台詞。分岐ルートとQTEの設計がある。",
+          "editorialStatus": "draft"
+        }
+      },
+      "externalLinks": [
+        {
+          "url": "https://github.com/WebRPG-org/franck-audiger-HunterEvolutionJS",
+          "type": "source",
+          "label": "WebRPG-org fork (original repo deleted)"
+        }
+      ],
+      "contentAdvisory": {
+        "nsfw": false
+      }
+    },
+    "i-love-cosine": {
+      "schemaVersion": 1,
+      "slug": "i-love-cosine",
+      "originalTitle": "I love Cosine",
+      "taxonomy": {
+        "genres": [
+          "rpg"
+        ],
+        "themes": [],
+        "contentType": "full-game"
+      },
+      "developers": [
+        {
+          "name": "stuartmrwong",
+          "url": "https://github.com/stuartmrwong"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/stuartmrwong-stuartmrwong.github.io/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "stuartmrwong-stuartmrwong-github-io",
+          "title": "I love Cosine",
+          "languages": [
+            "en"
+          ],
+          "nsfw": false
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/stuartmrwong/stuartmrwong.github.io",
+          "https://webrpg.org/stuartmrwong-stuartmrwong.github.io/CISA.html"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 1,
+      "assessedAt": "2026-11-13",
+      "assessmentSources": [
+        "https://github.com/stuartmrwong/stuartmrwong.github.io",
+        "https://webrpg.org/stuartmrwong-stuartmrwong.github.io/CISA.html"
+      ],
+      "assessmentNote": "GitHub repo + webrpg mirror only (0 stars; web search for 'I love Cosine' / 'CISA' RPG Maker finds nothing — 'CISA' searches are dominated by the US cybersecurity agency); game data 18 maps / 133 events / 373 dialogue lines; old meta title 'CISA' kept as an alias (the in-game tower is CISA Tower); zh-Hans/ja titles are literal translations, not official; rating blank; popularity 1.",
+      "translatedTitles": {
+        "zh-Hans": "我爱余弦",
+        "ja": "アイ・ラブ・コサイン"
+      },
+      "aliases": {
+        "en": [
+          "CISA"
+        ]
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "英文冒险 RPG：穿行世界地图、城镇、神殿与四层 CISA 高塔，18 张地图、373 行对白。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "An English adventure RPG: travel a world map, towns, a temple and the four floors of CISA Tower — 18 maps, 373 lines of dialogue.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "英語のアドベンチャーRPG。ワールドマップ・町・神殿・4階のCISAタワーを巡る。18マップ・373行の台詞。",
+          "editorialStatus": "draft"
+        }
+      },
+      "contentAdvisory": {
+        "nsfw": false
+      }
+    },
+    "in-stars-and-time": {
+      "schemaVersion": 1,
+      "slug": "in-stars-and-time",
+      "originalTitle": "IN STARS AND TIME",
+      "taxonomy": {
+        "genres": [
+          "rpg"
+        ],
+        "themes": [
+          "fantasy",
+          "drama"
+        ],
+        "contentType": "full-game"
+      },
+      "developers": [
+        {
+          "name": "insertdisc5",
+          "url": "https://github.com/insertdisc5"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/web-ports-in-stars-and-time/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "web-ports-in-stars-and-time",
+          "title": "IN STARS AND TIME v1.0.6.3",
+          "languages": [
+            "en"
+          ],
+          "nsfw": false
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://store.steampowered.com/app/1677310/In_Stars_And_Time/",
+          "https://www.metacritic.com/game/in-stars-and-time/",
+          "https://opencritic.com/game/15879/in-stars-and-time/reviews",
+          "https://en.wikipedia.org/wiki/In_Stars_and_Time",
+          "https://webrpg.org/web-ports-in-stars-and-time/"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 8,
+      "assessedAt": "2026-11-13",
+      "assessmentSources": [
+        "https://store.steampowered.com/app/1677310/In_Stars_And_Time/",
+        "https://www.metacritic.com/game/in-stars-and-time/",
+        "https://opencritic.com/game/15879/in-stars-and-time/reviews",
+        "https://en.wikipedia.org/wiki/In_Stars_and_Time",
+        "https://webrpg.org/web-ports-in-stars-and-time/"
+      ],
+      "assessmentNote": "Steam app 1677310: 97% positive (Overwhelmingly Positive, ~8,800 reviews); Metacritic 85/100 (7 critics, 100% positive; user 8.1/10); OpenCritic 80% of critics recommend; Noisy Pixel 100, Nintendo Life 8/10, RPGFan 80/100, TechRadar 4/5, Siliconera 8/10, NWR 7/10; IGF 2024 two Honorable Mentions; Wikipedia article, vinyl OST, Limited Run physical Switch edition; rating 9, popularity 8. Game data 217 maps / 2458 events / 17823 dialogue lines in the linked web-ports fork. 'naked'/'adult' keyword hits in map data were located in the original text: 'adult' is ordinary dialogue ('What kind of adult doesn't know about familytales', 'strange adult with a hat'), 'naked' is a single joke line ('sketches of naked people doing fun things'); ESRB Teen, no sexual content, nsfw false. The Donais04 fork is an Archipelago randomizer mod (README: import the .apworld via the Archipelago launcher), not a standalone game, and is not linked as an instance. No official Chinese/Japanese title exists (title stays English in Japan; interface en + ja only), so translatedTitles are left blank, not invented.",
+      "rating": 9,
+      "release": {
+        "date": "2023-11-20",
+        "originalPlatforms": [
+          "Windows",
+          "Nintendo Switch",
+          "PlayStation 4",
+          "PlayStation 5"
+        ]
+      },
+      "publishers": [
+        {
+          "name": "Armor Games Studios"
+        }
+      ],
+      "introductions": {
+        "zh-Hans": {
+          "summary": "时间循环叙事 RPG：主角 Siffrin 与伙伴们困在 Vaugarde 的时间循环中，一次次挑战国王；回合制剪刀石头布战斗与连击系统，约 45 小时流程。2023 年 11 月 20 日发售。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "A time-loop narrative RPG: protagonist Siffrin and friends are trapped in a time loop in Vaugarde, challenging the King again and again — turn-based rock-paper-scissors combat with a jackpot combo system, about 45 hours long. Released 20 November 2023.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "タイムループ・ナラティブRPG。主人公シフリンと仲間たちはヴォーガルドの時間の輪に囚われ、王に何度も挑む。じゃんけん式ターン制バトルとコンボシステム。約45時間。2023年11月20日発売。",
+          "editorialStatus": "draft"
+        }
+      },
+      "externalLinks": [
+        {
+          "url": "https://store.steampowered.com/app/1677310/In_Stars_And_Time/",
+          "type": "store",
+          "label": "Steam"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/In_Stars_and_Time",
+          "type": "wiki",
+          "label": "Wikipedia"
+        },
+        {
+          "url": "https://armor-games-studios.itch.io/in-stars-and-time",
+          "type": "store",
+          "label": "itch.io"
+        }
+      ],
+      "contentAdvisory": {
+        "nsfw": false
+      }
+    },
+    "in-the-hall-of-the-king-kong": {
+      "schemaVersion": 1,
+      "slug": "in-the-hall-of-the-king-kong",
+      "originalTitle": "In the hall of the King Kong",
+      "taxonomy": {
+        "genres": [
+          "rpg"
+        ],
+        "themes": [
+          "comedy"
+        ],
+        "contentType": "full-game"
+      },
+      "developers": [
+        {
+          "name": "PlumeLumyn",
+          "url": "https://github.com/PlumeLumyn"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/PlumeLumyn-In-the-hall-of-the-King-Kong/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "plumelumyn-in-the-hall-of-the-king-kong",
+          "title": "In the hall of the King Kong",
+          "languages": [
+            "fr"
+          ],
+          "nsfw": false
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/PlumeLumyn/In-the-hall-of-the-King-Kong",
+          "https://webrpg.org/PlumeLumyn-In-the-hall-of-the-King-Kong/"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 1,
+      "assessedAt": "2026-11-13",
+      "assessmentSources": [
+        "https://github.com/PlumeLumyn/In-the-hall-of-the-King-Kong",
+        "https://webrpg.org/PlumeLumyn-In-the-hall-of-the-King-Kong/"
+      ],
+      "assessmentNote": "GitHub repo + webrpg mirror only (0 stars; web search finds nothing for this title or author — 'King Kong' and 'Hall of the Mountain King' results are all unrelated); content is plugin-driven: Map001 has 0 events but CommonEvents.json holds 2000 events (151 named, 10445 commands, 577 dialogue lines, 453 with French characters), so the game is substantial despite the single map; language corrected [en, fr] -> [fr] (dialogue verified French, English is only UI words like 'Page 1/2'); zh-Hans/ja titles are literal translations, not official; rating blank; popularity 1.",
+      "translatedTitles": {
+        "zh-Hans": "在金刚王的大厅里",
+        "ja": "キングコングの広間にて"
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "法语恶搞 RPG：标题化用格里格《在山魔王的宫殿里》，任务系统、昼夜交替、快速旅行与 ASMR 地牢一应俱全，2000 个公共事件、577 行法语对白。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "A French parody RPG: the title riffs on Grieg's 'In the Hall of the Mountain King', with a quest system, day/night cycle, fast travel and an ASMR dungeon — 2,000 common events, 577 lines of French dialogue.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "フランス語のパロディRPG。タイトルはグリーグ「山の魔王の宮殿にて」のもじり。クエストシステム・昼夜サイクル・ファストトラベル・ASMRダンジョンを備え、コモンイベント2000個・フランス語の台詞577行。",
+          "editorialStatus": "draft"
+        }
+      },
+      "contentAdvisory": {
+        "nsfw": false
+      }
+    },
+    "initial-fantasy": {
+      "schemaVersion": 1,
+      "slug": "initial-fantasy",
+      "originalTitle": "Initial Fantasy",
+      "taxonomy": {
+        "genres": [
+          "adventure",
+          "puzzle"
+        ],
+        "themes": [],
+        "contentType": "full-game"
+      },
+      "developers": [
+        {
+          "name": "dvancuyk",
+          "url": "https://github.com/dvancuyk"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/dvancuyk-initial-fantasy/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "dvancuyk-initial-fantasy",
+          "title": "Initial Fantasy",
+          "languages": [
+            "en"
+          ],
+          "nsfw": false
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/dvancuyk/initial-fantasy",
+          "https://webrpg.org/dvancuyk-initial-fantasy/"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 1,
+      "assessedAt": "2026-11-13",
+      "assessmentSources": [
+        "https://github.com/dvancuyk/initial-fantasy",
+        "https://webrpg.org/dvancuyk-initial-fantasy/"
+      ],
+      "assessmentNote": "GitHub repo + webrpg mirror only (0 stars; web search finds nothing for this game/author — the TapTap mobile game 最初幻想Initial fantasy by OneGod is a different work, so the literal zh-Hans rendering 最初幻想 is left blank to avoid collision); game data 7 maps / 88 events / 11 dialogue lines / 121 transfers, event commands dominated by conditional branches, variable ops and movement routes (switch puzzles, 'Harold's Bow was found!', position readout), so genres [adventure, puzzle] rather than the old [rpg]; rating blank; popularity 1.",
+      "translatedTitles": {
+        "ja": "イニシャル・ファンタジー"
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "英文开关解谜冒险：穿行失落森林、渔村与石洞，踩开关开路、拾取道具，7 张地图、88 个事件、121 次传送；对白极少，玩法驱动。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "An English switch-puzzle adventure: travel a lost forest, a fishing village and a stone cave, stepping on switches and picking up items — 7 maps, 88 events, 121 transfers; very little dialogue, mechanics-driven.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "英語のスイッチパズル・アドベンチャー。失われた森・漁村・石の洞窟を巡り、スイッチを踏んで道を開き、アイテムを拾う。7マップ・88イベント・121回の転送。台詞は少ないが、仕掛けで遊ぶゲーム。",
+          "editorialStatus": "draft"
+        }
+      },
+      "contentAdvisory": {
+        "nsfw": false
+      }
     }
   }
 }
