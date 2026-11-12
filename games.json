@@ -2823,6 +2823,824 @@
       "contentAdvisory": {
         "nsfw": false
       }
+    },
+    "branded-shadow": {
+      "schemaVersion": 1,
+      "slug": "branded-shadow",
+      "originalTitle": "Branded Shadow",
+      "taxonomy": {
+        "genres": [
+          "rpg"
+        ],
+        "themes": [
+          "survival"
+        ],
+        "contentType": "full-game"
+      },
+      "developers": [
+        {
+          "name": "jhadden25",
+          "url": "https://github.com/jhadden25"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/jhadden25-BrandedShadow/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "jhadden25-brandedshadow",
+          "title": "Branded Shadow",
+          "languages": [
+            "en"
+          ],
+          "nsfw": false
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/jhadden25/BrandedShadow"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 2,
+      "assessedAt": "2026-11-12",
+      "assessmentSources": [
+        "https://github.com/jhadden25/BrandedShadow"
+      ],
+      "assessmentNote": "No README or external trace (0 stars); game data is a single 32x32 map with 14 events and 0 dialogue lines — but the content is gameplay, not story: resource gathering (wood/stone/berries), a crafting menu, tool and weapon upgrades, HUD/inventory/save systems, and a ghost enemy that chases and shoots projectiles; not an empty shell; rating blank; popularity 2.",
+      "translatedTitles": {
+        "zh-Hans": "烙印之影",
+        "ja": "ブランデッド・シャドウ"
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "单图生存/采集/制作沙盒：砍树、挖矿、采浆果，制作并升级斧、镐、铲、剑、弓、法杖，躲避会追击并发射投射物的幽灵敌人。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "A single-map survival and crafting sandbox: chop wood, mine stone and gather berries, craft and upgrade an axe, pickaxe, shovel, sword, bow and staff, while a ghost enemy chases the player and fires projectiles.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "1マップのサバイバル／採取／クラフトサンドボックス。木を切り、石を掘り、ベリーを集め、斧・つるはし・シャベル・剣・弓・杖を作って強化しながら、追跡して投射物を放つ幽霊の敵をかわす。",
+          "editorialStatus": "draft"
+        }
+      },
+      "externalLinks": [
+        {
+          "type": "source",
+          "url": "https://github.com/jhadden25/BrandedShadow",
+          "label": "GitHub — jhadden25/BrandedShadow"
+        }
+      ],
+      "contentAdvisory": {
+        "nsfw": false
+      }
+    },
+    "semester-survival": {
+      "schemaVersion": 1,
+      "slug": "semester-survival",
+      "originalTitle": "Semester Survival",
+      "taxonomy": {
+        "genres": [
+          "rpg"
+        ],
+        "themes": [
+          "slice-of-life"
+        ],
+        "contentType": "full-game"
+      },
+      "developers": [
+        {
+          "name": "EC-Developer-Hub",
+          "url": "https://github.com/EC-Developer-Hub"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/EC-Developer-Hub-broadwayyyy/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "ec-developer-hub-broadwayyyy",
+          "title": "Semester Survival",
+          "languages": [
+            "en"
+          ],
+          "nsfw": false
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/EC-Developer-Hub/broadwayyyy"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 2,
+      "assessedAt": "2026-11-12",
+      "assessmentSources": [
+        "https://github.com/EC-Developer-Hub/broadwayyyy"
+      ],
+      "assessmentNote": "No README or external trace (0 stars); game data 12 campus maps / 270 events / 286 English dialogue lines (Electronics and Communication Department, JEE jokes); System.json gameTitle is empty, so the title 'Semester Survival' is taken from the v1.1 meta title field (title-screen reading); not to be confused with the unrelated HTML5 runner of the same name on 4weird.com; rating blank; popularity 2.",
+      "translatedTitles": {
+        "zh-Hans": "学期求生",
+        "ja": "セメスター・サバイバル"
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "印度工程学院校园生存 RPG：在讲堂、高年级区、行政楼、学生公园之间穿梭，熬过一个个学期，对白里满是 JEE 与化学课的玩笑。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "An Indian engineering-college campus survival RPG: roam lecture halls, the seniors' area, the admin block and the student park to survive semester after semester, with JEE and chemistry-class jokes in the dialogue.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "インドの工科大学キャンパスを舞台にしたサバイバルRPG。講義室や上級生エリア、管理棟、学生公園を巡りながら学期を生き延びる。JEEや化学の授業にまつわるジョークが散りばめられている。",
+          "editorialStatus": "draft"
+        }
+      },
+      "externalLinks": [
+        {
+          "type": "source",
+          "url": "https://github.com/EC-Developer-Hub/broadwayyyy",
+          "label": "GitHub — EC-Developer-Hub/broadwayyyy"
+        }
+      ],
+      "contentAdvisory": {
+        "nsfw": false
+      }
+    },
+    "brock-wants-to-fight": {
+      "schemaVersion": 1,
+      "slug": "brock-wants-to-fight",
+      "originalTitle": "Brock Wants to Fight",
+      "taxonomy": {
+        "genres": [
+          "rpg"
+        ],
+        "themes": [
+          "comedy"
+        ],
+        "contentType": "full-game"
+      },
+      "developers": [
+        {
+          "name": "frogfrogforg",
+          "url": "https://github.com/frogfrogforg"
+        }
+      ],
+      "media": {
+        "cover": null
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "frogfrogforg-c0llage",
+          "title": "Brock Wants to Fight",
+          "languages": [
+            "en"
+          ],
+          "nsfw": false
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/frogfrogforg/c0llage",
+          "https://bulbapedia.bulbagarden.net/wiki/Pok%C3%A9mon_Red_and_Green_beta"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 2,
+      "assessedAt": "2026-11-12",
+      "assessmentSources": [
+        "https://github.com/frogfrogforg/c0llage",
+        "https://bulbapedia.bulbagarden.net/wiki/Pok%C3%A9mon_Red_and_Green_beta"
+      ],
+      "assessmentNote": "No external trace of the game itself (the repo frogfrogforg/c0llage has 4 stars but is the author's personal site repo, so the stars are not all for this game); game data 11 maps (gym, town1-6, room, house) / 37 events / 30 dialogue lines — thin but a real structured game; the title references the Pokemon Red/Blue manual line 'The BROCK wants to fight!'; no cover in list.json; rating blank; popularity 2.",
+      "translatedTitles": {
+        "zh-Hans": "小刚想打架",
+        "ja": "タケシは戦いたい"
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "宝可梦致敬小品 RPG：道馆与城镇之间的小型冒险，标题化用红蓝版说明书名句“The BROCK wants to fight!”。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "A small Pokemon-inspired RPG: a short adventure across gyms and towns, its title riffing on the Red/Blue manual line 'The BROCK wants to fight!'.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "ポケモンへのオマージュの小品RPG。ジムと町を巡る短い冒険で、タイトルは『赤・緑』説明書の名文句「The BROCK wants to fight!」をもじったもの。",
+          "editorialStatus": "draft"
+        }
+      },
+      "externalLinks": [
+        {
+          "type": "source",
+          "url": "https://github.com/frogfrogforg/c0llage",
+          "label": "GitHub — frogfrogforg/c0llage"
+        }
+      ],
+      "contentAdvisory": {
+        "nsfw": false
+      }
+    },
+    "bromden-of-the-ward": {
+      "schemaVersion": 1,
+      "slug": "bromden-of-the-ward",
+      "originalTitle": "Bromden of the Ward",
+      "taxonomy": {
+        "genres": [
+          "rpg"
+        ],
+        "themes": [
+          "horror",
+          "drama"
+        ],
+        "contentType": "full-game"
+      },
+      "developers": [
+        {
+          "name": "Danh295",
+          "url": "https://github.com/Danh295"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/Danh295-Bromden-of-The-Ward/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "danh295-bromden-of-the-ward",
+          "title": "Bromden of the Ward",
+          "languages": [
+            "en"
+          ],
+          "nsfw": false
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/Danh295/Bromden-of-The-Ward"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 2,
+      "assessedAt": "2026-11-12",
+      "assessmentSources": [
+        "https://github.com/Danh295/Bromden-of-The-Ward"
+      ],
+      "assessmentNote": "README: 'An RPG Maker MZ game based on the famous novel One Flew Over the Cuckoo's Nest by Ken Kesey'; game data 8 maps (Ward, Hallucination, Distressed, Bromden's Cell, Ending1/Ending2) / 101 events / 324 dialogue lines quoting the novel ('That damned Ratched...', 'He who marches out of step hears of another drum'); 1 star, no reviews or external trace of the game itself; rating blank; popularity 2.",
+      "translatedTitles": {
+        "zh-Hans": "病房里的布罗姆登",
+        "ja": "病棟のブロムデン"
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "改编自肯·克西《飞越疯人院》的 RPG Maker MZ 游戏：以布罗姆登的视角经历病房生活——小组会议、幻觉、钓鱼旅行与逃离，双结局。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "An RPG Maker MZ game based on Ken Kesey's One Flew Over the Cuckoo's Nest: experience ward life through Chief Bromden — group meetings, hallucinations, a fishing trip and the escape — with two endings.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "ケン・キージーの『カッコーの巣の上で』を原作としたRPGツクールMZゲーム。ブロムデンの視点で病棟の日々を体験する——グループミーティング、幻覚、釣り旅行、そして脱出。2つのエンディングがある。",
+          "editorialStatus": "draft"
+        }
+      },
+      "externalLinks": [
+        {
+          "type": "source",
+          "url": "https://github.com/Danh295/Bromden-of-The-Ward",
+          "label": "GitHub — Danh295/Bromden-of-The-Ward"
+        }
+      ],
+      "contentAdvisory": {
+        "nsfw": false
+      }
+    },
+    "btob": {
+      "schemaVersion": 1,
+      "slug": "btob",
+      "originalTitle": "BTOB",
+      "taxonomy": {
+        "genres": [
+          "simulation"
+        ],
+        "themes": [
+          "slice-of-life"
+        ],
+        "contentType": "full-game"
+      },
+      "developers": [
+        {
+          "name": "Bundtologist",
+          "url": "https://github.com/Bundtologist"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/Bundtologist-rpgmaker/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "bundtologist-rpgmaker",
+          "title": "BTOB",
+          "languages": [
+            "en"
+          ],
+          "nsfw": false
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/Bundtologist/rpgmaker"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 2,
+      "assessedAt": "2026-11-12",
+      "assessmentSources": [
+        "https://github.com/Bundtologist/rpgmaker"
+      ],
+      "assessmentNote": "No README or external trace (0 stars); game data 3 maps (Farm, House 2) / 18 events / 87 dialogue lines; switches show the farming loop (Activate Plot 1-5, Wood/Stone Respawn, Water Gathered Today); 'BTOB' expansion unknown, translatedTitles left blank; rating blank; popularity 2.",
+      "introductions": {
+        "zh-Hans": {
+          "summary": "小型种田游戏：在农场开垦地块、采集木材石料、浇水种地，管理可再生的资源点。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "A small farming game: work farm plots, gather wood and stone, water crops and manage respawning resource nodes.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "小さな農業ゲーム。畑の区画を耕し、木材や石材を集め、水やりをしながら再生する資源ポイントを管理する。",
+          "editorialStatus": "draft"
+        }
+      },
+      "externalLinks": [
+        {
+          "type": "source",
+          "url": "https://github.com/Bundtologist/rpgmaker",
+          "label": "GitHub — Bundtologist/rpgmaker"
+        }
+      ],
+      "contentAdvisory": {
+        "nsfw": false
+      }
+    },
+    "bunny-and-space-dungeons": {
+      "schemaVersion": 1,
+      "slug": "bunny-and-space-dungeons",
+      "originalTitle": "Bunny and space dungeons",
+      "taxonomy": {
+        "genres": [
+          "rpg"
+        ],
+        "themes": [
+          "sci-fi"
+        ],
+        "contentType": "full-game"
+      },
+      "developers": [
+        {
+          "name": "Choyoru",
+          "url": "https://github.com/Choyoru"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/Choyoru-Bunny-and-space-dungeons/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "choyoru-bunny-and-space-dungeons",
+          "title": "Bunny and space dungeons",
+          "languages": [
+            "en"
+          ],
+          "nsfw": true
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/Choyoru/Bunny-and-space-dungeons",
+          "https://choyoruluna.itch.io/luna-and-the-space-prison",
+          "https://choyoruluna.itch.io/luna-and-the-space-prison/comments"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 3,
+      "assessedAt": "2026-11-12",
+      "assessmentSources": [
+        "https://github.com/Choyoru/Bunny-and-space-dungeons",
+        "https://choyoruluna.itch.io/luna-and-the-space-prison",
+        "https://choyoruluna.itch.io/luna-and-the-space-prison/comments"
+      ],
+      "assessmentNote": "Same game as itch.io 'Luna and the Space Prison' by Choyoruluna (same author, protagonist Luna, space dungeons, outfit changes, mini-dungeons, bad endings); NSFW true: itch v0.17 patch notes add a 'New h-scene', comments document a Horny Gauge, a pregnancy mechanic (F95Zone pregnancy tag), a bondage-robot hidden ending and a tentacle enemy — overturns the old meta's nsfw false; repo snapshot itself shows no explicit keywords (French map names and fr_FR locale are editor labels; dialogue is English); the 4.3/42 itch rating is for the sequel Spy Bunny Luna, so rating stays blank; popularity 3 for the itch page, Patreon, F95Zone presence and an existing sequel.",
+      "translatedTitles": {
+        "zh-Hans": "兔子与太空地牢",
+        "ja": "バニー・アンド・スペース・ダンジョンズ"
+      },
+      "aliases": {
+        "en": [
+          "Luna and the Space Prison"
+        ]
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "太空特工露娜的地牢 RPG：探索森林与机甲星球的地牢、更换服装、完成区域任务；在 itch.io 以《Luna and the Space Prison》之名发售，含成人内容。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "A space-agent Luna dungeon RPG: explore forest and mecha-planet dungeons, change outfits and clear zones; published on itch.io as Luna and the Space Prison and containing adult content.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "宇宙エージェントのルナが主人公のダンジョンRPG。森林やメカ惑星のダンジョンを探索し、衣装を変えながらゾーンを攻略する。itch.ioでは『Luna and the Space Prison』として配信されており、アダルト要素を含む。",
+          "editorialStatus": "draft"
+        }
+      },
+      "externalLinks": [
+        {
+          "type": "source",
+          "url": "https://github.com/Choyoru/Bunny-and-space-dungeons",
+          "label": "GitHub — Choyoru/Bunny-and-space-dungeons"
+        },
+        {
+          "type": "store",
+          "url": "https://choyoruluna.itch.io/luna-and-the-space-prison",
+          "label": "itch.io — Luna and the Space Prison"
+        }
+      ],
+      "contentAdvisory": {
+        "nsfw": true
+      }
+    },
+    "bye-bye-jhonny": {
+      "schemaVersion": 1,
+      "slug": "bye-bye-jhonny",
+      "originalTitle": "Bye Bye Jhonny",
+      "taxonomy": {
+        "genres": [
+          "visual-novel"
+        ],
+        "themes": [
+          "drama"
+        ],
+        "contentType": "full-game"
+      },
+      "developers": [
+        {
+          "name": "edneyreis999",
+          "url": "https://github.com/edneyreis999"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/edneyreis999-Jonny/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "edneyreis999-jonny",
+          "title": "Bye Bye Jhonny",
+          "languages": [
+            "en",
+            "pt"
+          ],
+          "nsfw": false
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/edneyreis999/Jonny"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 2,
+      "assessedAt": "2026-11-12",
+      "assessmentSources": [
+        "https://github.com/edneyreis999/Jonny"
+      ],
+      "assessmentNote": "README: RPG Maker MZ game for the Summer Tavern Games (Tavern Jam); game data 26 maps / 33 events / 1160 dialogue lines via a \\tl{} translation-key system (English key slugs, Portuguese README); maps show the racing/visual-novel structure (Prologo, Estrada_VN1-3, Formatura_True/False, Batida, Cena-Vitoria/Derrota); the depression-and-loss content warning is a theme warning, not sexual content, so nsfw stays false; 0 stars, no external trace; rating blank; popularity 2.",
+      "translatedTitles": {
+        "zh-Hans": "再见，约翰尼",
+        "ja": "バイ・バイ・ジョニー"
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "葡萄牙语视觉小说 + 赛车游戏：乔尼的毕业、赛车、撞车与失去的故事，多结局（毕业真/假、破坏、胜利/失败），开场即有抑郁与失落主题的内容警告。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "A Portuguese visual novel and racing game: Jonny's story of graduation, racing, crashes and loss, with multiple endings (true/false graduation, sabotage, victory/defeat) and an opening content warning for depression and loss.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "ポルトガル語のビジュアルノベル＋レースゲーム。ジョニーの卒業、レース、事故、そして喪失の物語。複数のエンディング（卒業の真／偽、妨害、勝利／敗北）があり、冒頭にうつ病と喪失をテーマとする内容警告がある。",
+          "editorialStatus": "draft"
+        }
+      },
+      "externalLinks": [
+        {
+          "type": "source",
+          "url": "https://github.com/edneyreis999/Jonny",
+          "label": "GitHub — edneyreis999/Jonny"
+        }
+      ],
+      "contentAdvisory": {
+        "nsfw": false
+      }
+    },
+    "call-of-jury-o-caso-do-cabo-de-boa-ventura": {
+      "schemaVersion": 1,
+      "slug": "call-of-jury-o-caso-do-cabo-de-boa-ventura",
+      "originalTitle": "Call of Jury: O caso do cabo de boa ventura",
+      "taxonomy": {
+        "genres": [
+          "adventure"
+        ],
+        "themes": [
+          "drama"
+        ],
+        "contentType": "full-game"
+      },
+      "developers": [
+        {
+          "name": "WinterDP",
+          "url": "https://github.com/WinterDP"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/WinterDP-ProjectElfAttorney/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "winterdp-projectelfattorney",
+          "title": "Call of Jury: O caso do cabo de boa ventura",
+          "languages": [
+            "pt"
+          ],
+          "nsfw": false
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/WinterDP/ProjectElfAttorney"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 2,
+      "assessedAt": "2026-11-12",
+      "assessmentSources": [
+        "https://github.com/WinterDP/ProjectElfAttorney"
+      ],
+      "assessmentNote": "README: 'projeto para a game jam devU de rpg maker'; game data 18 maps (Tribunal, Cidade, Prefeitura, Taverna, Torre do mago, Tribunal_dia_de_julgamento, Tela_Vitoria/Derrota) / 322 events / 1252 Portuguese dialogue lines; 0 stars, no external trace; rating blank; popularity 2.",
+      "translatedTitles": {
+        "zh-Hans": "陪审团的召唤：博阿文图拉角一案",
+        "en": "Call of Jury: The Case of Cape Boa Ventura",
+        "ja": "コール・オブ・ジュリー：ボア・ヴェントゥーラ岬の事件"
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "葡萄牙语法庭冒险：公会调查员为贝乌多的案件辩护，在市政厅、酒馆与法师塔之间取证，审判日定胜负。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "A Portuguese courtroom adventure: a guild investigator defends Beudo's case, gathering evidence across city hall, the tavern and the mage tower, with the trial day deciding victory or defeat.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "ポルトガル語の法廷アドベンチャー。ギルドの調査員がベウドの事件を弁護し、市庁舎や酒場、魔術師の塔で証拠を集め、裁判の日に勝敗が決まる。",
+          "editorialStatus": "draft"
+        }
+      },
+      "externalLinks": [
+        {
+          "type": "source",
+          "url": "https://github.com/WinterDP/ProjectElfAttorney",
+          "label": "GitHub — WinterDP/ProjectElfAttorney"
+        }
+      ],
+      "contentAdvisory": {
+        "nsfw": false
+      }
+    },
+    "calulaty": {
+      "schemaVersion": 1,
+      "slug": "calulaty",
+      "originalTitle": "Calulaty",
+      "taxonomy": {
+        "genres": [
+          "rpg"
+        ],
+        "themes": [
+          "educational",
+          "slice-of-life"
+        ],
+        "contentType": "full-game"
+      },
+      "developers": [
+        {
+          "name": "Mik-kaewwichian",
+          "url": "https://github.com/Mik-kaewwichian"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/Mik-kaewwichian-RPG_Game_mv_maker/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "mik-kaewwichian-rpg-game-mv-maker",
+          "title": "Calulaty",
+          "languages": [
+            "th",
+            "en"
+          ],
+          "nsfw": false
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/Mik-kaewwichian/RPG_Game_mv_maker"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 2,
+      "assessedAt": "2026-11-12",
+      "assessmentSources": [
+        "https://github.com/Mik-kaewwichian/RPG_Game_mv_maker"
+      ],
+      "assessmentNote": "No README or external trace (0 stars); game data 32 maps / 185 events / 247 dialogue lines; dialogue sampled is mostly Thai (Toy the vocational student, classroom Queue lessons: 'ผมจะสอนพวกคุณในเรื่องของQueue'), so languages are corrected from the old meta's [en] to [th, en]; the game lives under Game_finish_canplay/Calulaty/; rating blank; popularity 2.",
+      "translatedTitles": {
+        "zh-Hans": "卡卢拉蒂",
+        "ja": "カルラティ"
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "泰国教育 RPG：职校生 Toy 临近毕业，为喜欢的人努力提升自己，穿插数据结构课堂问答（队列、入队）与节日场景，多结局。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "A Thai educational RPG: Toy, a vocational student about to graduate, works on self-improvement to win over the girl he likes, with data-structure classroom quizzes (queues, enqueue) and festival scenes woven in, and multiple endings.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "タイの教育RPG。卒業を控えた職業学校の生徒トイが、好きな人のために自分を磨こうと奮闘する。データ構造の授業クイズ（キュー、エンキュー）や祭りの場面が織り込まれ、マルチエンディング。",
+          "editorialStatus": "draft"
+        }
+      },
+      "externalLinks": [
+        {
+          "type": "source",
+          "url": "https://github.com/Mik-kaewwichian/RPG_Game_mv_maker",
+          "label": "GitHub — Mik-kaewwichian/RPG_Game_mv_maker"
+        }
+      ],
+      "contentAdvisory": {
+        "nsfw": false
+      }
+    },
+    "campus-simulation": {
+      "schemaVersion": 1,
+      "slug": "campus-simulation",
+      "originalTitle": "Campus Simulation",
+      "taxonomy": {
+        "genres": [
+          "simulation"
+        ],
+        "themes": [
+          "slice-of-life"
+        ],
+        "contentType": "full-game"
+      },
+      "developers": [
+        {
+          "name": "JosephBH0622",
+          "url": "https://github.com/JosephBH0622"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/JosephBH0622-SimulatedCampus/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "josephbh0622-simulatedcampus",
+          "title": "Campus Simulation",
+          "languages": [
+            "zh-Hans",
+            "en"
+          ],
+          "nsfw": false
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/JosephBH0622/SimulatedCampus"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 2,
+      "assessedAt": "2026-11-12",
+      "assessmentSources": [
+        "https://github.com/JosephBH0622/SimulatedCampus"
+      ],
+      "assessmentNote": "No README or external trace (0 stars); repo description 'Dev-version of Simulated Campus'; game data 9 maps (campus, dorm, infirmary, dream high school) / 55 events / 24 transfers / 0 code-401 dialogue lines because dialogue runs through AI plugin commands (ShowInputWindow + ClearAIHistory) — a real AI-NPC campus sim, not an empty shell; the 'FuckShow' switch name is profanity, not sexual content, so nsfw stays false; rating blank; popularity 2.",
+      "translatedTitles": {
+        "zh-Hans": "校园模拟",
+        "ja": "キャンパス・シミュレーション"
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "中文 AI 驱动校园模拟：在校园、宿舍、校医院与梦境高中场景中穿梭，NPC 通过 AI 输入窗与玩家对话，含计时与 NPC 移动系统。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "A Chinese AI-driven campus simulation: roam campus, dorm, infirmary and dream-high-school maps while NPCs talk to the player through an AI input window, with timer and NPC movement systems.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "中国語のAI駆動キャンパスシミュレーション。キャンパスや寮、校内病院、夢の中の高校を巡りながら、NPCがAI入力ウィンドウを通じてプレイヤーと会話する。タイマーとNPC移動システムを備える。",
+          "editorialStatus": "draft"
+        }
+      },
+      "externalLinks": [
+        {
+          "type": "source",
+          "url": "https://github.com/JosephBH0622/SimulatedCampus",
+          "label": "GitHub — JosephBH0622/SimulatedCampus"
+        }
+      ],
+      "contentAdvisory": {
+        "nsfw": false
+      }
     }
   }
 }

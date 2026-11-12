@@ -8138,17 +8138,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/jhadden25-BrandedShadow/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg"
-      ],
-      "languages": [
-        "en"
-      ],
-      "nsfw": false,
+      "gameSlug": "branded-shadow",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "reviewedAt": "2026-11-07",
+      "nsfw": false,
+      "reviewedSourceHeadSha": "176e9b50908d07f75f97e85cd9f2a958c48019a4"
     }
   },
   {
@@ -8202,19 +8196,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/EC-Developer-Hub-broadwayyyy/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg",
-        "slice-of-life"
-      ],
-      "languages": [
-        "en"
-      ],
-      "nsfw": false,
+      "gameSlug": "semester-survival",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
       "reviewedAt": "2026-11-07",
-      "title": "SEMESTER SURVIVAL"
+      "nsfw": false,
+      "reviewedSourceHeadSha": "658992813a71ca315a55ee3a95eda47d66f36f67"
     }
   },
   {
@@ -8242,18 +8228,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/frogfrogforg-c0llage/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg",
-        "comedy"
-      ],
-      "languages": [
-        "en"
-      ],
-      "nsfw": false,
+      "gameSlug": "brock-wants-to-fight",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "reviewedAt": "2026-11-07",
+      "nsfw": false,
+      "reviewedSourceHeadSha": "dc51a236f79a7c66846ced6c0385b4f4f2bad924"
     }
   },
   {
@@ -8322,19 +8301,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/Danh295-Bromden-of-The-Ward/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg",
-        "horror",
-        "drama"
-      ],
-      "languages": [
-        "en"
-      ],
-      "nsfw": false,
+      "gameSlug": "bromden-of-the-ward",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "reviewedAt": "2026-11-07",
+      "nsfw": false,
+      "reviewedSourceHeadSha": "f6587ffdb401f34836ba265705c9a13d9fe5832a"
     }
   },
   {
@@ -8364,17 +8335,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/Bundtologist-rpgmaker/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg"
-      ],
-      "languages": [
-        "en"
-      ],
-      "nsfw": false,
+      "gameSlug": "btob",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "reviewedAt": "2026-11-07",
+      "nsfw": false,
+      "reviewedSourceHeadSha": "f3498c09fc9a9698689a63594d48017382140895"
     }
   },
   {
@@ -8443,18 +8408,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/Choyoru-Bunny-and-space-dungeons/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg",
-        "sci-fi"
-      ],
-      "languages": [
-        "en"
-      ],
-      "nsfw": false,
+      "gameSlug": "bunny-and-space-dungeons",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "reviewedAt": "2026-11-07",
+      "nsfw": true,
+      "reviewedSourceHeadSha": "5e69dbc3696476be77ff2a021cd052f23c3c259c"
     }
   },
   {
@@ -8484,19 +8442,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/edneyreis999-Jonny/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "visual-novel",
-        "drama"
-      ],
-      "languages": [
-        "en",
-        "pt"
-      ],
-      "nsfw": false,
+      "gameSlug": "bye-bye-jhonny",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "reviewedAt": "2026-11-07",
+      "nsfw": false,
+      "reviewedSourceHeadSha": "b0ff70594615cd9311e0bc7d0433bfa650a4bcde"
     }
   },
   {
@@ -8526,18 +8476,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/WinterDP-ProjectElfAttorney/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "adventure",
-        "drama"
-      ],
-      "languages": [
-        "pt"
-      ],
-      "nsfw": false,
+      "gameSlug": "call-of-jury-o-caso-do-cabo-de-boa-ventura",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "reviewedAt": "2026-11-07",
+      "nsfw": false,
+      "reviewedSourceHeadSha": "097af180c46f52a8f7037a1483e8df350ee46eec"
     }
   },
   {
@@ -8567,17 +8510,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/Mik-kaewwichian-RPG_Game_mv_maker/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg"
-      ],
-      "languages": [
-        "en"
-      ],
-      "nsfw": false,
+      "gameSlug": "calulaty",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "reviewedAt": "2026-11-07",
+      "nsfw": false,
+      "reviewedSourceHeadSha": "801faa9b51641b481d562f51d7f0fec3c6775047"
     }
   },
   {
@@ -8607,19 +8544,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/JosephBH0622-SimulatedCampus/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "simulation",
-        "slice-of-life"
-      ],
-      "languages": [
-        "zh-Hans",
-        "en"
-      ],
-      "nsfw": false,
+      "gameSlug": "campus-simulation",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "reviewedAt": "2026-11-07",
+      "nsfw": false,
+      "reviewedSourceHeadSha": "8ba5aae683eff3ad5d34479a81d5394f4c0b6374"
     }
   },
   {
