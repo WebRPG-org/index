@@ -37393,7 +37393,21 @@
     "sourceHeadSha": "94bec6713df89bc65deeb5b7c5565053c8f81f79",
     "processedHeadSha": "7eadf48388dce5867b06dda8abaed9f3ca2735f8",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/PlumeLumyn-You-gonna-have-a-Genophobia/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/PlumeLumyn-You-gonna-have-a-Genophobia/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "minigame"
+      ],
+      "languages": [
+        "en",
+        "fr"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-12"
+    }
   },
   {
     "id": "frogteapot-your-turn-to-die",
@@ -37500,7 +37514,21 @@
     "sourceRepo": "Thermaplates/Yure_Party",
     "sourceDefaultBranch": "main",
     "sourceHeadSha": "bba22cb2da48ae6ed4495f34a2c186edea25d3fa",
-    "processedHeadSha": "455e46508c99a95bfefb337f01841273c0580ff1"
+    "processedHeadSha": "455e46508c99a95bfefb337f01841273c0580ff1",
+    "meta": {
+      "genres": [
+        "rpg",
+        "mystery"
+      ],
+      "languages": [
+        "en"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-12"
+    }
   },
   {
     "id": "luisaugusto2005-cheeesss",
@@ -37525,7 +37553,21 @@
     "sourceHeadSha": "c876572714a0382dd7a10b61acd5e016e148c3ab",
     "processedHeadSha": "c8596b1f844d8343b596f361685ebe47cb54af3e",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/LuisAugusto2005-Cheeesss/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/LuisAugusto2005-Cheeesss/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "strategy"
+      ],
+      "languages": [
+        "pt",
+        "en"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-12"
+    }
   },
   {
     "id": "wildcodeschool-2022-03-js-laloupe-quadri-force-p2",
@@ -37552,7 +37594,22 @@
     "sourceHeadSha": "11d24e100d5325edeeda6b203c6be20d4b67e6b0",
     "processedHeadSha": "7a4192a66e0244c1f79903cb1c814ba3cf9a10e5",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/WildCodeSchool-2022-03-js-laloupe-quadri-force-p2/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/WildCodeSchool-2022-03-js-laloupe-quadri-force-p2/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "adventure",
+        "fantasy"
+      ],
+      "languages": [
+        "en",
+        "fr"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-12"
+    }
   },
   {
     "id": "andredarcie-zero-to-one",
@@ -37579,7 +37636,21 @@
     "processedHeadSha": "bea4f538e527e887290a2f3b36bf763661e32cc9",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/andredarcie-zero-to-one/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/andredarcie-zero-to-one/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "adventure"
+      ],
+      "languages": [
+        "en",
+        "pt"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-12"
+    }
   },
   {
     "id": "wolverinexxxxxz-sat-muhammed-ali-ture",
@@ -37606,7 +37677,21 @@
     "processedHeadSha": "58f958724fa94c0159684526177fc8c42e150fa6",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/Wolverinexxxxxz-Sat-Muhammed-Ali-Ture/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/Wolverinexxxxxz-Sat-Muhammed-Ali-Ture/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg",
+        "fantasy"
+      ],
+      "languages": [
+        "tr"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-12"
+    }
   },
   {
     "id": "tripletri-wizardgame",
@@ -37633,7 +37718,21 @@
     "sourceHeadSha": "534079166344ad3cd02ddfeb69f3c7dca03698cd",
     "processedHeadSha": "d1155fb721ba3ca388f12dd6c7320adff30f9f25",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/Tripletri-WizardGame/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/Tripletri-WizardGame/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "puzzle",
+        "educational"
+      ],
+      "languages": [
+        "ru"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-12"
+    }
   },
   {
     "id": "dalk12-dd",
@@ -37657,7 +37756,20 @@
     "processedHeadSha": "aa3003c6e28eb83a60e645ca7c9310bc0382b760",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/Dalk12-DD/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/Dalk12-DD/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg"
+      ],
+      "languages": [
+        "ru"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 4,
+      "reviewedAt": "2026-11-12"
+    }
   },
   {
     "id": "icyflamberge-dd",
@@ -37716,7 +37828,20 @@
     "processedHeadSha": "75ac5abc171121c724fce09947b742bb3ad05c81",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/Boris12432-Afera-belika-alfa-1.0/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/Boris12432-Afera-belika-alfa-1.0/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "adventure"
+      ],
+      "languages": [
+        "ru"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-12"
+    }
   },
   {
     "id": "docpainkiller-fargohl",
@@ -37743,7 +37868,21 @@
     "processedHeadSha": "c2184e74ccd7c6546b9a650fab9039def1fce5f8",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/DocPainkiller-FargoHL/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/DocPainkiller-FargoHL/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg",
+        "fantasy"
+      ],
+      "languages": [
+        "ru"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-12"
+    }
   },
   {
     "id": "elghinn2512-cyberschool",
@@ -37891,7 +38030,20 @@
     "processedHeadSha": "2f865d30d7811020e60d410f0dbff3bfbffc9203",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/gorani777-1930/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/gorani777-1930/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg"
+      ],
+      "languages": [
+        "ko"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-12"
+    }
   },
   {
     "id": "servermana-country-life",
@@ -37918,7 +38070,21 @@
     "processedHeadSha": "e404e59783c12e009b027cbbd7fec69b55814cf5",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/ServerMana-Country-Life/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/ServerMana-Country-Life/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "simulation",
+        "slice-of-life"
+      ],
+      "languages": [
+        "ko"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-12"
+    }
   },
   {
     "id": "ciart-knightdream-old",
@@ -37945,7 +38111,20 @@
     "processedHeadSha": "e0865b3f593b68d46afa9f696476203b0656bddc",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/Ciart-KnightDream-Old/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/Ciart-KnightDream-Old/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg"
+      ],
+      "languages": [
+        "ko"
+      ],
+      "nsfw": false,
+      "playable": false,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-12"
+    }
   },
   {
     "id": "gyhgwangju-sinacs-rhythmqte",
@@ -37970,7 +38149,20 @@
     "sourceHeadSha": "587441f2a4d67947b49095c9cc12782d9767e610",
     "processedHeadSha": "235f49686d53895d34cf6b4bd2ed6e24e8bafd88",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/GYHGwangju-Sinacs_RhythmQTE/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/GYHGwangju-Sinacs_RhythmQTE/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "minigame"
+      ],
+      "languages": [
+        "ko"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 3,
+      "reviewedAt": "2026-11-12"
+    }
   },
   {
     "id": "llb1026-llb1026-github-io",
@@ -37997,7 +38189,21 @@
     "processedHeadSha": "7b6e75173ea20ba4f160d7b138d3d37d7f98172c",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/llb1026-llb1026.github.io/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/llb1026-llb1026.github.io/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "simulation",
+        "slice-of-life"
+      ],
+      "languages": [
+        "ko"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-12"
+    }
   },
   {
     "id": "painh-sparrow",
@@ -38024,7 +38230,20 @@
     "processedHeadSha": "6dcfd28a22774cfad6419c047ddcce2d4fd6b28a",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/painh-sparrow/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/painh-sparrow/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg"
+      ],
+      "languages": [
+        "ko"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-12"
+    }
   },
   {
     "id": "rpg9979-rpg9979",
@@ -38051,7 +38270,14 @@
     "processedHeadSha": "84d874b883ade93a4d0a17d7c47186a27ba91b81",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/rpg9979-rpg9979/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/rpg9979-rpg9979/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "nsfw": false,
+      "playable": false,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-12"
+    }
   },
   {
     "id": "vehirus-kor-2026-capstone-design",
@@ -38093,7 +38319,23 @@
     "processedHeadSha": "7c367d471a31750102c747ff8030ecd775f8c7fe",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/tomoshibi06-abcv/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/tomoshibi06-abcv/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "rpg",
+        "fantasy"
+      ],
+      "languages": [
+        "ja"
+      ],
+      "nsfw": false,
+      "originalTitle": "アビスケイブ",
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-12",
+      "title": "ABYSS CAVE"
+    }
   },
   {
     "id": "renrender0209-kawaiihakowaseru",
@@ -38117,7 +38359,14 @@
     "processedHeadSha": "62aefe7cb484c862995196029067da5fd1508d6e",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/renrender0209-kawaiihakowaseru/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/renrender0209-kawaiihakowaseru/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "nsfw": false,
+      "playable": false,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-12"
+    }
   },
   {
     "id": "renrender0209-kinokonun",
@@ -38141,7 +38390,20 @@
     "processedHeadSha": "b041d4ecf8b3a27fae4e0023d1aaba82f5a1086f",
     "coverPath": "cover.png",
     "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/renrender0209-kinokonun/ served an RPG Maker entry point and its startup resources"
+    "reachabilityDetail": "https://webrpg.org/renrender0209-kinokonun/ served an RPG Maker entry point and its startup resources",
+    "meta": {
+      "genres": [
+        "adventure"
+      ],
+      "languages": [
+        "ja"
+      ],
+      "nsfw": false,
+      "playable": true,
+      "popularity": 2,
+      "rating": 5,
+      "reviewedAt": "2026-11-12"
+    }
   },
   {
     "id": "waycrosspublicmedia-htmlfiles",
