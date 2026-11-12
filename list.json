@@ -13310,17 +13310,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/SaveSub-FairyMaze_EN/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg"
-      ],
-      "languages": [
-        "en"
-      ],
-      "nsfw": false,
+      "gameSlug": "fairy-maze",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "reviewedAt": "2026-11-07",
+      "nsfw": true,
+      "reviewedSourceHeadSha": "16335e64608c3091f0706776242ac42415b6ad82"
     }
   },
   {
@@ -13350,14 +13344,9 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/tomoshibi06-FairyMaze2/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg"
-      ],
-      "nsfw": false,
       "playable": false,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "reviewedAt": "2026-11-07",
+      "nsfw": true
     }
   },
   {
@@ -13387,18 +13376,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/tomoshibi06-fm2/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg",
-        "fantasy"
-      ],
-      "languages": [
-        "ja"
-      ],
-      "nsfw": false,
+      "gameSlug": "fairy-maze-2",
       "playable": true,
-      "popularity": 3,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "reviewedAt": "2026-11-07",
+      "nsfw": true,
+      "reviewedSourceHeadSha": "9dc159c39aef5df7c9e7f804c8d57c55f3892b3a"
     }
   },
   {
@@ -13463,18 +13445,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/tomoshibi06-FairyMaze3/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg",
-        "fantasy"
-      ],
-      "languages": [
-        "ja"
-      ],
-      "nsfw": false,
+      "gameSlug": "fairy-maze",
       "playable": true,
-      "popularity": 3,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "reviewedAt": "2026-11-07",
+      "nsfw": true,
+      "reviewedSourceHeadSha": "96b5e2c91ce698aeae1763fa469da9512cb752fd"
     }
   },
   {
@@ -13502,18 +13477,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/MdderUofA-Fallen/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg",
-        "fantasy"
-      ],
-      "languages": [
-        "en"
-      ],
-      "nsfw": false,
+      "gameSlug": "fallen",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "reviewedAt": "2026-11-07",
+      "nsfw": false,
+      "reviewedSourceHeadSha": "07812d2403afb5cf0e6473d89d4291924737844f"
     }
   },
   {
@@ -13589,17 +13557,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/Liuyikui-RPGMAKER-FD1.1/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg"
-      ],
-      "languages": [
-        "en"
-      ],
-      "nsfw": false,
+      "gameSlug": "fd",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "reviewedAt": "2026-11-07",
+      "nsfw": false,
+      "reviewedSourceHeadSha": "70262008fed75a27b2ea09e27ecade9fa10f4a19"
     }
   },
   {
@@ -13629,25 +13591,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/apollovy-fear-and-hunger/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "reviewedAt": "2026-11-07",
+      "gameSlug": "fear-and-hunger",
       "playable": true,
-      "rating": 9,
-      "popularity": 9,
-      "originalTitle": "Fear & Hunger",
-      "aliases": [
-        "恐惧与饥饿",
-        "Страх и голод"
-      ],
-      "genres": [
-        "rpg",
-        "horror",
-        "fantasy",
-        "survival"
-      ],
+      "reviewedAt": "2026-11-07",
       "nsfw": true,
-      "languages": [
-        "ru"
-      ]
+      "reviewedSourceHeadSha": "bdaefcb86c312a12056f68bbedf34ac1b34ffb74"
     }
   },
   {
@@ -13674,25 +13622,10 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/iiviigames-fnh-pwa-emtfr-luv.IIVII/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "aliases": [
-        "恐惧与饥饿",
-        "Страх и голод"
-      ],
-      "genres": [
-        "rpg",
-        "horror",
-        "fantasy",
-        "survival"
-      ],
-      "languages": [
-        "en"
-      ],
-      "nsfw": true,
-      "originalTitle": "Fear & Hunger",
+      "gameSlug": "fear-and-hunger",
       "playable": true,
-      "popularity": 9,
-      "rating": 9,
-      "reviewedAt": "2026-11-07"
+      "reviewedAt": "2026-11-07",
+      "nsfw": true
     }
   },
   {
@@ -13758,25 +13691,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/SillyLittleLuaScripter-fear-and-hunger/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "aliases": [
-        "恐惧与饥饿",
-        "Страх и голод"
-      ],
-      "genres": [
-        "rpg",
-        "horror",
-        "fantasy",
-        "survival"
-      ],
-      "languages": [
-        "en"
-      ],
-      "nsfw": true,
-      "originalTitle": "Fear & Hunger",
+      "gameSlug": "fear-and-hunger",
       "playable": true,
-      "popularity": 9,
-      "rating": 9,
-      "reviewedAt": "2026-11-07"
+      "reviewedAt": "2026-11-07",
+      "nsfw": true,
+      "reviewedSourceHeadSha": "6f6df3def65895b9966aef902a3a8cde5d0c7666"
     }
   },
   {
@@ -14138,14 +14057,9 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/Drwhomust-fightinggame/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg"
-      ],
-      "nsfw": false,
-      "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "playable": false,
+      "reviewedAt": "2026-11-07",
+      "nsfw": false
     }
   },
   {
@@ -14199,17 +14113,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/df478-Fire-And-Root/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg"
-      ],
-      "languages": [
-        "es"
-      ],
-      "nsfw": false,
+      "gameSlug": "fire-and-root",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "reviewedAt": "2026-11-07",
+      "nsfw": false,
+      "reviewedSourceHeadSha": "cad2b93d8f9485a229c1293a5e71952646fc27ca"
     }
   },
   {
@@ -14275,17 +14183,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/sity06-for-the-world-updated/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg"
-      ],
-      "languages": [
-        "en"
-      ],
-      "nsfw": false,
+      "gameSlug": "for-the-world",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "reviewedAt": "2026-11-07",
+      "nsfw": false,
+      "reviewedSourceHeadSha": "89112b6fb513b3c82363d19ed86c0d3d2a5db4f2"
     }
   },
   {
@@ -14315,17 +14217,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/manndevani-Forgotten-Weekend-DEV/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg"
-      ],
-      "languages": [
-        "en"
-      ],
-      "nsfw": false,
+      "gameSlug": "forgotten-weekend",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "reviewedAt": "2026-11-07",
+      "nsfw": false,
+      "reviewedSourceHeadSha": "675bbef8c9d6fcdce972f14d9237d527cf111c29"
     }
   },
   {

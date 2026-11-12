@@ -8912,6 +8912,803 @@
       "contentAdvisory": {
         "nsfw": false
       }
+    },
+    "fairy-maze": {
+      "schemaVersion": 1,
+      "slug": "fairy-maze",
+      "originalTitle": "Fairy Maze",
+      "taxonomy": {
+        "genres": [
+          "rpg"
+        ],
+        "themes": [
+          "fantasy"
+        ],
+        "contentType": "full-game"
+      },
+      "developers": [
+        {
+          "name": "tomoshibi06",
+          "url": "https://github.com/tomoshibi06"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/SaveSub-FairyMaze_EN/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "savesub-fairymaze-en",
+          "title": "Fairy Maze",
+          "languages": [
+            "en"
+          ],
+          "nsfw": true,
+          "notes": "English fan translation (SaveSub); expanded version, 108 maps"
+        },
+        {
+          "type": "internal",
+          "id": "tomoshibi06-fairymaze3",
+          "title": "Fairy Maze ブラウザ版",
+          "languages": [
+            "ja"
+          ],
+          "nsfw": true,
+          "notes": "Japanese original, browser version"
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/tomoshibi06/FairyMaze2",
+          "https://github.com/tomoshibi06/FairyMaze3",
+          "https://github.com/SaveSub/FairyMaze_EN",
+          "https://webrpg.org/SaveSub-FairyMaze_EN/",
+          "https://webrpg.org/tomoshibi06-FairyMaze3/"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 2,
+      "assessedAt": "2026-11-13",
+      "assessmentSources": [
+        "https://github.com/tomoshibi06/FairyMaze2",
+        "https://github.com/tomoshibi06/FairyMaze3",
+        "https://github.com/SaveSub/FairyMaze_EN",
+        "https://webrpg.org/SaveSub-FairyMaze_EN/",
+        "https://webrpg.org/tomoshibi06-FairyMaze3/"
+      ],
+      "assessmentNote": "GitHub repos + webrpg mirrors only (no Steam/itch/wiki traces); three forks are one game (JA download and browser versions share identical 66-map lists and switch lists; the EN translation shares the same first 66 maps and adds 42 more, floors 6-7 + ending); game data 66-108 maps / 893-1371 events / 3484-5786 dialogue lines; nsfw corrected false->true (switches: くすぐり判定, 絶頂, おもらし, おっぱい, 触手, 拘束, 回想戦闘); translated titles are non-official; rating blank; popularity 2 (fan English translation + download/browser dual distribution = some spread, but no store or press traces).",
+      "relations": [
+        {
+          "gameId": "fairy-maze-2",
+          "type": "sequel"
+        }
+      ],
+      "translatedTitles": {
+        "zh-Hans": "仙女迷宫",
+        "ja": "フェアリーメイズ"
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "日式挠痒恋物迷宫 RPG：玩家深入妖精迷宫，在洞窟、洋館、砂漠、天空与梦之世界等多层迷宫中探索，遭遇挠痒、束缚与触手战斗，收集回想场景；英文翻译版为扩展版，新增 6–7 层与结局。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "A Japanese tickle-fetish maze RPG: delve into the fairy maze across multi-floor dungeons — caves, a mansion, a desert, the sky, and dream worlds — facing tickling, restraint, and tentacle battles and collecting recollection scenes; the English translation is an expanded version adding floors 6–7 and an ending.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "日本のくすぐりフェチ迷宮RPG。洞窟、洋館、砂漠、天空、夢の世界など多層の迷宮を探索し、くすぐり、拘束、触手バトルに挑み、回想シーンを集める。英語翻訳版は拡張版で、6～7階とエンディングを追加している。",
+          "editorialStatus": "draft"
+        }
+      },
+      "externalLinks": [
+        {
+          "type": "official",
+          "url": "https://webrpg.org/SaveSub-FairyMaze_EN/",
+          "label": "Play — Fairy Maze, English version (WebRPG)"
+        },
+        {
+          "type": "official",
+          "url": "https://webrpg.org/tomoshibi06-FairyMaze3/",
+          "label": "Play — Fairy Maze ブラウザ版 (WebRPG)"
+        },
+        {
+          "type": "source",
+          "url": "https://github.com/SaveSub/FairyMaze_EN",
+          "label": "GitHub — SaveSub/FairyMaze_EN"
+        },
+        {
+          "type": "source",
+          "url": "https://github.com/tomoshibi06/FairyMaze3",
+          "label": "GitHub — tomoshibi06/FairyMaze3"
+        }
+      ],
+      "contentAdvisory": {
+        "nsfw": true
+      }
+    },
+    "fairy-maze-2": {
+      "schemaVersion": 1,
+      "slug": "fairy-maze-2",
+      "originalTitle": "Fairy Maze 2",
+      "taxonomy": {
+        "genres": [
+          "rpg"
+        ],
+        "themes": [
+          "fantasy"
+        ],
+        "contentType": "full-game"
+      },
+      "developers": [
+        {
+          "name": "tomoshibi06",
+          "url": "https://github.com/tomoshibi06"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/tomoshibi06-fm2/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "tomoshibi06-fm2",
+          "title": "Fairy Maze 2",
+          "languages": [
+            "ja"
+          ],
+          "nsfw": true
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/tomoshibi06/fm2",
+          "https://webrpg.org/tomoshibi06-fm2/"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 1,
+      "assessedAt": "2026-11-13",
+      "assessmentSources": [
+        "https://github.com/tomoshibi06/fm2",
+        "https://webrpg.org/tomoshibi06-fm2/"
+      ],
+      "assessmentNote": "GitHub repo + webrpg mirror only (no Steam/itch/wiki traces); game data 28 maps / 237 events / 330 dialogue lines — short but structurally complete (tutorial, LEVEL1 floors 5/10/15/20, mirror maze, boss battle, EX battle, recollection room, medal room); nsfw corrected false->true (switches: くすぐり攻撃, 失禁エンカウント, 触手, 回想部屋); translated titles are non-official; rating blank; popularity 1.",
+      "relations": [
+        {
+          "gameId": "fairy-maze",
+          "type": "prequel"
+        }
+      ],
+      "translatedTitles": {
+        "zh-Hans": "仙女迷宫2",
+        "ja": "フェアリーメイズ2"
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "《Fairy Maze》的续作：妖精迷宫第二章，玩家从レナ的家出发，经花园区域与镜面迷宫，逐层通过 LEVEL1 的 5/10/15/20 关，挑战 Boss 与 EX 战，在回想房间里重温战斗。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "The sequel to Fairy Maze: a second chapter in the fairy maze, setting out from Lena's house through the garden area and the mirror maze, climbing LEVEL1's floors 5/10/15/20 to a boss battle and an EX battle, with a recollection room to revisit fights.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "『Fairy Maze』の続編。レナの家から花園エリアと鏡の迷路を抜け、LEVEL1 の 5/10/15/20 階を登り、ボス戦と EX 戦に挑む妖精迷宮の第二章。回想部屋で戦いを振り返ることもできる。",
+          "editorialStatus": "draft"
+        }
+      },
+      "externalLinks": [
+        {
+          "type": "official",
+          "url": "https://webrpg.org/tomoshibi06-fm2/",
+          "label": "Play — Fairy Maze 2 (WebRPG)"
+        },
+        {
+          "type": "source",
+          "url": "https://github.com/tomoshibi06/fm2",
+          "label": "GitHub — tomoshibi06/fm2"
+        }
+      ],
+      "contentAdvisory": {
+        "nsfw": true
+      }
+    },
+    "fallen": {
+      "schemaVersion": 1,
+      "slug": "fallen",
+      "originalTitle": "Fallen",
+      "taxonomy": {
+        "genres": [
+          "adventure"
+        ],
+        "themes": [
+          "slice-of-life"
+        ],
+        "contentType": "full-game"
+      },
+      "developers": [
+        {
+          "name": "MdderUofA",
+          "url": "https://github.com/MdderUofA"
+        }
+      ],
+      "media": {
+        "cover": null
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "mdderuofa-fallen",
+          "title": "Fallen",
+          "languages": [
+            "en"
+          ],
+          "nsfw": false
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/MdderUofA/Fallen",
+          "https://webrpg.org/MdderUofA-Fallen/"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 1,
+      "assessedAt": "2026-11-13",
+      "assessmentSources": [
+        "https://github.com/MdderUofA/Fallen",
+        "https://webrpg.org/MdderUofA-Fallen/"
+      ],
+      "assessmentNote": "GitHub repo + webrpg mirror only (README is one line 'CMPUT 250 Game'; no Steam/itch/reviews; must not be confused with the RPG Maker Forums game 'Fallen' about Cedrick the demon wolf, 2014, or Steam's 'Fallen ~Makina and the City of Ruins~'); game data 11 maps / 215 events / 1323 dialogue lines — a complete three-day structure (Day 1/2/3 + innkeeper switches, four minigames with cheat counters, find-the-cat and graffiti side content); cover is null (entry has none); translated titles are non-official; rating blank; popularity 1.",
+      "translatedTitles": {
+        "zh-Hans": "陨落",
+        "ja": "フォールン"
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "阿尔伯塔大学 CMPUT 250 课程作品：三日小镇冒险，玩家在 Havoton 小镇度过三天——与旅店老板、占卜师和镇民交谈，玩绘画、天空、墙与卡牌小游戏，帮人找猫，在涂鸦与流言之间推进剧情。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "A University of Alberta CMPUT 250 course game: a three-day town adventure in Havoton — talk to the innkeeper, the fortune teller, and the townsfolk, play drawing, sky, wall, and card minigames, find a lost cat, and follow graffiti and gossip across three days.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "アルバータ大学 CMPUT 250 の授業作品。Havoton の町で過ごす三日間の冒険。宿屋の主人、占い師、町民と話し、絵画、空、壁、カードのミニゲームで遊び、迷子の猫を探しながら、落書きと噂のなかで物語を進める。",
+          "editorialStatus": "draft"
+        }
+      },
+      "externalLinks": [
+        {
+          "type": "official",
+          "url": "https://webrpg.org/MdderUofA-Fallen/",
+          "label": "Play — Fallen (WebRPG)"
+        },
+        {
+          "type": "source",
+          "url": "https://github.com/MdderUofA/Fallen",
+          "label": "GitHub — MdderUofA/Fallen"
+        }
+      ],
+      "contentAdvisory": {
+        "nsfw": false
+      }
+    },
+    "fd": {
+      "schemaVersion": 1,
+      "slug": "fd",
+      "originalTitle": "FD",
+      "taxonomy": {
+        "genres": [
+          "rpg"
+        ],
+        "themes": [],
+        "contentType": "full-game"
+      },
+      "developers": [
+        {
+          "name": "Liuyikui",
+          "url": "https://github.com/Liuyikui"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/Liuyikui-RPGMAKER-FD1.1/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "liuyikui-rpgmaker-fd1-1",
+          "title": "FD",
+          "languages": [
+            "en"
+          ],
+          "nsfw": false
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/Liuyikui/RPGMAKER-FD1.1",
+          "https://webrpg.org/Liuyikui-RPGMAKER-FD1.1/"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 1,
+      "assessedAt": "2026-11-13",
+      "assessmentSources": [
+        "https://github.com/Liuyikui/RPGMAKER-FD1.1",
+        "https://webrpg.org/Liuyikui-RPGMAKER-FD1.1/"
+      ],
+      "assessmentNote": "GitHub repo + webrpg mirror only (no README, no Steam/itch/reviews); game data 21 maps / 292 events / 171 dialogue lines — town, mansion, Chinese-style city, temple, office building and lab, plus a three-floor trap dungeon (95 trap events on 1f, 62 on 3f) with a boss; dialogue verified English in the indexed build (a Chinese-version toggle exists in the switches but the indexed build speaks English); title is alphanumeric so translatedTitles is blank (B-35 precedent); themes left empty (no verifiable theme label); rating blank; popularity 1.",
+      "introductions": {
+        "zh-Hans": {
+          "summary": "地牢探索 RPG：玩家扮演探险者，穿梭于小镇、宅邸、中国风城市、寺庙与办公楼之间，收集神器碎片；深入三层陷阱地牢，躲开重重机关，击败守卫、挑战 Boss，夺回碎片。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "A dungeon-crawling RPG: play an explorer moving between a town, a mansion, a Chinese-style city, a temple, and an office building while hunting artifact fragments; descend a three-floor trap dungeon, dodge its mechanisms, defeat the guards, and challenge the boss to reclaim the fragments.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "ダンジョン探索RPG。探検家となり、町、邸宅、中国風の都市、寺院、オフィスビルを巡りながらアーティファクトの欠片を集める。三層の罠ダンジョンに挑み、仕掛けをかわして守衛を倒し、ボスに挑んで欠片を取り戻す。",
+          "editorialStatus": "draft"
+        }
+      },
+      "externalLinks": [
+        {
+          "type": "official",
+          "url": "https://webrpg.org/Liuyikui-RPGMAKER-FD1.1/",
+          "label": "Play — FD (WebRPG)"
+        },
+        {
+          "type": "source",
+          "url": "https://github.com/Liuyikui/RPGMAKER-FD1.1",
+          "label": "GitHub — Liuyikui/RPGMAKER-FD1.1"
+        }
+      ],
+      "contentAdvisory": {
+        "nsfw": false
+      }
+    },
+    "fear-and-hunger": {
+      "schemaVersion": 1,
+      "slug": "fear-and-hunger",
+      "originalTitle": "Fear & Hunger",
+      "taxonomy": {
+        "genres": [
+          "rpg"
+        ],
+        "themes": [
+          "horror",
+          "fantasy",
+          "survival"
+        ],
+        "contentType": "full-game"
+      },
+      "developers": [
+        {
+          "name": "Miro Haverinen"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/apollovy-fear-and-hunger/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "apollovy-fear-and-hunger",
+          "title": "Fear & Hunger",
+          "languages": [
+            "ru"
+          ],
+          "nsfw": true
+        },
+        {
+          "type": "internal",
+          "id": "iiviigames-fnh-pwa-emtfr-luv-iivii",
+          "title": "Fear & Hunger",
+          "languages": [
+            "en"
+          ],
+          "nsfw": true
+        },
+        {
+          "type": "internal",
+          "id": "sillylittleluascripter-fear-and-hunger",
+          "title": "Fear & Hunger",
+          "languages": [
+            "en"
+          ],
+          "nsfw": true
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://store.steampowered.com/app/1002300/Fear__Hunger/",
+          "https://en.wikipedia.org/wiki/Fear_and_Hunger",
+          "https://www.rpgfan.com/review/fear-hunger/",
+          "https://steambase.io/games/fear-hunger/reviews",
+          "https://github.com/apollovy/fear-and-hunger",
+          "https://github.com/SillyLittleLuaScripter/fear-and-hunger",
+          "https://webrpg.org/apollovy-fear-and-hunger/"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 9,
+      "assessedAt": "2026-11-13",
+      "assessmentSources": [
+        "https://store.steampowered.com/app/1002300/Fear__Hunger/",
+        "https://en.wikipedia.org/wiki/Fear_and_Hunger",
+        "https://www.rpgfan.com/review/fear-hunger/",
+        "https://steambase.io/games/fear-hunger/reviews",
+        "https://github.com/apollovy/fear-and-hunger",
+        "https://github.com/SillyLittleLuaScripter/fear-and-hunger",
+        "https://webrpg.org/apollovy-fear-and-hunger/"
+      ],
+      "assessmentNote": "Steam 23,064 reviews, 94% positive (Very Positive), Steambase Player Score 94/100 (9.2/10); Wikipedia: generally positive reviews (atmosphere, gameplay, storytelling, difficulty praised; typos, bugs, and handling of sexual violence / drugs / violence towards children criticized); RPGFan review 2026-10-31 ('perhaps the best survival horror RPG to date'); Rock Paper Shotgun ('a brutal horror dungeon crawl'); sequel Termina 15,700 reviews, 97% positive; Fandom wiki; GameFAQs 4.09/5 (50 users); all three forks are the same build (System.json versionId 14145329); game data 169 maps / 27,715 events / ~90k dialogue lines; rating 9 (not 10: typos, bugs, and mature-theme handling); popularity 9 (23k Steam reviews + sequel + dedicated wiki + mainstream press, still niche horror, not breakout 10).",
+      "rating": 9,
+      "release": {
+        "date": "2018-12-11",
+        "originalPlatforms": [
+          "Windows",
+          "macOS",
+          "Linux"
+        ]
+      },
+      "publishers": [
+        {
+          "name": "Happy Paintings"
+        }
+      ],
+      "translatedTitles": {
+        "zh-Hans": "恐惧与饥饿",
+        "ja": "フィアー・アンド・ハンガー"
+      },
+      "aliases": {
+        "ru": [
+          "Страх и голод"
+        ]
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "2018 年生存恐怖地牢 RPG：四名主角（佣兵 Cahara、骑士 D'arce、黑暗祭司 Enki、流浪者 Ragnvaldr）之一深入恐惧与饥饿的地牢，寻找佣兵首领 Le'garde；部位破坏回合制战斗、饥饿与理智系统、掷币存档、多结局，氛围压抑、难度残酷。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "A 2018 survival horror dungeon crawler: play one of four protagonists — the mercenary Cahara, the knight D'arce, the dark priest Enki, or the outlander Ragnvaldr — and delve into the Dungeons of Fear and Hunger to find the mercenary leader Le'garde; limb-targeting turn-based combat, hunger and sanity systems, coin-toss saves, and multiple endings in a relentlessly oppressive dungeon.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "2018年のサバイバルホラー・ダンジョンクローラー。傭兵 Cahara、騎士 D'arce、闇の司祭 Enki、流れ者 Ragnvaldr の4人から1人を選び、恐怖と飢餓のダンジョンに潜り傭兵団長 Le'garde を探す。部位破壊のターン制バトル、飢餓と正気度、コイントスのセーブ、マルチエンディング。容赦ない難易度と重苦しい雰囲気が特徴。",
+          "editorialStatus": "draft"
+        }
+      },
+      "externalLinks": [
+        {
+          "type": "store",
+          "url": "https://store.steampowered.com/app/1002300/Fear__Hunger/",
+          "label": "Fear & Hunger on Steam"
+        },
+        {
+          "type": "wiki",
+          "url": "https://en.wikipedia.org/wiki/Fear_and_Hunger",
+          "label": "Fear & Hunger — Wikipedia"
+        },
+        {
+          "type": "other",
+          "url": "https://www.rpgfan.com/review/fear-hunger/",
+          "label": "Fear & Hunger Review — RPGFan"
+        },
+        {
+          "type": "official",
+          "url": "https://webrpg.org/apollovy-fear-and-hunger/",
+          "label": "Play — Fear & Hunger, Russian version (WebRPG)"
+        },
+        {
+          "type": "source",
+          "url": "https://github.com/apollovy/fear-and-hunger",
+          "label": "GitHub — apollovy/fear-and-hunger"
+        }
+      ],
+      "contentAdvisory": {
+        "nsfw": true,
+        "warnings": [
+          "sexual violence",
+          "graphic gore",
+          "nudity",
+          "child death",
+          "torture"
+        ]
+      }
+    },
+    "fire-and-root": {
+      "schemaVersion": 1,
+      "slug": "fire-and-root",
+      "originalTitle": "Fire and Root",
+      "taxonomy": {
+        "genres": [
+          "rpg"
+        ],
+        "themes": [],
+        "contentType": "full-game"
+      },
+      "developers": [
+        {
+          "name": "df478",
+          "url": "https://github.com/df478"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/df478-Fire-And-Root/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "df478-fire-and-root",
+          "title": "Fire and Root",
+          "languages": [
+            "es"
+          ],
+          "nsfw": false
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/df478/Fire-And-Root",
+          "https://webrpg.org/df478-Fire-And-Root/"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 1,
+      "assessedAt": "2026-11-13",
+      "assessmentSources": [
+        "https://github.com/df478/Fire-And-Root",
+        "https://webrpg.org/df478-Fire-And-Root/"
+      ],
+      "assessmentNote": "GitHub repo + webrpg mirror only (README is one line, no Steam/itch/reviews; must not be confused with Steam's 'Project Fire'); game data 4 maps / 107 events / 216 dialogue lines — four scenes (Escena 1-4), a dog-delivery quest (Perro Entregado) and a final battle (Batalla Final); themes left empty (no verifiable theme label); translated titles are non-official (original title is already English words); rating blank; popularity 1.",
+      "translatedTitles": {
+        "zh-Hans": "火与根",
+        "ja": "火と根"
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "西班牙语短篇 RPG：四个场景构成的完整小故事——接下送狗的委托，带着篮子穿行于场景之间，最终迎来一场战斗；短小而结构完整。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "A Spanish short story RPG told in four scenes: take on a quest to deliver a dog, carry the basket between scenes, and face a final battle — a small, complete story.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "スペイン語の短編RPG。4つのシーンで綴る完結した小話。犬を届ける依頼を受け、籠を手にシーンを巡り、最後の戦いに挑む。短くも構造は完璧。",
+          "editorialStatus": "draft"
+        }
+      },
+      "externalLinks": [
+        {
+          "type": "official",
+          "url": "https://webrpg.org/df478-Fire-And-Root/",
+          "label": "Play — Fire and Root (WebRPG)"
+        },
+        {
+          "type": "source",
+          "url": "https://github.com/df478/Fire-And-Root",
+          "label": "GitHub — df478/Fire-And-Root"
+        }
+      ],
+      "contentAdvisory": {
+        "nsfw": false
+      }
+    },
+    "for-the-world": {
+      "schemaVersion": 1,
+      "slug": "for-the-world",
+      "originalTitle": "For the World",
+      "taxonomy": {
+        "genres": [
+          "rpg"
+        ],
+        "themes": [
+          "fantasy"
+        ],
+        "contentType": "full-game"
+      },
+      "developers": [
+        {
+          "name": "sity06",
+          "url": "https://github.com/sity06"
+        }
+      ],
+      "media": {
+        "cover": null
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "sity06-for-the-world-updated",
+          "title": "For the World",
+          "languages": [
+            "en"
+          ],
+          "nsfw": false
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/sity06/for-the-world-updated",
+          "https://webrpg.org/sity06-for-the-world-updated/"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 1,
+      "assessedAt": "2026-11-13",
+      "assessmentSources": [
+        "https://github.com/sity06/for-the-world-updated",
+        "https://webrpg.org/sity06-for-the-world-updated/"
+      ],
+      "assessmentNote": "GitHub repo + webrpg mirror only (README is one line, no Steam/itch/reviews); game data 33 maps / 104 events / 185 dialogue lines — a complete arc (opening cutscene in 8 parts, tutorial, Headmaster Academy, Sky Island, castle library/hall, final battle with Evil Transformation, Ending Closure parts 1-3, Resolution; switches felixDefeatsAsmodeus, hallMonster#1/#2Gone); dialogue is thin (185 lines) but the structure is complete; cover is null (entry has none); translated titles are non-official; rating blank; popularity 1.",
+      "translatedTitles": {
+        "zh-Hans": "为了世界",
+        "ja": "世界のために"
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "英语剧情 RPG：开场过场讲述王国、姐妹、法杖与野兽的故事，随后是学院教学、天空岛与城堡探索，最终迎来邪恶变身的终战，再以三段结局收束与和解收尾；对白虽薄，但开场→教学→学院→终战→结局的弧线完整。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "An English story RPG: an opening cutscene of kingdoms, sisters, a staff, and beasts, then academy tutorials, a sky island and castle exploration, a final battle against an evil transformation, and a three-part ending closure with a resolution — thin on dialogue, but the full arc from opening to ending is there.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "英語のストーリーRPG。王国、姉妹、杖、野獣のオープニングから、学園のチュートリアル、天空島と城の探索、邪悪な変身との最終決戦へ。三部構成のエンディングと結末で締めくくる。台詞は薄いが、開幕から結末までの流れは完結している。",
+          "editorialStatus": "draft"
+        }
+      },
+      "externalLinks": [
+        {
+          "type": "official",
+          "url": "https://webrpg.org/sity06-for-the-world-updated/",
+          "label": "Play — For the World (WebRPG)"
+        },
+        {
+          "type": "source",
+          "url": "https://github.com/sity06/for-the-world-updated",
+          "label": "GitHub — sity06/for-the-world-updated"
+        }
+      ],
+      "contentAdvisory": {
+        "nsfw": false
+      }
+    },
+    "forgotten-weekend": {
+      "schemaVersion": 1,
+      "slug": "forgotten-weekend",
+      "originalTitle": "Forgotten Weekend",
+      "taxonomy": {
+        "genres": [
+          "adventure"
+        ],
+        "themes": [
+          "slice-of-life"
+        ],
+        "contentType": "full-game"
+      },
+      "developers": [
+        {
+          "name": "manndevani",
+          "url": "https://github.com/manndevani"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/manndevani-Forgotten-Weekend-DEV/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "manndevani-forgotten-weekend-dev",
+          "title": "Forgotten Weekend",
+          "languages": [
+            "en"
+          ],
+          "nsfw": false
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/manndevani/Forgotten-Weekend-DEV",
+          "https://webrpg.org/manndevani-Forgotten-Weekend-DEV/"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 1,
+      "assessedAt": "2026-11-13",
+      "assessmentSources": [
+        "https://github.com/manndevani/Forgotten-Weekend-DEV",
+        "https://webrpg.org/manndevani-Forgotten-Weekend-DEV/"
+      ],
+      "assessmentNote": "GitHub repo + webrpg mirror only (README is one line, no Steam/itch/reviews; must not be confused with Steam's 'Forgotten Beginnings'); game data 7 maps / 58 events / 86 dialogue lines — a complete morning routine (Bed map: 54 lines; ClothOn, FoodEaten, Take_Bath, Alaram_Stop, Phone_OFF switches) ending on the train (Train_Inside: 27 events); the 'fuck' hits are frustration exclamations while dressing / in the hallway, not sexual content, so nsfw stays false; repo name contains DEV but the content reads as a complete short vignette, so contentType is full-game; translated titles are non-official; rating blank; popularity 1.",
+      "translatedTitles": {
+        "zh-Hans": "被遗忘的周末",
+        "ja": "忘れられた週末"
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "英语晨间小品：一个被遗忘的周末早晨——起床、穿衣、吃饭、洗澡、关掉闹钟与电话，乘电梯下楼，登上火车；短小完整的日常片段，火车车厢里的猫、狗与狼是沿途的点缀。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "An English morning vignette: a forgotten weekend morning — wake up, get dressed, eat, take a bath, silence the alarm and the phone, ride the lift down, and board the train; a short, complete slice of life, with a dog, a wolf, and a cat along for the ride.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "英語の朝の小品。忘れられた週末の朝。起きて、着替えて、食べて、風呂に入り、アラームと電話を止め、エレベーターで降りて電車に乗る。短くも完結した日常の断片。犬、狼、猫が道連れ。",
+          "editorialStatus": "draft"
+        }
+      },
+      "externalLinks": [
+        {
+          "type": "official",
+          "url": "https://webrpg.org/manndevani-Forgotten-Weekend-DEV/",
+          "label": "Play — Forgotten Weekend (WebRPG)"
+        },
+        {
+          "type": "source",
+          "url": "https://github.com/manndevani/Forgotten-Weekend-DEV",
+          "label": "GitHub — manndevani/Forgotten-Weekend-DEV"
+        }
+      ],
+      "contentAdvisory": {
+        "nsfw": false
+      }
     }
   }
 }
