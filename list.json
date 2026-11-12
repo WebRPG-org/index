@@ -23477,6 +23477,32 @@
     "validationScore": 45
   },
   {
+    "id": "xrompf-pastpapergenie-v3",
+    "title": "OMORI",
+    "repo": "https://github.com/xrompf/Pastpapergenie-v3",
+    "owner": "xrompf",
+    "name": "Pastpapergenie-v3",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "discoveredAt": "2026-11-12T21:43:56.407Z",
+    "source": "github-code-search",
+    "sourcePath": "game-embeds/omori.html",
+    "plannedForkName": "xrompf-Pastpapergenie-v3"
+  },
+  {
+    "id": "xrompf-pastpapergenie-v3-3",
+    "title": "OMORI",
+    "repo": "https://github.com/xrompf/pastpapergenie-v3-3",
+    "owner": "xrompf",
+    "name": "pastpapergenie-v3-3",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "discoveredAt": "2026-11-12T21:43:56.407Z",
+    "source": "github-code-search",
+    "sourcePath": "game-embeds/omori.html",
+    "plannedForkName": "xrompf-pastpapergenie-v3-3"
+  },
+  {
     "id": "yaanscoat-lonlii",
     "title": "OMORI",
     "repo": "https://github.com/yaanscoat/lonlii",
