@@ -10053,19 +10053,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/szymor-elemental-saga/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg",
-        "fantasy"
-      ],
-      "languages": [
-        "ja"
-      ],
-      "nsfw": false,
+      "gameSlug": "crest-story",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
       "reviewedAt": "2026-11-07",
-      "title": "紋章物語"
+      "nsfw": false,
+      "reviewedSourceHeadSha": "2c3f7bfb6a4fc7f0dda740fc31e04fc5fc29dda5"
     }
   },
   {
@@ -10095,19 +10087,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/szymor-games/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg",
-        "fantasy"
-      ],
-      "languages": [
-        "en"
-      ],
-      "nsfw": false,
-      "originalTitle": "紋章物語",
+      "gameSlug": "crest-story",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "reviewedAt": "2026-11-07",
+      "nsfw": false,
+      "reviewedSourceHeadSha": "eb348862f170b936b0822796bac34c028fe65010"
     }
   },
   {
@@ -10137,18 +10121,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/Dejely-Bean-Studios-Crime-Never-Sleeps/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "puzzle",
-        "mystery"
-      ],
-      "languages": [
-        "en"
-      ],
-      "nsfw": false,
+      "gameSlug": "crime-never-sleeps",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "reviewedAt": "2026-11-07",
+      "nsfw": false,
+      "reviewedSourceHeadSha": "c12d6b235f3e371d82a9f0a7c65ee17aac6e1064"
     }
   },
   {
@@ -10178,18 +10155,11 @@
     "verificationDeferred": true,
     "syncedFromSource": true,
     "meta": {
-      "genres": [
-        "rpg",
-        "comedy"
-      ],
-      "languages": [
-        "en"
-      ],
-      "nsfw": false,
+      "gameSlug": "crimpo-quest",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "reviewedAt": "2026-11-07",
+      "nsfw": false,
+      "reviewedSourceHeadSha": "ad588084227ecd8d492d7e63203b1724e068f8e6"
     }
   },
   {
@@ -10219,18 +10189,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/soapstain22-soapstain22.github.io/crimpoquest.html served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg",
-        "comedy"
-      ],
-      "languages": [
-        "en"
-      ],
-      "nsfw": false,
+      "gameSlug": "crimpo-quest",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "reviewedAt": "2026-11-07",
+      "nsfw": false,
+      "reviewedSourceHeadSha": "da78f37924477657f05e72caa106b5c54980af29"
     }
   },
   {
@@ -10284,17 +10247,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/teritaris-CryptoCasino/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "minigame"
-      ],
-      "languages": [
-        "ja"
-      ],
-      "nsfw": false,
+      "gameSlug": "cryptocasino",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "reviewedAt": "2026-11-07",
+      "nsfw": false,
+      "reviewedSourceHeadSha": "0c8e9fb3c21dd2256aa38ffcb65df2564d1f2fde"
     }
   },
   {
@@ -10324,17 +10281,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/TeleGD-CTF-ShootTNUp/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg"
-      ],
-      "languages": [
-        "fr"
-      ],
-      "nsfw": false,
+      "gameSlug": "ctf-shoottnup",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "reviewedAt": "2026-11-07",
+      "nsfw": false,
+      "reviewedSourceHeadSha": "5773f33690d8c63d0360027372b1adec03cc32d8"
     }
   },
   {
@@ -10364,18 +10315,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/Supersonic187-Culinary-Combat/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg",
-        "slice-of-life"
-      ],
-      "languages": [
-        "en"
-      ],
-      "nsfw": false,
+      "gameSlug": "culinary-combat",
       "playable": true,
-      "popularity": 3,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "reviewedAt": "2026-11-07",
+      "nsfw": false,
+      "reviewedSourceHeadSha": "4f23f15140a36942ff1a363b9d77154159b2e30c"
     }
   },
   {
@@ -10405,19 +10349,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/VictorFlor-Cursed_Roots_Demo/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "reviewedAt": "2026-11-07",
+      "gameSlug": "cursed-roots",
       "playable": true,
-      "rating": 5,
-      "popularity": 2,
-      "genres": [
-        "rpg",
-        "mystery",
-        "horror"
-      ],
+      "reviewedAt": "2026-11-07",
       "nsfw": false,
-      "languages": [
-        "pt"
-      ]
+      "reviewedSourceHeadSha": "cd43083fb25dd1b722c0ce89f018562fa4a951fb"
     }
   },
   {
@@ -10447,17 +10383,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/Cute-Fame-Studio-cutefamedemo/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "reviewedAt": "2026-11-07",
+      "gameSlug": "cute-fames-adventure",
       "playable": true,
-      "rating": 5,
-      "popularity": 2,
-      "genres": [
-        "rpg"
-      ],
+      "reviewedAt": "2026-11-07",
       "nsfw": false,
-      "languages": [
-        "en"
-      ]
+      "reviewedSourceHeadSha": "893fe74fd12f92a002aba5144a4c3cb4eb57b388"
     }
   },
   {
@@ -10487,18 +10417,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/4nddrs-Cyber-Tech/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg",
-        "sci-fi"
-      ],
-      "languages": [
-        "es"
-      ],
-      "nsfw": false,
+      "gameSlug": "cyber-tech",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "reviewedAt": "2026-11-07",
+      "nsfw": false,
+      "reviewedSourceHeadSha": "486959d86b2a05b21e1f7ddd518958c334c3856e"
     }
   },
   {
@@ -10528,17 +10451,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/LeoWolf26-D-1/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg"
-      ],
-      "languages": [
-        "zh-Hant"
-      ],
-      "nsfw": false,
+      "gameSlug": "d-1",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "reviewedAt": "2026-11-07",
+      "nsfw": false,
+      "reviewedSourceHeadSha": "2b8a99c6b964b490c8cf4736128a26ee8ade2777"
     }
   },
   {

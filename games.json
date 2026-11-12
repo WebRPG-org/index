@@ -5227,6 +5227,883 @@
       "contentAdvisory": {
         "nsfw": false
       }
+    },
+    "crest-story": {
+      "schemaVersion": 1,
+      "slug": "crest-story",
+      "originalTitle": "紋章物語",
+      "taxonomy": {
+        "genres": [
+          "rpg"
+        ],
+        "themes": [
+          "fantasy"
+        ],
+        "contentType": "full-game"
+      },
+      "developers": [
+        {
+          "name": "WGT（西園寺ハムカツ）",
+          "url": "https://www.freem.ne.jp/brand/9933"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/szymor-elemental-saga/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "szymor-elemental-saga",
+          "title": "紋章物語",
+          "languages": [
+            "ja"
+          ],
+          "nsfw": false
+        },
+        {
+          "type": "internal",
+          "id": "szymor-games",
+          "title": "Crest Story",
+          "languages": [
+            "en"
+          ],
+          "nsfw": false
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://www.freem.ne.jp/win/game/21491",
+          "https://www.freem.ne.jp/brand/9933",
+          "https://github.com/szymor/elemental-saga",
+          "https://github.com/szymor/games"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 2,
+      "assessedAt": "2026-11-12",
+      "assessmentSources": [
+        "https://www.freem.ne.jp/win/game/21491",
+        "https://www.freem.ne.jp/brand/9933",
+        "https://github.com/szymor/elemental-saga",
+        "https://github.com/szymor/games"
+      ],
+      "assessmentNote": "No reviews or scores found anywhere (freem page states zero reviews; both GitHub repos 0 stars); only distribution is the freem.ne.jp listing (registered 2019-11-24, v2.51, content rating EVERYONE, ~4h, complete) plus szymor's English translation; both forks have identical game data (98 maps / 1565 events / 13171 dialogue lines); the 'adult' keyword hits in the English fork are ordinary dialogue ('You're an adult now — pay with your own money!'), not sexual content, so nsfw stays false; zh-Hans title 纹章物语 is a non-official translation; rating blank; popularity 2.",
+      "translatedTitles": {
+        "en": "Crest Story",
+        "zh-Hans": "纹章物语"
+      },
+      "aliases": {
+        "en": [
+          "Elemental Saga",
+          "Elesaga"
+        ],
+        "ja": [
+          "エレサガ"
+        ]
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "一款王道、可爱又热血的角色扮演游戏，已完成，无需练级，通过 Boss 战与事件战斗推进剧情，通关约四小时，二周目还有追加要素与隐藏 Boss。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "A classic, cute and heartfelt RPG — a completed free game with no grinding, progressing through boss battles and event battles, focused on story; about four hours to clear, with extra content and a hidden boss on a second playthrough.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "王道でかわいくて熱いRPG。レベル上げ不要で、ボス戦とイベントバトルを繰り返して進む物語重視の完成済みフリーゲーム。クリア想定時間は4時間前後で、二周目以降の追加要素や裏ボスもある。",
+          "editorialStatus": "draft"
+        }
+      },
+      "externalLinks": [
+        {
+          "type": "official",
+          "url": "https://www.freem.ne.jp/win/game/21491",
+          "label": "freem! — エレサガ Elemental Saga 紋章物語"
+        },
+        {
+          "type": "source",
+          "url": "https://github.com/szymor/elemental-saga",
+          "label": "GitHub — szymor/elemental-saga (Japanese original)"
+        },
+        {
+          "type": "source",
+          "url": "https://github.com/szymor/games",
+          "label": "GitHub — szymor/games (English version, elesaga/)"
+        }
+      ],
+      "contentAdvisory": {
+        "nsfw": false
+      }
+    },
+    "crime-never-sleeps": {
+      "schemaVersion": 1,
+      "slug": "crime-never-sleeps",
+      "originalTitle": "Crime Never Sleeps",
+      "taxonomy": {
+        "genres": [
+          "puzzle"
+        ],
+        "themes": [
+          "mystery"
+        ],
+        "contentType": "full-game"
+      },
+      "developers": [
+        {
+          "name": "DEJELY Bean Studio",
+          "url": "https://github.com/Dejely-Bean-Studios"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/Dejely-Bean-Studios-Crime-Never-Sleeps/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "dejely-bean-studios-crime-never-sleeps",
+          "title": "Crime Never Sleeps",
+          "languages": [
+            "en"
+          ],
+          "nsfw": false
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/Dejely-Bean-Studios/Crime-Never-Sleeps"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 1,
+      "assessedAt": "2026-11-12",
+      "assessmentSources": [
+        "https://github.com/Dejely-Bean-Studios/Crime-Never-Sleeps"
+      ],
+      "assessmentNote": "No external trace found in two web searches (itch/Steam/wiki/reviews all absent); only evidence is the GitHub repo itself (220 commits, 0 stars) and its System.json story structure (4 murders, final interrogation, 3 endings, epilogue); game data 10 maps / 393 events / 3180 dialogue lines; README calls the name tentative and the game 'up-and-coming', so completion is inferred from the switch structure, not from playing; murder is plot subject matter, not graphic content, so nsfw stays false; rating blank; popularity 1.",
+      "translatedTitles": {
+        "ja": "クライム・ネバー・スリープス"
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "DEJELY Bean Studio 制作的谋杀悬疑解谜游戏：调查四起谋杀案，收集线索、解开谜题并审问嫌疑人，共有三个结局。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "A murder mystery puzzle game from DEJELY Bean Studio: investigate four murders, gather clues, solve puzzles and interrogate suspects, with three endings.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "DEJELY Bean Studio による殺人ミステリーパズルゲーム。4件の殺人事件を調査し、手がかりを集め、パズルを解き、容疑者を尋問する。エンディングは3種類。",
+          "editorialStatus": "draft"
+        }
+      },
+      "externalLinks": [
+        {
+          "type": "source",
+          "url": "https://github.com/Dejely-Bean-Studios/Crime-Never-Sleeps",
+          "label": "GitHub — Dejely-Bean-Studios/Crime-Never-Sleeps"
+        }
+      ],
+      "contentAdvisory": {
+        "nsfw": false
+      }
+    },
+    "crimpo-quest": {
+      "schemaVersion": 1,
+      "slug": "crimpo-quest",
+      "originalTitle": "Crimpo Quest",
+      "taxonomy": {
+        "genres": [
+          "rpg"
+        ],
+        "themes": [
+          "comedy"
+        ],
+        "contentType": "full-game"
+      },
+      "developers": [
+        {
+          "name": "superpizza",
+          "url": "https://superpizza.itch.io/crimpo-quest"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/soapstain22-crimpoquestMV/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "soapstain22-crimpoquestmv",
+          "title": "Crimpo Quest",
+          "languages": [
+            "en"
+          ],
+          "nsfw": false
+        },
+        {
+          "type": "internal",
+          "id": "soapstain22-soapstain22-github-io",
+          "title": "Crimpo Quest",
+          "languages": [
+            "en"
+          ],
+          "nsfw": false
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://superpizza.itch.io/crimpo-quest",
+          "https://store.steampowered.com/app/4192470/CRIMPO_QUEST/",
+          "https://www.moddb.com/engines/rpg-maker-mv/games",
+          "https://github.com/soapstain22/crimpoquestMV"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 3,
+      "assessedAt": "2026-11-12",
+      "assessmentSources": [
+        "https://superpizza.itch.io/crimpo-quest",
+        "https://store.steampowered.com/app/4192470/CRIMPO_QUEST/",
+        "https://www.moddb.com/engines/rpg-maker-mv/games",
+        "https://github.com/soapstain22/crimpoquestMV"
+      ],
+      "assessmentNote": "Found on itch.io (superpizza, in development, ~1h session, 5.0/5 from only 3 ratings — too thin to score), Steam app 4192470 (Coming Soon to Early Access, free, ~1/4 of planned content but a complete start-to-finish arc), and a ModDB listing; no reviews or press beyond that; both forks are the same game (author repo + personal site; github.io fork is an earlier 54-map build vs the 84-map repo build); rating blank; popularity 3.",
+      "translatedTitles": {
+        "ja": "クリンポ・クエスト"
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "暑假中的克林波被巫师 Spelefdo 开高尔夫球车撞倒、手机摔坏，只好设法让巫师修好手机。一款围绕开箱子、吃汉堡和收集物品展开的喜剧 RPG。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "Crimpo is on summer break when the wizard Spelefdo runs him over with a golf cart and breaks his phone — now he must get the wizard to fix it. A comedy RPG about opening boxes, eating hamburgers and collecting things on the way.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "夏休み中のクリンポは、魔法使いスペレフドにゴルフカートではねられ、携帯電話を壊されてしまう。電話を直してもらうため、箱を開けたりハンバーガーを食べたりしながら集めものを進めるコメディRPG。",
+          "editorialStatus": "draft"
+        }
+      },
+      "externalLinks": [
+        {
+          "type": "store",
+          "url": "https://store.steampowered.com/app/4192470/CRIMPO_QUEST/",
+          "label": "Steam — CRIMPO QUEST (Coming Soon to Early Access, free)"
+        },
+        {
+          "type": "store",
+          "url": "https://superpizza.itch.io/crimpo-quest",
+          "label": "itch.io — Crimpo Quest by superpizza"
+        },
+        {
+          "type": "source",
+          "url": "https://github.com/soapstain22/crimpoquestMV",
+          "label": "GitHub — soapstain22/crimpoquestMV"
+        }
+      ],
+      "contentAdvisory": {
+        "nsfw": false
+      }
+    },
+    "cryptocasino": {
+      "schemaVersion": 1,
+      "slug": "cryptocasino",
+      "originalTitle": "CryptoCasino",
+      "taxonomy": {
+        "genres": [
+          "minigame"
+        ],
+        "themes": [],
+        "contentType": "full-game"
+      },
+      "developers": [
+        {
+          "name": "teritaris",
+          "url": "https://github.com/teritaris"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/teritaris-CryptoCasino/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "teritaris-cryptocasino",
+          "title": "CryptoCasino",
+          "languages": [
+            "ja"
+          ],
+          "nsfw": false
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/teritaris/CryptoCasino"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 2,
+      "assessedAt": "2026-11-12",
+      "assessmentSources": [
+        "https://github.com/teritaris/CryptoCasino"
+      ],
+      "assessmentNote": "GitHub 仓库以外零外部痕迹（网搜只命中无关真钱加密赌场 CryptoCasino.com / cryptocasino.run），0 stars；README 证实为 Symbol 测试网代币赌场小游戏合集（扑克、High & Low、二十一点 + XYM 兑换）；game data 2 maps / 56 events / 112 dialogue lines；nsfw false（エロ命中为ピエロ/小丑敌人名的子串误报）；ja 标题クリプトカジノ为非官方音译；rating blank; popularity 2.",
+      "translatedTitles": {
+        "ja": "クリプトカジノ"
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "一款用 RPG Maker MZ 制作的赌场小游戏合集，玩家使用 Symbol 区块链测试网上的游戏代币游玩扑克、High & Low 和二十一点，并可用 XYM 兑换游戏代币，没有 Symbol 账户的玩家可使用共享示例账户。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "A casino minigame collection in RPG Maker MZ where you play poker, high-and-low, and blackjack with game tokens on the Symbol blockchain testnet, with XYM exchange and a shared sample account for players without a Symbol account.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "Symbolブロックチェーン（テストネット）上のゲーム用トークンでポーカー、ハイアンドロー、ブラックジャックを遊べる、RPG Maker MZ製のカジノミニゲーム集。XYMとの交換機能を備え、Symbolアカウントを持たないプレイヤー向けにサンプルアカウントが用意されている。",
+          "editorialStatus": "draft"
+        }
+      },
+      "externalLinks": [
+        {
+          "type": "source",
+          "url": "https://github.com/teritaris/CryptoCasino",
+          "label": "GitHub — teritaris/CryptoCasino"
+        }
+      ],
+      "contentAdvisory": {
+        "nsfw": false,
+        "warnings": [
+          "gambling theme (testnet tokens, no real money)"
+        ]
+      }
+    },
+    "ctf-shoottnup": {
+      "schemaVersion": 1,
+      "slug": "ctf-shoottnup",
+      "originalTitle": "CTF-ShootTNUp",
+      "taxonomy": {
+        "genres": [
+          "other"
+        ],
+        "themes": [],
+        "contentType": "full-game",
+        "mechanics": [
+          "shooting"
+        ]
+      },
+      "developers": [
+        {
+          "name": "TeleGD",
+          "url": "https://github.com/TeleGD"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/TeleGD-CTF-ShootTNUp/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "telegd-ctf-shoottnup",
+          "title": "CTF-ShootTNUp",
+          "languages": [
+            "fr"
+          ],
+          "nsfw": false
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/TeleGD/CTF-ShootTNUp"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 2,
+      "assessedAt": "2026-11-12",
+      "assessmentSources": [
+        "https://github.com/TeleGD/CTF-ShootTNUp"
+      ],
+      "assessmentNote": "除仓库 README 外零外部痕迹，0 stars；README 证实为 2022 年 9 月 CTF 制作的完整游戏，1.1 版加 Boss 血条；game data 26 maps / 645 events / 482 dialogue lines（森林、村庄、火山、最终城堡、Boss 开关）；genres 由旧 [rpg] 改为 [other] + mechanics shooting（README 无 RPG 依据，标题指向射击玩法）；'CTF' 是赛事名还是游戏模式未解；rating blank; popularity 2.",
+      "introductions": {
+        "zh-Hans": {
+          "summary": "一款为 2022 年 9 月 CTF 活动开发的完整射击游戏，使用 RPG Maker MV 1.6.1 制作，1.1 版加入了 Boss 血条。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "A complete shooting game built in RPG Maker MV 1.6.1 for a September 2022 CTF event, with boss health bars added in version 1.1.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "2022年9月のCTFイベントのためにRPG Maker MV 1.6.1で制作されたシューティングゲーム。バージョン1.1でボスの体力バーが追加された。",
+          "editorialStatus": "draft"
+        }
+      },
+      "externalLinks": [
+        {
+          "type": "source",
+          "url": "https://github.com/TeleGD/CTF-ShootTNUp",
+          "label": "GitHub — TeleGD/CTF-ShootTNUp"
+        }
+      ],
+      "contentAdvisory": {
+        "nsfw": false
+      }
+    },
+    "culinary-combat": {
+      "schemaVersion": 1,
+      "slug": "culinary-combat",
+      "originalTitle": "Culinary Combat",
+      "taxonomy": {
+        "genres": [
+          "rpg"
+        ],
+        "themes": [
+          "slice-of-life"
+        ],
+        "contentType": "prototype"
+      },
+      "developers": [
+        {
+          "name": "DeadCenterGames",
+          "url": "https://deadcentergames.itch.io/culinary-combat"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/Supersonic187-Culinary-Combat/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "supersonic187-culinary-combat",
+          "title": "Culinary Combat",
+          "languages": [
+            "en"
+          ],
+          "nsfw": false
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://deadcentergames.itch.io/culinary-combat",
+          "https://github.com/Supersonic187/Culinary-Combat"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 2,
+      "assessedAt": "2026-11-12",
+      "assessmentSources": [
+        "https://deadcentergames.itch.io/culinary-combat",
+        "https://github.com/Supersonic187/Culinary-Combat"
+      ],
+      "assessmentNote": "itch.io 有官方页（Demo v1.2，状态 Prototype），但无评分、无评论；GitHub 1 star；无评测或媒体报道；game data 5 maps / 67 events / 227 dialogue lines；itch 作者 DeadCenterGames 与 GitHub 仓库主 Supersonic187 是否同一人未证实；rating blank; popularity 2.",
+      "introductions": {
+        "zh-Hans": {
+          "summary": "一款仍处于早期开发阶段的 RPG 风格烹饪游戏，由 DeadCenterGames 在 itch.io 上以 Demo v1.2 原型形式发布。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "An RPG-style cooking game still early in development, released as a Demo v1.2 prototype on itch.io by DeadCenterGames.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "開発初期段階のRPG風クッキングゲーム。DeadCenterGamesによりitch.ioでDemo v1.2のプロトタイプとして公開されている。",
+          "editorialStatus": "draft"
+        }
+      },
+      "externalLinks": [
+        {
+          "type": "store",
+          "url": "https://deadcentergames.itch.io/culinary-combat",
+          "label": "itch.io — Culinary Combat"
+        },
+        {
+          "type": "source",
+          "url": "https://github.com/Supersonic187/Culinary-Combat",
+          "label": "GitHub — Supersonic187/Culinary-Combat"
+        }
+      ],
+      "contentAdvisory": {
+        "nsfw": false
+      }
+    },
+    "cursed-roots": {
+      "schemaVersion": 1,
+      "slug": "cursed-roots",
+      "originalTitle": "Cursed Roots",
+      "taxonomy": {
+        "genres": [
+          "rpg"
+        ],
+        "themes": [
+          "mystery",
+          "horror"
+        ],
+        "contentType": "demo"
+      },
+      "developers": [
+        {
+          "name": "VictorFlor",
+          "url": "https://github.com/VictorFlor"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/VictorFlor-Cursed_Roots_Demo/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "victorflor-cursed-roots-demo",
+          "title": "Cursed Roots",
+          "languages": [
+            "pt"
+          ],
+          "nsfw": false
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/VictorFlor/Cursed_Roots_Demo",
+          "http://globalgamejam.org/history"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 2,
+      "assessedAt": "2026-11-12",
+      "assessmentSources": [
+        "https://github.com/VictorFlor/Cursed_Roots_Demo",
+        "http://globalgamejam.org/history"
+      ],
+      "assessmentNote": "除仓库 README 外零外部痕迹，0 stars；README 证实为 GGJ 2023（主题 Roots）的葡语恐怖悬疑 RPG 演示，未找到正式版或评测；game data 3 maps / 122 events / 40 dialogue lines，但有完整系统（理智/进食/洗澡/睡眠计数器、梦境迷宫与教徒开关），是有实质内容的 jam demo，不翻转；rating blank; popularity 2.",
+      "introductions": {
+        "zh-Hans": {
+          "summary": "一款为 2023 年全球游戏创作节（主题为「Roots」）制作的恐怖悬疑 RPG 演示：一位私家侦探收到妻子来信，随后在梦中看到妻子被神秘生物劫持为人质，于是动身调查。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "A horror-mystery RPG demo made for Global Game Jam 2023 (theme: 'Roots'): a private detective receives a letter from his wife, then dreams of her held hostage by a mysterious creature and sets out to investigate.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "Global Game Jam 2023（テーマ「Roots」）向けに制作されたホラー・ミステリーRPGのデモ。私立探偵のもとに妻からの手紙が届き、夢の中で妻が謎の生物に人質に取られているのを見て、調査に向かう。",
+          "editorialStatus": "draft"
+        }
+      },
+      "externalLinks": [
+        {
+          "type": "source",
+          "url": "https://github.com/VictorFlor/Cursed_Roots_Demo",
+          "label": "GitHub — VictorFlor/Cursed_Roots_Demo"
+        }
+      ],
+      "contentAdvisory": {
+        "nsfw": false
+      }
+    },
+    "cute-fames-adventure": {
+      "schemaVersion": 1,
+      "slug": "cute-fames-adventure",
+      "originalTitle": "Cute Fames Adventure",
+      "taxonomy": {
+        "genres": [
+          "rpg",
+          "adventure"
+        ],
+        "themes": [
+          "fantasy"
+        ],
+        "contentType": "demo"
+      },
+      "developers": [
+        {
+          "name": "Cute Fame Studio",
+          "url": "https://store.steampowered.com/curator/45153979-Cute-Fame-Studio/"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/Cute-Fame-Studio-cutefamedemo/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "cute-fame-studio-cutefamedemo",
+          "title": "Cute Fames Adventure",
+          "languages": [
+            "en"
+          ],
+          "nsfw": false
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://store.steampowered.com/app/3160260/",
+          "https://store.steampowered.com/curator/45153979-Cute-Fame-Studio/",
+          "https://github.com/Cute-Fame-Studio/cutefamedemo"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 3,
+      "assessedAt": "2026-11-12",
+      "assessmentSources": [
+        "https://store.steampowered.com/app/3160260/",
+        "https://store.steampowered.com/curator/45153979-Cute-Fame-Studio/",
+        "https://github.com/Cute-Fame-Studio/cutefamedemo"
+      ],
+      "assessmentNote": "On Steam since 2024-08-30 ($9.99, demo 2024-08-16) and listed on IndieDB/Grouvee/50gameslike/tuxDB, but no review scores or user ratings found anywhere (Grouvee: 0 ratings); this repo is explicitly the demo build of a 4+ hour commercial game (10 maps / 206 events / 81 dialogue lines in the demo); IndieDB's 2022/2023 dates conflict with Steam's 2024-08-30 — Steam treated as authoritative; rating left blank; popularity 3.",
+      "release": {
+        "date": "2024-08-30"
+      },
+      "translatedTitles": {
+        "ja": "キュート・フェームズ・アドベンチャー"
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "一款 2.5D 回合制 RPG：两名少年因实验变成可爱的小狗，必须在无名小镇中战斗，设法变回人类。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "A 2.5D turn-based RPG in which two boys turned into cute dogs by an experiment must battle through an unnamed town to turn back into humans.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "実験によって可愛い犬の姿に変えられた2人の少年が、名前のない町で戦いながら人間に戻る方法を探す2.5Dターン制RPG。",
+          "editorialStatus": "draft"
+        }
+      },
+      "externalLinks": [
+        {
+          "type": "store",
+          "url": "https://store.steampowered.com/app/3160260/",
+          "label": "Steam — Cute Fames Adventure"
+        },
+        {
+          "type": "source",
+          "url": "https://github.com/Cute-Fame-Studio/cutefamedemo",
+          "label": "GitHub — Cute-Fame-Studio/cutefamedemo (demo build)"
+        }
+      ],
+      "contentAdvisory": {
+        "nsfw": false
+      }
+    },
+    "cyber-tech": {
+      "schemaVersion": 1,
+      "slug": "cyber-tech",
+      "originalTitle": "Cyber-Tech",
+      "taxonomy": {
+        "genres": [
+          "rpg",
+          "adventure"
+        ],
+        "themes": [
+          "sci-fi"
+        ],
+        "contentType": "full-game"
+      },
+      "developers": [
+        {
+          "name": "4nddrs",
+          "url": "https://github.com/4nddrs"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/4nddrs-Cyber-Tech/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "4nddrs-cyber-tech",
+          "title": "Cyber-Tech",
+          "languages": [
+            "es"
+          ],
+          "nsfw": false
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/4nddrs/Cyber-Tech"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 1,
+      "assessedAt": "2026-11-12",
+      "assessmentSources": [
+        "https://github.com/4nddrs/Cyber-Tech"
+      ],
+      "assessmentNote": "No trace outside GitHub (no Steam/itch/wiki/media hits); repo 0 stars, 3 forks; README is the sole source (desert connecting a cyberpunk city and a steampunk city, turn-based combat with formations, up to 4 allies, puzzles); game data 44 maps / 751 events / 298 dialogue lines; rating left blank; popularity 1.",
+      "translatedTitles": {
+        "ja": "サイバー・テック"
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "一款西班牙语 RPG Maker MV 角色扮演游戏：从连接赛博朋克城市与蒸汽朋克城市的神秘沙漠出发，玩家完成任务、做出影响剧情的抉择，并与最多四名同伴进行回合制战斗。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "A Spanish-language RPG Maker MV role-playing game: starting in a mysterious desert that connects a cyberpunk city and a steampunk city, players complete quests, make story-changing decisions and fight turn-based battles with up to four allies.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "スペイン語のRPGツクールMV製RPG。サイバーパンク都市とスチームパンク都市をつなぐ謎の砂漠を起点に、クエストをこなし、物語を左右する決断を下し、最大4人の仲間とターン制バトルに挑む。",
+          "editorialStatus": "draft"
+        }
+      },
+      "externalLinks": [
+        {
+          "type": "source",
+          "url": "https://github.com/4nddrs/Cyber-Tech",
+          "label": "GitHub — 4nddrs/Cyber-Tech"
+        }
+      ],
+      "contentAdvisory": {
+        "nsfw": false
+      }
+    },
+    "d-1": {
+      "schemaVersion": 1,
+      "slug": "d-1",
+      "originalTitle": "D-1",
+      "taxonomy": {
+        "genres": [
+          "rpg",
+          "adventure"
+        ],
+        "themes": [
+          "horror",
+          "survival"
+        ],
+        "contentType": "full-game"
+      },
+      "developers": [
+        {
+          "name": "LeoWolf26",
+          "url": "https://github.com/LeoWolf26"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/LeoWolf26-D-1/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "leowolf26-d-1",
+          "title": "D-1",
+          "languages": [
+            "zh-Hant"
+          ],
+          "nsfw": false
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/LeoWolf26/D-1",
+          "https://raw.githubusercontent.com/LeoWolf26/D-1/main/data/System.json",
+          "https://raw.githubusercontent.com/LeoWolf26/D-1/main/Update.txt",
+          "https://raw.githubusercontent.com/LeoWolf26/D-1/main/Credit.txt"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 1,
+      "assessedAt": "2026-11-12",
+      "assessmentSources": [
+        "https://github.com/LeoWolf26/D-1",
+        "https://raw.githubusercontent.com/LeoWolf26/D-1/main/data/System.json",
+        "https://raw.githubusercontent.com/LeoWolf26/D-1/main/Update.txt",
+        "https://raw.githubusercontent.com/LeoWolf26/D-1/main/Credit.txt"
+      ],
+      "assessmentNote": "No trace outside GitHub; repo 0 stars, 2 forks, no README; evidence from System.json (locale zh_TW, stealth switches: sneak/roll/gun/flashlight/hold-breath/stamina, enemy chase AI) + Update.txt (Update017, still adding maps); game data 53 maps / 592 events / 770 dialogue lines; rating left blank; popularity 1.",
+      "translatedTitles": {
+        "zh-Hans": "D-1",
+        "en": "D-1",
+        "ja": "D-1"
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "一款繁体中文潜行动作类 RPG Maker MV 游戏，背景在一艘船上：玩家扮演特工 K，在黑暗的船舱与走廊中借助手电、体力与屏息躲避怪物，可使用枪械战斗，并有甲板 Boss 战。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "A Traditional Chinese stealth-action RPG Maker MV game set aboard a ship: playing as agent K, sneak past monsters in dark cabins and corridors using a flashlight, stamina and held breath, with gun combat and a deck boss fight.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "繁体字中国語のステルスアクションRPGツクールMV製ゲーム。船を舞台に、エージェントKとなって懐中電灯・スタミナ・息止めを駆使し、暗い船室や廊下でモンスターをかわしながら進み、銃での戦闘や甲板でのボス戦に挑む。",
+          "editorialStatus": "draft"
+        }
+      },
+      "externalLinks": [
+        {
+          "type": "source",
+          "url": "https://github.com/LeoWolf26/D-1",
+          "label": "GitHub — LeoWolf26/D-1"
+        }
+      ],
+      "contentAdvisory": {
+        "nsfw": false
+      }
     }
   }
 }
