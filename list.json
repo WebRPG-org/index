@@ -17323,18 +17323,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/donjuanplatinum-irodorimidori-rpg-server/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg",
-        "fantasy"
-      ],
-      "languages": [
-        "ja"
-      ],
-      "nsfw": false,
+      "gameSlug": "irodorimidori-fantasy-vii",
       "playable": true,
-      "popularity": 5,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "nsfw": false,
+      "reviewedAt": "2026-11-07",
+      "reviewedSourceHeadSha": "b0c82ae385e7ac40497a0b3e4068473b021cab68"
     }
   },
   {
@@ -17364,16 +17357,8 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/yumeTsukiiii-irotoridorino_sekai_game/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg"
-      ],
-      "languages": [
-        "zh-Hans"
-      ],
+      "playable": false,
       "nsfw": false,
-      "playable": true,
-      "popularity": 2,
-      "rating": 5,
       "reviewedAt": "2026-11-07"
     }
   },
@@ -17404,18 +17389,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/thomazdevmaster-ISO25k-Square-RPG/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg",
-        "educational"
-      ],
-      "languages": [
-        "pt"
-      ],
-      "nsfw": false,
+      "gameSlug": "iso25k-square-rpg",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "nsfw": false,
+      "reviewedAt": "2026-11-07",
+      "reviewedSourceHeadSha": "26d42fca4f252b157698f8dd61e94525ab9bfe51"
     }
   },
   {
@@ -17445,16 +17423,8 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/SirPacings-IsoIslandRpg/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg"
-      ],
-      "languages": [
-        "en"
-      ],
+      "playable": false,
       "nsfw": false,
-      "playable": true,
-      "popularity": 2,
-      "rating": 5,
       "reviewedAt": "2026-11-07"
     }
   },
@@ -17522,19 +17492,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/thomazdevmaster-matematica/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg",
-        "educational"
-      ],
-      "languages": [
-        "pt"
-      ],
-      "nsfw": false,
+      "gameSlug": "o-guardiao-da-historia-da-matematica-o-legado-dos-numeros",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
+      "nsfw": false,
       "reviewedAt": "2026-11-07",
-      "title": "O GUARDIÃO DA MATEMÁTICA / O LEGADO DOS NÚMEROS"
+      "reviewedSourceHeadSha": "8c2fcc0ff1bf015e59080bba3860825c99e29c52"
     }
   },
   {
@@ -17581,17 +17543,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/exadmax-Proto/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg"
-      ],
-      "languages": [
-        "pt"
-      ],
-      "nsfw": false,
+      "gameSlug": "jornada-para-proto",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "nsfw": false,
+      "reviewedAt": "2026-11-07",
+      "reviewedSourceHeadSha": "53be360e59de9278bfea69dd54a6297dd6f015a8"
     }
   },
   {
@@ -17621,19 +17577,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/sanmollp-sanmollp.github.io/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg",
-        "educational"
-      ],
-      "languages": [
-        "en",
-        "es"
-      ],
-      "nsfw": false,
+      "gameSlug": "jornades-dinnovacio-docent-uv",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "nsfw": false,
+      "reviewedAt": "2026-11-07",
+      "reviewedSourceHeadSha": "829dee3b3de34b53033ed47f1bf872cdb2d82334"
     }
   },
   {
@@ -17663,17 +17611,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/mantojoshua-mantojoshua.github.io/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "adventure"
-      ],
-      "languages": [
-        "en"
-      ],
-      "nsfw": false,
+      "gameSlug": "joshua-manto-portfolio-minigame",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "nsfw": false,
+      "reviewedAt": "2026-11-07",
+      "reviewedSourceHeadSha": "c5c5bb421a73c20874f667bd70d6e9fa0ee446be"
     }
   },
   {
@@ -17703,16 +17645,8 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/Harleythetech-Jovellano_ACT1/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg"
-      ],
-      "languages": [
-        "en"
-      ],
+      "playable": false,
       "nsfw": false,
-      "playable": true,
-      "popularity": 2,
-      "rating": 5,
       "reviewedAt": "2026-11-07"
     }
   },
@@ -17743,16 +17677,8 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/Harleythetech-Jovellano_ACT2/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg"
-      ],
-      "languages": [
-        "en"
-      ],
+      "playable": false,
       "nsfw": false,
-      "playable": true,
-      "popularity": 2,
-      "rating": 5,
       "reviewedAt": "2026-11-07"
     }
   },

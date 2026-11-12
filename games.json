@@ -12913,6 +12913,488 @@
       "contentAdvisory": {
         "nsfw": false
       }
+    },
+    "irodorimidori-fantasy-vii": {
+      "schemaVersion": 1,
+      "slug": "irodorimidori-fantasy-vii",
+      "originalTitle": "IRODORIMIDORI FANTASY VII",
+      "taxonomy": {
+        "genres": [
+          "rpg"
+        ],
+        "themes": [
+          "fantasy"
+        ],
+        "contentType": "full-game",
+        "mechanics": [
+          "turn-based-battle"
+        ]
+      },
+      "developers": [],
+      "media": {
+        "cover": "https://webrpg.org/donjuanplatinum-irodorimidori-rpg-server/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "donjuanplatinum-irodorimidori-rpg-server",
+          "title": "IRODORIMIDORI FANTASY VII",
+          "languages": [
+            "ja"
+          ],
+          "nsfw": false
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/donjuanplatinum/irodorimidori-rpg-server",
+          "https://webrpg.org/donjuanplatinum-irodorimidori-rpg-server/",
+          "https://chunithm.sega.jp/irodorimidori/irodorimidori-rpg-2025"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 3,
+      "assessedAt": "2026-11-13",
+      "assessmentSources": [
+        "https://github.com/donjuanplatinum/irodorimidori-rpg-server",
+        "https://webrpg.org/donjuanplatinum-irodorimidori-rpg-server/",
+        "https://chunithm.sega.jp/irodorimidori/irodorimidori-rpg-2025"
+      ],
+      "assessmentNote": "Official SEGA game: repo description points at the official CHUNITHM page chunithm.sega.jp/irodorimidori/irodorimidori-rpg-2025, README calls it the official Irodorimidori RPG (2024 + 2025 versions, copyright to the official Irodorimidori account), and a live read-only check of that page (2026-11-13) showed tab title 'IRODORIMIDORI FANTASY VII' (page body rendered black, video unplayable, so playability rests on the v1.1 load test); no Steam/itch/press reviews of this RPG itself, so rating blank and popularity 3 (official SEGA site game of a known rhythm-game franchise, but no broader spread evidence). Game data 3 maps / 34 events / 32 dialogue lines + 14 CommonEvents (steal, weakness display, element change); a complete short boss-battle game, contentType full-game. Developers left blank: donjuanplatinum hosts the server code, not confirmed as the game developer. zh-Hans/ja titles are transliterations, not official.",
+      "translatedTitles": {
+        "zh-Hans": "彩绿幻想VII",
+        "ja": "イロドリミドリ ファンタジーVII"
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "SEGA 音游《CHUNITHM》旗下偶像企划彩绿（イロドリミドリ）的官方 RPG：仓库收录 2024 与 2025 两个版本，本条目为 2025 版——开场后进入魔王城 3F 与 Boss 展开回合制战斗，含偷取、弱点显示、属性切换与队伍编成系统，战后结算画面收尾。3 张地图、32 行对白。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "The official RPG of Irodorimidori, SEGA's CHUNITHM idol project: the repository holds the 2024 and 2025 versions, and this entry is the 2025 build — an opening, then a turn-based boss battle on the Demon King Castle 3F with steal, weakness-display, element-change and party-formation systems, ending on a results screen. 3 maps, 32 lines of dialogue.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "セガの音ゲー『CHUNITHM』の派生アイドル企画イロドリミドリの公式RPG。リポジトリには2024年版と2025年版が収録され、本件は2025年版——オープニングの後、魔王城3Fでボスとのターン制バトル（盗む・弱点表示・属性変更・パーティ編成）へ進み、リザルト画面で締めくくる。3マップ・32行の台詞。",
+          "editorialStatus": "draft"
+        }
+      },
+      "externalLinks": [
+        {
+          "url": "https://chunithm.sega.jp/irodorimidori/irodorimidori-rpg-2025",
+          "type": "official",
+          "label": "Official site (SEGA CHUNITHM)"
+        }
+      ],
+      "contentAdvisory": {
+        "nsfw": false
+      }
+    },
+    "iso25k-square-rpg": {
+      "schemaVersion": 1,
+      "slug": "iso25k-square-rpg",
+      "originalTitle": "ISO25k Square RPG",
+      "taxonomy": {
+        "genres": [
+          "rpg"
+        ],
+        "themes": [
+          "educational"
+        ],
+        "contentType": "full-game",
+        "mechanics": [
+          "quiz"
+        ]
+      },
+      "developers": [
+        {
+          "name": "thomazdevmaster",
+          "url": "https://github.com/thomazdevmaster"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/thomazdevmaster-ISO25k-Square-RPG/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "thomazdevmaster-iso25k-square-rpg",
+          "title": "ISO25k Square RPG",
+          "languages": [
+            "pt"
+          ],
+          "nsfw": false
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/thomazdevmaster/ISO25k-Square-RPG",
+          "https://webrpg.org/thomazdevmaster-ISO25k-Square-RPG/"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 1,
+      "assessedAt": "2026-11-13",
+      "assessmentSources": [
+        "https://github.com/thomazdevmaster/ISO25k-Square-RPG",
+        "https://webrpg.org/thomazdevmaster-ISO25k-Square-RPG/"
+      ],
+      "assessmentNote": "GitHub repo + webrpg mirror only (0 stars, created 2023-05-21; web search finds no Steam/itch/press traces, only generic RPG Maker results); game data 21 maps / 161 events / 1399 dialogue lines, locale pt_BR, opening confirms the ISO 25000 software-quality theme and travel across Brazil; zh-Hans title left blank ('Square' meaning unverifiable, not forced), ja title is a katakana transliteration; rating blank; popularity 1.",
+      "translatedTitles": {
+        "ja": "ISO25k スクエアRPG"
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "巴西葡萄牙语教育 RPG：以软件质量标准 ISO/IEC 25000 为主题，穿越巴西各州（圣保罗、阿拉戈斯、马瑙斯、圣卡塔琳娜），在旅馆、课堂与宫殿间完成质量特性问答（适用性、可用性、安全性、可维护性、性能、可靠性）。21 张地图、1399 行对白。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "A Brazilian Portuguese educational RPG about software quality (ISO/IEC 25000): travel across Brazil — São Paulo, Alagoas, Manaus, Santa Catarina — answering quiz questions on quality characteristics (suitability, usability, security, maintainability, performance, reliability) in inns, classrooms and a palace. 21 maps, 1,399 lines of dialogue.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "ブラジル・ポルトガル語の教育RPG。ソフトウェア品質規格 ISO/IEC 25000 をテーマに、サンパウロ・アラゴアス・マナウス・サンタカタリーナを旅し、宿屋・教室・宮殿で品質特性（適合性・使用性・安全性・保守性・性能・信頼性）のクイズに挑む。21マップ・1399行の台詞。",
+          "editorialStatus": "draft"
+        }
+      },
+      "contentAdvisory": {
+        "nsfw": false
+      }
+    },
+    "o-guardiao-da-historia-da-matematica-o-legado-dos-numeros": {
+      "schemaVersion": 1,
+      "slug": "o-guardiao-da-historia-da-matematica-o-legado-dos-numeros",
+      "originalTitle": "O Guardião da História da Matemática: O Legado dos Números",
+      "taxonomy": {
+        "genres": [
+          "rpg"
+        ],
+        "themes": [
+          "educational",
+          "fantasy"
+        ],
+        "contentType": "full-game"
+      },
+      "developers": [
+        {
+          "name": "Karina de Fátima Mesquita Silva"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/thomazdevmaster-matematica/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "thomazdevmaster-matematica",
+          "title": "O Guardião da História da Matemática: O Legado dos Números",
+          "languages": [
+            "pt"
+          ],
+          "nsfw": false
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/thomazdevmaster/matematica",
+          "https://webrpg.org/thomazdevmaster-matematica/",
+          "https://sca.profmat-sbm.org.br/busca_tcc_det.php?id=171059017&id1=8511"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 2,
+      "assessedAt": "2026-11-13",
+      "assessmentSources": [
+        "https://github.com/thomazdevmaster/matematica",
+        "https://webrpg.org/thomazdevmaster-matematica/",
+        "https://sca.profmat-sbm.org.br/busca_tcc_det.php?id=171059017&id1=8511"
+      ],
+      "assessmentNote": "2025 UFLA master's dissertation (PROFMAT, Karina de Fátima Mesquita Silva, approved 2025-09-30): the game 'O Guardião da História da Matemática: O Legado dos Números' was authored by the researcher and used in a teaching sequence in a public school in southern Minas Gerais (28 students); the dissertation's English abstract gives the official English title used here. Game data 16 maps / 242 events / 1613 dialogue lines, switches for the four number sets, locale pt_BR. Repo owner thomazdevmaster is the author's husband/helper (thanked in the dissertation), not listed as developer. The old meta title was a truncated form of the dissertation title, not a verified alias. No Steam/itch/press reviews, so rating blank; popularity 2 (dissertation subject + real classroom use, no broader spread).",
+      "translatedTitles": {
+        "zh-Hans": "数学史的守护者：数字的遗产",
+        "en": "The Guardian of the History of Mathematics: The Legacy of Numbers",
+        "ja": "数学史の守護者：数の遺産"
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "巴西葡萄牙语数学史教育 RPG：主角 Arithy 的《数学史》课本被偷走，穿越自然数、整数、有理数、无理数四个世界，导师 Chronos 指引、反派 Erase 作梗；2025 年 UFLA 硕士论文题材，曾用于米纳斯吉拉斯州南部公立学校的 9 年级教学（28 名学生）。16 张地图、1613 行对白。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "A Brazilian Portuguese educational RPG about the history of mathematics: protagonist Arithy's history-of-mathematics textbook is stolen, and she travels four worlds for the number sets N, Z, Q and I, guided by mentor Chronos against villain Erase. Subject of a 2025 UFLA master's dissertation, used with 28 ninth-grade students in a public school in southern Minas Gerais. 16 maps, 1,613 lines of dialogue.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "ブラジル・ポルトガル語の数学史教育RPG。主人公アリシーの『数学史』の教科書が盗まれ、自然数・整数・有理数・無理数の4つの世界を旅する。導師クロノスの導きと、悪役イレイズの妨害。2025年のUFLA修士論文の題材で、ミナスジェライス州南部の公立学校の9年生28名に使われた。16マップ・1613行の台詞。",
+          "editorialStatus": "draft"
+        }
+      },
+      "externalLinks": [
+        {
+          "url": "https://sca.profmat-sbm.org.br/busca_tcc_det.php?id=171059017&id1=8511",
+          "type": "source",
+          "label": "Master's dissertation (UFLA, 2025)"
+        }
+      ],
+      "contentAdvisory": {
+        "nsfw": false
+      }
+    },
+    "jornada-para-proto": {
+      "schemaVersion": 1,
+      "slug": "jornada-para-proto",
+      "originalTitle": "Jornada para proto",
+      "taxonomy": {
+        "genres": [
+          "rpg"
+        ],
+        "themes": [
+          "fantasy"
+        ],
+        "contentType": "full-game"
+      },
+      "developers": [
+        {
+          "name": "exadmax",
+          "url": "https://github.com/exadmax"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/exadmax-Proto/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "exadmax-proto",
+          "title": "Jornada para proto",
+          "languages": [
+            "pt"
+          ],
+          "nsfw": false
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/exadmax/Proto",
+          "https://webrpg.org/exadmax-Proto/"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 1,
+      "assessedAt": "2026-11-13",
+      "assessmentSources": [
+        "https://github.com/exadmax/Proto",
+        "https://webrpg.org/exadmax-Proto/"
+      ],
+      "assessmentNote": "GitHub repo + webrpg mirror only (0 stars, created 2020-09-28; web search finds no Steam/itch/press traces); README (Portuguese) documents the desktop-to-web adaptation; game data 49 maps / 240 events / 522 dialogue lines, locale pt_BR, dialogue verified Portuguese; translatedTitles are literal translations, not official; rating blank; popularity 1.",
+      "translatedTitles": {
+        "zh-Hans": "前往普罗托之旅",
+        "en": "Journey to Proto",
+        "ja": "プロトへの旅"
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "巴西葡萄牙语经典奇幻 RPG：原为桌面版 RPG Maker 工程，后以改良引擎 + jQuery 适配网页；穿行贝尔杜拉、巴兹洛克、拉兹坎、卡赞、卡希克等城镇与双塔、城堡。49 张地图、522 行对白。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "A Brazilian Portuguese classic fantasy RPG: originally a desktop RPG Maker project, later adapted to the web with a modified engine and jQuery. Travel the towns of Beldurra, Bazlok, Lazkan, Khazan and Kashik, two towers and a castle. 49 maps, 522 lines of dialogue.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "ブラジル・ポルトガル語のクラシック・ファンタジーRPG。もとはデスクトップ版RPGツクール作品で、改良エンジン+jQueryでウェブに移植。ベルドゥーラ・バズロク・ラズカン・カザン・カシクの町々と二つの塔・城を巡る。49マップ・522行の台詞。",
+          "editorialStatus": "draft"
+        }
+      },
+      "contentAdvisory": {
+        "nsfw": false
+      }
+    },
+    "jornades-dinnovacio-docent-uv": {
+      "schemaVersion": 1,
+      "slug": "jornades-dinnovacio-docent-uv",
+      "originalTitle": "Jornades d'Innovació Docent UV",
+      "taxonomy": {
+        "genres": [
+          "rpg"
+        ],
+        "themes": [
+          "educational"
+        ],
+        "contentType": "full-game",
+        "mechanics": [
+          "quiz"
+        ]
+      },
+      "developers": [
+        {
+          "name": "sanmollp",
+          "url": "https://github.com/sanmollp"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/sanmollp-sanmollp.github.io/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "sanmollp-sanmollp-github-io",
+          "title": "Jornades d'Innovació Docent UV",
+          "languages": [
+            "es",
+            "en"
+          ],
+          "nsfw": false
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/sanmollp/sanmollp.github.io",
+          "https://webrpg.org/sanmollp-sanmollp.github.io/",
+          "https://www.uv.es/gidmes/posts/2026/files/26Moll.pdf"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 2,
+      "assessedAt": "2026-11-13",
+      "assessmentSources": [
+        "https://github.com/sanmollp/sanmollp.github.io",
+        "https://webrpg.org/sanmollp-sanmollp.github.io/",
+        "https://www.uv.es/gidmes/posts/2026/files/26Moll.pdf"
+      ],
+      "assessmentNote": "Universitat de València conference paper (Santiago Moll López, VI JID): 'Caso A: juego digital en Matemáticas I', RPG Maker MZ as a game-based-learning environment, digital session N = 51 students; the in-game intro confirms the game was prepared for the Jornades d'Innovació Docent. Game data 9 maps / 110 events / 929 dialogue lines; framework dialogue verified Spanish, maths questions in English (Mathematica matrix notation), so languages corrected [en, es] -> [es, en]. No Steam/itch/press reviews, so rating blank; popularity 2 (conference paper + real classroom use, no broader spread). TranslatedTitles are literal translations of the conference name, not official.",
+      "translatedTitles": {
+        "zh-Hans": "UV 教学创新日",
+        "en": "UV Teaching Innovation Conference",
+        "ja": "UV教育イノベーション・デイズ"
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "西班牙语数学模拟 RPG：为瓦伦西亚大学高等教育数学教学创新日（VI Jornades d'Innovació Docent en Matemàtiques en Educació Superior）准备的教学游戏，用于数学 I 课程（51 名学生）；浮空神殿 + 7 座地牢，NPC 出数学题，答对得生命与魔法。9 张地图、929 行对白。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "A Spanish-language mathematics simulation RPG prepared for the VI Teaching Innovation Conference in Higher-Education Mathematics at the Universitat de València, used in a Mathematics I course (51 students): a floating temple and 7 dungeons where NPCs pose maths questions — correct answers earn health and magic. 9 maps, 929 lines of dialogue.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "スペイン語の数学シミュレーションRPG。バレンシア大学の高等教育数学・教育イノベーション会議（第6回）のために用意された、数学Iの授業用ゲーム（学生51名）。浮遊神殿と7つのダンジョンでNPCが数学の問題を出し、正解すると体力と魔法が得られる。9マップ・929行の台詞。",
+          "editorialStatus": "draft"
+        }
+      },
+      "externalLinks": [
+        {
+          "url": "https://www.uv.es/gidmes/posts/2026/files/26Moll.pdf",
+          "type": "source",
+          "label": "VI JID conference paper (Universitat de València)"
+        }
+      ],
+      "contentAdvisory": {
+        "nsfw": false
+      }
+    },
+    "joshua-manto-portfolio-minigame": {
+      "schemaVersion": 1,
+      "slug": "joshua-manto-portfolio-minigame",
+      "originalTitle": "Joshua Manto Portfolio Minigame",
+      "taxonomy": {
+        "genres": [
+          "minigame"
+        ],
+        "themes": [],
+        "contentType": "full-game"
+      },
+      "developers": [
+        {
+          "name": "mantojoshua",
+          "url": "https://github.com/mantojoshua"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/mantojoshua-mantojoshua.github.io/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "mantojoshua-mantojoshua-github-io",
+          "title": "Joshua Manto Portfolio Minigame",
+          "languages": [
+            "en"
+          ],
+          "nsfw": false
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/mantojoshua/mantojoshua.github.io",
+          "https://webrpg.org/mantojoshua-mantojoshua.github.io/"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 1,
+      "assessedAt": "2026-11-13",
+      "assessmentSources": [
+        "https://github.com/mantojoshua/mantojoshua.github.io",
+        "https://webrpg.org/mantojoshua-mantojoshua.github.io/"
+      ],
+      "assessmentNote": "GitHub repo (the developer's portfolio site) + webrpg mirror only; portfolio site confirms Joshua Manto, QA Technician / Software Developer at Testronic since 2024; web search finds no other traces of this minigame. Game data 1 map / 6 events / 38 dialogue lines / 12 pages, with a clear arc (introduction, four skill NPCs, thank-you event with self-switches) — a complete micro-experience, kept, genres [minigame] per the game's own wording. System.json gameTitle is the abbreviation 'JM_Portfolio'; the list title is used as the game name. Rating blank; popularity 1.",
+      "translatedTitles": {
+        "zh-Hans": "约书亚·曼托作品集小游戏",
+        "ja": "ジョシュア・マント ポートフォリオ・ミニゲーム"
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "英文互动作品集小游戏：开发者 Joshua Manto（QA 技术员/软件开发者）的办公室漫步——与 NPC 交谈了解他的背景与技能（JavaScript/PHP/SQL/Java/Python；Ionic/Electron/Phaser）及项目（Help Desk 工单系统、考勤应用）。1 张地图、38 行对白。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "An English interactive portfolio minigame: walk around developer Joshua Manto's office (QA Technician / Software Developer) and talk to NPCs about his background, skills (JavaScript, PHP, SQL, Java, Python; Ionic, Electron, Phaser) and projects (a Help Desk Ticketing System, a timekeeping app). 1 map, 38 lines of dialogue.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "英語のインタラクティブ・ポートフォリオ・ミニゲーム。開発者ジョシュア・マント（QAテクニシャン/ソフトウェア開発者）のオフィスを歩き、NPCとの会話で経歴とスキル（JavaScript・PHP・SQL・Java・Python、Ionic・Electron・Phaser）やプロジェクト（ヘルプデスク・チケット管理システム、勤怠アプリ）を知る。1マップ・38行の台詞。",
+          "editorialStatus": "draft"
+        }
+      },
+      "contentAdvisory": {
+        "nsfw": false
+      }
     }
   }
 }
