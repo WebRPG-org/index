@@ -6769,6 +6769,718 @@
           "sexual content, including non-consensual sexual themes in dialogue"
         ]
       }
+    },
+    "dimmed-light": {
+      "schemaVersion": 1,
+      "slug": "dimmed-light",
+      "originalTitle": "Dimmed Light",
+      "taxonomy": {
+        "genres": [
+          "rpg"
+        ],
+        "themes": [
+          "fantasy"
+        ],
+        "contentType": "full-game"
+      },
+      "developers": [
+        {
+          "name": "Oscar Gilley",
+          "url": "https://oscargilley.github.io/"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/OscarGilley-OscarGilley.github.io/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "oscargilley-oscargilley-github-io",
+          "title": "Dimmed Light",
+          "languages": [
+            "en"
+          ],
+          "nsfw": false
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://oscargilley.github.io/",
+          "https://github.com/OscarGilley/OscarGilley.github.io"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 1,
+      "assessedAt": "2026-11-12",
+      "assessmentSources": [
+        "https://oscargilley.github.io/",
+        "https://github.com/OscarGilley/OscarGilley.github.io"
+      ],
+      "assessmentNote": "Author's personal site + GitHub repo are the only sources (0 stars, no Steam/itch/reviews; must not be confused with PixelGuse's urbex horror game of the same name); game data 19 maps / 94 events / 387 dialogue lines with a full quest arc to a final boss and ending cutscene; zh-Hans 黯淡之光 and ja ディムド・ライト are non-official literal/transliterated titles; rating blank; popularity 1.",
+      "translatedTitles": {
+        "zh-Hans": "黯淡之光",
+        "ja": "ディムド・ライト"
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "一款大学三年级游戏开发课程作业：作者 Oscar Gilley 制作的原创故事小品 RPG，玩家扮演 James，与 Therese、Felicia、Luth 结伴，从城镇出发，穿越野外与城堡地牢，最终击败 Dimmer。作者称其可在手机与桌面浏览器上完整游玩。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "A third-year university game-development module project by Oscar Gilley: a small original-story RPG in which James travels with Therese, Felicia, and Luth from town through fields and castle dungeons to defeat Dimmer. The author describes it as fully playable in mobile and desktop browsers.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "Oscar Gilley による大学3年次のゲーム開発科目の課題作品。オリジナルストーリーの小品RPGで、主人公 James は Therese、Felicia、Luth とともに町を出発し、野原と城のダンジョンを越えて Dimmer を倒す。作者によればモバイルとデスクトップのブラウザで完全に遊べる。",
+          "editorialStatus": "draft"
+        }
+      },
+      "externalLinks": [
+        {
+          "type": "official",
+          "url": "https://oscargilley.github.io/",
+          "label": "Author site — Oscar Gilley"
+        },
+        {
+          "type": "source",
+          "url": "https://github.com/OscarGilley/OscarGilley.github.io",
+          "label": "GitHub — OscarGilley/OscarGilley.github.io"
+        }
+      ],
+      "contentAdvisory": {
+        "nsfw": false
+      }
+    },
+    "dirt": {
+      "schemaVersion": 1,
+      "slug": "dirt",
+      "originalTitle": "Dirt",
+      "taxonomy": {
+        "genres": [
+          "adventure"
+        ],
+        "themes": [
+          "fantasy",
+          "horror"
+        ],
+        "contentType": "full-game"
+      },
+      "developers": [
+        {
+          "name": "zhuobinggang",
+          "url": "https://github.com/zhuobinggang"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/zhuobinggang-flower-of-evil/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "zhuobinggang-flower-of-evil",
+          "title": "Dirt",
+          "languages": [
+            "zh-Hans"
+          ],
+          "nsfw": false
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/zhuobinggang/dirt-rpg",
+          "https://github.com/zhuobinggang/flower-of-evil"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 1,
+      "assessedAt": "2026-11-12",
+      "assessmentSources": [
+        "https://github.com/zhuobinggang/dirt-rpg",
+        "https://github.com/zhuobinggang/flower-of-evil"
+      ],
+      "assessmentNote": "GitHub repos only (both 0 stars; no Steam/itch/reviews); README (2025-02-12) confirms Dirt is a port of the author's Twine game 《托托里之壶》; the indexed playable fork is the older 49-map build nested in flower-of-evil/dirt/www (versionId 48167456) while the newer dirt-rpg build (50 maps, versionId 81740933) is unplayable in old meta and stays unlinked; the flower-of-evil repo root holds a different, unindexed game (Flower of Evil, 26 maps) — not migrated; zh-Hans title left blank (no official Chinese title; 秽土 is an in-game concept, not a title); rating blank; popularity 1.",
+      "translatedTitles": {
+        "ja": "ダート"
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "作者 zhuobinggang 的长篇中文 RPG：失忆的主角住在王国边境，与哥布林跟班和史莱姆跟班同行，穿越哥布林巢穴、王城监狱与地底空洞，追寻秽土净化与不死之王的真相，直至最终决战。本作是作者 Twine 文字游戏《托托里之壶》的 RPG Maker 移植版。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "A long Chinese RPG by zhuobinggang: an amnesiac protagonist living on the kingdom's border travels with a goblin and a slime companion through goblin nests, the royal prison, and underground caverns, pursuing the truth of the defiled earth and the Undying King to a final battle. A port of the author's Twine game 《托托里之壶》 (Totori's Pot) to RPG Maker.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "zhuobinggang による長編中国語RPG。記憶を失った主人公は王国の辺境に住み、ゴブリンとスライムの仲間とともにゴブリンの巣、王城の監獄、地底の空洞を巡り、穢土の浄化と不死の王の真実を追って最終決戦へ向かう。作者の Twine ゲーム《托托里之壶》を RPG Maker に移植した作品。",
+          "editorialStatus": "draft"
+        }
+      },
+      "externalLinks": [
+        {
+          "type": "source",
+          "url": "https://github.com/zhuobinggang/dirt-rpg",
+          "label": "GitHub — zhuobinggang/dirt-rpg (newer build, unplayable)"
+        },
+        {
+          "type": "source",
+          "url": "https://github.com/zhuobinggang/flower-of-evil",
+          "label": "GitHub — zhuobinggang/flower-of-evil (deployed build in dirt/www)"
+        }
+      ],
+      "contentAdvisory": {
+        "nsfw": false
+      }
+    },
+    "dissidia-tactics-fantasy": {
+      "schemaVersion": 1,
+      "slug": "dissidia-tactics-fantasy",
+      "originalTitle": "DISSIDIA TACTICS FANTASY",
+      "taxonomy": {
+        "genres": [
+          "strategy"
+        ],
+        "themes": [
+          "fantasy"
+        ],
+        "contentType": "full-game",
+        "mechanics": [
+          "tactics-battle"
+        ]
+      },
+      "developers": [
+        {
+          "name": "unofficialsquaregames",
+          "url": "https://github.com/unofficialsquaregames"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/unofficialsquaregames-DISSIDIA-TACTICS-FANTASY/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "unofficialsquaregames-dissidia-tactics-fantasy",
+          "title": "DISSIDIA TACTICS FANTASY",
+          "languages": [
+            "ja"
+          ],
+          "nsfw": false
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/unofficialsquaregames/DISSIDIA-TACTICS-FANTASY-",
+          "https://uno-ff-world.unofficialsquaregames.workers.dev/",
+          "https://github.com/unofficialsquaregames"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 2,
+      "assessedAt": "2026-11-12",
+      "assessmentSources": [
+        "https://github.com/unofficialsquaregames/DISSIDIA-TACTICS-FANTASY-",
+        "https://uno-ff-world.unofficialsquaregames.workers.dev/",
+        "https://github.com/unofficialsquaregames"
+      ],
+      "assessmentNote": "Repo + circle site only (1,000 commits, 0 stars; no third-party reviews); 100+ Final Fantasy characters and FF arenas, online versus via TacticsBattleSysOnline; the battle system lives in CommonEvents (751-command battle dialogue) while map events are empty placeholders — a complete battle game with no story mode, not an empty shell; unofficial fan game, not Square Enix; translated titles are non-official; rating blank; popularity 2.",
+      "translatedTitles": {
+        "zh-Hans": "迪西迪亚战术幻想",
+        "ja": "ディシディア タクティクス ファンタジー"
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "日本同人社团 unofficialsquaregames 制作的《最终幻想》同人战棋对战游戏：上百名历代《最终幻想》角色登场，在比萨伊德岛、达尔马斯卡沙漠、纳尔谢炭矿等名场景竞技场中进行回合制战术对战，支持在线匹配。非官方作品，与 Square Enix 无关。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "An unofficial Final Fantasy fan tactics-battle game by the Japanese circle unofficialsquaregames: over a hundred characters from across the Final Fantasy series fight turn-based tactical battles in arenas drawn from the series — Besaid Island, the Dalmasca Desert, Narshe Mines, and more — with online matchmaking. Not affiliated with Square Enix.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "日本の同人サークル unofficialsquaregames によるファイナルファンタジーの同人タクティクスバトルゲーム。歴代 FF の100名以上のキャラクターが登場し、ビサイド島、ダルマスカ砂漠、ナルシェ炭鉱などの名場面アリーナでターン制タクティクスバトルを繰り広げ、オンライン対戦にも対応する。非公式作品で、スクウェア・エニックスとは無関係。",
+          "editorialStatus": "draft"
+        }
+      },
+      "externalLinks": [
+        {
+          "type": "official",
+          "url": "https://uno-ff-world.unofficialsquaregames.workers.dev/",
+          "label": "Circle site — UNO FINAL FANTASY WORLD (character catalogue)"
+        },
+        {
+          "type": "source",
+          "url": "https://github.com/unofficialsquaregames/DISSIDIA-TACTICS-FANTASY-",
+          "label": "GitHub — unofficialsquaregames/DISSIDIA-TACTICS-FANTASY-"
+        }
+      ],
+      "contentAdvisory": {
+        "nsfw": false
+      }
+    },
+    "divirtual": {
+      "schemaVersion": 1,
+      "slug": "divirtual",
+      "originalTitle": "Divirtual!",
+      "taxonomy": {
+        "genres": [
+          "rpg"
+        ],
+        "themes": [
+          "fantasy",
+          "slice-of-life"
+        ],
+        "contentType": "full-game"
+      },
+      "developers": [],
+      "media": {
+        "cover": "https://webrpg.org/akanetr-Divirtual/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "akanetr-divirtual",
+          "title": "Divirtual!",
+          "languages": [
+            "en"
+          ],
+          "nsfw": true,
+          "notes": "English full version (2020); 115 maps, MQ01–MQ10."
+        },
+        {
+          "type": "internal",
+          "id": "tomoshibi06-divirtualdemo",
+          "title": "Divirtual!-体験版",
+          "languages": [
+            "ja"
+          ],
+          "nsfw": true,
+          "notes": "Japanese trial version (体験版, 2018); 28 maps, story through MQ06."
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/akanetr/Divirtual",
+          "https://github.com/tomoshibi06/divirtualdemo"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 1,
+      "assessedAt": "2026-11-12",
+      "assessmentSources": [
+        "https://github.com/akanetr/Divirtual",
+        "https://github.com/tomoshibi06/divirtualdemo"
+      ],
+      "assessmentNote": "GitHub repos only (4 stars/8 forks and 1 star/3 forks; no store/reviews); 2018 Japanese trial version (28 maps, through MQ06) and 2020 English full version (115 maps, MQ01-10) confirmed the same game (same opening event, maps, switches); tickling-fetish design — 15 くすぐり switches, 発情, 回想 CG gallery, 採尿草/ローションタンク/おしおきチェアー enemies, 'Nana tickling' map with 177 dialogue lines — nsfw corrected false -> true; developers unconfirmed (akanetr vs tomoshibi06 relationship unknown), left blank; ja title is a non-official transliteration, zh-Hans left blank; rating blank; popularity 1.",
+      "translatedTitles": {
+        "ja": "ディヴィルチュアル"
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "一款日式幻想 RPG：少女春花与柚叶在风车小镇艾梅拉利亚生活、上学、加入公会，冒险逐渐深入海神洞窟、冰雪都市与魔王城。2018 年日语体验版与 2020 年英文完整版并存。本作含有挠痒恋物向内容。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "A Japanese fantasy RPG: Haruka and Yuzuha live, study, and join a guild in the windmill town of Emeralia, venturing deeper into the sea god's cave, the snow city, and the Demon King's castle. A 2018 Japanese trial version and a 2020 English full version both exist. Contains tickling-fetish content.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "日系ファンタジーRPG。少女・春花と柚葉は風車の街エメラリアで暮らし、学校に通い、ギルドに加わり、海神の洞窟、氷雪都市、魔王城へと冒険を深めていく。2018年の日本語体験版と2020年の英語完全版が存在する。くすぐりフェチ要素を含む。",
+          "editorialStatus": "draft"
+        }
+      },
+      "externalLinks": [
+        {
+          "type": "source",
+          "url": "https://github.com/akanetr/Divirtual",
+          "label": "GitHub — akanetr/Divirtual (English full version)"
+        },
+        {
+          "type": "source",
+          "url": "https://github.com/tomoshibi06/divirtualdemo",
+          "label": "GitHub — tomoshibi06/divirtualdemo (Japanese trial version)"
+        }
+      ],
+      "contentAdvisory": {
+        "nsfw": true,
+        "warnings": [
+          "tickling-fetish content: recurring tickling scenes, arousal-themed switches, and a CG recollection gallery"
+        ]
+      }
+    },
+    "dk-crew-adventures": {
+      "schemaVersion": 1,
+      "slug": "dk-crew-adventures",
+      "originalTitle": "DK Crew Adventures",
+      "taxonomy": {
+        "genres": [
+          "rpg"
+        ],
+        "themes": [
+          "fantasy",
+          "comedy"
+        ],
+        "contentType": "full-game"
+      },
+      "developers": [
+        {
+          "name": "MGSRaiden2",
+          "url": "https://github.com/MGSRaiden2"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/MGSRaiden2-DK-Crew/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "mgsraiden2-dk-crew",
+          "title": "DK Crew Adventures",
+          "languages": [
+            "en"
+          ],
+          "nsfw": false
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/MGSRaiden2/DK-Crew"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 1,
+      "assessedAt": "2026-11-12",
+      "assessmentSources": [
+        "https://github.com/MGSRaiden2/DK-Crew"
+      ],
+      "assessmentNote": "GitHub repo only (1 star/4 forks, 2015; no Steam/itch/reviews); game data 35 maps / 187 events / 558 dialogue lines — a complete small RPG; crude profanity in dialogue ('suck my dick', 'sex dungeon' joke) is insult/joke, not sexual content, so nsfw stays false; translated titles are non-official; rating blank; popularity 1.",
+      "translatedTitles": {
+        "zh-Hans": "DK小队冒险",
+        "ja": "ディーケー・クルー・アドベンチャーズ"
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "一款英文小品 RPG：主角 Josh 与 DK 小队的伙伴们在城镇、森林与 Scandale 之间冒险，挑战多层地牢。对白充满粗俗玩笑。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "A small English RPG: Josh and the DK Crew adventure between towns, forests, and Scandale, delving into a multi-floor dungeon. The dialogue is full of crude jokes.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "英語の小品RPG。主人公 Josh と DK クルーの仲間たちが町、森、Scandale を巡り、多層ダンジョンに挑む。下品なジョークの多い台詞が特徴。",
+          "editorialStatus": "draft"
+        }
+      },
+      "externalLinks": [
+        {
+          "type": "source",
+          "url": "https://github.com/MGSRaiden2/DK-Crew",
+          "label": "GitHub — MGSRaiden2/DK-Crew"
+        }
+      ],
+      "contentAdvisory": {
+        "nsfw": false
+      }
+    },
+    "do-you-really-want-to-play": {
+      "schemaVersion": 1,
+      "slug": "do-you-really-want-to-play",
+      "originalTitle": "Do You REALLY Want To Play?",
+      "taxonomy": {
+        "genres": [
+          "rpg"
+        ],
+        "themes": [
+          "experimental"
+        ],
+        "contentType": "full-game"
+      },
+      "developers": [
+        {
+          "name": "Noorin Asjad",
+          "url": "https://github.com/NoorinAsjad"
+        }
+      ],
+      "media": {
+        "cover": null
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "noorinasjad-global-gamejam-2018",
+          "title": "Do You REALLY Want To Play?",
+          "languages": [
+            "en"
+          ],
+          "nsfw": false
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/NoorinAsjad/Global-Gamejam-2018",
+          "https://www.youtube.com/watch?v=iZNAlquF3S4"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 1,
+      "assessedAt": "2026-11-12",
+      "assessmentSources": [
+        "https://github.com/NoorinAsjad/Global-Gamejam-2018",
+        "https://www.youtube.com/watch?v=iZNAlquF3S4"
+      ],
+      "assessmentNote": "GGJ 2018 Nashville site (Vanderbilt Wond'ry, 36 hours, theme 'Transmission') + repo + 3-minute YouTube gameplay video are the only sources (the GGJ game page itself returned 403, not cited); game data 8 maps / 59 events / 81 dialogue lines — a complete small jam game; translated titles are non-official; rating blank; popularity 1.",
+      "translatedTitles": {
+        "zh-Hans": "你真的想玩吗？",
+        "ja": "本当にプレイしたいですか？"
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "2018 年 Global Game Jam 纳什维尔站作品（范德堡大学 Wond'ry，36 小时，主题「Transmission」）：玩家穿越以游戏开发分工为主题的世界——程序、美术、叙事、音效——挑战 Boss 房与奖励关。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "A Global Game Jam 2018 entry from the Nashville site (Vanderbilt Wond'ry, 36 hours, theme 'Transmission'): travel through worlds themed on game-development roles — programming, art, storytelling, sound design — with a boss room and a bonus level.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "Global Game Jam 2018 ナッシュビル会場（ヴァンダービルト大学 Wond'ry、36時間、テーマ「Transmission」）の作品。プログラマー、アーティスト、ストーリーテラー、サウンドデザイナーといったゲーム開発の役割をテーマにした世界を巡り、ボス部屋とボーナスレベルに挑む。",
+          "editorialStatus": "draft"
+        }
+      },
+      "externalLinks": [
+        {
+          "type": "source",
+          "url": "https://github.com/NoorinAsjad/Global-Gamejam-2018",
+          "label": "GitHub — NoorinAsjad/Global-Gamejam-2018"
+        },
+        {
+          "type": "other",
+          "url": "https://www.youtube.com/watch?v=iZNAlquF3S4",
+          "label": "Gameplay video (YouTube, 3 min)"
+        }
+      ],
+      "contentAdvisory": {
+        "nsfw": false
+      }
+    },
+    "dragon-warrior": {
+      "schemaVersion": 1,
+      "slug": "dragon-warrior",
+      "originalTitle": "Dragon Warrior",
+      "taxonomy": {
+        "genres": [
+          "rpg"
+        ],
+        "themes": [
+          "fantasy"
+        ],
+        "contentType": "full-game"
+      },
+      "developers": [
+        {
+          "name": "TNuzzi",
+          "url": "https://github.com/TNuzzi"
+        }
+      ],
+      "media": {
+        "cover": null
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "tnuzzi-dragonwarriormv",
+          "title": "Dragon Warrior",
+          "languages": [
+            "en"
+          ],
+          "nsfw": false
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/TNuzzi/DragonWarriorMV"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 1,
+      "assessedAt": "2026-11-12",
+      "assessmentSources": [
+        "https://github.com/TNuzzi/DragonWarriorMV"
+      ],
+      "assessmentNote": "GitHub repo only (no Steam/itch/reviews); fan remake of NES Dragon Warrior (Dragon Quest I) in RPG Maker MV — Alefgard, Brecconary, Tantegel Castle, Erdrick's Sword, Dragonlord, 42 maps / 852 events / 523 dialogue lines; must not be confused with the official Dragon Quest or the itch project 'Dragon Warrior: Descendant of Erdrick' by another author; old 7/6 scores not carried (no evidence); translated titles are literal renderings, not the official DQ titles; rating blank; popularity 1.",
+      "translatedTitles": {
+        "zh-Hans": "龙战士",
+        "ja": "ドラゴンウォリアー"
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "NES《Dragon Warrior》（即《Dragon Quest I》）的 RPG Maker MV 同人重制：重现亚列弗加德大陆的完整流程——布雷科纳里、坦特吉尔城堡、艾尔德里克之剑与龙王决战。同人作品，与官方无关。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "An RPG Maker MV fan remake of the NES Dragon Warrior (Dragon Quest I): a full recreation of the Alefgard journey — Brecconary, Tantegel Castle, Erdrick's Sword, and the final battle with the Dragonlord. An unofficial fan work.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "ファミコン版『Dragon Warrior』（『ドラゴンクエストI』）の RPG Maker MV による同人リメイク。アレフガルド大陸を巡る完全な旅——ブレコナリー、タンテゲル城、エルドリックの剣、竜王との決戦——を再現した非公式ファン作品。",
+          "editorialStatus": "draft"
+        }
+      },
+      "externalLinks": [
+        {
+          "type": "source",
+          "url": "https://github.com/TNuzzi/DragonWarriorMV",
+          "label": "GitHub — TNuzzi/DragonWarriorMV"
+        }
+      ],
+      "contentAdvisory": {
+        "nsfw": false
+      }
+    },
+    "dragons-den": {
+      "schemaVersion": 1,
+      "slug": "dragons-den",
+      "originalTitle": "Dragon's Den",
+      "taxonomy": {
+        "genres": [
+          "rpg"
+        ],
+        "themes": [
+          "fantasy"
+        ],
+        "contentType": "demo"
+      },
+      "developers": [
+        {
+          "name": "brunolcarli",
+          "url": "https://github.com/brunolcarli"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/brunolcarli-Dragonsden/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "brunolcarli-dragonsden",
+          "title": "Dragon's Den",
+          "languages": [
+            "en"
+          ],
+          "nsfw": false
+        },
+        {
+          "type": "internal",
+          "id": "brunolcarli-rpgmakermvweb3integration-testgame",
+          "title": "Dragon's Den",
+          "languages": [
+            "en"
+          ],
+          "nsfw": false,
+          "notes": "Earlier prototype build (2026-05-30); game data identical to the main repo."
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/brunolcarli/Dragonsden",
+          "https://github.com/brunolcarli/RPGMakerMVWeb3Integration_testgame"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 1,
+      "assessedAt": "2026-11-12",
+      "assessmentSources": [
+        "https://github.com/brunolcarli/Dragonsden",
+        "https://github.com/brunolcarli/RPGMakerMVWeb3Integration_testgame"
+      ],
+      "assessmentNote": "GitHub repos only; both forks have byte-identical game data (System.json versionId 78175902, 5 maps / 51 events / 24 dialogue lines); testgame (2026-05-30) is the earlier prototype build, Dragonsden (2026-06-01) the main repo — both listed as instances; Map001 has 6 real events (wallet display, blockchain sword claim, sword-gated guard, transfers); a small Web3 integration demo with a complete mini-loop; translated titles are non-official; rating blank; popularity 1.",
+      "translatedTitles": {
+        "zh-Hans": "龙之巢穴",
+        "ja": "ドラゴンズ・デン"
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "一款小型 Web3 RPG 演示：连接钱包（OKX/MetaMask），在链上领取区块链之剑 NFT，通过持剑守卫的检查，角色进度经 GraphQL 后端保存在以太坊 Sepolia 测试网。流程短小但完整。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "A small Web3 RPG demo: connect a wallet (OKX/MetaMask), claim a Blockchain Sword NFT on-chain, pass a sword-gated guard, and save progress through a GraphQL backend on Ethereum Sepolia. Short but complete.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "小型の Web3 RPG デモ。ウォレット（OKX/MetaMask）を接続し、ブロックチェーンソード NFT をオンチェーンで取得し、剣を持つ者のみ通す衛兵を越え、GraphQL バックエンド経由で Ethereum Sepolia に進行状況を保存する。短いながら一連の流れが完結している。",
+          "editorialStatus": "draft"
+        }
+      },
+      "externalLinks": [
+        {
+          "type": "official",
+          "url": "https://brunolcarli.github.io/dragonsden-game/",
+          "label": "Play — Dragon's Den (GitHub Pages)"
+        },
+        {
+          "type": "source",
+          "url": "https://github.com/brunolcarli/Dragonsden",
+          "label": "GitHub — brunolcarli/Dragonsden"
+        },
+        {
+          "type": "source",
+          "url": "https://github.com/brunolcarli/RPGMakerMVWeb3Integration_testgame",
+          "label": "GitHub — brunolcarli/RPGMakerMVWeb3Integration_testgame"
+        }
+      ],
+      "contentAdvisory": {
+        "nsfw": false
+      }
     }
   }
 }

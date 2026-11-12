@@ -11845,17 +11845,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/OscarGilley-OscarGilley.github.io/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg"
-      ],
-      "languages": [
-        "en"
-      ],
-      "nsfw": false,
+      "gameSlug": "dimmed-light",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "reviewedAt": "2026-11-07",
+      "nsfw": false,
+      "reviewedSourceHeadSha": "9927e81ec35a1740dfd672408e9be2623b81b921"
     }
   },
   {
@@ -11885,14 +11879,9 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/zhuobinggang-dirt-rpg/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "adventure"
-      ],
-      "nsfw": false,
       "playable": false,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "reviewedAt": "2026-11-07",
+      "nsfw": false
     }
   },
   {
@@ -11922,17 +11911,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/zhuobinggang-flower-of-evil/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "adventure"
-      ],
-      "languages": [
-        "zh-Hans"
-      ],
-      "nsfw": false,
+      "gameSlug": "dirt",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "reviewedAt": "2026-11-07",
+      "nsfw": false,
+      "reviewedSourceHeadSha": "fa34b621814c6c4158553ae17058f45dd96b2cf6"
     }
   },
   {
@@ -11986,18 +11969,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/unofficialsquaregames-DISSIDIA-TACTICS-FANTASY/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "strategy",
-        "fantasy"
-      ],
-      "languages": [
-        "ja"
-      ],
-      "nsfw": false,
+      "gameSlug": "dissidia-tactics-fantasy",
       "playable": true,
-      "popularity": 3,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "reviewedAt": "2026-11-07",
+      "nsfw": false,
+      "reviewedSourceHeadSha": "942ae3d705006c25d903be5f68f35d727837ea07"
     }
   },
   {
@@ -12027,18 +12003,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/akanetr-Divirtual/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg",
-        "slice-of-life"
-      ],
-      "languages": [
-        "en"
-      ],
-      "nsfw": false,
+      "gameSlug": "divirtual",
       "playable": true,
-      "popularity": 3,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "reviewedAt": "2026-11-07",
+      "nsfw": true,
+      "reviewedSourceHeadSha": "2d66b6766872eb4448e02c9774223e0339e706c5"
     }
   },
   {
@@ -12065,19 +12034,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/tomoshibi06-divirtualdemo/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "reviewedAt": "2026-11-07",
+      "gameSlug": "divirtual",
       "playable": true,
-      "rating": 5,
-      "popularity": 2,
-      "title": "Divirtual!",
-      "genres": [
-        "rpg",
-        "fantasy"
-      ],
-      "nsfw": false,
-      "languages": [
-        "ja"
-      ]
+      "reviewedAt": "2026-11-07",
+      "nsfw": true,
+      "reviewedSourceHeadSha": "eb25eaf44777664e535a0d34a687c6d431380981"
     }
   },
   {
@@ -12107,17 +12068,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/MGSRaiden2-DK-Crew/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg"
-      ],
-      "languages": [
-        "en"
-      ],
-      "nsfw": false,
+      "gameSlug": "dk-crew-adventures",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "reviewedAt": "2026-11-07",
+      "nsfw": false,
+      "reviewedSourceHeadSha": "cf93a29e7173c240f0dbd2b9925c7e12c15e7205"
     }
   },
   {
@@ -12145,17 +12100,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/NoorinAsjad-Global-Gamejam-2018/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg"
-      ],
-      "languages": [
-        "en"
-      ],
-      "nsfw": false,
+      "gameSlug": "do-you-really-want-to-play",
       "playable": true,
-      "popularity": 3,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "reviewedAt": "2026-11-07",
+      "nsfw": false,
+      "reviewedSourceHeadSha": "192ce54c5697ad5d633d3f316c2fa81fe947ce6f"
     }
   },
   {
@@ -12221,17 +12170,9 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/johnnypackard-unnamed-rpg/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg"
-      ],
-      "languages": [
-        "en"
-      ],
-      "nsfw": false,
-      "playable": true,
-      "popularity": 2,
-      "rating": 4,
-      "reviewedAt": "2026-11-07"
+      "playable": false,
+      "reviewedAt": "2026-11-07",
+      "nsfw": false
     }
   },
   {
@@ -12259,18 +12200,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/TNuzzi-DragonWarriorMV/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg",
-        "fantasy"
-      ],
-      "languages": [
-        "en"
-      ],
-      "nsfw": false,
+      "gameSlug": "dragon-warrior",
       "playable": true,
-      "popularity": 6,
-      "rating": 7,
-      "reviewedAt": "2026-11-07"
+      "reviewedAt": "2026-11-07",
+      "nsfw": false,
+      "reviewedSourceHeadSha": "ba13883bb94b3186499c3a654a81067e60f4f3f6"
     }
   },
   {
@@ -12300,18 +12234,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/brunolcarli-Dragonsden/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg",
-        "fantasy"
-      ],
-      "languages": [
-        "en"
-      ],
-      "nsfw": false,
+      "gameSlug": "dragons-den",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "reviewedAt": "2026-11-07",
+      "nsfw": false,
+      "reviewedSourceHeadSha": "bdad6af8f2301b5d1a642927cfe08b5ec8d13042"
     }
   },
   {
@@ -12341,18 +12268,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/brunolcarli-RPGMakerMVWeb3Integration_testgame/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg",
-        "fantasy"
-      ],
-      "languages": [
-        "en"
-      ],
-      "nsfw": false,
+      "gameSlug": "dragons-den",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "reviewedAt": "2026-11-07",
+      "nsfw": false,
+      "reviewedSourceHeadSha": "9ce3ad593b472ca84adf3a4494cc75dbba0f7220"
     }
   },
   {
