@@ -9709,6 +9709,658 @@
       "contentAdvisory": {
         "nsfw": false
       }
+    },
+    "fouzis-quest-2": {
+      "schemaVersion": 1,
+      "slug": "fouzis-quest-2",
+      "originalTitle": "Fouzi's Quest 2",
+      "taxonomy": {
+        "genres": [
+          "rpg"
+        ],
+        "themes": [
+          "comedy"
+        ],
+        "contentType": "full-game"
+      },
+      "developers": [
+        {
+          "name": "helisoya",
+          "url": "https://github.com/helisoya"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/helisoya-FouziQuest2/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "helisoya-fouziquest2",
+          "title": "Fouzi's Quest 2",
+          "languages": [
+            "fr"
+          ],
+          "nsfw": false
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/helisoya/FouziQuest2",
+          "https://webrpg.org/helisoya-FouziQuest2/"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 1,
+      "assessedAt": "2026-11-13",
+      "assessmentSources": [
+        "https://github.com/helisoya/FouziQuest2",
+        "https://webrpg.org/helisoya-FouziQuest2/"
+      ],
+      "assessmentNote": "GitHub repo + webrpg mirror only (0 stars; web search finds no Steam/itch/wiki/press traces, only unrelated games named Fuzzy/Foggy/Queen's Quest 2); game data 63 maps / 676 events / 1121 dialogue lines — a complete quest chain (prison escape, Paris, Rome/Vatican boss, Madrid) with named quest variables; translated titles are non-official; rating blank; popularity 1.",
+      "translatedTitles": {
+        "zh-Hans": "富齐任务2",
+        "ja": "フージズ・クエスト2"
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "法式喜剧 RPG：主角越狱后一路从巴黎打到罗马与梵蒂冈、再到马德里，63 张地图、任务链（越狱、巴黎袭击、梵蒂冈王座）与 1121 行法语对白，结构完整的长篇业余作品。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "A French comedy RPG: after a prison escape, the quest runs from Paris to Rome and the Vatican, then Madrid — 63 maps, a quest chain (prison retreat, the attack on Paris, the Vatican throne), and 1,121 lines of French dialogue in a full-length amateur game.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "フランスのコメディRPG。脱獄から始まり、パリ、ローマとバチカン、マドリードへと続く旅。63マップ、クエストの連鎖（脱獄、パリ襲撃、バチカンの玉座）、1121行のフランス語の台詞を備えた長編のアマチュア作品。",
+          "editorialStatus": "draft"
+        }
+      },
+      "externalLinks": [
+        {
+          "type": "official",
+          "url": "https://webrpg.org/helisoya-FouziQuest2/",
+          "label": "Play — Fouzi's Quest 2 (WebRPG)"
+        },
+        {
+          "type": "source",
+          "url": "https://github.com/helisoya/FouziQuest2",
+          "label": "GitHub — helisoya/FouziQuest2"
+        }
+      ],
+      "contentAdvisory": {
+        "nsfw": false
+      }
+    },
+    "frayed-system": {
+      "schemaVersion": 1,
+      "slug": "frayed-system",
+      "originalTitle": "Frayed System",
+      "taxonomy": {
+        "genres": [
+          "adventure"
+        ],
+        "themes": [
+          "horror",
+          "sci-fi"
+        ],
+        "contentType": "full-game",
+        "mechanics": [
+          "stealth",
+          "hacking"
+        ]
+      },
+      "developers": [
+        {
+          "name": "ProximitiGames",
+          "url": "https://github.com/ProximitiGames"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/ProximitiGames-FrayedSystem/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "proximitigames-frayedsystem",
+          "title": "Frayed System",
+          "languages": [
+            "en"
+          ],
+          "nsfw": false
+        },
+        {
+          "type": "internal",
+          "id": "proximitigames-frayedsystemexe",
+          "title": "Frayed System",
+          "languages": [
+            "en"
+          ],
+          "nsfw": false,
+          "notes": "Executable deployment build; 18 maps vs 20 in the web build"
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/ProximitiGames/FrayedSystem",
+          "https://github.com/ProximitiGames/FrayedSystemExe",
+          "https://webrpg.org/ProximitiGames-FrayedSystem/",
+          "https://webrpg.org/ProximitiGames-FrayedSystemExe/"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 1,
+      "assessedAt": "2026-11-13",
+      "assessmentSources": [
+        "https://github.com/ProximitiGames/FrayedSystem",
+        "https://github.com/ProximitiGames/FrayedSystemExe",
+        "https://webrpg.org/ProximitiGames-FrayedSystem/",
+        "https://webrpg.org/ProximitiGames-FrayedSystemExe/"
+      ],
+      "assessmentNote": "GitHub repos + webrpg mirrors only (both repos 0 stars; web search finds no Steam/itch/wiki/press traces, only unrelated 'Fray'/'FRAYED' games); two forks are one game (same title/owner/map structure: floors 1-5, server room, CEO office; the Exe repo is explicitly the deployment executable of the same game; different versionId = different builds); game data 20/18 maps, 850/657 events, 478/284 dialogue lines; genres changed from old [rpg] to [adventure] + mechanics stealth/hacking (no battles/levels/stats, no RPG basis — MQ-075 precedent); translated titles are non-official; rating blank; popularity 1.",
+      "translatedTitles": {
+        "zh-Hans": "破裂系统",
+        "ja": "フレイド・システム"
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "潜行恐怖冒险：深入一栋五层大楼，躲避视觉与声音两种 AI 的追捕，用黑客装置瘫痪监控、刷门禁卡开门、靠检查点推进，从一层爬到服务器机房与 CEO 办公室。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "A stealth horror adventure: infiltrate a five-floor building, evade two kinds of hunting AI — Vision and Sound — hack cameras and lights, swipe keycards through locked doors, and push from checkpoint to checkpoint up to the server room and the CEO's office.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "ステルスホラー・アドベンチャー。5階建てのビルに潜入し、視覚と聴覚の2種類のAIの追跡をかわしながら、ハッキング装置で監視を無力化し、キーカードで扉を開け、チェックポイントを頼りにサーバールームとCEOオフィスを目指す。",
+          "editorialStatus": "draft"
+        }
+      },
+      "externalLinks": [
+        {
+          "type": "official",
+          "url": "https://webrpg.org/ProximitiGames-FrayedSystem/",
+          "label": "Play — Frayed System (WebRPG)"
+        },
+        {
+          "type": "official",
+          "url": "https://webrpg.org/ProximitiGames-FrayedSystemExe/",
+          "label": "Play — Frayed System, executable build (WebRPG)"
+        },
+        {
+          "type": "source",
+          "url": "https://github.com/ProximitiGames/FrayedSystem",
+          "label": "GitHub — ProximitiGames/FrayedSystem"
+        },
+        {
+          "type": "source",
+          "url": "https://github.com/ProximitiGames/FrayedSystemExe",
+          "label": "GitHub — ProximitiGames/FrayedSystemExe"
+        }
+      ],
+      "contentAdvisory": {
+        "nsfw": false
+      }
+    },
+    "fubuki-h-game": {
+      "schemaVersion": 1,
+      "slug": "fubuki-h-game",
+      "originalTitle": "Fubuki-H-Game",
+      "taxonomy": {
+        "genres": [
+          "simulation"
+        ],
+        "themes": [],
+        "contentType": "full-game",
+        "mechanics": [
+          "interaction",
+          "day-cycle"
+        ]
+      },
+      "developers": [
+        {
+          "name": "山含"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/feilongproject-Fubuki-H-Game/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "feilongproject-fubuki-h-game",
+          "title": "Fubuki-H-Game",
+          "languages": [
+            "zh-Hant"
+          ],
+          "nsfw": true
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/feilongproject/Fubuki-H-Game",
+          "https://webrpg.org/feilongproject-Fubuki-H-Game/"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 1,
+      "assessedAt": "2026-11-13",
+      "assessmentSources": [
+        "https://github.com/feilongproject/Fubuki-H-Game",
+        "https://webrpg.org/feilongproject-Fubuki-H-Game/"
+      ],
+      "assessmentNote": "GitHub repo + webrpg mirror only (0 stars; web search finds no traces of this game, only unrelated Fubuki fan games); game data 2 maps / 7 events / 42 dialogue lines — small but a complete loop (intro story, bed interactions, H-spirit values, days-together counter, climax-count livestream unlocks, sleep/save), not an empty shell; author 山含 per the in-game note; protagonist is Hololive VTuber Shirakami Fubuki (fan work); nsfw true confirmed by explicit sex-act variables (做愛次數, 口交次數, 前穴/肛門插入, 失神氣絕, 直播次數); translated titles are non-official; rating blank; popularity 1.",
+      "translatedTitles": {
+        "zh-Hans": "吹雪 H 游戏",
+        "ja": "フブキHゲーム"
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "白上吹雪同人 H 小游戏：新经纪人“蜀叔”上门，催眠与 H 直播的计划就此展开；每天到床上与吹雪互动，积累 H 精神值与各玩法的高潮次数，解锁直播画面，睡一觉恢复精神、推进天数。作者自述为第一次接触游戏制作的练习作品。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "A fan-made H mini-game starring Hololive VTuber Shirakami Fubuki: her new manager 'Uncle Shu' arrives, and a hypnosis and H-livestream scheme unfolds; each day, interact with Fubuki in bed, build H-spirit values and climax counts across acts to unlock livestream scenes, then sleep to recover and advance the day counter. The author's own note calls it a first practice project.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "ホロライブVTuber白上フブキの同人Hミニゲーム。新マネージャー「蜀叔」の訪問をきっかけに、催眠とH配信の計画が動き出す。毎日ベッドでフブキと触れ合い、H精神値と各プレイの絶頂回数を積み上げて配信シーンを解放し、眠って回復と日数進行。作者自身が「初めてのゲーム制作の練習作品」と記している。",
+          "editorialStatus": "draft"
+        }
+      },
+      "externalLinks": [
+        {
+          "type": "official",
+          "url": "https://webrpg.org/feilongproject-Fubuki-H-Game/",
+          "label": "Play — Fubuki-H-Game (WebRPG)"
+        },
+        {
+          "type": "source",
+          "url": "https://github.com/feilongproject/Fubuki-H-Game",
+          "label": "GitHub — feilongproject/Fubuki-H-Game"
+        }
+      ],
+      "contentAdvisory": {
+        "nsfw": true,
+        "warnings": [
+          "explicit sexual content",
+          "hypnosis / non-consensual sexual content"
+        ]
+      }
+    },
+    "luti": {
+      "schemaVersion": 1,
+      "slug": "luti",
+      "originalTitle": "露蒂",
+      "taxonomy": {
+        "genres": [
+          "rpg"
+        ],
+        "themes": [
+          "fantasy"
+        ],
+        "contentType": "full-game",
+        "mechanics": [
+          "recollection-mode"
+        ]
+      },
+      "developers": [],
+      "media": {
+        "cover": "https://webrpg.org/miku1hhhh-miku1hhhh.github.io/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "miku1hhhh-miku1hhhh-github-io",
+          "title": "露蒂",
+          "languages": [
+            "zh-Hant"
+          ],
+          "nsfw": true
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/miku1hhhh/miku1hhhh.github.io",
+          "https://webrpg.org/miku1hhhh-miku1hhhh.github.io/"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 1,
+      "assessedAt": "2026-11-13",
+      "assessmentSources": [
+        "https://github.com/miku1hhhh/miku1hhhh.github.io",
+        "https://webrpg.org/miku1hhhh-miku1hhhh.github.io/"
+      ],
+      "assessmentNote": "Personal-site repo + webrpg mirror only (0 stars; web searches for 露蒂亚王国 / 盗贼篇 欧克篇 露蒂 find no external traces); game data 20 maps / 104 events / 1524 dialogue lines — thief route + orc route + demon castle + pregnancy ending + recollection room, a complete adult RPG, not an empty shell; nsfw corrected false->true (routes: 盗賊初エッチ/縄H, オーク輪姦, 妊娠; switches レイプ/青姦レイプ; map hit フェラ); languages corrected [zh-Hans]->[zh-Hant] (dialogue is Traditional Chinese); the game has no verifiable title (gameTitle 'Game', stock title image, index.html title 'Game'), so it is keyed by its heroine 露蒂; structurally resembles 堕ち姫ルーシア物語 but heroine name, kingdom name, manipulator name and starting level (1 vs 99) all differ, so identity is NOT confirmed; original author unknown (a re-upload on a personal site; plugins.js is jsjiami-obfuscated); rating blank; popularity 1.",
+      "translatedTitles": {
+        "en": "Luti",
+        "ja": "ルティ"
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "成人奇幻 RPG：金发萝莉公主露蒂落入盗贼与欧克之手，在城镇、盗贼据点与魔王城之间经历多条 H 路线——盗贼篇、欧克篇、魔王城结局与怀孕结局，并设回想房间重温场景。对白为繁体中文，地图名为日文原名。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "An adult fantasy RPG: the blonde loli princess Luti falls into the hands of thieves and orcs, playing through multiple H routes across the town, the thieves' hideout, and the demon castle — a thief route, an orc route, a demon-castle ending, and a pregnancy ending — with a recollection room to revisit the scenes. Dialogue is in Traditional Chinese; map names are in Japanese.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "成人ファンタジーRPG。金髪の幼い王女ルティが盗賊とオークの手に落ち、町、盗賊のアジト、魔王城を舞台に複数のHルートを辿る。盗賊編、オーク編、魔王城エンディング、妊娠エンディング、そして回想部屋でシーンを振り返る。台詞は繁体字中国語、地図名は日本語のまま。",
+          "editorialStatus": "draft"
+        }
+      },
+      "externalLinks": [
+        {
+          "type": "official",
+          "url": "https://webrpg.org/miku1hhhh-miku1hhhh.github.io/",
+          "label": "Play — 露蒂 (WebRPG)"
+        },
+        {
+          "type": "source",
+          "url": "https://github.com/miku1hhhh/miku1hhhh.github.io",
+          "label": "GitHub — miku1hhhh/miku1hhhh.github.io"
+        }
+      ],
+      "contentAdvisory": {
+        "nsfw": true,
+        "warnings": [
+          "explicit sexual content",
+          "non-consensual sexual content",
+          "gang rape",
+          "pregnancy"
+        ]
+      }
+    },
+    "rpg-game1": {
+      "schemaVersion": 1,
+      "slug": "rpg-game1",
+      "originalTitle": "game1",
+      "taxonomy": {
+        "genres": [
+          "rpg"
+        ],
+        "themes": [
+          "fantasy"
+        ],
+        "contentType": "full-game"
+      },
+      "developers": [
+        {
+          "name": "FangBruce",
+          "url": "https://github.com/FangBruce"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/FangBruce-RPG_game1/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "fangbruce-rpg-game1",
+          "title": "game1",
+          "languages": [
+            "zh-Hant"
+          ],
+          "nsfw": false
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/FangBruce/RPG_game1",
+          "https://webrpg.org/FangBruce-RPG_game1/"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 1,
+      "assessedAt": "2026-11-13",
+      "assessmentSources": [
+        "https://github.com/FangBruce/RPG_game1",
+        "https://webrpg.org/FangBruce-RPG_game1/"
+      ],
+      "assessmentNote": "GitHub repo + webrpg mirror only (no README, no Steam/itch/reviews; GitHub API rate-limited when checking stars, does not change the conclusion: no external traces); game data 9 maps / 79 events / 40 dialogue lines — a real loop (NPC gifts, a recruitment battle with win/lose branches, a treasure chest, 35 transfers across town/castle/inn/shop), not an empty shell; title is alphanumeric so translatedTitles is blank (B-35/FD precedent); rating blank; popularity 1.",
+      "introductions": {
+        "zh-Hans": {
+          "summary": "中文小品 RPG：城镇、城堡、大房子与旅馆构成的 9 张地图；村民送上金币、药水与衣服，高台木屋旁的英雄以一场战斗考验主角，胜则入队，城堡宝箱里还有 200 金币。短小但玩法完整。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "A small Chinese RPG across 9 maps — a town, a castle, a big house, an inn, and a weapon shop: a villager hands over gold, potions, and clothes, a hero by the wooden house tests you in battle and joins the party if you win, and a castle chest holds 200 gold. Short, but mechanically complete.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "中国語の小品RPG。町、城、大きな家、宿屋、武器屋の9マップ。村人が金貨、薬、服をくれ、木の家のそばの英雄がバトルで試し、勝てば仲間になる。城の宝箱には200ゴールド。短いが仕組みは完結している。",
+          "editorialStatus": "draft"
+        }
+      },
+      "externalLinks": [
+        {
+          "type": "official",
+          "url": "https://webrpg.org/FangBruce-RPG_game1/",
+          "label": "Play — game1 (WebRPG)"
+        },
+        {
+          "type": "source",
+          "url": "https://github.com/FangBruce/RPG_game1",
+          "label": "GitHub — FangBruce/RPG_game1"
+        }
+      ],
+      "contentAdvisory": {
+        "nsfw": false
+      }
+    },
+    "gamedev-the-beginning": {
+      "schemaVersion": 1,
+      "slug": "gamedev-the-beginning",
+      "originalTitle": "GameDev: The Beginning",
+      "taxonomy": {
+        "genres": [
+          "rpg",
+          "adventure"
+        ],
+        "themes": [
+          "comedy"
+        ],
+        "contentType": "full-game"
+      },
+      "developers": [
+        {
+          "name": "yancharkin",
+          "url": "https://yancharkin.itch.io"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/yancharkin-game_jams/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "yancharkin-game-jams",
+          "title": "GameDev: The Beginning",
+          "languages": [
+            "en"
+          ],
+          "nsfw": false
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://yancharkin.itch.io/gamedev-the-beginning",
+          "https://github.com/yancharkin/game_jams",
+          "https://webrpg.org/yancharkin-game_jams/"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 2,
+      "assessedAt": "2026-11-13",
+      "assessmentSources": [
+        "https://yancharkin.itch.io/gamedev-the-beginning",
+        "https://github.com/yancharkin/game_jams",
+        "https://webrpg.org/yancharkin-game_jams/"
+      ],
+      "assessmentNote": "itch.io page (Released, HTML5/Windows/Linux, JRPG, IGMC 2017, devlog to 2024-08-22) + GitHub repo (1 star) + webrpg mirror; no ratings/reviews found, so rating is blank; game data 8 maps / 153 events / 431 dialogue lines — a complete jam arc (Joe's room, sewers, forest, slime/mushroom battles, forest boss, Vito joins); old meta had no languages field, dialogue verified English; translated titles are non-official; popularity 2 (itch page + jam entry + GitHub = some spread, but no reviews or press).",
+      "translatedTitles": {
+        "zh-Hans": "游戏开发：开端",
+        "ja": "ゲーム開発：始まり"
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "IGMC 2017 参赛作品：想当游戏开发者的 Joe 从自家房间出发，穿过下水道与森林，与史莱姆和蘑菇战斗，迎战森林 Boss，结识同伴 Vito——一场关于做游戏的游戏。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "An IGMC 2017 jam game: Joe, who wants to become a game developer, sets out from his room, fights slimes and mushrooms through the sewers and the forest, faces a forest boss, and recruits Vito — a game about making games.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "IGMC 2017参加作品。ゲーム開発者になりたいJoeが自室を出発し、下水道と森を抜けてスライムやキノコと戦い、森のボスに挑み、仲間Vitoと出会う。ゲーム作りについてのゲーム。",
+          "editorialStatus": "draft"
+        }
+      },
+      "externalLinks": [
+        {
+          "type": "store",
+          "url": "https://yancharkin.itch.io/gamedev-the-beginning",
+          "label": "GameDev: The Beginning on itch.io"
+        },
+        {
+          "type": "official",
+          "url": "https://webrpg.org/yancharkin-game_jams/",
+          "label": "Play — GameDev: The Beginning (WebRPG)"
+        },
+        {
+          "type": "source",
+          "url": "https://github.com/yancharkin/game_jams",
+          "label": "GitHub — yancharkin/game_jams"
+        }
+      ],
+      "contentAdvisory": {
+        "nsfw": false
+      }
+    },
+    "get-2-school": {
+      "schemaVersion": 1,
+      "slug": "get-2-school",
+      "originalTitle": "Get 2 School",
+      "taxonomy": {
+        "genres": [
+          "rpg",
+          "adventure"
+        ],
+        "themes": [
+          "slice-of-life"
+        ],
+        "contentType": "full-game"
+      },
+      "developers": [
+        {
+          "name": "Brand24376",
+          "url": "https://github.com/Brand24376"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/Brand24376-Brand24376.github.io/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "brand24376-brand24376-github-io",
+          "title": "Get 2 School",
+          "languages": [
+            "en"
+          ],
+          "nsfw": false
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/Brand24376/Brand24376.github.io",
+          "https://webrpg.org/Brand24376-Brand24376.github.io/game.html"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 1,
+      "assessedAt": "2026-11-13",
+      "assessmentSources": [
+        "https://github.com/Brand24376/Brand24376.github.io",
+        "https://webrpg.org/Brand24376-Brand24376.github.io/game.html"
+      ],
+      "assessmentNote": "GitHub repo (personal site, game under personalProjects/Get 2 School/) + webrpg mirror only (no README, no Steam/itch/reviews; GitHub API rate-limited when checking stars, does not change the conclusion: no external traces); game data 7 maps / 54 events / 99 dialogue lines — a complete small loop (home, boulder pass, two dungeons, forest pass, day/night + days system, torch switches, a dragon boss variable, fishing RNG); the debugroom map is a dev leftover, not a demo marker; translated titles are non-official; rating blank; popularity 1.",
+      "translatedTitles": {
+        "zh-Hans": "去上学",
+        "ja": "ゲット・トゥ・スクール"
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "上学路上的小冒险：从家里出发，穿过巨石通道与森林小径，深入两座地牢，点亮火把、按昼夜与天数推进，在龙 Boss 面前证明自己，只为按时到校。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "A small adventure on the way to school: set out from home, cross the boulder pass and the forest trail, delve into two dungeons, light torches, and advance through a day/night and days system to face a dragon boss — all to get to school on time.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "学校へ行く途中の小さな冒険。家を出て、岩の峠と森の小道を越え、2つのダンジョンに潜り、松明を灯し、昼夜と日数のシステムで進み、ドラゴンのボスに挑む。すべては学校に間に合うために。",
+          "editorialStatus": "draft"
+        }
+      },
+      "externalLinks": [
+        {
+          "type": "official",
+          "url": "https://webrpg.org/Brand24376-Brand24376.github.io/game.html",
+          "label": "Play — Get 2 School (WebRPG)"
+        },
+        {
+          "type": "source",
+          "url": "https://github.com/Brand24376/Brand24376.github.io",
+          "label": "GitHub — Brand24376/Brand24376.github.io"
+        }
+      ],
+      "contentAdvisory": {
+        "nsfw": false
+      }
     }
   }
 }

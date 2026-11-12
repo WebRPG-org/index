@@ -14251,18 +14251,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/helisoya-FouziQuest2/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg",
-        "comedy"
-      ],
-      "languages": [
-        "fr"
-      ],
-      "nsfw": false,
+      "gameSlug": "fouzis-quest-2",
       "playable": true,
-      "popularity": 3,
-      "rating": 6,
-      "reviewedAt": "2026-11-07"
+      "reviewedAt": "2026-11-07",
+      "nsfw": false,
+      "reviewedSourceHeadSha": "36bf391242d44a111218f1a30b3b9492c6d93d1f"
     }
   },
   {
@@ -14292,18 +14285,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/ProximitiGames-FrayedSystem/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg",
-        "sci-fi"
-      ],
-      "languages": [
-        "en"
-      ],
-      "nsfw": false,
+      "gameSlug": "frayed-system",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "reviewedAt": "2026-11-07",
+      "nsfw": false,
+      "reviewedSourceHeadSha": "381d3ffc1de9b213d1efde4977cf06224ee5a752"
     }
   },
   {
@@ -14333,18 +14319,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/ProximitiGames-FrayedSystemExe/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg",
-        "sci-fi"
-      ],
-      "languages": [
-        "en"
-      ],
-      "nsfw": false,
+      "gameSlug": "frayed-system",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "reviewedAt": "2026-11-07",
+      "nsfw": false,
+      "reviewedSourceHeadSha": "12839f9f75056a84f7f3a098cfea904c39a452b3"
     }
   },
   {
@@ -14434,17 +14413,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/feilongproject-Fubuki-H-Game/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg"
-      ],
-      "languages": [
-        "zh-Hant"
-      ],
-      "nsfw": true,
+      "gameSlug": "fubuki-h-game",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "reviewedAt": "2026-11-07",
+      "nsfw": true,
+      "reviewedSourceHeadSha": "d474ffcf8dfa7dd492c9dd4fae8d45e34acfadb0"
     }
   },
   {
@@ -14645,18 +14618,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/miku1hhhh-miku1hhhh.github.io/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg",
-        "horror"
-      ],
-      "languages": [
-        "zh-Hans"
-      ],
-      "nsfw": false,
+      "gameSlug": "luti",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "reviewedAt": "2026-11-07",
+      "nsfw": true,
+      "reviewedSourceHeadSha": "ee9c197c937739ed826f649bd54a4d9adf5cb51b"
     }
   },
   {
@@ -14686,17 +14652,9 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/oliver-grant-game/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg"
-      ],
-      "languages": [
-        "en"
-      ],
-      "nsfw": false,
-      "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "playable": false,
+      "reviewedAt": "2026-11-07",
+      "nsfw": false
     }
   },
   {
@@ -14726,17 +14684,9 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/h0ngliangli-Game-Name/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg"
-      ],
-      "languages": [
-        "en"
-      ],
-      "nsfw": false,
-      "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "playable": false,
+      "reviewedAt": "2026-11-07",
+      "nsfw": false
     }
   },
   {
@@ -14766,17 +14716,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/FangBruce-RPG_game1/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg"
-      ],
-      "languages": [
-        "zh-Hant"
-      ],
-      "nsfw": false,
+      "gameSlug": "rpg-game1",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "reviewedAt": "2026-11-07",
+      "nsfw": false,
+      "reviewedSourceHeadSha": "437a5e3f8ea297c879e4f049e923837276639b8c"
     }
   },
   {
@@ -14844,16 +14788,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/yancharkin-game_jams/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "adventure",
-        "comedy"
-      ],
-      "nsfw": false,
+      "gameSlug": "gamedev-the-beginning",
       "playable": true,
-      "popularity": 3,
-      "rating": 5,
       "reviewedAt": "2026-11-07",
-      "title": "HP Bar"
+      "nsfw": false,
+      "reviewedSourceHeadSha": "a3c3ec739071ca285045025f9b619d17877a7193"
     }
   },
   {
@@ -14918,17 +14857,9 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/ISMAILABDURRAHIMNF-gangster_jakarta/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg"
-      ],
-      "languages": [
-        "id"
-      ],
-      "nsfw": false,
-      "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "playable": false,
+      "reviewedAt": "2026-11-07",
+      "nsfw": false
     }
   },
   {
@@ -15020,17 +14951,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/Brand24376-Brand24376.github.io/game.html served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg"
-      ],
-      "languages": [
-        "en"
-      ],
-      "nsfw": false,
+      "gameSlug": "get-2-school",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "reviewedAt": "2026-11-07",
+      "nsfw": false,
+      "reviewedSourceHeadSha": "241ec2c910332b37c3a1e10f372505af96867f67"
     }
   },
   {
