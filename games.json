@@ -17798,6 +17798,689 @@
       "contentAdvisory": {
         "nsfw": false
       }
+    },
+    "platina-the-wolf-the-heir-of-the-light": {
+      "schemaVersion": 1,
+      "slug": "platina-the-wolf-the-heir-of-the-light",
+      "originalTitle": "Platina the Wolf - The Heir of the Light",
+      "taxonomy": {
+        "genres": [
+          "rpg"
+        ],
+        "themes": [
+          "fantasy"
+        ],
+        "contentType": "full-game"
+      },
+      "developers": [
+        {
+          "name": "Laferu",
+          "url": "https://github.com/Laferu"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/Laferu-Platina-the-Wolf-and-the-Heir-of-Light/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "laferu-platina-the-wolf-and-the-heir-of-light",
+          "title": "Platina the Wolf - The Heir of the Light",
+          "languages": [
+            "pt"
+          ],
+          "nsfw": false
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/Laferu/Platina-the-Wolf-and-the-Heir-of-Light",
+          "https://webrpg.org/Laferu-Platina-the-Wolf-and-the-Heir-of-Light/"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 1,
+      "assessedAt": "2026-11-13",
+      "assessmentSources": [
+        "https://github.com/Laferu/Platina-the-Wolf-and-the-Heir-of-Light",
+        "https://webrpg.org/Laferu-Platina-the-Wolf-and-the-Heir-of-Light/"
+      ],
+      "assessmentNote": "No external traces found (search hits are unrelated Heir of Light mobile games); 73 maps / 5269 Portuguese dialogue lines in-repo (Caverna Inicial, Floresta das Ilusões, Vila Seedrian, Pico Nevado, Caverna de Gelo, Cidade Draco, Reino das Sombras, Castelo Darkness, credits + Final maps; day/night + Light-Rage / Platina-Rage systems, 19 nonempty CommonEvents); nsfw keyword scan 0 hits; repo 0 stars; original title is English, zh-Hans title is a translation, ja is katakana transliteration; rating blank; popularity 1.",
+      "translatedTitles": {
+        "zh-Hans": "白金之狼：光之继承者",
+        "ja": "プラティナ・ザ・ウルフ—光の継承者"
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "葡语奇幻 RPG：狼族少女 Platina 与光之继承者 Light 的旅程——穿过幻象森林、Seedrian 村、雪峰、冰窟与 Draco 城，直面 Darkness 的影子王国；昼夜系统与 Rage 战斗机制。73 张地图、5269 行葡语对白。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "A Portuguese fantasy RPG: the wolf Platina and Light, the heir of the light, journey through the Forest of Illusions, Seedrian village, the snowy peak, the ice cave and the city of Draco, facing the shadow realm of Darkness; day/night system and Rage battle mechanics. 73 maps, 5,269 lines of Portuguese dialogue.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "ポルトガル語のファンタジーRPG。狼のプラティナと光の継承者ライトの旅——幻惑の森、シードリアンの村、雪峰、氷の洞窟、ドラコの街を巡り、ダークネスの影の王国に立ち向かう。昼夜システムとレイジ戦闘。73マップ・5,269行のポルトガル語の台詞。",
+          "editorialStatus": "draft"
+        }
+      },
+      "contentAdvisory": {
+        "nsfw": false
+      }
+    },
+    "pokemon-pink": {
+      "schemaVersion": 1,
+      "slug": "pokemon-pink",
+      "originalTitle": "Pokemon Pink",
+      "taxonomy": {
+        "genres": [
+          "rpg"
+        ],
+        "themes": [
+          "fantasy"
+        ],
+        "contentType": "full-game"
+      },
+      "developers": [
+        {
+          "name": "lauglitch",
+          "url": "https://github.com/lauglitch"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/lauglitch-PokemonPink/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "lauglitch-pokemonpink",
+          "title": "Pokemon Pink",
+          "languages": [
+            "en"
+          ],
+          "nsfw": false
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/lauglitch/PokemonPink",
+          "https://webrpg.org/lauglitch-PokemonPink/"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 1,
+      "assessedAt": "2026-11-13",
+      "assessmentSources": [
+        "https://github.com/lauglitch/PokemonPink",
+        "https://webrpg.org/lauglitch-PokemonPink/"
+      ],
+      "assessmentNote": "No external traces for this fan game (search hits are the rumored unreleased Game Boy 'Pokemon Pink' and other fan games — do not conflate); 43 maps / 298 dialogue lines in-repo (Pallet Town, Oak's Lab, Viridian Forest, Pewter/Cerulean/Vermilion/Cinnabar gyms, Mt. Moon, Diglett's Cave, Pokémon League front gate); languages corrected [es] -> [en] (full scan: en~103 vs es~22; player-facing text is English, Spanish appears only in dev comments and one Spanglish line '¿Wanna use CUT?'; locale es_ES is an editor default); repo 0 stars; rating blank; popularity 1.",
+      "translatedTitles": {
+        "zh-Hans": "宝可梦 粉红",
+        "ja": "ポケモン ピンク"
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "宝可梦同人重制：重走关都之旅——真新镇、大木研究所、常青森林、尼比/华蓝/枯叶/朱红道馆、月见山、地鼠洞、宝可梦联盟；英文对白为主，混有西班牙语开发备注。43 张地图、298 行对白。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "A Pokémon fan remake retracing the Kanto journey — Pallet Town, Oak's Lab, Viridian Forest, the Pewter, Cerulean, Vermilion and Cinnabar gyms, Mt. Moon, Diglett's Cave and the Pokémon League; mostly English dialogue with some Spanish developer notes. 43 maps, 298 dialogue lines.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "ポケモンのファンリメイク。カントー地方の旅をたどる——マサラタウン、オーキド研究所、トキワの森、ニビ・ハナダ・クチバ・グレンジム、月見山、ディグダの穴、ポケモンリーグ。英語の台詞が中心で、スペイン語の開発者メモが混じる。43マップ・298行の台詞。",
+          "editorialStatus": "draft"
+        }
+      },
+      "contentAdvisory": {
+        "nsfw": false
+      }
+    },
+    "pokemon-carbone-arena": {
+      "schemaVersion": 1,
+      "slug": "pokemon-carbone-arena",
+      "originalTitle": "Pokémon Carbone Arena",
+      "taxonomy": {
+        "genres": [
+          "strategy",
+          "rpg"
+        ],
+        "themes": [
+          "fantasy"
+        ],
+        "contentType": "full-game",
+        "mechanics": [
+          "srpg-battles"
+        ]
+      },
+      "developers": [
+        {
+          "name": "HenkiGames",
+          "url": "https://github.com/HenkiGames"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/HenkiGames-henkigames.github.io/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "henkigames-henkigames-github-io",
+          "title": "Pokémon Carbone Arena",
+          "languages": [
+            "en",
+            "fr"
+          ],
+          "nsfw": false
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/HenkiGames/henkigames.github.io",
+          "https://webrpg.org/HenkiGames-henkigames.github.io/"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 1,
+      "assessedAt": "2026-11-13",
+      "assessmentSources": [
+        "https://github.com/HenkiGames/henkigames.github.io",
+        "https://webrpg.org/HenkiGames-henkigames.github.io/"
+      ],
+      "assessmentNote": "No external traces found (search hits are Pokémon Arena 2D / Pokkén, unrelated); 47 maps / 3145 dialogue lines in-repo (Adventurer's Guild quests, 3 stages + Ex1, arena badge system rock/water/fire/plant/dragon, evolution switches Bulbizarre/Herbizarre/Florizarre, 3 endings + Celebi); languages corrected [fr] -> [en, fr] (full scan en~1183, fr~955: French town/arena scenes, English quest lines); repo 0 stars; en/zh-Hans titles are translations, ja is katakana transliteration; rating blank; popularity 1.",
+      "translatedTitles": {
+        "en": "Pokémon Carbon Arena",
+        "zh-Hans": "宝可梦碳素竞技场",
+        "ja": "ポケモン カルボーヌ・アリーナ"
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "宝可梦同人 SRPG：冒险者公会接任务，在竞技场中以网格战术战斗，收集岩石/水/火/草/龙徽章，宝可梦可进化，三结局与时拉比。法语城镇 + 英语任务线，47 张地图、3145 行对白。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "A Pokémon fan SRPG: take quests from the Adventurer's Guild and fight grid-tactical arena battles, collecting rock, water, fire, plant and dragon badges; Pokémon evolve, across three endings, with Celebi. French town scenes and English quest lines, 47 maps, 3,145 dialogue lines.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "ポケモンのファンSRPG。冒険者ギルドで依頼を受け、アリーナでグリッド戦術バトル。岩・水・炎・草・龍のバッジを集め、ポケモンは進化する。三つの結末とセレビィ。フランス語の街並みと英語のクエスト。47マップ・3,145行の台詞。",
+          "editorialStatus": "draft"
+        }
+      },
+      "contentAdvisory": {
+        "nsfw": false
+      }
+    },
+    "powerrrr": {
+      "schemaVersion": 1,
+      "slug": "powerrrr",
+      "originalTitle": "powerrrr",
+      "taxonomy": {
+        "genres": [
+          "adventure"
+        ],
+        "themes": [
+          "slice-of-life"
+        ],
+        "contentType": "full-game"
+      },
+      "developers": [
+        {
+          "name": "EC-Developer-Hub",
+          "url": "https://github.com/EC-Developer-Hub"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/EC-Developer-Hub-powerrrr/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "ec-developer-hub-powerrrr",
+          "title": "powerrrr",
+          "languages": [
+            "en"
+          ],
+          "nsfw": false
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/EC-Developer-Hub/powerrrr",
+          "https://webrpg.org/EC-Developer-Hub-powerrrr/"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 1,
+      "assessedAt": "2026-11-13",
+      "assessmentSources": [
+        "https://github.com/EC-Developer-Hub/powerrrr",
+        "https://webrpg.org/EC-Developer-Hub-powerrrr/"
+      ],
+      "assessmentNote": "No external traces found; 11 maps / 316 English dialogue lines in-repo (Lecture Hall, Seniors, KBH, Admin Block, OAT, Student's park; JEE / chemistry-dept / library / Amul-canteen jokes); gameTitle empty and index.html title empty — old meta title 'SEMESTER SURVIVAL' cannot be verified in-game (cf. MQ-067 conquesttttt); repo 0 stars; zh-Hans/ja titles are translations of the stretched word 'power'; rating blank; popularity 1.",
+      "translatedTitles": {
+        "zh-Hans": "力量",
+        "ja": "パワー"
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "印度工程学院校园探索游戏：在讲堂、宿舍区、行政楼、露天剧场与学生公园之间闲逛，与学生们插科打诨（JEE、化学系、图书馆与小卖部的玩笑）。11 张地图、316 行英文对白；旧 meta 的标题 SEMESTER SURVIVAL 无法从游戏内证实。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "An Indian engineering-college campus exploration game: wander the lecture halls, hostel blocks, admin block, open-air theatre and students' park, trading jokes with students (JEE, the chemistry department, the library, the canteen). 11 maps, 316 lines of English dialogue; the old meta title 'SEMESTER SURVIVAL' cannot be verified in-game.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "インドの工科大学キャンパス探索ゲーム。講堂、寮、事務棟、野外劇場、学生公園を歩き回り、学生たちとジョークを交わす（JEE、化学科、図書館、売店）。11マップ・316行の英語の台詞。旧メタのタイトル「SEMESTER SURVIVAL」はゲーム内では確認できない。",
+          "editorialStatus": "draft"
+        }
+      },
+      "contentAdvisory": {
+        "nsfw": false
+      }
+    },
+    "preproduction-foglands": {
+      "schemaVersion": 1,
+      "slug": "preproduction-foglands",
+      "originalTitle": "PreProduction_foglands",
+      "taxonomy": {
+        "genres": [
+          "rpg",
+          "adventure"
+        ],
+        "themes": [
+          "mystery"
+        ],
+        "contentType": "demo"
+      },
+      "developers": [
+        {
+          "name": "leejh10003",
+          "url": "https://github.com/leejh10003"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/leejh10003-PreProduction_foglands/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "leejh10003-preproduction-foglands",
+          "title": "PreProduction_foglands",
+          "languages": [
+            "ko"
+          ],
+          "nsfw": false
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/leejh10003/PreProduction_foglands",
+          "https://webrpg.org/leejh10003-PreProduction_foglands/"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 1,
+      "assessedAt": "2026-11-13",
+      "assessmentSources": [
+        "https://github.com/leejh10003/PreProduction_foglands",
+        "https://webrpg.org/leejh10003-PreProduction_foglands/"
+      ],
+      "assessmentNote": "No external traces found; 3 maps / 277 Korean dialogue lines in-repo (56x63 ruined-city map in fog/rain, examine-events for ruined shops/tavern/inn/broadcast station, lost child looking for food, 9 recruitable companions with randomized recruit dialogue, fog battles); contentType demo: the title says PreProduction and the dialogue itself says the road ends here ('이 길이 여기서 끝나면 안 될 것 같지만, 끝났다'), but exploration + recruitment + battles make it a substantial playable slice; no other foglands entry in the queue; repo 0 stars; zh-Hans/ja titles are translations/transliteration; rating blank; popularity 1.",
+      "translatedTitles": {
+        "zh-Hans": "雾地 前期制作版",
+        "ja": "プレプロダクション・フォグランズ"
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "韩语游戏《Foglands》的前期制作版：在雨夜雾气弥漫的废墟都市中探索，查看破败商铺、酒馆与旅馆，寻找失踪的孩子 Peter，可招募先知、盾法师、吟游诗人等 9 名同伴并进行雾中战斗。3 张地图、277 行韩语对白；有实质内容的试玩版。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "The pre-production build of the Korean game Foglands: explore a fog-shrouded ruined city on a rainy night — examine broken shops, the tavern and the inn, look for the missing boy Peter, recruit nine companions (seer, shield mage, bard, alchemist, mercenary, hunter, tinker, gambler, poisoner) and fight in the fog. 3 maps, 277 lines of Korean dialogue; a substantial playable demo slice.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "韓国語ゲーム『Foglands』のプレプロダクション版。雨の夜、霧に包まれた廃墟の都市を探索——壊れた商店、酒場、宿屋を調べ、行方不明の少年ピーターを探し、占い師・盾の魔術師・吟遊詩人ら9人の仲間を勧誘して霧の中で戦う。3マップ・277行の韓国語の台詞。内容のあるプレイアブルなデモ。",
+          "editorialStatus": "draft"
+        }
+      },
+      "contentAdvisory": {
+        "nsfw": false
+      }
+    },
+    "dev-project-repositry": {
+      "schemaVersion": 1,
+      "slug": "dev-project-repositry",
+      "originalTitle": "Project",
+      "taxonomy": {
+        "genres": [
+          "rpg"
+        ],
+        "themes": [
+          "fantasy"
+        ],
+        "contentType": "full-game"
+      },
+      "developers": [
+        {
+          "name": "chanchipong1226",
+          "url": "https://github.com/chanchipong1226"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/chanchipong1226-dev-project.repositry/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "chanchipong1226-dev-project-repositry",
+          "title": "Project",
+          "languages": [
+            "en"
+          ],
+          "nsfw": false
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/chanchipong1226/dev-project.repositry",
+          "https://webrpg.org/chanchipong1226-dev-project.repositry/"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 1,
+      "assessedAt": "2026-11-13",
+      "assessmentSources": [
+        "https://github.com/chanchipong1226/dev-project.repositry",
+        "https://webrpg.org/chanchipong1226-dev-project.repositry/"
+      ],
+      "assessmentNote": "No external traces found; 27 maps / 298 English dialogue lines in-repo (Caesar Empire year 496, monsters at the border villages, escort Ellie to Bagpipe City, Caesar's Castle 3F, Lost Forest, Death Forest ruins, tower, Sky Island, chapters 0-2 + boss room; full scan en~153, zh~4 — map names are Chinese, dialogue is English); title is only 'Project' (gameTitle + index.html title), slug from repo name (rpg-game1 precedent); repo API 404 but game data fetched from raw.githubusercontent; repo 0 stars; zh-Hans/ja titles are literal translations of the generic title; rating blank; popularity 1.",
+      "translatedTitles": {
+        "zh-Hans": "项目",
+        "ja": "プロジェクト"
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "英文奇幻 RPG：凯撒帝国历 496 年，怪物突然出现在边境村庄附近——护送 Ellie 前往风笛城避难，穿过凯撒城堡、失落森林与死亡森林遗址，登上空中岛屿。27 张地图、298 行对白；标题仅为 Project，slug 取自仓库名。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "An English fantasy RPG: in the year 496 of the Caesar Empire, monsters suddenly appear around the border villages — escort Ellie to Bagpipe City for shelter, through Caesar's Castle, the Lost Forest and the Death Forest ruins, up to the Sky Island. 27 maps, 298 dialogue lines; the in-game title is only 'Project', so the slug comes from the repository name.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "英語のファンタジーRPG。カエサル帝国暦496年、辺境の村々に怪物が現れる——エリーをバグパイプシティへ護送し、カエサル城、失われた森、死の森の遺跡を越え、空中島へ。27マップ・298行の台詞。ゲーム内タイトルは「Project」のみのため、スラッグはリポジトリ名から取る。",
+          "editorialStatus": "draft"
+        }
+      },
+      "contentAdvisory": {
+        "nsfw": false
+      }
+    },
+    "rpgmaker0730": {
+      "schemaVersion": 1,
+      "slug": "rpgmaker0730",
+      "originalTitle": "Project",
+      "taxonomy": {
+        "genres": [
+          "rpg"
+        ],
+        "themes": [
+          "fantasy"
+        ],
+        "contentType": "full-game"
+      },
+      "developers": [
+        {
+          "name": "dg12345689",
+          "url": "https://github.com/dg12345689"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/dg12345689-rpgmaker0730/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "dg12345689-rpgmaker0730",
+          "title": "Project",
+          "languages": [
+            "zh-Hant"
+          ],
+          "nsfw": false
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/dg12345689/rpgmaker0730",
+          "https://webrpg.org/dg12345689-rpgmaker0730/"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 1,
+      "assessedAt": "2026-11-13",
+      "assessmentSources": [
+        "https://github.com/dg12345689/rpgmaker0730",
+        "https://webrpg.org/dg12345689-rpgmaker0730/"
+      ],
+      "assessmentNote": "No external traces found; 6 maps / 19 Traditional Chinese dialogue lines in-repo (intro with SAO reference, ancient-ruins gatekeeper Yes/No choice, working inn 10G, stone cave with 3 battles, rescue NPC who joins the party); no ending map, two maps (MAP002/MAP003) empty and unused, no demon-king boss fight despite the 戰勝魔王 switch — thin but a real quest–battle–rescue loop, kept as a micro-game (cf. MQ-216/MQ-248); one NPC line ('小弟弟想一起玩嗎?晚上來我房間吧') is a suggestive joke, not sexual content — nsfw stays false; title is only 'Project', slug from repo name; repo 0 stars; rating blank; popularity 1.",
+      "translatedTitles": {
+        "zh-Hans": "项目",
+        "ja": "プロジェクト"
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "繁中微型 RPG：英雄与同伴穿梭新世界探险——古代遗迹守门人的抉择、旅馆投宿、石窟三场战斗与营救同伴。6 张地图、19 行对白；另有两张空图未使用。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "A Traditional Chinese micro-RPG: a hero and companions adventure through a new world — the gatekeeper's choice at the ancient ruins, a night at the inn, three battles in the stone cave and rescuing a companion who joins the party. 6 maps, 19 dialogue lines; two empty maps are unused.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "繁体中国語のマイクロRPG。英雄と仲間たちが新しい世界を冒険する——古代遺跡の門番の選択、宿屋の一泊、石窟での三度の戦いと仲間の救出。6マップ・19行の台詞。未使用の空マップが二つある。",
+          "editorialStatus": "draft"
+        }
+      },
+      "contentAdvisory": {
+        "nsfw": false
+      }
+    },
+    "project-rpg": {
+      "schemaVersion": 1,
+      "slug": "project-rpg",
+      "originalTitle": "Project MZ 测试版",
+      "taxonomy": {
+        "genres": [
+          "rpg"
+        ],
+        "themes": [
+          "fantasy"
+        ],
+        "contentType": "demo"
+      },
+      "developers": [
+        {
+          "name": "immortal3180",
+          "url": "https://github.com/immortal3180"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/immortal3180-Project_RPG/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "immortal3180-project-rpg",
+          "title": "Project MZ 测试版",
+          "languages": [
+            "zh-Hans"
+          ],
+          "nsfw": false
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/immortal3180/Project_RPG",
+          "https://webrpg.org/immortal3180-Project_RPG/"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 1,
+      "assessedAt": "2026-11-13",
+      "assessmentSources": [
+        "https://github.com/immortal3180/Project_RPG",
+        "https://webrpg.org/immortal3180-Project_RPG/"
+      ],
+      "assessmentNote": "No external traces found; 10 maps / 40 Chinese dialogue lines in-repo (bulletin-board quest, forest town, weapon/item shops, tavern with the author's long gaokao reflection essay, stone cave with pushable-rock puzzles / heal point / chests / 3 crow battles / boss jjc(心魔) with long dialogue + troop battle, 结局 credits map 'jjc和他的同盟打败了自己的心魔，恢复了小镇的和平'); contentType demo: repo desc 'WebGame Demo using RPGMakerMZ', but the quest–boss–ending loop is complete; repo 0 stars; en/ja titles are translations/transliteration; rating blank; popularity 1.",
+      "translatedTitles": {
+        "en": "Project MZ Test Version",
+        "ja": "プロジェクトMZ テスト版"
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "中文 MZ 测试版小游戏：接布告栏委托，清剿东方山洞的怪物——森林小镇、武器店、酒吧（藏着作者关于高考的长篇感怀）、石洞推石解谜与心魔 Boss，最终迎来结局。10 张地图、40 行对白；有任务—Boss—结局的完整小循环。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "A Chinese MZ test-version mini-game: take the bulletin-board quest to clear the monsters from the eastern cave — a forest town, weapon shop, a tavern hiding the author's long reflection on the gaokao, rock-pushing puzzles in the stone cave and the inner-demon boss, ending in a credits map. 10 maps, 40 dialogue lines; a complete quest–boss–ending loop.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "中国語のMZテスト版ミニゲーム。掲示板の依頼で東の洞窟の怪物を退治する——森の町、武器屋、高考についての作者の長文の感慨が隠れた酒場、石洞の石押しパズルと心魔ボス、そして結末。10マップ・40行の台詞。クエスト、ボス、結末まで揃った小さな循環。",
+          "editorialStatus": "draft"
+        }
+      },
+      "contentAdvisory": {
+        "nsfw": false
+      }
+    },
+    "29abrenton-rgb-github-io": {
+      "schemaVersion": 1,
+      "slug": "29abrenton-rgb-github-io",
+      "originalTitle": "Project1",
+      "taxonomy": {
+        "genres": [
+          "adventure",
+          "rpg"
+        ],
+        "themes": [
+          "fantasy"
+        ],
+        "contentType": "full-game"
+      },
+      "developers": [
+        {
+          "name": "29abrenton-rgb",
+          "url": "https://github.com/29abrenton-rgb"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/29abrenton-rgb-29abrenton-rgb.github.io/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "29abrenton-rgb-29abrenton-rgb-github-io",
+          "title": "Project1",
+          "languages": [
+            "en"
+          ],
+          "nsfw": false
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/29abrenton-rgb/29abrenton-rgb.github.io",
+          "https://webrpg.org/29abrenton-rgb-29abrenton-rgb.github.io/"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 1,
+      "assessedAt": "2026-11-13",
+      "assessmentSources": [
+        "https://github.com/29abrenton-rgb/29abrenton-rgb.github.io",
+        "https://webrpg.org/29abrenton-rgb-29abrenton-rgb.github.io/"
+      ],
+      "assessmentNote": "No external traces found; 18 maps / 134 English dialogue lines in-repo (start at home, fish at the water's edge, cook fish soup at the campfire, forest + Boulder Pass with boss fights, hidden rooms and treasure chests, NPC Bob's looping dialogue); title is only 'Project1' (gameTitle + index.html title), slug from repo name (rpg-game1 precedent); repo 0 stars; zh-Hans/ja titles are literal translations of the generic title; rating blank; popularity 1.",
+      "translatedTitles": {
+        "zh-Hans": "项目1",
+        "ja": "プロジェクト1"
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "英文小冒险 RPG：从自家出发，在水边钓鱼、营火边煮鱼汤，探索森林与 Boulder Pass，挑战 Boss，搜寻隐藏房间与宝箱。18 张地图、134 行对白；标题仅为 Project1，slug 取自仓库名。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "A small English adventure RPG: set out from home, fish at the water's edge, cook fish soup at the campfire, explore the forest and Boulder Pass, face its bosses and hunt for hidden rooms and treasure chests. 18 maps, 134 dialogue lines; the in-game title is only 'Project1', so the slug comes from the repository name.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "英語の小さなアドベンチャーRPG。自宅を出て、水辺で魚を釣り、焚き火でフィッシュスープを作り、森とボルダーパスを探索してボスに挑み、隠し部屋と宝箱を探す。18マップ・134行の台詞。ゲーム内タイトルは「Project1」のみのため、スラッグはリポジトリ名から取る。",
+          "editorialStatus": "draft"
+        }
+      },
+      "contentAdvisory": {
+        "nsfw": false
+      }
     }
   }
 }

@@ -23852,18 +23852,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/Laferu-Platina-the-Wolf-and-the-Heir-of-Light/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg",
-        "fantasy"
-      ],
-      "languages": [
-        "pt"
-      ],
-      "nsfw": false,
+      "gameSlug": "platina-the-wolf-the-heir-of-the-light",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-08"
+      "nsfw": false,
+      "reviewedAt": "2026-11-08",
+      "reviewedSourceHeadSha": "9d03a20381c6ab6f5ddce571c5c770e64915bc6b"
     }
   },
   {
@@ -23893,17 +23886,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/HenkiGames-henkigames.github.io/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg"
-      ],
-      "languages": [
-        "fr"
-      ],
-      "nsfw": false,
+      "gameSlug": "pokemon-carbone-arena",
       "playable": true,
-      "popularity": 3,
-      "rating": 5,
-      "reviewedAt": "2026-11-08"
+      "nsfw": false,
+      "reviewedAt": "2026-11-08",
+      "reviewedSourceHeadSha": "5a5dcb44175d572f8093c4c22632a28c9cb2e14e"
     }
   },
   {
@@ -23957,17 +23944,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/lauglitch-PokemonPink/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg"
-      ],
-      "languages": [
-        "es"
-      ],
-      "nsfw": false,
+      "gameSlug": "pokemon-pink",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-08"
+      "nsfw": false,
+      "reviewedAt": "2026-11-08",
+      "reviewedSourceHeadSha": "f334a3d60d102f8488525213dcaa19efc6f248fc"
     }
   },
   {
@@ -24091,19 +24072,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/EC-Developer-Hub-powerrrr/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg",
-        "slice-of-life"
-      ],
-      "languages": [
-        "en"
-      ],
-      "nsfw": false,
+      "gameSlug": "powerrrr",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
+      "nsfw": false,
       "reviewedAt": "2026-11-08",
-      "title": "SEMESTER SURVIVAL"
+      "reviewedSourceHeadSha": "a96a950c0b5ca123a0ff52d876938c004d478496"
     }
   },
   {
@@ -24133,17 +24106,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/leejh10003-PreProduction_foglands/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg"
-      ],
-      "languages": [
-        "ko"
-      ],
-      "nsfw": false,
+      "gameSlug": "preproduction-foglands",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-08"
+      "nsfw": false,
+      "reviewedAt": "2026-11-08",
+      "reviewedSourceHeadSha": "1626fba611930192f6afacd2eee2473abf009f95"
     }
   },
   {
@@ -24173,23 +24140,9 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/MRVAPORWAVE25-pnc3d/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "aliases": [
-        "Babs MV"
-      ],
-      "genres": [
-        "rpg",
-        "fantasy",
-        "simulation"
-      ],
-      "languages": [
-        "en"
-      ],
+      "playable": false,
       "nsfw": true,
-      "playable": true,
-      "popularity": 7,
-      "rating": 6,
-      "reviewedAt": "2026-11-08",
-      "title": "Princess & Conquest"
+      "reviewedAt": "2026-11-08"
     }
   },
   {
@@ -24219,17 +24172,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/chanchipong1226-dev-project.repositry/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg"
-      ],
-      "languages": [
-        "en"
-      ],
-      "nsfw": false,
+      "gameSlug": "dev-project-repositry",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "nsfw": false,
+      "reviewedAt": "2026-11-07",
+      "reviewedSourceHeadSha": "f04ca8fb2bf21005e4e9bfcd5323edaebc80a187"
     }
   },
   {
@@ -24259,18 +24206,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/dg12345689-rpgmaker0730/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg",
-        "fantasy"
-      ],
-      "languages": [
-        "zh-Hant"
-      ],
-      "nsfw": false,
+      "gameSlug": "rpgmaker0730",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "nsfw": false,
+      "reviewedAt": "2026-11-07",
+      "reviewedSourceHeadSha": "b41024883f0576616923dbeaba240a1b9bca82d6"
     }
   },
   {
@@ -24378,17 +24318,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/immortal3180-Project_RPG/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg"
-      ],
-      "languages": [
-        "zh-Hans"
-      ],
-      "nsfw": false,
+      "gameSlug": "project-rpg",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-08"
+      "nsfw": false,
+      "reviewedAt": "2026-11-08",
+      "reviewedSourceHeadSha": "01e6900db0de60f049c16ef1d1806b0c6b1768fc"
     }
   },
   {
@@ -24632,17 +24566,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/29abrenton-rgb-29abrenton-rgb.github.io/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "adventure"
-      ],
-      "languages": [
-        "en"
-      ],
-      "nsfw": false,
+      "gameSlug": "29abrenton-rgb-github-io",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "nsfw": false,
+      "reviewedAt": "2026-11-07",
+      "reviewedSourceHeadSha": "12d938e84e2ff2a74293bcdd2b52927291217ce4"
     }
   },
   {
