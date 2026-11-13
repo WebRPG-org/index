@@ -11710,7 +11710,12 @@
     "sourceDefaultBranch": "main",
     "sourceHeadSha": "bc7ed836a420f4bfe8aaf642c99d71b9d1f6c1f7",
     "processedHeadSha": "95f86e65223355b4bf1255bf7df43c14da40e414",
-    "syncedFromSource": true
+    "syncedFromSource": true,
+    "meta": {
+      "playable": false,
+      "reviewedAt": "2026-11-13",
+      "reviewedSourceHeadSha": "bc7ed836a420f4bfe8aaf642c99d71b9d1f6c1f7"
+    }
   },
   {
     "id": "sawasaki-coder-test-game",
