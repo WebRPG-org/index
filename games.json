@@ -21892,6 +21892,507 @@
           "Explicit sexual content; 18+ only (lewd summoning theme; succubus and other erotic creature summons)."
         ]
       }
+    },
+    "sniper-and-tickle": {
+      "schemaVersion": 1,
+      "slug": "sniper-and-tickle",
+      "originalTitle": "Sniper and Tickle",
+      "taxonomy": {
+        "genres": [
+          "rpg"
+        ],
+        "themes": [
+          "fantasy"
+        ],
+        "contentType": "full-game",
+        "mechanics": [
+          "stealth",
+          "sniping"
+        ]
+      },
+      "developers": [
+        {
+          "name": "shirorimi",
+          "url": "https://github.com/shirorimi"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/shirorimi-snipe/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "shirorimi-snipe",
+          "title": "Sniper and Tickle",
+          "languages": [
+            "ja"
+          ],
+          "nsfw": true
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/shirorimi/snipe",
+          "https://webrpg.org/shirorimi-snipe/"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 1,
+      "assessedAt": "2026-11-13",
+      "assessmentSources": [
+        "https://github.com/shirorimi/snipe",
+        "https://webrpg.org/shirorimi-snipe/"
+      ],
+      "assessmentNote": "No external traces found (no Steam/itch/freem/media record; the author blog shirorimi.blog.fc2.com and Twitter @01_shiro were found but carry no review or rating). In-repo: 34 maps / 775 events / 1722 Japanese map dialogue lines + 1786 CommonEvents dialogue lines (OP map: 'この度は短編ＲＰＧ「Sniper and Tickle」をプレイして頂きありがとうございます'; sniper systems — 残弾数 ammo, グレネード grenades, hide/deceive/endure/snipe choices, boss capture attacks, 'Normal End' / 'True END'). nsfw TRUE (old meta false, corrected): explicit tickling-fetish content — '裸のまま、四肢を引っ張られるように拘束されてしまった' (bound naked, limbs pulled apart), '腋や脇腹、おへそと更に鼠径部にまでも触手が張り付き、粘液を塗り込む様にライファの体をくすぐり始めた' (tentacles clinging to armpits, sides, navel and even the groin, tickling Laifa while smearing mucus), '敵に捕まった場合くすぐりイベントが発生します' (a tickle event occurs when caught), 'スライムくすぐりを観覧しますか？' (watch the slime tickling?), and tickle-attack CommonEvents per boss (ウィーリアくすぐり攻撃, サキュバスくすぐり, チューとボスくすぐり, 氷ボスくすぐり, 司教くすぐり). The README calls it an エロRPG ('今作もそれなりにエロRPGらしからぬストーリーにした'). Same category as Bathroom Maze / AHAZONDASH / Chaos Tickle / Divirtual / Fairy Maze / Ruche Reed. Languages corrected from old [ja, en] to [ja] (1696/1722 map lines and 1766/1786 CE lines are Japanese; the only Latin-script lines are the ending labels 'Normal End' / 'True END'). Repo 1 star; rating blank; popularity 1.",
+      "translatedTitles": {
+        "zh-Hans": "狙击与挠痒",
+        "ja": "スナイパー・アンド・ティックル"
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "日语短篇狙击 RPG：主角狙击手ライファ潜入魔王城，弹药与手榴弹有限，隐藏、欺骗、忍耐与狙击四种应对方式，被敌人抓住会触发挠痒事件；34 张地图、775 个事件，另有 130 个公共事件承载挠痒演出与 Boss 战。作者自述为エロRPG（成人向）。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "A Japanese short sniper RPG: the sniper Laifa infiltrates the Demon King Castle with limited ammo and grenades, choosing between hiding, deceiving, enduring or sniping — and being caught by an enemy triggers a tickle event. 34 maps, 775 events, plus 130 CommonEvents carrying the tickle scenes and boss fights. The author describes it as an erotic RPG (エロRPG).",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "日本語の短編スナイパーRPG。スナイパーのライファが魔王城に潜入し、限られた弾薬とグレネードで隠れる・騙す・耐える・狙撃する——敵に捕まるとくすぐりイベントが発生する。34マップ・775イベント、130のコモンイベントがくすぐり演出とボス戦を担う。作者はエロRPGと自称している。",
+          "editorialStatus": "draft"
+        }
+      },
+      "contentAdvisory": {
+        "nsfw": true,
+        "warnings": [
+          "Tickling fetish content: non-consensual tickling, tentacle restraint and nude bondage scenes; 18+ (author describes the game as an エロRPG)."
+        ]
+      }
+    },
+    "somna-spores": {
+      "schemaVersion": 1,
+      "slug": "somna-spores",
+      "originalTitle": "somna spores",
+      "taxonomy": {
+        "genres": [
+          "adventure"
+        ],
+        "themes": [
+          "experimental"
+        ],
+        "contentType": "full-game"
+      },
+      "developers": [
+        {
+          "name": "songsongxxx",
+          "url": "https://github.com/songsongxxx"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/songsongxxx-dream/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "songsongxxx-dream",
+          "title": "somna spores",
+          "languages": [
+            "en"
+          ],
+          "nsfw": false
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/songsongxxx/dream",
+          "https://webrpg.org/songsongxxx-dream/"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 1,
+      "assessedAt": "2026-11-13",
+      "assessmentSources": [
+        "https://github.com/songsongxxx/dream",
+        "https://webrpg.org/songsongxxx-dream/"
+      ],
+      "assessmentNote": "No external traces found (no Steam/itch/media record; repo desc 'dreammy', no README). In-repo: 3 maps / 24 events / 16 English dialogue lines / 4 transfers / 1 choice, with 'ending' and 'last paragraph' switches — a complete micro-vignette, not a demo of a bigger game: 'By day the village is translucent, shifting gently in the light. Reality appears only at night.', '\"Somna Spores,\" neural spores shed quietly from villagers’ bodies, float briefly through the air, seeking hosts whose minds match their rhythm.', 'Skin might be the ultimate vessel of empathy — you don’t know. But you've become a container for dreams.' The repo root is a hand-written HTML/JS dream site; the RPG Maker MZ data lives in the indexed subdirectory (VisuMZ message-effect plugins). Languages [en] confirmed (16/16 lines; locale zh_TW is the editor default only). Same keep pattern as MQ-155 glancing (single-map micro-narrative with an ending). Repo 0 stars; rating blank; popularity 1.",
+      "translatedTitles": {
+        "zh-Hans": "梦孢",
+        "ja": "ソムナ・スポアーズ"
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "英语实验微型小品：失眠的新来者走进一座白天半透明的村庄，夜里村民身上脱落的神经孢子“Somna Spores”悄悄钻进皮肤，在血肉里编织梦境；玩家最终成为他人梦境的容器。3 张地图、16 行对白，有选择与结局。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "An English experimental micro-vignette: a sleepless newcomer walks into a village that is translucent by day; at night the Somna Spores — neural spores shed from the villagers' bodies — seep into the skin and weave dreams through the flesh, until the player becomes a container for others' dreams. 3 maps, 16 dialogue lines, with a choice and an ending.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "英語の実験的な短編小品。不眠の新参者が昼は半透明の村を歩く。夜になると村民の体からこぼれる神経胞子「Somna Spores」が皮膚に染み込み、肉体の中で夢を織り、プレイヤーはやがて他人の夢の器になる。3マップ・16行の台詞。選択肢とエンディングがある。",
+          "editorialStatus": "draft"
+        }
+      },
+      "contentAdvisory": {
+        "nsfw": false
+      }
+    },
+    "sorcery-of-truth": {
+      "schemaVersion": 1,
+      "slug": "sorcery-of-truth",
+      "originalTitle": "Sorcery of Truth",
+      "taxonomy": {
+        "genres": [
+          "rpg"
+        ],
+        "themes": [
+          "fantasy"
+        ],
+        "contentType": "full-game"
+      },
+      "developers": [
+        {
+          "name": "Caio Passos",
+          "url": "https://github.com/caiocpassos"
+        },
+        {
+          "name": "Aline Kato"
+        },
+        {
+          "name": "Diana Rosalem"
+        },
+        {
+          "name": "Estevão Guerra"
+        },
+        {
+          "name": "Bernardo Zampirolo"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/caiocpassos-Sorcery-of-Truth/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "caiocpassos-sorcery-of-truth",
+          "title": "Sorcery of Truth",
+          "languages": [
+            "pt"
+          ],
+          "nsfw": false
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/caiocpassos/Sorcery-of-Truth",
+          "https://webrpg.org/caiocpassos-Sorcery-of-Truth/"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 1,
+      "assessedAt": "2026-11-13",
+      "assessmentSources": [
+        "https://github.com/caiocpassos/Sorcery-of-Truth",
+        "https://webrpg.org/caiocpassos-Sorcery-of-Truth/"
+      ],
+      "assessmentNote": "No external traces found (no Steam/itch/media record; 'Sorcery of Truth' + Aspen/EastMarch searches return only the novel 'Sorcery of Thorns' and the 'Sword of Truth' series). In-repo: 26 maps / 1538 events / 589 Portuguese dialogue lines — four artifact bosses with win/lose branches (Naga Queen → Amuleto da Rainha Naga, Acromantula Queen → Anel da Rainha Acromântula, Alpha Werewolf → Bracelete do Lobo Alfa, Minotaur → Cinturão do Minotauro, 'o ultimo artefato'), the village of EastMarch, Kate / Astrid / Medeia, a dream sequence (Sonho de Aspen: 'Você derrotou seu primeiro inimigo.' / 'Então foi só um sonho...'), the letter ('Ele está vivo. Eu sei como achá-lo'), switches 'Liberar Final' / 'Liberar Regiões'. The README states it was made in a game-design class ('Jogo criado na aula de Design de Games') by a 5-person team (Caio Passos, Aline Kato, Diana Rosalem, Estevão Guerra, Bernardo Zampirolo); its typo 'Sorcery of True' is not adopted as an alias. Languages [pt] confirmed. Repo 3 stars; rating blank; popularity 1.",
+      "translatedTitles": {
+        "zh-Hans": "真理之术",
+        "ja": "ソーサリー・オブ・トゥルース"
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "葡语奇幻 RPG：主角 Aspen 收到“他还活着，我知道怎么找到他”的来信，与神秘女巫一道寻找失踪的父亲，穿越南加领地、狼人森林与牛头怪沙漠，集齐 Naga 女王的护符、巨蛛女王的戒指、狼王的手镯与牛头怪的腰带四件神器。游戏设计课 5 人小组作品，26 张地图、589 行对白。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "A Portuguese fantasy RPG: Aspen receives a letter — \"He's alive. I know how to find him\" — and sets out with a mysterious sorceress to find his missing father, crossing the Naga territory, the werewolf forest and the minotaur desert to collect four artifacts: the Naga Queen's amulet, the Acromantula Queen's ring, the Alpha Werewolf's bracelet and the Minotaur's belt. A five-student game-design class project. 26 maps, 589 dialogue lines.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "ポルトガル語のファンタジーRPG。「彼は生きている。見つけ方がわかる」という手紙を受け取ったアスペンは、謎の魔女とともに失踪した父を探しに出る。ナーガの領地、狼男の森、ミノタウロスの砂漠を巡り、ナーガ女王のアミュレット、巨大蜘蛛女王の指輪、狼王の腕輪、ミノタウロスのベルトの4つの神器を集める。ゲームデザイン授業の5人チーム作品。26マップ・589行の台詞。",
+          "editorialStatus": "draft"
+        }
+      },
+      "contentAdvisory": {
+        "nsfw": false
+      }
+    },
+    "sota-beta": {
+      "schemaVersion": 1,
+      "slug": "sota-beta",
+      "originalTitle": "SotA-Beta",
+      "taxonomy": {
+        "genres": [
+          "rpg"
+        ],
+        "themes": [
+          "fantasy"
+        ],
+        "contentType": "demo",
+        "mechanics": [
+          "gacha",
+          "party-building"
+        ]
+      },
+      "developers": [
+        {
+          "name": "DarkusFoxis",
+          "url": "https://github.com/DarkusFoxis"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/DarkusFoxis-Sota_Game/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "darkusfoxis-sota-game",
+          "title": "SotA-Beta",
+          "languages": [
+            "ru"
+          ],
+          "nsfw": false
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/DarkusFoxis/Sota_Game",
+          "https://webrpg.org/DarkusFoxis-Sota_Game/"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 1,
+      "assessedAt": "2026-11-13",
+      "assessmentSources": [
+        "https://github.com/DarkusFoxis/Sota_Game",
+        "https://webrpg.org/DarkusFoxis-Sota_Game/"
+      ],
+      "assessmentNote": "No external traces found for THIS game (no Steam/itch/media record). In-repo: 1 map (Beta_Map) / 26 events / 117 Russian dialogue lines / 8 battles / 6 choices, with a complete tutorial arc — controls intro ('Привет! Добро пожаловать в бету Song of the abyss!'), first mob, recruit Avrora ('Возьми себе в команду Аврору!'), level 10 ascension ('Вы готовы возвысить Авору?'), gacha minigame (crystal, coins; Kal'tsit / Elena / Texas summons — Arknights character names), element skills, ascension choices, a boss warning and a final battle ('Выбери, с кем хочешь сразиться: Ангелом, или быть может... Мной?'), level cap 20, and the explicit disclaimer 'ВНИМАНИЕ: эта игра является демонстрацией игровых механик. То, что будет в финальной (полной) игре может отличаться.' — contentType demo. The full game's name 'Song of the Abyss' comes from the in-game intro (not from a README — the repo has none); translatedTitles.en records it. The itch.io 'Song of the Abyss' is a DIFFERENT game (Stardust_and_Snowflakes yuri VN, Josei Game Jam 2025, protagonist Cnidra the jellyfish mermaid) and must not be conflated. Languages [ru] confirmed (117/117 lines). Repo 0 stars; rating blank; popularity 1.",
+      "translatedTitles": {
+        "en": "Song of the Abyss",
+        "zh-Hans": "深渊之歌",
+        "ja": "ソング・オブ・ジ・アビス"
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "俄语测试版 RPG（“Song of the Abyss”的 Beta 演示）：简短的新手教学——第一场战斗、招募神射手 Avrora、升到 10 级完成升华，再到水晶抽卡（Kal'tsit、Elena、Texas 等角色）、元素技能与最终 Boss 战（二选一：天使，还是“我”）。游戏内明确标注为机制演示版，完整版内容可能不同。1 张地图、117 行对白、8 场战斗。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "A Russian beta/demo RPG (the beta of \"Song of the Abyss\"): a short tutorial — the first battle, recruiting the sharpshooter Avrora, levelling her to 10 and ascending her, then a crystal gacha (Kal'tsit, Elena, Texas and others), element skills and a final boss choice (the Angel, or \"Me\"). The game states in-game that it is a demonstration of the mechanics and the full game may differ. 1 map, 117 dialogue lines, 8 battles.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "ロシア語のベータ／デモRPG（「Song of the Abyss」のベータ版）。短いチュートリアル——最初の戦闘、射手アヴローラの仲間入り、レベル10での昇格、水晶ガチャ（カルツィット、エレーナ、テキサスら）、属性スキル、そして最終ボス選択（天使か「私」か）。ゲーム内でメカニクス演示版であることが明記され、正式版とは内容が異なる場合がある。1マップ・117行の台詞・8回の戦闘。",
+          "editorialStatus": "draft"
+        }
+      },
+      "contentAdvisory": {
+        "nsfw": false
+      }
+    },
+    "spectoria": {
+      "schemaVersion": 1,
+      "slug": "spectoria",
+      "originalTitle": "SPECTORIA ~スペクタリア~",
+      "taxonomy": {
+        "genres": [
+          "rpg"
+        ],
+        "themes": [
+          "fantasy"
+        ],
+        "contentType": "full-game",
+        "mechanics": [
+          "collection"
+        ]
+      },
+      "developers": [
+        {
+          "name": "tomoshibi06",
+          "url": "https://github.com/tomoshibi06"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/tomoshibi06-SPECTORIA/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "tklninja-spectoria-eng",
+          "title": "SPECTORIA - Fan Translation",
+          "languages": [
+            "en"
+          ],
+          "nsfw": true,
+          "notes": "English fan translation of the fuller/later build (35 maps)."
+        },
+        {
+          "type": "internal",
+          "id": "tomoshibi06-spectoria",
+          "title": "SPECTORIA ~スペクタリア~",
+          "languages": [
+            "ja"
+          ],
+          "nsfw": true,
+          "notes": "Japanese original (10 maps)."
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/tomoshibi06/SPECTORIA",
+          "https://webrpg.org/tomoshibi06-SPECTORIA/",
+          "https://webrpg.org/TKLNinja-Spectoria-Eng/"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 1,
+      "assessedAt": "2026-11-13",
+      "assessmentSources": [
+        "https://github.com/tomoshibi06/SPECTORIA",
+        "https://webrpg.org/tomoshibi06-SPECTORIA/",
+        "https://webrpg.org/TKLNinja-Spectoria-Eng/"
+      ],
+      "assessmentNote": "No external traces found (no freem/DLsite/BOOTH/itch/media record; the TKLNinja fan translation has no hits either). Same-game evidence for the two forks: identical CommonEvents structure (200 JA / 210 EN, same names translated — くすぐりスキッパー / Tickling skipper, ドロシーくすぐり / Dorothy tickling, こうもりくすぐり / Bat tickle …), same actors (Ria/リア, Tama Bat/たまこうもり, Tentagel/テンタジェル …), same startMapId 6, same ruins sequence (Ruins entrance / Remains 1–3 / Ruins underground = 遺跡入口 / 遺跡１–３ / 遺跡地下), same opening text translated ('I've found it! This adventurous young girl's name is Ria.' = '「ここか……！」彼女の名前はリア。'); the EN build is fuller/later (adds Cave 1–7, Forest 1–7, Machine 1–7, Final room) while the JA build ends after the ruins underground. nsfw TRUE (old meta false, corrected): explicit tickling + urination-fetish content in BOTH forks — JA: 'リアは失禁するまでくすぐられて' (Ria is tickled until she loses bladder control), 'MP + / 尿意 +' (urination desire rises), 'ドロシーに太ももをくすぐりまわされて' (Dorothy tickles her thighs all over), switches ★くすぐりアニメ / ★おもらしアニメ / ★ピクピクアニメ, variables 尿意 / 増加尿意; EN: dozens of per-enemy tickling CommonEvents (Bat thigh tickling, Cement tickling, Gel tickle, Rock Tickling, Swamp Tickling, Cacti tickle, Caterpillar tickling …), 'Do you want to turn off the tickle scenes during battle', 'It will recover whenever Ria is tickled by allies or …', enemies 'Breasts Cactus' and 'Lotion Tank', 'Number of CG sheets' variable. Same category as Bathroom Maze / AHAZONDASH / Chaos Tickle / Divirtual / Fairy Maze / Ruche Reed / Sniper and Tickle (same batch). Languages: JA instance [ja] (224/234 CJK lines), EN instance [en] (1008/1077 Latin lines; 11 Japanese map lines remain untranslated). Repo 1 star (tomoshibi06/SPECTORIA); rating blank; popularity 1.",
+      "translatedTitles": {
+        "zh-Hans": "斯佩克托利亚"
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "日语挠痒恋物 RPG：年轻的宝藏猎人 Ria 深入遗迹，试炼、洞窟、遗迹、森林与机关区域层层推进；每种怪物都有专属的挠痒演出（蝙蝠、史莱姆、岩石魔人、仙人掌、毛虫……），被挠痒会提升尿意，集齐 CG 画廊。日语原作 10 张地图，英文 fan 翻译版为更完整的后期构建（35 张地图）。成人向。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "A Japanese tickling-fetish RPG: the young treasure hunter Ria delves into the ruins — trials, caves, ruins, forests and machine zones — and every monster has its own tickling scene (bats, slimes, rock devils, cacti, caterpillars…); being tickled raises her urge to urinate, and the scenes fill a CG gallery. The Japanese original has 10 maps; the English fan translation is a fuller, later build (35 maps). Adult content.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "日本語のくすぐりフェチRPG。若きトレジャーハンターのリアが遺跡に挑む——試練、洞窟、遺跡、森、機関区を進み、モンスターごとに専用のくすぐり演出がある（こうもり、スライム、岩石魔人、サボテン、毛虫……）。くすぐられると尿意が高まり、シーンはCGギャラリーに記録される。日本語原作は10マップ、英語ファン翻訳版はより充実した後期ビルド（35マップ）。成人向け。",
+          "editorialStatus": "draft"
+        }
+      },
+      "contentAdvisory": {
+        "nsfw": true,
+        "warnings": [
+          "Tickling and urination fetish content: non-consensual tickling, loss of bladder control, CG gallery; 18+."
+        ]
+      }
+    },
+    "cursed-memory-story-of-mirein": {
+      "schemaVersion": 1,
+      "slug": "cursed-memory-story-of-mirein",
+      "originalTitle": "Cursed Memory: Story of Mirein",
+      "taxonomy": {
+        "genres": [
+          "rpg"
+        ],
+        "themes": [
+          "fantasy",
+          "drama"
+        ],
+        "contentType": "full-game"
+      },
+      "developers": [
+        {
+          "name": "QuantumTrolling",
+          "url": "https://github.com/QuantumTrolling"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/QuantumTrolling-CursedMemory/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "quantumtrolling-cursedmemory",
+          "title": "Story_of_Mirein",
+          "languages": [
+            "ru",
+            "en"
+          ],
+          "nsfw": false,
+          "notes": "Content lives in 120 CommonEvents (1,176 dialogue lines); the map file only launches the opening event."
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/QuantumTrolling/CursedMemory",
+          "https://webrpg.org/QuantumTrolling-CursedMemory/"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 1,
+      "assessedAt": "2026-11-13",
+      "assessmentSources": [
+        "https://github.com/QuantumTrolling/CursedMemory",
+        "https://webrpg.org/QuantumTrolling-CursedMemory/"
+      ],
+      "assessmentNote": "No external traces found for THIS game (no Steam/itch/media record). In-repo: 1 map (a launcher calling CommonEvent 'Начало'); the content lives in 120 CommonEvents with 1176 dialogue lines — prologue scenes 0–6 ('Пролог 0 сцена' … 'Пролог 6 сцена'), plot ('Сюжет'), 8 numbered battles (Битва 1–8), shops (М_Броня armor, М_Кольца rings, М_Артефакты artifacts, М_Эмблемы emblems, М_Зелья potions, М_Кастеты knuckles, М_Посохи staves), party setup ('Настройка отряда' / 'Построение'), glossary, companion descriptions; story: a squad recruited for a ~10-day expedition to a faun vault ('Нужны опытные авантюристы на продолжительную вылазку длительностью около 10 дней', 'Это и будет наградой и ни одной медной монетой больше'), the cursed moon, summons (Ширашин, Лина, Дэмиан, Деимос, Ранс, Венат, Адфек, Мизу, Кензо, Акилл). Languages [ru, en] confirmed by measurement: 945 Russian lines + 64 English lines — one scene ('Предположение', the Horned Ora hypothesis) is mostly English and several scenes are fully English, i.e. a partially-translated bilingual build; the old meta title 'Cursed Memory: Story of Mirein' is adopted as originalTitle (gameTitle 'Story_of_Mirein' is the project name, repo 'CursedMemory'), with aliases 'Story of Mirein' and 'Cursed Memory'. Steam's 'Cursed Memory' (Midnight Crew, unreleased, coming 2026, app 3816160, protagonist an unnamed drifter + Lina) is a DIFFERENT game and must not be conflated — it is not used as a source. Repo 0 stars; rating blank; popularity 1.",
+      "translatedTitles": {
+        "zh-Hans": "诅咒记忆：米雷恩的故事",
+        "ja": "カースド・メモリー：ストーリー・オブ・ミレイン"
+      },
+      "aliases": {
+        "en": [
+          "Story of Mirein",
+          "Cursed Memory"
+        ]
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "俄英双语剧情 RPG：小队受雇远征，为期约 10 天，深入法翁的宝库（“报酬就是从宝库里平分战利品”）；诅咒之月当空，召唤兽与同伴并肩作战，8 场战斗、商店与队伍编成、术语词典。内容全在 120 个公共事件里（1176 行对白），地图文件只负责启动开场。序章分 0–6 场，含部分英文翻译场景。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "A Russian/English story RPG: a squad is hired for a roughly 10-day expedition into a faun vault (\"the reward is an equal share of whatever we bring back\"); under a cursed moon, summons and companions fight side by side across 8 battles, with shops, party setup and a glossary. The content lives entirely in 120 CommonEvents (1,176 dialogue lines); the map file only launches the opening. The prologue runs in scenes 0–6, with some scenes translated into English.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "ロシア語／英語のストーリーRPG。小隊は約10日間の遠征に雇われ、フォーンの宝物庫へ（「報酬は宝庫から持ち帰ったものを平等に分けること」）。呪われた月の下、召喚獣と仲間が並んで戦う。8回の戦闘、ショップ、パーティ編成、用語集。内容はすべて120のコモンイベントにあり（1,176行の台詞）、マップファイルはオープニングの起動のみ。プロローグはシーン0〜6で、一部シーンは英語訳がある。",
+          "editorialStatus": "draft"
+        }
+      },
+      "contentAdvisory": {
+        "nsfw": false
+      }
     }
   }
 }

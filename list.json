@@ -29492,18 +29492,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/shirorimi-snipe/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg"
-      ],
-      "languages": [
-        "ja",
-        "en"
-      ],
-      "nsfw": false,
+      "gameSlug": "sniper-and-tickle",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-12"
+      "nsfw": true,
+      "reviewedAt": "2026-11-12",
+      "reviewedSourceHeadSha": "35c02e6dff58ac07df71f48adbecdd73fe4d0208"
     }
   },
   {
@@ -29574,17 +29567,8 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/miguelarcjr-sombradalua/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg",
-        "fantasy"
-      ],
-      "languages": [
-        "pt"
-      ],
+      "playable": false,
       "nsfw": false,
-      "playable": true,
-      "popularity": 2,
-      "rating": 5,
       "reviewedAt": "2026-11-12"
     }
   },
@@ -29615,17 +29599,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/songsongxxx-dream/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "adventure"
-      ],
-      "languages": [
-        "en"
-      ],
-      "nsfw": false,
+      "gameSlug": "somna-spores",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-12"
+      "nsfw": false,
+      "reviewedAt": "2026-11-12",
+      "reviewedSourceHeadSha": "68755582139d4a71cffed4f34e1bdc8713d3aed6"
     }
   },
   {
@@ -29655,17 +29633,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/caiocpassos-Sorcery-of-Truth/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg"
-      ],
-      "languages": [
-        "pt"
-      ],
-      "nsfw": false,
+      "gameSlug": "sorcery-of-truth",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-12"
+      "nsfw": false,
+      "reviewedAt": "2026-11-12",
+      "reviewedSourceHeadSha": "e267d5111b8ab962f843cf6ad779d94f01855dfc"
     }
   },
   {
@@ -29730,20 +29702,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/DarkusFoxis-Sota_Game/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "aliases": [
-        "Song of the Abyss"
-      ],
-      "genres": [
-        "rpg"
-      ],
-      "languages": [
-        "ru"
-      ],
-      "nsfw": false,
+      "gameSlug": "sota-beta",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-12"
+      "nsfw": false,
+      "reviewedAt": "2026-11-12",
+      "reviewedSourceHeadSha": "6347203184e78ef46b82bbc4692a28d253257261"
     }
   },
   {
@@ -29770,16 +29733,9 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/TKLNinja-Spectoria-Eng/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg"
-      ],
-      "languages": [
-        "en"
-      ],
-      "nsfw": false,
+      "gameSlug": "spectoria",
       "playable": true,
-      "popularity": 3,
-      "rating": 5,
+      "nsfw": true,
       "reviewedAt": "2026-11-07"
     }
   },
@@ -29807,17 +29763,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/tomoshibi06-SPECTORIA/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg"
-      ],
-      "languages": [
-        "ja"
-      ],
-      "nsfw": false,
+      "gameSlug": "spectoria",
       "playable": true,
-      "popularity": 3,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "nsfw": true,
+      "reviewedAt": "2026-11-07",
+      "reviewedSourceHeadSha": "fbf9d7d913749e18a0498a74e9cbc72849b4b5c1"
     }
   },
   {
@@ -29867,16 +29817,8 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/SaddlebackCSS-Parker/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "adventure"
-      ],
-      "languages": [
-        "en"
-      ],
+      "playable": false,
       "nsfw": false,
-      "playable": true,
-      "popularity": 2,
-      "rating": 5,
       "reviewedAt": "2026-11-12"
     }
   },
@@ -29928,16 +29870,8 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/Dreafun-starcrystal/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg"
-      ],
-      "languages": [
-        "ru"
-      ],
+      "playable": false,
       "nsfw": false,
-      "playable": true,
-      "popularity": 2,
-      "rating": 5,
       "reviewedAt": "2026-11-12"
     }
   },
@@ -29968,16 +29902,8 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/teyplays-starfall-sanctuary/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg"
-      ],
-      "languages": [
-        "en"
-      ],
+      "playable": false,
       "nsfw": false,
-      "playable": true,
-      "popularity": 2,
-      "rating": 5,
       "reviewedAt": "2026-11-12"
     }
   },
@@ -30098,23 +30024,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/QuantumTrolling-CursedMemory/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "aliases": [
-        "Story of Mirein",
-        "Cursed Memory"
-      ],
-      "genres": [
-        "visual-novel"
-      ],
-      "languages": [
-        "ru",
-        "en"
-      ],
-      "nsfw": false,
+      "gameSlug": "cursed-memory-story-of-mirein",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
+      "nsfw": false,
       "reviewedAt": "2026-11-12",
-      "title": "Cursed Memory: Story of Mirein"
+      "reviewedSourceHeadSha": "4318285ef44619cb886f37b52d65e4182e83d777"
     }
   },
   {
