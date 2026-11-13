@@ -17068,6 +17068,736 @@
       "contentAdvisory": {
         "nsfw": false
       }
+    },
+    "odd-of-eden": {
+      "schemaVersion": 1,
+      "slug": "odd-of-eden",
+      "originalTitle": "Odd of Eden",
+      "taxonomy": {
+        "genres": [
+          "rpg",
+          "adventure"
+        ],
+        "themes": [
+          "horror",
+          "mystery"
+        ],
+        "contentType": "full-game"
+      },
+      "developers": [
+        {
+          "name": "SausageMania",
+          "url": "https://github.com/SausageMania"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/SausageMania-Odd-of-Eden-Project/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "sausagemania-odd-of-eden-project",
+          "title": "Odd of Eden",
+          "languages": [
+            "ko"
+          ],
+          "nsfw": false
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/SausageMania/Odd-of-Eden-Project",
+          "https://webrpg.org/SausageMania-Odd-of-Eden-Project/"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 1,
+      "assessedAt": "2026-11-13",
+      "assessmentSources": [
+        "https://github.com/SausageMania/Odd-of-Eden-Project",
+        "https://webrpg.org/SausageMania-Odd-of-Eden-Project/"
+      ],
+      "assessmentNote": "No external traces found (search hits are unrelated Eden/Odd games); README (verified): '# Odd_of_Eden / Odd of Eden game project repository'; 97 maps / 1147 Korean dialogue lines in-repo (car crash, unopened hospital in the rain, Emily's treatment, breaker/flashlight/crowbar/cassette/diary, X-ray room, rooftop; actors 서라/이직카/매트/애미/인구); nsfw keyword scan 0 hits; repo 0 stars; zh-Hans/ja titles are translations; rating blank; popularity 1.",
+      "translatedTitles": {
+        "zh-Hans": "伊甸之奇",
+        "ja": "オッド・オブ・エデン"
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "韩语医院恐怖 RPG：交通事故后在雨夜的陌生医院醒来，背着需要治疗的 Emily，在停电的医院里寻找与外界联系的办法——断路器、手电、撬棍、磁带、日记、X 光室与屋顶。97 张地图、1147 行韩语对白。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "A Korean hospital horror RPG: after a car crash, you wake in a strange unopened hospital on a rainy night, carrying Emily, who needs treatment — and search the blacked-out hospital for a way to contact the outside world (breaker, flashlight, crowbar, cassette tape, diary, X-ray room, rooftop). 97 maps, 1,147 lines of Korean dialogue.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "韓国語の病院ホラーRPG。交通事故の後、雨の夜に奇妙な未開院の病院で目覚め、治療が必要なエミリーを背負い、停電した病院で外部との連絡手段を探す——ブレーカー、懐中電灯、バール、カセットテープ、日記、X線室、屋上。97マップ・1,147行の韓国語の台詞。",
+          "editorialStatus": "draft"
+        }
+      },
+      "contentAdvisory": {
+        "nsfw": false
+      }
+    },
+    "onl-mv": {
+      "schemaVersion": 1,
+      "slug": "onl-mv",
+      "originalTitle": "ONL-MV",
+      "taxonomy": {
+        "genres": [
+          "rpg"
+        ],
+        "themes": [
+          "fantasy"
+        ],
+        "contentType": "full-game"
+      },
+      "developers": [
+        {
+          "name": "Erizki0712",
+          "url": "https://github.com/Erizki0712"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/Erizki0712-ONL-MV/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "erizki0712-onl-mv",
+          "title": "ONL-MV",
+          "languages": [
+            "id"
+          ],
+          "nsfw": false
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/Erizki0712/ONL-MV",
+          "https://webrpg.org/Erizki0712-ONL-MV/"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 1,
+      "assessedAt": "2026-11-13",
+      "assessmentSources": [
+        "https://github.com/Erizki0712/ONL-MV",
+        "https://webrpg.org/Erizki0712-ONL-MV/"
+      ],
+      "assessmentNote": "No external traces found (search hits are unrelated Stellar/Stella games); 5 maps / 77 dialogue lines in-repo (3 chapters: castle, arena training battle, Astra Plains ambush; AstraBattleWon switch); languages corrected [en, id] -> [id] (77 lines scanned: Indonesian throughout, only the word 'chapter' in English); translatedTitles left blank (acronym title, cf. B-35 precedent); repo 0 stars; rating blank; popularity 1.",
+      "introductions": {
+        "zh-Hans": {
+          "summary": "印尼语短篇 RPG：Rei 梦想着征服世界，忠臣 Zack 随侍左右——城堡、竞技场练兵、Astra 平原遇伏，三章结构加战斗胜利开关。5 张地图、77 行对白。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "A short Indonesian RPG: Rei dreams of conquering the world, with loyal retainer Zack at her side — the castle, a training battle in the arena, and an ambush on the Astra Plains, in three chapters with a battle-won switch. 5 maps, 77 dialogue lines.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "インドネシア語の短編RPG。レイは世界征服を夢見て、忠臣ザックを従える——城、闘技場での訓練戦、アストラ平原での待ち伏せ。三章構成と戦闘勝利スイッチつき。5マップ・77行の台詞。",
+          "editorialStatus": "draft"
+        }
+      },
+      "contentAdvisory": {
+        "nsfw": false
+      }
+    },
+    "orangeblood": {
+      "schemaVersion": 1,
+      "slug": "orangeblood",
+      "originalTitle": "ORANGEBLOOD",
+      "taxonomy": {
+        "genres": [
+          "rpg"
+        ],
+        "themes": [
+          "sci-fi",
+          "comedy"
+        ],
+        "contentType": "full-game",
+        "mechanics": [
+          "randomly-generated guns"
+        ]
+      },
+      "developers": [
+        {
+          "name": "Grayfax Software"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/kayaphilliaiac-orangeblood/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "kayaphilliaiac-orangeblood",
+          "title": "ORANGEBLOOD",
+          "languages": [
+            "en"
+          ],
+          "nsfw": false
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://store.steampowered.com/app/1042670/Orangeblood",
+          "http://ja.wikipedia.org/wiki/Orangeblood",
+          "https://www.wasdland.com/game/orangeblood-1042670/",
+          "https://github.com/kayaphilliaiac/orangeblood",
+          "https://webrpg.org/kayaphilliaiac-orangeblood/"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 7,
+      "assessedAt": "2026-11-13",
+      "assessmentSources": [
+        "https://store.steampowered.com/app/1042670/Orangeblood",
+        "http://ja.wikipedia.org/wiki/Orangeblood",
+        "https://www.wasdland.com/game/orangeblood-1042670/",
+        "https://github.com/kayaphilliaiac/orangeblood",
+        "https://webrpg.org/kayaphilliaiac-orangeblood/"
+      ],
+      "assessmentNote": "Steam release verified (app 1042670, Grayfax Software / PLAYISM, released 2020-01-13; PS4/Xbox/Switch 2020-09-30; RPG Maker MV; Japanese Wikipedia article); rating evidence: wasdland 6.65/10 (342 ratings, 239 positive), GameBrain 67% audience score (110 reviews), Gaming Cypher 7/10, Tech-Gaming 75%, MonsterVine 3.5/5, GamerHeads A-, IGN Japan review (chaotic mix of moe girls + hip-hop + cyberpunk + yakuza praised; short story and narrow endgame strategy criticized) — rating 7, popularity 7; this fork is a fan web port of the full game (66 maps / 2979 lines, ED/OP maps, Tier1-Tier4; README: 'built on my hopes and dreams should work :) (i fixed it)'); nsfw stays false: all 'fuck'/'dick' hits across 66 maps are profanity/insults, '触手操作' is a combat-mechanic switch, mature themes (prostitution, drug use) are talked about not depicted (oprainfall), Steam page carries no age gate — PEGI 16 / ESRB M (suggestive themes) recorded as officialAgeRating + warnings; zh-Hans title is a translation, ja is the official katakana title; repo 0 stars.",
+      "rating": 7,
+      "release": {
+        "date": "2020-01-13",
+        "originalPlatforms": [
+          "Windows"
+        ]
+      },
+      "publishers": [
+        {
+          "name": "PLAYISM"
+        }
+      ],
+      "translatedTitles": {
+        "zh-Hans": "橙血",
+        "ja": "オレンジブラッド"
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "商业游戏《ORANGEBLOOD》的粉丝网页移植版（Grayfax Software / PLAYISM，Steam 2020-01-13 发售）：199X 年，冲绳外海的人工岛新小座，地下行当少女 Vanilla 受 CIA 特工 Iceman 之托调查封闭区域 Tier1–Tier4——俄罗斯黑手党、三合会、克隆工厂，12–15 小时流程。66 张地图、2979 行对白，完整游戏而非试玩版。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "A fan web port of the commercial game ORANGEBLOOD (Grayfax Software / PLAYISM, Steam 2020-01-13): in 199X, on New Koza, an artificial island off Okinawa, Vanilla — a girl in the underworld business — is hired by CIA agent Iceman to investigate the closed zone, Tier 1 to Tier 4: Russian mafia, Triads, a clone factory. 12–15 hours. 66 maps, 2,979 dialogue lines — the full game, not a demo.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "商業ゲーム『ORANGEBLOOD』のファンによるウェブ移植版（Grayfax Software／PLAYISM、Steam 2020年1月13日発売）。199X年、沖縄沖の人工島ニュー・コザ。裏家業の少女ヴァニラはCIAエージェントのアイスマンに依頼され、閉鎖区域Tier1〜Tier4を調査する——ロシアマフィア、三合会、クローン工場。12〜15時間。66マップ・2,979行の台詞。完全版でありデモではない。",
+          "editorialStatus": "draft"
+        }
+      },
+      "externalLinks": [
+        {
+          "url": "https://store.steampowered.com/app/1042670/Orangeblood",
+          "type": "store",
+          "label": "Steam — ORANGEBLOOD"
+        },
+        {
+          "url": "http://ja.wikipedia.org/wiki/Orangeblood",
+          "type": "wiki",
+          "label": "Orangeblood — Japanese Wikipedia"
+        },
+        {
+          "url": "https://github.com/kayaphilliaiac/orangeblood",
+          "type": "source",
+          "label": "GitHub — kayaphilliaiac/orangeblood (fan web port)"
+        }
+      ],
+      "contentAdvisory": {
+        "nsfw": false,
+        "warnings": [
+          "references to drug use and prostitution",
+          "strong language"
+        ],
+        "officialAgeRating": "PEGI 16"
+      }
+    },
+    "ossos-do-oficio": {
+      "schemaVersion": 1,
+      "slug": "ossos-do-oficio",
+      "originalTitle": "Ossos do Ofício",
+      "taxonomy": {
+        "genres": [
+          "adventure"
+        ],
+        "themes": [
+          "educational",
+          "fantasy"
+        ],
+        "contentType": "full-game"
+      },
+      "developers": [
+        {
+          "name": "beatrizminoura-cmyk",
+          "url": "https://github.com/beatrizminoura-cmyk"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/beatrizminoura-cmyk-ossos-do-oficio/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "beatrizminoura-cmyk-ossos-do-oficio",
+          "title": "Ossos do Ofício",
+          "languages": [
+            "pt"
+          ],
+          "nsfw": false
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/beatrizminoura-cmyk/ossos-do-oficio",
+          "https://webrpg.org/beatrizminoura-cmyk-ossos-do-oficio/"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 1,
+      "assessedAt": "2026-11-13",
+      "assessmentSources": [
+        "https://github.com/beatrizminoura-cmyk/ossos-do-oficio",
+        "https://webrpg.org/beatrizminoura-cmyk-ossos-do-oficio/"
+      ],
+      "assessmentNote": "No external traces found (search hits are unrelated Osselets / Opus Magnum); README (verified): math quiz + adventure, alchemy theme, three phases total; 13 maps / 173 dialogue lines in-repo (giant's house, fairy, lab rooms, antidote, scale/measuring puzzles, fase 1/2/3 switches); repo 1 star; zh-Hans/en/ja titles are translations; rating blank; popularity 1.",
+      "translatedTitles": {
+        "zh-Hans": "职业之骨",
+        "en": "Bones of the Trade",
+        "ja": "職人の骨"
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "葡语数学 + 炼金教育冒险 RPG：巨人之家、仙女与实验室之间，以数学问答与量天平、调配解毒剂的三阶段冒险。13 张地图、173 行对白。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "A Portuguese math-and-alchemy educational adventure RPG: between the giant's house, the fairy and the laboratory, a three-phase adventure of math quizzes, scale-measuring and brewing the antidote. 13 maps, 173 dialogue lines.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "ポルトガル語の数学＋錬金術教育アドベンチャーRPG。巨人の家、妖精、実験室を巡る、数学クイズと天秤の計量、解毒剤の調合による三段階の冒険。13マップ・173行の台詞。",
+          "editorialStatus": "draft"
+        }
+      },
+      "contentAdvisory": {
+        "nsfw": false
+      }
+    },
+    "overgrown": {
+      "schemaVersion": 1,
+      "slug": "overgrown",
+      "originalTitle": "Overgrown",
+      "taxonomy": {
+        "genres": [
+          "adventure"
+        ],
+        "themes": [
+          "horror",
+          "mystery"
+        ],
+        "contentType": "full-game",
+        "mechanics": [
+          "minigames"
+        ]
+      },
+      "developers": [
+        {
+          "name": "Quokka Quest Team",
+          "url": "https://github.com/navdeep5/Quokka_Quest_Team"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/navdeep5-navdeep5.github.io/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "navdeep5-navdeep5-github-io",
+          "title": "Overgrown",
+          "languages": [
+            "en"
+          ],
+          "nsfw": false
+        },
+        {
+          "type": "internal",
+          "id": "navdeep5-quokka-quest-team",
+          "title": "Overgrown",
+          "languages": [
+            "en"
+          ],
+          "nsfw": false
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/navdeep5/Quokka_Quest_Team",
+          "https://webrpg.org/navdeep5-navdeep5.github.io/"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 1,
+      "assessedAt": "2026-11-13",
+      "assessmentSources": [
+        "https://github.com/navdeep5/Quokka_Quest_Team",
+        "https://webrpg.org/navdeep5-navdeep5.github.io/"
+      ],
+      "assessmentNote": "No external traces for this game (search hits are other games named Overgrown — itch, SCAD, UCLA — do not conflate); README (verified): action thriller, two teens, abandoned amusement park, restore it and uncover the truth, CMPUT 250 course (contact @ualberta.ca); both forks byte-identical in game data (versionId 40867336, same 18 maps / 1243 events / 326 lines) — one game, 2 instances; 18 maps / 326 dialogue lines in-repo (HUB + Roller Coaster / Ferris Wheel spokes, wire/rotation minigames, EndingMap + CreditMap); repos 0 and 1 stars; zh-Hans/ja titles are translations; rating blank; popularity 1.",
+      "translatedTitles": {
+        "zh-Hans": "疯长的乐园",
+        "ja": "オーバーグロウン"
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "阿尔伯塔大学 CMPUT 250 课程作品：动作惊悚 RPG——两名少年回到童年常去的废弃游乐园，要让它重现昔日风采，同时揭开上次到访时发生的真相。过山车、摩天轮、走钢丝与旋转小游戏，18 张地图、326 行对白。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "A CMPUT 250 course game (University of Alberta), an action thriller RPG: two teens return to the abandoned amusement park they frequented as children, to restore it to its former glory and uncover the truth about their last visit — roller coaster, Ferris wheel, wire-walking and rotation minigames. 18 maps, 326 dialogue lines.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "アルバータ大学CMPUT 250の授業作品、アクションスリラーRPG。2人のティーンが子どもの頃に通った廃墟の遊園地に戻り、かつての輝きを取り戻すとともに、前回の訪問時に起きた真相を解き明かす。ジェットコースター、観覧車、綱渡り、回転のミニゲーム。18マップ・326行の台詞。",
+          "editorialStatus": "draft"
+        }
+      },
+      "contentAdvisory": {
+        "nsfw": false
+      }
+    },
+    "pac-poule": {
+      "schemaVersion": 1,
+      "slug": "pac-poule",
+      "originalTitle": "Pac Poule",
+      "taxonomy": {
+        "genres": [
+          "minigame"
+        ],
+        "themes": [],
+        "contentType": "demo"
+      },
+      "developers": [
+        {
+          "name": "Andaroth",
+          "url": "https://github.com/Andaroth"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/Andaroth-anda.ninja/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "andaroth-anda-ninja",
+          "title": "Pac Poule",
+          "languages": [
+            "fr"
+          ],
+          "nsfw": false
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/Andaroth/anda.ninja",
+          "https://webrpg.org/Andaroth-anda.ninja/"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 1,
+      "assessedAt": "2026-11-13",
+      "assessmentSources": [
+        "https://github.com/Andaroth/anda.ninja",
+        "https://webrpg.org/Andaroth-anda.ninja/"
+      ],
+      "assessmentNote": "No external traces found (search hits are unrelated Pac-Man clones); game data verified in-repo (public/pacpoule): 15 maps / 118 French dialogue lines (6 levels + 5 bonus levels + tutorials + credits 'True Last Level !', high-score entry, red lights 5 points, space jumps 2 tiles); contentType demo: System.json switch 'demo end' (set on Bonus 5) is the author's own label, but the 6+5 levels + credits are a substantial complete loop, so it is kept; repo README is Next.js boilerplate (the repo is the author's personal site); repo 2 stars; zh-Hans/ja titles are translations of the pun title; rating blank; popularity 1.",
+      "translatedTitles": {
+        "zh-Hans": "吃豆鸡",
+        "ja": "パック・プール"
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "法语吃豆人式小游戏：6 关 + 5 奖励关 + 教程 + 结算画面，收集光点抵达城堡，红光 5 分，空格跳两格，可登记最高分。15 张地图、118 行法语对白；作者自标 demo，但内容构成完整循环。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "A French Pac-Man-like minigame: 6 levels + 5 bonus levels + tutorials + credits, collect lights to reach the castle, red lights worth 5 points, space to jump two tiles, high-score name entry. 15 maps, 118 lines of French dialogue; the author labels it a demo, but the levels and credits form a complete loop.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "フランス語のパックマン風ミニゲーム。6レベル＋5ボーナスレベル＋チュートリアル＋クレジット。光を集めて城にたどり着き、赤い光は5点、スペースで2マス跳ぶ。ハイスコアの名前登録つき。15マップ・118行のフランス語の台詞。作者はデモと呼んでいるが、内容は完結した循環をなしている。",
+          "editorialStatus": "draft"
+        }
+      },
+      "contentAdvisory": {
+        "nsfw": false
+      }
+    },
+    "palarong-panlipunan": {
+      "schemaVersion": 1,
+      "slug": "palarong-panlipunan",
+      "originalTitle": "Palarong Panlipunan",
+      "taxonomy": {
+        "genres": [
+          "rpg"
+        ],
+        "themes": [
+          "educational"
+        ],
+        "contentType": "full-game"
+      },
+      "developers": [
+        {
+          "name": "Harleythetech",
+          "url": "https://github.com/Harleythetech"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/Harleythetech-CAPSTONE_PPV2/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "harleythetech-palarongpanlipunan",
+          "title": "Palarong Panlipunan",
+          "languages": [
+            "tl"
+          ],
+          "nsfw": false
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/Harleythetech/PalarongPanlipunan",
+          "https://webrpg.org/Harleythetech-CAPSTONE_PPV2/"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 1,
+      "assessedAt": "2026-11-13",
+      "assessmentSources": [
+        "https://github.com/Harleythetech/PalarongPanlipunan",
+        "https://webrpg.org/Harleythetech-CAPSTONE_PPV2/"
+      ],
+      "assessmentNote": "No external traces found (search hits are Palarong Pambansa / Galà, unrelated); README (verified): educational Filipino RPG, capstone project, originally Godot, rebuilt in RPG Maker MV; 31 maps / 254 dialogue lines in-repo (history book stolen by Amnesia, restore its pages across Philippine landmarks: Vigan, Rizal Shrine, Fort Pilar, McArthur Landing, Pugad Lawin, Santo Niño Basilica); languages corrected [en, tl] -> [tl] (254 lines scanned: Tagalog throughout, 0 English markers); repo 1 star; zh-Hans/en/ja titles are translations/transliteration; rating blank; popularity 1.",
+      "translatedTitles": {
+        "zh-Hans": "菲律宾社会游戏",
+        "en": "Social Games",
+        "ja": "パラロン・パリプナン"
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "菲律宾教育 RPG（毕业设计）：历史之书被 Amnesia 偷走撕毁，走访维甘古城、黎刹神社、皮拉尔堡、麦克阿瑟登陆纪念公园等地，一页页把它拼回来。31 张地图、254 行他加禄语对白。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "A Filipino educational RPG (a capstone project): the history book has been stolen and torn by Amnesia — restore its pages by visiting Philippine landmarks: Vigan, the Rizal Shrine, Fort Pilar, the MacArthur Landing Memorial Park and more. 31 maps, 254 lines of Tagalog dialogue.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "フィリピンの教育RPG（卒業制作）。歴史の本がアムネシアに盗まれ引き裂かれた——ビガン、リサール廟、ピラール要塞、マッカーサー上陸記念公園などの名所を巡り、ページを一枚ずつ取り戻す。31マップ・254行のタガログ語の台詞。",
+          "editorialStatus": "draft"
+        }
+      },
+      "contentAdvisory": {
+        "nsfw": false
+      }
+    },
+    "paling-rpg": {
+      "schemaVersion": 1,
+      "slug": "paling-rpg",
+      "originalTitle": "Paling RPG",
+      "taxonomy": {
+        "genres": [
+          "rpg"
+        ],
+        "themes": [
+          "fantasy"
+        ],
+        "contentType": "full-game"
+      },
+      "developers": [
+        {
+          "name": "Cizz22",
+          "url": "https://github.com/Cizz22"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/Cizz22-rpgmaker/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "cizz22-rpgmaker",
+          "title": "Paling RPG",
+          "languages": [
+            "en"
+          ],
+          "nsfw": false
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/Cizz22/rpgmaker",
+          "https://webrpg.org/Cizz22-rpgmaker/"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 1,
+      "assessedAt": "2026-11-13",
+      "assessmentSources": [
+        "https://github.com/Cizz22/rpgmaker",
+        "https://webrpg.org/Cizz22-rpgmaker/"
+      ],
+      "assessmentNote": "No external traces found (search hits are unrelated RPG Maker pages); 5 maps / 26 dialogue lines in-repo (villager quest, Stone Cave, boss 'You've come far, humans. But your judgment is nigh!', Ending map '{{{THE END'); some lines are RTP sample text ('I'm circling the status', 'I'm moving 4 steps to the right'), but the quest -> boss -> ending loop is real; zh-Hans/ja titles are transliterations ('Paling' is Indonesian for 'most', no usable translation); repo 0 stars; rating blank; popularity 1.",
+      "translatedTitles": {
+        "zh-Hans": "帕林 RPG",
+        "ja": "パリンRPG"
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "微型 RPG：村民请你清剿邻洞野兽——进石洞、战 Boss、迎来结局。5 张地图、26 行对白，任务—Boss—结局的完整小循环。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "A micro-RPG: a villager asks you to clear the beasts from the neighboring cave — enter the Stone Cave, face the boss, and reach the ending. 5 maps, 26 dialogue lines, a complete quest–boss–ending loop.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "マイクロRPG。村人が隣の洞窟の野獣退治を頼む——石の洞窟に入り、ボスと対決し、結末へ。5マップ・26行の台詞。クエスト、ボス、結末まで揃った小さな循環。",
+          "editorialStatus": "draft"
+        }
+      },
+      "contentAdvisory": {
+        "nsfw": false
+      }
+    },
+    "loop-medieval": {
+      "schemaVersion": 1,
+      "slug": "loop-medieval",
+      "originalTitle": "Loop Medieval",
+      "taxonomy": {
+        "genres": [
+          "rpg"
+        ],
+        "themes": [
+          "fantasy"
+        ],
+        "contentType": "full-game"
+      },
+      "developers": [
+        {
+          "name": "H3yko",
+          "url": "https://github.com/H3yko"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/H3yko-Loop_Medieval/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "h3yko-loop-medieval",
+          "title": "Loop Medieval",
+          "languages": [
+            "pt"
+          ],
+          "nsfw": false
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/H3yko/Loop_Medieval",
+          "https://webrpg.org/H3yko-Loop_Medieval/"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 1,
+      "assessedAt": "2026-11-13",
+      "assessmentSources": [
+        "https://github.com/H3yko/Loop_Medieval",
+        "https://webrpg.org/H3yko-Loop_Medieval/"
+      ],
+      "assessmentNote": "No external traces found (search hits are Kingdom Loop and other loop games, unrelated); 9 maps / 328 dialogue lines in-repo (sister kidnapped 'Corre, eles levaram sua irmã!', swamp, mountain village, tavern 122 lines with map quest, mine, stone cave); one NPC line says the interiors aren't built yet and Map008 'teste' is empty — visibly unfinished in places, but the main quest loop is substantial, so it is kept; repo desc 'testando jogo rpg maker'; repo 0 stars; zh-Hans/ja titles are translations; rating blank; popularity 1.",
+      "translatedTitles": {
+        "zh-Hans": "中世纪循环",
+        "ja": "ループ・メディバル"
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "葡语中世纪 RPG：妹妹被掳走了——穿过沼泽、山村、酒馆、矿洞与石窟去追踪。9 张地图、328 行对白；个别场景未完成（'teste' 空图、村民直言内景还没做），主线循环完整。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "A Portuguese medieval RPG: your sister has been taken — track her through the swamp, the mountain village, the tavern, the mine and the stone cave. 9 maps, 328 dialogue lines; some scenes are visibly unfinished (an empty 'teste' map, an NPC admitting the interiors aren't built yet), but the main quest loop is complete.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "ポルトガル語の中世RPG。妹がさらわれた——沼地、山村、酒場、鉱山、石の洞窟を巡って追う。9マップ・328行の台詞。一部の場面は未完成だが（空の「teste」マップ、内装がまだできていないと語る村人）、メインのクエスト循環は完成している。",
+          "editorialStatus": "draft"
+        }
+      },
+      "contentAdvisory": {
+        "nsfw": false
+      }
     }
   }
 }

@@ -21747,17 +21747,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/SausageMania-Odd-of-Eden-Project/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg"
-      ],
-      "languages": [
-        "ko"
-      ],
-      "nsfw": false,
+      "gameSlug": "odd-of-eden",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-08"
+      "nsfw": false,
+      "reviewedAt": "2026-11-08",
+      "reviewedSourceHeadSha": "fc22e2557125083cea613add3fe47da3609b4efa"
     }
   },
   {
@@ -23115,18 +23109,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/Erizki0712-ONL-MV/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg"
-      ],
-      "languages": [
-        "en",
-        "id"
-      ],
-      "nsfw": false,
+      "gameSlug": "onl-mv",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-08"
+      "nsfw": false,
+      "reviewedAt": "2026-11-08",
+      "reviewedSourceHeadSha": "a0b841dab0cd72798aaa7f7fa3cf6810ef6c2582"
     }
   },
   {
@@ -23225,18 +23212,11 @@
     "processedHeadSha": "15e5ee66ef3d61905d8ef47b86dd2f55766991f9",
     "coverPath": "cover.png",
     "meta": {
-      "genres": [
-        "rpg",
-        "sci-fi"
-      ],
-      "languages": [
-        "en"
-      ],
-      "nsfw": false,
+      "gameSlug": "orangeblood",
       "playable": true,
-      "popularity": 7,
-      "rating": 7,
-      "reviewedAt": "2026-11-08"
+      "nsfw": false,
+      "reviewedAt": "2026-11-08",
+      "reviewedSourceHeadSha": "3c23222e5f46e6986d1d44ea3261228bc7f085c4"
     },
     "verificationDeferred": true,
     "syncedFromSource": true
@@ -23343,18 +23323,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/beatrizminoura-cmyk-ossos-do-oficio/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "adventure",
-        "educational"
-      ],
-      "languages": [
-        "pt"
-      ],
-      "nsfw": false,
+      "gameSlug": "ossos-do-oficio",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-08"
+      "nsfw": false,
+      "reviewedAt": "2026-11-08",
+      "reviewedSourceHeadSha": "83b92da3f89df6516019be840d8ca3f59ee0f642"
     }
   },
   {
@@ -23384,18 +23357,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/navdeep5-navdeep5.github.io/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "adventure",
-        "horror"
-      ],
-      "languages": [
-        "en"
-      ],
-      "nsfw": false,
+      "gameSlug": "overgrown",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "nsfw": false,
+      "reviewedAt": "2026-11-07",
+      "reviewedSourceHeadSha": "644c83c07aa2cfb5a13f053c93aa6dfe20c2fd30"
     }
   },
   {
@@ -23425,18 +23391,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/navdeep5-Quokka_Quest_Team/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "adventure",
-        "horror"
-      ],
-      "languages": [
-        "en"
-      ],
-      "nsfw": false,
+      "gameSlug": "overgrown",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "nsfw": false,
+      "reviewedAt": "2026-11-07",
+      "reviewedSourceHeadSha": "fffd559e184d5120b8f65f069e3c97774b3a7be8"
     }
   },
   {
@@ -23466,17 +23425,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/Andaroth-anda.ninja/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "minigame"
-      ],
-      "languages": [
-        "fr"
-      ],
-      "nsfw": false,
+      "gameSlug": "pac-poule",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-08"
+      "nsfw": false,
+      "reviewedAt": "2026-11-08",
+      "reviewedSourceHeadSha": "2f18d8da21b4d6ace674f807ec99c7fcb578f7d8"
     }
   },
   {
@@ -23524,19 +23477,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/Harleythetech-CAPSTONE_PPV2/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg",
-        "educational"
-      ],
-      "languages": [
-        "en",
-        "tl"
-      ],
-      "nsfw": false,
+      "gameSlug": "palarong-panlipunan",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-08"
+      "nsfw": false,
+      "reviewedAt": "2026-11-08",
+      "reviewedSourceHeadSha": "1e697ef83739689160dca32c1919e8b687151655"
     }
   },
   {
@@ -23566,17 +23511,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/Cizz22-rpgmaker/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg"
-      ],
-      "languages": [
-        "en"
-      ],
-      "nsfw": false,
+      "gameSlug": "paling-rpg",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-08"
+      "nsfw": false,
+      "reviewedAt": "2026-11-08",
+      "reviewedSourceHeadSha": "209853276c2820f0aa3039a31d40e5b41b72a20e"
     }
   },
   {
@@ -23658,19 +23597,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/H3yko-Loop_Medieval/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg",
-        "fantasy"
-      ],
-      "languages": [
-        "pt"
-      ],
-      "nsfw": false,
+      "gameSlug": "loop-medieval",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
+      "nsfw": false,
       "reviewedAt": "2026-11-08",
-      "title": "Loop Medieval"
+      "reviewedSourceHeadSha": "af3b0f76ac5b3cc59ebcab17c020958c7d06c79d"
     }
   },
   {
@@ -23871,16 +23802,8 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/SaiTsuki-GameDesign/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg"
-      ],
-      "languages": [
-        "en"
-      ],
+      "playable": false,
       "nsfw": false,
-      "playable": true,
-      "popularity": 2,
-      "rating": 5,
       "reviewedAt": "2026-11-08"
     }
   },
