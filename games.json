@@ -13395,6 +13395,595 @@
       "contentAdvisory": {
         "nsfw": false
       }
+    },
+    "kana": {
+      "schemaVersion": 1,
+      "slug": "kana",
+      "originalTitle": "Kana",
+      "taxonomy": {
+        "genres": [
+          "adventure",
+          "simulation"
+        ],
+        "themes": [
+          "mystery"
+        ],
+        "contentType": "full-game"
+      },
+      "developers": [],
+      "media": {
+        "cover": "https://webrpg.org/waycrosspublicmedia-assets/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "waycrosspublicmedia-assets",
+          "title": "Kana",
+          "languages": [
+            "en"
+          ],
+          "nsfw": false
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/waycrosspublicmedia/assets",
+          "https://webrpg.org/waycrosspublicmedia-assets/"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 1,
+      "assessedAt": "2026-11-13",
+      "assessmentSources": [
+        "https://github.com/waycrosspublicmedia/assets",
+        "https://webrpg.org/waycrosspublicmedia-assets/"
+      ],
+      "assessmentNote": "Game data: 29 maps / 305 events, a fake-OS desktop sim (Boogle browser, folders, picture studio, videos) about a character named Kana; repo has 0 stars and no external traces of this game — web hits for 'human expenditure program' are SHROOMYCHRIST's HUMAN EXPENDITURE PROGRAM, a different project in the same repo, so the old meta title was wrong and is corrected here; rating blank; popularity 1.",
+      "translatedTitles": {
+        "zh-Hans": "卡娜",
+        "ja": "カナ"
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "一款桌面模拟探索游戏：你在虚构系统桌面上打开文件夹、浏览器（Boogle）、图片工作室与视频，拼凑出名为卡娜（Kana）的角色身上发生的事。29 张地图、305 个事件，叙事全靠发现的文件与碎片。旧 meta 误将其写作《Human Expenditure Program》——那是同一仓库里的另一个工程，与本作无关。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "A desktop-simulation exploration game: on a fictional OS desktop you open folders, a browser (Boogle), a picture studio and videos to piece together what happened to a character named Kana. 29 maps and 305 events; the story is told entirely through the files you find. The old meta wrongly titled it 'human_expenditure_program' — that is a different project in the same repository, unrelated to this game.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "デスクトップ・シミュレーション探索ゲーム。架空のOSデスクトップ上でフォルダ、ブラウザ（Boogle）、ピクチャースタジオ、動画を開き、カナという人物に何が起きたのかを断片から組み立てる。29マップ・305イベント。旧metaの『human_expenditure_program』という表記は誤りで、同リポジトリ内の別プロジェクトである。",
+          "editorialStatus": "draft"
+        }
+      },
+      "contentAdvisory": {
+        "nsfw": false
+      }
+    },
+    "kankin": {
+      "schemaVersion": 1,
+      "slug": "kankin",
+      "originalTitle": "愛の監禁ごはんは×××チャーハン",
+      "taxonomy": {
+        "genres": [
+          "visual-novel",
+          "adventure"
+        ],
+        "themes": [
+          "horror",
+          "romance"
+        ],
+        "contentType": "full-game"
+      },
+      "developers": [
+        {
+          "name": "あつかん"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/renrender0209-kankin/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "renrender0209-kankin",
+          "title": "愛の監禁ごはんは×××チャーハン",
+          "languages": [
+            "ja"
+          ],
+          "nsfw": false
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/renrender0209/kankin",
+          "https://webrpg.org/renrender0209-kankin/",
+          "https://play.google.com/store/apps/details?id=com.atsukan.chahan"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 3,
+      "assessedAt": "2026-11-13",
+      "assessmentSources": [
+        "https://github.com/renrender0209/kankin",
+        "https://webrpg.org/renrender0209-kankin/",
+        "https://play.google.com/store/apps/details?id=com.atsukan.chahan"
+      ],
+      "assessmentNote": "Google Play (com.atsukan.chahan, REALIZE FACTORY / Nukazuke Paris Piman, updated 2025-08-08): yandere confinement escape, 3 endings, Another:H POV story, connected to Menhera-chan's House; 136 maps / 3342 dialogue lines in-repo; a deep scan of all dialogue found no sexual content (bed/kiss terms all benign), so nsfw stays false despite the 'H' label and the store's 'radical scenes' note; rating blank (no review scores); popularity 3 (Google Play listing + series connection).",
+      "relations": [
+        {
+          "gameId": "menhera-chan-ie-kara-no-dasshutsu",
+          "type": "same-series"
+        }
+      ],
+      "translatedTitles": {
+        "zh-Hans": "爱的监禁饭是×××炒饭",
+        "en": "Love's Confinement Meal Is XXX Fried Rice"
+      },
+      "aliases": {
+        "ja": [
+          "愛のXXごはんはXXチャーハン"
+        ],
+        "en": [
+          "kankin"
+        ]
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "あつかん的病娇密室逃脱冒险：与时隔 10 年重逢的病娇青梅竹马一同被困，合作逃出。136 张地图、3342 行对白，BAD／NORMAL／TRUE 三结局，特定结局后解锁另一角色视角的 Another:H；与前作《逃出病娇酱的家》有联系。Google Play 也有上架（REALIZE FACTORY／ぬかづけパリピマン发行）。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "A yandere confinement-escape adventure by Atsukan: trapped together with your yandere childhood friend after 10 years apart, you must cooperate to escape. 136 maps and 3,342 dialogue lines, three endings (BAD / NORMAL / TRUE), and an 'Another:H' story from another character's point of view unlocked by a specific ending; connected to the earlier 'Escape from Menhera-chan's House'. Also on Google Play (published by REALIZE FACTORY / Nukazuke Paris Piman).",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "アツカンによるヤンデレ監禁脱出アドベンチャー。10年ぶりに再会したヤンデレ幼なじみと一緒に閉じ込められ、協力して脱出を目指す。136マップ・3342行の台詞、BAD／NORMAL／TRUEの3エンディング、特定エンディングで解放される別キャラクター視点の「Another:H」。前作『メンヘラちゃん家からの脱出』と繋がりあり。Google Playでも配信（REALIZE FACTORY／ぬかづけパリピマン）。",
+          "editorialStatus": "draft"
+        }
+      },
+      "externalLinks": [
+        {
+          "url": "https://play.google.com/store/apps/details?id=com.atsukan.chahan",
+          "type": "store",
+          "label": "Google Play — 愛のXXごはんはXXチャーハン"
+        },
+        {
+          "url": "https://github.com/renrender0209/kankin",
+          "type": "source",
+          "label": "GitHub — renrender0209/kankin"
+        }
+      ],
+      "contentAdvisory": {
+        "nsfw": false,
+        "warnings": [
+          "gore",
+          "yandere confinement themes"
+        ]
+      }
+    },
+    "kiki-s-adventure": {
+      "schemaVersion": 1,
+      "slug": "kiki-s-adventure",
+      "originalTitle": "Kiki‘s adventure",
+      "taxonomy": {
+        "genres": [
+          "rpg"
+        ],
+        "themes": [
+          "fantasy"
+        ],
+        "contentType": "full-game"
+      },
+      "developers": [],
+      "media": {
+        "cover": "https://webrpg.org/okshaone-Kiki-s-adventure-v1/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "okshaone-kiki-s-adventure-v1",
+          "title": "Kiki‘s adventure",
+          "languages": [
+            "en"
+          ],
+          "nsfw": false
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/okshaone/Kiki-s-adventure-v1",
+          "https://webrpg.org/okshaone-Kiki-s-adventure-v1/"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 1,
+      "assessedAt": "2026-11-13",
+      "assessmentSources": [
+        "https://github.com/okshaone/Kiki-s-adventure-v1",
+        "https://webrpg.org/okshaone-Kiki-s-adventure-v1/"
+      ],
+      "assessmentNote": "No external traces found (Microsoft 'KiKi's Adventure' and Steam 'Kiki's Nightmare' are different games); 14 maps / 548 dialogue lines in-repo (Tu Di Shen gods, void monsters, mythical essences); rating blank; popularity 1.",
+      "translatedTitles": {
+        "zh-Hans": "琪琪的冒险",
+        "ja": "キキの冒険"
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "少女琪琪的奇幻 RPG：村民信奉各有领地的土地神，深入遍布虚空怪物的黑暗洞窟，收集神话精华供奉神明，换取受祝福的食物与补给。14 张地图、548 行对白。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "A fantasy RPG starring Kiki: villagers worship the Tu Di Shen, each god blessing only its own territory, and venture into dark caves full of void monsters to collect mythical essences as offerings, receiving blessed food and supplies in return. 14 maps, 548 dialogue lines.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "少女キキのファンタジーRPG。村人たちはそれぞれの領地を持つ土地神を信仰し、虚空のモンスターがうごめく暗い洞窟に入って神話のエッセンスを集め、神への供物として捧げることで祝福された食料や物資を得る。14マップ・548行の台詞。",
+          "editorialStatus": "draft"
+        }
+      },
+      "contentAdvisory": {
+        "nsfw": false
+      }
+    },
+    "killer-nights": {
+      "schemaVersion": 1,
+      "slug": "killer-nights",
+      "originalTitle": "Killer Nights",
+      "taxonomy": {
+        "genres": [
+          "rpg"
+        ],
+        "themes": [
+          "mystery",
+          "horror"
+        ],
+        "contentType": "full-game"
+      },
+      "developers": [],
+      "media": {
+        "cover": "https://webrpg.org/RedhawkPhyre-Killer-Nights/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "redhawkphyre-killer-nights",
+          "title": "Killer Nights",
+          "languages": [
+            "en"
+          ],
+          "nsfw": false
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/RedhawkPhyre/Killer-Nights",
+          "https://webrpg.org/RedhawkPhyre-Killer-Nights/"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 1,
+      "assessedAt": "2026-11-13",
+      "assessmentSources": [
+        "https://github.com/RedhawkPhyre/Killer-Nights",
+        "https://webrpg.org/RedhawkPhyre-Killer-Nights/"
+      ],
+      "assessmentNote": "No external traces found; 12 maps / 1484 dialogue lines in-repo (6-day town-vote murder mystery, Bryan in Dødsdom); repo 2 stars; rating blank; popularity 1.",
+      "translatedTitles": {
+        "zh-Hans": "杀手之夜",
+        "ja": "キラー・ナイツ"
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "谋杀悬疑 RPG：布莱恩·莱恩·奥布莱恩搬到小镇德兹多姆，追查家族与小镇的历史；镇上接连有人遇害，居民每天投票放逐嫌疑人，6 天的抉择决定结局。12 张地图、1484 行对白。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "A murder-mystery RPG: Bryan Ryan Obrian moves to the town of Dødsdom to uncover what his family's history has to do with the town; as residents are killed, the town votes each day on who to exile, and six days of choices decide the outcome. 12 maps, 1,484 dialogue lines.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "殺人ミステリーRPG。ブライアン・ライアン・オブリアンが町デズドムに引っ越し、自分の家系と町の歴史の関わりを追う。住民が次々と殺されるなか、町は毎日投票で容疑者を追放し、6日間の選択が結末を決める。12マップ・1484行の台詞。",
+          "editorialStatus": "draft"
+        }
+      },
+      "contentAdvisory": {
+        "nsfw": false
+      }
+    },
+    "kin-s-chronicle": {
+      "schemaVersion": 1,
+      "slug": "kin-s-chronicle",
+      "originalTitle": "Kin's Chronicle",
+      "taxonomy": {
+        "genres": [
+          "rpg"
+        ],
+        "themes": [
+          "fantasy"
+        ],
+        "contentType": "full-game",
+        "mechanics": [
+          "monster-catching",
+          "time-travel"
+        ]
+      },
+      "developers": [
+        {
+          "name": "flashdim",
+          "url": "https://github.com/flashdim"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/flashdim-kins-chronicle/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "flashdim-kins-chronicle",
+          "title": "Kin's Chronicle",
+          "languages": [
+            "en"
+          ],
+          "nsfw": false
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/flashdim/kins-chronicle",
+          "https://webrpg.org/flashdim-kins-chronicle/",
+          "https://store.steampowered.com/app/1617800/Kins_Chronicle/"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 4,
+      "assessedAt": "2026-11-13",
+      "assessmentSources": [
+        "https://github.com/flashdim/kins-chronicle",
+        "https://webrpg.org/flashdim-kins-chronicle/",
+        "https://store.steampowered.com/app/1617800/Kins_Chronicle/"
+      ],
+      "assessmentNote": "Steam app 1617800 (free Early Access, released 2021-07-28, dev flashdim): 135+ capturable monsters, 3 Acts across Past/Present/Future; SteamSpy 7 positive / 3 negative reviews, 20,000–50,000 owners — too thin to rate; the webrpg fork is the public codebase; rating blank; popularity 4.",
+      "release": {
+        "date": "2021-07-28"
+      },
+      "translatedTitles": {
+        "zh-Hans": "金恩编年史",
+        "ja": "キンズ・クロニクル"
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "flashdim 的免费抢先体验怪物收集 RPG（Steam 2021 年 7 月 28 日发售）：二流秘术师在祭坛前吟唱五小时，唤醒了沉睡的小恶魔金恩来拯救世界；招募 135+ 种怪物，穿越过去、现在与未来三扇大门，修复崩坏的世界。SteamSpy 约 10 条评价、2–5 万拥有者。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "flashdim's free Early Access monster-collecting RPG (Steam, released 2021-07-28): a less-than-stellar Arcanist chants for five hours at an altar and awakens Kin, a slumbering imp, to save the world; recruit 135+ monsters and travel through gates to the Past, Present and Future to repair a broken world. About 10 Steam reviews, 20,000–50,000 owners per SteamSpy.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "flashdimの無料早期アクセス・モンスター収集RPG（Steam、2021年7月28日配信）。腕の悪いアルカニストが祭壇で5時間唱え続け、眠れる小悪魔キンを目覚めさせて世界を救う。135種以上のモンスターを仲間にし、過去・現在・未来の門を旅して崩壊した世界を修復する。Steamレビュー約10件、所有者2万〜5万（SteamSpy）。",
+          "editorialStatus": "draft"
+        }
+      },
+      "externalLinks": [
+        {
+          "url": "https://store.steampowered.com/app/1617800/Kins_Chronicle/",
+          "type": "store",
+          "label": "Steam — Kin's Chronicle (Free Early Access)"
+        },
+        {
+          "url": "https://github.com/flashdim/kins-chronicle",
+          "type": "source",
+          "label": "GitHub — flashdim/kins-chronicle"
+        }
+      ],
+      "contentAdvisory": {
+        "nsfw": false
+      }
+    },
+    "kubernetes-isekai": {
+      "schemaVersion": 1,
+      "slug": "kubernetes-isekai",
+      "originalTitle": "Kubernetes Isekai",
+      "taxonomy": {
+        "genres": [
+          "rpg"
+        ],
+        "themes": [
+          "educational",
+          "fantasy"
+        ],
+        "contentType": "full-game",
+        "mechanics": [
+          "quiz"
+        ]
+      },
+      "developers": [
+        {
+          "name": "wongcyrus",
+          "url": "https://github.com/wongcyrus"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/wongcyrus-k8s-isekai/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "etg227-k8s-isekai",
+          "title": "Kubernetes Isekai",
+          "languages": [
+            "en"
+          ],
+          "nsfw": false
+        },
+        {
+          "type": "internal",
+          "id": "wongcyrus-k8s-isekai",
+          "title": "Kubernetes Isekai",
+          "languages": [
+            "en"
+          ],
+          "nsfw": false
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/wongcyrus/k8s-isekai",
+          "https://webrpg.org/wongcyrus-k8s-isekai/",
+          "https://github.com/etg227/k8s-isekai"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 1,
+      "assessedAt": "2026-11-13",
+      "assessmentSources": [
+        "https://github.com/wongcyrus/k8s-isekai",
+        "https://webrpg.org/wongcyrus-k8s-isekai/",
+        "https://github.com/etg227/k8s-isekai"
+      ],
+      "assessmentNote": "README (wongcyrus/k8s-isekai): HKIIT Kubernetes-learning RPG, NPC k8s tasks via NpcK8sPluginCommand, AWS Academy + Minikube, GenAI chat NPCs, YouTube alpha demo; both forks are the same game (identical 15 map names, 119 events each); no external reviews; rating blank; popularity 1.",
+      "translatedTitles": {
+        "zh-Hans": "Kubernetes异世界",
+        "ja": "Kubernetes異世界"
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "香港资讯科技学院（HKIIT）学生的 Kubernetes 学习 RPG：穿越异世界，与 NPC 互动接取 Kubernetes 实操任务，在 AWS Academy Learner Lab + Minikube 环境里搭建管理集群，另有 GenAI 聊天 NPC。15 张地图，两个 fork 为同一游戏的不同构建。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "A Kubernetes-learning RPG for Hong Kong Institute of Information Technology (HKIIT) students: transported to another world, you take hands-on Kubernetes tasks from NPCs, setting up and managing clusters in AWS Academy Learner Lab with Minikube, with GenAI chat NPCs. 15 maps; the two forks are different builds of the same game.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "香港資訊科技学院（HKIIT）学生向けKubernetes学習RPG。異世界に転移し、NPCからKubernetesの実践課題を受け、AWS Academy Learner Lab＋Minikube環境でクラスタを構築・運用する。GenAIチャットNPCも搭載。15マップ。2つのフォークは同一ゲームの異なるビルド。",
+          "editorialStatus": "draft"
+        }
+      },
+      "externalLinks": [
+        {
+          "url": "https://github.com/wongcyrus/k8s-isekai",
+          "type": "source",
+          "label": "GitHub — wongcyrus/k8s-isekai"
+        },
+        {
+          "url": "https://youtu.be/dIwNWwz681k",
+          "type": "other",
+          "label": "YouTube — Kubernetes Isekai (Alpha) demo"
+        }
+      ],
+      "contentAdvisory": {
+        "nsfw": false
+      }
+    },
+    "l-ombre-de-la-guerre": {
+      "schemaVersion": 1,
+      "slug": "l-ombre-de-la-guerre",
+      "originalTitle": "L'Ombre de la Guerre",
+      "taxonomy": {
+        "genres": [
+          "rpg"
+        ],
+        "themes": [
+          "mystery"
+        ],
+        "contentType": "full-game"
+      },
+      "developers": [],
+      "media": {
+        "cover": "https://webrpg.org/heronat-SI28_Test/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "heronat-si28-test",
+          "title": "L'Ombre de la Guerre",
+          "languages": [
+            "fr"
+          ],
+          "nsfw": false
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/heronat/SI28_Test",
+          "https://webrpg.org/heronat-SI28_Test/"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 1,
+      "assessedAt": "2026-11-13",
+      "assessmentSources": [
+        "https://github.com/heronat/SI28_Test",
+        "https://webrpg.org/heronat-SI28_Test/"
+      ],
+      "assessmentNote": "No external traces found — all French-title search hits are Monolith's Middle-earth: Shadow of War, a different game; 12 maps / 316 dialogue lines in-repo (French spy Joan Garcia, 3 missions, passport from 'Serge'); repo 1 star; rating blank; popularity 1.",
+      "translatedTitles": {
+        "zh-Hans": "战争之影",
+        "en": "The Shadow of War",
+        "ja": "戦争の影"
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "法语间谍 RPG：你扮演间谍乔安·加西亚，在三个任务中周旋——从代号 Serge 的联络人手中取得护照、前往城东北的庄园。12 张地图、316 行对白。标题与 Monolith 的《中土世界：战争之影》法语名撞名，并非同一游戏。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "A French spy RPG: you play Joan Garcia, a spy working through three missions — obtaining a passport from a contact codenamed Serge, visiting the manor north-east of town. 12 maps, 316 dialogue lines. The title collides with the French name of Monolith's Middle-earth: Shadow of War; this is a different, student-made game.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "フランス語のスパイRPG。スパイのジョアン・ガルシアとなり、3つのミッションをこなす——コードネーム「セルジュ」からパスポートを受け取り、町の北東にある屋敷へ。12マップ・316行の台詞。タイトルはMonolithの『シャドウ・オブ・ウォー』のフランス語名と重なるが、別作品。",
+          "editorialStatus": "draft"
+        }
+      },
+      "contentAdvisory": {
+        "nsfw": false
+      }
     }
   }
 }

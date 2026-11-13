@@ -17709,16 +17709,8 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/Harleythetech-Jovellano_ACT3/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg"
-      ],
-      "languages": [
-        "en"
-      ],
+      "playable": false,
       "nsfw": false,
-      "playable": true,
-      "popularity": 2,
-      "rating": 5,
       "reviewedAt": "2026-11-07"
     }
   },
@@ -17784,13 +17776,8 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/szatkus-wachaj_pale_kajdaniarzu/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg"
-      ],
+      "playable": false,
       "nsfw": false,
-      "playable": true,
-      "popularity": 2,
-      "rating": 5,
       "reviewedAt": "2026-11-07"
     }
   },
@@ -17878,19 +17865,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/waycrosspublicmedia-assets/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "simulation",
-        "slice-of-life"
-      ],
-      "languages": [
-        "en"
-      ],
-      "nsfw": false,
+      "gameSlug": "kana",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
+      "nsfw": false,
       "reviewedAt": "2026-11-07",
-      "title": "human_expenditure_program"
+      "reviewedSourceHeadSha": "2331744b42e682e6e4514b47c1d15d746185a137"
     }
   },
   {
@@ -17937,23 +17916,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/renrender0209-kankin/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "aliases": [
-        "kankin",
-        "愛の監禁ごはんはXXXチャーハン"
-      ],
-      "genres": [
-        "visual-novel",
-        "horror"
-      ],
-      "languages": [
-        "ja"
-      ],
-      "nsfw": false,
+      "gameSlug": "kankin",
       "playable": true,
-      "popularity": 3,
-      "rating": 5,
+      "nsfw": false,
       "reviewedAt": "2026-11-07",
-      "title": "愛の監禁ごはんは×××チャーハン"
+      "reviewedSourceHeadSha": "3f0d4092014ee4ad860409bce54ef949b941d304"
     }
   },
   {
@@ -18038,17 +18005,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/okshaone-Kiki-s-adventure-v1/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg"
-      ],
-      "languages": [
-        "en"
-      ],
-      "nsfw": false,
+      "gameSlug": "kiki-s-adventure",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "nsfw": false,
+      "reviewedAt": "2026-11-07",
+      "reviewedSourceHeadSha": "d7968fd986ec9a086fd39163761c860c9472fe0a"
     }
   },
   {
@@ -18078,17 +18039,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/RedhawkPhyre-Killer-Nights/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg"
-      ],
-      "languages": [
-        "en"
-      ],
-      "nsfw": false,
+      "gameSlug": "killer-nights",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "nsfw": false,
+      "reviewedAt": "2026-11-07",
+      "reviewedSourceHeadSha": "8b12697987c495520419c6c1e18eac734460e29b"
     }
   },
   {
@@ -18118,18 +18073,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/flashdim-kins-chronicle/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg",
-        "fantasy"
-      ],
-      "languages": [
-        "en"
-      ],
-      "nsfw": false,
+      "gameSlug": "kin-s-chronicle",
       "playable": true,
-      "popularity": 5,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "nsfw": false,
+      "reviewedAt": "2026-11-07",
+      "reviewedSourceHeadSha": "f038a23594497807b0dbc2e7f379cb078d902a97"
     }
   },
   {
@@ -18156,16 +18104,8 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/juridon-juridon.github.io/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "adventure"
-      ],
-      "languages": [
-        "ja"
-      ],
+      "playable": false,
       "nsfw": false,
-      "playable": true,
-      "popularity": 2,
-      "rating": 5,
       "reviewedAt": "2026-11-07"
     }
   },
@@ -18214,19 +18154,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/etg227-NEW-GAME/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg",
-        "educational",
-        "fantasy"
-      ],
-      "languages": [
-        "en"
-      ],
-      "nsfw": false,
+      "gameSlug": "kubernetes-isekai",
       "playable": true,
-      "popularity": 3,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "nsfw": false,
+      "reviewedAt": "2026-11-07",
+      "reviewedSourceHeadSha": "a9e7bc15e14a692c0da06d269fccc7b0e568388c"
     }
   },
   {
@@ -18274,19 +18206,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/wongcyrus-k8s-isekai/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg",
-        "educational",
-        "fantasy"
-      ],
-      "languages": [
-        "en"
-      ],
-      "nsfw": false,
+      "gameSlug": "kubernetes-isekai",
       "playable": true,
-      "popularity": 3,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "nsfw": false,
+      "reviewedAt": "2026-11-07",
+      "reviewedSourceHeadSha": "fd0cfe7a9605cf3128ee5c429fc696a1ba7d6cf7"
     }
   },
   {
@@ -18316,17 +18240,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/heronat-SI28_Test/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg"
-      ],
-      "languages": [
-        "fr"
-      ],
-      "nsfw": false,
+      "gameSlug": "l-ombre-de-la-guerre",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "nsfw": false,
+      "reviewedAt": "2026-11-07",
+      "reviewedSourceHeadSha": "092f29528fd7091905f64ddcfda6ef4d4a1f3bae"
     }
   },
   {
