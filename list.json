@@ -20862,22 +20862,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/aaron1299-muurien-valissa/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "aliases": [
-        "muurien-valissa"
-      ],
-      "genres": [
-        "adventure",
-        "drama"
-      ],
-      "languages": [
-        "fi"
-      ],
-      "nsfw": false,
+      "gameSlug": "muurien-valissa",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
+      "nsfw": false,
       "reviewedAt": "2026-11-08",
-      "title": "Muurien välissä"
+      "reviewedSourceHeadSha": "4d8b8c778399094981ada2b043feb64b05e3b355"
     }
   },
   {
@@ -20907,18 +20896,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/MechaDragonX-MVGaGotoku/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg",
-        "drama"
-      ],
-      "languages": [
-        "en"
-      ],
-      "nsfw": false,
+      "gameSlug": "mv-ga-gotoku",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-08"
+      "nsfw": false,
+      "reviewedAt": "2026-11-08",
+      "reviewedSourceHeadSha": "e403b28b561d4782c91227ba6ae42c6ad576e482"
     }
   },
   {
@@ -21195,19 +21177,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/jswessler-MYMEMORY/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "adventure",
-        "horror",
-        "mystery"
-      ],
-      "languages": [
-        "en"
-      ],
-      "nsfw": false,
+      "gameSlug": "mymemory",
       "playable": true,
-      "popularity": 6,
-      "rating": 7,
-      "reviewedAt": "2026-11-08"
+      "nsfw": false,
+      "reviewedAt": "2026-11-08",
+      "reviewedSourceHeadSha": "8d654c819699bba2e1786aed4d25378c07ac58a4"
     }
   },
   {
@@ -21237,17 +21211,8 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/27DAnderson-MythologyRPGM/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg",
-        "fantasy"
-      ],
-      "languages": [
-        "en"
-      ],
+      "playable": false,
       "nsfw": false,
-      "playable": true,
-      "popularity": 2,
-      "rating": 3,
       "reviewedAt": "2026-11-08"
     }
   },
@@ -21361,17 +21326,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/zhiwei-zhiwei-Game_RPGMaker_MagicnoMagic/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "adventure"
-      ],
-      "languages": [
-        "en"
-      ],
-      "nsfw": false,
+      "gameSlug": "nature-no-nature",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-08"
+      "nsfw": false,
+      "reviewedAt": "2026-11-08",
+      "reviewedSourceHeadSha": "a5eca6097f4612eeced7e514f1b000cac4f838b8"
     }
   },
   {
@@ -21534,16 +21493,8 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/Potasiuombun-NHKGame-collab/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg"
-      ],
-      "languages": [
-        "en"
-      ],
+      "playable": false,
       "nsfw": false,
-      "playable": true,
-      "popularity": 2,
-      "rating": 5,
       "reviewedAt": "2026-11-08"
     }
   },
@@ -21609,17 +21560,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/k45514n-NodeConfAR-2017/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "adventure"
-      ],
-      "languages": [
-        "en"
-      ],
-      "nsfw": false,
+      "gameSlug": "nodeconf-ar-2017",
       "playable": true,
-      "popularity": 3,
-      "rating": 5,
-      "reviewedAt": "2026-11-08"
+      "nsfw": false,
+      "reviewedAt": "2026-11-08",
+      "reviewedSourceHeadSha": "2759349d101f218aa850a195491dc88f150090cd"
     }
   },
   {
@@ -21649,18 +21594,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/Excel-myl/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "visual-novel",
-        "romance"
-      ],
-      "languages": [
-        "en"
-      ],
-      "nsfw": false,
+      "gameSlug": "noticing-mayla",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-08"
+      "nsfw": false,
+      "reviewedAt": "2026-11-08",
+      "reviewedSourceHeadSha": "c1445516aec1cf89b09b6780fa5696b7955bf7a7"
     }
   },
   {
@@ -21724,19 +21662,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/paulo1211-O-Castelo-das-Sombras/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg",
-        "fantasy"
-      ],
-      "languages": [
-        "pt",
-        "en"
-      ],
-      "nsfw": false,
+      "gameSlug": "o-castelo-das-sombras",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-08"
+      "nsfw": false,
+      "reviewedAt": "2026-11-08",
+      "reviewedSourceHeadSha": "79548e2891a6ea55bbefd78b3935f710f0ca4cfd"
     }
   },
   {
@@ -21766,22 +21696,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/eltonleao-happycodegames/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "aliases": [
-        "o monstro da preguiça"
-      ],
-      "genres": [
-        "rpg",
-        "educational"
-      ],
-      "languages": [
-        "pt"
-      ],
-      "nsfw": false,
+      "gameSlug": "o-monstro-da-preguica",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
+      "nsfw": false,
       "reviewedAt": "2026-11-08",
-      "title": "UpSchool!"
+      "reviewedSourceHeadSha": "bd5d228e53ba1175af64a22c78909588409ded45"
     }
   },
   {

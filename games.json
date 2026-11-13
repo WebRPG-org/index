@@ -16443,6 +16443,631 @@
       "contentAdvisory": {
         "nsfw": false
       }
+    },
+    "muurien-valissa": {
+      "schemaVersion": 1,
+      "slug": "muurien-valissa",
+      "originalTitle": "Muurien välissä",
+      "taxonomy": {
+        "genres": [
+          "rpg",
+          "adventure"
+        ],
+        "themes": [
+          "sci-fi",
+          "drama"
+        ],
+        "contentType": "full-game"
+      },
+      "developers": [
+        {
+          "name": "aaron1299",
+          "url": "https://github.com/aaron1299"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/aaron1299-muurien-valissa/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "aaron1299-muurien-valissa",
+          "title": "Muurien välissä",
+          "languages": [
+            "fi"
+          ],
+          "nsfw": false
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/aaron1299/muurien-valissa",
+          "https://webrpg.org/aaron1299-muurien-valissa/"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 1,
+      "assessedAt": "2026-11-13",
+      "assessmentSources": [
+        "https://github.com/aaron1299/muurien-valissa",
+        "https://webrpg.org/aaron1299-muurien-valissa/"
+      ],
+      "assessmentNote": "No external traces found (search hits are unrelated); repo description (verified): 'Muurien valissa - seikkailuroolipeli dystooppisesta Helsingista (RPG Maker MZ, selainversio)'; 14 maps / 836 Finnish dialogue lines in-repo (Helsinki districts, courier-guild quest chain, wild-drone and clown battles, shops, 'Peli läpäisty' completion switch); repo 0 stars; zh-Hans/en/ja titles are translations of the Finnish title; rating blank; popularity 1.",
+      "translatedTitles": {
+        "zh-Hans": "墙垣之间",
+        "en": "Between the Walls",
+        "ja": "壁の狭間"
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "芬兰语反乌托邦赫尔辛基信使 RPG：墙垣之内的城市里，信使 Nea 与同伴 Rai、Wilma 奔走于 Kallio、Malmi、Pasila、Senaatintori、Linnanmäki 等街区之间，完成血清、控制电路、货运单等一连串委托，直面马戏团小丑 Boss。14 张地图、836 行芬兰语对白。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "A Finnish dystopian Helsinki courier RPG: inside the walled city, courier Nea and companions Rai and Wilma run jobs across Kallio, Malmi, Pasila, Senaatintori, Linnanmäki and more — a chain of quests (serum, control circuit, waybill, the Pasila message) ending in a showdown with the circus director. 14 maps, 836 lines of Finnish dialogue.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "フィンランド語のディストピア・ヘルシンキ配達員RPG。壁に囲まれた街で、配達員ネアと仲間のライ、ヴィルマがカッリオ、マルミ、パシラ、セナートリ、リンナンマキなどを駆け巡り、血清、制御回路、貨物伝票などの依頼をこなしてサーカス団長と対決する。14マップ・836行のフィンランド語の台詞。",
+          "editorialStatus": "draft"
+        }
+      },
+      "contentAdvisory": {
+        "nsfw": false
+      }
+    },
+    "mv-ga-gotoku": {
+      "schemaVersion": 1,
+      "slug": "mv-ga-gotoku",
+      "originalTitle": "MV ga Gotoku",
+      "taxonomy": {
+        "genres": [
+          "rpg"
+        ],
+        "themes": [
+          "drama"
+        ],
+        "contentType": "demo"
+      },
+      "developers": [
+        {
+          "name": "Raghav Vivek",
+          "url": "https://github.com/MechaDragonX"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/MechaDragonX-MVGaGotoku/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "mechadragonx-mvgagotoku",
+          "title": "MV ga Gotoku",
+          "languages": [
+            "en"
+          ],
+          "nsfw": false
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/MechaDragonX/MVGaGotoku",
+          "https://webrpg.org/MechaDragonX-MVGaGotoku/"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 1,
+      "assessedAt": "2026-11-13",
+      "assessmentSources": [
+        "https://github.com/MechaDragonX/MVGaGotoku",
+        "https://webrpg.org/MechaDragonX-MVGaGotoku/"
+      ],
+      "assessmentNote": "No external traces for this fan game (search hits are only the official Yakuza / Like a Dragon series — do not conflate); repo description (verified): 'A test game in RPG Maker MV where you play as characters from Yakuza / Like a Dragon 0, 1, and 2'; 1 map / 12 events in-repo (11 battle triggers + boss intro cutscene with Kiryu, Majima and Lau Ka Long, one Chinese line glossed in English); contentType demo (author calls it a test game, single arena); repo 1 star; zh-Hans/ja titles are translations; rating blank; popularity 1.",
+      "translatedTitles": {
+        "zh-Hans": "如龙MV",
+        "ja": "MVが如く"
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "《如龙》同人战斗小品（RPG Maker MV）：横滨中华街一张地图，11 场遭遇战加一场 Boss 战——桐生一马与真岛吾朗迎战刘家龙，开场对白中英双语。作者自述为测试游戏。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "A Yakuza fan battle game (RPG Maker MV): a single map, Yokohama Chinatown, with 11 enemy encounters and a boss battle — Kazuma Kiryu and Goro Majima face off against Lau Ka Long, in a bilingual Chinese/English intro scene. The author calls it a test game.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "『龍が如く』ファンのバトル小品（RPGツクールMV）。横浜中華街の1マップで、11の遭遇戦とボス戦——桐生一馬と真島吾朗が劉家龍と対決する。中国語と英語の二言語の導入シーンつき。作者はテストゲームと呼んでいる。",
+          "editorialStatus": "draft"
+        }
+      },
+      "contentAdvisory": {
+        "nsfw": false
+      }
+    },
+    "mymemory": {
+      "schemaVersion": 1,
+      "slug": "mymemory",
+      "originalTitle": "MYMEMORY",
+      "taxonomy": {
+        "genres": [
+          "adventure"
+        ],
+        "themes": [
+          "horror",
+          "mystery"
+        ],
+        "contentType": "full-game"
+      },
+      "developers": [
+        {
+          "name": "jswessler",
+          "url": "https://github.com/jswessler"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/jswessler-MYMEMORY/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "jswessler-mymemory",
+          "title": "MYMEMORY",
+          "languages": [
+            "en"
+          ],
+          "nsfw": false
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/jswessler/MYMEMORY",
+          "https://webrpg.org/jswessler-MYMEMORY/"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 4,
+      "assessedAt": "2026-11-13",
+      "assessmentSources": [
+        "https://github.com/jswessler/MYMEMORY",
+        "https://webrpg.org/jswessler-MYMEMORY/"
+      ],
+      "assessmentNote": "Steam release verified (store.steampowered.com/app/4506990/MYMEMORY/, $2.99, released Apr 6, 2026; 2-3 hours, multiple endings, 12-track OST); dev note: solo dev jswessler, inspired by Oneshot, Ib and SCP-245, SCP-9831 on the SCP Wiki; SteamSpy records 0 reviews and the Steam appreviews endpoint 302s, so no review-count evidence — rating stays blank (cf. Crimpo Quest / Kin's Chronicle precedents); 18 maps / 1988 dialogue lines / 314 choices in-repo; Steam mature-content note (incarceration/kidnapping, one unrealistic dead body, one ending implies off-screen suicide) recorded as warnings; zh-Hans/ja titles are translations; repo 0 stars; popularity 4.",
+      "release": {
+        "date": "2026-04-06",
+        "originalPlatforms": [
+          "web",
+          "Windows"
+        ]
+      },
+      "translatedTitles": {
+        "zh-Hans": "我的记忆",
+        "ja": "マイ・メモリー"
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "SCP 基金会题材恐怖 RPG（Steam 发售）：化身被收容并编号为 SCP-9831 的 Camille，重温她的记忆，探寻基金会掩盖的真相。2–3 小时，多结局、解谜与分支路线、12 首原创配乐。18 张地图、1988 行对白。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "An SCP Foundation horror RPG (on Steam): play through Camille's memories as she is contained and classified as SCP-9831, and uncover what the Foundation is hiding. 2–3 hours, multiple endings, puzzles, branching paths and an original 12-track OST. 18 maps, 1,988 dialogue lines.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "SCP財団を題材にしたホラーRPG（Steamで発売）。SCP-9831として収容されたカミーユの記憶を辿り、財団が隠す真実を探る。2～3時間、マルチエンディング、パズル、分岐ルート、12曲のオリジナルサウンドトラック。18マップ・1,988行の台詞。",
+          "editorialStatus": "draft"
+        }
+      },
+      "externalLinks": [
+        {
+          "url": "https://store.steampowered.com/app/4506990/MYMEMORY/",
+          "type": "store",
+          "label": "Steam"
+        }
+      ],
+      "contentAdvisory": {
+        "nsfw": false,
+        "warnings": [
+          "incarceration and kidnapping",
+          "depiction of a dead body",
+          "implied off-screen suicide"
+        ]
+      }
+    },
+    "nature-no-nature": {
+      "schemaVersion": 1,
+      "slug": "nature-no-nature",
+      "originalTitle": "Nature no Nature",
+      "taxonomy": {
+        "genres": [
+          "adventure"
+        ],
+        "themes": [
+          "fantasy"
+        ],
+        "contentType": "full-game"
+      },
+      "developers": [
+        {
+          "name": "zhiwei-zhiwei",
+          "url": "https://github.com/zhiwei-zhiwei"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/zhiwei-zhiwei-Game_RPGMaker_MagicnoMagic/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "zhiwei-zhiwei-game-rpgmaker-magicnomagic",
+          "title": "Nature no Nature",
+          "languages": [
+            "en"
+          ],
+          "nsfw": false
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/zhiwei-zhiwei/Game_RPGMaker_MagicnoMagic",
+          "https://webrpg.org/zhiwei-zhiwei-Game_RPGMaker_MagicnoMagic/"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 1,
+      "assessedAt": "2026-11-13",
+      "assessmentSources": [
+        "https://github.com/zhiwei-zhiwei/Game_RPGMaker_MagicnoMagic",
+        "https://webrpg.org/zhiwei-zhiwei-Game_RPGMaker_MagicnoMagic/"
+      ],
+      "assessmentNote": "No external traces found (search hits are unrelated works); README (verified): 'Made by RPG Maker MV', play link qu1te.itch.io/rpg-maker (itch page titled 'RPG Maker by qu1te'); 23 maps / 1322 English dialogue lines in-repo (1051 classified en; foreman confrontation, nature-spirit dialogue, Bat/Slime/Orc/Minotaur battles, 31 choices); repo 0 stars; zh-Hans/ja titles are translations; rating blank; popularity 1.",
+      "translatedTitles": {
+        "zh-Hans": "自然非自然",
+        "ja": "ネイチャー・ノー・ネイチャー"
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "奇幻冒险 RPG：开发扩张正在摧毁自然之灵栖息的森林；主角找上工头、与自然之灵对话，在林间战斗前行。23 张地图、1322 行英文对白。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "A fantasy adventure RPG: expansion is destroying the forest where the nature spirit lives and protects; the hero confronts the foreman, talks to the spirit, and fights through the woods. 23 maps, 1,322 lines of English dialogue.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "ファンタジー・アドベンチャーRPG。開発による拡張が、自然の精霊が棲み守る森を破壊している。主人公は現場監督に詰め寄り、精霊と語らい、森を戦い抜く。23マップ・1,322行の英語の台詞。",
+          "editorialStatus": "draft"
+        }
+      },
+      "externalLinks": [
+        {
+          "url": "https://qu1te.itch.io/rpg-maker",
+          "type": "store",
+          "label": "itch.io"
+        }
+      ],
+      "contentAdvisory": {
+        "nsfw": false
+      }
+    },
+    "nodeconf-ar-2017": {
+      "schemaVersion": 1,
+      "slug": "nodeconf-ar-2017",
+      "originalTitle": "NodeConf AR 2017",
+      "taxonomy": {
+        "genres": [
+          "adventure"
+        ],
+        "themes": [
+          "educational"
+        ],
+        "contentType": "demo"
+      },
+      "developers": [
+        {
+          "name": "Kassian Rosner Wren",
+          "url": "https://github.com/k45514n"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/k45514n-NodeConfAR-2017/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "k45514n-nodeconfar-2017",
+          "title": "NodeConf AR 2017",
+          "languages": [
+            "en"
+          ],
+          "nsfw": false
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/k45514n/NodeConfAR-2017",
+          "https://webrpg.org/k45514n-NodeConfAR-2017/"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 1,
+      "assessedAt": "2026-11-13",
+      "assessmentSources": [
+        "https://github.com/k45514n/NodeConfAR-2017",
+        "https://webrpg.org/k45514n-NodeConfAR-2017/"
+      ],
+      "assessmentNote": "No external traces found (search hits are other NodeConf 2017 talks); 6 maps / 85 dialogue lines in-repo (the Lab, nodebotanist, ID security protocol, WebSocket 'Socket start' event, Library / Engine Room / Social Room themed on the talk); developer name verified from the GitHub profile (Mx. Kassian Rosner Wren); contentType demo (live-talk companion game); translatedTitles left blank (proper name + year, cf. B-35 precedent); repo 0 stars; rating blank; popularity 1.",
+      "introductions": {
+        "zh-Hans": {
+          "summary": "NodeConf 2017 演讲伴生小游戏：欢迎来到「实验室」——与自称 nodebotanist 的 Kas 对话，通过身份验证，走进以演讲内容为主题的房间：图书馆（开源文档）、引擎室（JerryScript / IoT.js / Espruino / duktape）、社交室（通知机器人）。6 张地图、85 行对白。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "A NodeConf 2017 talk companion game: welcome to 'the Lab' — talk with Kas the self-styled nodebotanist, pass an ID security protocol, and walk through rooms themed on the talk: the Library (open-source documentation), the Engine Room (JerryScript, IoT.js, Espruino, duktape) and the Social Room (notification bot). 6 maps, 85 dialogue lines.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "NodeConf 2017 講演の伴走ゲーム。「ラボ」へようこそ——自称nodebotanistのカスと話し、ID認証を抜け、講演をテーマにした部屋を巡る。図書室（オープンソースのドキュメント）、エンジン室（JerryScript／IoT.js／Espruino／duktape）、社交室（通知ボット）。6マップ・85行の台詞。",
+          "editorialStatus": "draft"
+        }
+      },
+      "contentAdvisory": {
+        "nsfw": false
+      }
+    },
+    "noticing-mayla": {
+      "schemaVersion": 1,
+      "slug": "noticing-mayla",
+      "originalTitle": "Noticing Mayla",
+      "taxonomy": {
+        "genres": [
+          "visual-novel"
+        ],
+        "themes": [
+          "romance"
+        ],
+        "contentType": "full-game"
+      },
+      "developers": [
+        {
+          "name": "Excel",
+          "url": "https://github.com/Excel"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/Excel-myl/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "excel-myl",
+          "title": "Noticing Mayla",
+          "languages": [
+            "en"
+          ],
+          "nsfw": false
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/Excel/myl",
+          "https://webrpg.org/Excel-myl/"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 1,
+      "assessedAt": "2026-11-13",
+      "assessmentSources": [
+        "https://github.com/Excel/myl",
+        "https://webrpg.org/Excel-myl/"
+      ],
+      "assessmentNote": "No external traces found (search hits are unrelated Mayla/Maya works); 1 map / 227 dialogue lines in-repo (Mayla's introduction, photographer + dance games, 3 choices); 'fuck' hits are profanity ('someone fucking notices me today', 'what a terrible fucking song', 'fucking hell'), nsfw stays false; repo 0 stars; zh-Hans/ja titles are translations; rating blank; popularity 1.",
+      "translatedTitles": {
+        "zh-Hans": "注意到了梅拉",
+        "ja": "ノーティシング・マイラ"
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "短篇视觉小说：摄影师 Mayla 回忆起某人第一次注意到她的那一刻——她业余还爱玩跳舞机游戏。单张地图、227 行对白。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "A short visual novel: Mayla, a photographer who plays dance games on the side, remembers the time someone first noticed her. A single map, 227 dialogue lines.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "短編ビジュアルノベル。写真家のマイラが、ダンスゲームも嗜む自分のことを誰かが初めて気づいてくれた日のことを語る。1マップ・227行の台詞。",
+          "editorialStatus": "draft"
+        }
+      },
+      "contentAdvisory": {
+        "nsfw": false
+      }
+    },
+    "o-castelo-das-sombras": {
+      "schemaVersion": 1,
+      "slug": "o-castelo-das-sombras",
+      "originalTitle": "O Castelo das Sombras",
+      "taxonomy": {
+        "genres": [
+          "rpg"
+        ],
+        "themes": [
+          "fantasy",
+          "drama"
+        ],
+        "contentType": "full-game"
+      },
+      "developers": [
+        {
+          "name": "paulo1211",
+          "url": "https://github.com/paulo1211"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/paulo1211-O-Castelo-das-Sombras/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "paulo1211-o-castelo-das-sombras",
+          "title": "O Castelo das Sombras",
+          "languages": [
+            "pt"
+          ],
+          "nsfw": false
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/paulo1211/O-Castelo-das-Sombras",
+          "https://webrpg.org/paulo1211-O-Castelo-das-Sombras/"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 1,
+      "assessedAt": "2026-11-13",
+      "assessmentSources": [
+        "https://github.com/paulo1211/O-Castelo-das-Sombras",
+        "https://webrpg.org/paulo1211-O-Castelo-das-Sombras/"
+      ],
+      "assessmentNote": "No external traces found (search hits are other castle games); README (verified): 'Trabalho final disciplina de desenvolvimento de jogos' (final course assignment); 10 maps / 150 dialogue lines in-repo (blood-pact intro, throne room, summoning room, libraries, seer encounter; 4 battles: 2 Demônios, 2 Fantasmas, Boss, Entidade); languages corrected [pt, en] -> [pt] (150 lines scanned: 95 pt / 0 en); repo 0 stars; zh-Hans/en/ja titles are translations; rating blank; popularity 1.",
+      "translatedTitles": {
+        "zh-Hans": "影之城堡",
+        "en": "The Castle of Shadows",
+        "ja": "影の城"
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "葡语奇幻 RPG（课程结课作品）：饥荒年代，国王与暗影实体缔结血之契约换取繁荣；Draven 爵士、Seraphina 公主、Alden 国王与 Morgana 夫人要以仪式匕首之血与附魔卷轴解除契约。10 张地图、150 行对白、4 场战斗。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "A Portuguese fantasy RPG (a final course assignment): in an era of hunger, a desperate king makes a blood pact with a shadow entity to save his people; Sir Draven, Princess Seraphina, King Alden and Madame Morgana must use the ritual dagger's blood and the enchanted scroll to cancel it. 10 maps, 150 dialogue lines, 4 battles.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "ポルトガル語のファンタジーRPG（授業の最終課題）。飢饉の時代、絶望した王は民を救うため影の存在と血の契約を結ぶ。ドレイヴン卿、セラフィーナ王女、アルデン王、マダム・モルガナは、儀式の短剣の血と呪文の巻物で契約を解こうとする。10マップ・150行の台詞・4度の戦闘。",
+          "editorialStatus": "draft"
+        }
+      },
+      "contentAdvisory": {
+        "nsfw": false
+      }
+    },
+    "o-monstro-da-preguica": {
+      "schemaVersion": 1,
+      "slug": "o-monstro-da-preguica",
+      "originalTitle": "o monstro da preguiça",
+      "taxonomy": {
+        "genres": [
+          "rpg"
+        ],
+        "themes": [
+          "educational",
+          "comedy"
+        ],
+        "contentType": "full-game"
+      },
+      "developers": [],
+      "media": {
+        "cover": "https://webrpg.org/eltonleao-happycodegames/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "eltonleao-happycodegames",
+          "title": "o monstro da preguiça",
+          "languages": [
+            "pt"
+          ],
+          "nsfw": false
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/eltonleao/happycodegames",
+          "https://webrpg.org/eltonleao-happycodegames/"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 1,
+      "assessedAt": "2026-11-13",
+      "assessmentSources": [
+        "https://github.com/eltonleao/happycodegames",
+        "https://webrpg.org/eltonleao-happycodegames/"
+      ],
+      "assessmentNote": "No external traces found (search hits are unrelated); 8 maps / 39 dialogue lines in-repo (school, bathroom dungeon, boss battle vs 'monstro da preguiça', item shop, choices; ending 'Agora as crianças estão livres da preguiça!'); old meta title 'UpSchool!' is unverified (System.json gameTitle is 'o monstro da preguiça') — not used as an alias; developers left blank (Matheus, from the sourcePath folder, is not verifiable as a person); repo 0 stars; zh-Hans/en/ja titles are translations; rating blank; popularity 1.",
+      "translatedTitles": {
+        "zh-Hans": "懒惰怪兽",
+        "en": "The Laziness Monster",
+        "ja": "なまけものの怪物"
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "葡语校园小品：懒惰怪兽偷走了学校的买书钱，藏进浴室地牢；Tony Stark 买书、闯地牢、打倒怪兽，孩子们终于摆脱了懒惰。8 张地图、39 行对白，任务—商店—Boss 战—结局的完整小循环。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "A Portuguese school vignette: the laziness monster stole the school's book money and hid it in the bathroom dungeon; Tony Stark buys books, storms the dungeon and defeats the monster — 'Now the children are free of laziness!' A complete small loop: quest, shop, boss battle, ending. 8 maps, 39 dialogue lines.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "ポルトガル語の学園小品。なまけものの怪物が学校の本代を盗み、トイレのダンジョンに隠した。トニー・スタークは本を買い、ダンジョンに挑み、怪物を倒す——「子どもたちはもうなまけものじゃない！」。クエスト、店、ボス戦、結末まで揃った小さな循環。8マップ・39行の台詞。",
+          "editorialStatus": "draft"
+        }
+      },
+      "contentAdvisory": {
+        "nsfw": false
+      }
     }
   }
 }
