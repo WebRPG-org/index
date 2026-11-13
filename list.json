@@ -27004,17 +27004,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/NaturalPowerGames-rpgmaker/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg"
-      ],
-      "languages": [
-        "es"
-      ],
-      "nsfw": false,
+      "gameSlug": "rescue-mission",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-08"
+      "nsfw": false,
+      "reviewedAt": "2026-11-08",
+      "reviewedSourceHeadSha": "458157e1790d6a123987188c895509f44023a2a4"
     }
   },
   {
@@ -27096,17 +27090,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/Pelinal-ReturnToSender/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg"
-      ],
-      "languages": [
-        "en"
-      ],
-      "nsfw": false,
+      "gameSlug": "return-to-sender",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-08"
+      "nsfw": false,
+      "reviewedAt": "2026-11-08",
+      "reviewedSourceHeadSha": "c05cfa4a903c4baac6d1ef17c1688eb7165078d2"
     }
   },
   {
@@ -27170,17 +27158,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/matheusPereiraKrumm-rise-of-shinigami/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg"
-      ],
-      "languages": [
-        "pt"
-      ],
-      "nsfw": false,
+      "gameSlug": "rise-of-shinigami",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-08"
+      "nsfw": false,
+      "reviewedAt": "2026-11-08",
+      "reviewedSourceHeadSha": "a3b6adfb0ad96c6d179327dd28d0d7c0d9deef74"
     }
   },
   {
@@ -27489,17 +27471,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/Epic12Terrarian-Road-to-Joshsdale/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg"
-      ],
-      "languages": [
-        "en"
-      ],
-      "nsfw": false,
+      "gameSlug": "road-to-joshsdale",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-08"
+      "nsfw": false,
+      "reviewedAt": "2026-11-08",
+      "reviewedSourceHeadSha": "c8c04b3ff18a40ab7c7674189020f35bdc7ceb41"
     }
   },
   {
@@ -27529,17 +27505,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/Aguiano18-Rpg.maker/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg"
-      ],
-      "languages": [
-        "pt"
-      ],
-      "nsfw": false,
+      "gameSlug": "rods",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-08"
+      "nsfw": false,
+      "reviewedAt": "2026-11-08",
+      "reviewedSourceHeadSha": "991806811ead0e0ad77446b849ad1973aaf08e78"
     }
   },
   {
@@ -27584,16 +27554,8 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/RoryTheGame-RoryRPG/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg"
-      ],
-      "languages": [
-        "en"
-      ],
+      "playable": false,
       "nsfw": false,
-      "playable": true,
-      "popularity": 2,
-      "rating": 4,
       "reviewedAt": "2026-11-08"
     }
   },
@@ -27714,22 +27676,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/eml17028-RPGMaker_Horror_GameJam_24/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "aliases": [
-        "RPGMaker_Horror_GameJam_24"
-      ],
-      "genres": [
-        "adventure",
-        "horror"
-      ],
-      "languages": [
-        "en"
-      ],
-      "nsfw": false,
+      "gameSlug": "siren-isle",
       "playable": true,
-      "popularity": 3,
-      "rating": 5,
+      "nsfw": false,
       "reviewedAt": "2026-11-08",
-      "title": "Siren Isle"
+      "reviewedSourceHeadSha": "30f31111508f86fe461cbc5d77708eef163d9713"
     }
   },
   {
@@ -27934,17 +27885,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/Archeia-RuselandNessy/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg"
-      ],
-      "languages": [
-        "en"
-      ],
-      "nsfw": false,
+      "gameSlug": "rusel-prototype",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-08"
+      "nsfw": false,
+      "reviewedAt": "2026-11-08",
+      "reviewedSourceHeadSha": "0598b53cab0382910eedec9da45f8c744944b2ac"
     }
   },
   {
@@ -28049,16 +27994,8 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/webservicesjarm-Juego1/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg"
-      ],
-      "languages": [
-        "es"
-      ],
+      "playable": false,
       "nsfw": false,
-      "playable": true,
-      "popularity": 2,
-      "rating": 5,
       "reviewedAt": "2026-11-08"
     }
   },
@@ -28223,18 +28160,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/Byvalvin-Sanctuary/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg",
-        "sci-fi"
-      ],
-      "languages": [
-        "en"
-      ],
-      "nsfw": false,
+      "gameSlug": "sanctuary",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-08"
+      "nsfw": false,
+      "reviewedAt": "2026-11-08",
+      "reviewedSourceHeadSha": "78d319db34743092544bee3ad4b796c8452da188"
     }
   },
   {

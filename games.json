@@ -19954,6 +19954,658 @@
       "contentAdvisory": {
         "nsfw": false
       }
+    },
+    "rescue-mission": {
+      "schemaVersion": 1,
+      "slug": "rescue-mission",
+      "originalTitle": "Rescue Mission",
+      "taxonomy": {
+        "genres": [
+          "rpg"
+        ],
+        "themes": [
+          "fantasy",
+          "comedy"
+        ],
+        "contentType": "full-game"
+      },
+      "developers": [
+        {
+          "name": "NaturalPowerGames",
+          "url": "https://github.com/NaturalPowerGames"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/NaturalPowerGames-rpgmaker/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "naturalpowergames-rpgmaker",
+          "title": "Rescue Mission",
+          "languages": [
+            "es",
+            "en"
+          ],
+          "nsfw": false
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/NaturalPowerGames/rpgmaker",
+          "https://webrpg.org/NaturalPowerGames-rpgmaker/"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 1,
+      "assessedAt": "2026-11-13",
+      "assessmentSources": [
+        "https://github.com/NaturalPowerGames/rpgmaker",
+        "https://webrpg.org/NaturalPowerGames-rpgmaker/"
+      ],
+      "assessmentNote": "No external traces found (Sega's 'Rescue Mission' and Cal Jepso's itch game are unrelated); 7 maps / 47 events / 86 dialogue lines in-repo (44 Spanish / 41 English by full-map script count — bilingual, language corrected from old [es] to [es, en]); Act structure (Acto 1: El Inicio, Acto 2: El Explorador Perdido): Pipe wakes with no memory, finds a bow, gathers Conne/Tensuri/Alpa, rescues Tibumist from a dungeon cell ('Lobo muerto' / 'Tibu Rescatada' switches), rescues Chayanne, final battle; 4 battles, 0 shops; meme-heavy dialogue (Kame hame wave, Charizard, Zelda jokes); repo 0 stars; rating blank; popularity 1.",
+      "translatedTitles": {
+        "zh-Hans": "救援任务",
+        "ja": "レスキュー・ミッション"
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "西英双语喜剧 RPG：Pipe 一觉醒来失去了记忆，在森林里捡到一把弓，集结 Conne、Tensuri 与 Alpa 等伙伴，深入地牢救出 Tibumist，再去营救 Chayanne，最后迎来决战。7 张地图、86 行对白；对白混杂西班牙语与英语梗（龟派气功、喷火龙、塞尔达玩笑）。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "A bilingual Spanish/English comedy RPG: Pipe wakes up with no memory, finds a bow in the forest, gathers a party (Conne, Tensuri, Alpa), breaks Tibumist out of a dungeon cell, then rescues Chayanne, and fights a final battle. 7 maps, 86 dialogue lines; the dialogue mixes Spanish and English memes (Kamehameha, Charizard, Zelda jokes, Chayanne).",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "スペイン語と英語のバイリンガル・コメディRPG。記憶を失って目覚めたパイプは森で弓を拾い、コンネ、テンスリ、アルパら仲間を集めて地下牢からティブミストを救い出し、さらにチャヤンネを救出して最終決戦へ。7マップ・86行の台詞。台詞はスペイン語と英語のネタが混ざる（かめはめ波、リザードン、ゼルダのジョーク、チャヤンネ）。",
+          "editorialStatus": "draft"
+        }
+      },
+      "contentAdvisory": {
+        "nsfw": false
+      }
+    },
+    "return-to-sender": {
+      "schemaVersion": 1,
+      "slug": "return-to-sender",
+      "originalTitle": "Return to Sender",
+      "taxonomy": {
+        "genres": [
+          "rpg"
+        ],
+        "themes": [
+          "comedy",
+          "slice-of-life"
+        ],
+        "contentType": "full-game"
+      },
+      "developers": [
+        {
+          "name": "Pelinal",
+          "url": "https://github.com/Pelinal"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/Pelinal-ReturnToSender/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "pelinal-returntosender",
+          "title": "Return to Sender",
+          "languages": [
+            "en",
+            "zh-Hans"
+          ],
+          "nsfw": false
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/Pelinal/ReturnToSender",
+          "https://webrpg.org/Pelinal-ReturnToSender/"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 1,
+      "assessedAt": "2026-11-13",
+      "assessmentSources": [
+        "https://github.com/Pelinal/ReturnToSender",
+        "https://webrpg.org/Pelinal-ReturnToSender/"
+      ],
+      "assessmentNote": "No external traces found (Red Loom's itch 'Return To Sender' is a post-office stamping game, Control's AWE mission is unrelated); 9 maps / 81 events / 111 dialogue lines in-repo (107 English / 4 Chinese by full-map script count — language corrected from old [en] to [en, zh-Hans]; the Chinese lines are full dialogue from NPC 林躍, e.g. '这里太冷了 我讨厌英国!'); Jenny must return a box to the post office before it closes, the box moves on its own ('How did the box get over here on its own...?'), trail ends in a 'Hell' map; 2 battles, 3 shops, 10 choices; Tolworth / Kingston University are real London locations; repo 0 stars; rating blank; popularity 1.",
+      "translatedTitles": {
+        "zh-Hans": "退回寄件人",
+        "ja": "リターン・トゥ・センダー"
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "英语轻喜剧取物冒险：Jenny 忘了退掉一个包裹，必须在邮局关门前赶到；可包裹总会自己跑到别处，邮局职员对她的退货早已见怪不怪，一路追踪最后竟通向“地狱”。9 张地图、111 行对白；托尔沃斯与金斯顿大学是真实的伦敦地名，另有中国留学生林躍的中文对白。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "An English light-hearted fetch adventure: Jenny forgot to return a box and must reach the post office before it closes — but the box keeps moving on its own, the post office assistant is used to her returns, and the trail ends in a 'Hell' map. 9 maps, 111 dialogue lines; Tolworth and Kingston University are real London locations, and Chinese student 林躍 speaks four lines of Chinese dialogue.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "英語の軽快な取り戻しアドベンチャー。ジェニーは荷物の返品を忘れ、郵便局が閉まる前に駆けつけなければならない——が、荷物は勝手に移動し続け、局員は彼女の返品にもう慣れっこで、追跡の果ては「地獄」へ。9マップ・111行の台詞。トルワースとキングストン大学は実在のロンドンの地名で、中国人留学生・林躍の中国語台詞も4行ある。",
+          "editorialStatus": "draft"
+        }
+      },
+      "contentAdvisory": {
+        "nsfw": false
+      }
+    },
+    "rise-of-shinigami": {
+      "schemaVersion": 1,
+      "slug": "rise-of-shinigami",
+      "originalTitle": "Rise of Shinigami",
+      "taxonomy": {
+        "genres": [
+          "rpg"
+        ],
+        "themes": [
+          "fantasy",
+          "drama"
+        ],
+        "contentType": "full-game"
+      },
+      "developers": [
+        {
+          "name": "matheusPereiraKrumm",
+          "url": "https://github.com/matheusPereiraKrumm"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/matheusPereiraKrumm-rise-of-shinigami/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "matheuspereirakrumm-rise-of-shinigami",
+          "title": "Rise of Shinigami",
+          "languages": [
+            "pt"
+          ],
+          "nsfw": false
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/matheusPereiraKrumm/rise-of-shinigami",
+          "https://webrpg.org/matheusPereiraKrumm-rise-of-shinigami/"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 1,
+      "assessedAt": "2026-11-13",
+      "assessmentSources": [
+        "https://github.com/matheusPereiraKrumm/rise-of-shinigami",
+        "https://webrpg.org/matheusPereiraKrumm-rise-of-shinigami/"
+      ],
+      "assessmentNote": "No external traces found (Shinigami Chronicles TTRPG, Rain Code's Shinigami, Shin Megami Tensei If... are unrelated); 4 maps / 66 events / 241 Portuguese dialogue lines in-repo (Cidade, Parque, Pós-Morte, Universidade); README plot: a Shinigami warrior seeks revenge after being betrayed by his partner in one of the hardest battles of his life; the player meets new characters, trains, and fights through the city, park and afterlife ('um mundo habitado por almas perdidas e reinado pelos deuses da morte: os Shinigamis'), ending in a final battle against the coordinator ('Derrotou Coordenador' switch); 5 battles; repo 0 stars; rating blank; popularity 1.",
+      "translatedTitles": {
+        "zh-Hans": "死神崛起",
+        "ja": "ライズ・オブ・シニガミ"
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "葡萄牙语奇幻 RPG：死神战士 Matheus 在人生最艰难的一战中遭搭档背叛，决意复仇。玩家穿越城市、公园、死后世界与大学，结识新角色、刻苦训练，最终与协调者决一死战。4 张地图、241 行对白。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "A Portuguese fantasy RPG: Matheus, a Shinigami warrior, seeks revenge after being betrayed by his partner in one of the hardest battles of his life. The player travels through the city, the park, the afterlife and the university, meeting new characters and training, toward a final battle against the coordinator. 4 maps, 241 dialogue lines.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "ポルトガル語のファンタジーRPG。死神の戦士マテウスは、人生で最も過酷な戦いで相方に裏切られ、復讐を誓う。プレイヤーは街、公園、死後の世界、大学を巡り、新たな仲間と出会い、鍛錬を重ね、コーディネーターとの最終決戦へ向かう。4マップ・241行の台詞。",
+          "editorialStatus": "draft"
+        }
+      },
+      "contentAdvisory": {
+        "nsfw": false
+      }
+    },
+    "road-to-joshsdale": {
+      "schemaVersion": 1,
+      "slug": "road-to-joshsdale",
+      "originalTitle": "Road to Joshsdale",
+      "taxonomy": {
+        "genres": [
+          "rpg"
+        ],
+        "themes": [
+          "comedy",
+          "fantasy"
+        ],
+        "contentType": "full-game"
+      },
+      "developers": [
+        {
+          "name": "Epic12Terrarian",
+          "url": "https://github.com/Epic12Terrarian"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/Epic12Terrarian-Road-to-Joshsdale/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "epic12terrarian-road-to-joshsdale",
+          "title": "Road to Joshsdale",
+          "languages": [
+            "en"
+          ],
+          "nsfw": false
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/Epic12Terrarian/Road-to-Joshsdale",
+          "https://webrpg.org/Epic12Terrarian-Road-to-Joshsdale/"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 1,
+      "assessedAt": "2026-11-13",
+      "assessmentSources": [
+        "https://github.com/Epic12Terrarian/Road-to-Joshsdale",
+        "https://webrpg.org/Epic12Terrarian-Road-to-Joshsdale/"
+      ],
+      "assessmentNote": "No external traces found (the Josh Hallaran / 8-Bit Adventures interview is unrelated); 13 maps / 128 events / 187 English dialogue lines in-repo (map names are all defaults MAP001..MAP012, but content is real); a running gag where everyone is named Josh ('Hi, I'm Josh!' / 'Hi Josh.'), a memorial to fallen adventurers, healer Josh, a key hidden inside a book labelled 'Josh', a secret teddy bear, and a Credits map (36 lines, 'Idea for the game from Josh'); 13 battles, 1 shop, 4 choices; repo 0 stars; rating blank; popularity 1.",
+      "translatedTitles": {
+        "zh-Hans": "通往约什代尔之路",
+        "ja": "ロード・トゥ・ジョシュデール"
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "英语喜剧 RPG：人人都叫 Josh 的小镇之旅——“Hi, I'm Josh!”“Hi Josh.”的问候此起彼伏，路上有阵亡冒险者纪念碑、治愈师 Josh、藏在《Josh 著》书里的钥匙与一只秘密泰迪熊，最后还有一幅致谢地图。13 张地图、187 行对白、13 场战斗。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "An English comedy RPG: a journey to a town where everyone is named Josh — 'Hi, I'm Josh!' and 'Hi Josh.' echo everywhere, past a memorial to fallen adventurers, healer Josh, a key hidden inside a book labelled 'Josh', a secret teddy bear, and a Credits map. 13 maps, 187 dialogue lines, 13 battles.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "英語のコメディRPG。誰もがジョシュという名の町への旅——「Hi, I'm Josh!」「Hi Josh.」の挨拶があちこちで交わされ、戦死した冒険者の記念碑、回復役のジョシュ、『ジョシュ著』の本に隠された鍵、秘密のテディベア、そしてクレジットマップへ。13マップ・187行の台詞・13戦闘。",
+          "editorialStatus": "draft"
+        }
+      },
+      "contentAdvisory": {
+        "nsfw": false
+      }
+    },
+    "rods": {
+      "schemaVersion": 1,
+      "slug": "rods",
+      "originalTitle": "Rods",
+      "taxonomy": {
+        "genres": [
+          "rpg"
+        ],
+        "themes": [],
+        "contentType": "prototype",
+        "mechanics": [
+          "action"
+        ]
+      },
+      "developers": [
+        {
+          "name": "Aguiano18",
+          "url": "https://github.com/Aguiano18"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/Aguiano18-Rpg.maker/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "aguiano18-rpg-maker",
+          "title": "Rods",
+          "languages": [
+            "pt"
+          ],
+          "nsfw": false
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/Aguiano18/Rpg.maker",
+          "https://webrpg.org/Aguiano18-Rpg.maker/"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 1,
+      "assessedAt": "2026-11-13",
+      "assessmentSources": [
+        "https://github.com/Aguiano18/Rpg.maker",
+        "https://webrpg.org/Aguiano18-Rpg.maker/"
+      ],
+      "assessmentNote": "No external traces found (Tibia rods, Terraria battlerods, ROTRDS are unrelated); 3 maps / 17 events / 1 dialogue line in-repo (a variable display '\\V[9]') — but the substance is in the event systems, verified by full event-command profiles: class selection (Herói / Guerreira / Curandeira / Arqueiro), a real-time action battle system (parallel-process enemy AI: Porco, Slami, fantasma, Minotauro; initiative rolls, damage numbers, HP bars, hotbar, battle bars), level-up stat choices (HP / defesa), a shop, inventory/HUD scripts, and 3 maps connected by a Portal; 0 standard battles (combat is event-driven), 1 shop, 3 choices; no story, no quest text, no ending — a complete playable loop (pick a class, fight 4 enemy types incl. a Minotaur boss, level up, buy gear), kept as a prototype (cf. MQ-041 Branded Shadow; contrast MQ-127 fighting game, a single battle then Game Over, flipped); system text is Portuguese, languages [pt]; repo 0 stars; rating blank; popularity 1.",
+      "translatedTitles": {
+        "ja": "ロッズ"
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "葡萄牙语动作 RPG 原型：没有剧情对白，玩法全在事件系统里——四职业选择（英雄/女战士/治疗师/弓箭手）、实时动作战斗系统（猪、史莱姆、幽灵与牛头怪四种敌人，先攻掷骰、伤害数字、血条、快捷栏与战斗条）、升级属性选择、商店与物品栏，3 张地图由传送门相连。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "A Portuguese action-RPG prototype: no story dialogue — the substance is in the event systems: four-class selection (Hero / Warrior / Healer / Archer), a real-time action battle system (pig, slime, ghost and Minotaur enemies with initiative rolls, damage numbers, HP bars, hotbar and battle bars), level-up stat choices, a shop and an inventory/HUD, across 3 maps connected by a Portal.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "ポルトガル語のアクションRPGプロトタイプ。ストーリー台詞はなく、内容はすべてイベントシステムにある——4職業選択（英雄／女戦士／治療師／弓使い）、リアルタイム・アクションバトル（豚・スライム・幽霊・ミノタウロスの4種の敵、先攻ロール、ダメージ数値、HPバー、ホットバー、戦闘バー）、レベルアップ時の能力値選択、ショップとインベントリ／HUD。ポータルでつながる3マップ。",
+          "editorialStatus": "draft"
+        }
+      },
+      "contentAdvisory": {
+        "nsfw": false
+      }
+    },
+    "siren-isle": {
+      "schemaVersion": 1,
+      "slug": "siren-isle",
+      "originalTitle": "Siren Isle",
+      "taxonomy": {
+        "genres": [
+          "adventure"
+        ],
+        "themes": [
+          "horror",
+          "mystery"
+        ],
+        "contentType": "full-game",
+        "mechanics": [
+          "stealth",
+          "crafting"
+        ]
+      },
+      "developers": [
+        {
+          "name": "Chifle",
+          "url": "https://chifle.itch.io"
+        },
+        {
+          "name": "BreakerHale",
+          "url": "https://breakerhale.itch.io"
+        },
+        {
+          "name": "EricLaputka",
+          "url": "https://ericlaputka.itch.io"
+        },
+        {
+          "name": "ShawnFinn",
+          "url": "https://shawnfinn.itch.io"
+        },
+        {
+          "name": "Jeyysin",
+          "url": "https://jeyysin.itch.io"
+        },
+        {
+          "name": "NicoNima",
+          "url": "https://niconima.itch.io"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/eml17028-RPGMaker_Horror_GameJam_24/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "eml17028-rpgmaker-horror-gamejam-24",
+          "title": "Siren Isle",
+          "languages": [
+            "en"
+          ],
+          "nsfw": false
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/eml17028/RPGMaker_Horror_GameJam_24",
+          "https://webrpg.org/eml17028-RPGMaker_Horror_GameJam_24/"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 3,
+      "assessedAt": "2026-11-13",
+      "assessmentSources": [
+        "https://github.com/eml17028/RPGMaker_Horror_GameJam_24",
+        "https://webrpg.org/eml17028-RPGMaker_Horror_GameJam_24/"
+      ],
+      "assessmentNote": "Real external evidence: itch.io page chifle.itch.io/siren-isle — 'Mischief travels to a desolate island in hopes of aiding their grandfather and saving him from what his beloved town has turned into'; Rated 4.5/5 (8 total ratings); RPG Maker Horror Game Jam #4: Song of the Sea; 'Siren Isle Massive Update/Finished Version! Jul 24, 2024'. Identity confirmed against the indexed build: protagonist is Mischief (Actor 1) and the intro letter is from grandfather 'Peepaw' ('I hope you're doing well. It's been too long since you've last visited'). 37 maps / 253 events / 576 English dialogue lines in-repo (SirenIsle_TownMap, Grandpa's House 111 lines, Docks, Shore, Doctors, Convenience Store; hiding mechanics 'Hide here?', killer triggers TriggerDaKilla/DaKillaRunning, Day1/Day2 system, dreams, Bad End + Ending; item combining — crafted Makeshift Torch); 0 battles, 49 choices; gameTitle empty, originalTitle 'Siren Isle' from the old meta title field, verified by Map006 'SirenIsle_TownMap' + the itch page. Rating left blank (8 ratings is too thin a sample, cf. Crimpo Quest 5.0/3 and Kin's Chronicle 10 Steam reviews, both unscored); popularity 3 (itch page + 8 ratings + jam entry + finished version). Developers are the 6 itch-credited authors; the indexed build is hosted by eml17028 (not among the credited authors). Repo 0 stars.",
+      "translatedTitles": {
+        "zh-Hans": "塞壬岛",
+        "ja": "サイレン・アイル"
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "英语恐怖冒险：Mischief 收到祖父 Peepaw 的来信，前往一座荒凉小岛——小镇已经变了样，镇民也变了。玩家在小镇、码头、医生诊所与祖父家之间躲避杀手、组合道具点燃火把，在梦境与坏结局之间寻找真相。37 张地图、576 行对白；RPG Maker 恐怖游戏 Jam 第 4 届（海洋之歌）参赛作。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "An English horror adventure: Mischief receives a letter from grandfather Peepaw and travels to a desolate island — the town has changed, and so have its people. The player hides from a killer across the town, docks, doctors' offices and Grandpa's house, combines items to craft torches, and searches for the truth between dreams and a bad ending. 37 maps, 576 dialogue lines; an entry in RPG Maker Horror Game Jam #4: Song of the Sea.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "英語のホラーアドベンチャー。ミスチーフは祖父ピーポーからの手紙を受け取り、寂れた島へ向かう——町は変わり果て、人々も変わってしまった。プレイヤーは町、埠頭、医院、祖父の家を巡り、殺人者から隠れ、アイテムを組み合わせて松明を作り、夢とバッドエンドの狭間で真実を探る。37マップ・576行の台詞。RPGツクール・ホラーゲームジャム第4回「海の歌」参加作。",
+          "editorialStatus": "draft"
+        }
+      },
+      "externalLinks": [
+        {
+          "url": "https://chifle.itch.io/siren-isle",
+          "type": "store",
+          "label": "itch.io — Siren Isle"
+        }
+      ],
+      "contentAdvisory": {
+        "nsfw": false
+      }
+    },
+    "rusel-prototype": {
+      "schemaVersion": 1,
+      "slug": "rusel-prototype",
+      "originalTitle": "RUSEL_PROTOTYPE",
+      "taxonomy": {
+        "genres": [
+          "rpg",
+          "simulation"
+        ],
+        "themes": [
+          "drama",
+          "slice-of-life"
+        ],
+        "contentType": "prototype",
+        "mechanics": [
+          "life-sim"
+        ]
+      },
+      "developers": [
+        {
+          "name": "Archeia",
+          "url": "https://github.com/Archeia"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/Archeia-RuselandNessy/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "archeia-ruselandnessy",
+          "title": "RUSEL_PROTOTYPE",
+          "languages": [
+            "en"
+          ],
+          "nsfw": false
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/Archeia/RuselandNessy",
+          "https://webrpg.org/Archeia-RuselandNessy/"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 1,
+      "assessedAt": "2026-11-13",
+      "assessmentSources": [
+        "https://github.com/Archeia/RuselandNessy",
+        "https://webrpg.org/Archeia-RuselandNessy/"
+      ],
+      "assessmentNote": "No external traces found (Archeia's itch profile exists but lists no RUSEL page; Steam 'Rus: source' is unrelated); 15 maps / 158 events / 3446 English dialogue lines in-repo (MAIN HUB, THE ROSE PALACE, VIP TEST, APPLEGATE TEST 1453 lines, LOLI SHOP TEST 909 lines, LAB TEST, SLUMS, CITY HALL, STONE CAVE TEST); health/longevity/karma/reputation systems tracked by the GUIDE, jobs (food deliveries, apple picking, shovelling), a token economy to reach Lady Rose (deliver the Red Pill package — it has adverse effects if taken), and a plague quest (find the cave source, get a special weapon, cure via the lab's rat tails + boss blood); romance subplot with Loli, the mayor's granddaughter who runs the shop ('Do you love me, Loli?', kisses on the cheek, 'restrained passion'); maps carry author 'TEST' suffixes and ROSE PALACE TEST duplicates THE ROSE PALACE verbatim — parallel test builds of the same areas, not separate games; the quest chains and GUIDE/stats systems connect them. 5 battles, 14 shops, 224 choices. nsfw false — 'dick' hits are insults ('You were pretty much a dick to me, dude'), 'kiss' hits are romance scenes only (a kiss used to distract Loli while unclasping her necklace — a rogue quest action, no sexual content); the drug-dealer villain Slanger ('We won't buy or sell your crappy drugs') is mentioned only. Repo 1 star; rating blank; popularity 1.",
+      "translatedTitles": {
+        "zh-Hans": "鲁塞尔原型",
+        "ja": "ルーセル・プロトタイプ"
+      },
+      "aliases": {
+        "en": [
+          "RUSEL"
+        ]
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "英语生活模拟 RPG 原型：陌生人来到苹果门镇，靠健康、寿命、业报与声望四项数值过活——给 Penelope 送食品、摘苹果、铲雪打工，攒代币觐见蔷薇宫的 Rose 女士（代送红药丸包裹），再深入洞穴寻找瘟疫源头。与镇长孙女、开店的 Loli 还有一段恋情。15 张地图、3446 行对白。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "An English life-sim RPG prototype: a stranger arrives in Applegate and lives by health, longevity, karma and reputation — delivering food for Penelope, picking apples, shovelling snow for pay, earning tokens to reach Lady Rose of the Rose Palace (delivering her Red Pill package), then delving into the caves to find the plague's source. A romance subplot follows Loli, the mayor's granddaughter who runs the shop. 15 maps, 3,446 dialogue lines.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "英語の生活シミュレーションRPGプロトタイプ。見知らぬ旅人がアップルゲートに辿り着き、健康・寿命・カルマ・評判の数値で生きていく——ペネロペへの食料配達、リンゴ摘み、雪かきの仕事で稼ぎ、トークンを集めてローズ宮殿のローズ夫人へ（赤い錠剤の小包を届ける）、そして洞窟で疫病の源を探る。町長の孫娘で店を営むロリとの恋愛模様も。15マップ・3446行の台詞。",
+          "editorialStatus": "draft"
+        }
+      },
+      "contentAdvisory": {
+        "nsfw": false
+      }
+    },
+    "sanctuary": {
+      "schemaVersion": 1,
+      "slug": "sanctuary",
+      "originalTitle": "Sanctuary",
+      "taxonomy": {
+        "genres": [
+          "adventure"
+        ],
+        "themes": [
+          "sci-fi"
+        ],
+        "contentType": "full-game",
+        "mechanics": [
+          "stealth",
+          "action"
+        ]
+      },
+      "developers": [
+        {
+          "name": "Pawsible Studios",
+          "url": "https://github.com/Byvalvin"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/Byvalvin-Sanctuary/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "byvalvin-sanctuary",
+          "title": "Sanctuary",
+          "languages": [
+            "en"
+          ],
+          "nsfw": false
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/Byvalvin/Sanctuary",
+          "https://webrpg.org/Byvalvin-Sanctuary/"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 1,
+      "assessedAt": "2026-11-13",
+      "assessmentSources": [
+        "https://github.com/Byvalvin/Sanctuary",
+        "https://webrpg.org/Byvalvin-Sanctuary/"
+      ],
+      "assessmentNote": "No external traces found (SanctuaryRPG, the shyboytm itch 'Sanctuary', Tomomi Hime's Sanctuary of the Eternal Dragon are all unrelated); 20 maps / 320 events / 884 English dialogue lines in-repo (three facility levels: Robotics, Medbay, Storage; robot Whiskers; pressure levels, ventilation checks, SUPER charge stations; EndingCutscene + EndingBridge maps); 0 standard battles — combat is event-driven (disruptor projectiles, stun/invisibility/dash abilities: 'lvl1complete', 'invisOn', 'canDash', 'canStun', 'npcStunned1' switches), so genres [adventure] not [rpg] (cf. MQ-075), mechanics [stealth, action]; 14 choices. README: CMPUT 250 project by Pawsible Studios (Alan Ogaranko, Ashley Na, Chris Xu, Daniel Asimiakwini, Danny Astle, Max Zang, Nikhil Nayyar; EP Dave Goel). Note: Map005/011/013 are listed in MapInfos but their files are 404 on both GitHub and the mirror (unused maps). Repo 0 stars; rating blank; popularity 1.",
+      "translatedTitles": {
+        "zh-Hans": "庇护所",
+        "ja": "サンクチュアリ"
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "英语科幻潜行动作游戏：阿尔伯塔大学 CMPUT 250 课程作品，Pawsible Studios 团队制作。玩家潜入一座设施的三层区域（机器人区、医疗舱、储藏区），用干扰器射弹、隐身、冲刺与眩晕能力对付机器人 Whiskers 等守卫，完成通风检查、解除压力警报，走向结局。20 张地图、884 行对白。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "An English sci-fi stealth action game: a University of Alberta CMPUT 250 course project by Pawsible Studios. The player infiltrates three levels of a facility (Robotics, Medbay, Storage), using disruptor projectiles, invisibility, dash and stun abilities against robot guards like Whiskers, completing ventilation checks and clearing pressure alarms toward an ending. 20 maps, 884 dialogue lines.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "英語のSFステルス・アクションゲーム。アルバータ大学CMPUT 250の授業作品で、Pawsible Studiosチーム制作。プレイヤーは施設の3層（ロボティクス／メッドベイ／ストレージ）に潜入し、ディスラプター弾、透明化、ダッシュ、スタン能力でウィスカーズらロボット警備をかわし、換気チェックと圧力アラーム解除をこなして結末へ。20マップ・884行の台詞。",
+          "editorialStatus": "draft"
+        }
+      },
+      "contentAdvisory": {
+        "nsfw": false
+      }
     }
   }
 }
