@@ -28212,17 +28212,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/scaryinc-tg/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg"
-      ],
-      "languages": [
-        "en"
-      ],
-      "nsfw": false,
+      "gameSlug": "scary-inc",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-08"
+      "nsfw": false,
+      "reviewedAt": "2026-11-08",
+      "reviewedSourceHeadSha": "53920cd4446d59dbe97047864fe1e67feea31588"
     }
   },
   {
@@ -28290,19 +28284,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/miegithub-Scholars_Journey/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "adventure",
-        "slice-of-life"
-      ],
-      "languages": [
-        "en",
-        "tl"
-      ],
-      "nsfw": false,
+      "gameSlug": "scholars-journey",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-08"
+      "nsfw": false,
+      "reviewedAt": "2026-11-08",
+      "reviewedSourceHeadSha": "956f2ec0319fcdcce4fc9f807008461c2eb74d04"
     }
   },
   {
@@ -28350,18 +28336,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/kelvintaco-gamedevrpg/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg",
-        "slice-of-life"
-      ],
-      "languages": [
-        "en"
-      ],
-      "nsfw": false,
+      "gameSlug": "school-of-survival",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-12"
+      "nsfw": false,
+      "reviewedAt": "2026-11-12",
+      "reviewedSourceHeadSha": "126e962d687d45493cabf789c81d1d8284f1ca02"
     }
   },
   {
@@ -28406,17 +28385,9 @@
     "reachabilityDetail": "https://webrpg.org/jsnb21-SCI-HIGH_WEBSITE/ served an RPG Maker entry point and its startup resources",
     "processedHeadSha": "bfaf12ab0b9f174d54c8422e0aec4ab942237c08",
     "meta": {
-      "genres": [
-        "rpg",
-        "educational"
-      ],
-      "languages": [
-        "en"
-      ],
-      "nsfw": false,
+      "gameSlug": "sci-high",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
+      "nsfw": false,
       "reviewedAt": "2026-11-12"
     }
   },
@@ -28485,18 +28456,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/FCV17-secret-gpt/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg",
-        "mystery"
-      ],
-      "languages": [
-        "en"
-      ],
-      "nsfw": false,
+      "gameSlug": "secret-gpt",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-12"
+      "nsfw": false,
+      "reviewedAt": "2026-11-12",
+      "reviewedSourceHeadSha": "3fbe5741d714acd0ea91e4afc2d0e92b6053d639"
     }
   },
   {
@@ -28561,19 +28525,9 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/tcc-Iago-Lucas-game/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg",
-        "slice-of-life"
-      ],
-      "languages": [
-        "pt"
-      ],
+      "playable": false,
       "nsfw": false,
-      "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-12",
-      "title": "Noob Security"
+      "reviewedAt": "2026-11-12"
     }
   },
   {
@@ -28603,18 +28557,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/EC-Developer-Hub-virusssss/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg",
-        "slice-of-life"
-      ],
-      "languages": [
-        "en"
-      ],
-      "nsfw": false,
+      "gameSlug": "semester-survival",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-12"
+      "nsfw": false,
+      "reviewedAt": "2026-11-12",
+      "reviewedSourceHeadSha": "26c50f5c87aeb763670b72316b918373319c792e"
     }
   },
   {
@@ -28644,18 +28591,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/Altrisk-altrisk.github.io/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg",
-        "drama"
-      ],
-      "languages": [
-        "id"
-      ],
-      "nsfw": false,
+      "gameSlug": "senja-terakhir",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "nsfw": false,
+      "reviewedAt": "2026-11-07",
+      "reviewedSourceHeadSha": "1be879df27214bcac8a8940ecf8d62a1db038141"
     }
   },
   {
@@ -28685,18 +28625,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/DaffaDaff-pengembangan-game/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg",
-        "drama"
-      ],
-      "languages": [
-        "id"
-      ],
-      "nsfw": false,
+      "gameSlug": "senja-terakhir",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "nsfw": false,
+      "reviewedAt": "2026-11-07",
+      "reviewedSourceHeadSha": "65ba20ac1ff602fb5123e218abd1b5d0e777fe13"
     }
   },
   {
@@ -28840,18 +28773,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/blixuk-settelment/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "simulation"
-      ],
-      "languages": [
-        "en"
-      ],
-      "nsfw": false,
+      "gameSlug": "settlement",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
+      "nsfw": false,
       "reviewedAt": "2026-11-12",
-      "title": "Settelment!"
+      "reviewedSourceHeadSha": "3bf2c96a33b4a1a855889846e0ce48caaa66dd66"
     }
   },
   {
@@ -28916,18 +28842,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/jkaz1968-Output/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg",
-        "sci-fi"
-      ],
-      "languages": [
-        "en"
-      ],
-      "nsfw": false,
+      "gameSlug": "shadows",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-12"
+      "nsfw": false,
+      "reviewedAt": "2026-11-12",
+      "reviewedSourceHeadSha": "2cd14d99092627f059f25874da95e438416fb240"
     }
   },
   {

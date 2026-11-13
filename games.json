@@ -2945,6 +2945,15 @@
             "en"
           ],
           "nsfw": false
+        },
+        {
+          "type": "internal",
+          "id": "ec-developer-hub-virusssss",
+          "title": "Semester Survival",
+          "languages": [
+            "en"
+          ],
+          "nsfw": false
         }
       ],
       "editorial": {
@@ -2960,11 +2969,11 @@
         "indexPolicy": "auto"
       },
       "popularity": 2,
-      "assessedAt": "2026-11-12",
+      "assessedAt": "2026-11-13",
       "assessmentSources": [
         "https://github.com/EC-Developer-Hub/broadwayyyy"
       ],
-      "assessmentNote": "No README or external trace (0 stars); game data 12 campus maps / 270 events / 286 English dialogue lines (Electronics and Communication Department, JEE jokes); System.json gameTitle is empty, so the title 'Semester Survival' is taken from the v1.1 meta title field (title-screen reading); not to be confused with the unrelated HTML5 runner of the same name on 4weird.com; rating blank; popularity 2.",
+      "assessmentNote": "No README or external trace (0 stars); game data 12 campus maps / 270 events / 286 English dialogue lines (Electronics and Communication Department, JEE jokes); System.json gameTitle is empty, so the title 'Semester Survival' is taken from the v1.1 meta title field (title-screen reading); not to be confused with the unrelated HTML5 runner of the same name on 4weird.com; rating blank; popularity 2. Second build (2026-11-13): EC-Developer-Hub/virusssss — same game, reworked build: virusssss's 11 map names are exactly broadwayyyy's first 11 maps in the same order (broadwayyyy adds a 12th, 'EC room'), 79 unique dialogue lines are shared (of 192 broadwayyyy / 258 virusssss unique lines, including 'I'll let you jump the fence for a 100.....', 'Your current score is \\v[1]', Nescafe), maps 2/3/7 are reworked (0 shared lines), 310 events / 371 dialogue lines vs 270/286, start map Room (broadwayyyy starts in EC room); same author org, same title (virusssss gameTitle is 'Semester Survival'), same Indian engineering-college setting (JEE, Electronics and Communication Department, KBH, OAT, Student's park, Chintu Sharma).",
       "translatedTitles": {
         "zh-Hans": "学期求生",
         "ja": "セメスター・サバイバル"
@@ -20600,6 +20609,615 @@
         },
         "ja": {
           "summary": "英語のSFステルス・アクションゲーム。アルバータ大学CMPUT 250の授業作品で、Pawsible Studiosチーム制作。プレイヤーは施設の3層（ロボティクス／メッドベイ／ストレージ）に潜入し、ディスラプター弾、透明化、ダッシュ、スタン能力でウィスカーズらロボット警備をかわし、換気チェックと圧力アラーム解除をこなして結末へ。20マップ・884行の台詞。",
+          "editorialStatus": "draft"
+        }
+      },
+      "contentAdvisory": {
+        "nsfw": false
+      }
+    },
+    "scary-inc": {
+      "schemaVersion": 1,
+      "slug": "scary-inc",
+      "originalTitle": "Scary Inc: The Game",
+      "taxonomy": {
+        "genres": [
+          "rpg"
+        ],
+        "themes": [
+          "comedy",
+          "fantasy"
+        ],
+        "contentType": "full-game"
+      },
+      "developers": [
+        {
+          "name": "scaryinc",
+          "url": "https://github.com/scaryinc"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/scaryinc-tg/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "scaryinc-tg",
+          "title": "Scary Inc: The Game",
+          "languages": [
+            "en"
+          ],
+          "nsfw": false
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/scaryinc/tg",
+          "https://webrpg.org/scaryinc-tg/"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 1,
+      "assessedAt": "2026-11-13",
+      "assessmentSources": [
+        "https://github.com/scaryinc/tg",
+        "https://webrpg.org/scaryinc-tg/"
+      ],
+      "assessmentNote": "No external traces found; 5 maps / 20 events / 52 English dialogue lines in-repo (Starting Events, Prequel Intro, Potaro Town, PC's home, plus a DEBUG_MAP); name selection at the start; a hacker calls ('I've hacked into your phone... We've been kidnapped, Scary Inc. as a whole'), Max is held captive in Prolail Village, the player meets Kaylee in their home ('My friends have been kidnapped, no doubt about yours have too'); 13 Actors; a Monsters, Inc.-inspired fan game (Scary Inc, monsters, mafia member NPC); repo 2 stars; rating blank; popularity 1.",
+      "translatedTitles": {
+        "zh-Hans": "吓人公司",
+        "ja": "スケアリー・インク"
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "英语喜剧 RPG：《怪兽电力公司》风格的同人游戏——吓人公司的怪物们一夜之间全被绑架，只剩玩家一人。一通黑客来电指引方向：Max 被囚禁在 Prolail 村。玩家穿过 Potaro 镇、回到自己家中（透支的银行信件、欠缴的账单、空酒瓶墙、无人出席的生日派对），结识同样在寻友的 Kaylee，踏上营救之旅。5 张地图、52 行对白。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "An English comedy RPG in the style of Monsters, Inc.: the monsters of Scary Inc. have all been kidnapped overnight, leaving only the player. A hacker's call points the way — Max is held captive in Prolail Village. The player crosses Potaro Town, returns home (overdrawn bank letters, unpaid bills, a wall of empty beer bottles, a birthday party nobody attended) and meets Kaylee, who is also searching for her kidnapped friends. 5 maps, 52 dialogue lines.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "英語のコメディRPG。『モンスターズ・インク』風のファンゲーム——スケアリー社のモンスターたちが一夜にして全員誘拐され、残されたのはプレイヤーだけ。ハッカーからの電話が手がかりを示す。マックスはプロレイル村に囚われている。プレイヤーはポタロの町を抜け、自宅（残高不足の銀行からの手紙、未払いの請求書、空きビールの壁、誰も来なかった誕生日パーティー）に戻り、同じく友人を探すケイリーと出会う。5マップ・52行の台詞。",
+          "editorialStatus": "draft"
+        }
+      },
+      "contentAdvisory": {
+        "nsfw": false
+      }
+    },
+    "scholars-journey": {
+      "schemaVersion": 1,
+      "slug": "scholars-journey",
+      "originalTitle": "Scholar's Journey",
+      "taxonomy": {
+        "genres": [
+          "adventure"
+        ],
+        "themes": [
+          "slice-of-life"
+        ],
+        "contentType": "full-game"
+      },
+      "developers": [
+        {
+          "name": "miegithub",
+          "url": "https://github.com/miegithub"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/miegithub-Scholars_Journey/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "miegithub-scholars-journey",
+          "title": "Scholar's Journey",
+          "languages": [
+            "tl",
+            "en"
+          ],
+          "nsfw": false
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/miegithub/Scholars_Journey",
+          "https://webrpg.org/miegithub-Scholars_Journey/"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 1,
+      "assessedAt": "2026-11-13",
+      "assessmentSources": [
+        "https://github.com/miegithub/Scholars_Journey",
+        "https://webrpg.org/miegithub-Scholars_Journey/"
+      ],
+      "assessmentNote": "No external traces found (StudyRPG's plan name and Steam's 'Scholar' spelling game are unrelated); 19 maps / 247 events / 196 dialogue lines in-repo (M1-Westwood Town, home, cafe, laundry shop, 7/11, hospital, school hallway/classroom/library; 64 transfers); dialogue is mostly Tagalog (130/196 lines carry Tagalog markers — 'Goodmorning! may kailangan ka bang bilhin?', 'salamat sa pagtulong mo anak sa pag hanap') with English mixed in ('Go to the registrar.', 'Good morning po!'), so languages corrected from old [en, tl] to [tl, en] (Tagalog dominant); quests: find a neighbour's lost dog, ask the registrar which section/program; repo 0 stars; rating blank; popularity 1.",
+      "translatedTitles": {
+        "zh-Hans": "学者之旅",
+        "ja": "スカラーズ・ジャーニー"
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "菲律宾校园生活冒险：以他加禄语为主、间杂英语的对白，讲述 Westwood 镇一名学生的日常——在家、咖啡馆、洗衣店、7/11、医院与学校之间穿梭，帮邻居寻找走失的爱犬，再去教务处问清自己分到哪个班、读哪个专业。19 张地图、196 行对白。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "A Filipino school-life adventure, mostly in Tagalog with English mixed in: a student's daily life across Westwood Town — home, a cafe, the laundry shop, a 7/11, the hospital and the school — helping a neighbour find her lost dog, then asking the registrar which section and program they belong to. 19 maps, 196 dialogue lines.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "フィリピンの学園生活アドベンチャー。タガログ語中心で英語も混ざる台詞。ウェストウッドの町で、家、カフェ、ランドリー、セブンイレブン、病院、学校を行き来しながら、隣人の迷子の犬を探し、教務課で自分たちのクラスと専攻を尋ねる学生の日常を描く。19マップ・196行の台詞。",
+          "editorialStatus": "draft"
+        }
+      },
+      "contentAdvisory": {
+        "nsfw": false
+      }
+    },
+    "school-of-survival": {
+      "schemaVersion": 1,
+      "slug": "school-of-survival",
+      "originalTitle": "School of Survival",
+      "taxonomy": {
+        "genres": [
+          "rpg"
+        ],
+        "themes": [
+          "slice-of-life"
+        ],
+        "contentType": "full-game"
+      },
+      "developers": [
+        {
+          "name": "kelvintaco",
+          "url": "https://github.com/kelvintaco"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/kelvintaco-gamedevrpg/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "kelvintaco-gamedevrpg",
+          "title": "School of Survival",
+          "languages": [
+            "en"
+          ],
+          "nsfw": false
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/kelvintaco/gamedevrpg",
+          "https://webrpg.org/kelvintaco-gamedevrpg/"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 1,
+      "assessedAt": "2026-11-13",
+      "assessmentSources": [
+        "https://github.com/kelvintaco/gamedevrpg",
+        "https://webrpg.org/kelvintaco-gamedevrpg/"
+      ],
+      "assessmentNote": "No external traces found (the Korean RPG Maker XP 'School' and other same-name games are unrelated); 67 maps / 441 events / 436 English dialogue lines in-repo (Day 1–5 map sets: office/school/hallway/classroom/highway/home/stalls/bathrooms/stores per day, plus IntroScene and an ENDING map; 194 transfers); daily tasks tracked by switches (BallpenQuest, DayOneTaskOne/Two … Day5Task1, 'MeetTheAdviser'); the game opens with a phone alarm ('It's been months since I heard the ol' familiar default alarm sound of my iPhone… 6:30?') and ends with a progress report to the teacher; repo 0 stars; rating blank; popularity 1.",
+      "translatedTitles": {
+        "zh-Hans": "生存学校",
+        "ja": "スクール・オブ・サバイバル"
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "英语校园生活 RPG：五天结构，每天在办公室、学校、走廊、教室、公路、家与摊位之间完成导师布置的任务（钢笔任务、进度汇报），从 iPhone 闹钟声中醒来（“好几个月没听到这熟悉的默认闹钟声了……6:30？”），熬过五天迎来结局。67 张地图、436 行对白。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "An English school-life RPG built on a five-day structure: each day the player moves between the office, school, hallway, classroom, highway, home and stalls to finish the adviser's tasks (a ballpen quest, progress reports), waking to an iPhone alarm ('It's been months since I heard the ol' familiar default alarm sound of my iPhone… 6:30?') and surviving five days to an ending. 67 maps, 436 dialogue lines.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "英語の学園生活RPG。5日間の構造で、毎日オフィス、学校、廊下、教室、ハイウェイ、自宅、屋台を巡り、指導教員の課題（ボールペン探し、進捗報告）をこなす。iPhoneのアラームで目覚め（「あの懐かしいデフォルトのアラーム音を聞くのは何ヶ月ぶりだろう……6時30分？」）、5日間を生き抜いてエンディングへ。67マップ・436行の台詞。",
+          "editorialStatus": "draft"
+        }
+      },
+      "contentAdvisory": {
+        "nsfw": false
+      }
+    },
+    "sci-high": {
+      "schemaVersion": 1,
+      "slug": "sci-high",
+      "originalTitle": "SCI-HIGH",
+      "taxonomy": {
+        "genres": [
+          "rpg"
+        ],
+        "themes": [
+          "educational"
+        ],
+        "contentType": "full-game",
+        "mechanics": [
+          "quiz"
+        ]
+      },
+      "developers": [],
+      "media": {
+        "cover": "https://webrpg.org/jsnb21-SCI-HIGH_WEBSITE/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "jsnb21-sci-high-website",
+          "title": "SCI-HIGH",
+          "languages": [
+            "en"
+          ],
+          "nsfw": false
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://webrpg.org/jsnb21-SCI-HIGH_WEBSITE/"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 1,
+      "assessedAt": "2026-11-13",
+      "assessmentSources": [
+        "https://webrpg.org/jsnb21-SCI-HIGH_WEBSITE/"
+      ],
+      "assessmentNote": "No external traces found (Shrink 'High is a different game); 27 maps / 165 events / 305 English dialogue lines in-repo (Computer Lab, Intro, DUNGEON - CSS / HTML / Python / DS & ALGO, Main Building 1st/2nd Floor, Upgrade Room/Library, Office, Classroom, minigame maps for Noah, Evelyn, Tina and Selena; 102 transfers); Principal Marinelle's enrolment speech introduces the HTML/CSS/Python courses and a bonus course; dungeon bosses taunt in programming terms ('Oh, you thought installing one package was enough?', 'Your syntax is correct, but your logic is flawed!'); a stats-upload consent prompt records playtime, average clear time, total mistakes and rank; switches include WinBattle, Combat, Boss, DungeonFinished, 'Quiz Active Timer', HTML_CLEAR / CSS_CLEAR / PYTHON_CLEAR. Mirror-only entry (no sourceRepo, no sourceHeadSha): developers left empty — the entry id suggests jsnb21 as host, but authorship is unconfirmed, so it is not asserted. Rating blank; popularity 1.",
+      "translatedTitles": {
+        "zh-Hans": "科学高中",
+        "ja": "サイ・ハイ"
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "英语教育 RPG：校长 Marinelle 欢迎玩家入学 SCI-HIGH，在这里学习 HTML、CSS 与 Python（通关后解锁一门奖励课程）。玩家在赛博学习系统里闯测验地牢（CSS/HTML/Python/数据结构与算法），与用编程术语挑衅的 Boss 战斗（“语法没错，但逻辑错了！”），再玩 Noah、Evelyn、Tina 与 Selena 的小游戏。27 张地图、305 行对白。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "An English educational RPG: Principal Marinelle enrols the player at SCI-HIGH to learn HTML, CSS and Python (with a bonus course unlocked on completion). The player fights through quiz dungeons (CSS, HTML, Python, Data Structures & Algorithms) in the CyberSpace Learning System, facing boss enemies that taunt in programming terms ('Your syntax is correct, but your logic is flawed!'), and plays minigames with Noah, Evelyn, Tina and Selena. 27 maps, 305 dialogue lines.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "英語の教育RPG。マリネル校長がプレイヤーをSCI-HIGHに入学させ、HTML、CSS、Pythonを学ばせる（修了するとボーナス講座が解放）。サイバースペース学習システムでクイズダンジョン（CSS／HTML／Python／データ構造とアルゴリズム）に挑み、プログラミング用語で挑発するボスと戦い（「構文は正しいが、論理が間違っている！」）、ノア、エヴリン、ティナ、セレナのミニゲームも遊べる。27マップ・305行の台詞。",
+          "editorialStatus": "draft"
+        }
+      },
+      "contentAdvisory": {
+        "nsfw": false
+      }
+    },
+    "secret-gpt": {
+      "schemaVersion": 1,
+      "slug": "secret-gpt",
+      "originalTitle": "secret-gpt",
+      "taxonomy": {
+        "genres": [
+          "rpg"
+        ],
+        "themes": [
+          "mystery"
+        ],
+        "contentType": "prototype"
+      },
+      "developers": [
+        {
+          "name": "FCV17",
+          "url": "https://github.com/FCV17"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/FCV17-secret-gpt/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "fcv17-secret-gpt",
+          "title": "secret-gpt",
+          "languages": [
+            "en"
+          ],
+          "nsfw": false
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/FCV17/secret-gpt",
+          "https://webrpg.org/FCV17-secret-gpt/"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 1,
+      "assessedAt": "2026-11-13",
+      "assessmentSources": [
+        "https://github.com/FCV17/secret-gpt",
+        "https://webrpg.org/FCV17-secret-gpt/"
+      ],
+      "assessmentNote": "No external traces found for this specific game; 2 maps / 8 events / 15 English dialogue lines in-repo (Pilot town; the second map, Main character house, is empty); the README describes 'an immersive detective role-playing game where you step into the shoes of a modern-day detective… Dynamic Storytelling: Harness the power of cutting-edge AI technology' and the event data carries GPT plugin commands (codes 357/657); the indexed build's one complete loop is a fox-fetch quest — accept ('Here's a quest for you. Do you wanna take it?'), catch the fox ('You just caught the fox!'), collect scattered coins ('You collected 1 Coin!'), deliver it ('Ohhh, you found it! Thanks for bringing it back'); kept as a prototype (cf. MQ-137 game1, MQ-147 M00NL16H7 — thin dialogue but a complete loop; contrast MQ-149 1-minute demo flip). nsfw false — the 'fuck' keyword hit is 'Fuck off then!' (refusing the quest), plain profanity, not sexual content. Repo 0 stars; rating blank; popularity 1.",
+      "translatedTitles": {
+        "zh-Hans": "秘密GPT",
+        "ja": "シークレットGPT"
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "英语 AI 侦探 RPG 原型：README 称之为“由 GPT 驱动动态叙事的沉浸式侦探角色扮演游戏”，玩家扮演现代侦探，在充满阴谋与犯罪的城市里破案。当前收录版本只有一个完整的微型循环：试点镇上接下找狐狸的委托，抓回狐狸、捡回散落的金币、交还失主。2 张地图、15 行对白。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "An English AI-powered detective RPG prototype: the README describes 'an immersive detective role-playing game' with dynamic storytelling driven by GPT, casting the player as a modern-day detective in a city of intrigue and crime. The indexed build holds one complete micro-loop in Pilot town: take a quest to retrieve a fox, catch it, collect the coins it scattered, and deliver it back to its owner. 2 maps, 15 dialogue lines.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "英語のAI探偵RPGプロトタイプ。READMEは「GPTによるダイナミックな物語生成」を掲げる没入型探偵RPGで、プレイヤーは陰謀と犯罪に満ちた街の現代の探偵となる。収録版にはパイロットタウンでの小さな一連のクエストが1つある。キツネ探しの依頼を受け、キツネを捕まえ、散らばったコインを集め、飼い主に届ける。2マップ・15行の台詞。",
+          "editorialStatus": "draft"
+        }
+      },
+      "contentAdvisory": {
+        "nsfw": false
+      }
+    },
+    "senja-terakhir": {
+      "schemaVersion": 1,
+      "slug": "senja-terakhir",
+      "originalTitle": "Senja Terakhir",
+      "taxonomy": {
+        "genres": [
+          "rpg"
+        ],
+        "themes": [
+          "drama"
+        ],
+        "contentType": "full-game"
+      },
+      "developers": [
+        {
+          "name": "Altrisk",
+          "url": "https://github.com/Altrisk"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/Altrisk-altrisk.github.io/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "altrisk-altrisk-github-io",
+          "title": "Senja Terakhir",
+          "languages": [
+            "id"
+          ],
+          "nsfw": false
+        },
+        {
+          "type": "internal",
+          "id": "daffadaff-pengembangan-game",
+          "title": "Senja Terakhir",
+          "languages": [
+            "id"
+          ],
+          "nsfw": false
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/Altrisk/altrisk.github.io",
+          "https://webrpg.org/Altrisk-altrisk.github.io/"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 1,
+      "assessedAt": "2026-11-13",
+      "assessmentSources": [
+        "https://github.com/Altrisk/altrisk.github.io",
+        "https://webrpg.org/Altrisk-altrisk.github.io/"
+      ],
+      "assessmentNote": "No external traces found; 23 maps / 208 events / 523 Indonesian dialogue lines in-repo (Jakarta, Kamp Militer, Rumah lt2, Barak, Desa 224 lines, Markas Pemerintahan, Penjara, Sewer, Stone Cave; 262/523 lines carry Indonesian markers); Ardi reports to his father ('(Aku harus segera laporkan kejadian tadi malam kepada Ayah.)'), Sari's father was arrested by the military for supporting the red party ('Ayahku ditangkap oleh militer karena dia mendukung partai merah'), the player frees prisoners ('Kalian bebas!' / 'Kami... tidak percaya ini terjadi.' / 'Terima kasih nak'); three endings (Ending 1/2/3 switches). Both forks are the same game: identical versionId (1181066), identical map lists and identical counts — the Altrisk repo is the original, DaffaDaff a copy; both listed as instances. Repos 0 stars; rating blank; popularity 1.",
+      "translatedTitles": {
+        "zh-Hans": "最后的黄昏",
+        "en": "The Last Dusk",
+        "ja": "最後の黄昏"
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "印尼语剧情 RPG：Ardi 向父亲汇报昨夜发生的事，Sari 的父亲因支持红党被军方逮捕。玩家在军营、村庄、监狱、下水道与石洞之间穿行，营救囚犯（“你们自由了！”“谢谢你，孩子”），走向三个结局之一。23 张地图、523 行对白。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "An Indonesian drama RPG: Ardi reports last night's events to his father, while Sari's father has been arrested by the military for supporting the red party. The player moves between the military camp, the village, the prison, the sewer and a stone cave, freeing prisoners ('Kalian bebas!' / 'Terima kasih nak') toward one of three endings. 23 maps, 523 dialogue lines.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "インドネシア語のドラマRPG。アルディは昨夜の出来事を父に報告し、サリの父は赤い党を支持したとして軍に逮捕された。プレイヤーは野営地、村、監獄、下水道、石の洞窟を巡り、囚人を解放しながら（「君たちは自由だ！」「ありがとう、坊や」）3つのエンディングのいずれかへ向かう。23マップ・523行の台詞。",
+          "editorialStatus": "draft"
+        }
+      },
+      "contentAdvisory": {
+        "nsfw": false
+      }
+    },
+    "settlement": {
+      "schemaVersion": 1,
+      "slug": "settlement",
+      "originalTitle": "Settlement",
+      "taxonomy": {
+        "genres": [
+          "simulation"
+        ],
+        "themes": [],
+        "contentType": "full-game",
+        "mechanics": [
+          "management"
+        ]
+      },
+      "developers": [
+        {
+          "name": "blixuk",
+          "url": "https://github.com/blixuk"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/blixuk-settelment/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "blixuk-settelment",
+          "title": "Settlement",
+          "languages": [
+            "en"
+          ],
+          "nsfw": false
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/blixuk/settelment",
+          "https://webrpg.org/blixuk-settelment/"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 1,
+      "assessedAt": "2026-11-13",
+      "assessmentSources": [
+        "https://github.com/blixuk/settelment",
+        "https://webrpg.org/blixuk-settelment/"
+      ],
+      "assessmentNote": "No external traces found (Forge of Empires Vikings settlements and a Unity Ragnarök design doc are unrelated); 2 maps / 33 events / 24 English dialogue lines in-repo (MAIN, INTRO) — but the substance is in the event systems, verified by full event-command profiles: 70 condition branches, 213 variable operations, 3 shops, worker hiring (Worker1S/2S/3S switches, 'I'll work for you!' / 'You don't have enough gold!'), a crop system (CROPA switch) and a gold economy ('20\\G were found!'); the player is Ragnar (Actor 1). Repo 0 stars; rating blank; popularity 1.",
+      "translatedTitles": {
+        "zh-Hans": "定居点",
+        "ja": "セトルメント"
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "英语定居点经营模拟：对白只有 24 行，玩法全在事件系统里——雇佣工人（“我来为你工作！”“你没有足够的金币！”）、三家商店、作物系统与金币经济，在主地图上一点点建起定居点。玩家是 Ragnar。2 张地图、33 个事件。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "An English settlement management simulation: only 24 dialogue lines — the substance is in the event systems: hiring workers ('I'll work for you!' / 'You don't have enough gold!'), three shops, a crop system and a gold economy, building up a settlement on the main map. The player is Ragnar. 2 maps, 33 events.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "英語の入植地経営シミュレーション。台詞は24行のみで、内容はすべてイベントシステムにある——労働者の雇用（「君のために働くよ！」「金が足りない！」）、3軒の店、作物システムと金貨経済。メインマップで入植地を築いていく。プレイヤーはラグナル。2マップ・33イベント。",
+          "editorialStatus": "draft"
+        }
+      },
+      "contentAdvisory": {
+        "nsfw": false
+      }
+    },
+    "shadows": {
+      "schemaVersion": 1,
+      "slug": "shadows",
+      "originalTitle": "Shadows",
+      "taxonomy": {
+        "genres": [
+          "rpg"
+        ],
+        "themes": [
+          "sci-fi"
+        ],
+        "contentType": "full-game"
+      },
+      "developers": [
+        {
+          "name": "jkaz1968",
+          "url": "https://github.com/jkaz1968"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/jkaz1968-Output/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "jkaz1968-output",
+          "title": "Shadows",
+          "languages": [
+            "en"
+          ],
+          "nsfw": false
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/jkaz1968/Output",
+          "https://webrpg.org/jkaz1968-Output/"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 2,
+      "assessedAt": "2026-11-13",
+      "assessmentSources": [
+        "https://github.com/jkaz1968/Output",
+        "https://webrpg.org/jkaz1968-Output/"
+      ],
+      "assessmentNote": "The RPG Maker adaptation itself has no external trace, but its source material is documented: 'Shadows' is the first part of Traveller Double Adventure 1: Shadows/Annic Nova (GDW, 1980, Marc W. Miller; Wikipedia; Grognardia retrospective) — the crew of a starship detects a strange structure of three hollow pyramids on Yorbund, is fired on by an energy weapon, and must land to disable it. The indexed build matches that premise exactly (map names: MAP001-Falling Star Main, MAP004-The Pyramids, MAP005-Power Plant, MAP007-Deep Level, MAP013-Fuel Chamber; switches: 'Laser fired', 'Defenses off', 'Area 34 mural seen', 'Fracture Point'). README: 'A Traveller Adventure, v1.0b… based on previously published material, and as such is distributed free of charge. You may give it away but not sell it.' 11 maps / 213 events / 487 English dialogue lines in-repo; turn-based combat per the README. Popularity 2 (niche TTRPG provenance, no spread of the adaptation itself); rating blank — the source material's reputation is not the adaptation's. No relations entry: the 1980 adventure is not in the registry. Repo 2 stars.",
+      "translatedTitles": {
+        "zh-Hans": "阴影",
+        "ja": "シャドウズ"
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "英语科幻 RPG：经典桌游《Traveller》1980 年冒险模组《Shadows》的 RPG Maker 改编版（README 注明“改编自已出版素材，免费发行，不得出售”）。Falling Star 号船员在 Yorbund 轨道上发现三座中空金字塔构成的奇异建筑，靠近时遭能量武器开火，只得着陆探索金字塔、发电厂与深层区域，设法关闭武器。11 张地图、487 行对白。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "An English sci-fi RPG: an RPG Maker adaptation of the classic Traveller tabletop adventure 'Shadows' (GDW Double Adventure 1, 1980, Marc W. Miller) — the README notes it is 'based on previously published material, and as such is distributed free of charge. You may give it away but not sell it.' The crew of the Falling Star detects a strange structure of three hollow pyramids in orbit around Yorbund, is fired on by an energy weapon, and must land to explore the pyramids, the power plant and the deep levels to disable it. 11 maps, 487 dialogue lines.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "英語のSF RPG。クラシックなテーブルトークRPG『トラベラー』の1980年の冒険モジュール『シャドウズ』（GDWダブル・アドベンチャー第1弾、マーク・W・ミラー作）のRPGツクール版（READMEに「既刊素材を基にしており、無料配布。譲渡は可、販売は不可」と明記）。フォーリング・スター号の乗員はヨーバンド軌道上で3つの中空ピラミッドからなる奇妙な建造物を発見し、エネルギー兵器に撃たれて着陸を余儀なくされ、ピラミッド、発電所、深層部を探索して兵器を停止させる。11マップ・487行の台詞。",
           "editorialStatus": "draft"
         }
       },
