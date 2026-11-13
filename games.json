@@ -12390,6 +12390,15 @@
             "en"
           ],
           "nsfw": false
+        },
+        {
+          "type": "internal",
+          "id": "discus-sions-the-fall-preview2",
+          "title": "The Fall",
+          "languages": [
+            "en"
+          ],
+          "nsfw": false
         }
       ],
       "editorial": {
@@ -12406,12 +12415,12 @@
         "indexPolicy": "auto"
       },
       "popularity": 1,
-      "assessedAt": "2026-11-13",
+      "assessedAt": "2026-11-14",
       "assessmentSources": [
         "https://github.com/discus-sions/The-Fall-PREVIEW1",
         "https://webrpg.org/discus-sions-The-Fall-PREVIEW1/"
       ],
-      "assessmentNote": "GitHub repo + webrpg mirror only (0 stars, 2 commits; web search finds no itch/Steam traces; other itch.io 'Harold' games are different works); explicitly labelled PREVIEW1 of the unfinished game The Fall (repo description; PREVIEW2 also exists), so contentType demo and slug by the game's own name, with 'Harold's Journey' (the in-game preview title, System.json gameTitle) kept as an alias; game data 10 maps / 741 events / 174 dialogue lines; zh-Hans/ja titles are literal translations, not official; rating blank; popularity 1.",
+      "assessmentNote": "GitHub repo + webrpg mirror only (0 stars, 2 commits; web search finds no itch/Steam traces; other itch.io 'Harold' games are different works); explicitly labelled PREVIEW1 of the unfinished game The Fall (repo description; PREVIEW2 also exists), so contentType demo and slug by the game's own name, with 'Harold's Journey' (the in-game preview title, System.json gameTitle) kept as an alias; game data 10 maps / 741 events / 174 dialogue lines; zh-Hans/ja titles are literal translations, not official; rating blank; popularity 1. PREVIEW2 added as a second instance 2026-11-14 (https://github.com/discus-sions/The-Fall-PREVIEW2, created 2022-07-27, 11 maps / 736 events / 197 dialogue lines, in-game title The Fall; PREVIEW1 and PREVIEW2 are two previews of the same unfinished game by the same author, one month apart).",
       "translatedTitles": {
         "zh-Hans": "陨落",
         "ja": "ザ・フォール"
@@ -22842,6 +22851,629 @@
         },
         "ja": {
           "summary": "英語のコメディRPG。主人公は下水道と企業のビルを進む——錆びた鍵を拾い、Troll Bar に潜り込み、仲間入りを主張する Troll Guy をあしらい、最後はファイル保管庫に潜むトロイの木馬を倒してエレベーターで脱出する。9マップ・241行の台詞。キャラクター名はネットハンドル。",
+          "editorialStatus": "draft"
+        }
+      },
+      "contentAdvisory": {
+        "nsfw": false
+      }
+    },
+    "tenxym": {
+      "schemaVersion": 1,
+      "slug": "tenxym",
+      "originalTitle": "異世界転生したら法定通貨がXYMだった件",
+      "taxonomy": {
+        "genres": [
+          "rpg"
+        ],
+        "themes": [
+          "fantasy"
+        ],
+        "contentType": "full-game"
+      },
+      "developers": [
+        {
+          "name": "teritaris",
+          "url": "https://github.com/teritaris"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/teritaris-tenxym_en/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "teritaris-tenxym-en",
+          "title": "That Time I Got Reincarnated in another world, fiat currency is XYM",
+          "languages": [
+            "en"
+          ],
+          "nsfw": false
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/teritaris/tenxym_en",
+          "https://webrpg.org/teritaris-tenxym_en/",
+          "https://github.com/teritaris/tenxym",
+          "https://symbolplatform.com/xym/"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 1,
+      "assessedAt": "2026-11-14",
+      "assessmentSources": [
+        "https://github.com/teritaris/tenxym_en",
+        "https://webrpg.org/teritaris-tenxym_en/",
+        "https://github.com/teritaris/tenxym",
+        "https://symbolplatform.com/xym/"
+      ],
+      "assessmentNote": "No external traces found (no Steam/itch/Game Jolt/media record; the only sources are the GitHub repos). EN repo teritaris/tenxym_en created 2022-02-19, 143 commits, 1 star; JP original repo teritaris/tenxym updated to 2023-12-26. In-repo: 132 maps / 939 events / 647 dialogue lines / 110 transfers — adventurer's guild (ギルドマスター, 集会場, 会議室), seven temples (火の洞窟, 氷の洞窟, 風の洞窟, 砂の神殿, 黄金の神殿, 天界の神殿, 闇の神殿), fairy dwelling, pyramid; anti-scam switches (秘密鍵入力詐欺, テストネット秘密鍵登録フラグ, ハーベスト中, teri-coin, XYM袋). XYM is the native token of the Symbol blockchain (mainnet March 2021), and the author (teritaris, display name teria) also publishes Symbol tooling — the game is a community/educational work, not commercial. nsfw false. Not to be confused with the adult game '異世界転移ギャル—精液が通貨ってマジ!?' (a different work that only shares the 'other world + currency' premise) or 'That Time I Got Reincarnated as a Slime'. No official Chinese title exists (the literal translation is not an official title), so translatedTitles list only en; the Japanese title is the originalTitle. Repo 1 star; rating blank; popularity 1.",
+      "translatedTitles": {
+        "en": "That Time I Got Reincarnated in another world, fiat currency is XYM"
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "日式异世界 RPG：主角转生到法定货币是加密货币 XYM 的异世界，在冒险者公会接任务，穿越火、冰、风、闇、砂、黄金、天界七座神殿；游戏融入反诈骗教育——私钥输入诈骗、收获（Harvest）与 teri-coin 等设定均来自 Symbol 公链生态。作者 teritaris 为 Symbol/NEM 社区开发者。本条目为英文版构建，日文原版另有仓库。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "A Japanese isekai RPG: the protagonist is reincarnated into another world where the legal tender is the cryptocurrency XYM, taking quests from the adventurer's guild and crossing seven temples — fire, ice, wind, darkness, sand, gold and celestial. The game doubles as anti-scam education, with private-key input scam warnings, harvesting and teri-coin mechanics drawn from the Symbol blockchain ecosystem. By teritaris, a Symbol/NEM community developer. This entry is the English build; the Japanese original lives in a separate repo.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "日本の異世界RPG。主人公は法定通貨が暗号資産XYMの異世界に転生し、冒険者ギルドでクエストを受け、火・氷・風・闇・砂・黄金・天界の7つの神殿を巡る。秘密鍵入力詐欺への注意喚起やハーベスト、teri-coin など Symbol ブロックチェーンを題材にした反詐欺教育の要素を持つ。作者 teritaris は Symbol/NEM コミュニティの開発者。本エントリは英語版ビルドで、日本語原版は別リポジトリにある。",
+          "editorialStatus": "draft"
+        }
+      },
+      "externalLinks": [
+        {
+          "url": "https://github.com/teritaris/tenxym",
+          "type": "source",
+          "label": "Japanese original (teritaris/tenxym)"
+        }
+      ],
+      "contentAdvisory": {
+        "nsfw": false
+      }
+    },
+    "the-amazonia": {
+      "schemaVersion": 1,
+      "slug": "the-amazonia",
+      "originalTitle": "The Amazonia",
+      "taxonomy": {
+        "genres": [
+          "rpg"
+        ],
+        "themes": [
+          "fantasy"
+        ],
+        "contentType": "full-game"
+      },
+      "developers": [
+        {
+          "name": "NuyyKatazou",
+          "url": "https://github.com/NuyyKatazou"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/NuyyKatazou-TheAmazonia/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "nuyykatazou-theamazonia",
+          "title": "The Amazonia",
+          "languages": [
+            "fr"
+          ],
+          "nsfw": false
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/NuyyKatazou/TheAmazonia",
+          "https://webrpg.org/NuyyKatazou-TheAmazonia/"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 1,
+      "assessedAt": "2026-11-14",
+      "assessmentSources": [
+        "https://github.com/NuyyKatazou/TheAmazonia",
+        "https://webrpg.org/NuyyKatazou-TheAmazonia/"
+      ],
+      "assessmentNote": "No external traces found (no Steam/itch/Game Jolt/French-community record; the only source is the GitHub repo itself, created 2023-09-27, 206 commits, 1 star). In-repo: 47 maps / 709 events / 2,166 French dialogue lines / 191 transfers — Départ, Plaine Fleurie, Last Ocean (5 maps), Grotte Pècheresse (with Book + Secret wings), Ravin, Labyrinthe Réservoir, Mossgrove, Bunker, a Rêve dream sequence (12 maps), Montagne, Ferme; mana-regen switches (Mana Regen Lvl 1–20), chest/quest switches (InfoQuest, WaterEventStart, FireCampFirstFight). Three maps are empty unfinished maps (Rêve_12, LATERMAPFILE, LATERMAP009) — noted, but 44 maps carry real content, so the game is kept, not flipped. nsfw false. Not to be confused with AMAZONIA-FemDom (VICE CROWN, itch.io adult sci-fi RPG), Steam's Survival on Amazonia, or Microids' Amerzone. No official or common translation exists, so translatedTitles are left blank. Repo 1 star; rating blank; popularity 1.",
+      "introductions": {
+        "zh-Hans": {
+          "summary": "法语奇幻 RPG：主角从出发点启程，穿越花海平原、最后之海、罪人洞窟与层层梦境地图，47 张地图、2166 行对白；虽有 3 张未完成地图，但整体是有实质内容的完整体量。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "A French fantasy RPG: the protagonist sets out from the starting point, crossing flowery plains, the Last Ocean, the sinners' cave and a chain of dream maps — 47 maps and 2,166 lines of dialogue. Three maps are unfinished, but the bulk is a substantial game.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "フランス語のファンタジーRPG。主人公は出発点から旅立ち、花の平原、ラストオーシャン、罪人の洞窟、そして幾重もの夢のマップを巡る。47マップ・2,166行の台詞があり、未完成のマップが3つあるものの、全体としては十分な内容量のゲーム。",
+          "editorialStatus": "draft"
+        }
+      },
+      "contentAdvisory": {
+        "nsfw": false
+      }
+    },
+    "the-camels-journey": {
+      "schemaVersion": 1,
+      "slug": "the-camels-journey",
+      "originalTitle": "The Camel's Journey",
+      "taxonomy": {
+        "genres": [
+          "rpg"
+        ],
+        "themes": [
+          "fantasy",
+          "comedy"
+        ],
+        "contentType": "full-game"
+      },
+      "developers": [
+        {
+          "name": "Pigg0Bot-S",
+          "url": "https://github.com/Pigg0Bot-S"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/Pigg0Bot-S-rpgmaker-proj/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "pigg0bot-s-rpgmaker-proj",
+          "title": "The Camel's Journey",
+          "languages": [
+            "en"
+          ],
+          "nsfw": false
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/Pigg0Bot-S/rpgmaker-proj",
+          "https://webrpg.org/Pigg0Bot-S-rpgmaker-proj/"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 1,
+      "assessedAt": "2026-11-14",
+      "assessmentSources": [
+        "https://github.com/Pigg0Bot-S/rpgmaker-proj",
+        "https://webrpg.org/Pigg0Bot-S-rpgmaker-proj/"
+      ],
+      "assessmentNote": "No external traces found (no Steam/itch/media record; the only source is the GitHub repo itself, created 2023-12-02, 5 commits, 0 stars). In-repo: 26 maps / 130 events / 292 English dialogue lines / 58 transfers — Cathedral Grounds, Cathedral, Town 1, Roach Cave (+ Basement, P2), Port, Tangier (Town Square, Tavern, Merchant), Highlands Entrance, Peaks 1–3; switches Bandit Leader #1, Bandit Group A/B, Boat Unlocked, Legend Powerup, Scamtiago. The game lives in the repo's cole/ subdir (sourcePath cole/index.html, index.html title 'The Camel's Journey'); the repo's bishop/ subdir holds a different game, 'The Alchemist: The Game' (its own System.json + index.html title) — the v1.1 title 'The Alchemist: The Game' was a mislabel taken from that sibling subdir and is NOT recorded as an alias here. nsfw false. Not to be confused with the 1970s–80s BASIC text adventure Camel, Camel Crossing, Camel Keeper or any other camel game. No official or common translation exists, so translatedTitles are left blank. Repo 0 stars; rating blank; popularity 1.",
+      "introductions": {
+        "zh-Hans": {
+          "summary": "英语奇幻 RPG：主角从大教堂出发，穿过小镇、蟑螂洞穴与港口，乘船抵达 Tangier，再登上高地；沿途有强盗首领任务与乘船解锁，26 张地图、292 行对白的小型完整冒险。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "An English fantasy RPG: the protagonist sets out from the cathedral, through a small town, the Roach Cave and the port, sailing to Tangier and climbing into the highlands — with a bandit-leader quest and a boat unlock along the way. A small complete adventure: 26 maps, 292 lines of dialogue.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "英語のファンタジーRPG。主人公は大聖堂を出発し、小さな町、Roach Cave、港を経て船で Tangier へ渡り、高地へ登る。盗賊のリーダーのクエストや船の解放がある小さな完結した冒険。26マップ・292行の台詞。",
+          "editorialStatus": "draft"
+        }
+      },
+      "contentAdvisory": {
+        "nsfw": false
+      }
+    },
+    "the-curse-of-the-sceptrum": {
+      "schemaVersion": 1,
+      "slug": "the-curse-of-the-sceptrum",
+      "originalTitle": "The Curse of The Sceptrum",
+      "taxonomy": {
+        "genres": [
+          "adventure",
+          "rpg"
+        ],
+        "themes": [
+          "fantasy",
+          "educational"
+        ],
+        "contentType": "full-game"
+      },
+      "developers": [
+        {
+          "name": "CTMB D-ESL project team",
+          "url": "https://d-esl.eu/"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/drclcomputers-The-Curse-of-The-Sceptrum/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "drclcomputers-the-curse-of-the-sceptrum",
+          "title": "The Curse of The Sceptrum",
+          "languages": [
+            "en"
+          ],
+          "nsfw": false
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/drclcomputers/The-Curse-of-The-Sceptrum",
+          "https://webrpg.org/drclcomputers-The-Curse-of-The-Sceptrum/",
+          "https://d-esl.eu/wp-content/uploads/pedagocontent/en/The%20Curse%20of%20the%20Sceptrum_Player%20guide.pdf",
+          "https://d-esl.eu/wp-content/uploads/r6/R6_Implementation_guide_EN.pdf"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 2,
+      "assessedAt": "2026-11-14",
+      "assessmentSources": [
+        "https://github.com/drclcomputers/The-Curse-of-The-Sceptrum",
+        "https://webrpg.org/drclcomputers-The-Curse-of-The-Sceptrum/",
+        "https://d-esl.eu/wp-content/uploads/pedagocontent/en/The%20Curse%20of%20the%20Sceptrum_Player%20guide.pdf",
+        "https://d-esl.eu/wp-content/uploads/r6/R6_Implementation_guide_EN.pdf"
+      ],
+      "assessmentNote": "External evidence exists: the official D-ESL player guide (d-esl.eu PDF) gives a complete 4-level walkthrough — Ed leaves home to find his missing brother Harold, consults the Wise Man and the Witch, collects keys / an emerald / winter clothes / a shovel / a totem, crosses the snowfields, enters the Big Castle, recovers the lord's diary and the music sheet, frees Harold from the dungeon and breaks the curse; the appendix 'Full game guide' lists key locations (pot, barrel, prisoner), the shop (winter clothes, 20 gold) and the dungeon entrance. The implementation guide confirms the developer: the D-ESL project team of the 'Mihai Băcescu' Technical College (CTMB, Fălticeni, Romania), Erasmus+ project 2021-1-BE01-KA220-SCH-000027783; the game is an English-teaching aid (CC BY-NC-SA 4.0), not a commercial game. In-repo: 25 maps / 455 events / 722 dialogue lines / 126 transfers — map names Harta da sus, Padure, Sat, Witch_house, Cort regal, Castel, Pivnita (Romanian map/switch names, English dialogue). No Steam/itch/Game Jolt record. Rating blank (no review scores; the 86-student school test in the guide is a teaching test, not a game rating). Popularity 2 (official project-site guide + GitHub 1 star — a small but real footprint beyond the repo). nsfw false (a school teaching game; prisoners/dungeons/graves are children's-adventure plot). Note the spelling: Sceptrum (not Sceptre/Scepter) — as in the official PDF and repo name. Not to be confused with 'Curse of the Golden Sceptre' or Harry Potter's Sectumsempra. No official Chinese/Japanese title exists, so translatedTitles are left blank. Repo created 2023-08-14, 1 star.",
+      "introductions": {
+        "zh-Hans": {
+          "summary": "英语教学 RPG（欧盟 Erasmus+ D-ESL 项目作品）：主角 Ed 离开家乡寻找失踪的哥哥 Harold，先后求助智者与女巫，收集钥匙、绿宝石、冬衣、铁铲与图腾，穿越雪原进入大城堡，取回领主日记与乐谱、救出地牢中的哥哥、破除诅咒。25 张地图、722 行对白的完整四关流程。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "An English educational RPG (an EU Erasmus+ D-ESL project game): Ed leaves home to find his missing brother Harold, seeking help from the Wise Man and the Witch, gathering keys, an emerald, winter clothes, a shovel and a totem, crossing the snowy wastes into the Big Castle to recover the lord's diary and the music sheet, free Harold from the dungeon and break the curse. A complete four-level game: 25 maps, 722 lines of dialogue.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "英語の教育RPG（EU Erasmus+ D-ESL プロジェクト作品）。主人公 Ed は行方不明の兄 Harold を探しに家を出て、賢者と魔女の助けを借り、鍵、エメラルド、冬服、シャベル、トーテムを集め、雪原を越えてビッグキャッスルに入り、領主の日記と楽譜を取り戻し、地下牢の Harold を救い出して呪いを解く。25マップ・722行の台詞の全4章のゲーム。",
+          "editorialStatus": "draft"
+        }
+      },
+      "externalLinks": [
+        {
+          "url": "https://d-esl.eu/wp-content/uploads/pedagocontent/en/The%20Curse%20of%20the%20Sceptrum_Player%20guide.pdf",
+          "type": "official",
+          "label": "D-ESL player guide (PDF)"
+        }
+      ],
+      "contentAdvisory": {
+        "nsfw": false
+      }
+    },
+    "the-devil-king": {
+      "schemaVersion": 1,
+      "slug": "the-devil-king",
+      "originalTitle": "The Devil King",
+      "taxonomy": {
+        "genres": [
+          "rpg"
+        ],
+        "themes": [
+          "fantasy"
+        ],
+        "contentType": "full-game"
+      },
+      "developers": [
+        {
+          "name": "dcarlin",
+          "url": "https://github.com/dcarlin"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/dcarlin-Devil-King-RPGMaker-MV-Game/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "dcarlin-devil-king-rpgmaker-mv-game",
+          "title": "The Devil King",
+          "languages": [
+            "en"
+          ],
+          "nsfw": false
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/dcarlin/Devil-King---RPGMaker-MV-Game",
+          "https://webrpg.org/dcarlin-Devil-King-RPGMaker-MV-Game/"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 1,
+      "assessedAt": "2026-11-14",
+      "assessmentSources": [
+        "https://github.com/dcarlin/Devil-King---RPGMaker-MV-Game",
+        "https://webrpg.org/dcarlin-Devil-King-RPGMaker-MV-Game/"
+      ],
+      "assessmentNote": "No external traces found (no Steam/itch/media record; the only source is the GitHub repo itself, created 2020-10-26, 2 commits, 2 stars). In-repo: 12 maps / 103 events / 358 English dialogue lines / 29 transfers — Field, Good King's Castle, Minato Port, Inn, Weapon/Item Shop, Cave of Demons Level 1–2, Devil King's Lair Level 1–2, Blackness, Shadow's House; party joins (Starface, Caregiver, Sturme) and the final switch Defeated Devil King. README (in full): 'My first attempt at creating an RPG Maker MV game. Made for educational purposes only. Not for sale or distribution. Features characters based off of WOW friends personas.' nsfw false: the three 'fuck' hits were each located in the map data and are plain profanity jokes, not sexual content — Map001 'HOLY FUCK IT TALKED' (a talking chicken), Map002 'Shadow and her new friends said fuck that noise and went home to play Shadowlands', Map008 'Jesus christ! How the fuck did I get here?'. Not to be confused with the Steam adult games The Demon King: Harem, Two Months of Devil King, Demon King (app 1784320), the itch adult game Art Thou A Demon King, or any other 'Devil King' game. No official or common translation exists, so translatedTitles are left blank. Repo 2 stars; rating blank; popularity 1.",
+      "introductions": {
+        "zh-Hans": {
+          "summary": "英语奇幻 RPG（作者处女作）：主角从田野出发，拜见好国王、乘船抵达 Minato 港，深入恶魔洞窟、直捣魔王巢穴，最终击败魔王。12 张地图、358 行对白，角色取材自作者友人的人设。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "An English fantasy RPG (the author's first attempt): the protagonist sets out from the fields, audiences the Good King, sails to Minato Port, descends into the Cave of Demons and storms the Devil King's Lair to defeat the Devil King. 12 maps, 358 lines of dialogue; the characters are based on the author's friends' personas.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "英語のファンタジーRPG（作者の初作品）。主人公は野原から出発し、善王に謁見し、Minato 港へ船で渡り、悪魔の洞窟を下り、魔王の巣窟に乗り込んで魔王を倒す。12マップ・358行の台詞。キャラクターは作者の友人の人柄をモデルにしている。",
+          "editorialStatus": "draft"
+        }
+      },
+      "contentAdvisory": {
+        "nsfw": false
+      }
+    },
+    "the-esi": {
+      "schemaVersion": 1,
+      "slug": "the-esi",
+      "originalTitle": "The ESI",
+      "taxonomy": {
+        "genres": [
+          "rpg",
+          "adventure"
+        ],
+        "themes": [
+          "slice-of-life",
+          "fantasy"
+        ],
+        "contentType": "full-game"
+      },
+      "developers": [
+        {
+          "name": "Ángel Pinardo Morollón",
+          "url": "https://github.com/angeelpm"
+        },
+        {
+          "name": "Asier"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/angeelpm-JuegoRPG-TheESI/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "angeelpm-juegorpg-theesi",
+          "title": "The ESI",
+          "languages": [
+            "es"
+          ],
+          "nsfw": false,
+          "notes": "Original repo angeelpm/juegorpg-theesi unreachable (HTTP 404 on 2026-11-14); game data from the webrpg mirror."
+        },
+        {
+          "type": "internal",
+          "id": "robles1301-videojuego",
+          "title": "The ESI",
+          "languages": [
+            "en"
+          ],
+          "nsfw": false
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/robles1301/videojuego",
+          "https://webrpg.org/angeelpm-JuegoRPG-TheESI/",
+          "https://webrpg.org/robles1301-videojuego/"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 1,
+      "assessedAt": "2026-11-14",
+      "assessmentSources": [
+        "https://github.com/robles1301/videojuego",
+        "https://webrpg.org/angeelpm-JuegoRPG-TheESI/",
+        "https://webrpg.org/robles1301-videojuego/"
+      ],
+      "assessmentNote": "No external traces found (no Steam/itch/media record; the only sources are the GitHub repos and the webrpg mirror). Two forks of one game: both are 12 maps / 175 events / 772 dialogue lines / 53 transfers with identical map names (Mundo, PlazaMayor, PlazaPilar, Barrio, ESI, Pasillo, Casa Asier, Casa Angel, Ayuntamiento, Sotano) and identical Spanish switches (MisionPiedra, MisionAbuela, MisionGuardianes, BossAyunta), differing only in versionId (different builds) — and in dialogue language, verified from Map001: the angeelpm build is Spanish ('Para ir a la escuela, sigue la carretera para abajo.') and the robles1301 build is English ('To reach the school, follow the road downward.'). The repo name juegorpg-theesi is 'juego RPG The ESI'; Asier.json/angel.json match the map houses Casa Asier/Casa Angel, and angeelpm's profile gives the full name Ángel Pinardo Morollón. The angeelpm repo returns HTTP 404 as of 2026-11-14 (deleted/renamed/private — not asserted as deleted); the robles1301 copy was uploaded 2026-06-04, 1 commit, 0 stars, no README — robles1301 is recorded only as the uploader of the surviving copy, not as an author. 'ESI' most likely abbreviates Escuela Superior de Informática, but no evidence links this game to any specific school — not asserted as fact. nsfw false (low confidence: the 772 dialogue lines were not read in full; no explicit sexual content found anywhere). Not to be confused with 'ESI: Segmentation Fault' (UCLM 2019 Unreal graduation project, a different game) or Elsie. The 'fantasy' theme is inferred from the guardian/boss quest names and is unconfirmed. No official Chinese/Japanese title exists, so translatedTitles are left blank. Rating blank; popularity 1.",
+      "introductions": {
+        "zh-Hans": {
+          "summary": "西班牙语小镇 RPG：主角在小镇中生活与冒险——主广场、街区、ESI 学校本楼、Asier 与 Angel 的家、市政厅与地下室；石头任务、奶奶任务、守护者任务一环扣一环，最终在市政厅打 Boss。12 张地图、772 行对白，同一游戏的西班牙语原版与英文版两个构建。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "A Spanish town RPG: the protagonist lives and adventures in a small town — the main square, the neighbourhood, the ESI school building, the houses of Asier and Angel, the town hall and its basement — chaining the stone quest, the grandmother quest and the guardians quest, and finally fighting a boss at the town hall. 12 maps, 772 lines of dialogue; two builds of the same game (Spanish original and English build).",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "スペイン語の町のRPG。主人公は小さな町で生活し冒険する——メイン広場、街区、ESI の校舎、Asier と Angel の家、市庁舎とその地下室。石のクエスト、祖母のクエスト、守護者のクエストを連ね、最後は市庁舎でボスと戦う。12マップ・772行の台詞。同じゲームのスペイン語原版と英語版の2ビルド。",
+          "editorialStatus": "draft"
+        }
+      },
+      "contentAdvisory": {
+        "nsfw": false
+      }
+    },
+    "the-farm-you-grew-up-on": {
+      "schemaVersion": 1,
+      "slug": "the-farm-you-grew-up-on",
+      "originalTitle": "The Farm You Grew Up On",
+      "taxonomy": {
+        "genres": [
+          "rpg"
+        ],
+        "themes": [
+          "horror",
+          "survival"
+        ],
+        "contentType": "full-game"
+      },
+      "developers": [
+        {
+          "name": "Reis Mahnic"
+        },
+        {
+          "name": "Jake Weston"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/reismahnic-FarmHorrorGame/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "reismahnic-farmhorrorgame",
+          "title": "The Farm You Grew Up On",
+          "languages": [
+            "en"
+          ],
+          "nsfw": false
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://side-group.itch.io/the-farm-you-grew-up-on",
+          "https://github.com/reismahnic/FarmHorrorGame",
+          "https://itch.io/jam/game-off-2018"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 2,
+      "assessedAt": "2026-11-14",
+      "assessmentSources": [
+        "https://side-group.itch.io/the-farm-you-grew-up-on",
+        "https://github.com/reismahnic/FarmHorrorGame",
+        "https://itch.io/jam/game-off-2018"
+      ],
+      "assessmentNote": "Published on itch.io (side-group.itch.io/the-farm-you-grew-up-on, Released, HTML5/macOS, RPG Maker): a 2018 GitHub GameOff entry (theme HYBRID; 318 entries, 2,956 ratings across the jam), described as 'A hybrid of Survival Horror and RPG in which you exact revenge on the cult that destroyed your life', about 15–20 minutes to complete. The itch page shows 4.5/5 stars but from only 2 ratings — too thin a sample, so rating is left blank; about 10 comments, almost all positive, and at least one YouTube playthrough. In-repo: 13 maps / 179 events / 223 English dialogue lines / 65 transfers — Forest, House Interior, ForestPondShack (+Cellar), HouseOnCliff, Fields; switches GraveDug, FirstEnemyKilled, RitchBeaten; pistol/shotgun ammo variables. Developers Reis Mahnic and Jake Weston (README); itch publisher Side Group. No Steam or media reviews found; the jam result page does not list this game's score or ranking. nsfw false (horror + cult + firearms are violent content, not sexual; the protagonist Elise's 'girl' mention was explained by the author as a maternal relationship). No official Chinese/Japanese title exists, so translatedTitles are left blank. GitHub repo created 2018-11-07, 1 star; popularity 2.",
+      "introductions": {
+        "zh-Hans": {
+          "summary": "英语农场恐怖 RPG（2018 GitHub GameOff 参赛作品，主题 HYBRID）：主角回到长大的农场，向摧毁自己人生的邪教复仇——在森林、池塘小屋、田野与悬崖小屋之间穿行，弹药有限、敌人诡异、店主不可靠，全通约 15–20 分钟。作者 Reis Mahnic 与 Jake Weston。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "An English farm survival-horror RPG (a 2018 GitHub GameOff entry, theme HYBRID): the protagonist returns to the farm they grew up on to take revenge on the cult that destroyed their life — moving between the forest, the pond shack, the fields and the cliff house with limited ammunition, strange enemies and an unreliable shopkeep. A complete game of about 15–20 minutes, by Reis Mahnic and Jake Weston.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "英語の農場サバイバルホラーRPG（2018 GitHub GameOff 参加作品、テーマ HYBRID）。主人公は人生を台無しにしたカルト教団への復讐のため、育った農場に戻る——森、池の小屋、畑、崖の家を巡り、弾薬は限られ、敵は異様で、店主は頼りにならない。プレイ時間約15–20分の完結したゲーム。作者は Reis Mahnic と Jake Weston。",
+          "editorialStatus": "draft"
+        }
+      },
+      "externalLinks": [
+        {
+          "url": "https://side-group.itch.io/the-farm-you-grew-up-on",
+          "type": "store",
+          "label": "itch.io"
+        }
+      ],
+      "contentAdvisory": {
+        "nsfw": false
+      }
+    },
+    "the-great-cat-kidnapping": {
+      "schemaVersion": 1,
+      "slug": "the-great-cat-kidnapping",
+      "originalTitle": "The Great Cat Kidnapping",
+      "taxonomy": {
+        "genres": [
+          "adventure",
+          "puzzle"
+        ],
+        "themes": [],
+        "contentType": "full-game"
+      },
+      "developers": [
+        {
+          "name": "Max K"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/mazemakersbetsy-2023-s2/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "mazemakersbetsy-2023-s2",
+          "title": "The Great Cat Kidnapping",
+          "languages": [
+            "en"
+          ],
+          "nsfw": false
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/mazemakersbetsy/2023-s2",
+          "https://webrpg.org/mazemakersbetsy-2023-s2/"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 1,
+      "assessedAt": "2026-11-14",
+      "assessmentSources": [
+        "https://github.com/mazemakersbetsy/2023-s2",
+        "https://webrpg.org/mazemakersbetsy-2023-s2/"
+      ],
+      "assessmentNote": "No external traces found (no itch/Steam/media/forum record; the only source is the GitHub repo itself). The repo mazemakersbetsy/2023-s2 is a course collection (2023 semester 2) with 28 student folders; this game lives in the max_k folder (author Max K). In-repo: 19 maps / 69 events / 90 English dialogue lines / 51 transfers — Player Room, Player House, Player Kitchen, Town, Level 0–6, First Miniboss, Breaking Bridge, Cave, Final Boss?, The End; no switches and no variables (a small student work, but the level progression and ending map are complete). The v1.1 meta title 'Puzzle Quest' was a mislabel — the string appears only in the old meta, nowhere in the game data (System.json gameTitle is 'The Great Cat Kidnapping') — and is NOT recorded as an alias, since Puzzle Quest is a well-known 2007 match-3 RPG by Infinite Interactive. nsfw false. No official Chinese/Japanese title exists, so translatedTitles are left blank. Repo created 2023-08-16, 0 stars; rating blank; popularity 1.",
+      "introductions": {
+        "zh-Hans": {
+          "summary": "英语解谜冒险 RPG（学生课程习作）：主角的猫被绑架了——从自家房间出发穿过小镇，逐层通过 Level 0 至 Level 6，打倒两个小 Boss、穿过断桥与洞窟，最终面对 Boss、抵达结局。19 张地图、90 行对白的流程完整小品。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "An English puzzle-adventure RPG (student coursework): the protagonist's cat has been kidnapped — from the player's room through the town, climbing Level 0 to Level 6, past two minibosses, a breaking bridge and a cave, to the final boss and the ending. A complete short game: 19 maps, 90 lines of dialogue.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "英語のパズルアドベンチャーRPG（学生の授業作品）。主人公の猫が誘拐された——自室から町へ出て、Level 0 から Level 6 まで登り、2体の中ボス、壊れる橋、洞窟を越えて最終ボスに挑み、エンディングへ。19マップ・90行の台詞の完結した短編。",
           "editorialStatus": "draft"
         }
       },

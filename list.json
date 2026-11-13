@@ -30812,16 +30812,8 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/94entertainment-rmmv/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "minigame"
-      ],
-      "languages": [
-        "zh-Hant"
-      ],
+      "playable": false,
       "nsfw": false,
-      "playable": true,
-      "popularity": 2,
-      "rating": 5,
       "reviewedAt": "2026-11-12"
     }
   },
@@ -31071,17 +31063,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/teritaris-tenxym_en/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg"
-      ],
-      "languages": [
-        "en"
-      ],
-      "nsfw": false,
+      "gameSlug": "tenxym",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-12"
+      "nsfw": false,
+      "reviewedAt": "2026-11-12",
+      "reviewedSourceHeadSha": "06e46281bcbc429f0f2f2561bd77a2e5501eedd8"
     }
   },
   {
@@ -31111,17 +31097,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/NuyyKatazou-TheAmazonia/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg"
-      ],
-      "languages": [
-        "fr"
-      ],
-      "nsfw": false,
+      "gameSlug": "the-amazonia",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-12"
+      "nsfw": false,
+      "reviewedAt": "2026-11-12",
+      "reviewedSourceHeadSha": "4cd75d98a0c5c1e4ab3a76ef334b4591a4c32172"
     }
   },
   {
@@ -31151,21 +31131,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/Pigg0Bot-S-rpgmaker-proj/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "aliases": [
-        "The Camel's Journey"
-      ],
-      "genres": [
-        "adventure"
-      ],
-      "languages": [
-        "en"
-      ],
-      "nsfw": false,
+      "gameSlug": "the-camels-journey",
       "playable": true,
-      "popularity": 2,
-      "rating": 4,
+      "nsfw": false,
       "reviewedAt": "2026-11-12",
-      "title": "The Alchemist: The Game"
+      "reviewedSourceHeadSha": "1ca45898f1b507b5a98bb7d2cff5f8d2e9c3ec03"
     }
   },
   {
@@ -31403,17 +31373,11 @@
     "reachable": false,
     "reachabilityDetail": "https://webrpg.org/drclcomputers-The-Curse-of-The-Sceptrum/js/rpg_scenes.js responded with HTTP 503",
     "meta": {
-      "genres": [
-        "rpg"
-      ],
-      "languages": [
-        "en"
-      ],
-      "nsfw": false,
+      "gameSlug": "the-curse-of-the-sceptrum",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-12"
+      "nsfw": false,
+      "reviewedAt": "2026-11-12",
+      "reviewedSourceHeadSha": "592c7343f83b72c39f60de188394732f3d500854"
     }
   },
   {
@@ -31443,17 +31407,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/dcarlin-Devil-King-RPGMaker-MV-Game/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg"
-      ],
-      "languages": [
-        "en"
-      ],
-      "nsfw": false,
+      "gameSlug": "the-devil-king",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-12"
+      "nsfw": false,
+      "reviewedAt": "2026-11-12",
+      "reviewedSourceHeadSha": "cf7bd34b765a2f2a10a9656440ffda710745304c"
     }
   },
   {
@@ -31480,17 +31438,9 @@
     "reachable": false,
     "reachabilityDetail": "https://webrpg.org/angeelpm-JuegoRPG-TheESI/js/rpg_objects.js could not be fetched: The operation was aborted due to timeout",
     "meta": {
-      "genres": [
-        "adventure",
-        "slice-of-life"
-      ],
-      "languages": [
-        "es"
-      ],
-      "nsfw": false,
+      "gameSlug": "the-esi",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
+      "nsfw": false,
       "reviewedAt": "2026-11-07"
     }
   },
@@ -31521,18 +31471,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/robles1301-videojuego/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "adventure",
-        "slice-of-life"
-      ],
-      "languages": [
-        "en"
-      ],
-      "nsfw": false,
+      "gameSlug": "the-esi",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "nsfw": false,
+      "reviewedAt": "2026-11-07",
+      "reviewedSourceHeadSha": "7e857f2a72fd78106e684534321c32413e9fd141"
     }
   },
   {
@@ -31562,17 +31505,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/discus-sions-The-Fall-PREVIEW2/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg"
-      ],
-      "languages": [
-        "en"
-      ],
-      "nsfw": false,
+      "gameSlug": "the-fall",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-12"
+      "nsfw": false,
+      "reviewedAt": "2026-11-12",
+      "reviewedSourceHeadSha": "a44840735abca900d8b89d621a9144b9d2d48264"
     }
   },
   {
@@ -31602,18 +31539,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/reismahnic-FarmHorrorGame/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg",
-        "horror"
-      ],
-      "languages": [
-        "en"
-      ],
-      "nsfw": false,
+      "gameSlug": "the-farm-you-grew-up-on",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-12"
+      "nsfw": false,
+      "reviewedAt": "2026-11-12",
+      "reviewedSourceHeadSha": "3c31a0502976ac78a9412c9acd68e7b94fed20a9"
     }
   },
   {
@@ -31642,21 +31572,11 @@
     "totalSize": 85290,
     "dataSize": 639901,
     "meta": {
-      "aliases": [
-        "The Great Cat Kidnapping"
-      ],
-      "genres": [
-        "puzzle"
-      ],
-      "languages": [
-        "en"
-      ],
-      "nsfw": false,
+      "gameSlug": "the-great-cat-kidnapping",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
+      "nsfw": false,
       "reviewedAt": "2026-11-12",
-      "title": "Puzzle Quest"
+      "reviewedSourceHeadSha": "dab6b03c1ad390c842ad41b0f2e29ef65f9d6470"
     }
   },
   {
