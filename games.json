@@ -19238,6 +19238,722 @@
       "contentAdvisory": {
         "nsfw": false
       }
+    },
+    "quests-of-ancient-relics-distant-world": {
+      "schemaVersion": 1,
+      "slug": "quests-of-ancient-relics-distant-world",
+      "originalTitle": "Quests of Ancient Relics: Distant World",
+      "taxonomy": {
+        "genres": [
+          "adventure"
+        ],
+        "themes": [
+          "fantasy"
+        ],
+        "contentType": "full-game"
+      },
+      "developers": [
+        {
+          "name": "ELGWorks",
+          "url": "https://github.com/ELGWorks"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/ELGWorks-Truth-Stone-Seekers/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "elgworks-truth-stone-seekers",
+          "title": "Quests of Ancient Relics: Distant World",
+          "languages": [
+            "en"
+          ],
+          "nsfw": false
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/ELGWorks/Truth-Stone-Seekers",
+          "https://webrpg.org/ELGWorks-Truth-Stone-Seekers/"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 1,
+      "assessedAt": "2026-11-13",
+      "assessmentSources": [
+        "https://github.com/ELGWorks/Truth-Stone-Seekers",
+        "https://webrpg.org/ELGWorks-Truth-Stone-Seekers/"
+      ],
+      "assessmentNote": "No external traces found; 9 maps / 53 events / 112 English dialogue lines in-repo (Anselm oversleeps on his internship's first day, grandparents send him off, travel system across York New City with 18 choices to the Lobby and Laboratory; day/night switches; 0 battles so genres [adventure]); README title 'Truth/Stone Seekers' recorded as aliases.en; README 'demo' refers to preview media + a Netlify live demo link, not a demo build marker; repo 0 stars; rating blank; popularity 1.",
+      "translatedTitles": {
+        "zh-Hans": "远古遗迹任务：遥远世界",
+        "ja": "クエスト・オブ・エンシェント・レリックス：ディスタント・ワールド"
+      },
+      "aliases": {
+        "en": [
+          "Truth/Stone Seekers"
+        ]
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "英语异世界冒险：大学生 Anselm 在实习第一天清晨睡过头，在祖父母的送别后穿越约克新城、前往实验室，寻找回家的路。9 张地图、112 行对白；城市旅行选择与昼夜系统。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "An English isekai adventure: college student Anselm oversleeps on the first day of his internship, says goodbye to his grandparents, then travels across York New City to the laboratory, searching for a way home. 9 maps, 112 dialogue lines; a city travel system with day/night switches.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "英語の異世界アドベンチャー。大学生アンセルムはインターン初日の朝に寝坊し、祖父母に見送られてヨーク・ニュー・シティを越え、研究所へ向かう。家に帰る道を探す旅の始まり。9マップ・112行の台詞。都市移動システムと昼夜切替つき。",
+          "editorialStatus": "draft"
+        }
+      },
+      "externalLinks": [
+        {
+          "url": "https://classy-torrone-2459c9.netlify.app/",
+          "type": "official",
+          "label": "Live demo"
+        }
+      ],
+      "contentAdvisory": {
+        "nsfw": false
+      }
+    },
+    "quillquest-3-the-finale": {
+      "schemaVersion": 1,
+      "slug": "quillquest-3-the-finale",
+      "originalTitle": "Quillquest 3 - The Finale",
+      "taxonomy": {
+        "genres": [
+          "rpg"
+        ],
+        "themes": [
+          "comedy"
+        ],
+        "contentType": "demo"
+      },
+      "developers": [
+        {
+          "name": "CheekiBreeki421",
+          "url": "https://github.com/CheekiBreeki421"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/CheekiBreeki421-QuillQuest3/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "cheekibreeki421-quillquest3",
+          "title": "Quillquest 3 - The Finale",
+          "languages": [
+            "en"
+          ],
+          "nsfw": false
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/CheekiBreeki421/QuillQuest3",
+          "https://webrpg.org/CheekiBreeki421-QuillQuest3/"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 1,
+      "assessedAt": "2026-11-13",
+      "assessmentSources": [
+        "https://github.com/CheekiBreeki421/QuillQuest3",
+        "https://webrpg.org/CheekiBreeki421-QuillQuest3/"
+      ],
+      "assessmentNote": "No external traces found; 46 maps / 239 events / 63 dialogue lines in-repo (author self-labels it a demo: 'most of the areas, enemies, and skills are incomplete. Only the Quadrangle is somewhat done'; but the demo slice is substantial — character select with distinct kits + Move Tutors + Trinkets, 8 unlockable party members, a shop, 3 battles + warm-up battle, phone-a-friend, prologue story under Mr. Quill; substantial demo counts as playable, contentType demo); repo 0 stars; rating blank; popularity 1.",
+      "translatedTitles": {
+        "zh-Hans": "羽笔任务3：终章",
+        "ja": "クイルクエスト3 - ザ・フィナーレ"
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "英语校园 RPG 试玩版：Tom 被困在已被 Quill 先生麾下的邪恶力量腐蚀的母校，招募 8 名伙伴、学习招式与饰品，在四方院与走廊间探索战斗。作者自标为 demo，仅四方院基本完成；但角色选择、商店、热身战与电话求援已构成完整试玩循环。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "An English school RPG demo: Tom is trapped in his former high school, now corrupted under Mr. Quill's evil powers, recruiting eight party members, learning moves and trinkets, and fighting through the Quadrangle and its corridors. The author labels it a demo with only the Quadrangle somewhat done, but character select, a shop, a warm-up battle and phone-a-friend already form a complete demo loop.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "英語の学園RPGデモ。トムはクイル先生の邪悪な力に蝕まれた母校に囚われ、8人の仲間を集め、技とトリンケットを学びながらクアドラングルと廊下を探索して戦う。作者自身がデモと明記し、ほぼ完成しているのはクアドラングルのみだが、キャラ選択・ショップ・ウォームアップ戦・電話での助っ人呼び出しで一通りの試遊ループが成立している。",
+          "editorialStatus": "draft"
+        }
+      },
+      "contentAdvisory": {
+        "nsfw": false
+      }
+    },
+    "raison-d-etre": {
+      "schemaVersion": 1,
+      "slug": "raison-d-etre",
+      "originalTitle": "Raison D'Etre",
+      "taxonomy": {
+        "genres": [
+          "adventure"
+        ],
+        "themes": [
+          "drama",
+          "fantasy"
+        ],
+        "contentType": "full-game"
+      },
+      "developers": [
+        {
+          "name": "textured-heart",
+          "url": "https://github.com/textured-heart"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/eijialice-Raison-D-Etre/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "eijialice-raison-d-etre",
+          "title": "Raison D'Etre",
+          "languages": [
+            "en"
+          ],
+          "nsfw": false
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/textured-heart/Raison-D-Etre",
+          "https://webrpg.org/eijialice-Raison-D-Etre/"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 1,
+      "assessedAt": "2026-11-13",
+      "assessmentSources": [
+        "https://github.com/textured-heart/Raison-D-Etre",
+        "https://webrpg.org/eijialice-Raison-D-Etre/"
+      ],
+      "assessmentNote": "No external traces found for this build; 4 maps / 67 events / 341 English dialogue lines in-repo (outside + house + theatre troupe 'ED' in the Rabbit's Room, 221 lines + a masked figure 'You possess a truly tragic soul'; radish errand variable; 61 choices, 0 battles so genres [adventure]); README 'Project RDE' (director nagatoro) plot: post-war church slaughtering dissenters, a hero born but feared. NOT the Steam game 'Raisond'etre' (app 1899800, church-of-orphans murder mystery, Focus system, 5 endings): different staff, different content, and this indexed build is only 4 maps — Steam reputation NOT used for scoring; repo 1 star; rating blank; popularity 1.",
+      "translatedTitles": {
+        "zh-Hans": "存在的理由",
+        "ja": "レゾンデートル"
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "英语冒险游戏：战后世界里，教会以信仰之名屠杀异己，而每隔一段时间便有一位英雄诞生——却从不受珍视。玩家走进小屋与剧团“ED”的兔子房间，遇见戴面具的人物与萝卜跑腿任务。4 张地图、341 行对白、61 个选择。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "An English adventure: in a post-war world, the church slaughters dissenters in the name of faith, while every so often a hero is born — never cherished, only feared. The player visits a house and the theatre troupe 'ED' in the Rabbit's Room, meeting a masked figure and running a radish errand. 4 maps, 341 dialogue lines, 61 choices.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "英語のアドベンチャー。戦後の世界で教会は信仰の名のもとに異端者を虐殺し、時折英雄が生まれるが——決して慈しまれず、ただ恐れられる。プレイヤーは家と劇団「ED」のウサギの部屋を訪れ、仮面の人物に出会い、大根のお使いをこなす。4マップ・341行の台詞・61の選択肢。",
+          "editorialStatus": "draft"
+        }
+      },
+      "contentAdvisory": {
+        "nsfw": false
+      }
+    },
+    "re-fairy-tale": {
+      "schemaVersion": 1,
+      "slug": "re-fairy-tale",
+      "originalTitle": "RE Fairy Tale",
+      "taxonomy": {
+        "genres": [
+          "rpg"
+        ],
+        "themes": [
+          "fantasy"
+        ],
+        "contentType": "full-game"
+      },
+      "developers": [
+        {
+          "name": "shen0V0",
+          "url": "https://github.com/shen0V0"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/shen0V0-GDP/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "shen0v0-gdp",
+          "title": "RE Fairy Tale",
+          "languages": [
+            "en"
+          ],
+          "nsfw": false
+        },
+        {
+          "type": "internal",
+          "id": "shen0v0-gdp-op",
+          "title": "RE Fairy Tale",
+          "languages": [
+            "en"
+          ],
+          "nsfw": false
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/shen0V0/GDP",
+          "https://webrpg.org/shen0V0-GDP/"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 1,
+      "assessedAt": "2026-11-13",
+      "assessmentSources": [
+        "https://github.com/shen0V0/GDP",
+        "https://webrpg.org/shen0V0-GDP/"
+      ],
+      "assessmentNote": "No external traces found (Steam 'The Fairy Tale You Don't Know' is a different game by Flying Panjandrum); 45 maps / 1177 events / 8679 English dialogue lines in-repo (Little Red Riding Hood's house, jungle, castle, white-vs-black chess kingdom with soldier/chariot/knight/queen/king/bishop maps per colour, final chapter with Sofia and Peter; Alice in the dungeon; class-change + crafting + spirit counter; 97 battles, 3 shops, 104 choices); dialogue is English despite Chinese map names, languages [en]; two forks identical in every count, only versionId differs (43159276 vs 91729483) — same game, two builds, one entry with 2 instances; repo 0 stars; rating blank; popularity 1.",
+      "translatedTitles": {
+        "zh-Hans": "RE 童话",
+        "ja": "RE フェアリーテール"
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "英语童话 RPG：从小红帽的家出发，穿过丛林深处抵达城堡，再进入白与黑对峙的棋盘王国——士兵、战车、骑士、王后、国王、主教各成一图；地牢里有 Alice，终章里 Sofia 与 Peter 告别。45 张地图、8679 行对白、97 场战斗；转职、制作与灵魂计数系统俱全。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "An English fairy-tale RPG: from Little Red Riding Hood's house through the deep jungle to the castle, then into a white-versus-black chess kingdom — soldier, chariot, knight, queen, king and bishop maps for both colours; Alice waits in the dungeon, and Sofia and Peter say goodbye in the final chapter. 45 maps, 8,679 dialogue lines, 97 battles; class-change, crafting and spirit-counter systems.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "英語の童話RPG。赤ずきんの家からジャングルの奥を抜けて城へ、さらに白と黒が対峙するチェスの王国へ——兵士・戦車・騎士・女王・王・司教が両色それぞれ一枚のマップに。地下牢にはアリス、終章ではソフィアとピーターが別れを告げる。45マップ・8679行の台詞・97戦闘。転職・製作・精霊カウンターのシステムつき。",
+          "editorialStatus": "draft"
+        }
+      },
+      "contentAdvisory": {
+        "nsfw": false
+      }
+    },
+    "re-tale": {
+      "schemaVersion": 1,
+      "slug": "re-tale",
+      "originalTitle": "Re-Tale",
+      "taxonomy": {
+        "genres": [
+          "rpg"
+        ],
+        "themes": [
+          "fantasy",
+          "drama"
+        ],
+        "contentType": "full-game"
+      },
+      "developers": [
+        {
+          "name": "favoriteheroes",
+          "url": "https://github.com/favoriteheroes"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/favoriteheroes-Re-Tale/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "favoriteheroes-re-tale",
+          "title": "Re-Tale",
+          "languages": [
+            "ja"
+          ],
+          "nsfw": false
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/favoriteheroes/Re-Tale",
+          "https://webrpg.org/favoriteheroes-Re-Tale/"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 1,
+      "assessedAt": "2026-11-13",
+      "assessmentSources": [
+        "https://github.com/favoriteheroes/Re-Tale",
+        "https://webrpg.org/favoriteheroes-Re-Tale/"
+      ],
+      "assessmentNote": "No external traces found (English or Japanese search); 61 maps / 1199 events / 7448 Japanese dialogue lines in-repo (mansion of themed rooms: judgment hall, pumpkin room, piano room, snow corridor, kotatsu rooms, candy country, nightmares 1-4, endings collection, '優しい世界' gentle world; Sans ACT switches, Frisk counter, 'ハガレンごっこ' FMA play; 244 choices, 261 CommonEvents lines, 3 battles); repo description 'Re-Tale Sweet Dreams' recorded as aliases.en; nsfw false — 'フェラ' hits are all substrings of カフェラテ (cafe latte) in the cafe map, a false positive like Batch 8's ピエロ; repo 1 star; rating blank; popularity 1.",
+      "translatedTitles": {
+        "zh-Hans": "重述",
+        "ja": "リテール"
+      },
+      "aliases": {
+        "en": [
+          "Re-Tale Sweet Dreams"
+        ]
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "日语《Undertale》同人 RPG：洋馆中一间间主题房间次第展开——审判大厅、南瓜房间、钢琴房、雪之回廊、被炉房、糖果之国、四个噩梦与结局收藏；サンズ的 ACT 指令与 Frisk 计数器俱在，还有钢之炼金术师的玩笑演出。61 张地图、7448 行对白。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "A Japanese Undertale fan RPG: a mansion of themed rooms unfolds one by one — the judgment hall, the pumpkin room, the piano room, the snow corridor, the kotatsu rooms, the candy country, four nightmares and an endings collection; Sans ACT commands, a Frisk counter, and a Fullmetal Alchemist play-acting scene. 61 maps, 7,448 dialogue lines.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "日本語の『UNDERTALE』ファンRPG。洋館のテーマ別ルームが次々と開く——ジャッジメントホール、カボチャの部屋、ピアノの部屋、雪の回廊、こたつ部屋、お菓子の国、悪夢1〜4、エンディング集、「優しい世界」。サンズのACTコマンド、フリスクカウンター、ハガレンごっこの場面も。61マップ・7448行の台詞。",
+          "editorialStatus": "draft"
+        }
+      },
+      "externalLinks": [
+        {
+          "url": "https://favoriteheroes.github.io/Re-Tale/",
+          "type": "official",
+          "label": "Play (official site)"
+        }
+      ],
+      "contentAdvisory": {
+        "nsfw": false
+      }
+    },
+    "realm-tiers": {
+      "schemaVersion": 1,
+      "slug": "realm-tiers",
+      "originalTitle": "Realm Tiers",
+      "taxonomy": {
+        "genres": [
+          "rpg"
+        ],
+        "themes": [
+          "fantasy"
+        ],
+        "contentType": "full-game"
+      },
+      "developers": [
+        {
+          "name": "TeamCstudios",
+          "url": "https://github.com/TeamCstudios"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/TeamCstudios-RealmTiers/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "teamcstudios-realmtiers",
+          "title": "Realm Tiers",
+          "languages": [
+            "en"
+          ],
+          "nsfw": false
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/TeamCstudios/RealmTiers",
+          "https://webrpg.org/TeamCstudios-RealmTiers/"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 1,
+      "assessedAt": "2026-11-13",
+      "assessmentSources": [
+        "https://github.com/TeamCstudios/RealmTiers",
+        "https://webrpg.org/TeamCstudios-RealmTiers/"
+      ],
+      "assessmentNote": "No external traces found; 6 maps / 217 events / 188 English dialogue lines in-repo (Hub + Forest/Water/Fire/Dark realms + Dungeon1; collect orbs to craft items and unlock tiers — Tier II, Second Wind, Forest Beam — plus keys; 3 battles, 1 shop, 41 CommonEvents lines; dialogue is mostly item-pickup spam but the gameplay loop is real, cf. MQ-041 Branded Shadow); repo 0 stars; rating blank; popularity 1.",
+      "translatedTitles": {
+        "zh-Hans": "境界层级",
+        "ja": "レルム・ティアーズ"
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "英语宝珠收集 RPG：从中心枢纽出发，深入森林、水、火、黑暗四境与地牢，收集宝珠制作道具、解锁层级（Tier II、Second Wind、Forest Beam）并取得钥匙。6 张地图、217 个事件；对白多为拾取提示，但收集—制作—解锁的玩法循环完整。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "An English orb-collection RPG: from the central Hub, venture into the Forest, Water, Fire and Dark realms and a dungeon, collecting orbs to craft items, unlock tiers (Tier II, Second Wind, Forest Beam) and find keys. 6 maps, 217 events; much of the dialogue is item-pickup text, but the collect-craft-unlock loop is complete.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "英語のオーブ収集RPG。中心のハブから森・水・火・闇の各境域とダンジョンへ赴き、オーブを集めてアイテムを作り、階層（Tier II、セカンドウィンド、フォレストビーム）を解放し、鍵を手に入れる。6マップ・217イベント。台詞の多くは拾得メッセージだが、収集—製作—解放のプレイ循環は完成している。",
+          "editorialStatus": "draft"
+        }
+      },
+      "contentAdvisory": {
+        "nsfw": false
+      }
+    },
+    "reb-man-quest-2-attacks-on-ddd": {
+      "schemaVersion": 1,
+      "slug": "reb-man-quest-2-attacks-on-ddd",
+      "originalTitle": "Reb Man Quest 2 - Attacks on DDD",
+      "taxonomy": {
+        "genres": [
+          "rpg"
+        ],
+        "themes": [
+          "comedy",
+          "sci-fi"
+        ],
+        "contentType": "full-game"
+      },
+      "developers": [
+        {
+          "name": "Dyloso",
+          "url": "https://github.com/Dyloso"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/Dyloso-AttacksOnDDD/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "dyloso-attacksonddd",
+          "title": "Reb Man Quest 2 - Attacks on DDD",
+          "languages": [
+            "en"
+          ],
+          "nsfw": false
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/Dyloso/AttacksOnDDD",
+          "https://webrpg.org/Dyloso-AttacksOnDDD/"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 1,
+      "assessedAt": "2026-11-13",
+      "assessmentSources": [
+        "https://github.com/Dyloso/AttacksOnDDD",
+        "https://webrpg.org/Dyloso-AttacksOnDDD/"
+      ],
+      "assessmentNote": "No external traces found; 287 maps / 14950 events / 74558 English dialogue lines in-repo (Reb's house, Shagholm castle, Thrintal Woods, DDD bases, radio tower, factories, Nealsburg, the Scaether, endings for Giacomo/BKG/Part 1; 156 battles, 67 shops, 33 choices); nsfw false — all keyword hits located in context: 'fuck' is profanity only, 'dick' is a character named Dick, 'nude' is a shower joke ('Better not take any nude pictures in here'), no sexual content (cf. MQ-039/MQ-096); GitHub API rate-limited, stars unverified; rating blank; popularity 1.",
+      "translatedTitles": {
+        "zh-Hans": "反叛者任务2：进攻DDD",
+        "ja": "レブ・マン・クエスト2 - アタックス・オン・DDD"
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "英语喜剧 RPG：Reb 从自家出发，经 Shagholm 城堡、Thrintal 森林一路打进 DDD 的基地——电台塔、工厂、Nealsburg 镇、Scaether 深处，迎来 Giacomo、BKG 等多个结局。287 张地图、74558 行对白、156 场战斗、67 间商店，是本批规模最大的游戏。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "An English comedy RPG: Reb sets out from home through Shagholm castle and the Thrintal Woods, fighting into the DDD's bases — the radio tower, the factories, Nealsburg, the depths of the Scaether — toward endings for Giacomo, BKG and more. 287 maps, 74,558 dialogue lines, 156 battles, 67 shops; the largest game in this batch.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "英語のコメディRPG。レブは自宅からシャグホルム城、スリンタル森林を抜け、DDDの拠点へ——ラジオ塔、工場、ニールズバーグ、スカイザーの深部へと攻め込み、ジャコモやBKGらの結末へ向かう。287マップ・74558行の台詞・156戦闘・67店舗。本バッチ最大のゲーム。",
+          "editorialStatus": "draft"
+        }
+      },
+      "contentAdvisory": {
+        "nsfw": false
+      }
+    },
+    "reliquias-de-fen": {
+      "schemaVersion": 1,
+      "slug": "reliquias-de-fen",
+      "originalTitle": "Relíquias de Fen",
+      "taxonomy": {
+        "genres": [
+          "rpg"
+        ],
+        "themes": [
+          "fantasy"
+        ],
+        "contentType": "full-game"
+      },
+      "developers": [
+        {
+          "name": "BrenoLuna0",
+          "url": "https://github.com/BrenoLuna0"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/BrenoLuna0-Reliquias-de-Fen/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "brenoluna0-reliquias-de-fen",
+          "title": "Relíquias de Fen",
+          "languages": [
+            "pt"
+          ],
+          "nsfw": false
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/BrenoLuna0/Reliquias-de-Fen",
+          "https://webrpg.org/BrenoLuna0-Reliquias-de-Fen/"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 1,
+      "assessedAt": "2026-11-13",
+      "assessmentSources": [
+        "https://github.com/BrenoLuna0/Reliquias-de-Fen",
+        "https://webrpg.org/BrenoLuna0-Reliquias-de-Fen/"
+      ],
+      "assessmentNote": "No external traces found; 11 maps / 260 events / 107 Portuguese dialogue lines in-repo (village, house with sword/shield/helm/armor, island, dungeon, boss hall, ice castle, ice dungeon with 9 battles, second boss hall; 45 battles total); a single '<colocar msg>' placeholder line on the MUNDO map, noted, not a flip (cf. MQ-274, where the placeholder was the substance); GitHub API rate-limited, stars unverified; rating blank; popularity 1.",
+      "translatedTitles": {
+        "zh-Hans": "芬之遗物",
+        "ja": "レリキアス・デ・フェン"
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "葡萄牙语奇幻 RPG：从村庄出发，取剑、盾、头盔与铠甲，穿过岛屿与地牢击败 Boss，再深入冰之城堡与冰之地牢挑战第二个 Boss。11 张地图、45 场战斗；世界地图上有一行“<colocar msg>”占位文本，但只是单行占位，不影响整体。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "A Portuguese fantasy RPG: set out from the village, take up sword, shield, helm and armor, cross the island and the dungeon to beat the boss, then delve into the ice castle and the ice dungeon for a second boss. 11 maps, 45 battles; one '<colocar msg>' placeholder line sits on the world map, but it is a single placeholder, not the game's substance.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "ポルトガル語のファンタジーRPG。村を出て剣・盾・兜・鎧を手にし、島とダンジョンを越えてボスを倒し、さらに氷の城と氷のダンジョンで二体目のボスに挑む。11マップ・45戦闘。ワールドマップに「<colocar msg>」というプレースホルダー行が1行あるが、単発のものでゲーム全体の内容ではない。",
+          "editorialStatus": "draft"
+        }
+      },
+      "contentAdvisory": {
+        "nsfw": false
+      }
+    },
+    "renewal": {
+      "schemaVersion": 1,
+      "slug": "renewal",
+      "originalTitle": "Renewal",
+      "taxonomy": {
+        "genres": [
+          "rpg"
+        ],
+        "themes": [
+          "fantasy"
+        ],
+        "contentType": "full-game"
+      },
+      "developers": [
+        {
+          "name": "Byvalvin",
+          "url": "https://github.com/Byvalvin"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/Byvalvin-Excalibur/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "byvalvin-excalibur",
+          "title": "Renewal",
+          "languages": [
+            "en"
+          ],
+          "nsfw": false
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/Byvalvin/Excalibur",
+          "https://webrpg.org/Byvalvin-Excalibur/"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 1,
+      "assessedAt": "2026-11-13",
+      "assessmentSources": [
+        "https://github.com/Byvalvin/Excalibur",
+        "https://webrpg.org/Byvalvin-Excalibur/"
+      ],
+      "assessmentNote": "No external traces found (all Excalibur search results are unrelated works); 37 maps / 628 events / 440 English dialogue lines in-repo (young knight of Gratia quests outside forbidden borders for Marisacordia's harvest per README summary; gear quests — steal medicine/wares, kidnap — Mount Thulu, Altar of Truth, three endings incl. 'Sac Other' and 'Destroy Altar'; 5 battles, 7 choices); gameTitle 'Renewal' is originalTitle, README/repo name 'Excalibur' recorded as aliases.en (cf. MQ-040 BilioGame, MQ-194 leyenda); GitHub API rate-limited, stars unverified; rating blank; popularity 1.",
+      "translatedTitles": {
+        "zh-Hans": "重生",
+        "ja": "リニューアル"
+      },
+      "aliases": {
+        "en": [
+          "Excalibur"
+        ]
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "英语奇幻 RPG：Gratia 的年轻骑士为家乡 Marisacordia 的丰收踏出禁令之外的边境，取得武器与神器，在风笛城、图卢山与真理祭坛之间完成偷药、偷货与绑架等任务，走向三个结局。37 张地图、440 行对白。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "An English fantasy RPG: a young knight of Gratia quests beyond his town's forbidden borders to secure another successful harvest season for Marisacordia, taking up weapons and artifacts and completing gear quests — stealing medicine and wares, a kidnapping — across Windpipe City, Mount Thulu and the Altar of Truth, toward three endings. 37 maps, 440 dialogue lines.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "英語のファンタジーRPG。グラティアの若き騎士は故郷マリサコルディアの豊作のため、禁じられた国境の外へ旅立つ。武器と神器を手に、風笛の街、トゥル山、真実の祭壇を巡り、薬や物資の窃取、誘拐といったクエストをこなして三つの結末へ向かう。37マップ・440行の台詞。",
+          "editorialStatus": "draft"
+        }
+      },
+      "contentAdvisory": {
+        "nsfw": false
+      }
     }
   }
 }

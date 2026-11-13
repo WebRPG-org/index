@@ -26409,21 +26409,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/ELGWorks-Truth-Stone-Seekers/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "aliases": [
-        "Quests of Ancient Relics: Distant World"
-      ],
-      "genres": [
-        "rpg"
-      ],
-      "languages": [
-        "en"
-      ],
-      "nsfw": false,
+      "gameSlug": "quests-of-ancient-relics-distant-world",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
+      "nsfw": false,
       "reviewedAt": "2026-11-08",
-      "title": "Truth/Stone Seekers"
+      "reviewedSourceHeadSha": "c174f49693a37bc69d77a49fa8217f4a4435dfbc"
     }
   },
   {
@@ -26453,17 +26443,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/CheekiBreeki421-QuillQuest3/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg"
-      ],
-      "languages": [
-        "en"
-      ],
-      "nsfw": false,
+      "gameSlug": "quillquest-3-the-finale",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-08"
+      "nsfw": false,
+      "reviewedAt": "2026-11-08",
+      "reviewedSourceHeadSha": "cc3bbb42306a8efa8f87fddcd383cdb299661ddb"
     }
   },
   {
@@ -26510,17 +26494,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/eijialice-Raison-D-Etre/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg"
-      ],
-      "languages": [
-        "en"
-      ],
-      "nsfw": false,
+      "gameSlug": "raison-d-etre",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-08"
+      "nsfw": false,
+      "reviewedAt": "2026-11-08",
+      "reviewedSourceHeadSha": "f70c5f50a8e6e537d7a94e20f6e0121cdafa2df5"
     }
   },
   {
@@ -26627,18 +26605,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/shen0V0-GDP/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg",
-        "fantasy"
-      ],
-      "languages": [
-        "en"
-      ],
-      "nsfw": false,
+      "gameSlug": "re-fairy-tale",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "nsfw": false,
+      "reviewedAt": "2026-11-07",
+      "reviewedSourceHeadSha": "c4283df93fbaa95dd5419f8536adb08ed46c2790"
     }
   },
   {
@@ -26668,18 +26639,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/shen0V0-GDP_OP/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg",
-        "fantasy"
-      ],
-      "languages": [
-        "en"
-      ],
-      "nsfw": false,
+      "gameSlug": "re-fairy-tale",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "nsfw": false,
+      "reviewedAt": "2026-11-07",
+      "reviewedSourceHeadSha": "8efd51a3c211dcee527223cc97c155820e61a3ec"
     }
   },
   {
@@ -26709,21 +26673,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/favoriteheroes-Re-Tale/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "aliases": [
-        "Re-Tale"
-      ],
-      "genres": [
-        "rpg"
-      ],
-      "languages": [
-        "ja"
-      ],
-      "nsfw": false,
+      "gameSlug": "re-tale",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
+      "nsfw": false,
       "reviewedAt": "2026-11-08",
-      "title": "Re-Tale Sweet Dreams"
+      "reviewedSourceHeadSha": "bac17f5466d065f5f7f6f03d20956121b468624b"
     }
   },
   {
@@ -26791,21 +26745,9 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/Agus-Sosa-ReactMonster/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "aliases": [
-        "React Monster"
-      ],
-      "genres": [
-        "rpg"
-      ],
-      "languages": [
-        "es"
-      ],
+      "playable": false,
       "nsfw": false,
-      "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-08",
-      "title": "React Monsters"
+      "reviewedAt": "2026-11-08"
     }
   },
   {
@@ -26835,17 +26777,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/TeamCstudios-RealmTiers/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg"
-      ],
-      "languages": [
-        "en"
-      ],
-      "nsfw": false,
+      "gameSlug": "realm-tiers",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-08"
+      "nsfw": false,
+      "reviewedAt": "2026-11-08",
+      "reviewedSourceHeadSha": "1ab8e1dfbaebc93065b73612aa240e3333549ac0"
     }
   },
   {
@@ -26875,17 +26811,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/Dyloso-AttacksOnDDD/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg"
-      ],
-      "languages": [
-        "en"
-      ],
-      "nsfw": false,
+      "gameSlug": "reb-man-quest-2-attacks-on-ddd",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-08"
+      "nsfw": false,
+      "reviewedAt": "2026-11-08",
+      "reviewedSourceHeadSha": "df7fc4928380c73cd696613ab29e9e0a4e1a761e"
     }
   },
   {
@@ -27006,17 +26936,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/BrenoLuna0-Reliquias-de-Fen/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg"
-      ],
-      "languages": [
-        "pt"
-      ],
-      "nsfw": false,
+      "gameSlug": "reliquias-de-fen",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-08"
+      "nsfw": false,
+      "reviewedAt": "2026-11-08",
+      "reviewedSourceHeadSha": "6a0e1332dc7cd99d0c201e580658b3690ad3afcf"
     }
   },
   {
@@ -27046,17 +26970,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/Byvalvin-Excalibur/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg"
-      ],
-      "languages": [
-        "en"
-      ],
-      "nsfw": false,
+      "gameSlug": "renewal",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-08"
+      "nsfw": false,
+      "reviewedAt": "2026-11-08",
+      "reviewedSourceHeadSha": "5cb859e5223a3cc28d94486c535c348b25e2a0ca"
     }
   },
   {
