@@ -24635,17 +24635,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/AkshatIyer-GameJam2025/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "adventure"
-      ],
-      "languages": [
-        "en"
-      ],
-      "nsfw": false,
+      "gameSlug": "akshatiyer-gamejam2025",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "nsfw": false,
+      "reviewedAt": "2026-11-07",
+      "reviewedSourceHeadSha": "28fb6d8874b0a2827ba3b1781ac8102f2c92b203"
     }
   },
   {
@@ -24675,18 +24669,9 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/Alriosa-awaken-mz/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg"
-      ],
-      "languages": [
-        "en"
-      ],
+      "playable": false,
       "nsfw": false,
-      "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-07",
-      "title": "Awaken"
+      "reviewedAt": "2026-11-07"
     }
   },
   {
@@ -24716,20 +24701,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/asifexplore-Secret-Paladin/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg",
-        "educational",
-        "drama"
-      ],
-      "languages": [
-        "en"
-      ],
-      "nsfw": false,
+      "gameSlug": "secret-paladin",
       "playable": true,
-      "popularity": 4,
-      "rating": 7,
+      "nsfw": false,
       "reviewedAt": "2026-11-07",
-      "title": "Secret Paladin"
+      "reviewedSourceHeadSha": "658c4f5a90b98415e44ef474f01951037f0cfa67"
     }
   },
   {
@@ -24791,16 +24767,8 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/brmrb1-www/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "adventure"
-      ],
-      "languages": [
-        "en"
-      ],
+      "playable": false,
       "nsfw": false,
-      "playable": true,
-      "popularity": 2,
-      "rating": 5,
       "reviewedAt": "2026-11-07"
     }
   },
@@ -24866,17 +24834,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/ckeiser2-ckeiser2.github.io/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "adventure"
-      ],
-      "languages": [
-        "en"
-      ],
-      "nsfw": false,
+      "gameSlug": "ckeiser2-project1",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "nsfw": false,
+      "reviewedAt": "2026-11-07",
+      "reviewedSourceHeadSha": "8cccd1dca6adad2d0e6c353cbd12426539bdd0f7"
     }
   },
   {
@@ -24926,14 +24888,8 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/DiegoNave-diegonave.github.io/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "adventure",
-        "slice-of-life"
-      ],
+      "playable": false,
       "nsfw": false,
-      "playable": true,
-      "popularity": 2,
-      "rating": 5,
       "reviewedAt": "2026-11-07"
     }
   },
@@ -25095,17 +25051,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/fm-dev-rpg_game/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "adventure"
-      ],
-      "languages": [
-        "en"
-      ],
-      "nsfw": false,
+      "gameSlug": "fm-dev-rpg-game",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "nsfw": false,
+      "reviewedAt": "2026-11-07",
+      "reviewedSourceHeadSha": "8e269931341320afb3960fe3981d11054ecd5ea3"
     }
   },
   {
@@ -25135,16 +25085,8 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/GeorgeChen-666-sgmud/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "adventure"
-      ],
-      "languages": [
-        "zh-Hans"
-      ],
+      "playable": false,
       "nsfw": false,
-      "playable": true,
-      "popularity": 2,
-      "rating": 5,
       "reviewedAt": "2026-11-07"
     }
   },
@@ -25357,18 +25299,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/Luerl21-RPGMakerMV1/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg",
-        "fantasy"
-      ],
-      "languages": [
-        "ru"
-      ],
-      "nsfw": false,
+      "gameSlug": "luerl21-rpgmakermv1",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "nsfw": false,
+      "reviewedAt": "2026-11-07",
+      "reviewedSourceHeadSha": "8835190a2a584cff166035497715476af2f95e58"
     }
   },
   {
@@ -25528,17 +25463,8 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/remento-pennycode/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "adventure",
-        "fantasy"
-      ],
-      "languages": [
-        "en"
-      ],
+      "playable": false,
       "nsfw": false,
-      "playable": true,
-      "popularity": 2,
-      "rating": 5,
       "reviewedAt": "2026-11-07"
     }
   },

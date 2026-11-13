@@ -18481,6 +18481,384 @@
       "contentAdvisory": {
         "nsfw": false
       }
+    },
+    "akshatiyer-gamejam2025": {
+      "schemaVersion": 1,
+      "slug": "akshatiyer-gamejam2025",
+      "originalTitle": "Project1",
+      "taxonomy": {
+        "genres": [
+          "adventure"
+        ],
+        "themes": [
+          "comedy"
+        ],
+        "contentType": "full-game"
+      },
+      "developers": [
+        {
+          "name": "AkshatIyer",
+          "url": "https://github.com/AkshatIyer"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/AkshatIyer-GameJam2025/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "akshatiyer-gamejam2025",
+          "title": "Project1",
+          "languages": [
+            "en"
+          ],
+          "nsfw": false
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/AkshatIyer/GameJam2025",
+          "https://webrpg.org/AkshatIyer-GameJam2025/"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 1,
+      "assessedAt": "2026-11-13",
+      "assessmentSources": [
+        "https://github.com/AkshatIyer/GameJam2025",
+        "https://webrpg.org/AkshatIyer-GameJam2025/"
+      ],
+      "assessmentNote": "No external traces found; 5 maps / 74 English dialogue lines in-repo (new roommate must introduce himself to each roommate: Andrew's airplane trivia OE-LBQ Airbus A320, a credit-card thief, Brandon's London crypto venture, Andrew clinging to the windshield with a car-setup rant; choice battles with YOU WIN / YOU LOSE); title is only 'Project1' (gameTitle + index.html title), slug from repo name (owner + repo, 29abrenton precedent); repo 0 stars; rating blank; popularity 1.",
+      "translatedTitles": {
+        "zh-Hans": "项目1",
+        "ja": "プロジェクト1"
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "英文宿舍喜剧小品：新室友入住公寓，必须逐一向室友自我介绍——Andrew 的飞机知识问答、偷信用卡的小偷、要去伦敦搞加密货币创业的 Brandon，以及扒在挡风玻璃上的 Andrew。5 张地图、74 行对白；游戏内标题仅为 Project1，slug 取自仓库名。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "An English dorm-comedy vignette: a new roommate moves into the apartment and must introduce himself to each roommate — Andrew's airplane-trivia interrogation, a credit-card thief, Brandon leaving for a crypto venture in London, and Andrew clinging to the windshield. 5 maps, 74 dialogue lines; the in-game title is only 'Project1', so the slug comes from the repository name.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "英語の寮コメディ小品。新しいルームメイトがアパートに入居し、各ルームメイトに自己紹介しなければならない——アンドリューの飛行機トリビア尋問、クレジットカード泥棒、ロンドンで暗号資産ベンチャーを始めるブランドン、フロントガラスにしがみつくアンドリュー。5マップ・74行の台詞。ゲーム内タイトルは「Project1」のみのため、スラッグはリポジトリ名から取る。",
+          "editorialStatus": "draft"
+        }
+      },
+      "contentAdvisory": {
+        "nsfw": false
+      }
+    },
+    "secret-paladin": {
+      "schemaVersion": 1,
+      "slug": "secret-paladin",
+      "originalTitle": "Secret Paladin",
+      "taxonomy": {
+        "genres": [
+          "rpg"
+        ],
+        "themes": [
+          "educational",
+          "drama"
+        ],
+        "contentType": "full-game"
+      },
+      "developers": [
+        {
+          "name": "asifexplore",
+          "url": "https://github.com/asifexplore"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/asifexplore-Secret-Paladin/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "asifexplore-secret-paladin",
+          "title": "Secret Paladin",
+          "languages": [
+            "en"
+          ],
+          "nsfw": false
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://files-scs-prod.s3-ap-southeast-1.amazonaws.com/public/media/press-releases/2016/08/25/Singapore%20Computer%20Society_s%20annual%20Splash%20Awards%20recognise%20outstanding%20ICM%20youth%20promoting%20cyber%20wellness.pdf",
+          "https://github.com/asifexplore/Secret-Paladin",
+          "https://webrpg.org/asifexplore-Secret-Paladin/"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 3,
+      "assessedAt": "2026-11-13",
+      "assessmentSources": [
+        "https://files-scs-prod.s3-ap-southeast-1.amazonaws.com/public/media/press-releases/2016/08/25/Singapore%20Computer%20Society_s%20annual%20Splash%20Awards%20recognise%20outstanding%20ICM%20youth%20promoting%20cyber%20wellness.pdf",
+        "https://github.com/asifexplore/Secret-Paladin",
+        "https://webrpg.org/asifexplore-Secret-Paladin/"
+      ],
+      "assessmentNote": "Awards verified against the official SCS press release: team 'El Hasmano' (Republic Polytechnic) won Mobile Game Award 1st Runner Up and Tertiary Category 2nd Runner Up at the 2016 Splash Awards — the README's claim checks out (the team name is the link; README itself says 'We were called El Hasmano'); 7 maps / 11 English dialogue lines in-repo (gender + name choice, troll boss who reforms, castle); no store page, reviews or community traces, so no quality score — rating blank; popularity 3 for the national-level awards + press-release mention; repo 0 stars; zh-Hans title is a literal translation, ja is katakana transliteration.",
+      "translatedTitles": {
+        "zh-Hans": "秘密圣骑士",
+        "ja": "シークレット・パラディン"
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "英文反网络欺凌教育 RPG：2016 年新加坡计算机学会 Splash Awards 参赛作品（一周内完成），以团队名 El Hasmano 获手机游戏奖一等奖亚军与高等教育组总亚军。选择性别与姓名，走出家门、穿过地牢、击败化身网络喷子的 Troll Boss，最终抵达城堡——被帮助的喷子改过自新。7 张地图、11 行对白。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "An English anti-cyberbullying educational RPG: a 2016 Singapore Computer Society Splash Awards entry built in one week, winning Mobile Game Award 1st Runner Up and Tertiary Category 2nd Runner Up under the team name El Hasmano. Pick a gender and name, leave home, cross the dungeon, defeat the troll boss — who reforms after being helped — and reach the castle. 7 maps, 11 dialogue lines.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "英語のネットいじめ防止教育RPG。2016年シンガポールコンピュータ学会Splash Awardsへの出品作で、1週間で制作。チーム名エル・ハスマノとしてモバイルゲーム賞準優勝と高等教育部門準優勝を受賞。性別と名前を選び、家を出てダンジョンを越え、トロールボスを倒す——助けられたトロールは改心する——そして城に到着する。7マップ・11行の台詞。",
+          "editorialStatus": "draft"
+        }
+      },
+      "contentAdvisory": {
+        "nsfw": false
+      }
+    },
+    "ckeiser2-project1": {
+      "schemaVersion": 1,
+      "slug": "ckeiser2-project1",
+      "originalTitle": "Project1",
+      "taxonomy": {
+        "genres": [
+          "rpg"
+        ],
+        "themes": [
+          "fantasy"
+        ],
+        "contentType": "full-game"
+      },
+      "developers": [
+        {
+          "name": "ckeiser2",
+          "url": "https://github.com/ckeiser2"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/ckeiser2-ckeiser2.github.io/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "ckeiser2-ckeiser2-github-io",
+          "title": "Project1",
+          "languages": [
+            "en"
+          ],
+          "nsfw": false
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/ckeiser2/ckeiser2.github.io",
+          "https://webrpg.org/ckeiser2-ckeiser2.github.io/"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 1,
+      "assessedAt": "2026-11-13",
+      "assessmentSources": [
+        "https://github.com/ckeiser2/ckeiser2.github.io",
+        "https://webrpg.org/ckeiser2-ckeiser2.github.io/"
+      ],
+      "assessmentNote": "No external traces found; 16 maps / 199 English dialogue lines in-repo (leave home to become an adventurer, recruit Chad/Bandit/Guy/Mage, statue puzzle, Holy Sword, Demon King in the Demon World, return home; 2 empty maps MAP007/MAP010 unused); title is only 'Project1' (gameTitle + index.html title), slug from repo name (owner + game dir); repo is the author's personal site, 0 stars; rating blank; popularity 1.",
+      "translatedTitles": {
+        "zh-Hans": "项目1",
+        "ja": "プロジェクト1"
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "英文奇幻 RPG：离家立志成为冒险者，在小镇招募圣骑士 Chad、强盗、Guy 与法师，解开雕像谜题、获得圣剑成为英雄，点亮监狱灯火、穿过洞穴与传送门，在魔界击败复活的魔王后回家。16 张地图、199 行对白；游戏内标题仅为 Project1，slug 取自仓库名。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "An English fantasy RPG: leave home vowing to become an adventurer, recruit the paladin Chad, a bandit, Guy and a mage in town, solve the statue puzzle, claim the Holy Sword and become a hero, light the prison lamps, cross caves and a portal, and defeat the resurrected Demon King in the Demon World before returning home. 16 maps, 199 dialogue lines; the in-game title is only 'Project1', so the slug comes from the repository name.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "英語のファンタジーRPG。冒険者になることを誓って家を出て、町で聖騎士チャド、盗賊、ガイ、魔法使いを仲間にし、像のパズルを解いて聖剣を手に入れ英雄となり、牢獄の灯をともし、洞窟とポータルを越えて、魔界で復活した魔王を倒し帰宅する。16マップ・199行の台詞。ゲーム内タイトルは「Project1」のみのため、スラッグはリポジトリ名から取る。",
+          "editorialStatus": "draft"
+        }
+      },
+      "contentAdvisory": {
+        "nsfw": false
+      }
+    },
+    "fm-dev-rpg-game": {
+      "schemaVersion": 1,
+      "slug": "fm-dev-rpg-game",
+      "originalTitle": "Project1",
+      "taxonomy": {
+        "genres": [
+          "adventure"
+        ],
+        "themes": [
+          "slice-of-life"
+        ],
+        "contentType": "full-game"
+      },
+      "developers": [
+        {
+          "name": "fm-dev",
+          "url": "https://github.com/fm-dev"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/fm-dev-rpg_game/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "fm-dev-rpg-game",
+          "title": "Project1",
+          "languages": [
+            "id"
+          ],
+          "nsfw": false
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/fm-dev/rpg_game",
+          "https://webrpg.org/fm-dev-rpg_game/"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 1,
+      "assessedAt": "2026-11-13",
+      "assessmentSources": [
+        "https://github.com/fm-dev/rpg_game",
+        "https://webrpg.org/fm-dev-rpg_game/"
+      ],
+      "assessmentNote": "No external traces found; 5 maps / 37 Indonesian dialogue lines in-repo (find older sister kakak, collect 5 packs of firewood kayu bakar for grandmother atuk, pocket money, snack stall warung teh Yuli, grandmother's riddles, sleeping dragon); languages corrected [en] -> [id] (dialogue is Indonesian); title is only 'Project1' (gameTitle + index.html title), slug from repo name; repo 0 stars; rating blank; popularity 1.",
+      "translatedTitles": {
+        "zh-Hans": "项目1",
+        "ja": "プロジェクト1"
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "印尼语家庭冒险小品：奶奶（atuk）让两个孩子找回迟迟未归的姐姐（kakak），再收集 5 包柴火换零花钱去小卖部买零食；另有奶奶的谜语与沉睡的龙。5 张地图、37 行对白；游戏内标题仅为 Project1，slug 取自仓库名。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "An Indonesian family adventure vignette: grandmother (atuk) sends two children to find their older sister (kakak) who hasn't come home, then to gather 5 packs of firewood in exchange for pocket money to spend at the snack stall; grandmother's riddles and a sleeping dragon round it out. 5 maps, 37 dialogue lines; the in-game title is only 'Project1', so the slug comes from the repository name.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "インドネシア語の家族アドベンチャー小品。おばあちゃん（atuk）が二人の子どもに、帰ってこない姉（kakak）を探しに行かせ、さらに薪を5パック集めさせ、お小遣いをもらって屋台でお菓子を買う。おばあちゃんのなぞなぞと眠る龍も登場。5マップ・37行の台詞。ゲーム内タイトルは「Project1」のみのため、スラッグはリポジトリ名から取る。",
+          "editorialStatus": "draft"
+        }
+      },
+      "contentAdvisory": {
+        "nsfw": false
+      }
+    },
+    "luerl21-rpgmakermv1": {
+      "schemaVersion": 1,
+      "slug": "luerl21-rpgmakermv1",
+      "originalTitle": "Project1",
+      "taxonomy": {
+        "genres": [
+          "rpg"
+        ],
+        "themes": [
+          "fantasy"
+        ],
+        "contentType": "full-game"
+      },
+      "developers": [
+        {
+          "name": "Luerl21",
+          "url": "https://github.com/Luerl21"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/Luerl21-RPGMakerMV1/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "luerl21-rpgmakermv1",
+          "title": "Project1",
+          "languages": [
+            "ru"
+          ],
+          "nsfw": false
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/Luerl21/RPGMakerMV1",
+          "https://webrpg.org/Luerl21-RPGMakerMV1/"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 1,
+      "assessedAt": "2026-11-13",
+      "assessmentSources": [
+        "https://github.com/Luerl21/RPGMakerMV1",
+        "https://webrpg.org/Luerl21-RPGMakerMV1/"
+      ],
+      "assessmentNote": "No external traces found; 30 maps / 411 events / 94 Russian dialogue lines in-repo (class choice, name entry, instructor quests: 3 pairs of bat wings, 10 slimes; mage-house quest; forest city, mountain village, fishing village, demon castle 3 floors; day/night time system, crop drops); title is only 'Project1' (gameTitle + index.html title), slug from repo name; repo 0 stars; rating blank; popularity 1.",
+      "translatedTitles": {
+        "zh-Hans": "项目1",
+        "ja": "プロジェクト1"
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "俄语奇幻 RPG：选择职业、起名字，在教官指导下学习战斗——收集蝙蝠翅膀、讨伐史莱姆，接受法师之屋任务；穿过森林城市、山村、渔村与法师公会，深入恶魔城堡三层；另有昼夜时间系统与作物掉落。30 张地图、411 个事件、94 行对白；游戏内标题仅为 Project1，slug 取自仓库名。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "A Russian fantasy RPG: pick a class, name your hero, and learn to fight under an instructor — gather bat wings, hunt slimes, take the mage-house quest; travel through the forest city, mountain village, fishing village and mages' guild, and delve three floors of the demon castle; a day/night time system and crop drops round it out. 30 maps, 411 events, 94 dialogue lines; the in-game title is only 'Project1', so the slug comes from the repository name.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "ロシア語のファンタジーRPG。クラスを選び、名前を付けて、教官の指導で戦い方を学ぶ——コウモリの翼を集め、スライムを討伐し、魔法使いの家のクエストを受ける。森の都市、山村、漁村、魔法使いギルドを巡り、悪魔の城の三層に挑む。昼夜システムと作物ドロップもある。30マップ・411イベント・94行の台詞。ゲーム内タイトルは「Project1」のみのため、スラッグはリポジトリ名から取る。",
+          "editorialStatus": "draft"
+        }
+      },
+      "contentAdvisory": {
+        "nsfw": false
+      }
     }
   }
 }
