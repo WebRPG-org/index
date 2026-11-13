@@ -18730,13 +18730,8 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/mytriv-lightpathfinder/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg"
-      ],
+      "playable": false,
       "nsfw": false,
-      "playable": true,
-      "popularity": 2,
-      "rating": 5,
       "reviewedAt": "2026-11-08"
     }
   },
@@ -18767,17 +18762,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/mi-occ-byteme-lil-necro-game-web/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg"
-      ],
-      "languages": [
-        "en"
-      ],
-      "nsfw": false,
+      "gameSlug": "lil-necro",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-08"
+      "nsfw": false,
+      "reviewedAt": "2026-11-08",
+      "reviewedSourceHeadSha": "9d3949656c58c761f416b7128129dacb4be9a522"
     }
   },
   {
@@ -18866,17 +18855,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/tw123777tw-LittleDifficulty0.9.3/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg"
-      ],
-      "languages": [
-        "en"
-      ],
-      "nsfw": false,
+      "gameSlug": "little-difficulty",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-08"
+      "nsfw": false,
+      "reviewedAt": "2026-11-08",
+      "reviewedSourceHeadSha": "af1a876f5d1262394df12ebd95a7f95b2142369d"
     }
   },
   {
@@ -19019,21 +19002,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/InitialGProject-InitialGProject/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "aliases": [
-        "Los Mundos Encadenados"
-      ],
-      "genres": [
-        "rpg"
-      ],
-      "languages": [
-        "es"
-      ],
-      "nsfw": false,
+      "gameSlug": "zerion",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
+      "nsfw": false,
       "reviewedAt": "2026-11-08",
-      "title": "Zerion"
+      "reviewedSourceHeadSha": "0645e67f660bff5b7fec339b513392851806813b"
     }
   },
   {
@@ -19063,18 +19036,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/GideonMire-LOST-AMONG-THE-STARS/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg",
-        "sci-fi"
-      ],
-      "languages": [
-        "en"
-      ],
-      "nsfw": false,
+      "gameSlug": "lost-among-the-stars",
       "playable": true,
-      "popularity": 3,
-      "rating": 5,
-      "reviewedAt": "2026-11-08"
+      "nsfw": false,
+      "reviewedAt": "2026-11-08",
+      "reviewedSourceHeadSha": "93964f4e940605e3c9dd57e4d54c68780c9de59d"
     }
   },
   {
@@ -19179,17 +19145,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/timmetry-LostInAmaze/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg"
-      ],
-      "languages": [
-        "en"
-      ],
-      "nsfw": false,
+      "gameSlug": "lostinamaze",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-08"
+      "nsfw": false,
+      "reviewedAt": "2026-11-08",
+      "reviewedSourceHeadSha": "90231b1e6ee2ae373832777df9f087034abd85c1"
     }
   },
   {
@@ -19252,17 +19212,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/miguelarcjr-lucys-hotel/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "simulation"
-      ],
-      "languages": [
-        "pt"
-      ],
-      "nsfw": false,
+      "gameSlug": "lucys-hotel-2",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-08"
+      "nsfw": false,
+      "reviewedAt": "2026-11-08",
+      "reviewedSourceHeadSha": "668c217e086ab6814160bedf03984e03a1c2ad95"
     }
   },
   {
@@ -19327,18 +19281,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/kellym19-Luxx/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "adventure",
-        "slice-of-life"
-      ],
-      "languages": [
-        "en"
-      ],
-      "nsfw": false,
+      "gameSlug": "luxx",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-08"
+      "nsfw": false,
+      "reviewedAt": "2026-11-08",
+      "reviewedSourceHeadSha": "2e9d4171d90292671da679ee2fd10d0bffce3144"
     }
   },
   {
@@ -19365,18 +19312,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/tensaiando-remonaquest/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg",
-        "fantasy"
-      ],
-      "languages": [
-        "ja"
-      ],
-      "nsfw": false,
+      "gameSlug": "lv1-succubus-musou",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-08"
+      "nsfw": true,
+      "reviewedAt": "2026-11-08",
+      "reviewedSourceHeadSha": "e546fe810c21dd64e873a69d5362e838e805dea7"
     }
   },
   {
@@ -19478,16 +19418,8 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/CollinSumrell-Sunset-Valley/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "adventure"
-      ],
-      "languages": [
-        "en"
-      ],
+      "playable": false,
       "nsfw": false,
-      "playable": true,
-      "popularity": 2,
-      "rating": 5,
       "reviewedAt": "2026-11-07"
     }
   },

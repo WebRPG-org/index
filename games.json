@@ -14563,6 +14563,591 @@
       "contentAdvisory": {
         "nsfw": false
       }
+    },
+    "lil-necro": {
+      "schemaVersion": 1,
+      "slug": "lil-necro",
+      "originalTitle": "Lil Necro",
+      "taxonomy": {
+        "genres": [
+          "rpg",
+          "adventure"
+        ],
+        "themes": [
+          "fantasy"
+        ],
+        "contentType": "full-game",
+        "mechanics": [
+          "puzzle"
+        ]
+      },
+      "developers": [],
+      "media": {
+        "cover": "https://webrpg.org/mi-occ-byteme-lil-necro-game-web/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "mi-occ-byteme-lil-necro-game-web",
+          "title": "Lil Necro",
+          "languages": [
+            "en"
+          ],
+          "nsfw": false
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/mi-occ-byteme/lil-necro-game-web",
+          "https://webrpg.org/mi-occ-byteme-lil-necro-game-web/"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 1,
+      "assessedAt": "2026-11-13",
+      "assessmentSources": [
+        "https://github.com/mi-occ-byteme/lil-necro-game-web",
+        "https://webrpg.org/mi-occ-byteme-lil-necro-game-web/"
+      ],
+      "assessmentNote": "No external traces found (search hits are unrelated: a Binding of Isaac familiar, a Tales of Maj'Eyal character); 16 maps / 1349 dialogue lines in-repo (piano/candle/market puzzles, dog soul, diary, May/Minerva quests, blackjack, Joakim's laboratory); repo 0 stars; rating blank; popularity 1.",
+      "translatedTitles": {
+        "zh-Hans": "小死灵",
+        "ja": "リル・ネクロ"
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "小死灵法师冒险游戏：在家中醒来，解开钢琴与蜡烛谜题，收集狗的灵魂与日记，帮助村民梅与密涅瓦，最终深入乔基姆的实验室。16 张地图、1349 行对白。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "A young necromancer adventure: wake up at home, solve piano and candle puzzles, gather a dog's soul and a diary, help villagers May and Minerva, and finally enter Joakim's laboratory. 16 maps, 1,349 dialogue lines.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "若きネクロマンサーの冒険。家で目覚め、ピアノと蝋燭の謎を解き、犬の魂と日記を集め、村人メイとミネルヴァを助け、最後にジョアキムの研究所へ向かう。16マップ・1349行の台詞。",
+          "editorialStatus": "draft"
+        }
+      },
+      "contentAdvisory": {
+        "nsfw": false
+      }
+    },
+    "little-difficulty": {
+      "schemaVersion": 1,
+      "slug": "little-difficulty",
+      "originalTitle": "Little Difficulty ver0.9.3",
+      "taxonomy": {
+        "genres": [
+          "rpg"
+        ],
+        "themes": [
+          "fantasy"
+        ],
+        "contentType": "full-game"
+      },
+      "developers": [],
+      "media": {
+        "cover": "https://webrpg.org/tw123777tw-LittleDifficulty0.9.3/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "tw123777tw-littledifficulty0-9-3",
+          "title": "Little Difficulty ver0.9.3",
+          "languages": [
+            "zh-Hans"
+          ],
+          "nsfw": false
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/tw123777tw/LittleDifficulty0.9.3",
+          "https://webrpg.org/tw123777tw-LittleDifficulty0.9.3/"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 1,
+      "assessedAt": "2026-11-13",
+      "assessmentSources": [
+        "https://github.com/tw123777tw/LittleDifficulty0.9.3",
+        "https://webrpg.org/tw123777tw-LittleDifficulty0.9.3/"
+      ],
+      "assessmentNote": "No external traces found (Japanese 'リトルディフィカルティ' search also no direct hit); 16 maps / 1912 dialogue lines in-repo, all Simplified Chinese (languages corrected [en] -> [zh-Hans]); README says this fork is a Chinese localization published 2022-07 by JellyTea Gransera, original a Japanese free game; full-dialogue scan finds zero nsfw keywords, goddess/feet theme is a combat mechanic, nsfw stays false; ja title is a transliteration (no official Japanese title found); repo 0 stars; rating blank; popularity 1.",
+      "translatedTitles": {
+        "zh-Hans": "小小困难",
+        "ja": "リトル・ディフィカルティ"
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "被女神缩小后的试炼 RPG：主角被变成小人，须通过女神设下的种种试炼——包括与她的脚一对一战斗，并完成女仆任务、选择难度（简单/普通/困难/EX）。16 张地图、1912 行对白（本移植版为简体中文汉化）。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "A trial RPG about a hero shrunk by a goddess: reduced to tiny size, you must survive her trials — including fighting her feet one-on-one — complete a maid quest, and pick a difficulty (Easy/Normal/Hard/EX). 16 maps, 1,912 dialogue lines (this build is the Simplified Chinese localization).",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "女神に小さくされた主人公の試練RPG。豆粒ほどに縮められた主人公は、女神の足との一対一の戦いを含む試練を乗り越え、メイドクエストをこなし、難易度（イージー/ノーマル/ハード/EX）を選ぶ。16マップ・1912行の台詞（本ビルドは簡体字中国語ローカライズ）。",
+          "editorialStatus": "draft"
+        }
+      },
+      "contentAdvisory": {
+        "nsfw": false
+      }
+    },
+    "zerion": {
+      "schemaVersion": 1,
+      "slug": "zerion",
+      "originalTitle": "Zerion",
+      "taxonomy": {
+        "genres": [
+          "rpg"
+        ],
+        "themes": [
+          "fantasy"
+        ],
+        "contentType": "full-game"
+      },
+      "developers": [],
+      "media": {
+        "cover": "https://webrpg.org/InitialGProject-InitialGProject/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "initialgproject-initialgproject",
+          "title": "Zerion",
+          "languages": [
+            "es"
+          ],
+          "nsfw": false
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/InitialGProject/InitialGProject",
+          "https://webrpg.org/InitialGProject-InitialGProject/"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 1,
+      "assessedAt": "2026-11-13",
+      "assessmentSources": [
+        "https://github.com/InitialGProject/InitialGProject",
+        "https://webrpg.org/InitialGProject-InitialGProject/"
+      ],
+      "assessmentNote": "No external traces found (search hits are unrelated: a crypto wallet and the UAB thesis game Zelerion); 20 maps / 169 dialogue lines in-repo (guild class selection, warrior/mage emblems, crystal quests at the altar and sacred lake); System.json/MapInfos verified via the webrpg mirror (GitHub raw unreachable); in-game title 'Zerion', list title 'Los Mundos Encadenados' kept as aliases.es; repo 0 stars; rating blank; popularity 1.",
+      "translatedTitles": {
+        "zh-Hans": "泽里昂",
+        "ja": "ゼリオン"
+      },
+      "aliases": {
+        "es": [
+          "Los Mundos Encadenados"
+        ]
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "西班牙语奇幻 RPG：在公会选择初始职业（战士/法师徽章），接取任务，追寻祭坛与圣湖的水晶。20 张地图、169 行对白。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "A Spanish fantasy RPG: choose your first class at the guild (warrior or mage emblem), take on missions, and chase the crystals at the altar and the sacred lake. 20 maps, 169 dialogue lines.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "スペイン語のファンタジーRPG。ギルドで初期クラス（戦士/魔法使いの紋章）を選び、依頼を受け、祭壇と聖なる湖の結晶を追う。20マップ・169行の台詞。",
+          "editorialStatus": "draft"
+        }
+      },
+      "contentAdvisory": {
+        "nsfw": false
+      }
+    },
+    "lost-among-the-stars": {
+      "schemaVersion": 1,
+      "slug": "lost-among-the-stars",
+      "originalTitle": "LOST AMONG THE STARS",
+      "taxonomy": {
+        "genres": [
+          "rpg"
+        ],
+        "themes": [
+          "sci-fi"
+        ],
+        "contentType": "full-game"
+      },
+      "developers": [],
+      "media": {
+        "cover": "https://webrpg.org/GideonMire-LOST-AMONG-THE-STARS/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "gideonmire-lost-among-the-stars",
+          "title": "LOST AMONG THE STARS",
+          "languages": [
+            "en"
+          ],
+          "nsfw": false
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/GideonMire/LOST-AMONG-THE-STARS",
+          "https://webrpg.org/GideonMire-LOST-AMONG-THE-STARS/"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 1,
+      "assessedAt": "2026-11-13",
+      "assessmentSources": [
+        "https://github.com/GideonMire/LOST-AMONG-THE-STARS",
+        "https://webrpg.org/GideonMire-LOST-AMONG-THE-STARS/"
+      ],
+      "assessmentNote": "No external traces found (all search hits are other games: Exnilo's Rivage chapter, a TBA Steam title, Echo Generation 2 copy); 23 maps / 634 dialogue lines in-repo (README: 5 levels, in-game currency, dynamically scripted events, galactic conflict); old popularity 3 had no search basis, re-scored 1; repo 0 stars; rating blank; popularity 1.",
+      "translatedTitles": {
+        "zh-Hans": "迷失星海",
+        "ja": "星々に迷い込む"
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "太空剧情 RPG：在星系冲突中穿越五个关卡——飞船、沼泽、恶魔城堡、火山、沙漠星球与废弃沙漠神殿，探索异星世界、揭开秘密。23 张地图、634 行对白。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "A space-themed story RPG: cross five levels — spaceship, swamp, demon castle, volcano, desert planet and an abandoned desert temple — exploring alien worlds and uncovering secrets in a galactic conflict. 23 maps, 634 dialogue lines.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "宇宙を舞台にしたストーリーRPG。宇宙船、沼地、魔王城、火山、砂漠の惑星、廃墟の砂漠神殿——5つのレベルを越えて異星の世界を探索し、銀河の紛争の中で秘密を解き明かす。23マップ・634行の台詞。",
+          "editorialStatus": "draft"
+        }
+      },
+      "contentAdvisory": {
+        "nsfw": false
+      }
+    },
+    "lostinamaze": {
+      "schemaVersion": 1,
+      "slug": "lostinamaze",
+      "originalTitle": "LostInAmaze",
+      "taxonomy": {
+        "genres": [
+          "rpg",
+          "puzzle"
+        ],
+        "themes": [
+          "fantasy"
+        ],
+        "contentType": "full-game"
+      },
+      "developers": [],
+      "media": {
+        "cover": "https://webrpg.org/timmetry-LostInAmaze/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "timmetry-lostinamaze",
+          "title": "LostInAmaze",
+          "languages": [
+            "en"
+          ],
+          "nsfw": false
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/timmetry/LostInAmaze",
+          "https://webrpg.org/timmetry-LostInAmaze/"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 1,
+      "assessedAt": "2026-11-13",
+      "assessmentSources": [
+        "https://github.com/timmetry/LostInAmaze",
+        "https://webrpg.org/timmetry-LostInAmaze/"
+      ],
+      "assessmentNote": "No external traces found (search hits are other maze games); 19 maps / 372 dialogue lines in-repo (three character starts with own mazes, puzzle map, LadyLynne backstory; README says 'in progress' but shipped content is substantial); 'fuck' hit is a developer event note ('Fuck this weirdo'), not dialogue, nsfw stays false; repo 0 stars; rating blank; popularity 1.",
+      "translatedTitles": {
+        "zh-Hans": "迷失迷宫",
+        "ja": "ロストインアメイズ"
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "三兄弟合作的迷宫 RPG：创建角色，选择英雄、法师或牧师三种开局，各自穿越专属迷宫、解开谜题，揭开林恩夫人的往事。19 张地图、372 行对白。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "A maze RPG by three brothers: create a character and pick one of three starts — Hero, Sorcerer or Cleric — each with its own maze, solving puzzles and uncovering Lady Lynne's backstory. 19 maps, 372 dialogue lines.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "三兄弟による迷宮RPG。キャラクターを作成し、ヒーロー/ソーサラー/クレリックの3つのスタートから選び、それぞれ専用の迷宮を進み、謎を解いてレディ・リンの過去を明かす。19マップ・372行の台詞。",
+          "editorialStatus": "draft"
+        }
+      },
+      "contentAdvisory": {
+        "nsfw": false
+      }
+    },
+    "lucys-hotel-2": {
+      "schemaVersion": 1,
+      "slug": "lucys-hotel-2",
+      "originalTitle": "Lucy's Hotel 2",
+      "taxonomy": {
+        "genres": [
+          "simulation"
+        ],
+        "themes": [],
+        "contentType": "full-game",
+        "mechanics": [
+          "management"
+        ]
+      },
+      "developers": [],
+      "media": {
+        "cover": "https://webrpg.org/miguelarcjr-lucys-hotel/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "miguelarcjr-lucys-hotel",
+          "title": "Lucy's Hotel 2",
+          "languages": [
+            "pt"
+          ],
+          "nsfw": false
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/miguelarcjr/lucys-hotel",
+          "https://webrpg.org/miguelarcjr-lucys-hotel/"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 1,
+      "assessedAt": "2026-11-13",
+      "assessmentSources": [
+        "https://github.com/miguelarcjr/lucys-hotel",
+        "https://webrpg.org/miguelarcjr-lucys-hotel/"
+      ],
+      "assessmentNote": "No external traces found (search hits are unrelated works); 4 maps / 170 events / 314 dialogue lines in-repo (buy apartments, rent to 10 clients, street vendor; single hotel building, 0 transfers); repo 0 stars; rating blank; popularity 1.",
+      "translatedTitles": {
+        "zh-Hans": "露西的旅馆 2",
+        "ja": "ルーシーのホテル2"
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "葡语酒店经营模拟：从买下第一间公寓开始，把房间租给十位客人，逐步实现拥有大型连锁酒店的梦想。4 张地图、314 行对白。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "A Portuguese hotel-management simulation: start by buying your first apartment, rent rooms to ten clients, and grow toward your dream of a big hotel chain. 4 maps, 314 dialogue lines.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "ポルトガル語のホテル経営シミュレーション。最初のアパートを買うところから始め、10人の客に部屋を貸し、大きなホテルチェーンを持つ夢へ近づく。4マップ・314行の台詞。",
+          "editorialStatus": "draft"
+        }
+      },
+      "contentAdvisory": {
+        "nsfw": false
+      }
+    },
+    "luxx": {
+      "schemaVersion": 1,
+      "slug": "luxx",
+      "originalTitle": "Luxx",
+      "taxonomy": {
+        "genres": [
+          "adventure"
+        ],
+        "themes": [
+          "slice-of-life"
+        ],
+        "contentType": "prototype",
+        "mechanics": [
+          "stealth"
+        ]
+      },
+      "developers": [],
+      "media": {
+        "cover": "https://webrpg.org/kellym19-Luxx/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "kellym19-luxx",
+          "title": "Luxx",
+          "languages": [
+            "en"
+          ],
+          "nsfw": false
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/kellym19/Luxx",
+          "https://webrpg.org/kellym19-Luxx/"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 1,
+      "assessedAt": "2026-11-13",
+      "assessmentSources": [
+        "https://github.com/kellym19/Luxx",
+        "https://webrpg.org/kellym19-Luxx/"
+      ],
+      "assessmentNote": "No external traces found (search hits are unrelated Lux games: Luxury Inc, Lux Broker); 2 maps / 21 dialogue lines in-repo (30-second trial shift to find the manager, crouch/Breath Mode stealth, hidden vent area, complete micro-loop with a win state); README calls it a two-week prototype that 'plays for a few minutes' -> contentType prototype; repo 0 stars; rating blank; popularity 1.",
+      "translatedTitles": {
+        "zh-Hans": "拉克斯",
+        "ja": "ラックス"
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "奢侈品牌店员小品：在高级服装品牌 Luxx 担任新人，30 秒试用班内要在店里找到躲起来的经理——可潜行（屏息模式），通风口后藏着隐藏区域。2 张地图、21 行对白，两周制作的原型。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "A luxury-brand clerk micro-game: as the new hire at clothing brand Luxx, you have 30 seconds of trial shift to find the manager hiding in the store — crouch with the Breath Mode stealth mechanic and slip through a hidden vent area. 2 maps, 21 dialogue lines, a two-week prototype.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "高級アパレルブランドLuxxの新人店員を描く小品。30秒の試用シフトの間に店内に隠れたマネージャーを見つけ出す。ブレスモードのステルス（しゃがみ）と通気口の先の隠しエリアあり。2マップ・21行の台詞。2週間で作られたプロトタイプ。",
+          "editorialStatus": "draft"
+        }
+      },
+      "contentAdvisory": {
+        "nsfw": false
+      }
+    },
+    "lv1-succubus-musou": {
+      "schemaVersion": 1,
+      "slug": "lv1-succubus-musou",
+      "originalTitle": "Lv1サキュバス無双",
+      "taxonomy": {
+        "genres": [
+          "rpg"
+        ],
+        "themes": [
+          "fantasy"
+        ],
+        "contentType": "full-game",
+        "mechanics": [
+          "stage-clear"
+        ]
+      },
+      "developers": [],
+      "media": {
+        "cover": "https://webrpg.org/tensaiando-remonaquest/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "tensaiando-remonaquest",
+          "title": "Lv1サキュバス無双",
+          "languages": [
+            "ja"
+          ],
+          "nsfw": true
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/tensaiando/remonaquest",
+          "https://webrpg.org/tensaiando-remonaquest/"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 1,
+      "assessedAt": "2026-11-13",
+      "assessmentSources": [
+        "https://github.com/tensaiando/remonaquest",
+        "https://webrpg.org/tensaiando-remonaquest/"
+      ],
+      "assessmentNote": "No direct external hit for this game (search hits are other succubus games); 53 maps / 123 dialogue lines in-repo (3 stages + bosses + rest areas, protagonist Remona); nsfw false -> true: System.json has 'フェラ', maps have 'エロ'/'触手', switches include 手コキ/フェラ/素股/騎乗位/立ちバック尻コキ素体 and スク水/セーラー/ブルマ/下着, opening dialogue '痛みはすべて快楽に変わる… 淫魔なら耐えて見せよ…'; System.json/MapInfos verified via the webrpg mirror (GitHub raw unreachable); repo 0 stars; rating blank; popularity 1.",
+      "translatedTitles": {
+        "zh-Hans": "Lv1魅魔无双",
+        "en": "Lv1 Succubus Musou"
+      },
+      "aliases": {
+        "ja": [
+          "レモナクエスト"
+        ]
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "日式成人向关卡 RPG：Lv1 魅魔雷蒙娜掉进魔物巢穴，获得“痛觉转换”之力（痛楚化为快感），穿越三层机关迷宫、隐藏墙与传送门，击败 Boss。53 张地图、123 行对白。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "A Japanese adult stage RPG: Remona, a level-1 succubus, falls into a monster-infested hole, gains 'pain conversion' (pain turns to pleasure), and fights through three stages of gimmick enemies, hidden walls, warps and bosses. 53 maps, 123 dialogue lines.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "日本の成人向けステージRPG。Lv1サキュバスのレモナは魔物の巣食う穴に落ち、「痛覚変換」（痛みが快楽に変わる）の力を得て、仕掛け敵、隠し壁、ワープ、ボスの待つ3つのステージを進む。53マップ・123行の台詞。",
+          "editorialStatus": "draft"
+        }
+      },
+      "contentAdvisory": {
+        "nsfw": true,
+        "warnings": [
+          "explicit sexual content"
+        ]
+      }
     }
   }
 }
