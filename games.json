@@ -22393,6 +22393,461 @@
       "contentAdvisory": {
         "nsfw": false
       }
+    },
+    "summoner-support": {
+      "schemaVersion": 1,
+      "slug": "summoner-support",
+      "originalTitle": "Summoner Support",
+      "taxonomy": {
+        "genres": [
+          "rpg"
+        ],
+        "themes": [
+          "fantasy",
+          "comedy",
+          "romance"
+        ],
+        "contentType": "full-game",
+        "mechanics": [
+          "summoning"
+        ]
+      },
+      "developers": [
+        {
+          "name": "Lizzy Donahue"
+        },
+        {
+          "name": "John Tran",
+          "url": "https://github.com/Excel"
+        },
+        {
+          "name": "Kate Lubeck"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/Excel-magic-tech/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "excel-magic-tech",
+          "title": "Summoner Support",
+          "languages": [
+            "en"
+          ],
+          "nsfw": false
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/Excel/magic-tech",
+          "https://webrpg.org/Excel-magic-tech/"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 1,
+      "assessedAt": "2026-11-13",
+      "assessmentSources": [
+        "https://github.com/Excel/magic-tech",
+        "https://webrpg.org/Excel-magic-tech/"
+      ],
+      "assessmentNote": "No external traces found (no Steam/itch/Game Jolt/freem/media record; the only source is the GitHub repo itself). In-repo: 8 maps / 124 events / 1016 English dialogue lines / 17 transfers, with battles, shops, choices and name input — classroom review ('this will be review for most of you, but today we're going to do some basic troubleshooting on a faulty demon'), four summoning rituals with ingredient variables (Summon Kernalle / Herd / Chain / Xinul, 'Poem: The Herd' / 'Poem: The Chain Grub'), dating Xyn ('Date Xyn', 'Shared Snak with Xyn' — 'Snak' is a misspelling of Snack), 'End Bosses', a final exam ('I'm an adjunct professor, this is your final exam, I'm not getting paid enough for this nonsense') and an ending scene ('Room - End Scene', AndroNT's farewell). The game itself notes skipped middle content ('Many days have passed because it would take too long to get the rest of the content in here, so we're skipping to the final exam'), but the arc is complete. The repo was created 2016-01-30, coinciding with Global Game Jam 2016 (theme 'Ritual'), but no GGJ page for the game was found, so a jam link is unconfirmed and not claimed. nsfw false (the romance line is a school crush, no sexual content). Not to be confused with Fire Emblem Heroes' 'Summoner Support' mechanic or the 2001 game Summoner. Repo 0 stars; rating blank; popularity 1.",
+      "introductions": {
+        "zh-Hans": {
+          "summary": "英语召唤师校园 RPG：新手支援召唤师学徒 Aeryn 在恶魔科技世界里学习故障排查——修理失灵的个人魔宠、收集仪式材料、召唤 Kernalle、Herd、Chain 与 Xinul 四种恶魔，同时暗恋着同学 Xyn；从课堂复习到期末考试再到结局场景，是一部完整短篇。作者 Lizzy Donahue、John Tran 与 Kate Lubeck。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "An English summoner-school RPG: the novice support summoner Aeryn learns break/fix troubleshooting in a world of demonic technology — repairing faulty personal covens, gathering ritual ingredients and summoning four demons (Kernalle, Herd, Chain and Xinul) — while nursing a crush on classmate Xyn. From classroom review to the final exam and an ending scene, it is a complete short game by Lizzy Donahue, John Tran and Kate Lubeck.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "英語のサモナー学園RPG。新米サポートサモナーの Aeryn は、悪魔テクノロジーの世界で故障対応を学ぶ——故障したパーソナル・カヴンを修理し、儀式の材料を集め、Kernalle、Herd、Chain、Xinul の4体の悪魔を召喚する。一方でクラスメイトの Xyn に片思い中。授業の復習から最終試験、エンディングまで完結した短編。作者は Lizzy Donahue、John Tran、Kate Lubeck。",
+          "editorialStatus": "draft"
+        }
+      },
+      "contentAdvisory": {
+        "nsfw": false
+      }
+    },
+    "survival": {
+      "schemaVersion": 1,
+      "slug": "survival",
+      "originalTitle": "Survival",
+      "taxonomy": {
+        "genres": [
+          "rpg"
+        ],
+        "themes": [
+          "fantasy"
+        ],
+        "contentType": "full-game",
+        "mechanics": [
+          "quest"
+        ]
+      },
+      "developers": [
+        {
+          "name": "Momoriarty",
+          "url": "https://github.com/Momoriarty"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/Momoriarty-SurvivalGame/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "momoriarty-survivalgame",
+          "title": "Survival",
+          "languages": [
+            "id"
+          ],
+          "nsfw": false
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/Momoriarty/SurvivalGame",
+          "https://webrpg.org/Momoriarty-SurvivalGame/"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 1,
+      "assessedAt": "2026-11-13",
+      "assessmentSources": [
+        "https://github.com/Momoriarty/SurvivalGame",
+        "https://webrpg.org/Momoriarty-SurvivalGame/"
+      ],
+      "assessmentNote": "No external traces found (no Steam/itch/Game Jolt/media record; the only source is the GitHub repo itself, created 2026-04-08, 55 commits). In-repo: 6 maps / 58 events / 95 Indonesian dialogue lines / 15 transfers, with battles, shops, choices and name input — quest switches Misi_Sayur (vegetable mission), Quest_Kucing (lost-cat quest), Mc_jadi_dewasa (growing up), Putri selamat (princess rescued), Kereta pergi (train departs); dialogue: 'oiya beli sayurnya 3 ikat yaa' (buy 3 bunches of vegetables), 'Meoow~ (Makasih sudah anterin anakku!)' (the cat's thanks), 'Bergabunglah denganku untuk menyelamatkan Sang Putri' (join me to save the Princess), 'Kau mau sang putri? mari kita bertarung' (you want the princess? let's fight). YEP_QuestJournal + Vehicle4_System plugins. No README. nsfw false. 'Survival' is a generic title — not to be confused with Murim Survival, Morgierra: Survivor, The Greatest Survival, SurVive (R18+) or any other survival game; Momoriarty is not Brian Moriarty (Infocom's Loom author). Repo 0 stars; rating blank; popularity 1.",
+      "introductions": {
+        "zh-Hans": {
+          "summary": "印尼语村庄 RPG：主角从孩童长大成人，在小村庄里生活——帮妈妈买菜、找回走失的猫、去市场岛购物、坐火车出行，最终为救回被掳走的公主与敌人一战。6 张地图、95 行对白的完整小品。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "An Indonesian village RPG: the protagonist grows from a child into an adult in a small village — buying vegetables for mother, finding a lost cat, shopping on the market island and riding the train — and finally fights to rescue the kidnapped princess. A complete short game: 6 maps, 95 dialogue lines.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "インドネシア語の村RPG。主人公は小さな村で子どもから大人へ成長する——母の頼みで野菜を買い、迷子の猫を探し、市場島で買い物をし、列車に乗る。最後はさらわれた姫を救うため敵と戦う。6マップ・95行の台詞の完結した短編。",
+          "editorialStatus": "draft"
+        }
+      },
+      "contentAdvisory": {
+        "nsfw": false
+      }
+    },
+    "so-mais-um-teste": {
+      "schemaVersion": 1,
+      "slug": "so-mais-um-teste",
+      "originalTitle": "Só Mais Um Teste",
+      "taxonomy": {
+        "genres": [
+          "adventure"
+        ],
+        "themes": [
+          "educational"
+        ],
+        "contentType": "full-game",
+        "mechanics": [
+          "quiz"
+        ]
+      },
+      "developers": [
+        {
+          "name": "Melinh0",
+          "url": "https://github.com/Melinh0"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/Melinh0-Extensao2-Jogo/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "melinh0-extensao2-jogo",
+          "title": "Só Mais Um Teste",
+          "languages": [
+            "pt"
+          ],
+          "nsfw": false
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/Melinh0/Extensao2-Jogo",
+          "https://webrpg.org/Melinh0-Extensao2-Jogo/"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 1,
+      "assessedAt": "2026-11-13",
+      "assessmentSources": [
+        "https://github.com/Melinh0/Extensao2-Jogo",
+        "https://webrpg.org/Melinh0-Extensao2-Jogo/"
+      ],
+      "assessmentNote": "No external traces found (no Steam/itch/Game Jolt/media record; the only source is the GitHub repo itself, created 2025-01-15, 15 commits, 1 star). In-repo: 5 maps / 7 events / 101 Portuguese dialogue lines / 4 transfers, with choices and game-over states — opening scene (Darlin at his desk: 'Mais um dia... Mais um bug... Será que algum dia isso vai acabar?', deadline tomorrow 9h), three quiz gates ('Para que serve um teste de regressão?', 'Qual é o objetivo principal dos testes de software?', 'O que é um \"caso de teste\" em testes de software?'), score counter (Contador de Acertos) and a final cutscene (Eco: 'Parabéns, Darlin. Você passou no primeiro teste, mas isso é só o começo.'). The README describes it as an educational game mixing interactive narrative with software-testing challenges. 'Só Mais Um Teste' is a common Portuguese phrase; the Wiki Sporting test-edit pages found in search are unrelated. nsfw false. No official or common translation exists (the literal 'Just One More Test' is not an official title), so translatedTitles are left blank. Repo 1 star; rating blank; popularity 1.",
+      "introductions": {
+        "zh-Hans": {
+          "summary": "葡语教育问答 RPG：软件测试员 Darlin 加班到深夜，被困在一个必须答对测试题才能逃出的世界——回归测试、测试目标、测试用例三道关卡，答错即 Game Over；开场与结局过场完整。Melinh0 的课程作品。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "A Portuguese educational quiz RPG: software tester Darlin, working late into the night, is trapped in a world he can only escape by answering testing questions correctly — regression testing, the purpose of testing, and test cases across three gates, with a wrong answer meaning game over. Opening and ending cutscenes included; a course project by Melinh0.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "ポルトガル語の教育クイズRPG。ソフトウェアテスターの Darlin は深夜まで残業し、テスト問題に正解しなければ脱出できない世界に閉じ込められる——回帰テスト、テストの目的、テストケースの3つの関門。不正解はゲームオーバー。オープニングとエンディングのカットシーン付き。Melinh0 の授業作品。",
+          "editorialStatus": "draft"
+        }
+      },
+      "contentAdvisory": {
+        "nsfw": false
+      }
+    },
+    "tefa-b": {
+      "schemaVersion": 1,
+      "slug": "tefa-b",
+      "originalTitle": "Tefa-B",
+      "taxonomy": {
+        "genres": [
+          "simulation"
+        ],
+        "themes": [
+          "slice-of-life",
+          "educational"
+        ],
+        "contentType": "full-game",
+        "mechanics": [
+          "day-cycle",
+          "quiz"
+        ]
+      },
+      "developers": [
+        {
+          "name": "emowbaik",
+          "url": "https://github.com/emowbaik"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/emowbaik-project-Tefa-B/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "emowbaik-project-tefa-b",
+          "title": "Tefa-B",
+          "languages": [
+            "id"
+          ],
+          "nsfw": false
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/emowbaik/project-Tefa-B",
+          "https://webrpg.org/emowbaik-project-Tefa-B/"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 1,
+      "assessedAt": "2026-11-13",
+      "assessmentSources": [
+        "https://github.com/emowbaik/project-Tefa-B",
+        "https://webrpg.org/emowbaik-project-Tefa-B/"
+      ],
+      "assessmentNote": "No external traces found (no Steam/itch/media record; the only source is the GitHub repo itself, created 2023-04-06, a single commit). In-repo: 13 maps / 156 events / 158 map dialogue lines + 114 CommonEvents dialogue lines / 49 transfers, with shops, choices and game-over states — 100 CommonEvents carrying the day cycle (Hari kedua … Hari ketujuh), orientation (Upacara), sports class, exams (Ujian) and subject quizzes ('1. Apa yang dimaksud dengan gameplay?', '5. Apa itu Arduino?'), plus a book-delivery quest ('Berikan buku ini kepada siswa yang ada di musholla') and PC/mobile control tutorials ('Selamat datang di tutorial bermain Tefa B, untuk platform pc'). 'TEFA' is the Indonesian vocational-school concept Teaching Factory, and SMKN 2 Banjarmasin does have a PPLG major (school site confirms) — that is background for the game's setting, not a record of the game itself. No README. nsfw false. 'Tefa-B' looks like a project codename, not a translatable title, so translatedTitles are left blank. Repo 0 stars; rating blank; popularity 1.",
+      "introductions": {
+        "zh-Hans": {
+          "summary": "印尼语校园生活模拟 RPG：SMKN 2 Banjarmasin 职校 PPLG 专业（软件与游戏开发）的新生一周——新生军训、课堂测验、送书任务与考试，7 天制昼夜循环，附 PC 与手机双平台操作教程。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "An Indonesian school-life simulation RPG: a week in the life of a new student in the PPLG major (software and game development) at SMKN 2 Banjarmasin — orientation week, class quizzes, a book-delivery quest and exams across a 7-day cycle, with tutorials for both PC and mobile controls.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "インドネシア語の学校生活シミュレーションRPG。SMKN 2 Banjarmasin 職業高校の PPLG 専攻（ソフトウェアとゲーム開発）に入学した新入生の一週間——新入生オリエンテーション、授業のクイズ、本の配達クエスト、試験。7日間の昼夜サイクルで、PCとモバイル両方の操作チュートリアル付き。",
+          "editorialStatus": "draft"
+        }
+      },
+      "contentAdvisory": {
+        "nsfw": false
+      }
+    },
+    "temple-of-object": {
+      "schemaVersion": 1,
+      "slug": "temple-of-object",
+      "originalTitle": "Temple of Object",
+      "taxonomy": {
+        "genres": [
+          "adventure",
+          "puzzle"
+        ],
+        "themes": [
+          "fantasy"
+        ],
+        "contentType": "full-game",
+        "mechanics": [
+          "sliding-tile"
+        ]
+      },
+      "developers": [
+        {
+          "name": "rtlh0",
+          "url": "https://github.com/rtlh0"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/rtlh0-objectverse/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "rtlh0-objectverse",
+          "title": "Temple of Object",
+          "languages": [
+            "en"
+          ],
+          "nsfw": false
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/rtlh0/objectverse",
+          "https://webrpg.org/rtlh0-objectverse/"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 1,
+      "assessedAt": "2026-11-13",
+      "assessmentSources": [
+        "https://github.com/rtlh0/objectverse",
+        "https://webrpg.org/rtlh0-objectverse/"
+      ],
+      "assessmentNote": "No external traces found (no Steam/itch/Game Jolt/media record; the only source is the GitHub repo itself, created 2022-02-17, 5 commits). In-repo: 15 maps / 272 events / 539 English dialogue lines / 30 transfers, with choices and name input — seven puzzle chambers with completion switches (Puzzle 1–7 Complete) and saint apparitions ('Behold, for I am Saint Rats, First of the Saints, First of the Horsemen'), sliding-tile image restoration ('I restored the image, and immediately an apparition of the saint stood before me...'), the Chasm of Faith, the throne-room summoning ('We are all here at last. Are we ready to summon Object to his throne?'), the Prophetburo side plot ('Meanwhile, in a distant world controlled by the Prophetburo'), an Ibiza interlude and a phone-call ending ('Hello? Commiseriat for Interstellar Socialism, how I can I help?'), plus a time-attack mode ('Select challenge time to reach throne room'). No README. nsfw false. Not to be confused with the Temple of Suul (Onverse wiki), the object-show fanon 'Objectverse', or TempleOS. No official or common translation exists, so translatedTitles are left blank. Repo 0 stars; rating blank; popularity 1.",
+      "introductions": {
+        "zh-Hans": {
+          "summary": "英语解谜冒险 RPG：记录员走进 Object 神庙，修复七座圣殿的画像（Saint Rats、Kimé、Dual Horsemen、Scion、Shadow 等），解开滑动拼图，穿越信仰之壑，抵达王座召唤 Object；另有 Prophetburo 支线、Ibiza 插曲与电话结局，并设限时挑战模式。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "An English puzzle-adventure RPG: a chronicler enters the Temple of Object, restoring the portraits of seven saintly chambers (Saint Rats, Kimé, the Dual Horsemen, Scion, Shadow and more), solving sliding-tile puzzles, crossing the Chasm of Faith and reaching the throne to summon Object — with a Prophetburo side plot, an Ibiza interlude, a phone-call ending and a time-attack mode.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "英語のパズルアドベンチャーRPG。記録者が Object の神殿に入り、7つの聖なる部屋（Saint Rats、Kimé、Dual Horsemen、Scion、Shadow など）の肖像画を修復し、スライディングパズルを解き、信仰の断崖を越えて玉座に至り Object を召喚する。Prophetburo のサブプロット、Ibiza の挿話、電話でのエンディング、タイムアタックモード付き。",
+          "editorialStatus": "draft"
+        }
+      },
+      "contentAdvisory": {
+        "nsfw": false
+      }
+    },
+    "test-quest": {
+      "schemaVersion": 1,
+      "slug": "test-quest",
+      "originalTitle": "Test Quest",
+      "taxonomy": {
+        "genres": [
+          "rpg"
+        ],
+        "themes": [
+          "comedy"
+        ],
+        "contentType": "full-game",
+        "mechanics": [
+          "quest"
+        ]
+      },
+      "developers": [
+        {
+          "name": "scringly",
+          "url": "https://github.com/scringly"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/scringly-TestQuest/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "scringly-testquest",
+          "title": "Test Quest",
+          "languages": [
+            "en"
+          ],
+          "nsfw": false
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/scringly/TestQuest",
+          "https://webrpg.org/scringly-TestQuest/"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 1,
+      "assessedAt": "2026-11-13",
+      "assessmentSources": [
+        "https://github.com/scringly/TestQuest",
+        "https://webrpg.org/scringly-TestQuest/"
+      ],
+      "assessmentNote": "No external traces found (no Steam/itch/media record; the only source is the GitHub repo itself, created 2024-07-27, 21 commits, described 'RPG made with my friend :)'). In-repo: 9 maps / 121 events / 241 English dialogue lines / 29 transfers, with battles, shops and choices — a complete quest chain: rusty key in SewerAccess ('You pocketed the rusty key!'), the Troll Bar ('HEY! ITS ME! THE TROLL GUY WHO GON JOIN UR PARTYY!'), the corporate tower, the trojan kill quest ('Go kill da trojan hiding in our file storage') and the elevator out ('You sense you've killed the trojan'). Quest variables QuestGivenSLKTRL / TrojanIsDead / TrollBarPasscode. FICUS plant battle joke. 'Test Quest' is a generic phrase — not to be confused with Treasure Quest!! (scitydreamer), the arXiv TESTQUEST IntelliJ plugin, or any other 'Quest' game; searching the in-game handle names 'asklghfj5678910' / 'JohnInternet' also returns nothing. No README. nsfw false. No official or common translation exists, so translatedTitles are left blank. Repo 0 stars; rating blank; popularity 1.",
+      "introductions": {
+        "zh-Hans": {
+          "summary": "英语喜剧 RPG：主角钻进下水道与企业大楼，拿走生锈的钥匙、混进 Troll 酒吧、应付自称要入队的 Troll Guy，最后杀死藏在文件库里的 Trojan 病毒、坐电梯离开。9 张地图、241 行对白，角色名多为网友 ID。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "An English comedy RPG: the protagonist crawls through sewers and a corporate tower — pocketing a rusty key, slipping into the Troll Bar, humouring the Troll Guy who insists on joining the party — and finally kills the trojan hiding in the file storage before taking the elevator out. 9 maps, 241 dialogue lines; the characters are named after internet handles.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "英語のコメディRPG。主人公は下水道と企業のビルを進む——錆びた鍵を拾い、Troll Bar に潜り込み、仲間入りを主張する Troll Guy をあしらい、最後はファイル保管庫に潜むトロイの木馬を倒してエレベーターで脱出する。9マップ・241行の台詞。キャラクター名はネットハンドル。",
+          "editorialStatus": "draft"
+        }
+      },
+      "contentAdvisory": {
+        "nsfw": false
+      }
     }
   }
 }

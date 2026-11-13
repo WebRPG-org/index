@@ -29526,18 +29526,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/Melinh0-Extensao2-Jogo/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "adventure",
-        "educational"
-      ],
-      "languages": [
-        "pt"
-      ],
-      "nsfw": false,
+      "gameSlug": "so-mais-um-teste",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-12"
+      "nsfw": false,
+      "reviewedAt": "2026-11-12",
+      "reviewedSourceHeadSha": "a9cebd2962fab8b1921b33fa306beb3a5a1fa642"
     }
   },
   {
@@ -30096,18 +30089,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/Excel-magic-tech/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg",
-        "fantasy"
-      ],
-      "languages": [
-        "en"
-      ],
-      "nsfw": false,
+      "gameSlug": "summoner-support",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-12"
+      "nsfw": false,
+      "reviewedAt": "2026-11-12",
+      "reviewedSourceHeadSha": "fdcf0b248d103864d60faf969d1f806f41cdf99a"
     }
   },
   {
@@ -30137,18 +30123,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/Momoriarty-SurvivalGame/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg"
-      ],
-      "languages": [
-        "id",
-        "en"
-      ],
-      "nsfw": false,
+      "gameSlug": "survival",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-12"
+      "nsfw": false,
+      "reviewedAt": "2026-11-12",
+      "reviewedSourceHeadSha": "79ef5d2a2fe7fab7bb55340114ccd4196bf1d785"
     }
   },
   {
@@ -30325,16 +30304,8 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/Excel-top/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg"
-      ],
-      "languages": [
-        "en"
-      ],
+      "playable": false,
       "nsfw": false,
-      "playable": true,
-      "popularity": 2,
-      "rating": 5,
       "reviewedAt": "2026-11-12"
     }
   },
@@ -30423,17 +30394,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/emowbaik-project-Tefa-B/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg"
-      ],
-      "languages": [
-        "id"
-      ],
-      "nsfw": false,
+      "gameSlug": "tefa-b",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-12"
+      "nsfw": false,
+      "reviewedAt": "2026-11-12",
+      "reviewedSourceHeadSha": "e3ded53650c034431924e069dd9749bf0e5f5836"
     }
   },
   {
@@ -30497,17 +30462,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/rtlh0-objectverse/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "adventure"
-      ],
-      "languages": [
-        "en"
-      ],
-      "nsfw": false,
+      "gameSlug": "temple-of-object",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-12"
+      "nsfw": false,
+      "reviewedAt": "2026-11-12",
+      "reviewedSourceHeadSha": "2012cf20797bc316042ea0477cc94e8c919779b9"
     }
   },
   {
@@ -30596,17 +30555,8 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/sin-hu-study/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "adventure",
-        "slice-of-life"
-      ],
-      "languages": [
-        "ko"
-      ],
+      "playable": false,
       "nsfw": false,
-      "playable": true,
-      "popularity": 2,
-      "rating": 5,
       "reviewedAt": "2026-11-07"
     }
   },
@@ -30693,16 +30643,8 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/firekula-EroGame/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg"
-      ],
-      "languages": [
-        "zh-Hans"
-      ],
+      "playable": false,
       "nsfw": false,
-      "playable": true,
-      "popularity": 2,
-      "rating": 5,
       "reviewedAt": "2026-11-07"
     }
   },
@@ -30769,18 +30711,9 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/MarcusKim442-LostInWonder/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "adventure"
-      ],
-      "languages": [
-        "en"
-      ],
+      "playable": false,
       "nsfw": false,
-      "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-07",
-      "title": "Lost in Wonder"
+      "reviewedAt": "2026-11-07"
     }
   },
   {
@@ -30845,17 +30778,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/scringly-TestQuest/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg"
-      ],
-      "languages": [
-        "en"
-      ],
-      "nsfw": false,
+      "gameSlug": "test-quest",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "nsfw": false,
+      "reviewedAt": "2026-11-07",
+      "reviewedSourceHeadSha": "6104c147ff92882df49fe929cd44c276d2350390"
     }
   },
   {
