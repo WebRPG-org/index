@@ -18859,6 +18859,385 @@
       "contentAdvisory": {
         "nsfw": false
       }
+    },
+    "chiyungjie-rpg20240811": {
+      "schemaVersion": 1,
+      "slug": "chiyungjie-rpg20240811",
+      "originalTitle": "Project2",
+      "taxonomy": {
+        "genres": [
+          "rpg"
+        ],
+        "themes": [
+          "fantasy"
+        ],
+        "contentType": "full-game"
+      },
+      "developers": [
+        {
+          "name": "chiyungjie",
+          "url": "https://github.com/chiyungjie"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/chiyungjie-RPG20240811/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "chiyungjie-rpg20240811",
+          "title": "Project2",
+          "languages": [
+            "zh-Hant"
+          ],
+          "nsfw": false
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/chiyungjie/RPG20240811",
+          "https://webrpg.org/chiyungjie-RPG20240811/"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 1,
+      "assessedAt": "2026-11-13",
+      "assessmentSources": [
+        "https://github.com/chiyungjie/RPG20240811",
+        "https://webrpg.org/chiyungjie-RPG20240811/"
+      ],
+      "assessmentNote": "No external traces found (SAO franchise results only); 10 maps / 54 events / 73 Traditional Chinese dialogue lines in-repo (climb the sky tree to the sky castle; NERvGear + Kayaba Akihiko's opening speech quoted verbatim in the Town of Beginnings; cursed cave, floating city, ice cave, demon castle 3F, inn, ending map; 2 battles + 2 party-adds); title is only 'Project2' (gameTitle + index.html title), slug from repo name (owner + repo, luerl21 precedent); GitHub API rate-limited, stars unverified; rating blank; popularity 1.",
+      "translatedTitles": {
+        "zh-Hans": "项目2",
+        "ja": "プロジェクト2"
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "繁中《刀剑神域》同人 RPG：主角爬上通天巨树来到天空城堡，重演茅场晶彦的开场演说与 NERvGear 完全潜行设定，在起始之城镇、被诅咒的洞窟、漂浮城市、冰窟与恶魔城堡三层之间冒险。10 张地图、73 行对白；游戏内标题仅为 Project2，slug 取自仓库名。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "A Traditional Chinese Sword Art Online fan RPG: the hero climbs the towering sky tree to reach the sky castle, replaying Kayaba Akihiko's opening speech and the NERvGear full-dive premise, adventuring through the Town of Beginnings, the cursed cave, the floating city, the ice cave and the demon castle's third floor. 10 maps, 73 dialogue lines; the in-game title is only 'Project2', so the slug comes from the repository name.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "繁体字中国語の『ソードアート・オンライン』ファンRPG。主人公は天に届く巨木を登って天空の城に辿り着き、茅場晶彦の開幕演説とナーヴギアの完全潜行設定を再現する。はじまりの街、呪われた洞窟、浮遊都市、氷窟、悪魔城3階を冒険する。10マップ・73行の台詞。ゲーム内タイトルは「Project2」のみのため、スラッグはリポジトリ名から取る。",
+          "editorialStatus": "draft"
+        }
+      },
+      "contentAdvisory": {
+        "nsfw": false
+      }
+    },
+    "supshag-yaxnlw": {
+      "schemaVersion": 1,
+      "slug": "supshag-yaxnlw",
+      "originalTitle": "Project3",
+      "taxonomy": {
+        "genres": [
+          "adventure"
+        ],
+        "themes": [
+          "comedy",
+          "slice-of-life"
+        ],
+        "contentType": "full-game"
+      },
+      "developers": [
+        {
+          "name": "supShag",
+          "url": "https://github.com/supShag"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/supShag-YaXNLW/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "supshag-yaxnlw",
+          "title": "Project3",
+          "languages": [
+            "zh-Hans"
+          ],
+          "nsfw": false
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/supShag/YaXNLW",
+          "https://webrpg.org/supShag-YaXNLW/"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 1,
+      "assessedAt": "2026-11-13",
+      "assessmentSources": [
+        "https://github.com/supShag/YaXNLW",
+        "https://webrpg.org/supShag-YaXNLW/"
+      ],
+      "assessmentNote": "No external traces found; 15 maps / 100 events / 514 Simplified Chinese dialogue lines in-repo (club president gathers members Xiaomei/Xiaoxue/Xiaolan, hot-pot plans, infiltration to get a gift, lucky money, stray cat; 8 choices + 8 party-adds, 0 battles so genres [adventure] not [rpg]); title is only 'Project3' (gameTitle + index.html title), slug from repo name (owner + repo); repo 0 stars; rating blank; popularity 1.",
+      "translatedTitles": {
+        "zh-Hans": "项目3",
+        "ja": "プロジェクト3"
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "中文校园生活喜剧 RPG：社长带着社员们为火锅与礼物奔走——潜入计划、找小黄鸭、压岁钱、流浪猫与“战术迂回”式迷路；小梅、小雪、小兰相继入队。15 张地图、514 行对白；游戏内标题仅为 Project3，slug 取自仓库名。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "A Chinese school-life comedy RPG: the club president rounds up the members for hot pot and a gift hunt — infiltration plans, a stray cat, lucky money, and 'tactical detours' while lost; Xiaomei, Xiaoxue and Xiaolan join the party one by one. 15 maps, 514 dialogue lines; the in-game title is only 'Project3', so the slug comes from the repository name.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "中国語の学園生活コメディRPG。部長が部員たちを集めて火鍋とプレゼント探しに奔走する——潜入作戦、野良猫、お年玉、「戦術的迂回」と称する迷子。小梅、小雪、小蘭が次々と仲間になる。15マップ・514行の台詞。ゲーム内タイトルは「Project3」のみのため、スラッグはリポジトリ名から取る。",
+          "editorialStatus": "draft"
+        }
+      },
+      "contentAdvisory": {
+        "nsfw": false
+      }
+    },
+    "diponegoro-jejak-langkah-sang-pangeran": {
+      "schemaVersion": 1,
+      "slug": "diponegoro-jejak-langkah-sang-pangeran",
+      "originalTitle": "DIPONEGORO: Jejak Langkah Sang Pangeran",
+      "taxonomy": {
+        "genres": [
+          "rpg"
+        ],
+        "themes": [
+          "drama"
+        ],
+        "contentType": "full-game"
+      },
+      "developers": [
+        {
+          "name": "Ananta-TI",
+          "url": "https://github.com/Ananta-TI"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/Ananta-TI-Rpg-maker/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "ananta-ti-rpg-maker",
+          "title": "DIPONEGORO: Jejak Langkah Sang Pangeran",
+          "languages": [
+            "id",
+            "en"
+          ],
+          "nsfw": false
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/Ananta-TI/Rpg-maker",
+          "https://webrpg.org/Ananta-TI-Rpg-maker/"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 1,
+      "assessedAt": "2026-11-13",
+      "assessmentSources": [
+        "https://github.com/Ananta-TI/Rpg-maker",
+        "https://webrpg.org/Ananta-TI-Rpg-maker/"
+      ],
+      "assessmentNote": "No game traces found (Wikipedia/UNESCO/Britannica on the historical Diponegoro and the Babad Diponegoro only); 18 maps / 167 events / 163 dialogue lines in-repo (Dutch road through the ancestral graves of Tegalrejo, Prince rides out to verify, recruit 3+ companions, medicine timer, war, ending map; 3 battles + 16 party-adds); title verified on the title screen image img/titles1/DIPONEGORO.png ('DIPONEGORO: Jejak Langkah Sang Pangeran'); translated titles are transliteration/literal translation, no official translations found; GitHub API rate-limited, stars unverified; rating blank; popularity 1.",
+      "translatedTitles": {
+        "zh-Hans": "迪波内戈罗：王子的足迹",
+        "en": "Diponegoro: In the Prince's Footsteps",
+        "ja": "ディポネゴロ：王子の足跡"
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "印尼语历史剧情 RPG：以民族英雄蒂博尼哥罗王子为主角——荷兰人修路穿过祖先陵墓所在的德加尔雷约村，王子亲赴村庄查证真相，招募至少三名同伴、与时间赛跑取药，最终走向战争与结局。18 张地图、163 行对白；标题已在标题画面核实。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "An Indonesian historical drama RPG starring the national hero Prince Diponegoro: the Dutch build a road through the ancestral graves of Tegalrejo village, and the Prince rides out to verify the report, recruits at least three companions, races a medicine timer, and marches toward war and the ending. 18 maps, 163 dialogue lines; the title was verified on the title screen.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "インドネシア語の歴史ドラマRPG。国民的英雄ディポネゴロ王子が主人公——オランダ人が祖先の墓地を通る道路を建設し、王子は村へ赴いて真相を確かめ、少なくとも3人の仲間を集め、薬のタイマーと戦い、戦争と結末へ向かう。18マップ・163行の台詞。タイトルはタイトル画面で確認済み。",
+          "editorialStatus": "draft"
+        }
+      },
+      "contentAdvisory": {
+        "nsfw": false
+      }
+    },
+    "puerto-de-historias": {
+      "schemaVersion": 1,
+      "slug": "puerto-de-historias",
+      "originalTitle": "Puerto de historias",
+      "taxonomy": {
+        "genres": [
+          "adventure"
+        ],
+        "themes": [
+          "drama",
+          "slice-of-life"
+        ],
+        "contentType": "full-game"
+      },
+      "developers": [
+        {
+          "name": "LeMarsito02",
+          "url": "https://github.com/LeMarsito02"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/LeMarsito02-core/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "lemarsito02-core",
+          "title": "Puerto de historias",
+          "languages": [
+            "es"
+          ],
+          "nsfw": false
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/LeMarsito02/core",
+          "https://webrpg.org/LeMarsito02-core/"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 1,
+      "assessedAt": "2026-11-13",
+      "assessmentSources": [
+        "https://github.com/LeMarsito02/core",
+        "https://webrpg.org/LeMarsito02-core/"
+      ],
+      "assessmentNote": "No external traces found (Ponte Historia / Puerto Viejo are unrelated); 6 maps / 108 events / 114 Spanish dialogue lines in-repo (last day of school, Federico walks Palermo streets and the port, monologue on words/memory/farewells; choices + a game-over path; 0 battles so genres [adventure]; Map002/Map004/Map006 empty unused interiors, all code 0); translated titles are literal translations, no official translations found; GitHub API rate-limited, stars unverified; rating blank; popularity 1.",
+      "translatedTitles": {
+        "zh-Hans": "故事之港",
+        "en": "Port of Stories",
+        "ja": "物語の港"
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "西班牙语文学冒险：学年最后一天，Federico 走出校门，巴勒莫的街道与港口在他眼前展开——关于词语、记忆与告别的内心独白贯穿始终。6 张地图、114 行对白；无战斗，由探索与对话驱动。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "A Spanish literary adventure: on the last day of the school year, Federico walks out of school into the streets of Palermo and the port — an interior monologue about words, memory and farewells runs through it. 6 maps, 114 dialogue lines; no battles, driven by exploration and dialogue.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "スペイン語の文学アドベンチャー。学年最後の日、フェデリコは学校を出てパレルモの街と港へ——言葉、記憶、別れについての内省的なモノローグが全編を貫く。6マップ・114行の台詞。戦闘はなく、探索と会話で進む。",
+          "editorialStatus": "draft"
+        }
+      },
+      "contentAdvisory": {
+        "nsfw": false
+      }
+    },
+    "qhatulab": {
+      "schemaVersion": 1,
+      "slug": "qhatulab",
+      "originalTitle": "Qhatulab",
+      "taxonomy": {
+        "genres": [
+          "simulation"
+        ],
+        "themes": [
+          "educational"
+        ],
+        "contentType": "full-game"
+      },
+      "developers": [
+        {
+          "name": "AnthonyGit1",
+          "url": "https://github.com/AnthonyGit1"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/AnthonyGit1-QhatuLab-Frontend/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "anthonygit1-qhatulab-frontend",
+          "title": "Qhatulab",
+          "languages": [
+            "es"
+          ],
+          "nsfw": false
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/AnthonyGit1/QhatuLab-Frontend",
+          "https://webrpg.org/AnthonyGit1-QhatuLab-Frontend/"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 1,
+      "assessedAt": "2026-11-13",
+      "assessmentSources": [
+        "https://github.com/AnthonyGit1/QhatuLab-Frontend",
+        "https://webrpg.org/AnthonyGit1-QhatuLab-Frontend/"
+      ],
+      "assessmentNote": "No external traces found (SEED MMO results are unrelated); 4 maps / 15 events / 55 Spanish dialogue lines in-repo (job-interview simulation inside the QhatuLab labor-inclusion platform: two offices, interview questions 'Háblame de ti' / '¿Qué adaptaciones necesitas?' / '¿Cuál es tu mayor fortaleza?'; platform by the SeedMinds team per README, repo owner AnthonyGit1 listed as developer); translatedTitles ja only (katakana transliteration; no verifiable Chinese name, en identical to original); GitHub API rate-limited, stars unverified; rating blank; popularity 1.",
+      "translatedTitles": {
+        "ja": "カトゥラブ"
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "西班牙语求职面试模拟小游戏，嵌在 QhatuLab 残障人士就业包容平台（SeedMinds 团队）中：穿过两间办公室，回答“介绍一下你自己”“你需要哪些便利”等面试问题。4 张地图、55 行对白。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "A Spanish job-interview simulation mini-game embedded in QhatuLab, a labor-inclusion platform by the SeedMinds team: walk through two offices answering interview questions — 'Tell me about yourself', 'What accommodations do you need?' 4 maps, 55 dialogue lines.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "スペイン語の就職面接シミュレーション・ミニゲーム。SeedMindsチームの労働インクルージョン・プラットフォーム QhatuLab に組み込まれたもの。二つのオフィスを巡り、「自己紹介をしてください」「どんな配慮が必要ですか」といった面接の質問に答える。4マップ・55行の台詞。",
+          "editorialStatus": "draft"
+        }
+      },
+      "contentAdvisory": {
+        "nsfw": false
+      }
     }
   }
 }

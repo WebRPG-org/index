@@ -25594,18 +25594,9 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/ThatTakashi-Tales-of-Arcadia/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg"
-      ],
-      "languages": [
-        "en"
-      ],
+      "playable": false,
       "nsfw": false,
-      "playable": true,
-      "popularity": 3,
-      "rating": 5,
-      "reviewedAt": "2026-11-07",
-      "title": "Tales of Arcadia"
+      "reviewedAt": "2026-11-07"
     }
   },
   {
@@ -25822,17 +25813,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/chiyungjie-RPG20240811/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg"
-      ],
-      "languages": [
-        "zh-Hant"
-      ],
-      "nsfw": false,
+      "gameSlug": "chiyungjie-rpg20240811",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "nsfw": false,
+      "reviewedAt": "2026-11-07",
+      "reviewedSourceHeadSha": "f7bd50552bcc87a79ff4923c5937cbd7b22721fe"
     }
   },
   {
@@ -25862,16 +25847,8 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/kentko27-gamedev/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg"
-      ],
-      "languages": [
-        "en"
-      ],
+      "playable": false,
       "nsfw": false,
-      "playable": true,
-      "popularity": 2,
-      "rating": 5,
       "reviewedAt": "2026-11-07"
     }
   },
@@ -25902,16 +25879,8 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/kristenYu-kristenyu.github.io/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg"
-      ],
-      "languages": [
-        "en"
-      ],
+      "playable": false,
       "nsfw": false,
-      "playable": true,
-      "popularity": 2,
-      "rating": 5,
       "reviewedAt": "2026-11-07"
     }
   },
@@ -26062,17 +26031,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/supShag-YaXNLW/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg"
-      ],
-      "languages": [
-        "zh-Hans"
-      ],
-      "nsfw": false,
+      "gameSlug": "supshag-yaxnlw",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-08"
+      "nsfw": false,
+      "reviewedAt": "2026-11-08",
+      "reviewedSourceHeadSha": "0be931cc713bc0b967cf2389739c36594c01582a"
     }
   },
   {
@@ -26119,16 +26082,8 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/sabakan03-mv/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg"
-      ],
-      "languages": [
-        "ja"
-      ],
+      "playable": false,
       "nsfw": false,
-      "playable": true,
-      "popularity": 2,
-      "rating": 5,
       "reviewedAt": "2026-11-08"
     }
   },
@@ -26246,19 +26201,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/Ananta-TI-Rpg-maker/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg"
-      ],
-      "languages": [
-        "id",
-        "en"
-      ],
-      "nsfw": false,
+      "gameSlug": "diponegoro-jejak-langkah-sang-pangeran",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
+      "nsfw": false,
       "reviewedAt": "2026-11-08",
-      "title": "DIPONEGORO: Jejak Langkah Sang Pangeran"
+      "reviewedSourceHeadSha": "7da67ea7413142af7b207d3ff47e8c5df2791207"
     }
   },
   {
@@ -26338,16 +26285,8 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/dudleydehenau-Ephec/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg"
-      ],
-      "languages": [
-        "fr"
-      ],
+      "playable": false,
       "nsfw": false,
-      "playable": true,
-      "popularity": 2,
-      "rating": 5,
       "reviewedAt": "2026-11-08"
     }
   },
@@ -26378,17 +26317,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/LeMarsito02-core/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg"
-      ],
-      "languages": [
-        "es"
-      ],
-      "nsfw": false,
+      "gameSlug": "puerto-de-historias",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-08"
+      "nsfw": false,
+      "reviewedAt": "2026-11-08",
+      "reviewedSourceHeadSha": "52a27fa12b6f033729d96f72e1a7531c58d423c6"
     }
   },
   {
@@ -26418,17 +26351,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/AnthonyGit1-QhatuLab-Frontend/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg"
-      ],
-      "languages": [
-        "es"
-      ],
-      "nsfw": false,
+      "gameSlug": "qhatulab",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-08"
+      "nsfw": false,
+      "reviewedAt": "2026-11-08",
+      "reviewedSourceHeadSha": "7a647c1985257748dd836120f9dcd9d7947db945"
     }
   },
   {
