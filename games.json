@@ -15833,6 +15833,616 @@
       "contentAdvisory": {
         "nsfw": false
       }
+    },
+    "max-aura-the-legend-of-john": {
+      "schemaVersion": 1,
+      "slug": "max-aura-the-legend-of-john",
+      "originalTitle": "Max Aura : The Legend of John",
+      "taxonomy": {
+        "genres": [
+          "rpg"
+        ],
+        "themes": [
+          "fantasy",
+          "romance"
+        ],
+        "contentType": "full-game",
+        "mechanics": [
+          "shop",
+          "crafting"
+        ]
+      },
+      "developers": [
+        {
+          "name": "Octx29",
+          "url": "https://github.com/Octx29"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/Octx29-Max-Aura-The-Legend-of-John/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "octx29-max-aura-the-legend-of-john",
+          "title": "Max Aura : The Legend of John",
+          "languages": [
+            "th"
+          ],
+          "nsfw": false
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/Octx29/Max-Aura-The-Legend-of-John",
+          "https://webrpg.org/Octx29-Max-Aura-The-Legend-of-John/"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 1,
+      "assessedAt": "2026-11-13",
+      "assessmentSources": [
+        "https://github.com/Octx29/Max-Aura-The-Legend-of-John",
+        "https://webrpg.org/Octx29-Max-Aura-The-Legend-of-John/"
+      ],
+      "assessmentNote": "No external traces found (search hits are unrelated works); 17 maps / 111 dialogue lines in-repo, all Thai (John, knight of the 7th unit, offers Lady Alena a wilted flower on her birthday; the goal is to buy or find a Golden rose; shops with crafting, bar-food buffs); languages corrected [en] -> [th] (dialogue verified Thai); 3 battles, 6 shops, 10 choices; zh-Hans/ja titles are translations; repo 0 stars; rating blank; popularity 1.",
+      "translatedTitles": {
+        "zh-Hans": "麦克斯·奥拉：约翰传奇",
+        "ja": "マックス・オーラ：ジョンの伝説"
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "泰语幻想 RPG：第七小队的骑士 John 在生辰之日向 Alena 小姐献上枯萎的廉价花；要赢得芳心，须买到或找到一朵 Golden rose。在城堡、城镇与商店之间冒险，道具可合成、酒吧食物加 Buff。17 张地图、111 行泰语对白。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "A Thai fantasy RPG: John, a knight of the 7th unit, offers Lady Alena a cheap wilted flower on her birthday; to win her heart he must buy or find a Golden rose. Adventure through castles, towns and shops, with item crafting and bar-food buffs. 17 maps, 111 lines of Thai dialogue.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "タイ語のファンタジーRPG。第7部隊の騎士ジョンは誕生日にアレナ様へしおれた安い花を贈る。心を射止めるにはゴールデンローズを買うか見つけねばならない。城、町、店を巡り、アイテム合成とバーの食事バフつき。17マップ・111行のタイ語の台詞。",
+          "editorialStatus": "draft"
+        }
+      },
+      "contentAdvisory": {
+        "nsfw": false
+      }
+    },
+    "maze-of-levers": {
+      "schemaVersion": 1,
+      "slug": "maze-of-levers",
+      "originalTitle": "Maze of Levers",
+      "taxonomy": {
+        "genres": [
+          "puzzle"
+        ],
+        "themes": [],
+        "contentType": "full-game"
+      },
+      "developers": [
+        {
+          "name": "FannarHrafn",
+          "url": "https://github.com/FannarHrafn"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/FannarHrafn-veffortvoloka/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "fannarhrafn-veffortvoloka",
+          "title": "Maze of Levers",
+          "languages": [
+            "en"
+          ],
+          "nsfw": false
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/FannarHrafn/veffortvoloka",
+          "https://webrpg.org/FannarHrafn-veffortvoloka/maze.html"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 1,
+      "assessedAt": "2026-11-13",
+      "assessmentSources": [
+        "https://github.com/FannarHrafn/veffortvoloka",
+        "https://webrpg.org/FannarHrafn-veffortvoloka/maze.html"
+      ],
+      "assessmentNote": "No external traces found (search hits are unrelated); 2 maps / 9 events / 4 dialogue lines in-repo, but a complete puzzle loop (red/yellow/blue lever switches with choices, gem events, a victory map with a replay option); dialogue is thin, noted; repo 0 stars; rating blank; popularity 1.",
+      "translatedTitles": {
+        "zh-Hans": "杠杆迷宫",
+        "ja": "レバーの迷路"
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "微型拉杆解谜：拉动红、黄、蓝三色拉杆，收集宝石，打开通往胜利房间的门，可重玩。2 张地图、4 行对白。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "A tiny lever puzzle: pull the red, yellow and blue levers, collect gems, and open the way to the victory room — with a replay option. 2 maps, 4 dialogue lines.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "小さなレバーパズル。赤、黄、青のレバーを引き、宝石を集め、勝利の部屋への道を開く。リプレイ可。2マップ・4行の台詞。",
+          "editorialStatus": "draft"
+        }
+      },
+      "contentAdvisory": {
+        "nsfw": false
+      }
+    },
+    "memento-mori": {
+      "schemaVersion": 1,
+      "slug": "memento-mori",
+      "originalTitle": "Memento Mori",
+      "taxonomy": {
+        "genres": [
+          "rpg"
+        ],
+        "themes": [
+          "comedy"
+        ],
+        "contentType": "full-game"
+      },
+      "developers": [
+        {
+          "name": "denmarx",
+          "url": "https://github.com/denmarx"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/denmarx-resume23-24/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "denmarx-resume23-24",
+          "title": "Memento Mori",
+          "languages": [
+            "de"
+          ],
+          "nsfw": false
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/denmarx/resume23-24",
+          "https://webrpg.org/denmarx-resume23-24/rpg.html"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 1,
+      "assessedAt": "2026-11-13",
+      "assessmentSources": [
+        "https://github.com/denmarx/resume23-24",
+        "https://webrpg.org/denmarx-resume23-24/rpg.html"
+      ],
+      "assessmentNote": "No external traces found (search hits are other Memento Mori works); 3 maps / 13 dialogue lines in-repo, all German (Forest Town stroll, cart warning then 'Game over!' when run over, father throwing the hero out of the house); languages corrected [en] -> [de] (dialogue verified German); System.json keeps the project name 'testProject'; the repo itself is the author's personal portfolio site; 'auf die Eier zu gehen' is a crude German idiom, not sexual content, nsfw stays false; zh-Hans/en/ja titles are translations of the Latin phrase; repo 0 stars; rating blank; popularity 1.",
+      "translatedTitles": {
+        "zh-Hans": "记住你必死",
+        "en": "Remember You Must Die",
+        "ja": "死を想え"
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "德语喜剧小品：在森林小镇漫步、与 NPC 闲聊——若不听劝，小心被马车碾过，当场 Game over；家里还有一位把主角赶出门的父亲。3 张地图、13 行德语对白。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "A German comedy vignette: stroll through Forest Town and chat with NPCs — ignore the warning and a cart runs you over on the spot (Game over); back home, your father throws you out of the house. 3 maps, 13 lines of German dialogue.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "ドイツ語のコメディ小品。森の町を歩き、NPCと話す——警告を無視すれば荷車に轢かれて即ゲームオーバー。家では父親に追い出される。3マップ・13行のドイツ語の台詞。",
+          "editorialStatus": "draft"
+        }
+      },
+      "contentAdvisory": {
+        "nsfw": false
+      }
+    },
+    "memoir-of-phantoms-fortitude": {
+      "schemaVersion": 1,
+      "slug": "memoir-of-phantoms-fortitude",
+      "originalTitle": "Memoir of Phantom's Fortitude",
+      "taxonomy": {
+        "genres": [
+          "adventure"
+        ],
+        "themes": [
+          "fantasy"
+        ],
+        "contentType": "full-game"
+      },
+      "developers": [
+        {
+          "name": "CopperChihuahua",
+          "url": "https://github.com/CopperChihuahua"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/CopperChihuahua-Coppers-Touhou-Game-Jam/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "copperchihuahua-coppers-touhou-game-jam",
+          "title": "Memoir of Phantom's Fortitude",
+          "languages": [
+            "en"
+          ],
+          "nsfw": false
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/CopperChihuahua/Coppers-Touhou-Game-Jam",
+          "https://webrpg.org/CopperChihuahua-Coppers-Touhou-Game-Jam/"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 2,
+      "assessedAt": "2026-11-13",
+      "assessmentSources": [
+        "https://github.com/CopperChihuahua/Coppers-Touhou-Game-Jam",
+        "https://webrpg.org/CopperChihuahua-Coppers-Touhou-Game-Jam/"
+      ],
+      "assessmentNote": "Listed on MyVideoGameList with a matching description ('After her mentor's disappearance, Youmu is left to uncover information about his past and the Youkai Cherry Tree, Saigyou Ayakashi.'); repo description confirms a January 2018 Touhou game jam entry; 30 maps / 463 dialogue lines in-repo (Saigyou estate, Memory 01-04, marketplace, Mayohiga, Yukari); 0 battles, 0 shops, 6 choices, so genres [adventure] not [rpg]; no rating evidence on the listing, so rating is blank; zh-Hans/ja titles are translations; repo 0 stars, 2 forks; popularity 2.",
+      "translatedTitles": {
+        "zh-Hans": "幻影坚韧回忆录",
+        "ja": "ファントムの不屈の回想録"
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "东方同人冒险：导师失踪后，Youmu 着手调查他的过去与妖怪樱树 Saigyou Ayakashi，在宅邸、四段记忆与市场之间穿梭。2018 年 1 月东方游戏 Jam 参赛作，30 张地图、463 行对白。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "A Touhou fan adventure: after her mentor's disappearance, Youmu investigates his past and the youkai cherry tree Saigyou Ayakashi, moving between the Saigyou estate, four memory sequences and the marketplace. A January 2018 Touhou game jam entry; 30 maps, 463 dialogue lines.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "東方ファンアドベンチャー。師匠の失踪後、妖夢は彼の過去と妖怪桜・西行妖を調べる。西行邸、4つの記憶、市街を巡る。2018年1月の東方ゲームジャム参加作。30マップ・463行の台詞。",
+          "editorialStatus": "draft"
+        }
+      },
+      "contentAdvisory": {
+        "nsfw": false
+      }
+    },
+    "memories-of-you": {
+      "schemaVersion": 1,
+      "slug": "memories-of-you",
+      "originalTitle": "Memories of You",
+      "taxonomy": {
+        "genres": [
+          "adventure"
+        ],
+        "themes": [
+          "drama",
+          "slice-of-life"
+        ],
+        "contentType": "demo"
+      },
+      "developers": [
+        {
+          "name": "Nad795",
+          "url": "https://github.com/Nad795"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/Nad795-Memories-of-You-Demo-Version/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "nad795-memories-of-you-demo-version",
+          "title": "Memories of You",
+          "languages": [
+            "id"
+          ],
+          "nsfw": false
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/Nad795/Memories-of-You-Demo-Version",
+          "https://webrpg.org/Nad795-Memories-of-You-Demo-Version/"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 1,
+      "assessedAt": "2026-11-13",
+      "assessmentSources": [
+        "https://github.com/Nad795/Memories-of-You-Demo-Version",
+        "https://webrpg.org/Nad795-Memories-of-You-Demo-Version/"
+      ],
+      "assessmentNote": "No external traces found (search hits are unrelated works); 6 maps / 263 dialogue lines in-repo (Prologue + Chapter 1, House 2, School Classroom, City, School); languages corrected [en, id] -> [id] (all 263 lines classified: 111 Indonesian-like, 0 English-like); contentType demo (title says Demo Version, Prologue + Chapter 1 only); zh-Hans/ja titles are translations; repo 0 stars; rating blank; popularity 1.",
+      "translatedTitles": {
+        "zh-Hans": "你的回忆",
+        "ja": "あなたの思い出"
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "印尼语校园生活 demo：序章与第一章，Niko 与 Fiona 的学校日常——教室、家中与城市街景。6 张地图、263 行对白。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "An Indonesian school-life demo: the prologue and chapter 1, following Niko and Fiona's school days across the house, the classroom and the city. 6 maps, 263 dialogue lines.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "インドネシア語の学園生活デモ。プロローグと第1章、ニコとフィオナの学校生活——教室、家、街並み。6マップ・263行の台詞。",
+          "editorialStatus": "draft"
+        }
+      },
+      "contentAdvisory": {
+        "nsfw": false
+      }
+    },
+    "monophobia": {
+      "schemaVersion": 1,
+      "slug": "monophobia",
+      "originalTitle": "Monophobia",
+      "taxonomy": {
+        "genres": [
+          "rpg",
+          "puzzle"
+        ],
+        "themes": [
+          "fantasy"
+        ],
+        "contentType": "full-game"
+      },
+      "developers": [
+        {
+          "name": "DoroDore",
+          "url": "https://github.com/DoroDore"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/DoroDore-Monophobia/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "dorodore-monophobia",
+          "title": "Monophobia",
+          "languages": [
+            "en"
+          ],
+          "nsfw": false
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/DoroDore/Monophobia",
+          "https://webrpg.org/DoroDore-Monophobia/"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 1,
+      "assessedAt": "2026-11-13",
+      "assessmentSources": [
+        "https://github.com/DoroDore/Monophobia",
+        "https://webrpg.org/DoroDore-Monophobia/"
+      ],
+      "assessmentNote": "No external traces for this game (search hits are different Monophobia games: Z-xian's Steam visual novel and Dendrobium's MONOPHOBIA 2.5D adventure, both unrelated — do not conflate); 8 maps / 411 dialogue lines in-repo (three dungeon levels, three battles, riddles, coin/spike traps, crystal, portal, spare-or-kill choice for the old man); 7 battle-processing commands, 32 choice commands; repo 0 stars; rating blank; popularity 1.",
+      "translatedTitles": {
+        "zh-Hans": "独处恐惧",
+        "ja": "モノフォビア"
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "地牢解谜 RPG：深入三层地牢，解开谜语与机关，迎战三场战斗，在水晶与传送门之间抉择——包括是否放过那位老人。8 张地图、411 行对白。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "A dungeon puzzle RPG: delve through three dungeon levels, solve riddles and traps, fight three battles, and choose at the crystal and the portal — including whether to spare the old man. 8 maps, 411 dialogue lines.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "ダンジョンのパズルRPG。3層のダンジョンを進み、謎と罠を解き、3度の戦闘を越え、水晶とポータルの前で選ぶ——老人を見逃すかどうかも含めて。8マップ・411行の台詞。",
+          "editorialStatus": "draft"
+        }
+      },
+      "contentAdvisory": {
+        "nsfw": false
+      }
+    },
+    "murder-mystery": {
+      "schemaVersion": 1,
+      "slug": "murder-mystery",
+      "originalTitle": "Murder Mystery",
+      "taxonomy": {
+        "genres": [
+          "adventure"
+        ],
+        "themes": [
+          "horror",
+          "mystery"
+        ],
+        "contentType": "full-game"
+      },
+      "developers": [
+        {
+          "name": "Fairlyll",
+          "url": "https://github.com/Fairlyll"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/Fairlyll-Horror/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "fairlyll-horror",
+          "title": "Murder Mystery",
+          "languages": [
+            "en"
+          ],
+          "nsfw": false
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/Fairlyll/Horror",
+          "https://webrpg.org/Fairlyll-Horror/"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 1,
+      "assessedAt": "2026-11-13",
+      "assessmentSources": [
+        "https://github.com/Fairlyll/Horror",
+        "https://webrpg.org/Fairlyll-Horror/"
+      ],
+      "assessmentNote": "No external traces found (search hits are other murder-mystery games); 5 maps / 157 dialogue lines in-repo (Dining Room, Julia's Room, Mansion, Second Floor; Julia and Robin investigate a strange sound at midnight, flashlight switch); repo 1 star; rating blank; popularity 1.",
+      "translatedTitles": {
+        "zh-Hans": "谋杀之谜",
+        "ja": "殺人ミステリー"
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "午夜豪宅推理冒险：Julia 与 Robin 被怪声惊醒，手持手电筒逐屋调查，寻找声音的源头。5 张地图、157 行对白。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "A midnight mansion investigation: Julia and Robin are woken by a strange sound and search the mansion room by room, flashlight in hand, hunting for its source. 5 maps, 157 dialogue lines.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "真夜中の洋館ミステリー。ジュリアとロビンは怪しい音で目を覚まし、懐中電灯を手に部屋をひとつずつ調べ、音の正体を探る。5マップ・157行の台詞。",
+          "editorialStatus": "draft"
+        }
+      },
+      "contentAdvisory": {
+        "nsfw": false
+      }
+    },
+    "mutant-codebreaker": {
+      "schemaVersion": 1,
+      "slug": "mutant-codebreaker",
+      "originalTitle": "Mutant Codebreaker",
+      "taxonomy": {
+        "genres": [
+          "puzzle"
+        ],
+        "themes": [
+          "educational"
+        ],
+        "contentType": "full-game",
+        "mechanics": [
+          "code-breaking"
+        ]
+      },
+      "developers": [
+        {
+          "name": "erasmojunkes",
+          "url": "https://github.com/erasmojunkes"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/erasmojunkes-Mutant-Codebreaker/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "erasmojunkes-mutant-codebreaker",
+          "title": "Mutant Codebreaker",
+          "languages": [
+            "pt"
+          ],
+          "nsfw": false
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/erasmojunkes/Mutant-Codebreaker",
+          "https://webrpg.org/erasmojunkes-Mutant-Codebreaker/"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 2,
+      "assessedAt": "2026-11-13",
+      "assessmentSources": [
+        "https://github.com/erasmojunkes/Mutant-Codebreaker",
+        "https://webrpg.org/erasmojunkes-Mutant-Codebreaker/"
+      ],
+      "assessmentNote": "No external traces found (search hits are other codebreaker games); 1 map / 25 events in-repo, but the puzzle logic is complete (362 conditional branches, 338 picture displays, 266 comments; main-menu animation, Puzzle1_a/b and Puzzle2_a sets, tutorials, mini menu, lives switches); the 10 dialogue lines are all placeholder 'teste', noted; locale pt_BR, switches in Portuguese; repo 3 stars; rating blank; popularity 2.",
+      "translatedTitles": {
+        "zh-Hans": "变种人破码者",
+        "ja": "ミュータント・コードブレイカー"
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "葡语密码破译解谜：以图片界面实现两套谜题与教程，在单张地图上完成破码挑战。25 个事件、362 个条件分支。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "A Portuguese code-breaking puzzle: two puzzle sets with tutorials, a main menu and a mini menu, all implemented as a picture-based UI on a single map. 25 events, 362 conditional branches.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "ポルトガル語の暗号解読パズル。2つのパズルセットとチュートリアル、メインメニューとミニメニューを、画像ベースのUIで1マップに実装。25イベント・362の条件分岐。",
+          "editorialStatus": "draft"
+        }
+      },
+      "contentAdvisory": {
+        "nsfw": false
+      }
     }
   }
 }

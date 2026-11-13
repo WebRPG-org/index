@@ -20002,18 +20002,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/Octx29-Max-Aura-The-Legend-of-John/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg",
-        "fantasy"
-      ],
-      "languages": [
-        "en"
-      ],
-      "nsfw": false,
+      "gameSlug": "max-aura-the-legend-of-john",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-08"
+      "nsfw": false,
+      "reviewedAt": "2026-11-08",
+      "reviewedSourceHeadSha": "63d53a787199a9594548e5c0a0512bf674c1d402"
     }
   },
   {
@@ -20043,17 +20036,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/FannarHrafn-veffortvoloka/maze.html served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "puzzle"
-      ],
-      "languages": [
-        "en"
-      ],
-      "nsfw": false,
+      "gameSlug": "maze-of-levers",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-08"
+      "nsfw": false,
+      "reviewedAt": "2026-11-08",
+      "reviewedSourceHeadSha": "f46267c2c2e4c5b7ad6ab7095fc09ca6592aaf7b"
     }
   },
   {
@@ -20118,16 +20105,8 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/9to5ninja-projects-MechaAcademy/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg"
-      ],
-      "languages": [
-        "en"
-      ],
+      "playable": false,
       "nsfw": false,
-      "playable": true,
-      "popularity": 2,
-      "rating": 3,
       "reviewedAt": "2026-11-08"
     }
   },
@@ -20231,18 +20210,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/denmarx-resume23-24/rpg.html served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg",
-        "fantasy"
-      ],
-      "languages": [
-        "en"
-      ],
-      "nsfw": false,
+      "gameSlug": "memento-mori",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-08"
+      "nsfw": false,
+      "reviewedAt": "2026-11-08",
+      "reviewedSourceHeadSha": "99091480918e2bd65660e07a79ce816cc9bb2dcf"
     }
   },
   {
@@ -20272,17 +20244,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/CopperChihuahua-Coppers-Touhou-Game-Jam/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg"
-      ],
-      "languages": [
-        "en"
-      ],
-      "nsfw": false,
+      "gameSlug": "memoir-of-phantoms-fortitude",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "nsfw": false,
+      "reviewedAt": "2026-11-07",
+      "reviewedSourceHeadSha": "0a6bc322950e615501c405011161ba3a05cc922c"
     }
   },
   {
@@ -20312,19 +20278,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/Nad795-Memories-of-You-Demo-Version/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "adventure",
-        "drama"
-      ],
-      "languages": [
-        "en",
-        "id"
-      ],
-      "nsfw": false,
+      "gameSlug": "memories-of-you",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "nsfw": false,
+      "reviewedAt": "2026-11-07",
+      "reviewedSourceHeadSha": "89c1e50d2b41e191f2f6f155faaf9d7bd846f0a0"
     }
   },
   {
@@ -20378,16 +20336,8 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/professor-eggs-Mighty-Game/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg"
-      ],
-      "languages": [
-        "en"
-      ],
+      "playable": false,
       "nsfw": false,
-      "playable": true,
-      "popularity": 2,
-      "rating": 4,
       "reviewedAt": "2026-11-08"
     }
   },
@@ -20688,18 +20638,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/DoroDore-Monophobia/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg",
-        "puzzle"
-      ],
-      "languages": [
-        "en"
-      ],
-      "nsfw": false,
+      "gameSlug": "monophobia",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-08"
+      "nsfw": false,
+      "reviewedAt": "2026-11-08",
+      "reviewedSourceHeadSha": "987f7ac9280a7f24cf9b934169a320263a831b0e"
     }
   },
   {
@@ -20835,19 +20778,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/Fairlyll-Horror/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "adventure",
-        "horror",
-        "mystery"
-      ],
-      "languages": [
-        "en"
-      ],
-      "nsfw": false,
+      "gameSlug": "murder-mystery",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-08"
+      "nsfw": false,
+      "reviewedAt": "2026-11-08",
+      "reviewedSourceHeadSha": "538ef9167c396c5eb3fea6d3714395ee75e4b647"
     }
   },
   {
@@ -20877,18 +20812,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/erasmojunkes-Mutant-Codebreaker/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "puzzle",
-        "educational"
-      ],
-      "languages": [
-        "pt"
-      ],
-      "nsfw": false,
+      "gameSlug": "mutant-codebreaker",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-08"
+      "nsfw": false,
+      "reviewedAt": "2026-11-08",
+      "reviewedSourceHeadSha": "167e0ad7251c2bd332135f1a9f7745a25de665a7"
     }
   },
   {
