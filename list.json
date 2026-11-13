@@ -11039,7 +11039,6 @@
     "discoveredAt": "2026-11-13T05:13:34.991Z",
     "source": "github-code-search",
     "sourcePath": "games/dead-plate.html",
-    "plannedForkName": "mumbo235-playvault",
     "checkedAt": "2026-11-13T05:22:38.420Z",
     "forkName": "mumbo235-playvault",
     "invalidReason": "Repository has 589 HTML files, exceeding the 500 file limit."
