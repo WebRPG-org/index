@@ -2954,6 +2954,15 @@
             "en"
           ],
           "nsfw": false
+        },
+        {
+          "type": "internal",
+          "id": "ec-developer-hub-showdownnn",
+          "title": "Semester Survival",
+          "languages": [
+            "en"
+          ],
+          "nsfw": false
         }
       ],
       "editorial": {
@@ -2973,7 +2982,7 @@
       "assessmentSources": [
         "https://github.com/EC-Developer-Hub/broadwayyyy"
       ],
-      "assessmentNote": "No README or external trace (0 stars); game data 12 campus maps / 270 events / 286 English dialogue lines (Electronics and Communication Department, JEE jokes); System.json gameTitle is empty, so the title 'Semester Survival' is taken from the v1.1 meta title field (title-screen reading); not to be confused with the unrelated HTML5 runner of the same name on 4weird.com; rating blank; popularity 2. Second build (2026-11-13): EC-Developer-Hub/virusssss — same game, reworked build: virusssss's 11 map names are exactly broadwayyyy's first 11 maps in the same order (broadwayyyy adds a 12th, 'EC room'), 79 unique dialogue lines are shared (of 192 broadwayyyy / 258 virusssss unique lines, including 'I'll let you jump the fence for a 100.....', 'Your current score is \\v[1]', Nescafe), maps 2/3/7 are reworked (0 shared lines), 310 events / 371 dialogue lines vs 270/286, start map Room (broadwayyyy starts in EC room); same author org, same title (virusssss gameTitle is 'Semester Survival'), same Indian engineering-college setting (JEE, Electronics and Communication Department, KBH, OAT, Student's park, Chintu Sharma).",
+      "assessmentNote": "No README or external trace (0 stars); game data 12 campus maps / 270 events / 286 English dialogue lines (Electronics and Communication Department, JEE jokes); System.json gameTitle is empty, so the title 'Semester Survival' is taken from the v1.1 meta title field (title-screen reading); not to be confused with the unrelated HTML5 runner of the same name on 4weird.com; rating blank; popularity 2. Second build (2026-11-13): EC-Developer-Hub/virusssss — same game, reworked build: virusssss's 11 map names are exactly broadwayyyy's first 11 maps in the same order (broadwayyyy adds a 12th, 'EC room'), 79 unique dialogue lines are shared (of 192 broadwayyyy / 258 virusssss unique lines, including 'I'll let you jump the fence for a 100.....', 'Your current score is \\v[1]', Nescafe), maps 2/3/7 are reworked (0 shared lines), 310 events / 371 dialogue lines vs 270/286, start map Room (broadwayyyy starts in EC room); same author org, same title (virusssss gameTitle is 'Semester Survival'), same Indian engineering-college setting (JEE, Electronics and Communication Department, KBH, OAT, Student's park, Chintu Sharma). Third build (2026-11-13): EC-Developer-Hub/showdownnn — same game, reworked build: showdownnn's first 11 map names are exactly virusssss's 11 maps in the same order (LH area, LH hallway, LH class, '', KBH, KBH Entrance, Room No. 217, Admin Block, NITH, Open Air Theatre, Students' Park) plus a 12th, 'Club room' (broadwayyyy's 12th is 'EC room', virusssss has 11); 67 unique dialogue lines are shared with virusssss (of 197 showdownnn / 258 virusssss unique lines, including 'You've already cleared JEE, don't need chemistry now', 'Amul', 'Activity Center', 'This way to LH'); 12 maps / 274 events / 284 dialogue lines vs 310/371; same author org and same title (old meta title 'SEMESTER SURVIVAL', gameTitle empty).",
       "translatedTitles": {
         "zh-Hans": "学期求生",
         "ja": "セメスター・サバイバル"
@@ -21223,6 +21232,665 @@
       },
       "contentAdvisory": {
         "nsfw": false
+      }
+    },
+    "shinsan-quest": {
+      "schemaVersion": 1,
+      "slug": "shinsan-quest",
+      "originalTitle": "SHINSAN QUEST",
+      "taxonomy": {
+        "genres": [
+          "rpg"
+        ],
+        "themes": [
+          "slice-of-life"
+        ],
+        "contentType": "full-game"
+      },
+      "developers": [
+        {
+          "name": "takoikatakotako",
+          "url": "https://github.com/takoikatakotako"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/takoikatakotako-HappyBirthday-2018/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "takoikatakotako-happybirthday-2018",
+          "title": "SHINSAN QUEST",
+          "languages": [
+            "ja"
+          ],
+          "nsfw": false
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/takoikatakotako/HappyBirthday-2018",
+          "https://webrpg.org/takoikatakotako-HappyBirthday-2018/"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 1,
+      "assessedAt": "2026-11-13",
+      "assessmentSources": [
+        "https://github.com/takoikatakotako/HappyBirthday-2018",
+        "https://webrpg.org/takoikatakotako-HappyBirthday-2018/"
+      ],
+      "assessmentNote": "No external traces found; 11 maps / 99 events / 250 Japanese dialogue lines in-repo (Shimizu building 8F/7F, Shibuya, Cross building 26F/16F/14F/12F, opening, Higashiguchi office; switches for the four badge stones ハーモス/ビズ/スタンバイ/キャリトレ); colleagues celebrate Shin-san's birthday ('誕生日おめでとうございます！！！') and the badge stones are the goal ('ハーモス、ビズ、スタンバイ、キャリトレの石が必要', '全部あるなら開けましょう'). The old meta title 'RealQuest ~真クエスト~' could not be verified anywhere (gameTitle, index.html title and list title all say SHINSAN QUEST), so it is not adopted as a title or alias. Repo 0 stars; rating blank; popularity 1.",
+      "translatedTitles": {
+        "zh-Hans": "真先生的冒险",
+        "ja": "シンサン・クエスト"
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "日语生日礼物 RPG：同事们为上班族真先生庆祝生日（“生日快乐！！！”），他要在清水大厦 8 楼、涩谷与 Cross 大厦之间奔走，集齐ハーモス、ビズ、スタンバイ、キャリトレ四枚徽章石，打开前路。11 张地图、250 行对白。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "A Japanese birthday-gift RPG: office worker Shin-san's colleagues celebrate his birthday ('Happy birthday!!!') and he must cross the Shimizu building's 8th floor, Shibuya and the Cross building to gather four badge stones (Harmony, Biz, Standby and Carry-trade) and open the way. 11 maps, 250 dialogue lines.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "日本語のバースデーギフトRPG。同僚たちが会社員シンさんの誕生日を祝い（「誕生日おめでとうございます！！！」）、清水ビル8F、渋谷、クロスビルを行き来してハーモス、ビズ、スタンバイ、キャリトレの4つのバッジの石を集め、道を開く。11マップ・250行の台詞。",
+          "editorialStatus": "draft"
+        }
+      },
+      "contentAdvisory": {
+        "nsfw": false
+      }
+    },
+    "shrek-vs-warroten": {
+      "schemaVersion": 1,
+      "slug": "shrek-vs-warroten",
+      "originalTitle": "Shrek vs Warroten",
+      "taxonomy": {
+        "genres": [
+          "rpg"
+        ],
+        "themes": [
+          "comedy"
+        ],
+        "contentType": "full-game"
+      },
+      "developers": [
+        {
+          "name": "AlbondigaBoy",
+          "url": "https://github.com/AlbondigaBoy"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/AlbondigaBoy-Juegos_creados/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "albondigaboy-juegos-creados",
+          "title": "Shrek vs Warroten",
+          "languages": [
+            "es"
+          ],
+          "nsfw": false
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/AlbondigaBoy/Juegos_creados",
+          "https://webrpg.org/AlbondigaBoy-Juegos_creados/"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 1,
+      "assessedAt": "2026-11-13",
+      "assessmentSources": [
+        "https://github.com/AlbondigaBoy/Juegos_creados",
+        "https://webrpg.org/AlbondigaBoy-Juegos_creados/"
+      ],
+      "assessmentNote": "No external traces found; 2 maps / 29 events / 56 Spanish dialogue lines (11 unique — the 5-line intro scene repeats across NPCs) in-repo (Exterior/Interior Castillo; 4 battle-processing events; defeat switches wa_derrotado, rr_derrotado, waS_derrotado, rrS_derrotado, warroten_derrotado); the castle belongs to Waluigi and Robbie Rotten ('Este es el castillo de Waluigi y Robbie Rotten.'), a purple corruption is spreading ('La corrupción morada se está expandiendo a una velocidad preocupante.') and the player must stop it ('Tengo que parar ya esta locura.'). Repo 0 stars; rating blank; popularity 1.",
+      "translatedTitles": {
+        "zh-Hans": "史莱克大战沃罗滕",
+        "ja": "シュレック VS ウォロテン"
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "西语喜剧 RPG：瓦路易基与罗比·罗滕的城堡里，紫色腐化正以惊人的速度蔓延，玩家必须阻止这场疯狂（“我必须马上阻止这疯狂”），与城堡的守卫们逐一交战。2 张地图、4 场战斗。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "A Spanish comedy RPG: in the castle of Waluigi and Robbie Rotten, a purple corruption is spreading at an alarming speed and the player must stop the madness ('I have to stop this madness right now'), fighting the castle's defenders one by one. 2 maps, 4 battles.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "スペイン語のコメディRPG。ワルイージとロビー・ロッテンの城で、紫の腐敗が驚くべき速さで広がっており、プレイヤーはこの狂気を止めなければならない（「この狂気を今すぐ止めなきゃ」）。城の守衛たちと次々に戦う。2マップ・4回の戦闘。",
+          "editorialStatus": "draft"
+        }
+      },
+      "contentAdvisory": {
+        "nsfw": false
+      }
+    },
+    "sierquest": {
+      "schemaVersion": 1,
+      "slug": "sierquest",
+      "originalTitle": "SIerクエスト",
+      "taxonomy": {
+        "genres": [
+          "rpg"
+        ],
+        "themes": [
+          "comedy"
+        ],
+        "contentType": "full-game"
+      },
+      "developers": [
+        {
+          "name": "sifue",
+          "url": "https://github.com/sifue"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/sifue-SIerQuest/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "sifue-sierquest",
+          "title": "SIerクエスト",
+          "languages": [
+            "ja"
+          ],
+          "nsfw": false
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/sifue/SIerQuest",
+          "https://webrpg.org/sifue-SIerQuest/",
+          "https://nlab.itmedia.co.jp/nl/articles/1511/18/news084.html",
+          "https://gigazine.net/gsc_news/en/20151116-sierquest/"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 4,
+      "assessedAt": "2026-11-13",
+      "assessmentSources": [
+        "https://github.com/sifue/SIerQuest",
+        "https://webrpg.org/sifue-SIerQuest/",
+        "https://nlab.itmedia.co.jp/nl/articles/1511/18/news084.html",
+        "https://gigazine.net/gsc_news/en/20151116-sierquest/"
+      ],
+      "assessmentNote": "Covered by two major Japanese outlets in Nov 2015: ITmedia NetLab (2015/11/18, 'IT業界の社員がシステムバグのモンスターを倒す謎ゲーム「SIerクエスト」の闇が深い') and GIGAZINE (2015/11/16, English edition) — a '3分ほどでクリアできるクソゲー' (about 3 minutes to clear) made by programmer Soichiro Yoshimura as an RPG Maker MV beta-test sample, protagonist SIer Tanaka Shotaro fighting bug/error-message monsters; a sequel, SIerQuest 2, appeared in Dec 2015 (GIGAZINE addendum). In-repo: 2 maps / 7 events / 26 Japanese dialogue lines / 2 battles (屋外 / 会社; opening switch オープニング終了; hero 田中正太郎; 'ここは、システムインテグレーターのI社。' / '僕は、田中正太郎。システムインテグレーターだ。'). Repo 16 stars, official page http://sifue.github.io/SIerQuest/ (cited by GIGAZINE). Popularity 4 (two major media articles + sequel + 16 stars); rating blank — media coverage is not a review score.",
+      "translatedTitles": {
+        "zh-Hans": "SIer任务",
+        "en": "SIer Quest"
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "日语喜剧 RPG：系统集成商田中正太郎每天要独自包揽程序员、系统工程师、客服与测试的全部工作，与化身怪物的系统 Bug（NullPointerException 等报错信息）战斗。作者吉村聪一郎用 RPG Maker MV 测试版随手做的 3 分钟小品，2015 年 11 月登上ねとらぼ与 GIGAZINE；同年 12 月出了续作 SIerQuest 2。2 张地图、26 行对白。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "A Japanese comedy RPG: system integrator Tanaka Shotaro has to handle every job himself — programmer, systems engineer, customer support, tester — fighting system bugs that appear as monsters (NullPointerException and other error messages). A 3-minute joke game made by Soichiro Yoshimura with the RPG Maker MV beta, covered by ITmedia NetLab and GIGAZINE in November 2015; a sequel, SIerQuest 2, followed that December. 2 maps, 26 dialogue lines.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "日本語のコメディRPG。システムインテグレーターの田中正太郎はプログラマー、システムエンジニア、カスタマーサポート、テスターの業務をすべて自分でこなす日々を送り、「NullPointerException」などのエラーメッセージの姿をしたシステムバグのモンスターと戦う。吉村聡一郎氏がRPGツクールMVのベータテスト版で試しに作った3分でクリアできる一発ネタゲームで、2015年11月にねとらぼとGIGAZINEで紹介され、同年12月には続編『SIerクエスト2』も登場した。2マップ・26行の台詞。",
+          "editorialStatus": "draft"
+        }
+      },
+      "externalLinks": [
+        {
+          "url": "https://sifue.github.io/SIerQuest/",
+          "type": "official",
+          "label": "SIerQuest official page"
+        },
+        {
+          "url": "https://nlab.itmedia.co.jp/nl/articles/1511/18/news084.html",
+          "type": "other",
+          "label": "ITmedia NetLab article (2015/11/18)"
+        },
+        {
+          "url": "https://gigazine.net/gsc_news/en/20151116-sierquest/",
+          "type": "other",
+          "label": "GIGAZINE article (2015/11/16)"
+        }
+      ],
+      "contentAdvisory": {
+        "nsfw": false
+      }
+    },
+    "skere": {
+      "schemaVersion": 1,
+      "slug": "skere",
+      "originalTitle": "SKERE",
+      "taxonomy": {
+        "genres": [
+          "rpg"
+        ],
+        "themes": [
+          "comedy"
+        ],
+        "contentType": "full-game"
+      },
+      "developers": [
+        {
+          "name": "JaviSSCode",
+          "url": "https://github.com/JaviSSCode"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/JaviSSCode-CallateKevin/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "javisscode-callatekevin",
+          "title": "SKERE",
+          "languages": [
+            "es"
+          ],
+          "nsfw": false
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/JaviSSCode/CallateKevin",
+          "https://webrpg.org/JaviSSCode-CallateKevin/"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 1,
+      "assessedAt": "2026-11-13",
+      "assessmentSources": [
+        "https://github.com/JaviSSCode/CallateKevin",
+        "https://webrpg.org/JaviSSCode-CallateKevin/"
+      ],
+      "assessmentNote": "No external traces found; 11 maps / 62 events / 88 Spanish dialogue lines (84 unique) / 1 battle in-repo (Intro, Salón del manga, Mercadona1, zona perdida, Cole aparcamiento; battle counter variable Contador de batallas); crude-humour school/manga-store adventure — Smash / Pokémon Go / Love Live jokes ('Bueno os dejo pasar pero soy mejor que ustedes al smash :V', 'Os gano en el Pokémon Go, os gano en el smash', 'tomad también una chapita de love live uwu'), profanity throughout. gameTitle and index.html title both say SKERE; the old meta title 'CALLATE KEVIN' matches only the repo name, so it is not adopted as a title or alias. Repo 0 stars; rating blank; popularity 1.",
+      "translatedTitles": {
+        "zh-Hans": "斯克雷",
+        "ja": "スケレ"
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "西语喜剧 RPG：粗口与恶搞齐飞的校园冒险——漫画沙龙、Mercadona 超市、失落区域与学校停车场之间穿梭，NPC 满口 Smash、宝可梦 Go 与 Love Live 的梗（“我 Smash 比你们强，宝可梦 Go 比你们强”），再顺手送你一枚 Love Live 徽章。11 张地图、88 行对白。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "A Spanish comedy RPG: a crude-humour school adventure across the manga lounge, a Mercadona supermarket, the lost zone and the school car park, with NPCs trading Smash, Pokémon Go and Love Live jokes ('I beat you at Smash, I beat you at Pokémon Go') and handing over a Love Live badge. 11 maps, 88 dialogue lines.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "スペイン語のコメディRPG。マンガサロン、メルカドーナ、失われたエリア、学校の駐車場を巡る下品なジョーク満載の学園アドベンチャー。NPCはスマブラ、ポケモンGO、ラブライブのネタで言い合い（「スマブラでもポケモンGOでもお前らに勝つ」）、ラブライブの缶バッジをくれる。11マップ・88行の台詞。",
+          "editorialStatus": "draft"
+        }
+      },
+      "contentAdvisory": {
+        "nsfw": false
+      }
+    },
+    "sketched-reflections": {
+      "schemaVersion": 1,
+      "slug": "sketched-reflections",
+      "originalTitle": "Sketched Reflections",
+      "taxonomy": {
+        "genres": [
+          "rpg"
+        ],
+        "themes": [],
+        "contentType": "full-game",
+        "mechanics": [
+          "dungeon-crawling"
+        ]
+      },
+      "developers": [
+        {
+          "name": "Angel-A-Flores",
+          "url": "https://github.com/Angel-A-Flores"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/Angel-A-Flores-Angel-Flores.github.io/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "angel-a-flores-angel-flores-github-io",
+          "title": "Sketched Reflections",
+          "languages": [
+            "en"
+          ],
+          "nsfw": false
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/Angel-A-Flores/Angel-Flores.github.io",
+          "https://webrpg.org/Angel-A-Flores-Angel-Flores.github.io/"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 1,
+      "assessedAt": "2026-11-13",
+      "assessmentSources": [
+        "https://github.com/Angel-A-Flores/Angel-Flores.github.io",
+        "https://webrpg.org/Angel-A-Flores-Angel-Flores.github.io/"
+      ],
+      "assessmentNote": "No external traces found (Steam's 'Reflections' and other same-name games are unrelated); 15 maps / 111 events / 7 English dialogue lines in-repo (Cave/Dungeon 1–8, Name, End Screen) — the substance is in the dungeon systems, verified by full event-command profiles: battle-processing events on several floors, spike-damage CommonEvents ('Spike Damage', 'Spike Damage 2'), movement-route puzzles (Map 9 D4_2: 62 move-route events with 404 route commands; Map 11: 14), pickups ('Distractable Stone was found.', 'Lamp of Confidence was found.'), a name-entry map ('Write your name.') and an end screen ('Game made by Angel Flores', 'Plugins made by TheoAllen, LoneWolf, and Galv.'). Repo 0 stars; rating blank; popularity 1.",
+      "translatedTitles": {
+        "zh-Hans": "素描倒影",
+        "ja": "スケッチド・リフレクションズ"
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "英语地牢探索 RPG：对白只有 7 行，玩法全在地牢系统里——八层地牢逐层深入，尖刺伤害、移动路线谜题（D4_2 一张图就有 404 条移动路线指令）、可拾取的“分心石”与“自信之灯”，从写下名字开始，到通关画面结束。15 张地图、111 个事件。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "An English dungeon-crawler RPG: only 7 dialogue lines — the substance is in the dungeon systems: eight dungeon floors to descend, spike damage, movement-route puzzles (one map alone, D4_2, carries 404 move-route commands), pickups such as the 'Distractable Stone' and the 'Lamp of Confidence', from a name-entry screen to an end screen. 15 maps, 111 events.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "英語のダンジョン探索RPG。台詞は7行のみで、内容はすべてダンジョンシステムにある——8層のダンジョンを下り、トゲのダメージ、移動ルートのパズル（D4_2の1マップだけで404の移動ルート命令）、「気をそらす石」や「自信のランプ」といった拾い物。名前入力画面から始まり、エンド画面で終わる。15マップ・111イベント。",
+          "editorialStatus": "draft"
+        }
+      },
+      "contentAdvisory": {
+        "nsfw": false
+      }
+    },
+    "skullseeker": {
+      "schemaVersion": 1,
+      "slug": "skullseeker",
+      "originalTitle": "Skullseeker",
+      "taxonomy": {
+        "genres": [
+          "rpg"
+        ],
+        "themes": [
+          "drama"
+        ],
+        "contentType": "full-game"
+      },
+      "developers": [
+        {
+          "name": "givanilddo",
+          "url": "https://github.com/givanilddo"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/givanilddo-SkullSeeker/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "givanilddo-skullseeker",
+          "title": "Skullseeker",
+          "languages": [
+            "pt"
+          ],
+          "nsfw": false
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/givanilddo/SkullSeeker",
+          "https://webrpg.org/givanilddo-SkullSeeker/"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 1,
+      "assessedAt": "2026-11-13",
+      "assessmentSources": [
+        "https://github.com/givanilddo/SkullSeeker",
+        "https://webrpg.org/givanilddo-SkullSeeker/"
+      ],
+      "assessmentNote": "No external traces found (Steam/GOG 'Ruins Seeker' and other same-name games are unrelated); 22 maps / 157 events / 334 Portuguese dialogue lines in-repo (Ilha 1–3, Praia, Vila, Floresta, Casa 1–4; switches 'Velho túmulo na praia', 'Marcos Carpinteiro', 'Ordem para pegar itens'; wood-collection counter variable Contator madeiras); the README states it was made in RPG Maker MV for the 3rd-unit grade of the SISTEMAS MULTIMÍDIA course ('Jogo feito em RPG Maker MV como parte da nota da 3ª unidade da disciplina de SISTEMAS MULTIMÍDIA'); the story opens on the grandmother's death ('Eliza: Fiquei sabendo sobre sua avó. Sinto muito...', 'Sua vó parecia querer falar algo a você antes de partir.'). Repo 1 star; rating blank; popularity 1.",
+      "translatedTitles": {
+        "zh-Hans": "寻颅者",
+        "ja": "スカルシーカー"
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "葡语 RPG：大学多媒体课程作业——祖母去世后，主角回到宁静的村庄（“你的祖母总说这随时可能发生”），在三个岛屿的海滩、村庄与森林之间探索，帮木匠 Marcos 收集木材，追寻祖母临终前想说的话。22 张地图、334 行对白。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "A Portuguese RPG made as a university multimedia-course project: after the grandmother's death, the protagonist returns to a peaceful village ('Your grandma always said this could happen at any moment') and explores the beaches, villages and forests of three islands, collecting wood for the carpenter Marcos and chasing what the grandmother wanted to say before she died. 22 maps, 334 dialogue lines.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "ポルトガル語のRPG。大学のマルチメディア科目の課題作品——祖母の死後、主人公は平和な村に戻り（「おばあちゃんはいつも、こうなるかもしれないと言っていた」）、3つの島の浜辺、村、森を探索し、大工のマルコスのために木材を集め、祖母が亡くなる前に言いたかったことを追う。22マップ・334行の台詞。",
+          "editorialStatus": "draft"
+        }
+      },
+      "contentAdvisory": {
+        "nsfw": false
+      }
+    },
+    "slumberers-universe": {
+      "schemaVersion": 1,
+      "slug": "slumberers-universe",
+      "originalTitle": "Slumberer's Universe",
+      "taxonomy": {
+        "genres": [
+          "rpg"
+        ],
+        "themes": [
+          "horror",
+          "drama"
+        ],
+        "contentType": "full-game",
+        "mechanics": [
+          "action-battle"
+        ]
+      },
+      "developers": [
+        {
+          "name": "fsorsat",
+          "url": "https://github.com/fsorsat"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/00due-rupuauto-game/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "00due-rupuauto-game",
+          "title": "Slumberer's Universe",
+          "languages": [
+            "en"
+          ],
+          "nsfw": false,
+          "notes": "Open-source web port/devbuild of the commercial game (repo 00due/rupuauto-game, branch web)."
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/00due/rupuauto-game",
+          "https://webrpg.org/00due-rupuauto-game/",
+          "https://store.steampowered.com/app/2140980/"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 6,
+      "assessedAt": "2026-11-13",
+      "assessmentSources": [
+        "https://github.com/00due/rupuauto-game",
+        "https://webrpg.org/00due-rupuauto-game/",
+        "https://store.steampowered.com/app/2140980/"
+      ],
+      "assessmentNote": "Commercial game with a multi-platform release: Steam app 2140980, $4.99, released 2025-08-20, 16 achievements, English only (store page verified 2026-11-13); itch.io $5 (fsorsat); Grouvee and TapTap listings; 50gameslike surreal-games list. Steam description (verified): 'Slumberer's Universe tells a story of a grieving middle schooler struggling with loss. Months have passed since Alph's best friend Walter died in a car accident.' — 'A unique turn-based-meets-action battle system that's been praised by players!' The indexed instance is an open-source web port/devbuild (repo README: 'based on the latest Slumberer's Universe source code'); its data matches the commercial game exactly (167 maps / 2432 events / 3553 English dialogue lines; maps house_alph, school, outside_forest, labo, walterDeath, hw_guilt, hw_hell; protagonist Alph, Walter's death, homework/chase sequences). Popularity 6 (commercial multi-platform release + aggregator listings + active updates); rating blank — no review-count evidence retrievable (SteamSpy reports 0 reviews, Steam appreviews endpoint returns 302). The old meta had no languages field and genres [minigame] — corrected by measurement to [en] and [rpg]; the old alias 'Rupu Auto' is only the fork/repo name, not adopted. Repo 1 star.",
+      "release": {
+        "date": "2025-08-20",
+        "originalPlatforms": [
+          "Windows",
+          "macOS",
+          "Linux"
+        ]
+      },
+      "publishers": [
+        {
+          "name": "fsorsat"
+        }
+      ],
+      "translatedTitles": {
+        "zh-Hans": "沉睡者宇宙",
+        "ja": "スランバラーズ・ユニバース"
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "英语心理恐怖 JRPG：中学生 Alph 的好友 Walter 几个月前死于车祸，Alph 始终无法走出这份悲伤。某天，Walter 留下的一件遗物让一连串改变人生的事件开始了——在一个正在消逝的超现实世界里，Alph 必须面对被埋葬的记忆与那个想要抹去的自己。Steam 2025 年 8 月 20 日发售，回合制与动作结合的战斗系统。167 张地图、3553 行对白。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "An English psychological horror JRPG: months have passed since Alph's best friend Walter died in a car accident, and Alph still cannot overcome the loss. One day, something Walter left behind sets a series of life-changing events in motion — in a strange, fading, surreal world, Alph must confront his buried memories and the part of himself he wanted to erase. Released on Steam on 2025-08-20, with a turn-based-meets-action battle system. 167 maps, 3,553 dialogue lines.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "英語の心理ホラーJRPG。中学生アルフの親友ウォルターが数ヶ月前に交通事故で亡くなり、アルフはその悲しみから立ち直れずにいる。ある日、ウォルターが残したものが人生を変える出来事の連鎖を引き起こす——消えゆく超現実的な世界で、アルフは埋もれた記憶と、消し去りたかった自分自身と向き合わなければならない。Steamで2025年8月20日に発売。ターン制とアクションを組み合わせた戦闘システム。167マップ・3,553行の台詞。",
+          "editorialStatus": "draft"
+        }
+      },
+      "externalLinks": [
+        {
+          "url": "https://store.steampowered.com/app/2140980/",
+          "type": "store",
+          "label": "Slumberer's Universe on Steam"
+        }
+      ],
+      "contentAdvisory": {
+        "nsfw": false,
+        "warnings": [
+          "Contains depictions of suicide and self-harm (per Steam's content description)."
+        ]
+      }
+    },
+    "smut-summoner": {
+      "schemaVersion": 1,
+      "slug": "smut-summoner",
+      "originalTitle": "Smut Summoner",
+      "taxonomy": {
+        "genres": [
+          "rpg"
+        ],
+        "themes": [
+          "fantasy"
+        ],
+        "contentType": "full-game",
+        "mechanics": [
+          "summoning",
+          "collection"
+        ]
+      },
+      "developers": [
+        {
+          "name": "DOAmaster",
+          "url": "https://github.com/DOAmaster"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/DOAmaster-GameOff2022TSS/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "doamaster-gameoff2022tss",
+          "title": "Smut Summoner",
+          "languages": [
+            "en"
+          ],
+          "nsfw": true
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/DOAmaster/GameOff2022TSS",
+          "https://webrpg.org/DOAmaster-GameOff2022TSS/"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 1,
+      "assessedAt": "2026-11-13",
+      "assessmentSources": [
+        "https://github.com/DOAmaster/GameOff2022TSS",
+        "https://webrpg.org/DOAmaster-GameOff2022TSS/"
+      ],
+      "assessmentNote": "No external traces found for THIS game — the CageyGames 'Smut Summoner' in search results is a different, unrelated commercial game (450-creature collectathon) and must not be conflated with this GameOff 2022 jam prototype (README: 'GameOff2022 project for Team S*** Storm'). In-repo: 2 maps / 3 events / 0 map dialogue, but the content lives in 40 CommonEvents with 216 English dialogue lines (Start1, ProcessRune, PlayIntro, ProcessReward, RandomDryad/Erinyes/Fairy/Gnome/Goblin/Halfling/Mermaid/Naga/Succubus/Tiefling/Woodelf, DiscoverDryad … DiscoverWoodelf; switches discoveredDryad … discoveredWoodelf; STV_BeastBook plugin); the intro verse confirms the lewd spellbook theme ('Oh, look who's here, a summoner brand new', 'with me it's much more intimate', 'a peek into the naughty and the pervasive'). nsfw true (old meta true, confirmed by CE dialogue). Repo 0 stars; rating blank; popularity 1.",
+      "translatedTitles": {
+        "zh-Hans": "色情召唤师",
+        "ja": "スマット・サモナー"
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "英语成人召唤游戏：GameOff 2022 参赛作品。玩家得到一本下流的魔法书（“让我看看那些下流又无处不在的东西”），刻下符文、随机召唤生物——树精、复仇女神、仙子、哥布林、半身人、美人鱼、娜迦、魅魔、提夫林、木精灵——逐个发现并收进图鉴。内容全在 40 个公共事件里，共 216 行对白。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "An English adult summoner game, a GameOff 2022 jam entry: the player receives a lewd spellbook ('a peek into the naughty and the pervasive'), inscribes a rune and randomly summons a creature — dryad, erinyes, fairy, gnome, goblin, halfling, mermaid, naga, succubus, tiefling or wood elf — discovering each one and logging it in the bestiary. The content lives entirely in 40 CommonEvents, 216 dialogue lines.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "英語のアダルト召喚ゲーム。GameOff 2022の参加作品。プレイヤーは下品な魔法の本を手に入れ（「下品で至る所にあるものを覗いてみよう」）、ルーンを刻んでランダムにクリーチャーを召喚する——ドライアド、エリニュス、フェアリー、ノーム、ゴブリン、ハーフリング、マーメイド、ナーガ、サキュバス、ティーフリング、ウッドエルフ。1体ずつ発見して図鑑に記録していく。内容はすべて40のコモンイベントにあり、216行の台詞。",
+          "editorialStatus": "draft"
+        }
+      },
+      "contentAdvisory": {
+        "nsfw": true,
+        "warnings": [
+          "Explicit sexual content; 18+ only (lewd summoning theme; succubus and other erotic creature summons)."
+        ]
       }
     }
   }
