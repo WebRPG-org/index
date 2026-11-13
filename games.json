@@ -15148,6 +15148,691 @@
           "explicit sexual content"
         ]
       }
+    },
+    "madogigua": {
+      "schemaVersion": 1,
+      "slug": "madogigua",
+      "originalTitle": "Madogigua",
+      "taxonomy": {
+        "genres": [
+          "adventure"
+        ],
+        "themes": [
+          "fantasy"
+        ],
+        "contentType": "full-game",
+        "mechanics": [
+          "trivia"
+        ]
+      },
+      "developers": [],
+      "media": {
+        "cover": "https://webrpg.org/gitsets-madogigua/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "gitsets-madogigua",
+          "title": "Madogigua",
+          "languages": [
+            "en"
+          ],
+          "nsfw": false
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/gitsets/madogigua",
+          "https://webrpg.org/gitsets-madogigua/"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 1,
+      "assessedAt": "2026-11-13",
+      "assessmentSources": [
+        "https://github.com/gitsets/madogigua",
+        "https://webrpg.org/gitsets-madogigua/"
+      ],
+      "assessmentNote": "No external traces found (search hits are unrelated); 7 maps / 178 dialogue lines in-repo (dream rooms, broken bridges, crystals, trivia gates on mathematicians' homophones and JOJO titles); repo 0 stars; rating blank; popularity 1.",
+      "translatedTitles": {
+        "zh-Hans": "马多吉瓜",
+        "ja": "マドギグア"
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "梦境冒险小品：在梦中的房间之间穿梭，修复断桥、收集水晶，回答关于数学家同音词与 JOJO 的谜题。7 张地图、178 行对白。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "A dream-world adventure vignette: wander between dream rooms, repair broken bridges, gather crystals, and answer trivia about mathematicians' homophones and JOJO. 7 maps, 178 dialogue lines.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "夢の世界の冒険小品。夢の部屋を巡り、壊れた橋を直し、結晶を集め、数学者の同音異義語やJOJOにまつわる謎かけに答える。7マップ・178行の台詞。",
+          "editorialStatus": "draft"
+        }
+      },
+      "contentAdvisory": {
+        "nsfw": false
+      }
+    },
+    "magic-sword-ruche-reed": {
+      "schemaVersion": 1,
+      "slug": "magic-sword-ruche-reed",
+      "originalTitle": "魔剣ルシェリード",
+      "taxonomy": {
+        "genres": [
+          "rpg"
+        ],
+        "themes": [
+          "fantasy"
+        ],
+        "contentType": "full-game",
+        "mechanics": [
+          "deck-building"
+        ]
+      },
+      "developers": [
+        {
+          "name": "akanetr",
+          "url": "https://github.com/akanetr"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/akanetr-devil_sword/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "akanetr-devil-sword",
+          "title": "Magic Sword Ruche Reed",
+          "languages": [
+            "en"
+          ],
+          "nsfw": true
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/akanetr/devil_sword",
+          "https://webrpg.org/akanetr-devil_sword/"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 2,
+      "assessedAt": "2026-11-13",
+      "assessmentSources": [
+        "https://github.com/akanetr/devil_sword",
+        "https://webrpg.org/akanetr-devil_sword/"
+      ],
+      "assessmentNote": "No direct external hit for this game (search hits are the Capcom arcade game Magic Sword and other unrelated works); 114 maps / 3684 dialogue lines in-repo (20-card skill-deck battles, towns/caves/ruins/Abyss Prison, witch mansion, book labyrinth); nsfw false -> true: about 30 tickling switches (tickling-slave switch, battle-tickling settings, tickling attacks A-D), a 'Tickling slave' map, recollection room/battle switches, and '[Derivation condition]: Elysia is naked.'; same author (akanetr) as Bathroom Maze; zh-Hans title is a transliteration; repo 2 stars; rating blank; popularity 2.",
+      "translatedTitles": {
+        "zh-Hans": "魔剑鲁谢里德",
+        "en": "Magic Sword Ruche Reed"
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "日式幻想 RPG：以技能卡组构筑战斗，穿越城镇、洞窟、遗迹与深渊监狱，挑战女巫宅邸与书籍迷宫。114 张地图、3684 行对白（本移植版为英文版）。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "A Japanese fantasy RPG: build a 20-card skill deck for battle and explore towns, caves, ruins and the Abyss Prison, challenging the witch's mansion and the book labyrinth. 114 maps, 3,684 dialogue lines (this build is the English version).",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "日本のファンタジーRPG。20枚のスキルカードでデッキを組み、町、洞窟、遺跡、深淵の監獄を巡り、魔女の館と書の迷宮に挑む。114マップ・3684行の台詞（本ビルドは英語版）。",
+          "editorialStatus": "draft"
+        }
+      },
+      "contentAdvisory": {
+        "nsfw": true,
+        "warnings": [
+          "tickling-fetish content: extensive tickling switches and battle-tickling settings, a tickling-slave map, and a CG recollection room"
+        ]
+      }
+    },
+    "de-regreso-a-casa": {
+      "schemaVersion": 1,
+      "slug": "de-regreso-a-casa",
+      "originalTitle": "De Regreso a Casa",
+      "taxonomy": {
+        "genres": [
+          "rpg"
+        ],
+        "themes": [
+          "sci-fi"
+        ],
+        "contentType": "full-game"
+      },
+      "developers": [],
+      "media": {
+        "cover": "https://webrpg.org/AnibalSJ-Last-Years/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "anibalsj-last-years",
+          "title": "De Regreso a Casa",
+          "languages": [
+            "es"
+          ],
+          "nsfw": false
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/AnibalSJ/Last-Years",
+          "https://webrpg.org/AnibalSJ-Last-Years/"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 1,
+      "assessedAt": "2026-11-13",
+      "assessmentSources": [
+        "https://github.com/AnibalSJ/Last-Years",
+        "https://webrpg.org/AnibalSJ-Last-Years/"
+      ],
+      "assessmentNote": "No external traces found (search hits are unrelated works); 19 maps / 107 dialogue lines in-repo, all Spanish (Deinsuru wakes in a cave, farm/grandparents' house, then spaceship/command post/laboratory); in-game title 'De Regreso a Casa' follows the v1.1 review, System.json keeps the project name 'Mapa nuevo en mv' (kept as aliases.es); en/ja titles are translations; repo 0 stars; rating blank; popularity 1.",
+      "translatedTitles": {
+        "zh-Hans": "归家",
+        "en": "Coming Home",
+        "ja": "家への帰り道"
+      },
+      "aliases": {
+        "es": [
+          "Mapa nuevo en mv"
+        ]
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "西班牙语归家冒险：Deinsuru 在洞窟中醒来，寻找出口，途中经过农场与祖父母家，最终登上飞船、深入指挥所与实验室。19 张地图、107 行对白。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "A Spanish homecoming adventure: Deinsuru wakes in a cave and searches for the way out, passing the farm and his grandparents' house before boarding a spaceship and delving into the command post and laboratory. 19 maps, 107 dialogue lines.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "スペイン語の帰郷アドベンチャー。洞窟で目覚めたデインスルは出口を探し、農場と祖父母の家を経て宇宙船に乗り、司令室と実験室へ向かう。19マップ・107行の台詞。",
+          "editorialStatus": "draft"
+        }
+      },
+      "contentAdvisory": {
+        "nsfw": false
+      }
+    },
+    "marcapada-rpg": {
+      "schemaVersion": 1,
+      "slug": "marcapada-rpg",
+      "originalTitle": "Marcapada RPG",
+      "taxonomy": {
+        "genres": [
+          "rpg"
+        ],
+        "themes": [
+          "sci-fi",
+          "fantasy"
+        ],
+        "contentType": "full-game"
+      },
+      "developers": [],
+      "media": {
+        "cover": "https://webrpg.org/rtlh0-marcarpg/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "rtlh0-marcarpg",
+          "title": "Marcapada RPG",
+          "languages": [
+            "en"
+          ],
+          "nsfw": false
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/rtlh0/marcarpg",
+          "https://webrpg.org/rtlh0-marcarpg/"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 1,
+      "assessedAt": "2026-11-13",
+      "assessmentSources": [
+        "https://github.com/rtlh0/marcarpg",
+        "https://webrpg.org/rtlh0-marcarpg/"
+      ],
+      "assessmentNote": "No external traces found (search hits are MARDEK, Maraka and other unrelated games); 80 maps / 3341 dialogue lines in-repo (Roinnteia castle/university/library, Owl Corp shops, Accelamech Factory, Zaherabad market, Tenwan airport; opening: war + accelerationist insurgency + epidemic, borders shut); repo 0 stars; rating blank; popularity 1.",
+      "translatedTitles": {
+        "zh-Hans": "马卡帕达 RPG",
+        "ja": "マルカパーダRPG"
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "奇幻科幻 RPG：在战争、加速主义叛乱与疫情并行的世界里，穿越 Roinnteia 的城堡、大学与大图书馆，探索 Owl Corp 商店、工厂与异界传送门。80 张地图、3341 行对白。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "A fantasy/sci-fi RPG: in a world of war, accelerationist insurgency and epidemic, cross Roinnteia's castle, university and great library, and explore Owl Corp shops, factories and interdimensional portals. 80 maps, 3,341 dialogue lines.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "ファンタジー／SFのRPG。戦争、加速主義の反乱、疫病が並行する世界で、ロインテイアの城、大学、大図書館を巡り、オウル社の店、工場、異次元ポータルを探索する。80マップ・3341行の台詞。",
+          "editorialStatus": "draft"
+        }
+      },
+      "contentAdvisory": {
+        "nsfw": false
+      }
+    },
+    "mars-bars-save-christmas": {
+      "schemaVersion": 1,
+      "slug": "mars-bars-save-christmas",
+      "originalTitle": "Mars bars save Christmas",
+      "taxonomy": {
+        "genres": [
+          "rpg"
+        ],
+        "themes": [
+          "comedy"
+        ],
+        "contentType": "full-game",
+        "mechanics": [
+          "shop",
+          "gacha"
+        ]
+      },
+      "developers": [],
+      "media": {
+        "cover": "https://webrpg.org/literallycat-marsbarsthegamewebedition/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "literallycat-marsbarsthegamewebedition",
+          "title": "Mars bars save Christmas",
+          "languages": [
+            "en"
+          ],
+          "nsfw": false
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/literallycat/marsbarsthegamewebedition",
+          "https://webrpg.org/literallycat-marsbarsthegamewebedition/"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 1,
+      "assessedAt": "2026-11-13",
+      "assessmentSources": [
+        "https://github.com/literallycat/marsbarsthegamewebedition",
+        "https://webrpg.org/literallycat-marsbarsthegamewebedition/"
+      ],
+      "assessmentNote": "No external traces found (search hits are Mars chocolate Christmas marketing, unrelated); 13 maps / 170 events / 69 dialogue lines in-repo (school gym, ice cave, factory, four boss maps, final scene, coin-spin gacha with gold and Christmas pass; dialogue is thin, mostly item notifications, noted); repo 0 stars; rating blank; popularity 1.",
+      "translatedTitles": {
+        "zh-Hans": "火星棒拯救圣诞节",
+        "ja": "マーズバーがクリスマスを救う"
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "圣诞喜剧小品：火星棒挺身拯救圣诞节——穿越学校体育馆、冰洞与工厂，挑战四位 Boss，用金币抽奖解锁糖果剑与圣诞通行证。13 张地图、69 行对白。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "A Christmas comedy vignette: Mars bars save Christmas — cross the school gym, ice cave and factory, face four bosses, and spin coins to unlock a candy sword and a Christmas pass. 13 maps, 69 dialogue lines.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "クリスマスコメディの小品。マーズバーがクリスマスを救う——学校の体育館、氷の洞窟、工場を越え、4人のボスに挑み、コインガチャでキャンディソードとクリスマスパスを手に入れる。13マップ・69行の台詞。",
+          "editorialStatus": "draft"
+        }
+      },
+      "contentAdvisory": {
+        "nsfw": false
+      }
+    },
+    "mask-of-dead-2-shadow-of-pelagius": {
+      "schemaVersion": 1,
+      "slug": "mask-of-dead-2-shadow-of-pelagius",
+      "originalTitle": "Mask of Dead 2: Shadow of Pelagius",
+      "taxonomy": {
+        "genres": [
+          "rpg"
+        ],
+        "themes": [
+          "fantasy",
+          "horror"
+        ],
+        "contentType": "full-game",
+        "mechanics": [
+          "tactical-combat"
+        ]
+      },
+      "developers": [
+        {
+          "name": "Klimber"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/KlimberKG-Mask_of_Dead_2_Shadow_of_Pelagius/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "klimberkg-mask-of-dead-2-shadow-of-pelagius",
+          "title": "Mask of Dead 2: Shadow of Pelagius",
+          "languages": [
+            "ru"
+          ],
+          "nsfw": true
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://store.steampowered.com/app/3439950/",
+          "https://github.com/KlimberKG/Mask_of_Dead_2_Shadow_of_Pelagius",
+          "https://webrpg.org/KlimberKG-Mask_of_Dead_2_Shadow_of_Pelagius/"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 4,
+      "assessedAt": "2026-11-13",
+      "assessmentSources": [
+        "https://store.steampowered.com/app/3439950/",
+        "https://github.com/KlimberKG/Mask_of_Dead_2_Shadow_of_Pelagius",
+        "https://webrpg.org/KlimberKG-Mask_of_Dead_2_Shadow_of_Pelagius/"
+      ],
+      "assessmentNote": "Steam app 3439950 (released 2025-02-21, $7.99, demo, itch.io listing by Klimber, Grouvee entry); 277 maps / 6506 dialogue lines in-repo (12 chapters, Riom Ruri's first scouting mission, Purgatory rebuilt, 7 endings per Steam); languages corrected [en] -> [ru] (dialogue verified Russian); nsfw false -> true: Steam's mature-content description states 'The game contains erotic art, without showing genitals or nipples.'; Steam review count could not be retrieved (appreviews endpoint returned empty), so rating is blank; zh-Hans/ja titles are translations; popularity 4.",
+      "release": {
+        "date": "2025-02-21",
+        "originalPlatforms": [
+          "Steam"
+        ]
+      },
+      "translatedTitles": {
+        "zh-Hans": "亡者面具2：佩拉吉乌斯之影",
+        "ja": "マスク・オブ・デッド2：シャドウ・オブ・ペラギウス"
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "俄语大型 JRPG：死神学徒 Riom Ruri 首次执行侦察任务，在炼狱重建之后直面兄长们过去的错误，7 种结局；战术战斗讲究速度、冷却、闪避与反击。277 张地图、6506 行对白（2025 年 2 月 21 日 Steam 发售）。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "A large Russian JRPG: Riom Ruri, apprentice reaper and son of the High Reaper, takes his first scouting mission and faces his brothers' past mistakes as Purgatory is rebuilt — 7 endings, with tactical combat built on speed, cooldowns, dodging and counters. 277 maps, 6,506 dialogue lines (released on Steam February 21, 2025).",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "ロシアの大作JRPG。死神の見習いリオム・ルリは初めての偵察任務で、煉獄の再建のさなか兄たちの過去の過ちと向き合う。7つのエンディング。速度、クールダウン、回避と反撃の戦術バトル。277マップ・6506行の台詞（2025年2月21日Steam配信）。",
+          "editorialStatus": "draft"
+        }
+      },
+      "externalLinks": [
+        {
+          "url": "https://store.steampowered.com/app/3439950/",
+          "type": "store",
+          "label": "Steam"
+        }
+      ],
+      "contentAdvisory": {
+        "nsfw": true,
+        "warnings": [
+          "erotic art (no explicit nudity, per the developer's Steam mature-content description)"
+        ]
+      }
+    },
+    "masters-of-ahs": {
+      "schemaVersion": 1,
+      "slug": "masters-of-ahs",
+      "originalTitle": "Masters of AHS",
+      "taxonomy": {
+        "genres": [
+          "adventure"
+        ],
+        "themes": [
+          "slice-of-life"
+        ],
+        "contentType": "full-game"
+      },
+      "developers": [],
+      "media": {
+        "cover": "https://webrpg.org/TeamCstudios-mastersofahs/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "teamcstudios-mastersofahs",
+          "title": "Masters of AHS",
+          "languages": [
+            "en"
+          ],
+          "nsfw": false
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/TeamCstudios/mastersofahs",
+          "https://webrpg.org/TeamCstudios-mastersofahs/"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 1,
+      "assessedAt": "2026-11-13",
+      "assessmentSources": [
+        "https://github.com/TeamCstudios/mastersofahs",
+        "https://webrpg.org/TeamCstudios-mastersofahs/"
+      ],
+      "assessmentNote": "No external traces found (search hits are unrelated); 3 maps / 25 events / 28 dialogue lines in-repo (Jo and Olivia search the creek for Mr. Hill, tutorial, test fight, Bruiser encounter); 'fuck' hit is dialogue profanity ('Bruiser: EY! FUCK OFF!'), nsfw stays false; repo 0 stars; rating blank; popularity 1.",
+      "translatedTitles": {
+        "zh-Hans": "AHS大师",
+        "ja": "マスターズ・オブ・AHS"
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "校园生活小品：Jo 与 Olivia 沿着小溪寻找失踪的 Hill 先生，含新手教程与试炼战斗。3 张地图、28 行对白。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "A school-life vignette: Jo and Olivia search the creek for the missing Mr. Hill, with a tutorial and a test fight along the way. 3 maps, 28 dialogue lines.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "学園生活の小品。ジョーとオリビアは小川沿いで行方不明のヒル先生を探す。チュートリアルとテスト戦闘つき。3マップ・28行の台詞。",
+          "editorialStatus": "draft"
+        }
+      },
+      "contentAdvisory": {
+        "nsfw": false
+      }
+    },
+    "math-rpg": {
+      "schemaVersion": 1,
+      "slug": "math-rpg",
+      "originalTitle": "MATH RPG V1.5",
+      "taxonomy": {
+        "genres": [
+          "rpg"
+        ],
+        "themes": [
+          "educational"
+        ],
+        "contentType": "full-game"
+      },
+      "developers": [],
+      "media": {
+        "cover": "https://webrpg.org/Donaldcpk-MathRpgJS/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "donaldcpk-mathrpgjs",
+          "title": "MATH RPG V1.5",
+          "languages": [
+            "zh-Hant"
+          ],
+          "nsfw": false
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/Donaldcpk/MathRpgJS",
+          "https://webrpg.org/Donaldcpk-MathRpgJS/"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 1,
+      "assessedAt": "2026-11-13",
+      "assessmentSources": [
+        "https://github.com/Donaldcpk/MathRpgJS",
+        "https://webrpg.org/Donaldcpk-MathRpgJS/"
+      ],
+      "assessmentNote": "No external traces found (search hits are other math RPGs); 23 maps / 542 dialogue lines in-repo, all Traditional Chinese (forest town, castle, school maps, temple guardian, password doors, greedy-gold joke); repo 1 star; rating blank; popularity 1.",
+      "translatedTitles": {
+        "zh-Hans": "数学RPG",
+        "ja": "数学RPG"
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "繁中数学教育 RPG：在森林城镇、城堡与学校之间冒险，挑战神殿守卫与密码门，含贪心彩蛋对白。23 张地图、542 行对白。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "A Traditional Chinese math-education RPG: adventure through a forest town, castle and school, challenge the temple guardian and password doors, with a greedy-gold joke tucked in. 23 maps, 542 dialogue lines.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "繁体字中国語の数学教育RPG。森の町、城、学校を冒険し、神殿の守衛とパスワードの扉に挑む。欲張りな金のジョークつき。23マップ・542行の台詞。",
+          "editorialStatus": "draft"
+        }
+      },
+      "contentAdvisory": {
+        "nsfw": false
+      }
+    },
+    "shu-xue-you-xi-shei-shi-xiong-shou": {
+      "schemaVersion": 1,
+      "slug": "shu-xue-you-xi-shei-shi-xiong-shou",
+      "originalTitle": "數學遊戲 誰是殺手",
+      "taxonomy": {
+        "genres": [
+          "rpg",
+          "adventure"
+        ],
+        "themes": [
+          "mystery"
+        ],
+        "contentType": "full-game",
+        "mechanics": [
+          "math-puzzles"
+        ]
+      },
+      "developers": [],
+      "media": {
+        "cover": "https://webrpg.org/jackHuang1130-68ba90b5-358d-407f-a2f9-e79ba757286d/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "jackhuang1130-68ba90b5-358d-407f-a2f9-e79ba757286d",
+          "title": "數學遊戲 誰是殺手",
+          "languages": [
+            "zh-Hant"
+          ],
+          "nsfw": false
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/jackHuang1130/68ba90b5-358d-407f-a2f9-e79ba757286d",
+          "https://webrpg.org/jackHuang1130-68ba90b5-358d-407f-a2f9-e79ba757286d/"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 1,
+      "assessedAt": "2026-11-13",
+      "assessmentSources": [
+        "https://github.com/jackHuang1130/68ba90b5-358d-407f-a2f9-e79ba757286d",
+        "https://webrpg.org/jackHuang1130-68ba90b5-358d-407f-a2f9-e79ba757286d/"
+      ],
+      "assessmentNote": "No external traces found (search hits are The Math Problem Killer and other unrelated works); 22 maps / 1662 dialogue lines in-repo, all Traditional Chinese (title screen '數學遊戲 / 誰是「兇手」', victim Mouri Daigorou, suspects incl. his sister Mouri Nan, password doors, multiple bad endings); slug is the Hanyu Pinyin of the original title; repo 0 stars; rating blank; popularity 1.",
+      "translatedTitles": {
+        "en": "Math Game: Who Is the Killer",
+        "ja": "数学ゲーム：犯人は誰だ"
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "繁中数学推理 RPG：数学研究者毛利大五廊遇害，玩家在公寓、学校、警察局与实验室之间搜查，用数学谜题与密码门追查「兇手」，多结局。22 张地图、1662 行对白。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "A Traditional Chinese math-mystery RPG: math researcher Mouri Daigorou is murdered; search apartments, the school, the police station and the laboratory, solving math puzzles and password doors to find the killer — multiple endings. 22 maps, 1,662 dialogue lines.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "繁体字中国語の数学ミステリーRPG。数学研究者の毛利大五廊が殺害され、アパート、学校、警察署、実験室を捜査し、数学パズルとパスワードの扉で「兇手」を追う。マルチエンディング。22マップ・1662行の台詞。",
+          "editorialStatus": "draft"
+        }
+      },
+      "contentAdvisory": {
+        "nsfw": false
+      }
     }
   }
 }

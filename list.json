@@ -19469,17 +19469,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/gitsets-madogigua/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "adventure"
-      ],
-      "languages": [
-        "en"
-      ],
-      "nsfw": false,
+      "gameSlug": "madogigua",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-08"
+      "nsfw": false,
+      "reviewedAt": "2026-11-08",
+      "reviewedSourceHeadSha": "6cd410bb2371dfdafc3af4fc8074b08185474f5d"
     }
   },
   {
@@ -19509,22 +19503,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/akanetr-devil_sword/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "aliases": [
-        "Magic Sword Ruche Reed"
-      ],
-      "genres": [
-        "rpg",
-        "fantasy"
-      ],
-      "languages": [
-        "en"
-      ],
-      "nsfw": false,
+      "gameSlug": "magic-sword-ruche-reed",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
+      "nsfw": true,
       "reviewedAt": "2026-11-08",
-      "title": "魔剣ルシェリード"
+      "reviewedSourceHeadSha": "399e10ce89bf01dbb8e13e62bd54f4de736e73e5"
     }
   },
   {
@@ -19554,16 +19537,8 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/blairwilcox-magic-battle/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg"
-      ],
-      "languages": [
-        "en"
-      ],
+      "playable": false,
       "nsfw": false,
-      "playable": true,
-      "popularity": 2,
-      "rating": 5,
       "reviewedAt": "2026-11-08"
     }
   },
@@ -19666,21 +19641,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/AnibalSJ-Last-Years/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "aliases": [
-        "Mapa nuevo en mv"
-      ],
-      "genres": [
-        "rpg"
-      ],
-      "languages": [
-        "es"
-      ],
-      "nsfw": false,
+      "gameSlug": "de-regreso-a-casa",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
+      "nsfw": false,
       "reviewedAt": "2026-11-08",
-      "title": "De Regreso a Casa"
+      "reviewedSourceHeadSha": "d21d8d8421a18dfd996968d1c0268bbf1199b3bb"
     }
   },
   {
@@ -19769,18 +19734,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/rtlh0-marcarpg/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg",
-        "sci-fi"
-      ],
-      "languages": [
-        "en"
-      ],
-      "nsfw": false,
+      "gameSlug": "marcapada-rpg",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-08"
+      "nsfw": false,
+      "reviewedAt": "2026-11-08",
+      "reviewedSourceHeadSha": "b54bac65b4becb08c7cc74c76f84ab2c78a5fb12"
     }
   },
   {
@@ -19810,18 +19768,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/literallycat-marsbarsthegamewebedition/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg",
-        "comedy"
-      ],
-      "languages": [
-        "en"
-      ],
-      "nsfw": false,
+      "gameSlug": "mars-bars-save-christmas",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-08"
+      "nsfw": false,
+      "reviewedAt": "2026-11-08",
+      "reviewedSourceHeadSha": "c07ca83bc0c2844773a1ee41c9e82b97d92a195f"
     }
   },
   {
@@ -19851,19 +19802,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/KlimberKG-Mask_of_Dead_2_Shadow_of_Pelagius/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg",
-        "fantasy",
-        "horror"
-      ],
-      "languages": [
-        "en"
-      ],
-      "nsfw": false,
+      "gameSlug": "mask-of-dead-2-shadow-of-pelagius",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-08"
+      "nsfw": true,
+      "reviewedAt": "2026-11-08",
+      "reviewedSourceHeadSha": "8db461c4efe51c6fbb4c4770315f1c2c00b913c7"
     }
   },
   {
@@ -19911,18 +19854,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/TeamCstudios-mastersofahs/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg",
-        "slice-of-life"
-      ],
-      "languages": [
-        "en"
-      ],
-      "nsfw": false,
+      "gameSlug": "masters-of-ahs",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-08"
+      "nsfw": false,
+      "reviewedAt": "2026-11-08",
+      "reviewedSourceHeadSha": "5f4bb0fc8d8ec88a86ebffa3ce86a3d68b94780e"
     }
   },
   {
@@ -19952,18 +19888,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/Donaldcpk-MathRpgJS/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg",
-        "educational"
-      ],
-      "languages": [
-        "zh-Hant"
-      ],
-      "nsfw": false,
+      "gameSlug": "math-rpg",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-08"
+      "nsfw": false,
+      "reviewedAt": "2026-11-08",
+      "reviewedSourceHeadSha": "309c40fd357918f71bad8dc82ec8434d7ddfebcd"
     }
   },
   {
@@ -20015,21 +19944,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/jackHuang1130-68ba90b5-358d-407f-a2f9-e79ba757286d/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "aliases": [
-        "數學遊戲 誰是殺手"
-      ],
-      "genres": [
-        "rpg",
-        "mystery"
-      ],
-      "languages": [
-        "zh-Hant"
-      ],
-      "nsfw": false,
+      "gameSlug": "shu-xue-you-xi-shei-shi-xiong-shou",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-08"
+      "nsfw": false,
+      "reviewedAt": "2026-11-08",
+      "reviewedSourceHeadSha": "31cc70dcbaa43277cf83f7b80e68818bd726ecfe"
     }
   },
   {
