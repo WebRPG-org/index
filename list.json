@@ -18279,18 +18279,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/ealiagay-RPG-Web-Game-Vercel/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg"
-      ],
-      "languages": [
-        "en",
-        "es"
-      ],
-      "nsfw": false,
+      "gameSlug": "la-conciencia-perdida",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "nsfw": false,
+      "reviewedAt": "2026-11-07",
+      "reviewedSourceHeadSha": "047f68feac3d874db754af474472992dd0e60b3f"
     }
   },
   {
@@ -18320,17 +18313,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/davidcolla11-La-Cruzada-del-Ebola/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg"
-      ],
-      "languages": [
-        "es"
-      ],
-      "nsfw": false,
+      "gameSlug": "la-cruzada-del-ebola",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "nsfw": false,
+      "reviewedAt": "2026-11-07",
+      "reviewedSourceHeadSha": "bb766c9c74440d3358d5fe7423df4ccaf05ff748"
     }
   },
   {
@@ -18360,18 +18347,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/CesarVfilo-videojuegosyfilosofia/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "adventure",
-        "educational"
-      ],
-      "languages": [
-        "es"
-      ],
-      "nsfw": false,
+      "gameSlug": "la-dialectica-de-los-suenos",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "nsfw": false,
+      "reviewedAt": "2026-11-07",
+      "reviewedSourceHeadSha": "1e6e14ca070210a97f3e426aead47c9c077d40c8"
     }
   },
   {
@@ -18400,17 +18380,11 @@
     "sourceHeadSha": "7eee5891c5eca31d65720946c0eefa3c6a1dbc10",
     "processedHeadSha": "0cf90c8381bc3a75e473dfaccd84c1faa070e2f4",
     "meta": {
-      "reviewedAt": "2026-11-12",
+      "gameSlug": "la-leyenda-de-harold",
       "playable": true,
-      "rating": 5,
-      "popularity": 2,
-      "genres": [
-        "rpg"
-      ],
       "nsfw": false,
-      "languages": [
-        "es"
-      ]
+      "reviewedAt": "2026-11-12",
+      "reviewedSourceHeadSha": "7eee5891c5eca31d65720946c0eefa3c6a1dbc10"
     }
   },
   {
@@ -18440,17 +18414,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/kaotickj-Labyrinth/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "strategy"
-      ],
-      "languages": [
-        "en"
-      ],
-      "nsfw": false,
+      "gameSlug": "labyrinth",
       "playable": true,
-      "popularity": 3,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "nsfw": false,
+      "reviewedAt": "2026-11-07",
+      "reviewedSourceHeadSha": "f2f6e7bbac4440d2062b8745441062ba8a3e46ad"
     }
   },
   {
@@ -18480,19 +18448,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/dovmantov-Lack-of-Life/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg",
-        "slice-of-life"
-      ],
-      "languages": [
-        "ru",
-        "en"
-      ],
-      "nsfw": false,
+      "gameSlug": "lack-of-life",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "nsfw": false,
+      "reviewedAt": "2026-11-07",
+      "reviewedSourceHeadSha": "3989a425f99d9b6482b0ddc713cd8d90d3a85160"
     }
   },
   {
@@ -18560,13 +18520,8 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/drusepth-game-sandbox/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg"
-      ],
+      "playable": false,
       "nsfw": false,
-      "playable": true,
-      "popularity": 2,
-      "rating": 5,
       "reviewedAt": "2026-11-07"
     }
   },
@@ -18655,17 +18610,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/28mcross-prog-28mcross-prog.github.io/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg"
-      ],
-      "languages": [
-        "en"
-      ],
-      "nsfw": false,
+      "gameSlug": "lets-go-gambilng",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-08"
+      "nsfw": false,
+      "reviewedAt": "2026-11-08",
+      "reviewedSourceHeadSha": "99bb6786951b39023ab6d04f6f5f65fb7c4fdaaf"
     }
   },
   {
@@ -18715,17 +18664,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/PritamSutradhar123-LibreQuestDayThree/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg"
-      ],
-      "languages": [
-        "en"
-      ],
-      "nsfw": false,
+      "gameSlug": "libre-quest-day-three",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-08"
+      "nsfw": false,
+      "reviewedAt": "2026-11-08",
+      "reviewedSourceHeadSha": "873d07403ddf45062f0ac3ca3e62ac14f441259f"
     }
   },
   {
@@ -18755,16 +18698,8 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/Yjjsw-LiChuan/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "adventure"
-      ],
-      "languages": [
-        "zh-Hans"
-      ],
+      "playable": false,
       "nsfw": false,
-      "playable": true,
-      "popularity": 2,
-      "rating": 5,
       "reviewedAt": "2026-11-07"
     }
   },

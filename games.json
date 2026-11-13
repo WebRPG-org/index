@@ -13984,6 +13984,585 @@
       "contentAdvisory": {
         "nsfw": false
       }
+    },
+    "la-conciencia-perdida": {
+      "schemaVersion": 1,
+      "slug": "la-conciencia-perdida",
+      "originalTitle": "La Conciencia Perdida",
+      "taxonomy": {
+        "genres": [
+          "rpg"
+        ],
+        "themes": [
+          "fantasy",
+          "drama"
+        ],
+        "contentType": "full-game"
+      },
+      "developers": [],
+      "media": {
+        "cover": "https://webrpg.org/ealiagay-RPG-Web-Game-Vercel/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "ealiagay-rpg-web-game-vercel",
+          "title": "La Conciencia Perdida",
+          "languages": [
+            "es"
+          ],
+          "nsfw": false
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/ealiagay/RPG-Web-Game-Vercel",
+          "https://webrpg.org/ealiagay-RPG-Web-Game-Vercel/"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 1,
+      "assessedAt": "2026-11-13",
+      "assessmentSources": [
+        "https://github.com/ealiagay/RPG-Web-Game-Vercel",
+        "https://webrpg.org/ealiagay-RPG-Web-Game-Vercel/"
+      ],
+      "assessmentNote": "No external traces found; 7 maps / 38 events / 38 dialogue lines in-repo (archangels Miguel/Gabriel/Rafael/Uriel, 3 levels + Final, keys 1-5, minimap); languages corrected [en, es] -> [es] (35/38 lines Spanish, 0 English); repo 0 stars; rating blank; popularity 1.",
+      "translatedTitles": {
+        "zh-Hans": "失落的良知",
+        "en": "The Lost Conscience",
+        "ja": "失われた良心"
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "天使主题 RPG：人类的良知被窃取，路西法遮蔽了人辨别善恶的天赋；大天使米迦勒、加百列、拉斐尔与乌列尔领命出征，穿越三层关卡与最终决战，夺回失落的良知。7 张地图、38 行对白。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "An angelic RPG: humanity's conscience has been stolen and Lucifer has darkened the gift of discerning good from evil; the archangels Michael, Gabriel, Raphael and Uriel take up the mission across three levels and a final stage to recover the lost conscience. 7 maps, 38 dialogue lines.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "天使を題材にしたRPG。人類の良心が盗まれ、ルシファーが善悪を見分ける賜物を曇らせた。大天使ミカエル、ガブリエル、ラファエル、ウリエルが使命を受け、3つのレベルと最終ステージを越えて失われた良心を取り戻す。7マップ・38行の台詞。",
+          "editorialStatus": "draft"
+        }
+      },
+      "contentAdvisory": {
+        "nsfw": false
+      }
+    },
+    "la-cruzada-del-ebola": {
+      "schemaVersion": 1,
+      "slug": "la-cruzada-del-ebola",
+      "originalTitle": "La Cruzada Del Ébola",
+      "taxonomy": {
+        "genres": [
+          "rpg"
+        ],
+        "themes": [
+          "comedy"
+        ],
+        "contentType": "full-game"
+      },
+      "developers": [],
+      "media": {
+        "cover": "https://webrpg.org/davidcolla11-La-Cruzada-del-Ebola/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "davidcolla11-la-cruzada-del-ebola",
+          "title": "La Cruzada Del Ébola",
+          "languages": [
+            "es"
+          ],
+          "nsfw": false
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/davidcolla11/La-Cruzada-del-Ebola",
+          "https://webrpg.org/davidcolla11-La-Cruzada-del-Ebola/"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 1,
+      "assessedAt": "2026-11-13",
+      "assessmentSources": [
+        "https://github.com/davidcolla11/La-Cruzada-del-Ebola",
+        "https://webrpg.org/davidcolla11-La-Cruzada-del-Ebola/"
+      ],
+      "assessmentNote": "No external traces found; 12 maps / 507 dialogue lines in-repo (Austro-Hungarian Empire 2020, King of Uganda, Zelda/Viktor/Elliot, shop, battle test map; 3 maps with 0 events are unfinished wings); repo 0 stars; rating blank; popularity 1.",
+      "translatedTitles": {
+        "zh-Hans": "埃博拉十字军",
+        "en": "The Ebola Crusade",
+        "ja": "エボラ十字軍"
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "喜剧 RPG：2020 年，奥匈帝国，乌干达国王再度来袭；泽尔达、维克托与艾略特踏上十字军东征，对抗埃博拉。12 张地图、507 行对白，含商店与战斗。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "A comedy RPG: in 2020, in the Austro-Hungarian Empire, the King of Uganda attacks again, and Zelda, Viktor and Elliot set out on a crusade against Ebola. 12 maps, 507 dialogue lines, with a shop and battles.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "コメディRPG。2020年、オーストリア＝ハンガリー帝国でウガンダ王が再び襲来し、ゼルダ、ヴィクトル、エリオットがエボラに対する十字軍に出発する。12マップ・507行の台詞。店と戦闘あり。",
+          "editorialStatus": "draft"
+        }
+      },
+      "contentAdvisory": {
+        "nsfw": false
+      }
+    },
+    "la-dialectica-de-los-suenos": {
+      "schemaVersion": 1,
+      "slug": "la-dialectica-de-los-suenos",
+      "originalTitle": "La dialéctica de los sueños",
+      "taxonomy": {
+        "genres": [
+          "adventure"
+        ],
+        "themes": [
+          "educational"
+        ],
+        "contentType": "full-game"
+      },
+      "developers": [],
+      "media": {
+        "cover": "https://webrpg.org/CesarVfilo-videojuegosyfilosofia/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "cesarvfilo-videojuegosyfilosofia",
+          "title": "La dialéctica de los sueños",
+          "languages": [
+            "es"
+          ],
+          "nsfw": false
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/CesarVfilo/videojuegosyfilosofia",
+          "https://webrpg.org/CesarVfilo-videojuegosyfilosofia/"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 1,
+      "assessedAt": "2026-11-13",
+      "assessmentSources": [
+        "https://github.com/CesarVfilo/videojuegosyfilosofia",
+        "https://webrpg.org/CesarVfilo-videojuegosyfilosofia/"
+      ],
+      "assessmentNote": "No external traces found (search hits are only Socrates Jones: Pro Philosopher, a different game); 22 maps / 5987 dialogue lines in-repo (Socrates, Morfeo's dream, Gorgias, Pnyx 3408 lines, Banquet, Apology; final-chapter map has 0 events but the journey is complete); repo 0 stars; rating blank; popularity 1.",
+      "translatedTitles": {
+        "zh-Hans": "梦境的辩证法",
+        "en": "The Dialectic of Dreams",
+        "ja": "夢の弁証法"
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "哲学教育冒险游戏：课堂上讲起苏格拉底，莫菲斯的梦境把你带回古希腊雅典——在高尔吉亚学派、普尼克斯广场、宴会与《申辩篇》中学习辩证法与诘问术。22 张地图、5987 行对白，是本批篇幅最大的游戏。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "A philosophy education adventure: a classroom lesson on Socrates turns into a dream with Morpheus that carries you back to ancient Athens — learn dialectic and the Socratic method at Gorgias' school, the Pnyx, the Banquet and the Apology. 22 maps, 5,987 dialogue lines, the largest game in this batch.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "哲学教育アドベンチャー。ソクラテスの授業からモルフェウスの夢へ。古代アテネに運ばれ、ゴルギアスの学校、プニュクス、饗宴、『弁明』で弁証法と問答法を学ぶ。22マップ・5987行の台詞。本バッチ最大の作品。",
+          "editorialStatus": "draft"
+        }
+      },
+      "contentAdvisory": {
+        "nsfw": false
+      }
+    },
+    "la-leyenda-de-harold": {
+      "schemaVersion": 1,
+      "slug": "la-leyenda-de-harold",
+      "originalTitle": "La leyenda de Harold",
+      "taxonomy": {
+        "genres": [
+          "rpg"
+        ],
+        "themes": [
+          "educational"
+        ],
+        "contentType": "full-game"
+      },
+      "developers": [],
+      "media": {
+        "cover": "https://webrpg.org/Juanipis-Neoclasicismo/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "juanipis-neoclasicismo",
+          "title": "La leyenda de Harold",
+          "languages": [
+            "es"
+          ],
+          "nsfw": false
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/Juanipis/Neoclasicismo",
+          "https://webrpg.org/Juanipis-Neoclasicismo/"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 1,
+      "assessedAt": "2026-11-13",
+      "assessmentSources": [
+        "https://github.com/Juanipis/Neoclasicismo",
+        "https://webrpg.org/Juanipis-Neoclasicismo/"
+      ],
+      "assessmentNote": "No external traces found; 12 maps / 177 dialogue lines in-repo (Neoclassicism team RIL-A, Harold, shells/teddy-bear/dog/ingredients quests, quiz on the 1759-1788 reformist monarch); in-game title 'La legenda de Harold' is a typo kept as aliases.es; repo 0 stars; rating blank; popularity 1.",
+      "translatedTitles": {
+        "zh-Hans": "哈罗德传奇",
+        "en": "The Legend of Harold",
+        "ja": "ハロルドの伝説"
+      },
+      "aliases": {
+        "es": [
+          "La legenda de Harold"
+        ]
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "新古典主义教育 RPG：哈罗德在森林、海岸与山村间完成收集任务（贝壳、泰迪熊、狗狗、食材），并回答关于 1759–1788 年改革君主的测验。12 张地图、177 行对白。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "A Neoclassicism educational RPG: Harold completes collection quests (shells, a teddy bear, a dog, ingredients) across forest, coast and mountain village, and answers quiz questions about the reformist monarch of 1759–1788. 12 maps, 177 dialogue lines.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "新古典主義の教育RPG。ハロルドは森、海岸、山村で収集クエスト（貝、テディベア、犬、食材）をこなし、1759〜1788年の改革君主についてのクイズに答える。12マップ・177行の台詞。",
+          "editorialStatus": "draft"
+        }
+      },
+      "contentAdvisory": {
+        "nsfw": false
+      }
+    },
+    "labyrinth": {
+      "schemaVersion": 1,
+      "slug": "labyrinth",
+      "originalTitle": "Labyrinth",
+      "taxonomy": {
+        "genres": [
+          "strategy",
+          "rpg"
+        ],
+        "themes": [
+          "fantasy"
+        ],
+        "contentType": "full-game"
+      },
+      "developers": [],
+      "media": {
+        "cover": "https://webrpg.org/kaotickj-Labyrinth/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "kaotickj-labyrinth",
+          "title": "Labyrinth",
+          "languages": [
+            "en"
+          ],
+          "nsfw": false
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/kaotickj/Labyrinth",
+          "https://webrpg.org/kaotickj-Labyrinth/"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 1,
+      "assessedAt": "2026-11-13",
+      "assessmentSources": [
+        "https://github.com/kaotickj/Labyrinth",
+        "https://webrpg.org/kaotickj-Labyrinth/"
+      ],
+      "assessmentNote": "No external traces found (all 'Labyrinth' search hits are other games); 43 maps / 1070 dialogue lines in-repo (Jaida, Kaoticka, Dragon's Goblet Tavern, first quest from Tobias, Safe House, Ending map); repo 3 stars; rating blank; popularity 1.",
+      "translatedTitles": {
+        "zh-Hans": "迷宫",
+        "ja": "ラビリンス"
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "回合制策略 RPG：少女杰伊达（Jaida）与同伴穿越卡奥蒂卡、石洞、恶魔城堡与安全屋，招募法师、接取任务、升级装备，最终抵达结局。43 张地图、1070 行对白。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "A turn-based strategy RPG: Jaida and her companions travel through Kaoticka, the Stone Cave, the Demon Castle and safe houses, recruiting a mage, taking quests and upgrading gear on the way to the ending. 43 maps, 1,070 dialogue lines.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "ターン制ストラテジーRPG。ジェイダと仲間たちはカオティカ、石の洞窟、魔王城、セーフハウスを巡り、魔法使いを仲間にし、クエストを受け、装備を強化してエンディングを目指す。43マップ・1070行の台詞。",
+          "editorialStatus": "draft"
+        }
+      },
+      "contentAdvisory": {
+        "nsfw": false
+      }
+    },
+    "lack-of-life": {
+      "schemaVersion": 1,
+      "slug": "lack-of-life",
+      "originalTitle": "Lack Of life",
+      "taxonomy": {
+        "genres": [
+          "rpg"
+        ],
+        "themes": [
+          "slice-of-life"
+        ],
+        "contentType": "full-game"
+      },
+      "developers": [],
+      "media": {
+        "cover": "https://webrpg.org/dovmantov-Lack-of-Life/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "dovmantov-lack-of-life",
+          "title": "Lack Of life",
+          "languages": [
+            "en"
+          ],
+          "nsfw": false
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/dovmantov/Lack-of-Life",
+          "https://webrpg.org/dovmantov-Lack-of-Life/"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 1,
+      "assessedAt": "2026-11-13",
+      "assessmentSources": [
+        "https://github.com/dovmantov/Lack-of-Life",
+        "https://webrpg.org/dovmantov-Lack-of-Life/"
+      ],
+      "assessmentNote": "No external traces found; 3 maps / 121 dialogue lines in-repo (Jay/Ell at home, soup, then the hospital); languages corrected [ru, en] -> [en] (only 1 Russian word 'Закрыто' in 121 lines); 'dick' hits are insults, not sexual content; repo 0 stars; rating blank; popularity 1.",
+      "translatedTitles": {
+        "zh-Hans": "生命的缺失",
+        "ja": "生命の欠如"
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "生活片段 RPG：杰伊与艾尔在家做饭（又是汤），随后前往医院。3 张地图、121 行对白，以日常对话推进。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "A slice-of-life RPG: Jay and Ell cook at home (soup again), then head to the hospital. 3 maps, 121 dialogue lines, driven by everyday conversation.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "日常系RPG。ジェイとエルが家で料理をし（またスープ）、その後病院へ向かう。3マップ・121行の台詞。日常の会話で進む。",
+          "editorialStatus": "draft"
+        }
+      },
+      "contentAdvisory": {
+        "nsfw": false
+      }
+    },
+    "lets-go-gambilng": {
+      "schemaVersion": 1,
+      "slug": "lets-go-gambilng",
+      "originalTitle": "lets go gambilng!!!!!",
+      "taxonomy": {
+        "genres": [
+          "rpg",
+          "minigame"
+        ],
+        "themes": [
+          "comedy"
+        ],
+        "contentType": "full-game",
+        "mechanics": [
+          "fishing",
+          "gambling"
+        ]
+      },
+      "developers": [],
+      "media": {
+        "cover": "https://webrpg.org/28mcross-prog-28mcross-prog.github.io/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "28mcross-prog-28mcross-prog-github-io",
+          "title": "lets go gambilng!!!!!",
+          "languages": [
+            "en"
+          ],
+          "nsfw": false
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/28mcross-prog/28mcross-prog.github.io",
+          "https://webrpg.org/28mcross-prog-28mcross-prog.github.io/"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 1,
+      "assessedAt": "2026-11-13",
+      "assessmentSources": [
+        "https://github.com/28mcross-prog/28mcross-prog.github.io",
+        "https://webrpg.org/28mcross-prog-28mcross-prog.github.io/"
+      ],
+      "assessmentNote": "No external traces found; 9 maps / 79 dialogue lines in-repo (important-looking rock joke, fishing dock 48 lines, slot-board MAP008 with 42 empty tile events); play-money minigames only; repo 0 stars; rating blank; popularity 1.",
+      "translatedTitles": {
+        "zh-Hans": "去赌一把！！！！！",
+        "ja": "ギャンブルに行こう！！！！！"
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "赌博钓鱼小品 RPG：为一块“看起来很重要”的石头烦恼，在钓鱼码头碰运气，另有老虎机盘面小游戏。9 张地图、79 行对白。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "A gambling-and-fishing minigame RPG: fret over an 'important looking rock', try your luck at the fishing dock, and play the slot-board minigame. 9 maps, 79 dialogue lines.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "ギャンブル＆釣りのミニゲームRPG。「重要そうな岩」に悩み、釣り桟橋で運試しをし、スロット盤のミニゲームで遊ぶ。9マップ・79行の台詞。",
+          "editorialStatus": "draft"
+        }
+      },
+      "contentAdvisory": {
+        "nsfw": false
+      }
+    },
+    "libre-quest-day-three": {
+      "schemaVersion": 1,
+      "slug": "libre-quest-day-three",
+      "originalTitle": "LibreQuestDayThree",
+      "taxonomy": {
+        "genres": [
+          "rpg"
+        ],
+        "themes": [
+          "educational"
+        ],
+        "contentType": "full-game",
+        "mechanics": [
+          "quiz"
+        ]
+      },
+      "developers": [],
+      "media": {
+        "cover": "https://webrpg.org/PritamSutradhar123-LibreQuestDayThree/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "pritamsutradhar123-librequestdaythree",
+          "title": "LibreQuestDayThree",
+          "languages": [
+            "en"
+          ],
+          "nsfw": false
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/PritamSutradhar123/LibreQuestDayThree",
+          "https://webrpg.org/PritamSutradhar123-LibreQuestDayThree/"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 1,
+      "assessedAt": "2026-11-13",
+      "assessmentSources": [
+        "https://github.com/PritamSutradhar123/LibreQuestDayThree",
+        "https://webrpg.org/PritamSutradhar123-LibreQuestDayThree/"
+      ],
+      "assessmentNote": "No external traces found; 6 maps / 186 events / 88 dialogue lines in-repo (Miles, 50 questions + 50 notes, Swamp/Forest/Ruins/Fortress/Castle, riddles gate the next map); repo 0 stars; rating blank; popularity 1.",
+      "translatedTitles": {
+        "zh-Hans": "自由任务第三天",
+        "ja": "リブレクエスト・デイ・スリー"
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "问答 RPG 第三天：主角迈尔斯穿越沼泽、森林、遗迹、要塞与城堡，回答 50 道问题、收集 50 条笔记，解开谜题才能前往下一张地图。6 张地图、186 个事件。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "A quiz RPG, day three of the series: Miles crosses the Swamp, Forest, Ruins, Fortress and Castle, answering 50 questions and collecting 50 notes — solve the remaining riddles to unlock the next map. 6 maps, 186 events.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "クイズRPG、シリーズ3日目。マイルズは沼地、森、遺跡、要塞、城を巡り、50問のクイズに答え、50のメモを集める。残りの謎を解いて次のマップを解放する。6マップ・186イベント。",
+          "editorialStatus": "draft"
+        }
+      },
+      "contentAdvisory": {
+        "nsfw": false
+      }
     }
   }
 }
