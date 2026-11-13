@@ -11029,6 +11029,19 @@
     "validationScore": 45
   },
   {
+    "id": "mumbo235-playvault",
+    "title": "DEAD PLATE",
+    "repo": "https://github.com/mumbo235/playvault",
+    "owner": "mumbo235",
+    "name": "playvault",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "discoveredAt": "2026-11-13T05:13:34.991Z",
+    "source": "github-code-search",
+    "sourcePath": "games/dead-plate.html",
+    "plannedForkName": "mumbo235-playvault"
+  },
+  {
     "id": "mynamescrax-aetheris",
     "title": "DEAD PLATE",
     "repo": "https://github.com/mynamescrax/aetheris",
@@ -23050,7 +23063,6 @@
     "discoveredAt": "2026-11-12T21:43:56.407Z",
     "source": "github-code-search",
     "sourcePath": "game-embeds/omori.html",
-    "plannedForkName": "xrompf-Pastpapergenie-v3",
     "checkedAt": "2026-11-12T21:53:23.107Z",
     "forkName": "xrompf-Pastpapergenie-v3",
     "invalidReason": "No RPG Maker MV/MZ HTML entry point loading js/main.js was found.",
@@ -23068,7 +23080,6 @@
     "discoveredAt": "2026-11-12T21:43:56.407Z",
     "source": "github-code-search",
     "sourcePath": "game-embeds/omori.html",
-    "plannedForkName": "xrompf-pastpapergenie-v3-3",
     "checkedAt": "2026-11-12T21:53:29.550Z",
     "forkName": "xrompf-pastpapergenie-v3-3",
     "invalidReason": "No RPG Maker MV/MZ HTML entry point loading js/main.js was found.",
@@ -35289,6 +35300,19 @@
       "rating": 5,
       "reviewedAt": "2026-11-12"
     }
+  },
+  {
+    "id": "scarcampfire-tosky",
+    "title": "wind",
+    "repo": "https://github.com/ScarCampFire/tosky",
+    "owner": "ScarCampFire",
+    "name": "tosky",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "discoveredAt": "2026-11-13T05:13:34.991Z",
+    "source": "github-code-search",
+    "sourcePath": "wind/index.html",
+    "plannedForkName": "ScarCampFire-tosky"
   },
   {
     "id": "eymc-group-workstudy",
