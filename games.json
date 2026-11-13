@@ -25258,6 +25258,995 @@
           "pregnancy / inflation endings (e.g. 腹胀ED)"
         ]
       }
+    },
+    "turn-of-the-blade": {
+      "schemaVersion": 1,
+      "slug": "turn-of-the-blade",
+      "originalTitle": "TURN OF THE BLADE",
+      "taxonomy": {
+        "genres": [
+          "rpg"
+        ],
+        "themes": [],
+        "contentType": "full-game",
+        "mechanics": [
+          "turn-based battles"
+        ]
+      },
+      "developers": [
+        {
+          "name": "minnnpannn9585",
+          "url": "https://github.com/minnnpannn9585"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/minnnpannn9585-JustinProj01_rpgmaker/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "minnnpannn9585-justinproj01-rpgmaker",
+          "title": "TURN OF THE BLADE",
+          "languages": [
+            "zh-Hans"
+          ],
+          "nsfw": false
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/minnnpannn9585/JustinProj01_rpgmaker",
+          "https://webrpg.org/minnnpannn9585-JustinProj01_rpgmaker/"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 2,
+      "assessedAt": "2026-11-14",
+      "assessmentSources": [
+        "https://github.com/minnnpannn9585/JustinProj01_rpgmaker",
+        "https://webrpg.org/minnnpannn9585-JustinProj01_rpgmaker/"
+      ],
+      "assessmentNote": "No external traces found (no Steam/itch/wiki/media/forum record; the only source is the GitHub repo itself, created 2025, README just '# JustinProj01_rpgmaker', 0 stars). In-repo: 13 maps / 75 events / 61 dialogue lines / 18 transfers — a coherent Water Margin setting (village houses, fortress, Liangshan interior, mountain bandits, forest, nomad camp) with switches zhandou (battle) and liangchewancheng (Liangshan complete), i.e. combat plus a completion/ending condition. Dialogue is thin (61 lines over 13 maps; several maps are combat/exploration-only, e.g. map05 fortress 12 events / 2 lines, map10 nomad camp 16 events / 4 lines), so this is a small student-style project, but it has a start, progression through distinct areas, battles and an ending flag — substantial enough under v1.2 rule 4. No other game called 'TURN OF THE BLADE' surfaced in search (only unrelated 'blade' games). nsfw false (no keyword hits, no sexual/violent content evidenced). Translated titles left blank (no known/official Chinese or Japanese title; inventing one is not allowed). Repo 0 stars; rating blank; popularity 2.",
+      "introductions": {
+        "zh-Hans": {
+          "summary": "一款中文 RPG Maker 游戏，以梁山为背景：玩家穿行于村庄、要塞、森林与游牧民营地之间，与山匪战斗，完成梁山相关的主线。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "A Chinese-language RPG Maker game set around Liangshan: the player travels between villages, a fortress, a forest and a nomad camp, fighting mountain bandits and working toward the Liangshan objective.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "梁山を舞台とする中国語の RPG ツクール製ゲーム。村、要塞、森、遊牧民の野営地を巡り、山賊と戦いながら梁山にまつわる目的を果たす。",
+          "editorialStatus": "draft"
+        }
+      },
+      "externalLinks": [
+        {
+          "url": "https://github.com/minnnpannn9585/JustinProj01_rpgmaker",
+          "type": "source",
+          "label": "GitHub source repository"
+        },
+        {
+          "url": "https://webrpg.org/minnnpannn9585-JustinProj01_rpgmaker/",
+          "type": "other",
+          "label": "WebRPG play page"
+        }
+      ],
+      "contentAdvisory": {
+        "nsfw": false
+      }
+    },
+    "twilightning": {
+      "schemaVersion": 1,
+      "slug": "twilightning",
+      "originalTitle": "Twilightning",
+      "taxonomy": {
+        "genres": [
+          "adventure",
+          "rpg"
+        ],
+        "themes": [
+          "horror",
+          "mystery",
+          "fantasy"
+        ],
+        "contentType": "full-game",
+        "mechanics": [
+          "puzzles",
+          "item mixing"
+        ]
+      },
+      "developers": [
+        {
+          "name": "mysterymagination",
+          "url": "https://github.com/mysterymagination"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/mysterymagination-twilightning/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "mysterymagination-twilightning",
+          "title": "Twilightning",
+          "languages": [
+            "en"
+          ],
+          "nsfw": false
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/mysterymagination/twilightning",
+          "https://webrpg.org/mysterymagination-Twilightning/"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 2,
+      "assessedAt": "2026-11-14",
+      "assessmentSources": [
+        "https://github.com/mysterymagination/twilightning",
+        "https://webrpg.org/mysterymagination-Twilightning/"
+      ],
+      "assessmentNote": "No external traces found (no Steam/itch/wiki/media/forum record; the only source is the GitHub repo itself, 0 stars). In-repo: 3 maps / 25 events / 193 dialogue lines / 3 transfers — nearly all content in map 1 Dorm_StarFlight (24 events, 188 lines); map 2 Class_Transmutation is empty (0 events) and map 3 Girls_Floors has 1 event / 5 lines. Variables show real mechanics: Mix Item B (item mixing), Time for Puzzles, Search Under Where, Clock Wound, Dorm Door Open, Morgana Wardrobe. The README gives a complete premise (first-year student accidentally opens a portal to a nightmare dimension; classmates disappear; a derelict haunted airship looms in the darkness) and a 7-character cast. Caveats: single-location scope, one empty map, and the README's trailing '# engine options / 1. Godot: go…' suggests the author was still weighing engines — the build may be an early/incomplete slice. Even so, 188 lines of dialogue plus puzzle variables is far more than a 1-minute demo or empty shell, so it passes v1.2 rule 4. No other game called 'Twilightning' exists in search results (only unrelated 'Twilight …' titles). nsfw false (no keyword hits; horror/nightmare themes only; the Girls_Floors map is the girls' dormitory floors with no sexual content attached). Translated titles left blank (no known/official Chinese or Japanese title). Repo 0 stars; rating blank; popularity 2.",
+      "introductions": {
+        "zh-Hans": {
+          "summary": "一款迷你恐怖冒险游戏（带 RPG 元素）：魔法学院新生 Jazmina Owllight 为讨好教授，意外打开了通往暗影维度的大门；每当入睡，她的心智便被拉入噩梦深处，而身边的同学也开始做噩梦、甚至失踪。她必须在清醒时做好准备，在梦境中战斗与探索，揭开这个维度的秘密。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "A mini horror adventure with RPG elements: first-year wizardry student Jazmina Owllight accidentally opens a portal to a shadowy nightmare dimension to impress her favourite professor. Each night her mind is pulled into its depths, her classmates begin having nightmares and some disappear, and she must prepare by day and fight and explore by night to unravel the mystery — or close the dimension forever.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "RPG 要素を持つミニホラーアドベンチャー。魔法学院の新入生ジャズミナ・オウライトは憧れの教授に認められようとして、誤って悪夢の次元への扉を開いてしまう。眠るたびに心はその深淵に引き込まれ、級友たちも悪夢にうなされ、姿を消す者まで現れる。昼のうちに準備を整え、夜の夢の中で戦い、探索し、この世界の謎を解き明かさなければならない。",
+          "editorialStatus": "draft"
+        }
+      },
+      "externalLinks": [
+        {
+          "url": "https://github.com/mysterymagination/twilightning",
+          "type": "source",
+          "label": "GitHub source repository"
+        },
+        {
+          "url": "https://webrpg.org/mysterymagination-Twilightning/",
+          "type": "other",
+          "label": "WebRPG play page"
+        }
+      ],
+      "contentAdvisory": {
+        "nsfw": false
+      }
+    },
+    "umbra": {
+      "schemaVersion": 1,
+      "slug": "umbra",
+      "originalTitle": "Umbra",
+      "taxonomy": {
+        "genres": [
+          "rpg"
+        ],
+        "themes": [
+          "horror",
+          "mystery"
+        ],
+        "contentType": "full-game",
+        "mechanics": [
+          "note collection",
+          "exploration"
+        ]
+      },
+      "developers": [
+        {
+          "name": "gallegosjaime",
+          "url": "https://github.com/gallegosjaime"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/gallegosjaime-rpg-project/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "gallegosjaime-rpg-project",
+          "title": "Umbra",
+          "languages": [
+            "es"
+          ],
+          "nsfw": false
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/gallegosjaime/rpg-project",
+          "https://webrpg.org/gallegosjaime-rpg-project/"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 2,
+      "assessedAt": "2026-11-14",
+      "assessmentSources": [
+        "https://github.com/gallegosjaime/rpg-project",
+        "https://webrpg.org/gallegosjaime-rpg-project/"
+      ],
+      "assessmentNote": "No trace of this game outside its GitHub repo (no Steam/itch/wiki/media/forum record; repo has no README, 0 stars); all 'Umbra' search hits are different games (itch puzzle-platformer by Ceres, Steam Early Access title app 3553640, Pokémon Umbra, SolarFall Umbra) — none linked. In-repo: 9 maps / 106 events / 137 event pages / 164 dialogue lines / 19 transfers — a coherent structure (Inicio -> house floors F3/F4 with rooms Cuarto_F2, Cuarto_F3_1, Cuarto_F3_2, Cuarto_F4_1, Cuarto_F4_2 -> Final map) with switches telling the story (characters Peter, John, Sam; Desaparicion = disappearance, penultimaNota = penultimate note, Historia = story, CuartoFinal, Final) — a full playthrough arc (explore the house, find notes, reach the final room) with an ending switch. nsfw false (no keyword hits; a disappearance/mystery story in a house, no sexual content). Translated titles left blank (no known/official Chinese or Japanese title; a katakana rendering or meaning-translation would be invented). Slug warning: 'umbra' is a generic word shared by several other games; a future same-name migration will need a -2 or author suffix. Repo 0 stars; rating blank; popularity 2.",
+      "introductions": {
+        "zh-Hans": {
+          "summary": "一款西班牙语 RPG Maker 游戏：玩家探索一栋房子，在各个楼层与房间中搜集纸条，揭开与 Peter、John、Sam 等人失踪有关的真相，最终抵达结局房间。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "A Spanish-language RPG Maker game: the player explores a house across several floors and rooms, collecting notes to uncover the story behind the disappearances of Peter, John, Sam and others, and finally reaches the ending.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "スペイン語の RPG ツクール製ゲーム。家の各階や部屋を探索し、メモを集めながらピーター、ジョン、サムらの失踪にまつわる真相を解き明かし、最後の部屋へたどり着く。",
+          "editorialStatus": "draft"
+        }
+      },
+      "externalLinks": [
+        {
+          "url": "https://github.com/gallegosjaime/rpg-project",
+          "type": "source",
+          "label": "GitHub source repository"
+        },
+        {
+          "url": "https://webrpg.org/gallegosjaime-rpg-project/",
+          "type": "other",
+          "label": "WebRPG play page"
+        }
+      ],
+      "contentAdvisory": {
+        "nsfw": false
+      }
+    },
+    "umi": {
+      "schemaVersion": 1,
+      "slug": "umi",
+      "originalTitle": "umi",
+      "taxonomy": {
+        "genres": [
+          "simulation",
+          "visual-novel"
+        ],
+        "themes": [
+          "slice-of-life",
+          "romance"
+        ],
+        "contentType": "full-game",
+        "mechanics": [
+          "day cycle",
+          "multiple endings",
+          "stat management"
+        ]
+      },
+      "developers": [
+        {
+          "name": "BeyonDoff",
+          "url": "https://github.com/BeyonDoff"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/BeyonDoff-umi_the_game/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "beyondoff-umi-the-game",
+          "title": "umi",
+          "languages": [
+            "zh-Hans"
+          ],
+          "nsfw": true
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/BeyonDoff/umi_the_game",
+          "https://webrpg.org/BeyonDoff-umi_the_game/"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 2,
+      "assessedAt": "2026-11-14",
+      "assessmentSources": [
+        "https://github.com/BeyonDoff/umi_the_game",
+        "https://webrpg.org/BeyonDoff-umi_the_game/"
+      ],
+      "assessmentNote": "No trace outside the GitHub repo in two search rounds (Chinese + repo-name; no Bilibili/wiki/media/forum/video result); all 'umi' hits are different games (Summer Pockets' Umi Kato, UMIGARI, U.M.I submarine game, Atelier Yumia). In-repo: 19 maps / 330 events / 357 event pages / 3,487 dialogue lines / 45 transfers — a day-cycle life sim (variables 天数 day count, 日记计数 diary count, 睡眠计数 sleep count, 事件计数 event count, 达成结局次数 endings achieved, 努力值 effort, 正面点数/负面点数; switches 上下午 morning/afternoon, 今日事件 today's event, First Day; locations 酒馆 tavern, 房间 room). Genres corrected from old [rpg] to [simulation, visual-novel] (no combat evidenced; event-driven day loop with 3,487 lines). nsfw false -> TRUE, executor-verified from the original text: README '有一定的那啥暗示成分，无任何具体内容也没有奇怪的DLC，总体来说写作全年龄但还是建议成年人游玩。主要角色均为成年人且已有过初次经历。' (suggestive content present, no explicit scenes, writing 'all-ages' in the author's words, but adult players recommended, main characters are adults with prior sexual experience) plus named game systems — switches 主动性欲处理 (active libido handling), 性欲处理2 (libido handling 2), 隐蔽play (hidden play), 偷窥play (peeping play) and variable 欲望值 (desire value). Libido/desire is a gameplay stat and peeping/hidden 'play' are event mechanics, so this is sexual content as a theme/mechanic even though the author states there is no explicit content — nsfw true, with the no-explicit-content qualification recorded in warnings. The automated keyword scan missed these Chinese terms. Slug warning: 'umi' is a generic word (Japanese for 'sea', also a common name) with other same-named games in the wild; a future same-name migration will need a -2 or author suffix. Translated titles left blank (no known/official Chinese or Japanese title; the name is used as-is). Repo 0 stars; rating blank; popularity 2.",
+      "introductions": {
+        "zh-Hans": {
+          "summary": "一款由 BeyonDoff 制作的同人游戏，主角是已毕业虚拟主播海猫umi（据作者说明已获主播本人授权，但内容与角色表现与主播本人无关）。游戏以天为单位推进日常：在房间与酒馆中触发事件、写日记、积累努力值，达成多个结局。免费游戏，不接受打赏。带有一定的暗示成分，无具体内容，作者建议成年人游玩。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "A fan game by BeyonDoff about the graduated virtual streamer Umi Umineko (海猫umi), made with the streamer's authorization according to the author, though all content is the author's own and unchecked by her. A day-cycle life sim: trigger events in the room and the tavern, keep a diary, build up effort and other stats across days, and reach multiple endings. Free, no donations. Contains suggestive innuendo but no explicit content; the author recommends adult players.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "BeyonDoff 制作の同人ゲーム。卒業済みバーチャル配信者・海猫umi（うみ）を題材とする（作者によれば本人の許諾済みだが、内容やキャラクター描写は本人とは無関係で監修も受けていない）。1日単位で進行する日常シミュレーション：部屋や酒場でイベントを発生させ、日記をつけ、努力値などを積み上げて複数のエンディングを目指す。無料で投げ銭は受け付けない。仄めかし程度の要素はあるが具体的な描写はなく、作者は成人向けのプレイを推奨している。",
+          "editorialStatus": "draft"
+        }
+      },
+      "externalLinks": [
+        {
+          "url": "https://github.com/BeyonDoff/umi_the_game",
+          "type": "source",
+          "label": "GitHub source repository"
+        },
+        {
+          "url": "https://webrpg.org/BeyonDoff-umi_the_game/",
+          "type": "other",
+          "label": "WebRPG play page"
+        }
+      ],
+      "contentAdvisory": {
+        "nsfw": true,
+        "warnings": [
+          "suggestive sexual content (innuendo; no explicit scenes — author recommends adult players)"
+        ]
+      }
+    },
+    "universe25": {
+      "schemaVersion": 1,
+      "slug": "universe25",
+      "originalTitle": "Universe25",
+      "taxonomy": {
+        "genres": [
+          "adventure"
+        ],
+        "themes": [
+          "experimental",
+          "drama"
+        ],
+        "contentType": "full-game",
+        "mechanics": [
+          "narrative exploration"
+        ]
+      },
+      "developers": [
+        {
+          "name": "EpxStudio",
+          "url": "https://github.com/EpxStudio"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/EpxStudio-Universe25/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "epxstudio-universe25",
+          "title": "Universe25",
+          "languages": [
+            "en"
+          ],
+          "nsfw": false
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/EpxStudio/Universe25",
+          "https://webrpg.org/EpxStudio-Universe25/"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 2,
+      "assessedAt": "2026-11-14",
+      "assessmentSources": [
+        "https://github.com/EpxStudio/Universe25",
+        "https://webrpg.org/EpxStudio-Universe25/"
+      ],
+      "assessmentNote": "No reviews or coverage of this game found; only the GitHub repo (created 2017-11-02, 3 commits, 0 stars, README just '# Universe25') and unrelated same-name games (Steam 'Universe 25: The Loop' app 1570620, a Pythonesque point-and-click adventure about an amnesiac bureaucrat in 2035; itch 'Mouse Utopia: Universe 25' by Filip Majchrzak, a 2026 illustrated game tied to the novel Mysia Utopia) — neither linked as stores. In-repo: 32 maps / 170 events / 71 dialogue lines / 42 transfers — structure mirrors John B. Calhoun's Universe 25 mouse-utopia experiment in four phases (STRIVE -> EXPLOIT -> EQUILIBRIUM -> DIE_PERIOD, each with 6 rooms plus a 'Mecca' room), ending at a kill screen (rm_07_dieKillScreen, map rm_06_die_DeadMouse). Dialogue is second-person narration, sampled from raw map files (Map011: 'Food and water is bountiful here. Shelter is spacious … This is home now.'; Map022: 'Maybe these beautiful ones have the right idea. … …my tail… …*sob* they bit off my tail…'; Map030: 'I've heard an idea by this odd fellow a while back. … Calhoun, or something… About conceptual space…'; Map031: 'Universe 25. / POP: 0' — the population counter falls from 'POP: 620' in Map004 to 0, a complete arc). The experiment is documented at atlasobscura.com and zmescience.com (Calhoun, NIMH, 1968–1973, colony peaked ~2,200 mice, 'beautiful ones', behavioural sink). contentType full-game (short but complete experience with beginning, phases, ending). nsfw false (no keyword hits; mild textual mouse death/violence is not 18+ material). Translated titles are translator-supplied (zh-Hans is the common Chinese name of Calhoun's experiment; ja is a transliteration), not official titles. No release date verified (repo created 2017-11-02 is not a release date). Repo 0 stars; rating blank; popularity 2.",
+      "translatedTitles": {
+        "zh-Hans": "25号宇宙",
+        "ja": "ユニバース25"
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "一款以约翰·卡尔霍恩的老鼠乌托邦实验“25号宇宙”为题材的短篇实验性 RPG Maker 游戏。玩家扮演笼中的一只老鼠，经历繁荣、开发、平衡与死亡四个阶段，看着种群数量最终归零。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "A short experimental RPG Maker game that puts the player in the paws of a mouse inside Universe 25, John B. Calhoun's mouse utopia. Food and shelter are plentiful, but as the colony passes through strive, exploit, equilibrium and die-off, the population counter falls to zero.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "ジョン・B・カルフーンのネズミのユートピア実験「ユニバース25」を題材にした短編の実験的RPGツクールゲーム。プレイヤーは檻の中のネズミとなり、繁栄から死滅までの四つの段階をたどる。",
+          "editorialStatus": "draft"
+        }
+      },
+      "externalLinks": [
+        {
+          "url": "https://github.com/EpxStudio/Universe25",
+          "type": "source",
+          "label": "GitHub source repository"
+        },
+        {
+          "url": "https://webrpg.org/EpxStudio-Universe25/",
+          "type": "other",
+          "label": "WebRPG play page"
+        }
+      ],
+      "contentAdvisory": {
+        "nsfw": false
+      }
+    },
+    "urrezko-kaiola-gaiden-1": {
+      "schemaVersion": 1,
+      "slug": "urrezko-kaiola-gaiden-1",
+      "originalTitle": "Urrezko-Kaiola-Gaiden-1",
+      "taxonomy": {
+        "genres": [
+          "rpg",
+          "adventure"
+        ],
+        "themes": [
+          "mystery",
+          "fantasy",
+          "sci-fi",
+          "experimental"
+        ],
+        "contentType": "demo",
+        "mechanics": [
+          "turn-based combat",
+          "puzzle-solving",
+          "avatar selection",
+          "minigame"
+        ]
+      },
+      "developers": [
+        {
+          "name": "UrrezkoKaiola",
+          "url": "https://github.com/UrrezkoKaiola"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/UrrezkoKaiola-gaiden-one/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "urrezkokaiola-gaiden-one",
+          "title": "Urrezko-Kaiola-Gaiden-1",
+          "languages": [
+            "en"
+          ],
+          "nsfw": false,
+          "notes": "One avatar route of the chapter (welcome-to-the-pizzeria); the repo holds other avatar-route dirs of the same chapter."
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/UrrezkoKaiola",
+          "https://urrka-terminal.host/",
+          "https://github.com/UrrezkoKaiola/gaiden-one",
+          "https://webrpg.org/UrrezkoKaiola-gaiden-one/"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 5,
+      "assessedAt": "2026-11-14",
+      "assessmentSources": [
+        "https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/UrrezkoKaiola",
+        "https://urrka-terminal.host/",
+        "https://github.com/UrrezkoKaiola/gaiden-one",
+        "https://webrpg.org/UrrezkoKaiola-gaiden-one/"
+      ],
+      "assessmentNote": "No reviews found for this installment or the series; the series has a TV Tropes page, official site, Discord and subreddit (2020–2025 ARG), but no store presence or press. TV Tropes identifies it: 'Gaiden 1, a preview for a minigame in Chapter Seven, was released 9 March 2021.' The minigame is the FNAF-style pizzeria game: TV Tropes 'The Band references the cast of Five Nights at Freddy's 1 … and a minigame that references FNAF 1's gameplay'; the repo's map 52 is Pizzeria-Minigame and its gameDir is welcome-to-the-pizzeria. In-repo: 52 maps / 3125 events / 2641 dialogue lines / 187 transfers — heaviest maps Sky 687 events/175 lines, The Great Cliffs 331/139, Tundra 241/147, Dead Lands 214/157, Nightmare Realm l1 237 events; dialogue-heavy maps Waterfall 263 lines, BonusArea 177, Ice Temple F2 150, IcyMaze 136, IceLobby 120, Sky Temple f2 117; Quiz Room (94 lines), a band storyline (variables BassistMvmt / KeyboardistMvmt / VocalistMvmt / ViolinistMvmt). Distinctness vs Terminal-6 (executor-verified): 50 of 51 shared maps have identical event/dialogue counts — but the series releases cumulatively (Terminal-2's 15 maps are likewise a subset of Terminal-5's, 12/15 identical), so reuse of earlier chapters is the series' structure, not evidence of sameness; Gaiden 1 is its own dated release with its own title, repo, versionId 75707266 (vs 76131473), start map 1 Choosing-Terminal (8 events/15 lines, vs Terminal-6's 2/0), and new content (Pizzeria-Minigame map + band storyline). contentType demo (explicit preview; substantial). nsfw false: the 'fuck' keyword hit occurs in 16 map files; every occurrence located in raw map JSON is profanity in dialogue/insults (Map011 The Great Cliffs '…leave me the fuck alone, or you won't like it.'; Map014 The Mansion 'Fuck you, bitch! I'm gonna take some fucking revenge…', 'I TOLD YOU NOT TO CRASH MY FUCKIN SHACK!'), no sexual content. Flirt/kiss skills and a 'Ms. Fanservice' character (Iklusea, TV Tropes) are trope labels, not explicit content. Translated titles are translator-supplied literal translations (TV Tropes glosses the Basque as 'Gilded Cage'; 'Golden Cage' is the equivalent literal rendering), not official titles. Release 2021-03-09 per TV Tropes. Repo 0 stars; rating blank; popularity 5.",
+      "release": {
+        "date": "2021-03-09"
+      },
+      "relations": [
+        {
+          "gameId": "urrezko-kaiola-terminal-2",
+          "type": "same-series"
+        },
+        {
+          "gameId": "urrezko-kaiola-terminal-5",
+          "type": "same-series"
+        },
+        {
+          "gameId": "urrezko-kaiola-terminal-6",
+          "type": "same-series"
+        }
+      ],
+      "translatedTitles": {
+        "zh-Hans": "金色牢笼：外传1",
+        "en": "Golden Cage: Gaiden 1",
+        "ja": "黄金の檻：外伝1"
+      },
+      "aliases": {
+        "en": [
+          "Urrezko Kaiola"
+        ]
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "《金色牢笼》外传1是该多媒体解谜游戏（ARG）第七章披萨店小游戏的预览。游戏中的 AI 角色生活在游戏世界里，会与现实中的玩家互动，并试图逃出金色牢笼。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "Gaiden 1 is a side-story preview for the pizzeria minigame of Chapter 7 of Urrezko Kaiola, a multimedia alternate reality game that began in April 2020. Its AI characters live inside a video game, interact with players outside it, and are trapped in a gilded cage they are trying to escape.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "『黄金の檻』外伝1は、2020年4月に始まったマルチメディアARGの第7章ピザ店ミニゲームのプレビュー。ゲーム内のAIキャラクターたちは現実のプレイヤーと交流しながら、金の檻からの脱出を目指す。",
+          "editorialStatus": "draft"
+        }
+      },
+      "externalLinks": [
+        {
+          "url": "https://urrka-terminal.host/",
+          "type": "official",
+          "label": "Official site"
+        },
+        {
+          "url": "https://github.com/UrrezkoKaiola/gaiden-one",
+          "type": "source",
+          "label": "GitHub source repository"
+        },
+        {
+          "url": "https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/UrrezkoKaiola",
+          "type": "wiki",
+          "label": "TV Tropes (series)"
+        },
+        {
+          "url": "https://webrpg.org/UrrezkoKaiola-gaiden-one/",
+          "type": "other",
+          "label": "WebRPG play page"
+        }
+      ],
+      "contentAdvisory": {
+        "nsfw": false
+      }
+    },
+    "urrezko-kaiola-terminal-2": {
+      "schemaVersion": 1,
+      "slug": "urrezko-kaiola-terminal-2",
+      "originalTitle": "Urrezko-Kaiola-Terminal-2",
+      "taxonomy": {
+        "genres": [
+          "rpg",
+          "adventure"
+        ],
+        "themes": [
+          "mystery",
+          "fantasy",
+          "sci-fi",
+          "experimental"
+        ],
+        "contentType": "full-game",
+        "mechanics": [
+          "turn-based combat",
+          "puzzle-solving",
+          "avatar selection"
+        ]
+      },
+      "developers": [
+        {
+          "name": "UrrezkoKaiola",
+          "url": "https://github.com/UrrezkoKaiola"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/UrrezkoKaiola-terminal2/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "urrezkokaiola-terminal2",
+          "title": "Urrezko-Kaiola-Terminal-2",
+          "languages": [
+            "en"
+          ],
+          "nsfw": false,
+          "notes": "One avatar route of the chapter (gncopianoai-martzel, the Martzel route); the repo holds other avatar-route dirs of the same chapter."
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/UrrezkoKaiola",
+          "https://urrka-terminal.host/",
+          "https://github.com/UrrezkoKaiola/terminal2",
+          "https://webrpg.org/UrrezkoKaiola-terminal2/"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 5,
+      "assessedAt": "2026-11-14",
+      "assessmentSources": [
+        "https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/UrrezkoKaiola",
+        "https://urrka-terminal.host/",
+        "https://github.com/UrrezkoKaiola/terminal2",
+        "https://webrpg.org/UrrezkoKaiola-terminal2/"
+      ],
+      "assessmentNote": "No reviews found for this installment or the series; the series has a TV Tropes page, official site, Discord and subreddit (2020–2025 ARG), but no store presence or press. TV Tropes identifies it: 'Chapter 2, the Desert Chapter, was released 11 April 2020. Chapters One and Two respectively focus on Abby and Lehiakide… Chapter One also introduced Lance, a recurring minor boss character allied to Abby.' Cross-checks in the data: the entry's variables include Flirt — TV Tropes says 'In Chapter 2, Abby gives you access to the Flirt skill for the final battle' (boss: Lehiakide, 'Allergic to Love'); switches include Call1–Call5, MusicBox — TV Tropes Ch 2 Mansion: 'The moving statues in Chapter 2's Mansion deliver you a One-Hit Kill… The intended way to deal with them is playing music boxes throughout the mansion.' In-repo: 15 maps / 924 events / 477 dialogue lines / 36 transfers — heaviest maps The Great Cliffs 331 events/139 lines, The Mansion 149/80, Grand Waterways 86/61, Mysterious Desert 86 events, VoidPath 48/59, Room 5/44, Temple 7/42. A complete chapter with exploration, battles, the statue/music-box puzzle and the Lehiakide final battle. contentType full-game (a complete chapter release). nsfw false: the 'fuck' keyword hit occurs in only one map file, Map011 (The Great Cliffs) — the same shared-series map as in gaiden-one: '…leave me the fuck alone, or you won't like it.' Profanity only, no sexual content. Translated titles are translator-supplied literal translations (TV Tropes glosses the Basque as 'Gilded Cage'; 'Golden Cage' is the equivalent literal rendering), not official titles. Release 2020-04-11 per TV Tropes. Repo description 'Chapter Two.'; repo 0 stars; rating blank; popularity 5.",
+      "release": {
+        "date": "2020-04-11"
+      },
+      "relations": [
+        {
+          "gameId": "urrezko-kaiola-gaiden-1",
+          "type": "same-series"
+        },
+        {
+          "gameId": "urrezko-kaiola-terminal-5",
+          "type": "same-series"
+        },
+        {
+          "gameId": "urrezko-kaiola-terminal-6",
+          "type": "same-series"
+        }
+      ],
+      "translatedTitles": {
+        "zh-Hans": "金色牢笼：终端2",
+        "en": "Golden Cage: Terminal 2",
+        "ja": "黄金の檻：ターミナル2"
+      },
+      "aliases": {
+        "en": [
+          "Urrezko Kaiola"
+        ]
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "《金色牢笼》终端2是该多媒体解谜游戏（ARG）的第二章（沙漠篇），讲述 Abby 与 Lehiakide 的故事，玩家穿越沙漠与宅邸，最终用 Abby 的 Flirt 技能迎战 Lehiakide。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "Terminal 2 is Chapter 2 (the Desert Chapter) of Urrezko Kaiola, a multimedia alternate reality game that began in April 2020. It follows Abby and Lehiakide through the desert and the mansion, ending in a final battle where Abby's Flirt skill is the key to victory.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "『黄金の檻』ターミナル2は、2020年4月に始まったマルチメディアARGの第2章（砂漠編）。AbbyとLehiakideを中心に、砂漠と屋敷を進み、AbbyのFlirtスキルが鍵となる最終決戦へ至る。",
+          "editorialStatus": "draft"
+        }
+      },
+      "externalLinks": [
+        {
+          "url": "https://urrka-terminal.host/",
+          "type": "official",
+          "label": "Official site"
+        },
+        {
+          "url": "https://github.com/UrrezkoKaiola/terminal2",
+          "type": "source",
+          "label": "GitHub source repository"
+        },
+        {
+          "url": "https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/UrrezkoKaiola",
+          "type": "wiki",
+          "label": "TV Tropes (series)"
+        },
+        {
+          "url": "https://webrpg.org/UrrezkoKaiola-terminal2/",
+          "type": "other",
+          "label": "WebRPG play page"
+        }
+      ],
+      "contentAdvisory": {
+        "nsfw": false
+      }
+    },
+    "urrezko-kaiola-terminal-5": {
+      "schemaVersion": 1,
+      "slug": "urrezko-kaiola-terminal-5",
+      "originalTitle": "Urrezko-Kaiola-Terminal-5",
+      "taxonomy": {
+        "genres": [
+          "rpg"
+        ],
+        "themes": [
+          "fantasy",
+          "mystery",
+          "sci-fi"
+        ],
+        "contentType": "full-game",
+        "mechanics": [
+          "turn-based combat",
+          "multiple endings",
+          "puzzles",
+          "avatar selection",
+          "arg elements"
+        ]
+      },
+      "developers": [
+        {
+          "name": "UrrezkoKaiola",
+          "url": "https://github.com/UrrezkoKaiola"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/UrrezkoKaiola-terminal5/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "urrezkokaiola-terminal5",
+          "title": "Urrezko-Kaiola-Terminal-5",
+          "languages": [
+            "en"
+          ],
+          "nsfw": false,
+          "notes": "One avatar route of the chapter (qubdwidubaobdw-nikole, the Nikole route); the repo holds other avatar-route dirs of the same chapter."
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/UrrezkoKaiola",
+          "https://urrka-terminal.host/",
+          "https://github.com/UrrezkoKaiola/terminal5",
+          "https://webrpg.org/UrrezkoKaiola-terminal5/"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 5,
+      "assessedAt": "2026-11-14",
+      "assessmentSources": [
+        "https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/UrrezkoKaiola",
+        "https://urrka-terminal.host/",
+        "https://github.com/UrrezkoKaiola/terminal5",
+        "https://webrpg.org/UrrezkoKaiola-terminal5/"
+      ],
+      "assessmentNote": "No Steam/itch/review presence; footprint is a dedicated TV Tropes page, official site urrka-terminal.host, two Discords, six character Twitters, Tumblr blogs and a subreddit (per TV Tropes); no review scores, so rating is blank. In-repo: 40 maps / 2534 events / 1511 dialogue lines / 118 transfers; story content verified in data (Ch-5 avatar-branch switches, EndFlagA/B/C multiple endings) and in the TV Tropes chapter history (Ch 5 'Spooky', 5 Dec 2020; 'Unexpectedly Dark Episode… chase sequences, surprisingly dark tone'). Distinct from Terminal 6: T6 adds the full 11-map Ice chapter and reworks shared maps (The Mansion T5 108 events/1 dialogue line vs T6 162/113; Corrupted Wastes 26/28 vs 11/5), different switch sets (T5: Amets/Aintzane + Martzel/Nikole avatar-branch switches, EndFlagA/B/C; T6: TximistaDefeatedAlone?/TximistaKilled?, Door1–5, EndingTrack) and different versionIds (75112155 vs 76131473). nsfw false: the only 'fuck' keyword hit was located in original text — Terminal-2 Map011 'The Great Cliffs', Lehiakide: 'Turn off the game and leave me the fuck alone, or you won't like it.' One profanity in an antagonist's threat; also 'that bitch who corrupted me' and Ross Bot's 'bopha deez nuts bitch' joke (TV Tropes). No sexual content, no nudity. TV Tropes calls Iklusea 'Ms. Fanservice' and notes Kara is asexual — trope labels, not explicit content. Translated titles are translator-supplied literal translations (TV Tropes glosses the Basque as 'Gilded Cage'; 'Golden Cage' is the equivalent literal rendering), not official titles. Release 2020-12-05 (Chapter 5 release; terminal build scope through Ch 5). Repo 0 stars; rating blank; popularity 5.",
+      "release": {
+        "date": "2020-12-05",
+        "originalPlatforms": [
+          "web"
+        ]
+      },
+      "relations": [
+        {
+          "gameId": "urrezko-kaiola-gaiden-1",
+          "type": "same-series"
+        },
+        {
+          "gameId": "urrezko-kaiola-terminal-2",
+          "type": "same-series"
+        },
+        {
+          "gameId": "urrezko-kaiola-terminal-6",
+          "type": "same-series"
+        }
+      ],
+      "translatedTitles": {
+        "zh-Hans": "金色牢笼：终端5",
+        "en": "Golden Cage: Terminal 5",
+        "ja": "黄金の檻：ターミナル5"
+      },
+      "aliases": {
+        "en": [
+          "Urrezko Kaiola"
+        ]
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "《Urrezko Kaiola》是一场 2020 年 4 月至 2025 年的多媒体 ARG：被困在游戏世界里的 AI 角色会与游戏外的玩家互动，而游戏管理员 Kara 则逐章反编译游戏并公开发布。Terminal 5 收录了截至第五章「Spooky」（2020 年 12 月 5 日）的剧情，玩家未选择的两名 Avatar 会成为本章的反派。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "Urrezko Kaiola is a multimedia alternate-reality game that ran from April 2020 to 2025: AI characters trapped inside a video game interact with players outside it, while Kara, the Game Master, decompiles each chapter for release. Terminal 5 is the release containing the story through Chapter 5 ('Spooky', 5 December 2020), in which the two Avatars the player did not choose become the chapter's villains.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "『Urrezko Kaiola』は2020年4月から2025年にかけて展開されたマルチメディアARG。ゲーム世界に囚われたAIキャラクターたちがゲーム外のプレイヤーと交流し、ゲームマスターのKaraが各章をデコンパイルして公開していく。Terminal 5は第5章「Spooky」（2020年12月5日）までの物語を収録し、プレイヤーが選ばなかった2人のAvatarが本章の敵となる。",
+          "editorialStatus": "draft"
+        }
+      },
+      "externalLinks": [
+        {
+          "url": "https://urrka-terminal.host/",
+          "type": "official",
+          "label": "Official site"
+        },
+        {
+          "url": "https://github.com/UrrezkoKaiola/terminal5",
+          "type": "source",
+          "label": "GitHub source repository"
+        },
+        {
+          "url": "https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/UrrezkoKaiola",
+          "type": "wiki",
+          "label": "TV Tropes (series)"
+        },
+        {
+          "url": "https://webrpg.org/UrrezkoKaiola-terminal5/",
+          "type": "other",
+          "label": "WebRPG play page"
+        }
+      ],
+      "contentAdvisory": {
+        "nsfw": false
+      }
+    },
+    "urrezko-kaiola-terminal-6": {
+      "schemaVersion": 1,
+      "slug": "urrezko-kaiola-terminal-6",
+      "originalTitle": "Urrezko-Kaiola-Terminal-6",
+      "taxonomy": {
+        "genres": [
+          "rpg"
+        ],
+        "themes": [
+          "fantasy",
+          "mystery",
+          "sci-fi"
+        ],
+        "contentType": "full-game",
+        "mechanics": [
+          "turn-based combat",
+          "multiple endings",
+          "puzzles",
+          "avatar selection",
+          "arg elements"
+        ]
+      },
+      "developers": [
+        {
+          "name": "UrrezkoKaiola",
+          "url": "https://github.com/UrrezkoKaiola"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/UrrezkoKaiola-terminal6/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "urrezkokaiola-terminal6",
+          "title": "Urrezko-Kaiola-Terminal-6",
+          "languages": [
+            "en"
+          ],
+          "nsfw": false,
+          "notes": "One avatar route of the chapter (zndnaouwnod-aintzane, the Aintzane route); the repo holds other avatar-route dirs of the same chapter."
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/UrrezkoKaiola",
+          "https://urrka-terminal.host/",
+          "https://github.com/UrrezkoKaiola/terminal6",
+          "https://webrpg.org/UrrezkoKaiola-terminal6/"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 5,
+      "assessedAt": "2026-11-14",
+      "assessmentSources": [
+        "https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/UrrezkoKaiola",
+        "https://urrka-terminal.host/",
+        "https://github.com/UrrezkoKaiola/terminal6",
+        "https://webrpg.org/UrrezkoKaiola-terminal6/"
+      ],
+      "assessmentNote": "No Steam/itch/review presence; footprint is a dedicated TV Tropes page, official site urrka-terminal.host, two Discords, six character Twitters, Tumblr blogs and a subreddit (per TV Tropes); no review scores, so rating is blank. In-repo: 51 maps / 3104 events / 2601 dialogue lines / 182 transfers — the largest Urrezko build in the batch; adds the full Ice chapter (11 maps: IceLobby, IcyMaze, Tundra, Waterfall, Underwater Caves, Icy City, Hidden Caves, Thawing Path, Temple Entrance, Ice Temple F1, Ice Temple F2) and reworks shared maps vs Terminal 5 (see T5 note). TV Tropes: Ch 6 'Ice' released 8 Mar 2021; Tximista duel with three endings locked behind exploiting the boss mechanics; 'Fission Mailed' (losing to Tximista does not game-over because Ross Bot makes himself playable). Note on Gaiden-1: it shares 50/51 maps (identical event/dialogue counts) with this build, but it is a separate dated release (TV Tropes: Gaiden 1, preview for the Chapter 7 pizzeria minigame, 2021-03-09) with its own title, start map and Pizzeria-Minigame map — see its own entry. nsfw false: the 'fuck' hit is the shared Lehiakide line in Map011, present in this build's identical map content (profanity only, no sexual content). Translated titles are translator-supplied literal translations (TV Tropes glosses the Basque as 'Gilded Cage'; 'Golden Cage' is the equivalent literal rendering), not official titles. Release 2021-03-08 (Chapter 6 release; terminal build scope through Ch 6). Repo 0 stars; rating blank; popularity 5.",
+      "release": {
+        "date": "2021-03-08",
+        "originalPlatforms": [
+          "web"
+        ]
+      },
+      "relations": [
+        {
+          "gameId": "urrezko-kaiola-gaiden-1",
+          "type": "same-series"
+        },
+        {
+          "gameId": "urrezko-kaiola-terminal-2",
+          "type": "same-series"
+        },
+        {
+          "gameId": "urrezko-kaiola-terminal-5",
+          "type": "same-series"
+        }
+      ],
+      "translatedTitles": {
+        "zh-Hans": "金色牢笼：终端6",
+        "en": "Golden Cage: Terminal 6",
+        "ja": "黄金の檻：ターミナル6"
+      },
+      "aliases": {
+        "en": [
+          "Urrezko Kaiola"
+        ]
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "《Urrezko Kaiola》是一场 2020 年 4 月至 2025 年的多媒体 ARG：被困在游戏世界里的 AI 角色会与游戏外的玩家互动，而游戏管理员 Kara 则逐章反编译游戏并公开发布。Terminal 6 收录了截至第六章「Ice」（2021 年 3 月 8 日）的剧情，Izoztutako 与 Haizea、Tximista 一同统治冰之领域。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "Urrezko Kaiola is a multimedia alternate-reality game that ran from April 2020 to 2025: AI characters trapped inside a video game interact with players outside it, while Kara, the Game Master, decompiles each chapter for release. Terminal 6 is the release containing the story through Chapter 6 ('Ice', 8 March 2021), in which Izoztutako rules the Ice Realm with Haizea and Tximista as her co-dragons.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "『Urrezko Kaiola』は2020年4月から2025年にかけて展開されたマルチメディアARG。ゲーム世界に囚われたAIキャラクターたちがゲーム外のプレイヤーと交流し、ゲームマスターのKaraが各章をデコンパイルして公開していく。Terminal 6は第6章「Ice」（2021年3月8日）までの物語を収録し、IzoztutakoがHaizeaとTximistaを従えて氷の領域を支配する。",
+          "editorialStatus": "draft"
+        }
+      },
+      "externalLinks": [
+        {
+          "url": "https://urrka-terminal.host/",
+          "type": "official",
+          "label": "Official site"
+        },
+        {
+          "url": "https://github.com/UrrezkoKaiola/terminal6",
+          "type": "source",
+          "label": "GitHub source repository"
+        },
+        {
+          "url": "https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/UrrezkoKaiola",
+          "type": "wiki",
+          "label": "TV Tropes (series)"
+        },
+        {
+          "url": "https://webrpg.org/UrrezkoKaiola-terminal6/",
+          "type": "other",
+          "label": "WebRPG play page"
+        }
+      ],
+      "contentAdvisory": {
+        "nsfw": false
+      }
     }
   }
 }

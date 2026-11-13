@@ -32688,14 +32688,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/minnnpannn9585-JustinProj01_rpgmaker/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg"
-      ],
-      "nsfw": false,
+      "gameSlug": "turn-of-the-blade",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-12"
+      "nsfw": false,
+      "reviewedAt": "2026-11-12",
+      "reviewedSourceHeadSha": "81bf3da7db2c6c4f9767b84e28c30c2e32da1dec"
     }
   },
   {
@@ -32795,18 +32792,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/mysterymagination-twilightning/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "adventure",
-        "horror"
-      ],
-      "languages": [
-        "en"
-      ],
-      "nsfw": false,
+      "gameSlug": "twilightning",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-12"
+      "nsfw": false,
+      "reviewedAt": "2026-11-12",
+      "reviewedSourceHeadSha": "f712bdf322f1e6d174507d6cbcfca9dddc8062d0"
     }
   },
   {
@@ -32870,17 +32860,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/gallegosjaime-rpg-project/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg"
-      ],
-      "languages": [
-        "es"
-      ],
-      "nsfw": false,
+      "gameSlug": "umbra",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-12"
+      "nsfw": false,
+      "reviewedAt": "2026-11-12",
+      "reviewedSourceHeadSha": "654b6ec308424f754d28e852fe68a39f661eb24c"
     }
   },
   {
@@ -32910,17 +32894,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/BeyonDoff-umi_the_game/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg"
-      ],
-      "languages": [
-        "zh-Hans"
-      ],
-      "nsfw": false,
+      "gameSlug": "umi",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-12"
+      "nsfw": true,
+      "reviewedAt": "2026-11-12",
+      "reviewedSourceHeadSha": "e6b9b145e9d1257873690667214561c03037c6a4"
     }
   },
   {
@@ -32950,17 +32928,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/EpxStudio-Universe25/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "adventure"
-      ],
-      "languages": [
-        "en"
-      ],
-      "nsfw": false,
+      "gameSlug": "universe25",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-12"
+      "nsfw": false,
+      "reviewedAt": "2026-11-12",
+      "reviewedSourceHeadSha": "3138e7f76bdf6ddeb93c6ecde72b25f6e7def74b"
     }
   },
   {
@@ -33053,17 +33025,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/UrrezkoKaiola-gaiden-one/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg"
-      ],
-      "languages": [
-        "en"
-      ],
-      "nsfw": false,
+      "gameSlug": "urrezko-kaiola-gaiden-1",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-12"
+      "nsfw": false,
+      "reviewedAt": "2026-11-12",
+      "reviewedSourceHeadSha": "17364f75928b41a951068c7d84d474ecdec0a745"
     }
   },
   {
@@ -33166,17 +33132,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/UrrezkoKaiola-terminal2/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg"
-      ],
-      "languages": [
-        "en"
-      ],
-      "nsfw": false,
+      "gameSlug": "urrezko-kaiola-terminal-2",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-12"
+      "nsfw": false,
+      "reviewedAt": "2026-11-12",
+      "reviewedSourceHeadSha": "c2a5e62b68932387a8c178241b8416c991612d6d"
     }
   },
   {
@@ -33206,17 +33166,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/UrrezkoKaiola-terminal5/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg"
-      ],
-      "languages": [
-        "en"
-      ],
-      "nsfw": false,
+      "gameSlug": "urrezko-kaiola-terminal-5",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-12"
+      "nsfw": false,
+      "reviewedAt": "2026-11-12",
+      "reviewedSourceHeadSha": "e70ada5df26167b9b2766f063f916e3f4ac6f5d2"
     }
   },
   {
@@ -33246,17 +33200,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/UrrezkoKaiola-terminal6/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg"
-      ],
-      "languages": [
-        "en"
-      ],
-      "nsfw": false,
+      "gameSlug": "urrezko-kaiola-terminal-6",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-12"
+      "nsfw": false,
+      "reviewedAt": "2026-11-12",
+      "reviewedSourceHeadSha": "c52d20420799ccf83382e406c69f55110844d0de"
     }
   },
   {
@@ -33309,16 +33257,8 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/Abner1710-Goty-rpg/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg"
-      ],
-      "languages": [
-        "es"
-      ],
+      "playable": false,
       "nsfw": false,
-      "playable": true,
-      "popularity": 2,
-      "rating": 5,
       "reviewedAt": "2026-11-12"
     }
   },
