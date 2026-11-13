@@ -24352,6 +24352,912 @@
           "drug use theme"
         ]
       }
+    },
+    "the-viral-lie": {
+      "schemaVersion": 1,
+      "slug": "the-viral-lie",
+      "originalTitle": "The Viral Lie",
+      "taxonomy": {
+        "genres": [
+          "rpg"
+        ],
+        "themes": [
+          "educational"
+        ],
+        "contentType": "full-game",
+        "mechanics": [
+          "exploration",
+          "dialogue"
+        ]
+      },
+      "developers": [
+        {
+          "name": "Patrick-ayo",
+          "url": "https://github.com/Patrick-ayo"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/Patrick-ayo-MISINFORMATION-GAME/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "patrick-ayo-misinformation-game",
+          "title": "The Viral Lie",
+          "languages": [
+            "en"
+          ],
+          "nsfw": false
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/Patrick-ayo/MISINFORMATION-GAME",
+          "https://misinfogame0.netlify.app/",
+          "https://webrpg.org/Patrick-ayo-MISINFORMATION-GAME/"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 1,
+      "assessedAt": "2026-11-14",
+      "assessmentSources": [
+        "https://github.com/Patrick-ayo/MISINFORMATION-GAME",
+        "https://misinfogame0.netlify.app/",
+        "https://webrpg.org/Patrick-ayo-MISINFORMATION-GAME/"
+      ],
+      "assessmentNote": "No external traces found (no Steam/itch/media/forum record; the only sources are the GitHub repo itself, created 2025-08-23, 0 stars, 0 watchers, 4 forks, 35 commits, 0 releases, and the README-linked Netlify promo site 'MISINFO — FIGHT MISINFORMATION'). In-repo: 7 maps / 55 events / 487 dialogue lines / 32 transfers / 57 event pages — MAP002 hub (22 events, 155 lines, signposts to each location) -> Player House -> patricks clinic, Yash Casino, Maya Clinic, Shubham Studio -> Community Hall; NPC Riya's dialogue anchors the story on the rumored cure ('Do you hear the information about that cure / I hope that cure works so my backpain stops hurting me'). The repo root also holds a separate HTML/JS web project (index.html, game.html, fact-check.html, research.html) and the Netlify site is its promo page, not the RPG Maker game itself (the MZ game lives in game2mz/). No ending/switch evidence: System.json switches and variables are both empty arrays, so the flow is driven by map transfers; full-game is judged on dialogue volume and the connected map structure. Whether the game has combat is unverified (MAP002 has an empty encounter list; other maps were not checked map by map). nsfw false (an anti-misinformation education story; 'Yash Casino' is only a location name, with no gambling or adult content evidenced). Not to be confused with The (Mis)Information Game (misinfogame.com, Butler et al. 2024, an academic social-media simulator), Go Viral! (Cambridge, 2020), Bad News (Roozenbeek & van der Linden) or THREAD (itch.io, Kartikesh007). Translated titles are literal translations/transliterations, not official titles. Repo 0 stars; rating blank; popularity 1.",
+      "translatedTitles": {
+        "zh-Hans": "病毒谎言",
+        "ja": "バイラル・ライ"
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "以虚假信息为主题的教育 RPG：小镇里流传着一则“特效药”的传言，玩家在家、诊所、赌场、工作室与社区会堂之间走访居民，在对话中辨别传言真假，学习识别虚假信息。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "An educational RPG about misinformation: a rumored 'cure' is spreading through a small town, and the player visits residents at home, in clinics, a casino, a studio and the community hall, sorting rumor from truth in conversation and learning to spot fake news.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "誤情報をテーマにした教育 RPG。小さな町で「特効薬」の噂が広まり、プレイヤーは自宅や診療所、カジノ、スタジオ、公民館を訪ねて住民と話し、噂の真偽を見分けながらフェイクニュースの見分け方を学ぶ。",
+          "editorialStatus": "draft"
+        }
+      },
+      "externalLinks": [
+        {
+          "url": "https://github.com/Patrick-ayo/MISINFORMATION-GAME",
+          "type": "source",
+          "label": "GitHub source repository"
+        },
+        {
+          "url": "https://misinfogame0.netlify.app/",
+          "type": "official",
+          "label": "Official site / anti-misinformation promo page (README-linked)"
+        },
+        {
+          "url": "https://webrpg.org/Patrick-ayo-MISINFORMATION-GAME/",
+          "type": "other",
+          "label": "WebRPG play page"
+        }
+      ],
+      "contentAdvisory": {
+        "nsfw": false
+      }
+    },
+    "to-glory": {
+      "schemaVersion": 1,
+      "slug": "to-glory",
+      "originalTitle": "To Glory",
+      "taxonomy": {
+        "genres": [
+          "rpg"
+        ],
+        "themes": [],
+        "contentType": "demo",
+        "mechanics": [
+          "turn-based combat",
+          "status effects",
+          "shop"
+        ]
+      },
+      "developers": [
+        {
+          "name": "Alin Bordeianu"
+        },
+        {
+          "name": "Alessandro Benfenati"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/Martinetto33-To-Glory/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "martinetto33-to-glory",
+          "title": "To Glory",
+          "languages": [
+            "en"
+          ],
+          "nsfw": false
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/Martinetto33/To-Glory",
+          "https://github.com/Martinetto33/To-Glory/releases",
+          "https://webrpg.org/Martinetto33-To-Glory/"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 1,
+      "assessedAt": "2026-11-14",
+      "assessmentSources": [
+        "https://github.com/Martinetto33/To-Glory",
+        "https://github.com/Martinetto33/To-Glory/releases",
+        "https://webrpg.org/Martinetto33-To-Glory/"
+      ],
+      "assessmentNote": "No external traces found (no Steam/itch/media/forum record; the only sources are the GitHub repo itself, created 2024-12-03, 1 star, 2 watchers, 2 forks, 107 commits, 1 release with Win/Linux/Android/Mac builds whose date was not verified, and the WebRPG play page). In-repo (Map001.json + CommonEvents.json verified in full): 1 map 'Locanda' (29x21 tavern) / 9 events / 80 dialogue lines / 0 transfers — bartender (first talk grants a base item kit via CE19: small x2 / medium x1 / large x1 healing potions, bezoar x2), items merchant (potion kits refilled on every return to the inn), armor merchant, Expert (three tutorial dialogues: 'you go outside, and you fight. If you win, you gain gold to buy new equipment and items. … you'll always heal when you come back at the inn.', plus status-effect and MP tutorials), and four 'Battle Selection' tiles calling CE2 'Battle Menu' with only two options: 'Level 1' (battle processing, troop 5, snowfield background; winning sets switch 1 'Level 1 completed' and refills items via CE18) and 'More levels' (CE4 'Still in development': 'This part is not implemented yet!'). Switches 'Level 2/3/4 completed' exist in System.json but no event ever sets them ON, and CE3 'Level Locked Message' has no caller — dead code. The implemented loop is a complete repeatable cycle (hub -> merchants -> battle tile -> Level 1 fight with Hunter's Mark / counter / evasion and a potion-kit economy -> gold -> better gear), so it is kept as a demo with substantial content, not flipped. Minor suspected defect (not a flip reason): the bartender's first-talk branch requires switch 19 'Talked to Bartender' to be ON, but switch 19 starts OFF and no event ever sets it ON, so the first item kit may be unreachable. nsfw false (standard RPG combat violence against wolves, no sexual content). Not to be confused with From Ashes To Glory (Steam), For Glory (Google Play), Fallen Legion: Rise to Glory (Steam), Tales Of Glory 4: Ragnarok (Steam VR) or Outcast of Heaven (itch.io). Translated titles are literal translations/transliterations, not official titles. Repo 1 star; rating blank; popularity 1.",
+      "translatedTitles": {
+        "zh-Hans": "走向荣耀",
+        "ja": "トゥ・グローリー"
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "酒馆里的单关卡战斗小游戏：冒险者以酒馆为据点，与酒保、铁匠、商人和专家交谈、买卖装备与药水，然后踩上出战地砖挑战第 1 关的雪原战斗；打赢得金、买更强装备再战。第 2–4 关尚未实装。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "A small single-level battle game set in a tavern: the adventurer uses the inn as a hub — talking to the bartender, blacksmith, merchant and the Expert, buying gear and potion kits — then steps onto the battle tiles to fight Level 1 in a snowy field; winning earns gold for better equipment. Levels 2–4 are not implemented.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "酒場を舞台にした単一レベルのバトルゲーム。冒険者は酒場を拠点にバーテンダー、鍛冶屋、商人、専門家と話し、装備やポーションキットを買い、戦闘タイルを踏んで雪原のレベル 1 に挑む。勝てばゴールドを得て装備を強化できる。レベル 2～4 は未実装。",
+          "editorialStatus": "draft"
+        }
+      },
+      "externalLinks": [
+        {
+          "url": "https://github.com/Martinetto33/To-Glory",
+          "type": "source",
+          "label": "GitHub source repository"
+        },
+        {
+          "url": "https://github.com/Martinetto33/To-Glory/releases",
+          "type": "other",
+          "label": "GitHub Releases (Win/Linux/Android/Mac builds)"
+        },
+        {
+          "url": "https://webrpg.org/Martinetto33-To-Glory/",
+          "type": "other",
+          "label": "WebRPG play page"
+        }
+      ],
+      "contentAdvisory": {
+        "nsfw": false
+      }
+    },
+    "to-save-a-princess": {
+      "schemaVersion": 1,
+      "slug": "to-save-a-princess",
+      "originalTitle": "To Save a Princess",
+      "taxonomy": {
+        "genres": [
+          "rpg"
+        ],
+        "themes": [
+          "fantasy"
+        ],
+        "contentType": "full-game",
+        "mechanics": [
+          "turn-based combat",
+          "exploration",
+          "boss battles"
+        ]
+      },
+      "developers": [
+        {
+          "name": "Tylla",
+          "url": "https://github.com/tyllastarr"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/tyllastarr-ld46/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "tyllastarr-ld46",
+          "title": "To Save a Princess",
+          "languages": [
+            "en"
+          ],
+          "nsfw": false
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://ldjam.com/events/ludum-dare/46/to-save-a-princess",
+          "https://github.com/tyllastarr/ld46",
+          "https://webrpg.org/tyllastarr-ld46/"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 2,
+      "assessedAt": "2026-11-14",
+      "assessmentSources": [
+        "https://ldjam.com/events/ludum-dare/46/to-save-a-princess",
+        "https://github.com/tyllastarr/ld46",
+        "https://webrpg.org/tyllastarr-ld46/"
+      ],
+      "assessmentNote": "Ludum Dare 46 entry page verified (ldjam.com/events/ludum-dare/46/to-save-a-princess, opened 2026-11-14): 'JAM GAME by Tylla (@tylla)'; author blurb 'Saving a princess turns into a bigger quest…but you have to keep the princess alive! If she falls, it's an instant game over!' — matching LD46's theme 'Keep it alive'. Ratings: Overall 2.563 (10 ratings), Fun 2.25, Innovation 2.429, Theme 2.563, Mood 3.357, all ranks N/A (too few ratings to rank) — too thin a sample for a quality rating, so rating is blank; popularity 2 (a real jam page with 10 ratings, but no other spread). GitHub repo 0 stars, 1 watcher, 2 forks, 16 commits. In-repo: 14 maps / 42 events / 72 dialogue lines / 27 transfers / 60 event pages — CASTLE (King's quest) -> MARKET (three shops MKTWPNSHOP / MKTARMSHOP / MKTITMSHOP + bakery MKTBAKER) -> GREATBELL, FEYGATE -> CATACOMBS, WARRENS -> INN -> SWORD, BEYOND (finale); a complete rescue arc via switches (Talked to King -> Baker Defeated -> Wizard Defeated -> Knight Defeated -> Inn Key Get -> Inn Door Opened -> Princess Rescued) with Baker/Wizard/Knight Rematch switches. The 'princess falls = game over' escort mechanic in the LDJam blurb has no matching switch in System.json, so it is not listed as a mechanic. The repo also holds Randomly Generated Adventure.pdf / Randomly Generated Town.pdf / Suggested Stats.xlsx and two dungeon print maps (The Catacombs / The Warrens), apparently the author's tabletop/random-generation reference material, not part of the game. nsfw false (fairy-tale rescue adventure with fantasy combat, no sexual content). Not to be confused with Long Live The King! (itch.io, JavaSaurus, LD46, escorting a prince), Stormy Knight (itch.io, LD50), I Want To Marry The Princess! (itch.io, Yuri Game Jam) or the Doodle God 'Save the Princess' quest line. Translated titles are literal translations, not official titles. Rating blank; popularity 2.",
+      "translatedTitles": {
+        "zh-Hans": "拯救公主",
+        "ja": "王女を救え"
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "Ludum Dare 46 参赛作（主题“Keep it alive”）：受国王之托救出公主，先后击败面包师、巫师与骑士三名 Boss，拿到旅店钥匙打开旅店之门救出公主；公主一旦倒下即游戏结束，三名 Boss 均可重打。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "A Ludum Dare 46 jam entry (theme 'Keep it alive'): tasked by the King with rescuing the princess, the player defeats three bosses — the Baker, the Wizard and the Knight — finds the inn key, opens the inn door and rescues the princess; if she falls, it's an instant game over, and all three bosses can be rematched.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "Ludum Dare 46 参加作（テーマ「Keep it alive」）。王の命を受けて王女を救うため、パン屋、魔法使い、騎士の三人のボスを倒し、宿屋の鍵を手に入れて扉を開け、王女を救出する。王女が倒れれば即ゲームオーバー。三人のボスは再戦可能。",
+          "editorialStatus": "draft"
+        }
+      },
+      "externalLinks": [
+        {
+          "url": "https://github.com/tyllastarr/ld46",
+          "type": "source",
+          "label": "GitHub source repository"
+        },
+        {
+          "url": "https://ldjam.com/events/ludum-dare/46/to-save-a-princess",
+          "type": "other",
+          "label": "Ludum Dare 46 entry page"
+        },
+        {
+          "url": "https://webrpg.org/tyllastarr-ld46/",
+          "type": "other",
+          "label": "WebRPG play page"
+        }
+      ],
+      "contentAdvisory": {
+        "nsfw": false
+      }
+    },
+    "touhou-era": {
+      "schemaVersion": 1,
+      "slug": "touhou-era",
+      "originalTitle": "Touhou Era's - 0.015b",
+      "taxonomy": {
+        "genres": [
+          "rpg"
+        ],
+        "themes": [
+          "fantasy"
+        ],
+        "contentType": "demo",
+        "mechanics": [
+          "turn-based combat",
+          "party recruitment",
+          "exploration"
+        ]
+      },
+      "developers": [
+        {
+          "name": "IkuTronHD",
+          "url": "https://github.com/IkuTronHD"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/IkuTronHD-Touhou-Era/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "ikutronhd-touhou-era",
+          "title": "Touhou Era's - 0.015b",
+          "languages": [
+            "es"
+          ],
+          "nsfw": false
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/IkuTronHD/Touhou-Era",
+          "https://webrpg.org/IkuTronHD-Touhou-Era/"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 1,
+      "assessedAt": "2026-11-14",
+      "assessmentSources": [
+        "https://github.com/IkuTronHD/Touhou-Era",
+        "https://webrpg.org/IkuTronHD-Touhou-Era/"
+      ],
+      "assessmentNote": "No external traces found (no Steam/itch/media/forum record; the only sources are the GitHub repo itself, created 2022-11-24, 0 stars, 1 watcher, 2 forks, 48 commits, 0 releases, and the author's Wix site linked from the in-game tutorial). In-repo (key map files parsed from GitHub raw): 56 maps / 538 events / 1,393 dialogue lines / 309 transfers / 840 event pages — stage dialogue dominates (Touhou 18: 534 lines, Touhou 6: 367, Touhou 1/2: 84, total 985) while the 23 plugin-test maps (ids 1-23) hold only 54 lines. Map024 'Start Select' (startMapId 24): choose Reimu or Marisa ('Mi nombre es Reimu, ¿Estás seguro de seleccionarme?'), a full tutorial ending 'Que disfrutes de la Demo 0.015b', and a shortcut to the Map008 plugin showcase; the tutorial states the concept ('habra una serie de portales que te llevaran a diferentes sitios donde podras \"simular\" los combates de los juegos de la saga Touho Project en gameplay RPG') with recruitment ('Zona de Fichajes'), shops and chapter unlocks ('portales … se van a desbloquear según vas completando los juegos'). Map025 'Touhou 18 - St 1': real story scene (Reimu meets Mike Goutokuji selling ability cards) and a named boss fight (troop 11 'Mike Goutokuji'), then a shop and a return to the hub. Map036 'Touhou 6 - St 1': Rumia's opening closely follows Embodiment of Scarlet Devil stage 1, then named boss fights (troop 36 etc.). Database: Troops.json 70 named troops — all Th18 bosses (Mike Goutokuji, Takane Yamashiro, Sannyo Komakusa, Misumaru Tamatsukuri, Tsukasa Kudamaki, Megumu Iizunamaru, Chimata Tenkyuu, Momoyo Himemushi), all Th6 bosses (Rumia, Cirno, Hong Meiling, Patchouli, Sakuya, Remilia, Flandre) and PC-98 bosses; Actors.json 47 characters with Spanish profiles; switches '[S] Th18' / '[S] Th6' / '[S] Th01 Complete' / '[S] Chapter Unlock'. ContentType is demo: the author calls it a Demo, version 0.015b, only parts of Th18/Th6/Th1/Th2 are covered (Th1 stages have 0-5 dialogue lines each) and no ending is evidenced — but the implemented content is far beyond a 1-minute demo. Languages are recorded as [es] only: sampled dialogue is entirely Spanish (locale en_US is the editor default); Map026 has a language-selection event (variable 921: English / Portuguese / Japanese / Original) and four-language Credits, but whether real translations exist was not verified. The original IP is Touhou Project (ZUN / Team Shanghai Alice), noted here, not listed as a developer. nsfw false (Touhou fan RPG with fantasy combat, no sexual content). Not to be confused with the official Touhou games, Touhou 6: EoSD [Reimagined] (itch.io, hiepntholha), Touhou Genmukairoku or other Google Play Touhou fan RPGs. Translated titles are literal translations, not official titles. Repo 0 stars; rating blank; popularity 1.",
+      "translatedTitles": {
+        "zh-Hans": "东方时代",
+        "ja": "東方時代"
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "东方 Project 同人 RPG 试玩版：玩家在起始中心选择灵梦或魔理沙，通过传送门重温《东方红魔乡》《东方虹龙洞》与 PC-98 旧作《东方灵异传》《东方封魔录》的关卡，以回合制战斗挑战各作 Boss 并招募队友；另附插件功能演示区，当前版本 0.015b。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "A Touhou Project fan-made RPG demo: starting from a hub, the player picks Reimu or Marisa and steps through portals reliving stages from Embodiment of Scarlet Devil, Unconnected Marketeers and the PC-98 titles Highly Responsive to Prayers and Story of Eastern Wonderland, fighting each game's bosses in turn-based combat and recruiting allies; a plugin showcase area is included on the side. Current version 0.015b.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "東方 Project の同人 RPG デモ版。拠点で霊夢か魔理沙を選び、ポータルを通って『東方紅魔郷』『東方虹龍洞』、PC-98 旧作『東方靈異伝』『東方封魔録』のステージを巡り、ターン制バトルで各作品のボスに挑み仲間を勧誘する。プラグインのデモエリアも併設。現バージョンは 0.015b。",
+          "editorialStatus": "draft"
+        }
+      },
+      "externalLinks": [
+        {
+          "url": "https://github.com/IkuTronHD/Touhou-Era",
+          "type": "source",
+          "label": "GitHub source repository"
+        },
+        {
+          "url": "https://webrpg.org/IkuTronHD-Touhou-Era/",
+          "type": "other",
+          "label": "WebRPG play page"
+        },
+        {
+          "url": "https://ikutronhd.wixsite.com/ikutronsite/",
+          "type": "other",
+          "label": "Author personal site (linked from the in-game tutorial)"
+        }
+      ],
+      "contentAdvisory": {
+        "nsfw": false
+      }
+    },
+    "trapped": {
+      "schemaVersion": 1,
+      "slug": "trapped",
+      "originalTitle": "Trapped",
+      "taxonomy": {
+        "genres": [
+          "adventure"
+        ],
+        "themes": [
+          "horror",
+          "survival"
+        ],
+        "contentType": "full-game",
+        "mechanics": [
+          "hiding",
+          "timed survival"
+        ]
+      },
+      "developers": [
+        {
+          "name": "tnguy510",
+          "url": "https://github.com/tnguy510"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/tnguy510-Split-4/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "tnguy510-split-4",
+          "title": "Trapped",
+          "languages": [
+            "en"
+          ],
+          "nsfw": false
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/tnguy510/Split-4",
+          "https://webrpg.org/tnguy510-Split-4/"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 1,
+      "assessedAt": "2026-11-14",
+      "assessmentSources": [
+        "https://github.com/tnguy510/Split-4",
+        "https://webrpg.org/tnguy510-Split-4/"
+      ],
+      "assessmentNote": "No external traces found (no Steam/itch/media/forum record; the only source is the GitHub repo itself, 1 star, 1 watcher, 3 forks, 58 commits, 0 releases). In-repo (all maps parsed from GitHub raw): 6 maps / 39 events / 98 dialogue lines / 12 transfers / 56 event pages — Hallway, Kitchen, BDRM1, BDRM2, Living Room, Times Up. A complete hide-and-survive loop, not a 1-minute sketch: Hallway — brace the front door with a box ('This should hold the door. Better not move it.'), pour a salt bag across the entrance ('Do you want to tip it in front of the front door? / You won't be able to move anything more that way after it's down.'), mix grandma's teapot shards into the salt ('You mixed in grandma's teapot into the salt.'), block the back door with a fallen dresser; BDRM1 — board the door with wood planks, push a large box against it (at the cost of not being able to leave), hide in the closet ('This closet is filled with clothes. You could hide in here. … this should be the last thing you do') -> 'Times Up' map (42 lines, the densest map): 'You're hiding from a monster, try to delay it as much as possible with the environment around you.', then an interrogation of every defence (front door braced? salt poured? shards mixed? bedroom door boarded? bedroom door blocked?) with a 'You won.' / 'You lost.' verdict; a parallel common event 'Check time' ends the run on timeout ('You lost.', jumpscare sound, Game Over). Switches timer / BDRM1Boarded / BDRM1Blocked / TeapotBlocked / FrontBlocked / SaltBlock / HidinginCloset1 and variable ThingsBlocked form the defence-counting chain. 'Split-4' is only the repo name (apparently a class/group assignment name); no evidence it is a game alias, so it is not recorded as one. Slug 'trapped' is a generic word: no collision in games.json today, but a future same-name game will need a -2 or author suffix. nsfw false (hiding from a monster at home, jumpscare horror atmosphere, no sexual content). Not to be confused with Trapped (Steam app 3181830, cave puzzle), Trapped (itch.io, SantaClausStudios, first-person horror), Trapped (itch.io, EDJEOFSPACE, block-clearing maze), Trapped [ITA/ENG] (itch.io, Vas Quas Editrice, two-player story board game) or Trapped (MSXdev25, Casper Croes et al.). Translated titles are a literal translation (zh-Hans) and a transliteration (ja), not official titles. Repo 1 star; rating blank; popularity 1.",
+      "translatedTitles": {
+        "zh-Hans": "被困",
+        "ja": "トラップド"
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "限时躲藏求生小游戏：怪物来袭之前，玩家要在屋里争分夺秒布防——用箱子顶门、木板封门、盐袋堵门、把祖母的茶壶打碎掺进盐里拖延怪物，最后躲进衣柜，靠逐项复核防御是否做到位来判定生死。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "A timed hide-and-survive micro-game: before the monster arrives, the player barricades the house against the clock — bracing doors with boxes, boarding them up, pouring salt across the entrance and mixing in shards of grandma's teapot to slow the creature — then hides in the closet, with a final check of every defence deciding whether they live or die.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "制限時間付きのかくれんぼサバイバル小品。怪物が来る前に家中にバリケードを築く——箱でドアを押さえ、板で打ち付け、玄関に塩を撒き、祖母のティーポットを割って塩に混ぜて怪物の足止めをし、最後にクローゼットに隠れる。防御がすべて実行できたかどうかで生死が決まる。",
+          "editorialStatus": "draft"
+        }
+      },
+      "externalLinks": [
+        {
+          "url": "https://github.com/tnguy510/Split-4",
+          "type": "source",
+          "label": "GitHub source repository"
+        },
+        {
+          "url": "https://webrpg.org/tnguy510-Split-4/",
+          "type": "other",
+          "label": "WebRPG play page"
+        }
+      ],
+      "contentAdvisory": {
+        "nsfw": false
+      }
+    },
+    "trench-face": {
+      "schemaVersion": 1,
+      "slug": "trench-face",
+      "originalTitle": "Trench Face",
+      "taxonomy": {
+        "genres": [
+          "rpg"
+        ],
+        "themes": [
+          "horror",
+          "survival"
+        ],
+        "contentType": "full-game",
+        "mechanics": [
+          "turn-based combat",
+          "crafting",
+          "stealth",
+          "exploration"
+        ]
+      },
+      "developers": [
+        {
+          "name": "Pulse Blue",
+          "url": "https://pulse-blue.itch.io"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/newtranslator007-rgb-Trench-Face-Thai-patch/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "newtranslator007-rgb-trench-face-thai-patch",
+          "title": "หน้าเน่า",
+          "languages": [
+            "th"
+          ],
+          "nsfw": false
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://store.steampowered.com/app/3894170/Trench_Face/",
+          "https://pulse-blue.itch.io/trench-face",
+          "https://steambase.io/games/trench-face/steam-charts",
+          "https://www.pcgamer.com/software/platforms/five-new-steam-games-you-probably-missed-september-8-2025/",
+          "https://github.com/newtranslator007-rgb/Trench-Face-Thai-patch",
+          "https://webrpg.org/newtranslator007-rgb-Trench-Face-Thai-patch/"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 7,
+      "assessedAt": "2026-11-14",
+      "assessmentSources": [
+        "https://store.steampowered.com/app/3894170/Trench_Face/",
+        "https://pulse-blue.itch.io/trench-face",
+        "https://steambase.io/games/trench-face/steam-charts",
+        "https://www.pcgamer.com/software/platforms/five-new-steam-games-you-probably-missed-september-8-2025/",
+        "https://github.com/newtranslator007-rgb/Trench-Face-Thai-patch",
+        "https://webrpg.org/newtranslator007-rgb-Trench-Face-Thai-patch/"
+      ],
+      "assessmentNote": "Ratings are taken from the original Trench Face by Pulse Blue (this entry is its fan-made Thai translation patch build, the same game): Steam 'Very Positive' (Steambase: 94/100, 718 reviews, 674 positive / 44 negative, as of July 2026), itch.io 4.9/5 (8 ratings), PC Gamer 2025-09-08 'Five new Steam games you probably missed' column, plus a ResetEra thread (2025-09-11) and Kotaku/IGDB listings — rating 9 (top-tier: 94% positive + mainstream press), popularity 7 (community-known within the niche; counter-evidence: Steam peak concurrent players only 26 on 2025-10-06, so not breakout). Release 2025-09-02 per the Steam store page (PC Gamer says September 3 — a one-day difference, likely a timezone convention; Steam is used). This Thai fork: README (Thai, with an English note) says the translator is a student practicing translation, the files are a Patch to be overlaid on a purchased copy of the original ('This project was born out of my passion for Trench Face… Special thanks to Pulse Blue for creating this amazing game!'); the repo About line reads 'Thai language localization patch for Trench Face by Pulse Blue. (Fan-made project)'. The translator newtranslator007-rgb is a fan translator, not a game developer, and is not listed in developers. In-repo (this fork): 51 maps / 4,750 events / 2,267 dialogue lines / 566 transfers / 7,092 event pages — The Trench (741 events / 429 lines / 1,209 pages), Bunker 1-1 to 4-1, No Man's Land, Tower, Cow Shop 1-5, Safe Room, Forest series, Battlefield series, select1-5 (class/difficulty selection), game version (start map), credits; switches NormalMode / PermaDeath, DLC, HorseChase, BunkerMonster, SaveBunker1-4, variables Timer / HorseTimer / Gunner / Upgrade — matching the original's escape-the-trench flow. Language verified in full: The Trench map's 429 dialogue lines are all Thai (0 lines purely Latin), credits are Thai too, and System.json gameTitle is Thai 'หน้าเน่า' — old meta [th] is confirmed, not a locale mislabel (locale en_US is the editor default). Official description: 'Trench Face is an RPG Survival Horror game set in an alternate history. You wake up hours after a battle without any knowledge on what happened since… Your goal is to escape to the forest and regroup with your comrade's safety.' Mechanics from the official description: turn-based combat with timed attacks and limb-targeted shooting (3 bullets, 3 limbs per turn), scrap crafting for ammo and healing, stealth past patrolling hanging figures, trench exploration with hidden passages and locked rooms, 3 starting classes (Raider melee / Sniper firearms / Medic crafting). nsfw false: no adult content evidenced in this fork (keyword scan 0 hits); Steam's 'General Mature Content' marker is generic and mentions no sexual content — the game's gore/horror is recorded as warnings, not nsfw. Not to be confused with Trench Pilgrim (itch.io, Rothaariger), TRENCHWALKER (itch.io, WakianTech Studios), Trench (itch.io, Big The Dave), Trenches VR (Steam, Steelkrill Studio) or The Trench (Kotaku/IGDB, submarine horror). Translated titles are a literal translation (zh-Hans) and a transliteration (ja), not official titles. This fork's repo 0 stars, 9 commits, created 2026-04-03; rating 9 / popularity 7 are the original's.",
+      "rating": 9,
+      "release": {
+        "date": "2025-09-02",
+        "originalPlatforms": [
+          "Windows"
+        ]
+      },
+      "translatedTitles": {
+        "zh-Hans": "战壕之面",
+        "ja": "トレンチ・フェイス"
+      },
+      "aliases": {
+        "th": [
+          "หน้าเน่า"
+        ]
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "架空历史背景的生存恐怖 RPG：士兵在战后数小时醒来，对战壕里发生的一切一无所知，身边只有尸体与天空中无法解释的移动物体。回合制战斗中一回合即可定生死，玩家需搜刮废料合成弹药与药品、潜行躲避巡逻的悬吊怪物，逃出战壕与战友会合。本条目为同人泰语翻译版，译者为学生译者 newtranslator007-rgb。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "A survival-horror RPG set in an alternate history: a soldier wakes hours after a battle with no memory of what happened, surrounded by corpses and unexplainable shapes moving in the sky. Turn-based combat where a single turn can mean life or death; the player scavenges scraps to craft ammo and healing items, sneaks past patrolling hanging figures, and fights to escape the trench and regroup with their comrades. This entry is a fan-made Thai translation by student translator newtranslator007-rgb.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "もうひとつの歴史を舞台にしたサバイバルホラー RPG。兵士は戦闘の数時間後に目覚めるが、何が起きたのか覚えていない。周囲には死体と、空を漂う説明のつかない物体があるだけだった。1 ターンが生死を分けるターン制バトルで、スクラップを集めて弾薬や回復アイテムを作り、徘徊する吊るされた怪物を避けて塹壕を脱出し、仲間と合流する。本エントリは学生翻訳者 newtranslator007-rgb によるファン製タイ語翻訳版。",
+          "editorialStatus": "draft"
+        }
+      },
+      "externalLinks": [
+        {
+          "url": "https://store.steampowered.com/app/3894170/Trench_Face/",
+          "type": "store",
+          "label": "Steam store page (original)"
+        },
+        {
+          "url": "https://pulse-blue.itch.io/trench-face",
+          "type": "store",
+          "label": "itch.io (original, $2.99)"
+        },
+        {
+          "url": "https://github.com/newtranslator007-rgb/Trench-Face-Thai-patch",
+          "type": "source",
+          "label": "GitHub Thai patch repository (this fork)"
+        },
+        {
+          "url": "https://webrpg.org/newtranslator007-rgb-Trench-Face-Thai-patch/",
+          "type": "other",
+          "label": "WebRPG play page"
+        }
+      ],
+      "contentAdvisory": {
+        "nsfw": false,
+        "warnings": [
+          "gore",
+          "horror"
+        ]
+      }
+    },
+    "trial-by-triage": {
+      "schemaVersion": 1,
+      "slug": "trial-by-triage",
+      "originalTitle": "Trial by Triage",
+      "taxonomy": {
+        "genres": [
+          "rpg"
+        ],
+        "themes": [
+          "comedy"
+        ],
+        "contentType": "full-game",
+        "mechanics": [
+          "combat",
+          "exploration"
+        ]
+      },
+      "developers": [
+        {
+          "name": "Sentry",
+          "url": "https://github.com/getsentry"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/getsentry-hackweek-trialbytriage/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "getsentry-hackweek-trialbytriage",
+          "title": "Trial by Triage",
+          "languages": [
+            "en"
+          ],
+          "nsfw": false
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/getsentry/hackweek-trialbytriage",
+          "https://hackweek.getsentry.net/projects/-N9cuZc1jwiHqFNH0dZF/an-rpg-where-you-fight-monsters-based-on-issues-from-your-sentry-feed",
+          "https://webrpg.org/getsentry-hackweek-trialbytriage/"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 2,
+      "assessedAt": "2026-11-14",
+      "assessmentSources": [
+        "https://github.com/getsentry/hackweek-trialbytriage",
+        "https://hackweek.getsentry.net/projects/-N9cuZc1jwiHqFNH0dZF/an-rpg-where-you-fight-monsters-based-on-issues-from-your-sentry-feed",
+        "https://webrpg.org/getsentry-hackweek-trialbytriage/"
+      ],
+      "assessmentNote": "No external traces found beyond Sentry's own channels (no Steam/itch/media/wiki/forum record; the only sources are the GitHub repo itself, 2 stars, 0 watchers, 2 forks, 101 commits, 0 releases, Sentry's own Hackweek project page — which requires a Google login and could not be opened — and the official hosted address). In-repo: 8 maps / 116 events / 322 dialogue lines / 22 transfers / 119 event pages — Colosseum, Swamp, Floating Temple, Cursed Cave, Volcano, Office 1F, Antechamber (start map, 75 lines), Armory. A complete loop via switches: collecting all artifacts is the overall goal ('All artifacts collected'); the colosseum has a win-count / troop-schedule / cash-reward system (COL Win Count / COL Next Troop / COL Max Wins / COL Troop Schedule / COL Cash Reward); quest lines include a llama count and replicas of five colleagues (QST Llamas count, QST Armin/Jan/Sheila/Abhijeet/Priscilla replicas); office events (food delivery, music party, DACI), temple PR review and quiz (Temple PR review, Temple quiz), Swamp Wednesday. README (verbatim): 'Trial by Triage is a fun accessory to the Sentry platform that was made as a Hackweek project in 2022. It is a JRPG-styled video game where the enemies are based on issues from the player's Sentry feed.' — explicitly a complete JRPG-styled game, with no demo/prototype/unfinished label; the official play address is https://tbt.sentry.gg/ (a DNS timeout on this check left its current online status unverified) and local play is via 'node server.js' + localhost:5000. A one-week Hackweek origin is not evidence of truncated content. Whether players without a Sentry account/API key can play fully is unverified (enemies are generated from the Sentry feed via a proxy server); the v1.1 load test passed, so the technical half is reused. No explicit Ending switch was found, so full-game is judged on the artifact goal switch and the multi-area loop. Popularity 2 (company-channel spread only: repo 2 stars, Sentry's own project page and hosted address; no independent coverage or player reviews). The developer is Sentry (the repo belongs to the getsentry organization). No exact release date (only 'Hackweek 2022'; repo created 2022-08-22, which is not a release date). nsfw false (Sentry office jokes + fantasy adventure, no sexual content). Not to be confused with Sentry (Kotaku-covered content-moderator game), the 2025 Sentry Hack Week Sega Genesis game (CJ, collecting traces), or TrialTriage (JMIR 2026 paper, a tumor-trial pre-screening workflow). 'Triage' is translated as 分流 (Sentry issue triage), not the medical 分诊. Translated titles are literal translations/transliterations, not official titles. Repo 2 stars; rating blank; popularity 2.",
+      "translatedTitles": {
+        "zh-Hans": "分流审判",
+        "ja": "トライアル・バイ・トリアージ"
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "Sentry 2022 年 Hackweek 作品：一款 JRPG 风格的小游戏，敌人由玩家 Sentry feed 中的真实 issue 生成。玩家穿梭于竞技场、沼泽、浮空神殿、诅咒洞穴、火山与 Sentry 办公室之间，收集全部神器，并可在竞技场中挑战由 issue 化身的敌人。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "A Hackweek 2022 project from Sentry: a JRPG-styled game whose enemies are generated from the issues in the player's own Sentry feed. The player travels through a colosseum, a swamp, a floating temple, a cursed cave, a volcano and the Sentry office, collecting all the artifacts and battling issue-born foes in the arena.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "Sentry の Hackweek 2022 作品。プレイヤーの Sentry フィードにある issue から生成される敵と戦う JRPG 風ゲーム。コロシアム、沼地、浮遊神殿、呪いの洞窟、火山、Sentry のオフィスを巡り、すべてのアーティファクトを集める。",
+          "editorialStatus": "draft"
+        }
+      },
+      "externalLinks": [
+        {
+          "url": "https://github.com/getsentry/hackweek-trialbytriage",
+          "type": "source",
+          "label": "GitHub source repository"
+        },
+        {
+          "url": "https://tbt.sentry.gg/",
+          "type": "official",
+          "label": "Official play page (README-listed; DNS timeout on this check, online status unverified)"
+        },
+        {
+          "url": "https://webrpg.org/getsentry-hackweek-trialbytriage/",
+          "type": "other",
+          "label": "WebRPG play page"
+        }
+      ],
+      "contentAdvisory": {
+        "nsfw": false
+      }
+    },
+    "trucker-quest": {
+      "schemaVersion": 1,
+      "slug": "trucker-quest",
+      "originalTitle": "Trucker Quest",
+      "taxonomy": {
+        "genres": [
+          "rpg"
+        ],
+        "themes": [
+          "comedy",
+          "fantasy"
+        ],
+        "contentType": "full-game",
+        "mechanics": [
+          "exploration",
+          "combat",
+          "puzzle"
+        ]
+      },
+      "developers": [
+        {
+          "name": "arqui-dev",
+          "url": "https://github.com/arqui-dev"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/arqui-dev-ProjetoCaminhoneiro/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "arqui-dev-projetocaminhoneiro",
+          "title": "Trucker Quest",
+          "languages": [
+            "en"
+          ],
+          "nsfw": false
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/arqui-dev/ProjetoCaminhoneiro",
+          "https://webrpg.org/arqui-dev-ProjetoCaminhoneiro/"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 1,
+      "assessedAt": "2026-11-14",
+      "assessmentSources": [
+        "https://github.com/arqui-dev/ProjetoCaminhoneiro",
+        "https://webrpg.org/arqui-dev-ProjetoCaminhoneiro/"
+      ],
+      "assessmentNote": "No external traces found (no Steam/itch/media/forum record; the only source is the GitHub repo itself, created 2016-02-16, 0 stars, 2 watchers, 2 forks, 3 commits, 0 releases). In-repo: 30 maps / 342 events / 438 dialogue lines / 63 transfers / 611 event pages — Fim dos tempos, Inicio, Apresentacao, Loja de Conveniencia, Banheiro, Ilha, Puzzle, dungeon, Futurista, Facility, Cliche, cabine 1-6 (truck cabins), Local dos ursos, Castelo, sala inimigos, The end, Fin, Credits. A complete story arc via switches: signature collection (variable Assinaturas, switch TEM_TODOS_ITENS) -> buy Hyper Machete 01 ($2500, cuts special bushes) -> dungeon/castle boss fights (LUTOU_COM_BOSS, fightboss, sneakboss, boss_falou, bossFinalMorreu, bossFugiu) -> lever puzzle (alavanca1-4, ALAVANCA FINAL) -> 'The end' / 'Fin' / 'Credits'. Language verified from raw map files: Map008 (Loja de Conveniencia, 87 lines) is all English ('Change is the law of life. And those who look only to the past or the present are certain to miss the future.', 'HM01, short for Hyper Machete 01.', 'Do you wanna buy Hyper Machete 01 for $2500?'), Map010 (Ilha, 19 lines) is all English ('OH! MY! GOD! Someone came to talk to me!', 'Hi! My name's Hank! Hank Toms!', 'I just want my hat. How do I meet with the lord of this dimension?', 'Really?! Ok, I need your signature.'), and a full-text search of Map006 (Inicio, 38 lines) for the Portuguese word 'você' returns 0 hits — old meta [en] is correct; Portuguese survives only in map/switch/variable names (author's native-language residue, e.g. 'Dentro do banheiro', 'TENTOU_DESCARGA_COMUM', 'LUTOU_COM_BOSS'). Comedy/parody evidence: the 'Cliche' map (Devil 1-5, faerie_princess, cliche_boss, espadaFoda), variable 'lutazelda' (a Zelda-fight joke) and 'bundas de urso' (Portuguese 'bear buttocks', a crude joke variable) — jokes in names, not sexual content (see nsfw). The 'trucker' protagonist identity is inferred from the title + cabine (cabin) maps; no dialogue line states the profession outright. The repo also holds a 'Projeto RPG Maker VX Ace' directory, unrelated to this indexed MV entry. nsfw false (the two suspicious words — 'bundas de urso' and the 'espadaFoda' switch — are crude naming jokes with no sexual depiction). Aliases pt ['ProjetoCaminhoneiro'] is the repo name, a real Portuguese name for the project ('Trucker Project'). Not to be confused with Road Truckers: New Beginning (PlayStation, a commercial trucker RPG), Truck-kun is Supporting Me from Another World?! (Steam) or the many job/logistics uses of the phrase 'Trucker Quest'. Translated titles are literal translations/transliterations, not official titles. Repo 0 stars; rating blank; popularity 1.",
+      "translatedTitles": {
+        "zh-Hans": "卡车司机任务",
+        "ja": "トラッカー・クエスト"
+      },
+      "aliases": {
+        "pt": [
+          "ProjetoCaminhoneiro"
+        ]
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "以卡车司机为主角的喜剧 RPG：玩家穿梭于便利店、浴室、地牢、城堡与未来设施等多个维度，收集各维度领主的签名，购买能砍开特殊灌木的 Hyper Machete，挑战地牢 Boss 与俗套桥段，最终迎来结局。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "A comedy RPG starring a trucker: the player travels through convenience stores, bathrooms, dungeons, castles and futuristic facilities across dimensions, collecting signatures from the lord of each dimension, buying the Hyper Machete that cuts special bushes, and fighting dungeon bosses and clichés on the way to the ending.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "トラック運転手を主人公にしたコメディ RPG。コンビニ、浴室、ダンジョン、城、未来施設など次元の異なる場所を巡り、各次元の領主のサインを集め、特殊な茂みを切れる Hyper Machete を買い、ダンジョンのボスやお約束ネタに挑みながら結末へ向かう。",
+          "editorialStatus": "draft"
+        }
+      },
+      "externalLinks": [
+        {
+          "url": "https://github.com/arqui-dev/ProjetoCaminhoneiro",
+          "type": "source",
+          "label": "GitHub source repository"
+        },
+        {
+          "url": "https://webrpg.org/arqui-dev-ProjetoCaminhoneiro/",
+          "type": "other",
+          "label": "WebRPG play page"
+        }
+      ],
+      "contentAdvisory": {
+        "nsfw": false
+      }
+    },
+    "ts-mamono-musume-shima": {
+      "schemaVersion": 1,
+      "slug": "ts-mamono-musume-shima",
+      "originalTitle": "TS魔物娘島",
+      "taxonomy": {
+        "genres": [
+          "rpg"
+        ],
+        "themes": [
+          "fantasy"
+        ],
+        "contentType": "full-game",
+        "mechanics": [
+          "exploration",
+          "combat"
+        ]
+      },
+      "developers": [],
+      "media": {
+        "cover": "https://webrpg.org/xymol-tsmgi/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "xymol-tsmgi",
+          "title": "TS魔物娘岛",
+          "languages": [
+            "zh-Hans"
+          ],
+          "nsfw": true
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/xymol/tsmgi",
+          "https://webrpg.org/xymol-tsmgi/"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 3,
+      "assessedAt": "2026-11-14",
+      "assessmentSources": [
+        "https://github.com/xymol/tsmgi",
+        "https://webrpg.org/xymol-tsmgi/"
+      ],
+      "assessmentNote": "No external traces found for either the original or this build (no Steam/itch/wiki/forum/DLsite record; the only source is the GitHub repo itself, 16 stars, 2 watchers, 3 forks, 11 commits — the highest GitHub signal in this batch, indicating a small spread within the Chinese R18 localization community, but no reviews or wiki coverage anywhere, so popularity 3, niche). In-repo: 261 maps / 2,730 events / 61,621 dialogue lines / 1,417 transfers / 5,665 event pages — about 140x the dialogue volume of the next-largest game in this batch. Multi-route structure with dozens of endings: vampire route (吸血姫ゲージ 30%/60%/90%/100% transformation progress, 完全吸血姫化), elf village (精灵村结局 1-3), mermaid route (人魚化ゲージ, 完全人鱼ED), seaside girl-transformation route, catgirl route (喵娘篇), fox route (four-stage EDs + failure EDs), harpy route (完全哈比ED, 腹胀ED), succubus/Inma route (完全色情的ED, 完全淫秽ED2), '女臭小子' route, '回家啦' multi-stage EDs, '逃脱成功', '生还结局' variants (特异体质/少年/少女/巨乳少女/海员 ED), plus a CG 回想室 (recollection gallery) and a bonus room. Language verified from Map003 (town): the dialogue is Simplified Chinese in machine-translation style ('好了……在这个岛上寻找宝藏吧。', '这个被称为『魔物娘岛』的地方，到底有什么呢', '现在的我是如此脆弱，女性这个性别的恐惧。'); Japanese survives only in untranslated system strings (switch names like TSした直後, 吸血姫ゲージ, 人魚化ゲージ; locale ja_JP) — old meta [zh-Hans] is correct for this instance. nsfw true, confirmed on multiple grounds: the repo describes itself as '《TS魔物娘岛》汉化网页版（R18）'; map names name explicit adult content ('大姐的房间（色情内容）', '完全色情的ED', '腹胀ED', '淫魔', '生活区（变成淫魔并逃走）', '完全淫秽ED2', 'Inma版，实验开始2。成人印玛版', '女臭小子' series, '尼亚女孩监狱'); keyword hits located in source ('おっぱい' switch, '巨乳' and '触手' map keywords); dialogue samples confirm the TS framework ('变成这个身体后，她感觉自己第一次看不到胸部和屁股', '面对这样一个丰满的身体，他的眼睛从脸上移开不了'). Warnings: explicit sexual content (R18), gender transformation (TS), tentacle content, pregnancy/inflation endings. A fifth proposed warning ('non-consensual sexual themes in some routes', inferred only from '被绑架'/'监狱' map names) was dropped by the executor — map names alone do not verify non-consensual sexual content. The Japanese original's author, platform and date are unknown after multiple search rounds ('TS魔物娘島', 'TSMGI', 'TS魔物娘岛' find only this repo); xymol is the localizer/uploader, not the original developer, so developers and release are left blank (repo created 2024-04-02 is the upload date of this localization, not a release date). The English title 'TS Monster Girl Island' is a literal translation, not an official title. Alias en ['TSMGI'] is the repo-name abbreviation, a real short name for the game. Not to be confused with Monster Girl Island (Redamz, Steam/itch.io, 2019-06-20, Unity 3D eroge), TS魔物娘地方 / TS Monster Girl Region ('Bamboo Shoot growing in a Tea Plantation', 2025-01-25, RPG Maker, protagonist Kyota — a different game, one character apart in the title), or 処女と執事と魔女の島 (PEACH CAT, DLsite, 2023-05-28). Repo 16 stars; rating blank; popularity 3.",
+      "translatedTitles": {
+        "zh-Hans": "TS魔物娘岛",
+        "en": "TS Monster Girl Island"
+      },
+      "aliases": {
+        "en": [
+          "TSMGI"
+        ]
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "日本免费成人 RPG 的中文汉化网页版：男主角流落到魔物娘栖息的岛屿后性转为女性身体，在城镇、精灵村、吸血姬居所、妖狐神社等地探索，经历吸血鬼、精灵、人鱼、猫娘、妖狐、哈比、淫魔等多条路线与数十种结局。本作为 R18 成人向作品，含明确性内容。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "A Chinese-localized web version of a Japanese free adult RPG: a male protagonist, stranded on an island inhabited by monster girls, is transformed into a female body and explores the town, the elf village, the vampire's residence and the fox shrine, following routes for vampires, elves, mermaids, catgirls, fox spirits, harpies and succubi across dozens of endings. An R18 adult title with explicit sexual content.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "日本の無料アダルト RPG の中国語ローカライズ版。魔物娘の棲む島に流れ着いた男主人公は女性の身体へと TS し、町、エルフ村、吸血姫の館、妖狐の神社などを探索しながら、吸血鬼、エルフ、人魚、猫娘、妖狐、ハーピー、淫魔などのルートと数十のエンディングを辿る。R18 のアダルト作品で、明確な性的内容を含む。",
+          "editorialStatus": "draft"
+        }
+      },
+      "externalLinks": [
+        {
+          "url": "https://github.com/xymol/tsmgi",
+          "type": "source",
+          "label": "GitHub source repository (Chinese-localized web version, R18)"
+        },
+        {
+          "url": "https://webrpg.org/xymol-tsmgi/",
+          "type": "other",
+          "label": "WebRPG play page"
+        }
+      ],
+      "contentAdvisory": {
+        "nsfw": true,
+        "warnings": [
+          "explicit sexual content (R18)",
+          "gender transformation (TS): male protagonist transformed into a female body",
+          "tentacle content",
+          "pregnancy / inflation endings (e.g. 腹胀ED)"
+        ]
+      }
     }
   }
 }

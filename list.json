@@ -32074,18 +32074,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/Patrick-ayo-MISINFORMATION-GAME/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg",
-        "educational"
-      ],
-      "languages": [
-        "en"
-      ],
-      "nsfw": false,
+      "gameSlug": "the-viral-lie",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-12"
+      "nsfw": false,
+      "reviewedAt": "2026-11-12",
+      "reviewedSourceHeadSha": "26b53672674c7dfcf4508d16364fb1efbc8fb846"
     }
   },
   {
@@ -32338,17 +32331,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/Martinetto33-To-Glory/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg"
-      ],
-      "languages": [
-        "en"
-      ],
-      "nsfw": false,
+      "gameSlug": "to-glory",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-12"
+      "nsfw": false,
+      "reviewedAt": "2026-11-12",
+      "reviewedSourceHeadSha": "c02586107e12bbec589de09e02692b289297b2e5"
     }
   },
   {
@@ -32378,17 +32365,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/tyllastarr-ld46/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg"
-      ],
-      "languages": [
-        "en"
-      ],
-      "nsfw": false,
+      "gameSlug": "to-save-a-princess",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-12"
+      "nsfw": false,
+      "reviewedAt": "2026-11-12",
+      "reviewedSourceHeadSha": "f4757a58ea83e91e36cac1987838b5d94f376945"
     }
   },
   {
@@ -32442,17 +32423,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/IkuTronHD-Touhou-Era/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg"
-      ],
-      "languages": [
-        "es"
-      ],
-      "nsfw": false,
+      "gameSlug": "touhou-era",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-12"
+      "nsfw": false,
+      "reviewedAt": "2026-11-12",
+      "reviewedSourceHeadSha": "4ae5600753ecd1455ab175c928d6a0522d3097fc"
     }
   },
   {
@@ -32514,18 +32489,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/tnguy510-Split-4/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "adventure",
-        "horror"
-      ],
-      "languages": [
-        "en"
-      ],
-      "nsfw": false,
+      "gameSlug": "trapped",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-12"
+      "nsfw": false,
+      "reviewedAt": "2026-11-12",
+      "reviewedSourceHeadSha": "f41007b0934a52a315f267db9cc949b37e3eab5f"
     }
   },
   {
@@ -32555,20 +32523,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/newtranslator007-rgb-Trench-Face-Thai-patch/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg",
-        "horror"
-      ],
-      "languages": [
-        "th"
-      ],
-      "nsfw": false,
-      "originalTitle": "Trench Face",
+      "gameSlug": "trench-face",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
+      "nsfw": false,
       "reviewedAt": "2026-11-12",
-      "title": "หน้าเน่า"
+      "reviewedSourceHeadSha": "ddde63b0ee21ebc7a1633353d41f65c12e442126"
     }
   },
   {
@@ -32598,17 +32557,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/getsentry-hackweek-trialbytriage/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg"
-      ],
-      "languages": [
-        "en"
-      ],
-      "nsfw": false,
+      "gameSlug": "trial-by-triage",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-12"
+      "nsfw": false,
+      "reviewedAt": "2026-11-12",
+      "reviewedSourceHeadSha": "89d752b924152a1564aac70fbf787b041758a715"
     }
   },
   {
@@ -32638,21 +32591,9 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/RyanBram-ryanbram.github.io/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "aliases": [
-        "Triple Triad"
-      ],
-      "genres": [
-        "minigame"
-      ],
-      "languages": [
-        "en"
-      ],
+      "playable": false,
       "nsfw": false,
-      "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-12",
-      "title": "bullethell"
+      "reviewedAt": "2026-11-12"
     }
   },
   {
@@ -32682,17 +32623,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/arqui-dev-ProjetoCaminhoneiro/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg"
-      ],
-      "languages": [
-        "en"
-      ],
-      "nsfw": false,
+      "gameSlug": "trucker-quest",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-12"
+      "nsfw": false,
+      "reviewedAt": "2026-11-12",
+      "reviewedSourceHeadSha": "a7742c49647871e6796d08f135c860afec542557"
     }
   },
   {
@@ -32719,17 +32654,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/xymol-tsmgi/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg"
-      ],
-      "languages": [
-        "zh-Hans"
-      ],
-      "nsfw": true,
+      "gameSlug": "ts-mamono-musume-shima",
       "playable": true,
-      "popularity": 3,
-      "rating": 5,
-      "reviewedAt": "2026-11-12"
+      "nsfw": true,
+      "reviewedAt": "2026-11-12",
+      "reviewedSourceHeadSha": "bc686711a153fde4b0704b2e61c238bec365abe9"
     }
   },
   {
