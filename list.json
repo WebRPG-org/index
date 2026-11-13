@@ -31606,18 +31606,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/JadaMase-Biology/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg",
-        "educational"
-      ],
-      "languages": [
-        "en"
-      ],
-      "nsfw": false,
+      "gameSlug": "the-immune-system",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-12"
+      "nsfw": false,
+      "reviewedAt": "2026-11-12",
+      "reviewedSourceHeadSha": "d4d29c4b88122b8e36d35afc8067aa57f84fbc3f"
     }
   },
   {
@@ -31647,17 +31640,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/Elzorno-rpgmakerLSP/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg"
-      ],
-      "languages": [
-        "en"
-      ],
-      "nsfw": false,
+      "gameSlug": "the-last-sword-protocol",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-12"
+      "nsfw": false,
+      "reviewedAt": "2026-11-12",
+      "reviewedSourceHeadSha": "378713943919c2d26c8c60558ef9df6741549740"
     }
   },
   {
@@ -31685,17 +31672,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/jdrevets-afk-Kenshen/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg"
-      ],
-      "languages": [
-        "en"
-      ],
-      "nsfw": false,
+      "gameSlug": "the-legend-of-kenshen",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-12"
+      "nsfw": false,
+      "reviewedAt": "2026-11-12",
+      "reviewedSourceHeadSha": "6b0db05e3b1749f60e25295c2f01dfa792a1e22b"
     }
   },
   {
@@ -31743,17 +31724,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/BintangFauzan-The-Letter/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg"
-      ],
-      "languages": [
-        "id"
-      ],
-      "nsfw": false,
+      "gameSlug": "the-letter",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-12"
+      "nsfw": false,
+      "reviewedAt": "2026-11-12",
+      "reviewedSourceHeadSha": "0d52bb1829403f538941f317c5bc36f0f308e88c"
     }
   },
   {
@@ -31783,17 +31758,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/cppiod-Eagle-s-Crossing/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg"
-      ],
-      "languages": [
-        "en"
-      ],
-      "nsfw": false,
+      "gameSlug": "the-long-hometown",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-12"
+      "nsfw": false,
+      "reviewedAt": "2026-11-12",
+      "reviewedSourceHeadSha": "1a5f3b3554838836734d82a41cb351a687c2416a"
     }
   },
   {
@@ -31871,17 +31840,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/Polatrite-TheMindsEyeRPG/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg"
-      ],
-      "languages": [
-        "en"
-      ],
-      "nsfw": false,
+      "gameSlug": "the-minds-eye-rpg",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-12"
+      "nsfw": true,
+      "reviewedAt": "2026-11-12",
+      "reviewedSourceHeadSha": "a36723e3c6c55e4d523711a42cb57c41c9c97aa6"
     }
   },
   {
@@ -31911,17 +31874,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/Cloudxtreme-The-Nights-Watch/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg"
-      ],
-      "languages": [
-        "en"
-      ],
-      "nsfw": false,
+      "gameSlug": "the-nights-watch",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-12"
+      "nsfw": false,
+      "reviewedAt": "2026-11-12",
+      "reviewedSourceHeadSha": "32955f8df6b0b698614c2157e118ada36e1000e5"
     }
   },
   {
@@ -31951,17 +31908,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/vivekmedepalli-ThreeDungeonSneakPeak_Ver.2/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg"
-      ],
-      "languages": [
-        "en"
-      ],
-      "nsfw": false,
+      "gameSlug": "the-resuscitation-accord-rise-of-the-syndicate",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-12"
+      "nsfw": false,
+      "reviewedAt": "2026-11-12",
+      "reviewedSourceHeadSha": "15159201b4528c0d0f86d35b5356c67bbaaea318"
     }
   },
   {
@@ -32025,17 +31976,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/EnigmaDragons-TheShutdown/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg"
-      ],
-      "languages": [
-        "en"
-      ],
-      "nsfw": false,
+      "gameSlug": "the-shutdown",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-12"
+      "nsfw": false,
+      "reviewedAt": "2026-11-12",
+      "reviewedSourceHeadSha": "d2adb11b469e62f83b82c50393f8c0e67732f04c"
     }
   },
   {
@@ -32065,16 +32010,8 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/miguelc5172-The-Tower/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg"
-      ],
-      "languages": [
-        "en"
-      ],
+      "playable": false,
       "nsfw": false,
-      "playable": true,
-      "popularity": 2,
-      "rating": 5,
       "reviewedAt": "2026-11-12"
     }
   },

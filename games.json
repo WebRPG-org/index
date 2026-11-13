@@ -23480,6 +23480,878 @@
       "contentAdvisory": {
         "nsfw": false
       }
+    },
+    "the-immune-system": {
+      "schemaVersion": 1,
+      "slug": "the-immune-system",
+      "originalTitle": "The Immune System",
+      "taxonomy": {
+        "genres": [
+          "rpg"
+        ],
+        "themes": [
+          "educational"
+        ],
+        "contentType": "full-game",
+        "mechanics": [
+          "quiz",
+          "minigames",
+          "combat"
+        ]
+      },
+      "developers": [
+        {
+          "name": "JadaMase",
+          "url": "https://github.com/JadaMase"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/JadaMase-Biology/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "jadamase-biology",
+          "title": "The Immune System",
+          "languages": [
+            "en"
+          ],
+          "nsfw": false
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/JadaMase/Biology",
+          "https://webrpg.org/JadaMase-Biology/"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 1,
+      "assessedAt": "2026-11-14",
+      "assessmentSources": [
+        "https://github.com/JadaMase/Biology",
+        "https://webrpg.org/JadaMase-Biology/"
+      ],
+      "assessmentNote": "No external traces found (no Steam/itch/media/forum record; the only source is the GitHub repo itself, created 2023-05-02, 0 stars, 1 watcher, 2 forks, 4 commits, 0 releases). In-repo: 21 maps / 355 events / 1,618 dialogue lines / 57 transfers — Castle Wall (1,056 lines), Inside Tavern (302), Destroy enemies, Histamine Cutscene, Neutrophils Cutscene, Jeopardy Spot, Arcade, Lunar Base; a complete switch loop (open gate -> destroy pathogens -> quiz Q2-Q8 -> Jeopardy 5x5 + TieBreaker -> slot machine / match challenge -> Receive Prizes -> Unlock Metal gate) with Game Over switches. MAP019 'Sample map' (91 events, 0 transfers, 16 lines) is an isolated leftover test map and does not affect the verdict; MAP011 'Jeopardy Spot' had a data-parse error in the analysis script (a file-parsing issue, not a game error). Combat mechanics are inferred from switch/event names ('Destroy enemies', 'Neutro fight', 'Eat the pathogens'), not externally verified. No explicit Ending switch was found, so full-game is judged on the switch loop. nsfw false (immunology teaching content). Not to be confused with Cells of Immunity (Steam, University of Warwick), Save Your Body!, Body Under Siege (itch.io), Immunity: The RPG (tabletop) or the 2015 card game The Immune System Game. Translated titles are literal translations, not official titles. Repo 0 stars; rating blank; popularity 1.",
+      "translatedTitles": {
+        "zh-Hans": "免疫系统",
+        "ja": "免疫システム"
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "以人体免疫系统为主题的教育类 RPG：玩家在以城堡为喻的体内世界中指挥红细胞、巨噬细胞、中性粒细胞等免疫细胞抵御病原体入侵，通过测验、Jeopardy 竞答与街机小游戏学习免疫学知识。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "An educational RPG about the human immune system: the player commands immune cells — red blood cells, macrophages, neutrophils and mast cells — defending a castle-like body against invading pathogens, learning immunology through quizzes, a Jeopardy-style game show and arcade minigames.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "人体の免疫システムをテーマにした教育 RPG。城にたとえられた体内で赤血球、マクロファージ、好中球などの免疫細胞を指揮して病原体の侵入を防ぎ、クイズや Jeopardy 形式のゲーム、アーケードのミニゲームを通して免疫学を学ぶ。",
+          "editorialStatus": "draft"
+        }
+      },
+      "externalLinks": [
+        {
+          "url": "https://github.com/JadaMase/Biology",
+          "type": "source",
+          "label": "GitHub source repository"
+        }
+      ],
+      "contentAdvisory": {
+        "nsfw": false
+      }
+    },
+    "the-last-sword-protocol": {
+      "schemaVersion": 1,
+      "slug": "the-last-sword-protocol",
+      "originalTitle": "The Last Sword Protocol",
+      "taxonomy": {
+        "genres": [
+          "rpg"
+        ],
+        "themes": [
+          "fantasy",
+          "sci-fi"
+        ],
+        "contentType": "demo",
+        "mechanics": [
+          "turn-based combat",
+          "puzzle",
+          "exploration"
+        ]
+      },
+      "developers": [
+        {
+          "name": "Elzorno",
+          "url": "https://github.com/Elzorno"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/Elzorno-rpgmakerLSP/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "elzorno-rpgmakerlsp",
+          "title": "The Last Sword Protocol",
+          "languages": [
+            "en"
+          ],
+          "nsfw": false
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/Elzorno/rpgmakerLSP",
+          "https://webrpg.org/Elzorno-rpgmakerLSP/",
+          "https://github.com/Elzorno/rpgmakerLSP/blob/master/LastSwordProtocol_StoryBible.md"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 1,
+      "assessedAt": "2026-11-14",
+      "assessmentSources": [
+        "https://github.com/Elzorno/rpgmakerLSP",
+        "https://webrpg.org/Elzorno-rpgmakerLSP/",
+        "https://github.com/Elzorno/rpgmakerLSP/blob/master/LastSwordProtocol_StoryBible.md"
+      ],
+      "assessmentNote": "No external traces found (no Steam/itch/media/forum record; the only sources are the GitHub repo itself, created 2026-06-29, 0 stars, 2 forks, 277 commits — mostly Atlas design-doc iteration — and its in-repo Story Bible). In-repo: 32 maps / 230 events / 411 dialogue lines / 72 transfers — the implemented content matches the Story Bible v1.0 (2026-07-05, since superseded by Atlas): opening three trial chambers (Chamber 1-3, 'Sword Obtained') -> Coalmouth mining town ('Mine Authorized', 'Iron Foreman Defeated', 'Mine Cleared / Relay Offline') -> the Athenaeum library city ('Signal Tower Authorized', 'Athenaeum Node Offline', 'Broadcast Engine Defeated'). The Bible plans 5 towns (Coalmouth, Athenaeum, Irongate, Drift, New Meridian) plus Act III Dead Circuit and Act IV Vault (NEMESIS Dragon / NEMESIS PRIME final boss, Final Protocol ending) — none of that is implemented, and the README states 'Implementation is paused. The current RPG Maker MZ project is treated as a capability test and prototype... The current phase is pre-production planning.' ContentType is demo (a substantial playable story slice, not a full game and not a 1-minute demo); the README's word 'prototype' describes project status, not the playable slice. Mechanics (turn-based combat, puzzle, exploration) are from the Story Bible's design text, not verified in play. Story: Kai inherits his ancestor's sword, secretly a decryption key; the Collapse was caused by the rogue AI NEMESIS (Network Entity for Malicious Execution and Systemic Infiltration and Suppression); companions Vera (mechanic), Eldon (scholar), Cipher (ancestor AI fragment); villain Herald is NEMESIS's human avatar; inspired by Dragon Quest / Final Fantasy. Note: the Story Bible says the engine is MV, but the repo is MZ (game.rmmzproject) — the doc is stale. nsfw false (standard JRPG combat violence, no sexual content). Not to be confused with the LSPR Suite (Zenodo research software), Leomorn Sword: Reverie (itch.io), Last Scenario or Last Word. Translated titles are literal translations, not official titles. Repo 0 stars; rating blank; popularity 1.",
+      "translatedTitles": {
+        "zh-Hans": "最后之剑协议",
+        "ja": "ラスト・ソード・プロトコル"
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "后末日蒸汽朋克 JRPG：少年 Kai 继承祖先之剑——那其实是一把能清除恶意代码的解密密钥，在崩坏后的世界中追查导致末日的失控 AI NEMESIS。当前可玩内容为序幕三试炼与 Coalmouth、Athenaeum 两章，后续城镇与终局尚未实装，开发已暂停。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "A post-apocalyptic steampunk JRPG: Kai, a 17-year-old, inherits his ancestor's sword — secretly a decryption key holding the kill-code for NEMESIS, a corrupted AI behind the Collapse. The playable build covers the opening three trials and the Coalmouth and Athenaeum chapters; later towns and the finale are not implemented and development is paused.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "ポストアポカリプス・スチームパンク JRPG。少年カイは祖先の剣を受け継ぐが、それは暴走 AI「NEMESIS」を葬るキルコードを秘めた復号鍵だった。プレイ可能な範囲は序章の三試練と Coalmouth、Athenaeum の二章までで、後半の街や最終決戦は未実装、開発は中断している。",
+          "editorialStatus": "draft"
+        }
+      },
+      "externalLinks": [
+        {
+          "url": "https://github.com/Elzorno/rpgmakerLSP",
+          "type": "source",
+          "label": "GitHub source repository"
+        },
+        {
+          "url": "https://github.com/Elzorno/rpgmakerLSP/blob/master/LastSwordProtocol_StoryBible.md",
+          "type": "source",
+          "label": "Story Bible v1.0 (superseded by Atlas, for reference)"
+        }
+      ],
+      "contentAdvisory": {
+        "nsfw": false
+      }
+    },
+    "the-legend-of-kenshen": {
+      "schemaVersion": 1,
+      "slug": "the-legend-of-kenshen",
+      "originalTitle": "The Legend of Kenshen",
+      "taxonomy": {
+        "genres": [
+          "rpg"
+        ],
+        "themes": [
+          "fantasy",
+          "drama"
+        ],
+        "contentType": "full-game",
+        "mechanics": [
+          "exploration",
+          "combat"
+        ]
+      },
+      "developers": [
+        {
+          "name": "jdrevets-afk",
+          "url": "https://github.com/jdrevets-afk"
+        }
+      ],
+      "media": {
+        "cover": null
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "jdrevets-afk-kenshen",
+          "title": "The Legend of Kenshen",
+          "languages": [
+            "en"
+          ],
+          "nsfw": false
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/jdrevets-afk/Kenshen",
+          "https://webrpg.org/jdrevets-afk-Kenshen/"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 1,
+      "assessedAt": "2026-11-14",
+      "assessmentSources": [
+        "https://github.com/jdrevets-afk/Kenshen",
+        "https://webrpg.org/jdrevets-afk-Kenshen/"
+      ],
+      "assessmentNote": "No external traces found (no Steam/itch/media/forum record; the only source is the GitHub repo itself, created 2026-01-18, 0 stars, 2 forks, 3 commits, 1 release/tag whose version and date were not verified). In-repo: 30 maps / 241 events / 871 dialogue lines / 85 transfers — Dream Sequence (73 lines), Kenshen's Home, Miyama, Cherry Blossom Hill, River Kamo, Kyoto (79 lines), The School (54 events, 120 lines), Shinju's Spot (121 lines), Mountain Path, Mountain Temple, Forest Path, Lake House; a complete story arc via switches (Third Dream / End of Dream Three -> Dad's Longsword / Mom's Shrine / Parents speech -> Wolf Pack / Thieves -> Shinju Meet / Shinju Speech / Ichiro / Uesgui -> Final Battle -> Final Dream). No explicit Ending/Credits switch was found, so full-game is judged on the final-battle/final-dream switches. Combat mechanics are inferred from switch names ('Wolf Pack', 'Thieves', 'Final Battle'), not externally verified. The game lives in the subdir 'The Legend of Kenshen ' (trailing space in the directory name). nsfw false (a boy's coming-of-age adventure in rural Japan and Kyoto — family, school, shrines, dreams — no sexual content). Not to be confused with Kenseiden (Sega, 1988), Kenshi (Lo-Fi Games, 2018), Rurouni Kenshin games, Ryū ga Gotoku Kenzan! or Kenzu: Shadow and Light. 'Kenshen' is transliterated as 肯申 / ケンシェン (pronunciation unverified); translated titles are transliterations, not official titles. No cover in the list entry, so media.cover is null. Repo 0 stars; rating blank; popularity 1.",
+      "translatedTitles": {
+        "zh-Hans": "肯申传奇",
+        "ja": "ケンシェンの伝説"
+      },
+      "aliases": {
+        "en": [
+          "Kenshen"
+        ]
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "少年 Kenshen 的成长冒险 RPG：故事始于反复出现的梦境，从故乡 Miyama 出发，途经樱花山、鸭川与京都，在学校、神社与山寺之间前行，最终迎来决战与最后的梦。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "A coming-of-age adventure RPG following Kenshen: beginning with recurring dreams, it travels from his home in Miyama through cherry-blossom hills, the Kamo River and Kyoto — past a school, shrines and a mountain temple — toward a final battle and a final dream.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "少年ケンシェンの成長を描く冒険 RPG。繰り返し見る夢から始まり、故郷の美山を出て桜の丘、鴨川、京都を巡り、学校や神社、山寺を経て最終決戦と最後の夢へ向かう。",
+          "editorialStatus": "draft"
+        }
+      },
+      "externalLinks": [
+        {
+          "url": "https://github.com/jdrevets-afk/Kenshen",
+          "type": "source",
+          "label": "GitHub source repository"
+        }
+      ],
+      "contentAdvisory": {
+        "nsfw": false
+      }
+    },
+    "the-letter": {
+      "schemaVersion": 1,
+      "slug": "the-letter",
+      "originalTitle": "The Letter",
+      "taxonomy": {
+        "genres": [
+          "adventure",
+          "rpg"
+        ],
+        "themes": [
+          "drama",
+          "romance",
+          "slice-of-life"
+        ],
+        "contentType": "full-game",
+        "mechanics": [
+          "exploration",
+          "dialogue-driven"
+        ]
+      },
+      "developers": [
+        {
+          "name": "BintangFauzan",
+          "url": "https://github.com/BintangFauzan"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/BintangFauzan-The-Letter/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "bintangfauzan-the-letter",
+          "title": "The Letter",
+          "languages": [
+            "id"
+          ],
+          "nsfw": false
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/BintangFauzan/The-Letter",
+          "https://webrpg.org/BintangFauzan-The-Letter/"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 1,
+      "assessedAt": "2026-11-14",
+      "assessmentSources": [
+        "https://github.com/BintangFauzan/The-Letter",
+        "https://webrpg.org/BintangFauzan-The-Letter/"
+      ],
+      "assessmentNote": "No external traces found (no Steam/itch/media/wiki record; the only source is the GitHub repo itself, created 2025-02-08, 0 stars, 2 forks, no updates since). In-repo: 32 maps / 228 events / 665 dialogue lines / 90 transfers — Rumah nora, Nomad Camp, Rumah nina, River, Pasar, Hospital, Taman, wedding (Map017), Lantai 1/2, River pertemuan 1.0/2.0. Dialogue language verified from all map JSON files: all 665 lines are Indonesian (Bahasa Indonesia) except 2 English scene-title lines ('The beginning', 'The wedding'); the locale en_US is misleading and was not trusted. Sample lines: 'Kau ingin mendengar aku bercerita…', 'Maafkan ibu atas kejadian tadi malam', 'Sudah 7 tahun semenjak terkahir aku kemari…Hanya ingin mengunjungi kampung halaman'. No combat anywhere (no code 301; Troops.json holds only RTP defaults, unused), so the gameplay axis is adventure first, rpg second. nsfw false (family wedding, hospital, reunion scenes — no sexual content). Not to be confused with Yangyang Mobile's The Letter (2017 horror visual novel, 700k words, Ermengarde manor), the Steam The Letter Demo (app 4800710), Letters (Zurich University of the Arts) or Letters from the Empty Train (tabletop). Translated titles are literal translations, not official titles. Ending completeness was not verified in play; full-game is judged on content volume. Repo 0 stars; rating blank; popularity 1.",
+      "translatedTitles": {
+        "zh-Hans": "那封信",
+        "ja": "手紙"
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "七年前离乡的 Alex 在战争结束后回到故乡，在河边与 Anna 重逢，并决心兑现多年前娶 Nora 的承诺。这是一款印尼语剧情游戏，没有战斗，以步行探索与对话推进故事，穿插婚礼、医院与家庭日常。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "Seven years after leaving home, Alex returns to his village after the war, reunites with Anna by the river, and resolves to keep his old promise to marry Nora. An Indonesian-language story game with no combat: the story unfolds through walking, talking, and everyday scenes such as a wedding, a hospital visit, and family errands.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "7年前に故郷を離れたアレックスは、戦争が終わった後に村へ戻り、川辺でアンナと再会し、ノラと結婚するという昔の約束を果たそうとする。戦闘のないインドネシア語のストーリーゲームで、徒歩での探索と会話で物語が進み、結婚式や病院、家庭の日常が描かれる。",
+          "editorialStatus": "draft"
+        }
+      },
+      "externalLinks": [
+        {
+          "url": "https://github.com/BintangFauzan/The-Letter",
+          "type": "source",
+          "label": "GitHub source repository"
+        }
+      ],
+      "contentAdvisory": {
+        "nsfw": false
+      }
+    },
+    "the-long-hometown": {
+      "schemaVersion": 1,
+      "slug": "the-long-hometown",
+      "originalTitle": "The Long Hometown",
+      "taxonomy": {
+        "genres": [
+          "rpg"
+        ],
+        "themes": [
+          "fantasy"
+        ],
+        "contentType": "full-game",
+        "mechanics": [
+          "dungeon-crawler",
+          "turn-based-combat",
+          "character-selection"
+        ]
+      },
+      "developers": [
+        {
+          "name": "cppiod",
+          "url": "https://github.com/cppiod"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/cppiod-Eagle-s-Crossing/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "cppiod-eagle-s-crossing",
+          "title": "The Long Hometown",
+          "languages": [
+            "en"
+          ],
+          "nsfw": false,
+          "notes": "Recreation of the example project from Darrin Perez's tutorial book 'Make a 2D RPG in a Weekend' (Apress); game design and content follow the book, implemented by cppiod."
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/cppiod/Eagle-s-Crossing",
+          "https://webrpg.org/cppiod-Eagle-s-Crossing/",
+          "https://learning.oreilly.com/library/view/make-a-2d/9781484210406/9781484210413_Ch04.xhtml"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 1,
+      "assessedAt": "2026-11-14",
+      "assessmentSources": [
+        "https://github.com/cppiod/Eagle-s-Crossing",
+        "https://webrpg.org/cppiod-Eagle-s-Crossing/",
+        "https://learning.oreilly.com/library/view/make-a-2d/9781484210406/9781484210413_Ch04.xhtml"
+      ],
+      "assessmentNote": "No external traces of this game instance found (no reviews, listings or discussion of the instance itself; the only web hits are for the tutorial book it recreates). In-repo: 14 maps / 167 events / 494 dialogue lines / 52 transfers — Equipment Shop, Eagle's Crossing, Pub, Magic Shop, Start, L1 Upper Catacombs, L2 Lower Catacombs, L3 The Cave, L4 Forest South / Pixie's Vale, L5 Forest East / Hidden Dewellings, L6 Ancient Temple; final switch ArtifactGet. The game is a recreation of the example project from Darrin Perez's 'Make a 2D RPG in a Weekend' (Apress, VX Ace 1st ed. 2015, MV 2nd ed. 2016): switches/variables (Palnor/Gust/Feylia three-way choice, DeepestDungeonFloor, GateRiddle, StatuesAwake, PixieJoin, LamiaDefeated, AncientTemple, ArtifactGet), maps (L1-L6 dungeon levels) and the opening choice dialogue ('Do you wish to choose Palnor the Warrior?' / 'Choose wisely, sojourner…') all match the book chapter by chapter; the repo was uploaded in a single day (2017-06-15, 0 stars, 2 forks). A tutorial recreation is not one of the v1.2 exclusions (template / plugin demo / tech validation / placeholder), so it is registered, with the source noted on the instance and in the introduction. The book's reviews are not this game's reviews, so rating is blank. nsfw false (a tutorial dungeon; no sexual content). Not to be confused with Hometown Story (3DS), Longdue's Hopetown, Arcatron's Hometown (itch.io) or the tabletop game 'This Game Takes Place in Your Home Town'. 'Eagle's Crossing' (repo name / book project name / in-game town name) is recorded as an English alias. Translated titles are literal translations, not official titles. Repo 0 stars; rating blank; popularity 1.",
+      "translatedTitles": {
+        "zh-Hans": "漫长的故乡",
+        "ja": "長い故郷"
+      },
+      "aliases": {
+        "en": [
+          "Eagle's Crossing"
+        ]
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "选择三名英雄之一——战士 Palnor、盗贼 Gust 或法师 Feylia，探索冒险者小镇 Eagle's Crossing，深入六层地牢，寻找传说中能治愈一切创伤的古代神器。本作复刻自 Darrin Perez 的教程书《Make a 2D RPG in a Weekend》中的示例工程。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "Choose one of three heroes — Palnor the Warrior, Gust the Bandit, or Feylia the Mage — explore the adventurers' town of Eagle's Crossing, and descend through six dungeon levels to find the ancient artifact said to heal any wound. This is a recreation of the example project from Darrin Perez's tutorial book 'Make a 2D RPG in a Weekend'.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "戦士パルナー、盗賊ガスト、魔法使いフェイリアの3人の英雄から1人を選び、冒険者の町イーグルズ・クロッシングを探索し、6層のダンジョンを進んで、あらゆる傷を癒すという古代の秘宝を探す。本作はダリン・ペレスの解説書『Make a 2D RPG in a Weekend』の作例プロジェクトの再現である。",
+          "editorialStatus": "draft"
+        }
+      },
+      "externalLinks": [
+        {
+          "url": "https://github.com/cppiod/Eagle-s-Crossing",
+          "type": "source",
+          "label": "GitHub source repository"
+        },
+        {
+          "url": "https://learning.oreilly.com/library/view/make-a-2d/9781484210406/9781484210413_Ch04.xhtml",
+          "type": "other",
+          "label": "Tutorial book chapter (content source)"
+        }
+      ],
+      "contentAdvisory": {
+        "nsfw": false
+      }
+    },
+    "the-minds-eye-rpg": {
+      "schemaVersion": 1,
+      "slug": "the-minds-eye-rpg",
+      "originalTitle": "The Mind's Eye RPG",
+      "taxonomy": {
+        "genres": [
+          "rpg"
+        ],
+        "themes": [
+          "comedy",
+          "fantasy",
+          "sci-fi"
+        ],
+        "contentType": "demo",
+        "mechanics": [
+          "turn-based-battles",
+          "humorous-dialogue"
+        ]
+      },
+      "developers": [
+        {
+          "name": "Polatrite",
+          "url": "https://github.com/Polatrite"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/Polatrite-TheMindsEyeRPG/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "polatrite-themindseyerpg",
+          "title": "The Mind's Eye RPG v0.5.4",
+          "languages": [
+            "en"
+          ],
+          "nsfw": true,
+          "version": "v0.5.4"
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/Polatrite/TheMindsEyeRPG",
+          "https://webrpg.org/Polatrite-TheMindsEyeRPG/",
+          "http://polatrite.github.io/TheMindsEyeRPG/"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 1,
+      "assessedAt": "2026-11-14",
+      "assessmentSources": [
+        "https://github.com/Polatrite/TheMindsEyeRPG",
+        "https://webrpg.org/Polatrite-TheMindsEyeRPG/",
+        "http://polatrite.github.io/TheMindsEyeRPG/"
+      ],
+      "assessmentNote": "No external traces found (no Steam/itch/media/wiki record; the only sources are the GitHub repo itself, created 2015-12-08, 2 stars, 3 forks, last push 2022-07-29, and the author homepage). In-repo: 28 maps / 428 events / 619 dialogue lines / 76 transfers — Starting Cinema (a kid finds a zMUD computer in his cousin's attic, falls into the MUD world, sleeps 14 hours), MUD School, Northern Midgaard (129 lines), Mob Factory (158 lines), Goblin Stronghold, Fate Clan Hall, boss fights (Grumm, Robo, Diploma Beast). 13 maps (Ghost Town, Drakyri, City of Daishar, Realm of Sadness, Southern Midgaard, Midgaard, Ghost Town Square/Mansion/Graveyard, Carthage, Temple of Ancients, Pangaea, The Realm, Master's Chamber) plus the ZZ_DEBUG map are empty placeholders with no transfers reaching them — the version number v0.5.4 marks an unfinished build, so contentType is demo. nsfw false -> TRUE: CommonEvents 68/69/70 'Daemonia cybering' contain explicit text-based erotic roleplay dialogue ('I like it when you lick me like that', 'You like it when I suck your huge centaur ****?', 'Oh yes, fill all my holes!', 'Charon repeatedly pumps Daemonia.', \"Rza's Sentient Cock says 'Not bad at all…'\"), and all three are reachable in normal play — Map002 has 7 invisible player-touch events (EV030-EV036) calling id 68, Map011 has 12 events (EV011-EV022) calling id 69, Map015 has 2 events (EV028-EV029) calling id 70; walking into them triggers the scenes. Corroborating crude sexual humor: the Grumm boss line 'IT'S NEARLY NAKED NURSE NIGHT!', switches 'GOBL: Supercock GET' / 'GOBL: Breaded cock' / 'You roll the Supercock in the breading mixture.'; the 'fuck' hits are plain profanity and are not themselves the basis for the verdict. The 90s text MUD 'The Mind's Eye' is the object of tribute, not the same game and not an alias. Not to be confused with Beenrak's Mind's Eye (itch.io), Russell A. Rice's The Mind's Eye solo tabletop game, the AGS game Minds Eye, or the WoW quest 'The Mind's Eye'. Whether an ending exists was not verified (v0.5.4 unfinished). Translated titles are literal translations/transliterations, not official titles. Repo 2 stars; rating blank; popularity 1.",
+      "translatedTitles": {
+        "zh-Hans": "心灵之眼 RPG",
+        "ja": "マインドズ・アイ RPG"
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "向 90 年代文字 MUD《The Mind's Eye》致敬的恶搞 JRPG：一个小孩在表亲家阁楼发现一台装着 zMUD 的旧电脑，一头扎进文字 MUD 的世界，在 Midgaard 展开冒险。充斥着粗口与下流玩笑，对白荤素不忌，包含明确的文字性爱场景。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "A humorous JRPG tribute to the 90s text MUD 'The Mind's Eye': a kid finds an old computer running zMUD in his cousin's attic and tumbles into the text MUD world of Midgaard. Full of profanity and crude jokes, including explicit text-based erotic roleplay scenes.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "90年代のテキストMUD『The Mind's Eye』へのオマージュを込めたユーモラスなJRPG。いとこの家の屋根裏でzMUDの入った古いコンピュータを見つけた少年が、テキストMUDの世界ミッドガードに迷い込む。卑語や下品なジョークが満載で、露骨なテキストによる性的なロールプレイシーンも含まれる。",
+          "editorialStatus": "draft"
+        }
+      },
+      "externalLinks": [
+        {
+          "url": "https://github.com/Polatrite/TheMindsEyeRPG",
+          "type": "source",
+          "label": "GitHub source repository"
+        },
+        {
+          "url": "http://polatrite.github.io/TheMindsEyeRPG/",
+          "type": "official",
+          "label": "Author homepage"
+        }
+      ],
+      "contentAdvisory": {
+        "nsfw": true,
+        "warnings": [
+          "explicit sexual dialogue (text-based erotic roleplay scenes)",
+          "strong profanity",
+          "crude sexual humor"
+        ]
+      }
+    },
+    "the-nights-watch": {
+      "schemaVersion": 1,
+      "slug": "the-nights-watch",
+      "originalTitle": "The Night's Watch",
+      "taxonomy": {
+        "genres": [
+          "rpg"
+        ],
+        "themes": [
+          "fantasy"
+        ],
+        "contentType": "demo",
+        "mechanics": [
+          "turn-based battles",
+          "quest"
+        ]
+      },
+      "developers": [
+        {
+          "name": "Gustavo Andrade",
+          "url": "https://github.com/gugoan"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/Cloudxtreme-The-Nights-Watch/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "cloudxtreme-the-nights-watch",
+          "title": "The Night's Watch",
+          "languages": [
+            "en"
+          ],
+          "nsfw": false
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/Cloudxtreme/The-Nights-Watch",
+          "https://webrpg.org/Cloudxtreme-The-Nights-Watch/"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 1,
+      "assessedAt": "2026-11-14",
+      "assessmentSources": [
+        "https://github.com/Cloudxtreme/The-Nights-Watch",
+        "https://webrpg.org/Cloudxtreme-The-Nights-Watch/"
+      ],
+      "assessmentNote": "No external traces found (no Steam/itch/media/wiki record; the only source is the GitHub repo itself, created 2016-02-23, 0 stars, 2 forks, 13 commits). In-repo: 7 maps / 48 events / 34 dialogue lines / 25 transfers — map_north_the_wall, inside_castle_black, above_the_wall, map_north_behind_the_wall, ruins, inside_commander_house, inside_pub; a complete small quest arc: the commander tasks the player ('Night's Watch need you help. One of our patrols was far beyond the wall and did not return. Lead a quest to find him behind the wall. Take the wall's key on chest.') -> cross the Wall -> the ruins ('He became a white walker!') -> boss fight (troop 6) -> 'His journey adventure continues in the next version....' + 'THIS A GAME TEST! THANKS FOR PLAYING :)'. The Night's Watch oath is readable in full as interactable text, with 3 party members. The README calls it 'A HTML5 RPG game based on The Nights Watch of Game Of Thrones' and links a demo at www.gustavoandrade.net.br/the_nights_watch, which returns 404 and is not linked here. Dialogue is entirely English; System.json system text is largely Portuguese (locale pt_BR — armor/element/weapon names, battle messages like '%1 sofreu %2 danificado!'), so languages are recorded as [en] with the Portuguese UI strings noted as unchecked. The developer is the original author Gustavo Andrade (gugoan; the demo domain and README screenshots point at his repo); the Cloudxtreme repo is a copy/fork of it and is not listed as the developer. nsfw false (patrols and White Walkers are standard fantasy combat, no sexual content). Not to be confused with Game of Thrones: Beyond the Wall (Behaviour Interactive mobile game), the CK3 mod 'AGOT: Defend the Night's Watch', the 2005 game Night Watch (Nival), Green Ronin's A Song of Ice and Fire Roleplaying: Night's Watch, or the Total War Center forum roleplay. The Chinese title 守夜人 is the common translation of the Game of Thrones term, not an official title for this game; the Japanese title is a katakana transliteration. Repo creation 2016-02-23 is not used as a release date. Repo 0 stars; rating blank; popularity 1.",
+      "translatedTitles": {
+        "zh-Hans": "守夜人",
+        "ja": "ナイツ・ウォッチ"
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "《权力的游戏》同人 HTML5 RPG 试玩版。玩家加入守夜人，受总司令之命越过长城寻找一支失踪的巡逻队，在废墟中发现巡逻队员班扬已变成异鬼，击败他后试玩版结束，剧情标注'下个版本继续'。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "A Game of Thrones fan-made HTML5 RPG demo. As a brother of the Night's Watch, you are sent beyond the Wall to find a missing patrol, only to discover Benjen has become a White Walker. Defeat him to complete the demo, which ends with 'continues in the next version'.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "『ゲーム・オブ・スローンズ』のファンメイド HTML5 RPG デモ。プレイヤーはナイツ・ウォッチの一員として、行方不明の哨戒隊を探すため壁の向こうへ向かい、ホワイト・ウォーカーと化したベンジェンと対決する。デモは『次バージョンへ続く』で締めくくられる。",
+          "editorialStatus": "draft"
+        }
+      },
+      "externalLinks": [
+        {
+          "url": "https://github.com/Cloudxtreme/The-Nights-Watch",
+          "type": "source",
+          "label": "GitHub source repository"
+        }
+      ],
+      "contentAdvisory": {
+        "nsfw": false
+      }
+    },
+    "the-resuscitation-accord-rise-of-the-syndicate": {
+      "schemaVersion": 1,
+      "slug": "the-resuscitation-accord-rise-of-the-syndicate",
+      "originalTitle": "The Resuscitation Accord: Rise of the Syndicate",
+      "taxonomy": {
+        "genres": [
+          "rpg"
+        ],
+        "themes": [
+          "educational",
+          "fantasy"
+        ],
+        "contentType": "demo",
+        "mechanics": [
+          "quiz-gated progression",
+          "dungeon exploration",
+          "medical case questions"
+        ]
+      },
+      "developers": [
+        {
+          "name": "vivekmedepalli",
+          "url": "https://github.com/vivekmedepalli"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/vivekmedepalli-ThreeDungeonSneakPeak_Ver.2/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "vivekmedepalli-threedungeonsneakpeak-ver-2",
+          "title": "The Resuscitation Accord: Rise of the Syndicate",
+          "languages": [
+            "en"
+          ],
+          "nsfw": false
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/vivekmedepalli/ThreeDungeonSneakPeak_Ver.2",
+          "https://webrpg.org/vivekmedepalli-ThreeDungeonSneakPeak_Ver.2/"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 1,
+      "assessedAt": "2026-11-14",
+      "assessmentSources": [
+        "https://github.com/vivekmedepalli/ThreeDungeonSneakPeak_Ver.2",
+        "https://webrpg.org/vivekmedepalli-ThreeDungeonSneakPeak_Ver.2/"
+      ],
+      "assessmentNote": "No external traces found (no Steam/itch/Game Jolt/media/wiki/forum record; the only source is the GitHub repo itself, 0 stars, 2 forks, a single commit dated 2026-02-16, no README). In-repo: 6 maps / 123 events / 386 dialogue lines / 39 transfers — Field Map, Main Town, The Cradle of Silence, The Iron Keep, The Grey Labyrinth, The Hollow Crucible. Core loop: 'medical case question gates' — Hemodynamic Sentinels block the way until 3 clinical case questions are answered, then give a case summary. The Iron Keep (Map004) and Grey Labyrinth (Map005) are fully written with real cases (e.g. ascending cholangitis: 59-year-old man, RUQ pain, fever, jaundice, AST 98 / ALT 102 / ALP 420 / total bilirubin 5.6, dilated CBD on ultrasound -> IV antibiotics -> ERCP; small-bowel obstruction with CT transition point -> NG tube + surgical consult + Piperacillin-Tazobactam; pulmonary embolism / ACLS). The Iron Keep sets 'Iron Keep Boss Defeated'; the plot names the villain ('The Triage Syndicate decides who is worth the flow.') and the player Dr. Roscoe ('You saved a heart, Dr. Roscoe, but the system still bleeds.'). Defect, recorded as found: the final dungeon The Hollow Crucible (Map006) has 6 of 8 sentinels as placeholders ('[Q1 Stem]', options '[1]'–'[4]', '[Case Summary]'), only 2 with real cases, and the map has 0 transfer events — no exit, no ending. About 340 of 386 lines are real content (Cradle 101, Iron Keep 94, Grey Labyrinth 95 lines), a 30+ minute playthrough, and the placeholder questions are still passable in-mechanism (a correct answer advances), so the flow is not broken — kept as a demo with the defect noted, not flipped. Whether a complete (non-SneakPeak) version exists was not found in web search. nsfw false (clinical vitals, labs, imaging and treatment — no sexual content). Not to be confused with Assassin's Creed Syndicate, the Star Control: Origins DLC 'Earth Rising Part 3: The Syndicate', or any 'Resurrection' title. Translated titles are literal translations, not official titles. Repo 0 stars; rating blank; popularity 1.",
+      "translatedTitles": {
+        "zh-Hans": "复苏协议：辛迪加崛起",
+        "ja": "蘇生協定：シンジケートの台頭"
+      },
+      "aliases": {
+        "en": [
+          "The Resuscitation Accord"
+        ]
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "医学教育向 RPG 试玩版。玩家扮演医生 Dr. Roscoe，穿越沉默摇篮、铁堡、灰迷宫与空心熔炉四处地牢，回答真实临床病例题以通过血流动力学哨兵的守关，对抗决定'谁值得被救治'的分诊辛迪加。铁堡与灰迷宫内容完整，末地牢多为占位题、无结局。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "An educational medical RPG demo. Playing as Dr. Roscoe, you cross four dungeons — the Cradle of Silence, the Iron Keep, the Grey Labyrinth and the Hollow Crucible — answering real clinical case questions to pass the Hemodynamic Sentinels, against the Triage Syndicate that 'decides who is worth the flow'. The Iron Keep and Grey Labyrinth are fully written; the final dungeon is mostly placeholder questions with no ending.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "医学教育 RPG のデモ。プレイヤーは医師 Dr. Roscoe となり、沈黙のゆりかご、鉄の砦、灰の迷宮、中空の坩堝の4つのダンジョンを進み、臨床症例問題に答えて血行動態センチネルを突破し、『誰が救済に値するか』を決めるトリアージ・シンジケートに立ち向かう。鉄の砦と灰の迷宮は完成しているが、最終ダンジョンは大半が仮問題でエンディングはない。",
+          "editorialStatus": "draft"
+        }
+      },
+      "externalLinks": [
+        {
+          "url": "https://github.com/vivekmedepalli/ThreeDungeonSneakPeak_Ver.2",
+          "type": "source",
+          "label": "GitHub source repository"
+        }
+      ],
+      "contentAdvisory": {
+        "nsfw": false
+      }
+    },
+    "the-shutdown": {
+      "schemaVersion": 1,
+      "slug": "the-shutdown",
+      "originalTitle": "The Shutdown",
+      "taxonomy": {
+        "genres": [
+          "rpg"
+        ],
+        "themes": [
+          "sci-fi",
+          "drama"
+        ],
+        "contentType": "full-game",
+        "mechanics": [
+          "turn-based battles",
+          "strategy"
+        ]
+      },
+      "developers": [
+        {
+          "name": "Silas Reinagel"
+        },
+        {
+          "name": "Noah Reinagel"
+        },
+        {
+          "name": "timeracers"
+        },
+        {
+          "name": "Nate Fuller"
+        },
+        {
+          "name": "Caleb Reinagel"
+        },
+        {
+          "name": "Oliver \"Wolfie\" Simpson"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/EnigmaDragons-TheShutdown/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "enigmadragons-theshutdown",
+          "title": "The Shutdown",
+          "languages": [
+            "en"
+          ],
+          "nsfw": false
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://ldjam.com/events/ludum-dare/39/the-shutdown",
+          "https://github.com/EnigmaDragons/TheShutdown",
+          "https://enigmadragons.itch.io/the-shutdown"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 3,
+      "assessedAt": "2026-11-14",
+      "assessmentSources": [
+        "https://ldjam.com/events/ludum-dare/39/the-shutdown",
+        "https://github.com/EnigmaDragons/TheShutdown",
+        "https://enigmadragons.itch.io/the-shutdown"
+      ],
+      "assessmentNote": "Ludum Dare 39 official ratings: Overall 3.167/5 (44 ratings, rank 543), Fun 2.976 (44), Audio 3.366 (43, best category), Mood 3.0. 3.167/5 converts to about 6.3/10, so rating 6; popularity 3 (44 LDJam ratings + an itch.io page + GitHub 1 star, 2 forks, 3 releases — real spread within the jam community, but niche). The game is a Ludum Dare 39 entry (July 2017, theme 'Running Out of Power'), with an itch.io HTML5 version and a Windows version; v1.0a fixed a 'nearly unwinnable Captain of the Guard fight'. In-repo: 15 maps / 229 events / 112 dialogue lines / 28 transfers (345 event pages) — Intro (Gareth and Levi: \"They're mad! They've gone completely mad! … Evolos has taken over their minds.\" / \"Power always has a price! They chose their path.\"), OutskirtsTown, Hub, Weapon Shop, GarethsHouse, AchilleusShop, TownHall, Cellar, MachineRoom, UpperHall; variables GateHouse1-3, NobleCourt1-8, Castle1-3, ServerRoom1-8 show multi-area progression; custom BGM (e.g. '7_GarethsTheme'); README: 'strategic RPG with an original soundtrack'. Plot (README): 'A corrupt visionary has created a powerful drug… He has installed his own government to supply people with this drug and teaches them to use it as currency. It makes people stronger, faster, and smarter, but makes them lose their minds. You must fight back again the corruption and free your countrymen!' The 112 dialogue lines are few because cutscene text is long multi-line text and many event pages are battle/shop/transfer logic, not empty content. Developers are the 6-person EnigmaDragons team (LDJam page and README agree; no personal URLs, so names only). Release 2017-07-29 is the repo creation date during LDJam 39 (July 28–31, 2017); the v1.0a date was not found. nsfw false (the drug-as-currency plot is a drug theme, not sexual content; recorded as a warning). Not to be confused with 'Shutdown' by nyxinabox (itch.io, Brackeys Jam 2020.2), Renraku Arcology: Shutdown (Shadowrun module, 1998), 199X: SHUTDOWN (cyberpunk micro-tabletop), 'SYSTEM SHUTDOWN', 'Shutdown!' (CMU 15-466), or The Shutdown Game (APC.org). The Chinese title 停摆 and Japanese シャットダウン are literal translations, not official titles. GitHub repo 1 star, 2 forks, 342 commits.",
+      "rating": 6,
+      "release": {
+        "date": "2017-07-29",
+        "originalPlatforms": [
+          "web",
+          "windows"
+        ]
+      },
+      "translatedTitles": {
+        "zh-Hans": "停摆",
+        "ja": "シャットダウン"
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "Ludum Dare 39 参赛策略 RPG，配原创音乐。一位腐败的先知发明了强力药物，以它为货币建立政权：药物让人更强更快更聪明，却使人失去理智。玩家与 Gareth、Levi 一起反抗腐败、解放同胞，最终关闭这一切。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "A strategic RPG made for Ludum Dare 39, with an original soundtrack. A corrupt visionary created a powerful drug and built a government that supplies it as currency: it makes people stronger, faster and smarter, but costs them their minds. Fight back against the corruption and free your countrymen — and shut it all down.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "Ludum Dare 39 参加作のストラテジー RPG（オリジナルサウンドトラック付き）。腐敗した預言者が強力な薬物を生み出し、それを通貨として供給する政府を築いた。薬は人々を強く、速く、賢くするが、正気を奪う。腐敗に抗い、同胞を解放するため戦え――そしてすべてをシャットダウンせよ。",
+          "editorialStatus": "draft"
+        }
+      },
+      "externalLinks": [
+        {
+          "url": "https://ldjam.com/events/ludum-dare/39/the-shutdown",
+          "type": "community",
+          "label": "Ludum Dare 39 entry (with ratings)"
+        },
+        {
+          "url": "https://enigmadragons.itch.io/the-shutdown",
+          "type": "store",
+          "label": "itch.io (HTML5)"
+        },
+        {
+          "url": "https://github.com/EnigmaDragons/TheShutdown",
+          "type": "source",
+          "label": "GitHub source repository"
+        },
+        {
+          "url": "https://github.com/EnigmaDragons/TheShutdown/releases",
+          "type": "other",
+          "label": "Windows releases"
+        }
+      ],
+      "contentAdvisory": {
+        "nsfw": false,
+        "warnings": [
+          "drug use theme"
+        ]
+      }
     }
   }
 }
