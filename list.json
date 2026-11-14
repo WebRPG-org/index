@@ -8865,6 +8865,19 @@
     "invalidReason": "Upstream repository size 15313793 KB exceeds the 8388608 KB limit."
   },
   {
+    "id": "calebegudude-chillest-website-games",
+    "title": "Chillest-Website-Games",
+    "repo": "https://github.com/CalebEGUDUDE/Chillest-Website-Games",
+    "owner": "CalebEGUDUDE",
+    "name": "Chillest-Website-Games",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "discoveredAt": "2026-11-14T05:03:05.480Z",
+    "source": "github-code-search",
+    "sourcePath": "games/html/Ports/omori.html",
+    "plannedForkName": "CalebEGUDUDE-Chillest-Website-Games"
+  },
+  {
     "id": "koohdev-chronicles-of-arithmos",
     "title": "Chronicles of Arithmos",
     "repo": "https://github.com/koohdev/chronicles_of_arithmos",
