@@ -14174,6 +14174,19 @@
     }
   },
   {
+    "id": "jiangnangenius-floe-agent",
+    "title": "Floe Meadow Signal",
+    "repo": "https://github.com/JiangNanGenius/floe-agent",
+    "owner": "JiangNanGenius",
+    "name": "floe-agent",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "discoveredAt": "2026-11-15T10:25:13.965Z",
+    "source": "github-code-search",
+    "sourcePath": "FloeAgent/Modules/FloeGamePortableKit/Sources/FloeGamePortableKit/Resources/Templates/mv/index.html",
+    "plannedForkName": "JiangNanGenius-floe-agent"
+  },
+  {
     "id": "sombriks-foo-bar-tales",
     "title": "Foo Bar Tales",
     "repo": "https://github.com/sombriks/foo-bar-tales",
