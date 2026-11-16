@@ -30345,6 +30345,19 @@
     "deletedAt": "2026-09-20T10:49:10.778Z"
   },
   {
+    "id": "hidayy21-rpg-talesofnova",
+    "title": "Tales of Old",
+    "repo": "https://github.com/hidayy21/rpg_talesofnova",
+    "owner": "hidayy21",
+    "name": "rpg_talesofnova",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "discoveredAt": "2026-11-16T21:39:38.649Z",
+    "source": "github-code-search",
+    "sourcePath": "index.html",
+    "plannedForkName": "hidayy21-rpg_talesofnova"
+  },
+  {
     "id": "excel-top",
     "title": "Tales of Pumpnia: Modern Stories",
     "repo": "https://github.com/Excel/top",
