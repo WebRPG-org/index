@@ -4303,6 +4303,19 @@
     }
   },
   {
+    "id": "ctpcomputer-mathrpg-complex-number-i",
+    "title": "小朋友齊傾數之i篇",
+    "repo": "https://github.com/CTPcomputer/MathRPG-complex_number_i-",
+    "owner": "CTPcomputer",
+    "name": "MathRPG-complex_number_i-",
+    "engine": "RPG Maker MZ",
+    "status": "indexed",
+    "discoveredAt": "2026-11-17T18:10:03.361Z",
+    "source": "github-code-search",
+    "sourcePath": "index.html",
+    "plannedForkName": "CTPcomputer-MathRPG-complex_number_i"
+  },
+  {
     "id": "92o524-campus-introduction5",
     "title": "校園介紹",
     "repo": "https://github.com/92O524/Campus-introduction5",
@@ -11025,6 +11038,19 @@
     "validationScore": 45
   },
   {
+    "id": "jcytech-svg",
+    "title": "DEAD PLATE",
+    "repo": "https://github.com/jcytech/svg",
+    "owner": "jcytech",
+    "name": "svg",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "discoveredAt": "2026-11-18T02:44:07.200Z",
+    "source": "github-code-search",
+    "sourcePath": "stores/gn-math/462.html",
+    "plannedForkName": "jcytech-svg"
+  },
+  {
     "id": "justjxrdanwasdefinetlytaken-cassets",
     "title": "DEAD PLATE",
     "repo": "https://github.com/JustJxrdanWasDefinetlyTaken/cassets",
@@ -13795,7 +13821,6 @@
     "discoveredAt": "2026-11-17T18:10:03.361Z",
     "source": "github-code-search",
     "sourcePath": "gamelist/Fear-and-Hunger-2-Termina/index.html",
-    "plannedForkName": "Nobody495067-calc",
     "checkedAt": "2026-11-17T18:19:50.458Z",
     "forkName": "master234534567-calc",
     "invalidReason": "Repository tree has 21121 entries, exceeding the 20000 entry limit."
@@ -21906,7 +21931,6 @@
     "discoveredAt": "2026-11-17T18:10:03.361Z",
     "source": "github-code-search",
     "sourcePath": "G2.3/Gams-Main2.3/gamefiles/OMORI.html",
-    "plannedForkName": "apathak31-wq-codespaces-blank",
     "checkedAt": "2026-11-17T18:19:44.393Z",
     "forkName": "apathak31-wq-codespaces-blank",
     "invalidReason": "Repository has 1672 HTML files, exceeding the 500 file limit."
@@ -26952,6 +26976,19 @@
     }
   },
   {
+    "id": "intruder0404-recursionparadox",
+    "title": "Recrusion Paradox",
+    "repo": "https://github.com/Intruder0404/RecursionParadox",
+    "owner": "Intruder0404",
+    "name": "RecursionParadox",
+    "engine": "RPG Maker MZ",
+    "status": "indexed",
+    "discoveredAt": "2026-11-17T18:10:03.361Z",
+    "source": "github-code-search",
+    "sourcePath": "index.html",
+    "plannedForkName": "Intruder0404-RecursionParadox"
+  },
+  {
     "id": "framormar-rpg-adventure-windows",
     "title": "Reina Mercedes´ Adventure",
     "repo": "https://github.com/Framormar/RPG_ADVENTURE_WINDOWS",
@@ -29261,6 +29298,19 @@
       "reviewedAt": "2026-11-12",
       "reviewedSourceHeadSha": "1dce8393690da2f466eee703a4cc1170299d0bb6"
     }
+  },
+  {
+    "id": "mikishida-sigilbeta",
+    "title": "SIGIL",
+    "repo": "https://github.com/MikiShida/sigilbeta",
+    "owner": "MikiShida",
+    "name": "sigilbeta",
+    "engine": "RPG Maker MZ",
+    "status": "indexed",
+    "discoveredAt": "2026-11-17T18:10:03.361Z",
+    "source": "github-code-search",
+    "sourcePath": "index.html",
+    "plannedForkName": "MikiShida-sigilbeta"
   },
   {
     "id": "deeeland0ohio-sigma-games-2ca86c86",
