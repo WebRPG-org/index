@@ -33595,18 +33595,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/Versionaryy-versionary-game/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg",
-        "educational"
-      ],
-      "languages": [
-        "pt"
-      ],
-      "nsfw": false,
+      "gameSlug": "versionary",
       "playable": true,
-      "popularity": 3,
-      "rating": 5,
-      "reviewedAt": "2026-11-12"
+      "nsfw": false,
+      "reviewedAt": "2026-11-12",
+      "reviewedSourceHeadSha": "836e5b3dc303f60f59d90d7fae826bae63e290b7"
     }
   },
   {
@@ -33636,18 +33629,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/nativenewengland-Game/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "simulation",
-        "fantasy"
-      ],
-      "languages": [
-        "en"
-      ],
-      "nsfw": false,
+      "gameSlug": "very-epic-taverner",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "nsfw": false,
+      "reviewedAt": "2026-11-07",
+      "reviewedSourceHeadSha": "106b815451127012bbd91704201c2e986435c0a1"
     }
   },
   {
@@ -33677,14 +33663,8 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/nativenewengland-godot/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "simulation",
-        "fantasy"
-      ],
-      "nsfw": false,
       "playable": false,
-      "popularity": 2,
-      "rating": 5,
+      "nsfw": false,
       "reviewedAt": "2026-11-07"
     }
   },
@@ -33715,17 +33695,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/MaterialRandom-ViajeTirNaNog1/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg"
-      ],
-      "languages": [
-        "es"
-      ],
-      "nsfw": false,
+      "gameSlug": "viaje-a-tir-na-nog-cap1",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-12"
+      "nsfw": false,
+      "reviewedAt": "2026-11-12",
+      "reviewedSourceHeadSha": "a4afcbe48088911dd60fb485039b61f65b07141f"
     }
   },
   {
@@ -33769,17 +33743,11 @@
     "sourceHeadSha": "59ff2258bfd6a2b9aee5bdf52106c6ed25b0269d",
     "processedHeadSha": "1abb17192a05a11b5a0eb27e6b943c1f2a08f288",
     "meta": {
-      "genres": [
-        "rpg"
-      ],
-      "languages": [
-        "id"
-      ],
-      "nsfw": false,
+      "gameSlug": "virus-chronicles",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "nsfw": false,
+      "reviewedAt": "2026-11-07",
+      "reviewedSourceHeadSha": "59ff2258bfd6a2b9aee5bdf52106c6ed25b0269d"
     },
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/Lynxx39-Virus-Chronicles/game.html served an RPG Maker entry point and its startup resources"
@@ -33811,17 +33779,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/SalsabilaZhaqqi-rpgRIRIS/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg"
-      ],
-      "languages": [
-        "id"
-      ],
-      "nsfw": false,
+      "gameSlug": "virus-chronicles",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "nsfw": false,
+      "reviewedAt": "2026-11-07",
+      "reviewedSourceHeadSha": "b64c8a6141762f324e1d833602130183d6c73ea6"
     }
   },
   {
@@ -33886,16 +33848,8 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/VolcaEM-volcaem.github.io/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg"
-      ],
-      "languages": [
-        "it"
-      ],
+      "playable": false,
       "nsfw": false,
-      "playable": true,
-      "popularity": 2,
-      "rating": 4,
       "reviewedAt": "2026-11-12"
     }
   },
@@ -33926,17 +33880,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/ltw6610-vrpg/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg"
-      ],
-      "languages": [
-        "en"
-      ],
-      "nsfw": false,
+      "gameSlug": "vrpg",
       "playable": true,
-      "popularity": 3,
-      "rating": 5,
-      "reviewedAt": "2026-11-12"
+      "nsfw": false,
+      "reviewedAt": "2026-11-12",
+      "reviewedSourceHeadSha": "3fc43211df299521a07ec052897828bec7559a64"
     }
   },
   {
@@ -33966,22 +33914,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/cromewar-World-of-Hackathon-Wingbirds/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "aliases": [
-        "W0HW: World 0-Hackathon Teambuilding Sim RPG"
-      ],
-      "genres": [
-        "simulation",
-        "educational"
-      ],
-      "languages": [
-        "en"
-      ],
-      "nsfw": false,
+      "gameSlug": "world-of-hackathon-wingbirds",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
+      "nsfw": false,
       "reviewedAt": "2026-11-12",
-      "title": "W0HW: Hackathon Teambuilding Sim RPG"
+      "reviewedSourceHeadSha": "184e0bcb0c76362b70bb33ed148c43360ea6d74f"
     }
   },
   {
@@ -34046,16 +33983,8 @@
     "reachabilityDetail": "https://webrpg.org/vladimirmarduk-wake/ served an RPG Maker entry point and its startup resources",
     "processedHeadSha": "ad1f2cbecebf566818e94a2b9df6e252bf1ee539",
     "meta": {
-      "genres": [
-        "rpg"
-      ],
-      "languages": [
-        "en"
-      ],
+      "playable": false,
       "nsfw": false,
-      "playable": true,
-      "popularity": 2,
-      "rating": 5,
       "reviewedAt": "2026-11-12"
     }
   },
@@ -34086,19 +34015,11 @@
     "verificationDeferred": true,
     "syncedFromSource": true,
     "meta": {
-      "genres": [
-        "rpg",
-        "fantasy"
-      ],
-      "languages": [
-        "en",
-        "fr"
-      ],
-      "nsfw": false,
+      "gameSlug": "warhammer-the-enemy-within",
       "playable": true,
-      "popularity": 3,
-      "rating": 4,
-      "reviewedAt": "2026-11-12"
+      "nsfw": false,
+      "reviewedAt": "2026-11-12",
+      "reviewedSourceHeadSha": "e6a6782edfe194eb4f5a7f0ed62c18434c795cee"
     }
   },
   {
@@ -34219,17 +34140,8 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/mysterymagination-WeirdWyrdWorld/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg",
-        "fantasy"
-      ],
-      "languages": [
-        "en"
-      ],
+      "playable": false,
       "nsfw": false,
-      "playable": true,
-      "popularity": 2,
-      "rating": 5,
       "reviewedAt": "2026-11-12"
     }
   },

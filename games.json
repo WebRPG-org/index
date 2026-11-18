@@ -26247,6 +26247,787 @@
       "contentAdvisory": {
         "nsfw": false
       }
+    },
+    "versionary": {
+      "schemaVersion": 1,
+      "slug": "versionary",
+      "originalTitle": "Versionary!",
+      "taxonomy": {
+        "genres": [
+          "rpg"
+        ],
+        "themes": [
+          "educational",
+          "fantasy"
+        ],
+        "contentType": "full-game",
+        "mechanics": [
+          "git-command gameplay",
+          "invisible maze",
+          "puzzles"
+        ]
+      },
+      "developers": [
+        {
+          "name": "Versionaryy",
+          "url": "https://github.com/Versionaryy"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/Versionaryy-versionary-game/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "versionaryy-versionary-game",
+          "title": "Versionary!",
+          "languages": [
+            "pt"
+          ],
+          "nsfw": false
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/Versionaryy/versionary-game",
+          "https://webrpg.org/Versionaryy-versionary-game/"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 2,
+      "assessedAt": "2026-11-19",
+      "assessmentSources": [
+        "https://github.com/Versionaryy/versionary-game",
+        "https://webrpg.org/Versionaryy-versionary-game/"
+      ],
+      "assessmentNote": "No external traces found (multiple searches in English and Portuguese return only unrelated Git tutorials and same-named software packages; no Steam/itch/wiki/media/forum record). In-repo: 11 maps / 220 events / 473 dialogue lines / 33 transfers — the Git Station map alone has 193 lines of Git teaching dialogue, the invisible maze has 163 events, plus a magic city, castle puzzle, item shop and house interior; variables Add/Commit/Push/Fragmentos/AnatomiaGit/DetalhesGit and switches 'Missão Rato cumprida' and 'Passou labirinto' show a real teaching loop with quests and a maze. The README is two lines ('# Versionary / Código do jogo') with no story, so the introductions summarise only the map/variable structure and invent no plot. nsfw false (no keyword hits; educational). Translated titles: en is the proper name used as-is; zh-Hans/ja left blank (no official title, no established transliteration). Repo 0 stars; rating blank; popularity 2.",
+      "translatedTitles": {
+        "en": "Versionary!"
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "葡萄牙语教育 RPG：玩家在魔法城市等地冒险，在“Git 车站”通过 Add、Commit、Push 等机制学习版本控制，并穿越隐形迷宫、解开城堡谜题。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "A Portuguese-language educational RPG that teaches Git through play: the player explores a magic city, learns Add/Commit/Push at the Git Station, and tackles puzzles including an invisible maze.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "Git を遊びながら学ぶポルトガル語の教育 RPG。魔法の街を冒険し、「Git 駅」で Add／Commit／Push を学び、透明迷路や城のパズルに挑む。",
+          "editorialStatus": "draft"
+        }
+      },
+      "externalLinks": [
+        {
+          "url": "https://github.com/Versionaryy/versionary-game",
+          "type": "source",
+          "label": "GitHub source repository"
+        },
+        {
+          "url": "https://webrpg.org/Versionaryy-versionary-game/",
+          "type": "other",
+          "label": "WebRPG play page"
+        }
+      ],
+      "contentAdvisory": {
+        "nsfw": false
+      }
+    },
+    "very-epic-taverner": {
+      "schemaVersion": 1,
+      "slug": "very-epic-taverner",
+      "originalTitle": "Very Epic Taverner",
+      "taxonomy": {
+        "genres": [
+          "simulation"
+        ],
+        "themes": [
+          "fantasy",
+          "slice-of-life"
+        ],
+        "contentType": "full-game",
+        "mechanics": [
+          "tutorial",
+          "customer payment loop",
+          "cooking",
+          "room rental"
+        ]
+      },
+      "developers": [
+        {
+          "name": "Kurt Gabriel Sotelo",
+          "url": "https://merchant-shade.itch.io"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/nativenewengland-Game/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "nativenewengland-game",
+          "title": "Very Epic Taverner",
+          "languages": [
+            "en"
+          ],
+          "nsfw": false
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://merchant-shade.itch.io/very-epic-taverner",
+          "https://github.com/nativenewengland/Game"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 3,
+      "assessedAt": "2026-11-19",
+      "assessmentSources": [
+        "https://merchant-shade.itch.io/very-epic-taverner",
+        "https://github.com/nativenewengland/Game"
+      ],
+      "assessmentNote": "itch.io verified: a medieval innkeeper simulator by Kurt Gabriel Sotelo, submitted as coursework for a university 'Game Console Integration' course — manage finances, hire staff, stock inventory, cook food and drinks, accommodate guests; itch rating 4.3 from only 3 ratings, too thin to convert, so rating is blank. In-repo: two forks with identical versionId 11190247 and identical maps/events/dialogue/switches (3 maps / 79 events / 101 dialogue lines) — the same game in two repo copies; only the playable-true game fork is linked (the godot fork is old playable false). Switches show a real loop: tutorial steps, 13 customer payment switches, cooking and room-rental (sleeper) switches. The README's ambitious roadmap (religion system, Underdark, necromancy, demon update, RTS) is a far-future vision, not the shipped build, and was not used for the introductions. 'Epic Tavern' (Steam app 517720) is an unrelated commercial game. nsfw false (no keyword hits; clean itch description). Translated titles are translator-supplied literal renderings, not official titles. Repo 0 stars; rating blank; popularity 3.",
+      "translatedTitles": {
+        "zh-Hans": "非常史诗的酒馆老板",
+        "ja": "ヴェリー・エピック・タヴァーナー"
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "中世纪酒馆经营模拟游戏：玩家扮演酒馆老板，管理财务、雇佣员工、备货、烹饪酒食、接待住客；含教程与顾客付费循环。这是作者大学课程“Game Console Integration”的课程项目。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "A medieval innkeeper simulator: you run an inn, manage finances, hire staff, stock inventory, cook food and drinks, and accommodate guests, with a tutorial and a customer payment loop. Submitted as coursework for a university \"Game Console Integration\" course.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "中世の宿屋経営シミュレーション。宿屋の主となり、資金管理、従業員の雇用、仕入れ、料理と飲み物の提供、宿泊客の対応を行う。チュートリアルと客の支払いループを備える。大学の授業「Game Console Integration」の課題作品。",
+          "editorialStatus": "draft"
+        }
+      },
+      "externalLinks": [
+        {
+          "url": "https://merchant-shade.itch.io/very-epic-taverner",
+          "type": "store",
+          "label": "itch.io page"
+        },
+        {
+          "url": "https://github.com/nativenewengland/Game",
+          "type": "source",
+          "label": "GitHub source repository (Game)"
+        },
+        {
+          "url": "https://github.com/nativenewengland/godot",
+          "type": "source",
+          "label": "GitHub source repository (godot fork, same build)"
+        },
+        {
+          "url": "https://webrpg.org/nativenewengland-Game/",
+          "type": "other",
+          "label": "WebRPG play page"
+        }
+      ],
+      "contentAdvisory": {
+        "nsfw": false
+      }
+    },
+    "viaje-a-tir-na-nog-cap1": {
+      "schemaVersion": 1,
+      "slug": "viaje-a-tir-na-nog-cap1",
+      "originalTitle": "Viaje a Tir Na Nog Cap1",
+      "taxonomy": {
+        "genres": [
+          "rpg"
+        ],
+        "themes": [
+          "fantasy",
+          "educational"
+        ],
+        "contentType": "full-game",
+        "mechanics": [
+          "farming",
+          "shop price-input puzzles",
+          "library quest chains",
+          "day/night cycle",
+          "horse riding",
+          "trap puzzles",
+          "collection missions"
+        ]
+      },
+      "developers": [
+        {
+          "name": "Material Random",
+          "url": "https://materialrandom.github.io"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/MaterialRandom-ViajeTirNaNog1/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "materialrandom-viajetirnanog1",
+          "title": "Viaje a Tir Na Nog Cap1",
+          "languages": [
+            "es"
+          ],
+          "nsfw": false
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://edujuegos.es/viaje-a-tir-na-nog",
+          "https://github.com/MaterialRandom/ViajeTirNaNog1"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 3,
+      "assessedAt": "2026-11-19",
+      "assessmentSources": [
+        "https://edujuegos.es/viaje-a-tir-na-nog",
+        "https://github.com/MaterialRandom/ViajeTirNaNog1"
+      ],
+      "assessmentNote": "Edu­juegos article verified (2021-09-29, updated 2025-01-09): a Spanish epic-fantasy educational game for 5th–6th grade primary pupils — the player must find Viudits, Guardian of the Library of Fendiel, to return home; teaches science, language and above all maths; by Material Random (a primary-school teacher), CC licensed, with later chapters released separately. In-repo: 38 maps / 642 events / 5707 dialogue lines / 2766 event pages — the largest game in this batch; the library-rooms map alone has 3209 lines, plus farm timers (huerto/viñedo), shop price-input puzzles, library quest chains (MISION-DiarioViudits 1–7), day/night, horse riding and trap puzzles. The switch name 'CV_puto amo' is a profanity joke label, not sexual content, so nsfw stays false. The same-named card game Tír na nÓg is unrelated. Translated titles are translator-supplied literal renderings, not official titles. No review scores, so rating is blank; popularity 3.",
+      "release": {
+        "date": "2021-09-29"
+      },
+      "translatedTitles": {
+        "en": "Journey to Tir Na Nog — Chapter 1",
+        "zh-Hans": "提尔·纳·诺格之旅 第一章",
+        "ja": "ティル・ナ・ノーグへの旅 第1章"
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "西班牙语史诗幻想教育 RPG 第一章：玩家进入提尔·纳·诺格的世界，为回家必须找到芬迪尔图书馆的守护者 Viudits。面向小学五、六年级，在冒险中融入科学、语言与数学（尤以数学为主），含农场种植、商店算价、图书馆任务等玩法。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "A Spanish epic-fantasy educational RPG, Chapter 1: the player enters the world of Tir Na Nog and must find Viudits, Guardian of the Library of Fendiel, to return home. Made for 5th–6th grade primary pupils, it teaches science, language and above all maths through farming, shop price puzzles and library quests.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "スペイン語の叙事ファンタジー教育 RPG 第1章。プレイヤーはティル・ナ・ノーグの世界に入り、帰るためにフェンディエル図書館の守護者ヴィーディッツを探す。小学5・6年生向けで、科学・国語、とりわけ算数を、農場経営や商店の値段パズル、図書館クエストを通して学ぶ。",
+          "editorialStatus": "draft"
+        }
+      },
+      "externalLinks": [
+        {
+          "url": "https://edujuegos.es/viaje-a-tir-na-nog",
+          "type": "other",
+          "label": "Edu­juegos article (Spanish)"
+        },
+        {
+          "url": "https://github.com/MaterialRandom/ViajeTirNaNog1",
+          "type": "source",
+          "label": "GitHub source repository"
+        },
+        {
+          "url": "https://webrpg.org/MaterialRandom-ViajeTirNaNog1/",
+          "type": "other",
+          "label": "WebRPG play page"
+        }
+      ],
+      "contentAdvisory": {
+        "nsfw": false
+      }
+    },
+    "virus-chronicles": {
+      "schemaVersion": 1,
+      "slug": "virus-chronicles",
+      "originalTitle": "Virus Chronicles",
+      "taxonomy": {
+        "genres": [
+          "rpg"
+        ],
+        "themes": [
+          "fantasy"
+        ],
+        "contentType": "full-game",
+        "mechanics": [
+          "labyrinth exploration",
+          "level-up transitions",
+          "boss",
+          "portal",
+          "crystal collection"
+        ]
+      },
+      "developers": [
+        {
+          "name": "SalsabilaZhaqqi",
+          "url": "https://github.com/SalsabilaZhaqqi"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/SalsabilaZhaqqi-rpgRIRIS/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "salsabilazhaqqi-rpgriris",
+          "title": "Virus Chronicles",
+          "languages": [
+            "id"
+          ],
+          "nsfw": false,
+          "notes": "Author's build (279 dialogue lines); README: 'Ini Adalah Game RPG kedua saya' (my second RPG)."
+        },
+        {
+          "type": "internal",
+          "id": "lynxx39-virus-chronicles",
+          "title": "Virus Chronicles",
+          "languages": [
+            "id"
+          ],
+          "nsfw": false,
+          "notes": "Updated fork on branch 'update' (385 dialogue lines); same versionId, maps, events and switches as the author's build."
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/SalsabilaZhaqqi/rpgRIRIS",
+          "https://github.com/Lynxx39/Virus-Chronicles"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 2,
+      "assessedAt": "2026-11-19",
+      "assessmentSources": [
+        "https://github.com/SalsabilaZhaqqi/rpgRIRIS",
+        "https://github.com/Lynxx39/Virus-Chronicles"
+      ],
+      "assessmentNote": "No external traces found (multiple searches in English and Indonesian; 'Virus Chronicles' hits are unrelated games — Project Viral, VirusCrisis on Steam). In-repo: two forks with identical versionId 20611206 and identical maps/events/event pages/switches/variables (5 maps / 80 events / 108 event pages; switches Cutscene_wandel_ON, LevelUp, Portal Aktif, Boss, Kalah; variables CrystalSelesai, ApiPadam, C5, Slide) — the same game in two builds, differing only in dialogue count (Lynxx39 385 lines vs Salsabila 279 lines); both forks are old playable true and both are linked. Salsabila's README ('Ini Adalah Game RPG kedua saya', my second RPG) identifies her as the author; Lynxx39's branch is named 'update'. Plot and ending are unverified, so the themes [fantasy] are inferred from the labyrinth/crystal/boss structure and flagged as unverified. nsfw false (no keyword hits; Indonesian switch/variable names are ordinary words). Translated titles are translator-supplied literal renderings, not official titles. Repos 0 stars; rating blank; popularity 2.",
+      "translatedTitles": {
+        "zh-Hans": "病毒编年史",
+        "ja": "ウイルス・クロニクルズ"
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "印尼语 RPG：玩家探索迷宫，收集水晶、穿越传送门、挑战 Boss，不断升级推进。作者 Salsabila 的第二款 RPG 作品。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "An Indonesian-language RPG: the player explores a labyrinth, collects crystals, passes through portals, and faces a boss while levelling up. The author's second RPG.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "インドネシア語の RPG。迷宮を探索し、クリスタルを集め、ポータルを抜けてボスに挑みながらレベルアップしていく。作者の2作目の RPG。",
+          "editorialStatus": "draft"
+        }
+      },
+      "externalLinks": [
+        {
+          "url": "https://github.com/SalsabilaZhaqqi/rpgRIRIS",
+          "type": "source",
+          "label": "GitHub source repository (author's build)"
+        },
+        {
+          "url": "https://github.com/Lynxx39/Virus-Chronicles",
+          "type": "source",
+          "label": "GitHub source repository (update fork)"
+        },
+        {
+          "url": "https://webrpg.org/SalsabilaZhaqqi-rpgRIRIS/",
+          "type": "other",
+          "label": "WebRPG play page"
+        }
+      ],
+      "contentAdvisory": {
+        "nsfw": false
+      }
+    },
+    "vrpg": {
+      "schemaVersion": 1,
+      "slug": "vrpg",
+      "originalTitle": "vrpg",
+      "taxonomy": {
+        "genres": [
+          "rpg"
+        ],
+        "themes": [
+          "fantasy",
+          "comedy"
+        ],
+        "contentType": "prototype",
+        "mechanics": [
+          "turn-based battles"
+        ]
+      },
+      "developers": [
+        {
+          "name": "ltw6610",
+          "url": "https://github.com/ltw6610"
+        },
+        {
+          "name": "/vrpg/ community"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/ltw6610-vrpg/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "ltw6610-vrpg",
+          "title": "vrpg",
+          "languages": [
+            "en"
+          ],
+          "nsfw": false,
+          "notes": "Map023 Village is missing (404); 4 transfers point to it, so the village branch is broken. The main quest (king's prophecy -> Dungeon F1–F5) is unaffected."
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/ltw6610/vrpg",
+          "https://pastebin.com/iitXiGCR",
+          "https://4archive.org/board/vrpg/thread/156996/vrpg-makes-a-jrpg-1",
+          "https://4archive.org/board/vrpg/thread/310621/vrpg-the-vrpg-rpg-8",
+          "https://1d4chan.org/wiki/Board-tans",
+          "https://ltw6610.github.io/vrpg/"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 4,
+      "assessedAt": "2026-11-19",
+      "assessmentSources": [
+        "https://github.com/ltw6610/vrpg",
+        "https://pastebin.com/iitXiGCR",
+        "https://4archive.org/board/vrpg/thread/156996/vrpg-makes-a-jrpg-1",
+        "https://4archive.org/board/vrpg/thread/310621/vrpg-the-vrpg-rpg-8",
+        "https://1d4chan.org/wiki/Board-tans",
+        "https://ltw6610.github.io/vrpg/"
+      ],
+      "assessmentNote": "Web search confirms a 4chan /vrpg/ board crowdsourced project from August 2020: thread 1 'vrpg makes a jrpg' (516 replies), thread 8 'The /vrpg/ RPG' with repo and playable-build links, a pastebin design doc (50+ Board-tan recruits, Dragon Quest 1 parody positioning), a 1d4chan Board-tans wiki page, and a live playable build at ltw6610.github.io/vrpg; repo 3 stars / 7 forks, last pushed 2020-08-27 (about three weeks of work). In-repo: 30 maps / 92 events / 268 dialogue lines / 58 transfers — a real structure (world map, castle, first town, 5-floor dungeon, village branch) with the king's prophecy quest (Map004, 47 lines) and battles; but the design doc's Todd Howard final boss and ending never appear in any map, and thread 8 itself calls it a prototype, so contentType is prototype. Defect: Map023 Village is missing (404) and 4 transfers point to it — the village branch breaks, though the main quest is unaffected. nsfw false: the 'fuck'/'naked' keyword hits were located in the original text — 'Fuck you and fuck your King' (profanity), 'THERE'S A NAKED GUY THERE!' (a sight gag about a naked NPC at the fishing spot, no sexual content) — plus one 'Faggot.' insult; recorded in warnings. No review scores, so rating is blank; popularity 4.",
+      "aliases": {
+        "en": [
+          "The /vrpg/ RPG",
+          "/vrpg/ makes a JRPG"
+        ]
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "4chan /vrpg/ 板块网友于 2020 年 8 月众包制作的《勇者斗恶龙 1》恶搞 JRPG：兄妹主角 Wes 与 Jay 接受国王的预言任务，踏上讨伐古代邪恶的旅程，途中可招募 50 多位 Board-tan 角色；项目仅持续约三周后停滞，未实现结局。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "A Dragon Quest 1 parody JRPG crowdsourced by posters of 4chan's /vrpg/ board in August 2020: siblings Wes and Jay take up the king's prophecy quest against an ancient evil, recruiting Board-tan characters along the way; work stopped after about three weeks with no ending implemented.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "2020年8月に4chanの/vrpg/板の有志が共同制作した『ドラゴンクエスト1』のパロディJRPG。兄妹の主人公ウェスとジェイが王の予言を受け、古代の邪悪に立ち向かう。Board-tanキャラクターの仲間集めが特徴だが、約3週間で開発が止まり、エンディングは未実装。",
+          "editorialStatus": "draft"
+        }
+      },
+      "externalLinks": [
+        {
+          "url": "https://github.com/ltw6610/vrpg",
+          "type": "source",
+          "label": "GitHub source repository"
+        },
+        {
+          "url": "https://ltw6610.github.io/vrpg/",
+          "type": "official",
+          "label": "Playable build"
+        },
+        {
+          "url": "https://pastebin.com/iitXiGCR",
+          "type": "other",
+          "label": "Design document (pastebin)"
+        },
+        {
+          "url": "https://4archive.org/board/vrpg/thread/310621/vrpg-the-vrpg-rpg-8",
+          "type": "community",
+          "label": "4chan /vrpg/ thread 8"
+        },
+        {
+          "url": "https://1d4chan.org/wiki/Board-tans",
+          "type": "community",
+          "label": "1d4chan Board-tans wiki"
+        },
+        {
+          "url": "https://webrpg.org/ltw6610-vrpg/",
+          "type": "other",
+          "label": "WebRPG play page"
+        }
+      ],
+      "contentAdvisory": {
+        "nsfw": false,
+        "warnings": [
+          "profanity and a homophobic slur used as insults"
+        ]
+      }
+    },
+    "world-of-hackathon-wingbirds": {
+      "schemaVersion": 1,
+      "slug": "world-of-hackathon-wingbirds",
+      "originalTitle": "W0HW: Hackathon Teambuilding Sim RPG",
+      "taxonomy": {
+        "genres": [
+          "simulation",
+          "rpg"
+        ],
+        "themes": [
+          "educational",
+          "comedy"
+        ],
+        "contentType": "full-game",
+        "mechanics": [
+          "team-building missions",
+          "role-based play",
+          "honor system"
+        ]
+      },
+      "developers": [
+        {
+          "name": "cromewar",
+          "url": "https://github.com/cromewar"
+        },
+        {
+          "name": "Tippi Fifestarr",
+          "url": "https://tippi-fifestarr.github.io/"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/cromewar-World-of-Hackathon-Wingbirds/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "cromewar-world-of-hackathon-wingbirds",
+          "title": "W0HW: World 0-Hackathon Teambuilding Sim RPG",
+          "languages": [
+            "en"
+          ],
+          "nsfw": false
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/cromewar/World-of-Hackathon-Wingbirds",
+          "https://www.notion.so/How-to-WIN-Every-Hackathon-5d0ea96a4cfd4ddcb931b2c24b9aeeb6",
+          "https://tippi-fifestarr.github.io/Ultimate-Blockchain-Productivity-Platform/w0hw/"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 2,
+      "assessedAt": "2026-11-19",
+      "assessmentSources": [
+        "https://github.com/cromewar/World-of-Hackathon-Wingbirds",
+        "https://www.notion.so/How-to-WIN-Every-Hackathon-5d0ea96a4cfd4ddcb931b2c24b9aeeb6",
+        "https://tippi-fifestarr.github.io/Ultimate-Blockchain-Productivity-Platform/w0hw/"
+      ],
+      "assessmentNote": "The only external trace is co-author Tippi Fifestarr's Notion article ('Cromewar and I even built a Web3 Hackathon RPG Sim Game called World of Hackathon Wingbirds'); no independent media/store/review record. Repo 2 stars / 5 forks; the Fleek live demo linked in the README now returns 403. In-repo: 6 maps / 115 events / 363 dialogue lines / 26 transfers — School map 140 lines, a real quest chain (persuade Team Telesto, complete training, PvP) and an explicit win condition ('the only way to win is to die with honors'); the README states it is 'an open world that can be completed quickly to act as a tutorial', i.e. a short complete game rather than a demo of a bigger one, so contentType is full-game. The NFT honour mechanic exists only in README prose, with no implementation in the game data, and is not claimed in the introductions. nsfw false (no keyword hits). Translated titles are translator-supplied literal renderings, not official titles. Repo created 2021-12-31, last pushed 2022-02-02; rating blank; popularity 2.",
+      "translatedTitles": {
+        "zh-Hans": "黑客松翼鸟世界",
+        "ja": "ハッカソン・ウィングバーズの世界"
+      },
+      "aliases": {
+        "en": [
+          "W0HW",
+          "World of Hackathon Wingbirds",
+          "W0HW: World 0-Hackathon Teambuilding Sim RPG"
+        ]
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "为 Moralis 黑客松制作的 Web3 黑客松组队模拟 RPG：玩家扮演一只雏鸟（Wingbird），在可快速通关的教程世界里学习组队，从猫头鹰、孔雀、鹰、企鹅、蜂鸟五种团队角色中选择其一，完成训练与 PvP，最终以荣誉死去即获胜。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "A Web3 hackathon team-building sim RPG built for the Moralis Hackathon: the player is a young wingbird in a quick-to-complete tutorial world, learning to build a team, picking one of five bird roles (owl, peacock, eagle, penguin, hummingbird), training and fighting in PvP — winning by dying with honors.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "Moralisハッカソン向けに作られたWeb3ハッカソン・チームビルディング・シムRPG。プレイヤーは若いウィングバードとなり、短時間でクリアできるチュートリアル世界でチーム作りを学び、フクロウ／クジャク／ワシ／ペンギン／ハチドリの5つの役割から選んで訓練とPvPに挑み、名誉ある死によって勝利する。",
+          "editorialStatus": "draft"
+        }
+      },
+      "externalLinks": [
+        {
+          "url": "https://github.com/cromewar/World-of-Hackathon-Wingbirds",
+          "type": "source",
+          "label": "GitHub source repository"
+        },
+        {
+          "url": "https://tippi-fifestarr.github.io/Ultimate-Blockchain-Productivity-Platform/w0hw/",
+          "type": "official",
+          "label": "Project page (Tippi Fifestarr)"
+        },
+        {
+          "url": "https://www.notion.so/How-to-WIN-Every-Hackathon-5d0ea96a4cfd4ddcb931b2c24b9aeeb6",
+          "type": "other",
+          "label": "Co-author's Notion article mentioning the game"
+        },
+        {
+          "url": "https://docs.google.com/presentation/d/1FysFroMA5JVOjpp3dHZc33gwIGsLrgLiUEcyiEJBUjM/edit?usp=sharing",
+          "type": "other",
+          "label": "Duck Deck (README)"
+        },
+        {
+          "url": "https://webrpg.org/cromewar-World-of-Hackathon-Wingbirds/",
+          "type": "other",
+          "label": "WebRPG play page"
+        }
+      ],
+      "contentAdvisory": {
+        "nsfw": false
+      }
+    },
+    "warhammer-the-enemy-within": {
+      "schemaVersion": 1,
+      "slug": "warhammer-the-enemy-within",
+      "originalTitle": "Warhammer - The Enemy Within",
+      "taxonomy": {
+        "genres": [
+          "rpg"
+        ],
+        "themes": [
+          "fantasy"
+        ],
+        "contentType": "demo",
+        "mechanics": [
+          "dice-roll skill tests",
+          "haggling",
+          "shop",
+          "branching dialogue",
+          "Winds of Magic rolls"
+        ]
+      },
+      "developers": [
+        {
+          "name": "Darius1325",
+          "url": "https://github.com/Darius1325"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/Darius1325-the-enemy-within/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "darius1325-the-enemy-within",
+          "title": "Warhammer - The Enemy Within",
+          "languages": [
+            "en"
+          ],
+          "nsfw": false
+        }
+      ],
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/Darius1325/the-enemy-within",
+          "https://raw.githubusercontent.com/Darius1325/the-enemy-within/main/data/Map001.json",
+          "https://api.github.com/repos/Darius1325/the-enemy-within",
+          "https://rlyehreviews.blogspot.com/2019/11/tew-enemy-within.html"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 2,
+      "assessedAt": "2026-11-19",
+      "assessmentSources": [
+        "https://github.com/Darius1325/the-enemy-within",
+        "https://raw.githubusercontent.com/Darius1325/the-enemy-within/main/data/Map001.json",
+        "https://api.github.com/repos/Darius1325/the-enemy-within",
+        "https://rlyehreviews.blogspot.com/2019/11/tew-enemy-within.html"
+      ],
+      "assessmentNote": "Every web hit is about the tabletop campaign itself — none mentions this fan adaptation (repo created 2024-09-14, still updated 2026-11-11, 0 stars, 2 forks). In-repo: 7 maps / 31 events / 58 dialogue lines (all English — the fr_FR locale is only the editor language; the sole French is the Oui/Non test options in the Debug map, so the old meta's [en, fr] is corrected to [en]), 6 transfers. The Coach and Horses inn scene has real substance: branching dialogue, a card game with Phillipe Descartes, a completable coach-hire/haggling transaction (36 shillings, price variable), and implemented dice-roll skill tests (partySkillTest with Roll SL / success / critical success / critical failure, Winds of Magic rolls in hand-written JS). But 3 maps are empty (upstairs/annex), the other 3 of 4 B1C1 quest lines are never set, the haggling-failure branch has TODO placeholders, the start map is the Debug map, and there is no departure or ending — so contentType is demo. The campaign's fame is not counted toward this adaptation. nsfw false (alcohol and gambling references only; recorded in warnings). Translated titles are translator-supplied literal renderings, not official titles. Rating blank; popularity 2.",
+      "release": {
+        "date": "2024-09-14"
+      },
+      "translatedTitles": {
+        "zh-Hans": "战锤：内敌",
+        "ja": "ウォーハンマー：ジ・エネミー・ウィズイン"
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "《Warhammer - The Enemy Within》是战锤奇幻角色扮演著名战役《The Enemy Within》第一章「Wanted: Bold Adventurers」的同人 RPG Maker 改编。可玩的 demo 只有 Coach and Horses 旅店的一晚：与住客交谈、与 Phillipe Descartes 玩纸牌、用战锤式的骰子判定雇佣车夫 Gunnar 与 Hultz；章节其余部分尚未实现。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "A fan-made RPG Maker adaptation of the opening chapter ('Wanted: Bold Adventurers') of the Warhammer Fantasy Roleplay campaign The Enemy Within. The playable demo covers a single evening at the Coach and Horses inn: talk to the inn's guests, play cards with Phillipe Descartes, and hire coachmen Gunnar and Hultz with WFRP-style dice-roll skill tests — but the rest of the chapter is not yet implemented.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "『Warhammer - The Enemy Within』は、ウォーハンマー・ファンタジー・ロールプレイの名作キャンペーン『The Enemy Within』第1章「Wanted: Bold Adventurers」のファンメイドRPGツクール作品。遊べるデモは Coach and Horses 亭での一夜のみで、宿泊客との会話、Phillipe Descartes とのカードゲーム、ダイスロール判定による御者 Gunnar と Hultz の雇用が可能だが、章の残りは未実装である。",
+          "editorialStatus": "draft"
+        }
+      },
+      "externalLinks": [
+        {
+          "url": "https://github.com/Darius1325/the-enemy-within",
+          "type": "source",
+          "label": "GitHub source repository"
+        },
+        {
+          "url": "https://rlyehreviews.blogspot.com/2019/11/tew-enemy-within.html",
+          "type": "other",
+          "label": "The Enemy Within campaign background (tabletop, not this adaptation)"
+        },
+        {
+          "url": "https://burnafterrunningrpg.com/2022/04/23/three-terrifying-pubs-a-deep-dive-of-mistaken-identity-from-the-enemy-within-part-1/",
+          "type": "other",
+          "label": "Mistaken Identity session analysis (campaign background)"
+        },
+        {
+          "url": "https://anyflip.com/jolkg/uoem/basic",
+          "type": "other",
+          "label": "Enemy in Shadows contents (campaign background)"
+        },
+        {
+          "url": "https://webrpg.org/Darius1325-the-enemy-within/",
+          "type": "other",
+          "label": "WebRPG play page"
+        }
+      ],
+      "contentAdvisory": {
+        "nsfw": false,
+        "warnings": [
+          "alcohol and gambling references"
+        ]
+      }
     }
   }
 }
