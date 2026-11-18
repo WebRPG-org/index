@@ -34172,18 +34172,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/PlumeLumyn-Welcome-to-Red-Zone/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "minigame"
-      ],
-      "languages": [
-        "en",
-        "fr"
-      ],
-      "nsfw": false,
+      "gameSlug": "welcome-to-red-zone",
+      "nsfw": true,
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-12"
+      "reviewedAt": "2026-11-12",
+      "reviewedSourceHeadSha": "fa25303df2b071e82b4fceb9640867dd373811f4"
     }
   },
   {
@@ -34228,17 +34221,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/athillaazka-What-A-Roll/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg"
-      ],
-      "languages": [
-        "en"
-      ],
+      "gameSlug": "what-a-roll-act-1",
       "nsfw": false,
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-12"
+      "reviewedAt": "2026-11-12",
+      "reviewedSourceHeadSha": "fe3b61db86b00d32c11f9c53763207dc6936dc8a"
     }
   },
   {
@@ -34266,18 +34253,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/leeashlee-what-happened-here/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "adventure",
-        "horror"
-      ],
-      "languages": [
-        "en"
-      ],
+      "gameSlug": "what-happened-here",
       "nsfw": false,
       "playable": true,
-      "popularity": 3,
-      "rating": 5,
-      "reviewedAt": "2026-11-12"
+      "reviewedAt": "2026-11-12",
+      "reviewedSourceHeadSha": "231c8d6487e8be1bd7e2ee1539e62aaf65556e3a"
     }
   },
   {
@@ -34410,18 +34390,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/tomoshibi06-XmasMaze/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "adventure"
-      ],
-      "languages": [
-        "en",
-        "ja"
-      ],
+      "gameSlug": "xmas-maze",
       "nsfw": false,
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-12"
+      "reviewedAt": "2026-11-12",
+      "reviewedSourceHeadSha": "5870883b25f7e0e31bdfd93956f1eec3f50574cc"
     }
   },
   {
@@ -34489,18 +34462,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/SoupcanUBG-Yesterdays-Meat/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg",
-        "horror"
-      ],
-      "languages": [
-        "en"
-      ],
+      "gameSlug": "yesterdays-meat",
       "nsfw": false,
       "playable": true,
-      "popularity": 3,
-      "rating": 5,
-      "reviewedAt": "2026-11-12"
+      "reviewedAt": "2026-11-12",
+      "reviewedSourceHeadSha": "0619c0711092007b4c06186e798820626929e7ad"
     }
   },
   {
@@ -34571,18 +34537,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/PlumeLumyn-You-gonna-be-eaten-by-a-fish/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "minigame"
-      ],
-      "languages": [
-        "en",
-        "fr"
-      ],
+      "gameSlug": "you-gonna-be-eaten-by-a-fish",
       "nsfw": false,
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-12"
+      "reviewedAt": "2026-11-12",
+      "reviewedSourceHeadSha": "bbb7f3b8fe9687021319980fa2f1366e50ca21ff"
     }
   },
   {
@@ -34612,18 +34571,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/PlumeLumyn-You-gonna-have-a-Genophobia/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "minigame"
-      ],
-      "languages": [
-        "en",
-        "fr"
-      ],
+      "gameSlug": "you-gonna-have-a-genophobia",
       "nsfw": false,
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-12"
+      "reviewedAt": "2026-11-12",
+      "reviewedSourceHeadSha": "94bec6713df89bc65deeb5b7c5565053c8f81f79"
     }
   },
   {
@@ -34653,19 +34605,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/frogteapot-Your-Turn-to-Die/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "adventure",
-        "horror",
-        "mystery"
-      ],
-      "languages": [
-        "ru"
-      ],
+      "gameSlug": "your-turn-to-die",
       "nsfw": false,
       "playable": true,
-      "popularity": 9,
-      "rating": 9,
-      "reviewedAt": "2026-11-07"
+      "reviewedAt": "2026-11-07",
+      "reviewedSourceHeadSha": "f2ba165f304a152fa8b7c21a5b628b1a1c83d53c"
     }
   },
   {
@@ -34692,18 +34636,9 @@
     "reachabilityDetail": "https://webrpg.org/Kuroeks-Kuroeks.github.io/ served an RPG Maker entry point and its startup resources",
     "processedHeadSha": "3ba6147a72e2112d2eec9de7efac2bcc93d0b7ac",
     "meta": {
-      "genres": [
-        "adventure",
-        "horror",
-        "mystery"
-      ],
-      "languages": [
-        "it"
-      ],
+      "gameSlug": "your-turn-to-die",
       "nsfw": false,
       "playable": true,
-      "popularity": 9,
-      "rating": 9,
       "reviewedAt": "2026-11-07"
     }
   },
@@ -34732,18 +34667,11 @@
     "sourceHeadSha": "bba22cb2da48ae6ed4495f34a2c186edea25d3fa",
     "processedHeadSha": "455e46508c99a95bfefb337f01841273c0580ff1",
     "meta": {
-      "genres": [
-        "rpg",
-        "mystery"
-      ],
-      "languages": [
-        "en"
-      ],
+      "gameSlug": "yure-party",
       "nsfw": false,
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-12"
+      "reviewedAt": "2026-11-12",
+      "reviewedSourceHeadSha": "bba22cb2da48ae6ed4495f34a2c186edea25d3fa"
     },
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/Thermaplates-Yure_Party/ served an RPG Maker entry point and its startup resources"
@@ -34773,18 +34701,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/LuisAugusto2005-Cheeesss/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "strategy"
-      ],
-      "languages": [
-        "pt",
-        "en"
-      ],
+      "gameSlug": "zadrez",
       "nsfw": false,
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-12"
+      "reviewedAt": "2026-11-12",
+      "reviewedSourceHeadSha": "c876572714a0382dd7a10b61acd5e016e148c3ab"
     }
   },
   {
@@ -34814,18 +34735,8 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/WildCodeSchool-2022-03-js-laloupe-quadri-force-p2/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "adventure",
-        "fantasy"
-      ],
-      "languages": [
-        "en",
-        "fr"
-      ],
       "nsfw": false,
-      "playable": true,
-      "popularity": 2,
-      "rating": 5,
+      "playable": false,
       "reviewedAt": "2026-11-12"
     }
   },
@@ -34856,17 +34767,8 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/andredarcie-zero-to-one/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "adventure"
-      ],
-      "languages": [
-        "en",
-        "pt"
-      ],
       "nsfw": false,
-      "playable": true,
-      "popularity": 2,
-      "rating": 5,
+      "playable": false,
       "reviewedAt": "2026-11-12"
     }
   },

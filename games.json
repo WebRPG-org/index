@@ -27028,6 +27028,1099 @@
           "alcohol and gambling references"
         ]
       }
+    },
+    "welcome-to-red-zone": {
+      "assessedAt": "2026-11-19",
+      "assessmentNote": "No external traces found (multiple searches in English and French return only unrelated 'Red Zone' games and media; no Steam/itch/wiki/review record). In-repo: 348 maps / 7736 events / 9880 dialogue lines / 1345 transfers — a huge French comedy RPG with a quest log, day/night cycle, crafting and professions, a casino and minigames, Good/Bad endings, Credits and New Game+/++; the final boss is Thanos presenting 'la bite cosmique' (the cosmic dick) with dialogue about impregnating the cosmos, galactic semen and testicles, so nsfw is true (crude sexual humor, not pornographic). The 'HotVer' variant maps (ASMR dungeon, tower) contain no dialogue and no sexual keyword hits. Repo 0 stars / 2 forks, single upload 2023-01-08; rating blank; popularity 2.",
+      "assessmentSources": [
+        "https://github.com/PlumeLumyn/Welcome-to-Red-Zone",
+        "https://webrpg.org/PlumeLumyn-Welcome-to-Red-Zone/"
+      ],
+      "contentAdvisory": {
+        "nsfw": true,
+        "warnings": [
+          "crude sexual humor: the final boss is a talking giant penis ('la bite cosmique') with dialogue about impregnating the cosmos, galactic semen and testicles, plus a nudity joke ('J'suis à poil !')",
+          "profanity"
+        ]
+      },
+      "developers": [
+        {
+          "name": "PlumeLumyn",
+          "url": "https://github.com/PlumeLumyn"
+        }
+      ],
+      "editorial": {
+        "qualityFlags": [
+          "description-unverified"
+        ],
+        "sources": [
+          "https://github.com/PlumeLumyn/Welcome-to-Red-Zone",
+          "https://webrpg.org/PlumeLumyn-Welcome-to-Red-Zone/"
+        ],
+        "status": "draft"
+      },
+      "externalLinks": [
+        {
+          "label": "GitHub source repository",
+          "type": "source",
+          "url": "https://github.com/PlumeLumyn/Welcome-to-Red-Zone"
+        },
+        {
+          "label": "WebRPG play page",
+          "type": "other",
+          "url": "https://webrpg.org/PlumeLumyn-Welcome-to-Red-Zone/"
+        }
+      ],
+      "instances": [
+        {
+          "id": "plumelumyn-welcome-to-red-zone",
+          "languages": [
+            "en",
+            "fr"
+          ],
+          "nsfw": true,
+          "title": "Welcome to Red Zone!",
+          "type": "internal"
+        }
+      ],
+      "introductions": {
+        "en": {
+          "editorialStatus": "draft",
+          "summary": "A huge French comedy RPG: the player returns to Oujnish Land to stop Thanos, whose plan is to 'fertilize the cosmos', travelling through towns, dungeons, a casino and an airship, completing quests from the quest log, and reaching a Good or Bad ending with New Game+ afterwards."
+        },
+        "ja": {
+          "editorialStatus": "draft",
+          "summary": "フランス語の大型コメディRPG。プレイヤーはウジュニッシュ・ランドに戻り、「宇宙を受精させる」ことを企むサノスを止めるため、街やダンジョン、カジノ、飛行船を巡り、クエストをこなしながらグッド／バッドエンディングへと向かい、ニューゲーム＋も用意されている。"
+        },
+        "zh-Hans": {
+          "editorialStatus": "draft",
+          "summary": "法语大型喜剧 RPG：玩家回到 Oujnish Land，对抗企图“使宇宙受孕”的 Thanos，穿越城镇、地牢、赌场与空中飞艇，完成任务系统中的诸多委托，最终迎来好结局或坏结局，并可开启二周目。"
+        }
+      },
+      "media": {
+        "cover": "https://webrpg.org/PlumeLumyn-Welcome-to-Red-Zone/cover.png"
+      },
+      "originalTitle": "Welcome to Red Zone!",
+      "popularity": 2,
+      "release": {
+        "date": "2023-01-08"
+      },
+      "schemaVersion": 1,
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "slug": "welcome-to-red-zone",
+      "taxonomy": {
+        "contentType": "full-game",
+        "genres": [
+          "rpg"
+        ],
+        "mechanics": [
+          "quest system",
+          "day/night cycle",
+          "crafting and professions",
+          "casino and minigames",
+          "turn-based battles",
+          "new game plus"
+        ],
+        "themes": [
+          "comedy",
+          "fantasy"
+        ]
+      },
+      "translatedTitles": {
+        "ja": "レッドゾーンへようこそ",
+        "zh-Hans": "欢迎来到红区！"
+      }
+    },
+    "what-a-roll-act-1": {
+      "aliases": {
+        "en": [
+          "What A Roll"
+        ]
+      },
+      "assessedAt": "2026-11-19",
+      "assessmentNote": "No external traces beyond the author's own pages (README, Notion GDD, YouTube demo, Google Drive; web searches return only unrelated dice games). In-repo: 7 maps / 51 events / 141 dialogue lines — a tutorial chapter (Tutorial Town, Chief's House, Kayla's Tent) with D&D-style dice combat, a village raid and a mimic pet, ending 'To Be Continued...... / To be continued in the next act...'; the Ruins map has no dialogue and only transfers back to town, so contentType is demo. The README states 'The game is in non-complete version' and the developer is Roll4Impact. Repo 1 star / 2 forks; rating blank; popularity 2.",
+      "assessmentSources": [
+        "https://github.com/athillaazka/What-A-Roll",
+        "https://spotted-thrush-869.notion.site/Game-Design-Document-WhatARoll-12992e40b5d6803096d6deea32daa726",
+        "https://youtu.be/a82nOEF4UzY"
+      ],
+      "contentAdvisory": {
+        "nsfw": false
+      },
+      "developers": [
+        {
+          "name": "Roll4Impact"
+        }
+      ],
+      "editorial": {
+        "qualityFlags": [
+          "description-unverified"
+        ],
+        "sources": [
+          "https://github.com/athillaazka/What-A-Roll",
+          "https://spotted-thrush-869.notion.site/Game-Design-Document-WhatARoll-12992e40b5d6803096d6deea32daa726",
+          "https://youtu.be/a82nOEF4UzY"
+        ],
+        "status": "draft"
+      },
+      "externalLinks": [
+        {
+          "label": "GitHub source repository",
+          "type": "source",
+          "url": "https://github.com/athillaazka/What-A-Roll"
+        },
+        {
+          "label": "Game Design Document (Notion)",
+          "type": "other",
+          "url": "https://spotted-thrush-869.notion.site/Game-Design-Document-WhatARoll-12992e40b5d6803096d6deea32daa726"
+        },
+        {
+          "label": "Video demonstration (YouTube)",
+          "type": "other",
+          "url": "https://youtu.be/a82nOEF4UzY"
+        },
+        {
+          "label": "WebRPG play page",
+          "type": "other",
+          "url": "https://webrpg.org/athillaazka-What-A-Roll/"
+        }
+      ],
+      "instances": [
+        {
+          "id": "athillaazka-what-a-roll",
+          "languages": [
+            "en"
+          ],
+          "nsfw": false,
+          "title": "What A Roll Act 1",
+          "type": "internal"
+        }
+      ],
+      "introductions": {
+        "en": {
+          "editorialStatus": "draft",
+          "summary": "A post-apocalyptic turn-based RPG, Act 1: years after the world ended, people are rebuilding, and the player is sent out into the wasteland to secure a source of clean water, fighting with dice-based combat. This act is a tutorial chapter in Tutorial Town — finding a lost dog, taming a mimic pet and defending the village from raiders — ending with 'To Be Continued'."
+        },
+        "ja": {
+          "editorialStatus": "draft",
+          "summary": "終末世界を舞台にしたターン制RPGの第1幕。世界が終わって数年、人々は再建を進めており、プレイヤーは集落のためにきれいな水の水源を確保すべく荒野へ送り出され、ダイスロールの戦闘で生き延びる。本幕はチュートリアル章で、チュートリアルタウンでの迷い犬探し、ミミックのペット化、略奪者からの村の防衛を経て「つづく」で締めくくられる。"
+        },
+        "zh-Hans": {
+          "editorialStatus": "draft",
+          "summary": "末世题材回合制 RPG 第一幕：世界终结多年后，人们正在重建家园，玩家受命外出为聚落寻找干净水源，在荒原上以掷骰决定的战斗求生。本幕为教程章节，在教程小镇完成寻犬、收服拟态怪宠物与抵御掠夺者袭击后，以“未完待续”收尾。"
+        }
+      },
+      "media": {
+        "cover": "https://webrpg.org/athillaazka-What-A-Roll/cover.png"
+      },
+      "originalTitle": "What A Roll Act 1",
+      "popularity": 2,
+      "release": {
+        "date": "2024-10-28"
+      },
+      "schemaVersion": 1,
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "slug": "what-a-roll-act-1",
+      "taxonomy": {
+        "contentType": "demo",
+        "genres": [
+          "rpg"
+        ],
+        "mechanics": [
+          "dice-roll combat",
+          "D&D-style rolls",
+          "equipment progression"
+        ],
+        "themes": [
+          "sci-fi",
+          "survival"
+        ]
+      },
+      "translatedTitles": {
+        "ja": "ワット・ア・ロール 第1幕",
+        "zh-Hans": "好一掷 第一幕"
+      }
+    },
+    "what-happened-here": {
+      "assessedAt": "2026-11-19",
+      "assessmentNote": "itch.io verified (Noel Tugy / Muna Games Studio): released Jul 21, 2025, rated 4.1/5 from 9 ratings — too thin to convert, so rating is blank; also on Steam (Jul 23, 2025, free to play). In-repo: 17 maps / 432 events / 1663 dialogue lines / 68 transfers — three puzzles (chess, garden maze, kitchen), multiple endings and a secret room; the devlog notes the full secret route arrives in a later update. nsfw false (no keyword hits; the single 'adult' hit is the line 'to be an adult'). Popularity 3.",
+      "assessmentSources": [
+        "https://noeltugy.itch.io/what-happened-here",
+        "https://github.com/leeashlee/what-happened-here",
+        "https://store.steampowered.com/curator/45690786"
+      ],
+      "contentAdvisory": {
+        "nsfw": false
+      },
+      "developers": [
+        {
+          "name": "Noel Tugy",
+          "url": "https://noeltugy.itch.io"
+        }
+      ],
+      "editorial": {
+        "qualityFlags": [
+          "description-unverified"
+        ],
+        "sources": [
+          "https://noeltugy.itch.io/what-happened-here",
+          "https://github.com/leeashlee/what-happened-here",
+          "https://store.steampowered.com/curator/45690786"
+        ],
+        "status": "draft"
+      },
+      "externalLinks": [
+        {
+          "label": "itch.io page",
+          "type": "store",
+          "url": "https://noeltugy.itch.io/what-happened-here"
+        },
+        {
+          "label": "GitHub source repository",
+          "type": "source",
+          "url": "https://github.com/leeashlee/what-happened-here"
+        },
+        {
+          "label": "Author's website (web version linked from itch.io)",
+          "type": "official",
+          "url": "https://www.ashleehee.com"
+        },
+        {
+          "label": "WebRPG play page",
+          "type": "other",
+          "url": "https://webrpg.org/leeashlee-what-happened-here/"
+        }
+      ],
+      "instances": [
+        {
+          "id": "leeashlee-what-happened-here",
+          "languages": [
+            "en"
+          ],
+          "nsfw": false,
+          "title": "What Happened Here!",
+          "type": "internal"
+        }
+      ],
+      "introductions": {
+        "en": {
+          "editorialStatus": "draft",
+          "summary": "A short adventure horror game (around 30–45 minutes): Elly, 20, comes home from work to find her house completely changed, her roommates nowhere in sight, and herself locked inside. Help her solve three puzzles — chess, a garden maze and the kitchen — escape the house and find the truth; multiple endings and a secret room included."
+        },
+        "ja": {
+          "editorialStatus": "draft",
+          "summary": "短編アドベンチャーホラー（約30～45分）。20歳のエリーが仕事から帰ると、家はすっかり様変わりし、ルームメイトの姿はなく、自分は家に閉じ込められていた。チェス、庭の迷路、キッチンの3つの謎を解き、家から脱出して真相を突き止める。マルチエンディングと秘密の部屋あり。"
+        },
+        "zh-Hans": {
+          "editorialStatus": "draft",
+          "summary": "短篇冒险恐怖游戏（约 30–45 分钟）：20 岁的 Elly 下班回家，发现家里完全变了样、室友不知所踪，还被锁在了屋里。玩家要协助她解开国际象棋、花园迷宫与厨房三道谜题，逃出房子并查明真相；含多结局与密室。"
+        }
+      },
+      "media": {
+        "cover": null
+      },
+      "originalTitle": "What Happened Here!",
+      "popularity": 3,
+      "publishers": [
+        {
+          "name": "Muna Games Studio"
+        }
+      ],
+      "release": {
+        "date": "2025-07-21"
+      },
+      "schemaVersion": 1,
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "slug": "what-happened-here",
+      "taxonomy": {
+        "contentType": "full-game",
+        "genres": [
+          "adventure",
+          "puzzle"
+        ],
+        "mechanics": [
+          "chess puzzle",
+          "garden maze",
+          "cooking puzzle",
+          "multiple endings",
+          "secret room"
+        ],
+        "themes": [
+          "horror",
+          "mystery"
+        ]
+      },
+      "translatedTitles": {
+        "ja": "ここで何が起こったの！",
+        "zh-Hans": "这里发生了什么！"
+      }
+    },
+    "xmas-maze": {
+      "assessedAt": "2026-11-19",
+      "assessmentNote": "No external traces found (searches return only unrelated Christmas mazes; no Steam/itch/wiki record). In-repo: 30 maps / 281 events / 286 dialogue lines / 76 transfers — a Japanese maze game: demon king Noir sets a dungeon-maker trap on Christmas to steal Forte's pudding, then 24 Christmas dungeons with battles, a boss and an exit, plus a recollection room. Tentacle enemies grab and tickle/lick the characters ('don't lick me', tickled until exhausted) — suggestive but not explicit, so nsfw stays false with a warning. Old meta languages [en, ja] corrected to [ja]: no English dialogue exists (only internal labels like '00_Noir'). Repo 1 star / 3 forks, created 2018-12-29; rating blank; popularity 2.",
+      "assessmentSources": [
+        "https://github.com/tomoshibi06/XmasMaze",
+        "https://webrpg.org/tomoshibi06-XmasMaze/"
+      ],
+      "contentAdvisory": {
+        "nsfw": false,
+        "warnings": [
+          "suggestive tickle content: tentacle enemies grab and lick the characters (dialogue: 'don't lick me', characters tickled until exhausted)"
+        ]
+      },
+      "developers": [
+        {
+          "name": "tomoshibi06",
+          "url": "https://github.com/tomoshibi06"
+        }
+      ],
+      "editorial": {
+        "qualityFlags": [
+          "description-unverified"
+        ],
+        "sources": [
+          "https://github.com/tomoshibi06/XmasMaze",
+          "https://webrpg.org/tomoshibi06-XmasMaze/"
+        ],
+        "status": "draft"
+      },
+      "externalLinks": [
+        {
+          "label": "GitHub source repository",
+          "type": "source",
+          "url": "https://github.com/tomoshibi06/XmasMaze"
+        },
+        {
+          "label": "WebRPG play page",
+          "type": "other",
+          "url": "https://webrpg.org/tomoshibi06-XmasMaze/"
+        }
+      ],
+      "instances": [
+        {
+          "id": "tomoshibi06-xmasmaze",
+          "languages": [
+            "ja"
+          ],
+          "nsfw": false,
+          "title": "Xmas Maze",
+          "type": "internal"
+        }
+      ],
+      "introductions": {
+        "en": {
+          "editorialStatus": "draft",
+          "summary": "A Japanese maze adventure: on Christmas Day, demon king Noir sets a dungeon-maker trap to steal Forte's pudding. Fight through 24 Christmas dungeons, solve their tricks and reach the exit; a recollection room records the enemies you faced."
+        },
+        "ja": {
+          "editorialStatus": "draft",
+          "summary": "日本語の迷宮アドベンチャー。クリスマスの日、魔王ノワールはフォルテのプリンを奪うためダンジョンメーカーを仕掛ける。24のクリスマスダンジョンを戦いながら抜け、出口を目指す。クリア後には戦った敵を振り返る回想部屋がある。"
+        },
+        "zh-Hans": {
+          "editorialStatus": "draft",
+          "summary": "日语迷宫冒险游戏：圣诞节这天，魔王诺瓦尔设下地牢制造机，想夺走 Forte 的布丁；玩家要穿越 24 座圣诞地牢，边战斗边解开机关、抵达出口，通关后还有记录着历战敌人的回想房间。"
+        }
+      },
+      "media": {
+        "cover": "https://webrpg.org/tomoshibi06-XmasMaze/cover.png"
+      },
+      "originalTitle": "Xmas Maze",
+      "popularity": 2,
+      "release": {
+        "date": "2018-12-29"
+      },
+      "schemaVersion": 1,
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "slug": "xmas-maze",
+      "taxonomy": {
+        "contentType": "full-game",
+        "genres": [
+          "adventure",
+          "rpg"
+        ],
+        "mechanics": [
+          "maze navigation",
+          "turn-based battles",
+          "boss rush recollection room"
+        ],
+        "themes": [
+          "fantasy",
+          "comedy"
+        ]
+      },
+      "translatedTitles": {
+        "ja": "クリスマスメイズ",
+        "zh-Hans": "圣诞迷宫"
+      }
+    },
+    "yesterdays-meat": {
+      "assessedAt": "2026-11-19",
+      "assessmentNote": "Found on itch.io (Moge Games; tagline 'Discover all of Kaori's secrets') and IGDB/Kotaku with a matching synopsis; no Steam page and no review scores found. In-repo: 44 maps / 283 events / 641 dialogue lines / 75 transfers, ending verified (return to title after the finale). Chinese/Japanese titles are translator-supplied, not official. Repo 0 stars; rating blank; popularity 3.",
+      "assessmentSources": [
+        "https://kotaku.com/games/yesterdays-meat",
+        "https://itch.io/games/free/tag-survival-horror?page=3",
+        "https://github.com/NotReallyRx/Yesterdays-Meat"
+      ],
+      "contentAdvisory": {
+        "nsfw": false,
+        "warnings": [
+          "psychological horror",
+          "implied murder / dead bodies"
+        ]
+      },
+      "developers": [
+        {
+          "name": "Moge Games",
+          "url": "https://kotaku.com/games/yesterdays-meat"
+        }
+      ],
+      "editorial": {
+        "qualityFlags": [
+          "description-unverified"
+        ],
+        "sources": [
+          "https://kotaku.com/games/yesterdays-meat",
+          "https://itch.io/games/free/tag-survival-horror?page=3",
+          "https://github.com/NotReallyRx/Yesterdays-Meat"
+        ],
+        "status": "draft"
+      },
+      "externalLinks": [
+        {
+          "label": "Web port source (NotReallyRx)",
+          "type": "source",
+          "url": "https://github.com/NotReallyRx/Yesterdays-Meat"
+        },
+        {
+          "label": "Kotaku / IGDB page",
+          "type": "other",
+          "url": "https://kotaku.com/games/yesterdays-meat"
+        }
+      ],
+      "instances": [
+        {
+          "id": "soupcanubg-yesterdays-meat",
+          "languages": [
+            "en"
+          ],
+          "nsfw": false,
+          "title": "Yesterday's Meat",
+          "type": "internal"
+        }
+      ],
+      "introductions": {
+        "en": {
+          "editorialStatus": "draft",
+          "summary": "Kaori confesses to Tatsuya and the two begin a seemingly perfect relationship — until she invites him to her home, where the warmth curdles. Exploring the house over eight loops, Tatsuya finds pages of Kaori's diary that reveal the secret behind her smile, ending in a confrontation about the bodies she hid. A psychological horror RPG Maker game by Moge Games; this entry is a web port."
+        },
+        "ja": {
+          "editorialStatus": "draft",
+          "summary": "香織が達也に告白し、完璧に見えた交際が始まる。だが香織の家を訪れた達也は、電源コードのないテレビや日記の切れ端など異変に気づく。8枚の日記を手がかりに屋敷を探索し、香織の微笑みの裏に隠された秘密と向き合う心理ホラーRPG。原作は Moge Games の itch.io 作品で、本項目はウェブ移植版。"
+        },
+        "zh-Hans": {
+          "editorialStatus": "draft",
+          "summary": "少女香织向达也告白，两人开始了一段看似完美的恋情。某天香织邀请达也到她家做客，温馨的气氛却迅速变质：达也在屋里发现了香织的日记残页，八张笔记逐步揭开她微笑背后的秘密，最终与香织对峙。RPG Maker 制作的心理恐怖游戏，原作为 Moge Games 的 itch.io 作品，本条目为网页移植版。"
+        }
+      },
+      "media": {
+        "cover": "https://webrpg.org/SoupcanUBG-Yesterdays-Meat/cover.png"
+      },
+      "originalTitle": "Yesterday’s Meat",
+      "popularity": 3,
+      "schemaVersion": 1,
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "slug": "yesterdays-meat",
+      "taxonomy": {
+        "contentType": "full-game",
+        "genres": [
+          "rpg"
+        ],
+        "mechanics": [
+          "exploration",
+          "note-collecting",
+          "diary-reading",
+          "story-driven"
+        ],
+        "themes": [
+          "horror",
+          "romance",
+          "mystery"
+        ]
+      },
+      "translatedTitles": {
+        "ja": "イエスタデイズ・ミート",
+        "zh-Hans": "昨日的肉"
+      }
+    },
+    "you-gonna-be-eaten-by-a-fish": {
+      "assessedAt": "2026-11-19",
+      "assessmentNote": "No Steam/itch/wiki/review trace found; only the author's repo and the webrpg.org page exist. Content verified in data: the modified rmmz_scenes.js boots straight into a Troop 141 bullet-hell battle (BattleManager.setup(141), battle-test mode, battleback Space); Troop 141 has difficulty + phase select and 1%/20%/50% escalation with a BGM per phase; Map001 is an empty stage and is never loaded. Deployed files md5-identical to GitHub HEAD. Repo 0 stars; rating blank; popularity 1.",
+      "assessmentSources": [
+        "https://github.com/PlumeLumyn/You-gonna-be-eaten-by-a-fish",
+        "https://webrpg.org/PlumeLumyn-You-gonna-be-eaten-by-a-fish/"
+      ],
+      "contentAdvisory": {
+        "nsfw": false
+      },
+      "developers": [
+        {
+          "name": "PlumeLumyn",
+          "url": "https://github.com/PlumeLumyn/You-gonna-be-eaten-by-a-fish"
+        }
+      ],
+      "editorial": {
+        "qualityFlags": [
+          "description-unverified"
+        ],
+        "sources": [
+          "https://github.com/PlumeLumyn/You-gonna-be-eaten-by-a-fish",
+          "https://webrpg.org/PlumeLumyn-You-gonna-be-eaten-by-a-fish/"
+        ],
+        "status": "draft"
+      },
+      "externalLinks": [
+        {
+          "label": "Source repository",
+          "type": "source",
+          "url": "https://github.com/PlumeLumyn/You-gonna-be-eaten-by-a-fish"
+        },
+        {
+          "label": "Play on webrpg.org",
+          "type": "other",
+          "url": "https://webrpg.org/PlumeLumyn-You-gonna-be-eaten-by-a-fish/"
+        }
+      ],
+      "instances": [
+        {
+          "id": "plumelumyn-you-gonna-be-eaten-by-a-fish",
+          "languages": [
+            "en",
+            "fr"
+          ],
+          "nsfw": false,
+          "title": "You gonna be eaten by a fish",
+          "type": "internal"
+        }
+      ],
+      "introductions": {
+        "en": {
+          "editorialStatus": "draft",
+          "summary": "A single-boss bullet-hell minigame by PlumeLumyn: an Undertale-style dodging battle against Teh Fedof. Pick a difficulty (Normal, invincible / Lunatic, no-hit) and a phase (1/2/3), then survive escalating bullet patterns as the boss raises his power from 1% to 20% to 50%. One empty map, no story — the whole game is this one boss fight."
+        },
+        "ja": {
+          "editorialStatus": "draft",
+          "summary": "PlumeLumyn による単発ボス弾幕ミニゲーム。Teh Fedof との Undertale 風弾幕回避バトルで、難易度（Normal・無敵 / Lunatic・ノーヒット）とフェーズ（第1〜第3）を選んで挑む。ボスは出力を1%から20%、50%へと上げ、弾幕とBGMが切り替わる。マップは1枚のみで、内容はこのボス戦そのものである。"
+        },
+        "zh-Hans": {
+          "editorialStatus": "draft",
+          "summary": "作者 PlumeLumyn 的单人弹幕小游戏：与角色 Teh Fedof 进行一场 Undertale 风格的弹幕躲避 Boss 战。可选难度（Normal 无敌 / Lunatic 无伤）与阶段（第 1 / 2 / 3 阶段），Boss 会逐步提升出力，从 1% 到 20% 再到 50%，弹幕随之增强。没有传统地图与剧情，全部玩法都在这一场 Boss 战里。"
+        }
+      },
+      "media": {
+        "cover": "https://webrpg.org/PlumeLumyn-You-gonna-be-eaten-by-a-fish/cover.png"
+      },
+      "originalTitle": "You gonna be eaten by a fish",
+      "popularity": 1,
+      "schemaVersion": 1,
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "slug": "you-gonna-be-eaten-by-a-fish",
+      "taxonomy": {
+        "contentType": "full-game",
+        "genres": [
+          "minigame"
+        ],
+        "mechanics": [
+          "bullet-hell dodging",
+          "boss battle",
+          "difficulty select",
+          "phase select"
+        ],
+        "themes": [
+          "comedy"
+        ]
+      },
+      "translatedTitles": {
+        "zh-Hans": "你会被一条鱼吃掉"
+      }
+    },
+    "you-gonna-have-a-genophobia": {
+      "assessedAt": "2026-11-19",
+      "assessmentNote": "No Steam/itch/wiki/review trace found for this title (search hits are the unrelated Steam game Gynophobia); only the author's repo and the webrpg.org page exist. Content verified in data: the modified rmmz_scenes.js boots straight into a Troop 121 bullet-hell battle (BattleManager.setup(121), battle-test mode, battleback RMMV_Sky) against Paper Professeur Genos, with difficulty + mode + 16 attack-pattern select and BGM genalovaylon; the load test observed the same flow (Normal/Lunatic, Combat complet/Entraînement, Undertale-style blue-heart dodging). Troop 141 (Teh Fedof, 100% fake-BSOD finale) is present in the data but is not the boot troop, so it is not described as this game's content. The title puns on the boss name Genos. Repo 0 stars; rating blank; popularity 1.",
+      "assessmentSources": [
+        "https://github.com/PlumeLumyn/You-gonna-have-a-Genophobia",
+        "https://webrpg.org/PlumeLumyn-You-gonna-have-a-Genophobia/"
+      ],
+      "contentAdvisory": {
+        "nsfw": false
+      },
+      "developers": [
+        {
+          "name": "PlumeLumyn",
+          "url": "https://github.com/PlumeLumyn/You-gonna-have-a-Genophobia"
+        }
+      ],
+      "editorial": {
+        "qualityFlags": [
+          "description-unverified"
+        ],
+        "sources": [
+          "https://github.com/PlumeLumyn/You-gonna-have-a-Genophobia",
+          "https://webrpg.org/PlumeLumyn-You-gonna-have-a-Genophobia/"
+        ],
+        "status": "draft"
+      },
+      "externalLinks": [
+        {
+          "label": "Source repository",
+          "type": "source",
+          "url": "https://github.com/PlumeLumyn/You-gonna-have-a-Genophobia"
+        },
+        {
+          "label": "Play on webrpg.org",
+          "type": "other",
+          "url": "https://webrpg.org/PlumeLumyn-You-gonna-have-a-Genophobia/"
+        }
+      ],
+      "instances": [
+        {
+          "id": "plumelumyn-you-gonna-have-a-genophobia",
+          "languages": [
+            "en",
+            "fr"
+          ],
+          "nsfw": false,
+          "title": "You gonna have a Genophobia",
+          "type": "internal"
+        }
+      ],
+      "introductions": {
+        "en": {
+          "editorialStatus": "draft",
+          "summary": "A single-boss bullet-hell minigame by PlumeLumyn: an Undertale-style dodging battle against Paper Professeur Genos. Pick a difficulty (Normal, invincible / Lunatic, no-hit), a mode (full fight or training on a single attack), and one of 16 bullet patterns (Attaque n°1–15 plus the finale), set to the BGM \"genalovaylon\". One empty map, no story — the whole game is this one boss fight. The title is a pun on the boss's name Genos, not on any sexual content."
+        },
+        "ja": {
+          "editorialStatus": "draft",
+          "summary": "PlumeLumyn による単発ボス弾幕ミニゲーム。Paper Professeur Genos との Undertale 風弾幕回避バトルで、難易度（Normal・無敵 / Lunatic・ノーヒット）、モード（フルバトル／単発練習）、攻撃パターン（第1〜第15番＋最終攻撃の全16種）を選んで挑む。BGM は genalovaylon。マップは1枚のみで、内容はこのボス戦そのものである。タイトルはボス名 Genos の駄洒落で、性的な内容はない。"
+        },
+        "zh-Hans": {
+          "editorialStatus": "draft",
+          "summary": "作者 PlumeLumyn 的单人弹幕小游戏：与 Paper Professeur Genos 进行一场 Undertale 风格的弹幕躲避 Boss 战。可选难度（Normal 无敌 / Lunatic 无伤）、模式（完整战斗 / 单招练习）与攻击招式（第 1 至 15 招及最终招式，共 16 种弹幕），BGM 为 genalovaylon。没有传统地图与剧情，全部玩法都在这一场 Boss 战里。标题 Genophobia 是 Boss 名 Genos 的双关玩笑，与性无关。"
+        }
+      },
+      "media": {
+        "cover": "https://webrpg.org/PlumeLumyn-You-gonna-have-a-Genophobia/cover.png"
+      },
+      "originalTitle": "You gonna have a Genophobia",
+      "popularity": 1,
+      "schemaVersion": 1,
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "slug": "you-gonna-have-a-genophobia",
+      "taxonomy": {
+        "contentType": "full-game",
+        "genres": [
+          "minigame"
+        ],
+        "mechanics": [
+          "bullet-hell dodging",
+          "boss battle",
+          "difficulty select",
+          "attack select",
+          "training mode"
+        ],
+        "themes": [
+          "comedy"
+        ]
+      },
+      "translatedTitles": {
+        "zh-Hans": "你会得恐惧症"
+      }
+    },
+    "yure-party": {
+      "assessedAt": "2026-11-19",
+      "assessmentNote": "No Steam/itch/wiki/review trace found (search hits are the unrelated visual novel Yuri Party); only the author's repo and the webrpg.org page exist. In-repo: 8 maps / 48 events / 30 dialogue lines / 12 transfers, 4 battles, no ending (no game-over/return-to-title code), 2 empty unreachable maps — contentType demo (v0.07). Dialogue is Indonesian (all 30 lines); the English title screen/menus are UI only, so old meta languages [en] is corrected to [id]. Chinese/Japanese titles are translator-supplied, not official. Repo 0 stars; rating blank; popularity 2.",
+      "assessmentSources": [
+        "https://github.com/Thermaplates/Yure_Party",
+        "https://webrpg.org/Thermaplates-Yure_Party/"
+      ],
+      "contentAdvisory": {
+        "nsfw": false
+      },
+      "developers": [
+        {
+          "name": "Thermaplates",
+          "url": "https://github.com/Thermaplates"
+        }
+      ],
+      "editorial": {
+        "qualityFlags": [
+          "description-unverified"
+        ],
+        "sources": [
+          "https://github.com/Thermaplates/Yure_Party",
+          "https://webrpg.org/Thermaplates-Yure_Party/"
+        ],
+        "status": "draft"
+      },
+      "externalLinks": [
+        {
+          "label": "Source repository",
+          "type": "source",
+          "url": "https://github.com/Thermaplates/Yure_Party"
+        },
+        {
+          "label": "Play on webrpg.org",
+          "type": "other",
+          "url": "https://webrpg.org/Thermaplates-Yure_Party/"
+        }
+      ],
+      "instances": [
+        {
+          "id": "thermaplates-yure-party",
+          "languages": [
+            "id"
+          ],
+          "nsfw": false,
+          "title": "Yure Party",
+          "type": "internal"
+        }
+      ],
+      "introductions": {
+        "en": {
+          "editorialStatus": "draft",
+          "summary": "An Indonesian supernatural psychological mystery RPG (v0.07 demo): protagonist Nia dies choking and returns as a ghost witch, exploring a mansion and fighting in CTB turn-based battles with QTEs. It features Mbah Karso's street-stall shop, a handmade scrapbook UI and WebGL lighting. Dialogue is in Indonesian; the title screen and menus are in English. Only the opening is playable so far; there is no ending yet."
+        },
+        "ja": {
+          "editorialStatus": "draft",
+          "summary": "インドネシア語の超自然心理ミステリーRPG（v0.07デモ版）。主人公ニアは窒息死の後、幽霊魔女となって屋敷を探索し、CTBターン制バトルとQTEで戦う。ンバ・カルソの屋台店、手作りスクラップブック風UI、WebGLライティングが特徴。対話はインドネシア語、タイトル画面とメニューは英語。序盤のみ遊べ、エンディングは未実装。"
+        },
+        "zh-Hans": {
+          "editorialStatus": "draft",
+          "summary": "印尼语超自然心理悬疑 RPG（v0.07 试玩版）：主角 Nia 在窒息身亡后变成幽灵女巫，在大宅中探索、战斗。采用 CTB 回合制 + QTE 战斗、Mbah Karso 的路边摊商店、手工剪贴簿界面与 WebGL 光照。对白为印尼语，标题画面与菜单为英文。目前仅有开局内容，尚无结局。"
+        }
+      },
+      "media": {
+        "cover": "https://webrpg.org/Thermaplates-Yure_Party/cover.png"
+      },
+      "originalTitle": "Yure Party",
+      "popularity": 2,
+      "schemaVersion": 1,
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "slug": "yure-party",
+      "taxonomy": {
+        "contentType": "demo",
+        "genres": [
+          "rpg"
+        ],
+        "mechanics": [
+          "CTB turn-based battles",
+          "QTE",
+          "exploration",
+          "shop",
+          "bed respawn"
+        ],
+        "themes": [
+          "mystery",
+          "fantasy",
+          "comedy"
+        ]
+      },
+      "translatedTitles": {
+        "ja": "ユーレ・パーティ",
+        "zh-Hans": "幽灵派对"
+      }
+    },
+    "your-turn-to-die": {
+      "aliases": {
+        "en": [
+          "Kimi ga Shine",
+          "Your Turn to Die",
+          "YTTD",
+          "KMGSN"
+        ],
+        "it": [
+          "Mors Tua -Deathgame per Maggioranza-"
+        ],
+        "ja": [
+          "キミガシネ"
+        ],
+        "ru": [
+          "Смертельная Игра -Решением Большинства-"
+        ]
+      },
+      "assessedAt": "2026-11-19",
+      "assessmentNote": "Steam: 4,508 reviews, 97.5% positive (Overwhelmingly Positive), Steambase score 97/100; Wikipedia: over 4.13M plays by Jan 2022, cult following, manga and light-novel adaptations; ScreenRant calls it a 'must-play RPG horror maker game', Rice Digital 'the very best death game I have ever played'. Both forks are fan translations of the same original up to Chapter 3 Part 1-B (Fandom translations table: Russian via VK, Italian 'Mors Tua' via Facebook); in-repo: Russian fork 239 maps / about 34,200 dialogue lines, Italian fork dataSize 43.0MB vs Russian 50.5MB, identical map structure. Story is episodic and still unfinished (latest installment Chapter 3 Part 1-B, 2021-05-30; Steam Early Access since 2023-02-20, about 15 hours, no update in 3+ years) — rating reflects the released chapters, not a completed story.",
+      "assessmentSources": [
+        "https://steambase.io/games/your-turn-to-die-death-game-by-majority/reviews",
+        "https://store.steampowered.com/app/2067780/Your_Turn_To_Die__Death_Game_By_Majority_/",
+        "https://en.wikipedia.org/wiki/Your_Turn_to_Die_-Death_Game_by_Majority-",
+        "https://yourturntodie.fandom.com/wiki/Kimi_ga_Shine:_Tasuketsu_Death_Game",
+        "https://ricedigital.co.uk/why-your-turn-to-die-is-one-of-the-best-death-games/",
+        "https://www.dualshockers.com/your-turn-to-die-death-game-by-majority-danganronpa-distrust/"
+      ],
+      "contentAdvisory": {
+        "nsfw": false,
+        "warnings": [
+          "graphic violent deaths and gore",
+          "psychological horror",
+          "depiction of suicide"
+        ]
+      },
+      "developers": [
+        {
+          "name": "Nankidai"
+        }
+      ],
+      "editorial": {
+        "qualityFlags": [
+          "description-unverified"
+        ],
+        "sources": [
+          "https://store.steampowered.com/app/2067780/Your_Turn_To_Die__Death_Game_By_Majority_/",
+          "https://steambase.io/games/your-turn-to-die-death-game-by-majority/reviews",
+          "https://en.wikipedia.org/wiki/Your_Turn_to_Die_-Death_Game_by_Majority-",
+          "https://yourturntodie.fandom.com/wiki/Kimi_ga_Shine:_Tasuketsu_Death_Game",
+          "https://vgperson.com/games/yourturntodie.htm",
+          "https://github.com/frogteapot/Your-Turn-to-Die",
+          "https://github.com/Kuroeks/Kuroeks.github.io"
+        ],
+        "status": "draft"
+      },
+      "externalLinks": [
+        {
+          "label": "Steam page (Early Access)",
+          "type": "store",
+          "url": "https://store.steampowered.com/app/2067780/Your_Turn_To_Die__Death_Game_By_Majority_/"
+        },
+        {
+          "label": "English translation by vgperson",
+          "type": "other",
+          "url": "https://vgperson.com/games/yourturntodie.htm"
+        },
+        {
+          "label": "Wikipedia",
+          "type": "wiki",
+          "url": "https://en.wikipedia.org/wiki/Your_Turn_to_Die_-Death_Game_by_Majority-"
+        },
+        {
+          "label": "Your Turn to Die Wiki (Fandom)",
+          "type": "community",
+          "url": "https://yourturntodie.fandom.com/wiki/Kimi_ga_Shine:_Tasuketsu_Death_Game"
+        },
+        {
+          "label": "GitHub source repository (Russian translation)",
+          "type": "source",
+          "url": "https://github.com/frogteapot/Your-Turn-to-Die"
+        },
+        {
+          "label": "GitHub source repository (Italian translation)",
+          "type": "source",
+          "url": "https://github.com/Kuroeks/Kuroeks.github.io"
+        },
+        {
+          "label": "WebRPG play page (Russian)",
+          "type": "other",
+          "url": "https://webrpg.org/frogteapot-Your-Turn-to-Die/"
+        },
+        {
+          "label": "WebRPG play page (Italian)",
+          "type": "other",
+          "url": "https://webrpg.org/Kuroeks-Kuroeks.github.io/"
+        }
+      ],
+      "instances": [
+        {
+          "id": "frogteapot-your-turn-to-die",
+          "languages": [
+            "ru"
+          ],
+          "notes": "Russian fan translation (Смертельная Игра -Решением Большинства-); System locale ru_RU, versionId 10885952; 239 maps / 7,948 events / about 34,200 dialogue lines.",
+          "nsfw": false,
+          "title": "Your Turn To Die",
+          "type": "internal"
+        },
+        {
+          "id": "kuroeks-kuroeks-github-io",
+          "languages": [
+            "it"
+          ],
+          "notes": "Italian fan translation (Mors Tua -Deathgame per Maggioranza-); in-game title 'Mors Tua'; System locale ja_JP (engine locale, not the translation language), versionId 67125461. Source repo returns 404 via the GitHub API as of 2026-11-19 (possibly deleted/renamed); the webrpg.org mirror still serves the build.",
+          "nsfw": false,
+          "title": "Mors Tua",
+          "type": "internal"
+        }
+      ],
+      "introductions": {
+        "en": {
+          "editorialStatus": "draft",
+          "summary": "A Japanese episodic horror adventure game: high-school student Sara Chidouin and her friend Joe Tazuna are kidnapped on their way home and forced into a death game in which the participants vote by majority on who dies. First released on 28 August 2017 by manga artist Nankidai, made in RPG Maker MV, translated into English by vgperson, and released on Steam in Early Access on 20 February 2023; later adapted into a manga and a light novel. The story is not yet finished."
+        },
+        "ja": {
+          "editorialStatus": "draft",
+          "summary": "日本のエピソード形式ホラーアドベンチャーゲーム。帰宅途中の女子高生サラ・チドウインと友人ジョー・タヅナは拉致され、多数決で誰が死ぬかを決めるデスゲームへの参加を強いられる。2017年8月28日にナンキダイにより初公開、RPGツクールMV製、英訳はvgperson、2023年2月20日にSteamで早期アクセスを開始。漫画化・ライトノベル化もされたが、物語は未完である。"
+        },
+        "zh-Hans": {
+          "editorialStatus": "draft",
+          "summary": "日本免费连载式恐怖冒险游戏：高中生主角与好友深夜归家途中被绑架，醒来后被迫参加一场以多数投票决定谁去死的死亡游戏。2017 年 8 月 28 日首发，作者 Nankidai，RPG Maker MV 制作，英译 vgperson，2023 年 2 月 20 日上架 Steam 抢先体验，并有漫画与轻小说改编；故事尚未完结。"
+        }
+      },
+      "media": {
+        "cover": "https://webrpg.org/frogteapot-Your-Turn-to-Die/cover.png"
+      },
+      "originalTitle": "キミガシネ ―多数決デスゲーム―",
+      "popularity": 9,
+      "publishers": [
+        {
+          "name": "0UP Games"
+        }
+      ],
+      "rating": 9,
+      "release": {
+        "date": "2017-08-28",
+        "originalPlatforms": [
+          "Web",
+          "Windows"
+        ]
+      },
+      "schemaVersion": 1,
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "slug": "your-turn-to-die",
+      "taxonomy": {
+        "contentType": "full-game",
+        "genres": [
+          "adventure",
+          "visual-novel"
+        ],
+        "mechanics": [
+          "exploration",
+          "investigation",
+          "discussion battles",
+          "majority vote",
+          "minigames",
+          "multiple endings",
+          "branching choices"
+        ],
+        "themes": [
+          "horror",
+          "mystery",
+          "drama"
+        ]
+      },
+      "translatedTitles": {
+        "en": "Your Turn To Die -Death Game By Majority-"
+      }
+    },
+    "zadrez": {
+      "assessedAt": "2026-11-19",
+      "assessmentNote": "No coverage found outside the repo itself (web search for 'Zadrez Cheeesss' returns only unrelated chess apps and engines). In-repo: the deployed build is the RPG Maker MV Adventure Mode vignette (4 maps / 66 events / 111 dialogue lines / 29 transfers; start map inicio, Professor X invitation letter, then night dock, path and plaza); the HTML/JS chess engine (gameLogic.js, botLogic.js with bot personalities, chess rules) lives in the repo root and is not served by this entry. Repo 2 stars / 2 forks, created 2025-09-17, last pushed 2026-10-09. Rating blank; popularity 2. Translated titles are transliterations, not official titles.",
+      "assessmentSources": [
+        "https://github.com/LuisAugusto2005/Cheeesss",
+        "https://webrpg.org/LuisAugusto2005-Cheeesss/"
+      ],
+      "contentAdvisory": {
+        "nsfw": false
+      },
+      "developers": [
+        {
+          "name": "LuisAugusto2005",
+          "url": "https://github.com/LuisAugusto2005"
+        }
+      ],
+      "editorial": {
+        "qualityFlags": [
+          "description-unverified"
+        ],
+        "sources": [
+          "https://github.com/LuisAugusto2005/Cheeesss",
+          "https://webrpg.org/LuisAugusto2005-Cheeesss/"
+        ],
+        "status": "draft"
+      },
+      "externalLinks": [
+        {
+          "label": "GitHub source repository",
+          "type": "source",
+          "url": "https://github.com/LuisAugusto2005/Cheeesss"
+        },
+        {
+          "label": "WebRPG play page",
+          "type": "other",
+          "url": "https://webrpg.org/LuisAugusto2005-Cheeesss/"
+        }
+      ],
+      "instances": [
+        {
+          "id": "luisaugusto2005-cheeesss",
+          "languages": [
+            "pt",
+            "en"
+          ],
+          "notes": "Deployed build is the RPG Maker MV Adventure Mode only (gameDir www; start map inicio) — the HTML/JS chess game in the repo root is not part of this build. Portuguese letter dialogue (Professor X) with an English opening line per the v1.1 load test; locale pt_BR. Reviewed 2026-11-12.",
+          "nsfw": false,
+          "title": "Zadrez",
+          "type": "internal"
+        }
+      ],
+      "introductions": {
+        "en": {
+          "editorialStatus": "draft",
+          "summary": "A short Portuguese-language adventure vignette: Professor X invites the player to a chess event, and the player walks from the night dock through the path to the plaza. It is the RPG Maker MV 'Adventure Mode' of LuisAugusto2005's chess project (4 maps, 111 dialogue lines); the chess board itself is not part of this build."
+        },
+        "ja": {
+          "editorialStatus": "draft",
+          "summary": "ポルトガル語の短編アドベンチャー小品。X教授がプレイヤーをチェスイベントに招待し、夜の港から小道を通って広場へ向かう。LuisAugusto2005 のチェスプロジェクトに付属する RPGツクールMV製「アドベンチャーモード」（4 マップ、111 行の台詞）で、チェス盤そのものはこのビルドには含まれない。"
+        },
+        "zh-Hans": {
+          "editorialStatus": "draft",
+          "summary": "葡萄牙语短篇冒险小品：X 教授邀请玩家参加一场象棋赛事，玩家从夜间码头出发，穿过小路来到广场。这是 LuisAugusto2005 的国际象棋项目中的 RPG Maker MV“冒险模式”，共 4 张地图、111 行对白；象棋棋盘玩法本身不在这个版本中。"
+        }
+      },
+      "media": {
+        "cover": null
+      },
+      "originalTitle": "Zadrez",
+      "popularity": 2,
+      "schemaVersion": 1,
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "slug": "zadrez",
+      "taxonomy": {
+        "contentType": "full-game",
+        "genres": [
+          "adventure"
+        ],
+        "mechanics": [
+          "dialogue",
+          "exploration",
+          "chess-themed story"
+        ],
+        "themes": [
+          "slice-of-life"
+        ]
+      },
+      "translatedTitles": {
+        "en": "Zadrez",
+        "ja": "ザドレズ",
+        "zh-Hans": "扎德雷兹"
+      }
     }
   }
 }
