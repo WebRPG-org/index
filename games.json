@@ -28794,6 +28794,862 @@
         "https://www.metacritic.com/game/ambrosia-2021/"
       ],
       "assessmentNote": "FANZA original (d_149280, しもばしら工房) rated 4.89/5 from 45 reviews (2026-11-16); English Steam/GOG release by Kagura Games (Jan 2021) confirms the same title, story and developer; the Chinese instance is a fan translation + mod with no separate reputation evidence, so both scores reflect the original. Release date is the Kagura English release (2021-01-29); FANZA original release date unverified."
+    },
+    "kinokonun": {
+      "schemaVersion": 1,
+      "slug": "kinokonun",
+      "originalTitle": "きのこぬん",
+      "translatedTitles": {
+        "zh-Hans": "蘑菇努恩",
+        "en": "Kinokonun"
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "《きのこぬん》是一款 RPG Maker MV 制作的恐怖脱出冒险游戏：主角「ぬん」在陌生的宅邸中醒来，与越走越会长大的可爱「蘑菇先生」一起解开谜题、逃出宅邸，共有 7 种结局。",
+          "overview": "玩家在宅邸中探索，借助金库、裁断机、绳索、推箱子等机关解开连锁谜题，逐步揭开宅邸隐藏的秘密。本作设有多周目与多结局：7 种结局中包含两种真结局，另有 3 种与成就无关的结局。游戏作者为 mt.saji，另有由ぬか漬けパリピマン发行的智能手机应用版。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "Kinokonun is a horror escape adventure made with RPG Maker MV: Nun wakes up in a strange mansion and tries to escape together with the cute Mushroom-san, who grows the more you walk. It has 7 endings.",
+          "overview": "Players explore the mansion and solve chained puzzles using safes, shredders, ropes, sokoban-style block pushing and other mechanisms, gradually uncovering the mansion's hidden mystery. The game offers multiple playthroughs and endings: 7 endings including two true endings, plus 3 more unrelated to achievements. Created by mt.saji, with a smartphone app version published by Nukazuke Paris Piman.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "『きのこぬん』はRPGツクールMV製のホラー脱出アドベンチャーゲームです。見知らぬ屋敷で目覚めた「ぬん」は、歩けば歩くほど成長するキュートな「きのこさん」と共に謎を解き、屋敷からの脱出を目指します。エンディングは7種類です。",
+          "overview": "金庫、裁断機、ロープ、倉庫番などの仕掛けを使った連鎖パズルを解きながら屋敷を探索し、屋敷に秘められた謎に迫ります。マルチエンディング・周回プレイ対応で、7種のエンディングのうちトゥルーエンドが2種類あり、実績に関係ないものがさらに3種類存在します。作者はmt.sajiで、ぬか漬けパリピマンによるスマートフォンアプリ版もあります。",
+          "editorialStatus": "draft"
+        }
+      },
+      "taxonomy": {
+        "genres": [
+          "adventure",
+          "puzzle"
+        ],
+        "themes": [
+          "horror",
+          "mystery"
+        ],
+        "mechanics": [
+          "escape",
+          "multiple-endings"
+        ],
+        "contentType": "full-game"
+      },
+      "developers": [
+        {
+          "name": "mt.saji"
+        }
+      ],
+      "publishers": [
+        {
+          "name": "ぬか漬けパリピマン"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/renrender0209-kinokonun/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "renrender0209-kinokonun",
+          "title": "きのこぬん",
+          "languages": [
+            "ja"
+          ],
+          "nsfw": false
+        }
+      ],
+      "relations": [],
+      "externalLinks": [
+        {
+          "url": "https://play.google.com/store/apps/details?id=com.mtsaji.kinokonun",
+          "type": "store",
+          "label": "Google Play"
+        },
+        {
+          "url": "https://apps.apple.com/jp/app/%E3%81%8D%E3%81%AE%E3%81%93%E3%81%AC%E3%82%93/id1573341617",
+          "type": "store",
+          "label": "App Store"
+        },
+        {
+          "url": "https://github.com/renrender0209/kinokonun",
+          "type": "source",
+          "label": "GitHub source"
+        }
+      ],
+      "contentAdvisory": {
+        "nsfw": false,
+        "warnings": [
+          "horror themes"
+        ]
+      },
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://play.google.com/store/apps/details?id=com.mtsaji.kinokonun",
+          "https://apps.apple.com/jp/app/%E3%81%8D%E3%81%AE%E3%81%93%E3%81%AC%E3%82%93/id1573341617",
+          "https://github.com/renrender0209/kinokonun"
+        ]
+      },
+      "popularity": 3,
+      "assessedAt": "2026-11-19",
+      "assessmentSources": [
+        "https://play.google.com/store/apps/details?id=com.mtsaji.kinokonun",
+        "https://apps.apple.com/jp/app/%E3%81%8D%E3%81%AE%E3%81%93%E3%81%AC%E3%82%93/id1573341617",
+        "https://github.com/renrender0209/kinokonun"
+      ],
+      "assessmentNote": "Found Google Play and App Store listings and a GitHub repo (0 stars); no Steam/itch/wiki page and no review scores, so rating is left blank and popularity is 3."
+    },
+    "elise-in-tickleland": {
+      "schemaVersion": 1,
+      "slug": "elise-in-tickleland",
+      "originalTitle": "くすぐりの国のエリス",
+      "translatedTitles": {
+        "zh-Hans": "挠痒之国的艾丽丝",
+        "en": "Elise in Tickleland"
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "《くすぐりの国のエリス》是一部挠痒题材的 RPG：少女艾丽丝深爱着男友罗密欧，为了成为配得上他的女孩，踏上前往「挠痒之国」的旅程。本条目为 SaveSub 制作的手工英译版。",
+          "overview": "故事从艾丽丝在罗密欧家留宿开始，她随后穿越森林、走访城镇、向居民打听消息，一路前往挠痒之国。游戏包含城镇探索、任务与战斗（Z 或空格键攻击），以及大量挠痒场景与可重复观看的回想房间。本作含有明确的性内容。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "Elise in Tickleland is a tickling-themed RPG: Elise, a girl from a small village, loves her boyfriend Romeo and sets out for Tickleland to become a girl worthy of him. This entry is SaveSub's hand-translated English version.",
+          "overview": "The story opens with Elise staying over at Romeo's house, then follows her through forests and towns as she asks the townspeople for advice on her way to Tickleland. Gameplay mixes town exploration, quests and combat (attack with Z or Space), with many tickling scenes and a recollection room for replaying them. The game contains explicit sexual content.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "『くすぐりの国のエリス』はくすぐりをテーマにしたRPGです。小さな村に住む少女エリスは、恋人のロミオにふさわしい女の子になるため、「くすぐりの国」を目指して旅に出ます。本項目はSaveSubによる手訳の英語版です。",
+          "overview": "物語はエリスがロミオの家に泊まるところから始まり、森を抜け、町の人々に話を聞きながらくすぐりの国へ向かいます。町探索やクエスト、戦闘（Zキーまたはスペースキーで攻撃）を交え、多数のくすぐりシーンと回想部屋を備えています。性的な内容を含みます。",
+          "editorialStatus": "draft"
+        }
+      },
+      "taxonomy": {
+        "genres": [
+          "rpg",
+          "adventure"
+        ],
+        "themes": [
+          "fantasy",
+          "romance"
+        ],
+        "mechanics": [
+          "tickling-scenes",
+          "recollection-room"
+        ],
+        "contentType": "full-game"
+      },
+      "media": {
+        "cover": "https://webrpg.org/SaveSub-Elise_Tickleland_EN/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "savesub-elise-tickleland-en",
+          "title": "くすぐりの国のエリス",
+          "languages": [
+            "en"
+          ],
+          "nsfw": true,
+          "notes": "English translation by SaveSub; System locale remains ja_JP and switch/variable names are untranslated."
+        }
+      ],
+      "relations": [],
+      "externalLinks": [
+        {
+          "url": "https://github.com/SaveSub/Elise_Tickleland_EN",
+          "type": "source",
+          "label": "GitHub source (English translation)"
+        }
+      ],
+      "contentAdvisory": {
+        "nsfw": true,
+        "warnings": [
+          "sexual content",
+          "bondage and restraint",
+          "tickle fetish content"
+        ]
+      },
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/SaveSub/Elise_Tickleland_EN"
+        ],
+        "qualityFlags": [
+          "original-author-unknown"
+        ]
+      },
+      "popularity": 1,
+      "assessedAt": "2026-11-19",
+      "assessmentSources": [
+        "https://github.com/SaveSub/Elise_Tickleland_EN"
+      ],
+      "assessmentNote": "No Steam/itch/DLsite/wiki/review coverage found for the Japanese title or the English title; only the 1-star translation repo itself, so rating is left blank and popularity is 1."
+    },
+    "kusuguri-esukeepu-2": {
+      "schemaVersion": 1,
+      "slug": "kusuguri-esukeepu-2",
+      "originalTitle": "くすぐりエスケープ！２",
+      "translatedTitles": {
+        "zh-Hans": "挠痒逃脱！2",
+        "en": "Tickling Escape! 2"
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "《くすぐりエスケープ！２》是挠痒题材的脱出冒险游戏续作：魔法使卡莲中了转移陷阱后醒来，发现自己身无寸缕、只剩一条毛巾，必须在满是史莱姆与触手陷阱的地牢中找回装备与师傅的戒指，破坏地牢核心逃出去。",
+          "overview": "玩家在洞窟与地牢中探索，解开烛台、拉杆、女神像等连锁谜题，逐步深入最终地图。主角能挥剑与旋转斩击，但魔法被封印，败北会被史莱姆或触手拘束并送入回想房间。本作另有妖精的「惩罚」事件与多段结局流程。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "Tickling Escape! 2 is a tickling-themed escape adventure and the sequel to Tickling Escape!: the mage Karen wakes up naked except for a towel after falling into a transfer trap, and must recover her equipment and her master's ring and destroy the dungeon core to escape a dungeon full of slimes and tentacle traps.",
+          "overview": "Players explore caves and dungeons, solving chained candle, lever and goddess-statue puzzles on the way to the final maps. Karen can swing her sword and use spinning slashes, but her magic is sealed; defeat means being restrained by slimes or tentacles and sent to the recollection room. The game also features the fairy's punishment events and a multi-stage ending.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "『くすぐりエスケープ！２』はくすぐりをテーマにした脱出アドベンチャーゲームの続編です。魔法使いのカレンは転移の罠にかかって目覚めると裸同然でタオル一枚だけの姿になっており、スライムや触手の罠が待ち受けるダンジョンで装備と師匠の指輪を取り戻し、ダンジョンコアを破壊して脱出しなければなりません。",
+          "overview": "洞窟とダンジョンを探索し、燭台・レバー・女神像などの連鎖パズルを解きながら最終マップへ進みます。カレンは剣を振るい回転斬りも使えますが魔法は封じられており、敗北するとスライムや触手に拘束され回想部屋へ送られます。妖精さんの「お仕置き」イベントや多段階のエンディングも備えています。",
+          "editorialStatus": "draft"
+        }
+      },
+      "taxonomy": {
+        "genres": [
+          "adventure",
+          "puzzle"
+        ],
+        "themes": [
+          "fantasy"
+        ],
+        "mechanics": [
+          "escape",
+          "switch-puzzles",
+          "action-combat",
+          "recollection-room"
+        ],
+        "contentType": "full-game"
+      },
+      "media": {
+        "cover": "https://webrpg.org/Ihatechickfila-Tickling-escape-2/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "ihatechickfila-tickling-escape-2",
+          "title": "くすぐりエスケープ！２",
+          "languages": [
+            "ja"
+          ],
+          "nsfw": true
+        }
+      ],
+      "relations": [],
+      "externalLinks": [
+        {
+          "url": "https://github.com/Ihatechickfila/Tickling-escape-2",
+          "type": "source",
+          "label": "GitHub source"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=Z02Megbxlm4",
+          "type": "community",
+          "label": "Tickling Escape! 1 full gameplay (series reference)"
+        }
+      ],
+      "contentAdvisory": {
+        "nsfw": true,
+        "warnings": [
+          "tickle fetish content",
+          "bondage and restraint",
+          "implied nudity"
+        ]
+      },
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/Ihatechickfila/Tickling-escape-2",
+          "https://www.youtube.com/watch?v=Z02Megbxlm4"
+        ],
+        "qualityFlags": [
+          "original-author-unverified",
+          "series-part-1-not-in-registry"
+        ]
+      },
+      "popularity": 2,
+      "assessedAt": "2026-11-19",
+      "assessmentSources": [
+        "https://github.com/Ihatechickfila/Tickling-escape-2",
+        "https://www.youtube.com/watch?v=Z02Megbxlm4"
+      ],
+      "assessmentNote": "Part 1 is on DLsite (RJ311995, circle Ash's Forest) with an English full-gameplay video, but part 2 itself has no direct coverage; repo has 4 stars, so rating is left blank and popularity is 2."
+    },
+    "tickling-slave-trader": {
+      "schemaVersion": 1,
+      "slug": "tickling-slave-trader",
+      "originalTitle": "くすぐり奴隷商",
+      "translatedTitles": {
+        "zh-Hans": "挠痒奴隶商",
+        "en": "Tickling Slave Trader"
+      },
+      "aliases": {
+        "en": [
+          "Tickling Slave Trader ~100 Days of Rebellion~"
+        ]
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "挠痒调教模拟 RPG 的英文翻译版：被吸血鬼公主诅咒的奴隶商少女须在 100 天内赚到 100 万金币。",
+          "overview": "SaveSub 手工翻译的日文同人游戏《くすぐり奴隷商》英文版。主角是曾隶属奴隶商集团的少女，被吸血鬼公主诅咒后，必须在 100 天内赚到 100 万 G 才能解除诅咒；她以挠痒调教奴隶、出售赚钱的方式展开反抗。玩法包括调教、出售、道具制作与外注委托，另有 30 名奴隶各自的场景与回想房间。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "English fan translation of a tickle-training simulation RPG: a cursed slave-trader girl must earn 1 million G in 100 days.",
+          "overview": "SaveSub's hand-translated English version of the Japanese doujin game Tickling Slave Trader. A young girl, once a member of a slave trader group, has been cursed by a vampire princess: to break the curse she must make 1 million G within 100 days. She earns it with her unorthodox tickle training, selling trained slaves to fund her rebellion against the princess. Systems include training, selling, crafting and outsourcing, with scenes and a recollection room for 30 slaves.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "吸血鬼の姫に呪われた奴隷商の少女が、100日で100万Gを稼ぐくすぐり調教シミュレーションRPGの英訳版。",
+          "overview": "同人ゲーム『くすぐり奴隷商』の SaveSub による手訳英訳版。かつて奴隷商集団の一員だった少女は吸血鬼の姫に呪いをかけられ、呪いを解くには100日で100万Gを稼がなければならない。くすぐり調教で奴隷を育てて売り、姫への反逆の資金とする。調教・売却・道具製作・外注依頼のシステムがあり、30人の奴隷それぞれのシーンと回想部屋を備える。",
+          "editorialStatus": "draft"
+        }
+      },
+      "taxonomy": {
+        "genres": [
+          "simulation",
+          "rpg"
+        ],
+        "themes": [
+          "fantasy"
+        ],
+        "mechanics": [
+          "tickle training",
+          "time management",
+          "slave trading"
+        ],
+        "contentType": "full-game"
+      },
+      "media": {
+        "cover": "https://webrpg.org/SaveSub-SlaveTrader_EN/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "savesub-slavetrader-en",
+          "title": "くすぐり奴隷商",
+          "languages": [
+            "en"
+          ],
+          "nsfw": true
+        }
+      ],
+      "externalLinks": [
+        {
+          "url": "https://github.com/SaveSub/SlaveTrader_EN",
+          "type": "source",
+          "label": "SaveSub — SlaveTrader_EN (English translation source)"
+        },
+        {
+          "url": "https://savesub.github.io/SlaveTrader_EN/",
+          "type": "official",
+          "label": "Playable web version (SaveSub GitHub Pages)"
+        }
+      ],
+      "contentAdvisory": {
+        "nsfw": true,
+        "warnings": [
+          "sexual content",
+          "tickling fetish content"
+        ]
+      },
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/SaveSub/SlaveTrader_EN",
+          "https://savesub.github.io/SlaveTrader_EN/"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "popularity": 2,
+      "assessedAt": "2026-11-19",
+      "assessmentSources": [
+        "https://github.com/SaveSub/SlaveTrader_EN",
+        "https://savesub.github.io/SlaveTrader_EN/"
+      ],
+      "assessmentNote": "No Steam/itch/wiki/review evidence found by web search; only the SaveSub GitHub translation (11 stars) exists. Rating left blank; popularity 2 for a niche fetish-community translation."
+    },
+    "ritsune-rpg": {
+      "schemaVersion": 1,
+      "slug": "ritsune-rpg",
+      "originalTitle": "りつねぇ！RPG",
+      "translatedTitles": {
+        "en": "Ritsunee! RPG"
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "《ケムリクサ》二次创作的拉霸收集小游戏：转动拉霸收集 52 种“りつ姐”，集齐触发搞笑结局。",
+          "overview": "以动画《ケムリクサ》角色りつ为题材的同人小游戏（RPG Maker MV 制作，浏览器可玩）。玩法是拉霸机：转动拉霸收集 52 种「りつ姉」，集齐后触发结局——主角としあき在不眠不休追放送之后，恍然悟到自己就是りつ姉。版本 ver.1.3。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "A Kemurikusa fan-made slot-machine collection mini-game: spin the slots to collect 52 Ritsu-nee variants and reach the gag ending.",
+          "overview": "A fan mini-game based on Ritsu from the anime Kemurikusa, made with RPG Maker MV and playable in the browser. Spin the slot machine to collect 52 'Ritsu-nee' variants; collecting them all triggers the ending, in which Toshiaki, exhausted from staying up watching the broadcast, realises he is Ritsu-nee himself. Version 1.3.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "『ケムリクサ』の二次創作スロット収集ミニゲーム。スロットを回して52種の「りつ姉」を集めるとギャグエンディングへ。",
+          "overview": "アニメ『ケムリクサ』のりつを題材にした同人ミニゲーム（RPGツクールMV製、ブラウザで遊べる）。スロットを回して52種の「りつ姉」を集めるのが目的で、全て集めるとエンディングが発生する。放送直後から不眠不休でスレに張り付いていたとしあきが、自分こそりつ姉だと悟るギャグ展開。ver.1.3。",
+          "editorialStatus": "draft"
+        }
+      },
+      "taxonomy": {
+        "genres": [
+          "minigame"
+        ],
+        "themes": [
+          "comedy"
+        ],
+        "mechanics": [
+          "slot machine",
+          "collection"
+        ],
+        "contentType": "full-game"
+      },
+      "developers": [
+        {
+          "name": "umaaji298",
+          "url": "https://github.com/umaaji298"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/umaaji298-rituRPG/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "umaaji298-riturpg",
+          "title": "りつねぇ！RPG",
+          "languages": [
+            "ja"
+          ],
+          "nsfw": false
+        }
+      ],
+      "externalLinks": [
+        {
+          "url": "https://github.com/umaaji298/rituRPG",
+          "type": "source",
+          "label": "GitHub — umaaji298/rituRPG"
+        },
+        {
+          "url": "https://umaaji298.github.io/rituRPG/",
+          "type": "official",
+          "label": "Demo (GitHub Pages)"
+        }
+      ],
+      "contentAdvisory": {
+        "nsfw": false
+      },
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/umaaji298/rituRPG",
+          "https://umaaji298.github.io/rituRPG/"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "popularity": 1,
+      "assessedAt": "2026-11-19",
+      "assessmentSources": [
+        "https://github.com/umaaji298/rituRPG",
+        "https://umaaji298.github.io/rituRPG/"
+      ],
+      "assessmentNote": "No Steam/itch/wiki/review evidence found; only the GitHub repo (1 star) and its demo page exist. Old meta title 'Ritsunee! RPG III NOCTURNE Maniax' is wrong (NOCTURNE Maniax is Shin Megami Tensei III) and is not carried over. Rating left blank; popularity 1."
+    },
+    "abyss-cave": {
+      "schemaVersion": 1,
+      "slug": "abyss-cave",
+      "originalTitle": "アビスケイブ",
+      "translatedTitles": {
+        "zh-Hans": "深渊洞窟",
+        "en": "ABYSS CAVE"
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "探索 9 层深渊洞窟的地牢 RPG：三名炼金术师少女深入洞窟，战斗、采集素材、炼金制作道具，挑战封印之间。",
+          "overview": "RPG Maker MV 制作的地牢探索 RPG。三名炼金术师少女深入 9 层深渊洞窟「アビスケイブ」，与魔物战斗、采集素材、用随身炼金壶炼制道具，一路挑战封印之间。另有“カタメベヤ”等变身/固化演出与回想开关；战败会进入姐妹被固化受辱的演出。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "A dungeon-crawling RPG through a 9-floor abyss cave: three alchemist girls explore, fight, gather materials and brew items.",
+          "overview": "A dungeon-crawling RPG made with RPG Maker MV. Three alchemist girls descend into the 9-floor Abyss Cave, fighting monsters, gathering materials and brewing items with a portable alchemy pot, on their way to the sealed chambers. It also features a 'hardening room' of transformation/petrification scenes with recollection switches, and defeat scenes in which the petrified sisters are violated.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "9層の深淵洞窟を探索するダンジョンRPG。3人の錬金術師の少女が洞窟に挑み、戦闘・素材採取・錬金で封印の間を目指す。",
+          "overview": "RPGツクールMV製のダンジョン探索RPG。3人の錬金術師の少女が9層のアビスケイブに挑み、魔物と戦い、素材を集め、プチ錬金ポッドでアイテムを作りながら封印の間を目指す。変身・固化演出の「カタメベヤ」や回想解放スイッチもあり、敗北すると姉妹が固められて辱められる演出がある。",
+          "editorialStatus": "draft"
+        }
+      },
+      "taxonomy": {
+        "genres": [
+          "rpg"
+        ],
+        "themes": [
+          "fantasy"
+        ],
+        "mechanics": [
+          "dungeon crawling",
+          "alchemy",
+          "turn-based battles"
+        ],
+        "contentType": "full-game"
+      },
+      "developers": [
+        {
+          "name": "tomoshibi06",
+          "url": "https://github.com/tomoshibi06"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/tomoshibi06-abcv/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "tomoshibi06-abcv",
+          "title": "アビスケイブ",
+          "languages": [
+            "ja"
+          ],
+          "nsfw": true
+        }
+      ],
+      "externalLinks": [
+        {
+          "url": "https://github.com/tomoshibi06/abcv",
+          "type": "source",
+          "label": "GitHub — tomoshibi06/abcv"
+        }
+      ],
+      "contentAdvisory": {
+        "nsfw": true,
+        "warnings": [
+          "transformation fetish content",
+          "sexualized defeat scenes"
+        ]
+      },
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/tomoshibi06/abcv"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "popularity": 1,
+      "assessedAt": "2026-11-19",
+      "assessmentSources": [
+        "https://github.com/tomoshibi06/abcv"
+      ],
+      "assessmentNote": "No Steam/itch/wiki/review evidence found; only the GitHub repo exists (2 stars). 'Recollection' switches unlock transformation options in the hardening room; defeat maps contain sexualized petrification text, so nsfw flips false to true. Rating left blank; popularity 1."
+    },
+    "kusoge-tsukutta-yo": {
+      "schemaVersion": 1,
+      "slug": "kusoge-tsukutta-yo",
+      "originalTitle": "クソゲー作ったよ！",
+      "translatedTitles": {
+        "zh-Hans": "我做了个烂游戏！",
+        "en": "I Made a Shitty Game!"
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "日式 RPG Maker 短篇喜剧小品：主角阿历克斯肚子痛，家里的厕所被弟弟们排长队占着，只好限时出门找地方解决——找厕纸、躲弟弟，超时或没带纸都会失败，成功则打出「ミッションコンプリート！」。3 张地图、70 行对白。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "A short Japanese RPG Maker comedy sketch: Alex's stomach hurts, the home toilet is blocked by a queue of his little brothers, so he rushes outside on a timer to find a spot — and toilet paper. Run out of time or arrive without paper and the mission fails; succeed and the game declares 'Mission Complete!' 3 maps, 70 dialogue lines.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "RPGツクール製の短編コメディ小品。主人公アレックスは腹痛に襲われるが、家のトイレは弟たちの大行列。制限時間内に外へ出て、トイレットペーパーを手に入れて用を足す——時間切れや紙なしでは失敗し、成功すれば「ミッションコンプリート！」。全70行の台詞、3マップ。",
+          "editorialStatus": "draft"
+        }
+      },
+      "taxonomy": {
+        "genres": [
+          "adventure"
+        ],
+        "themes": [
+          "comedy"
+        ],
+        "mechanics": [
+          "timed-mission"
+        ],
+        "contentType": "full-game"
+      },
+      "developers": [
+        {
+          "name": "john-smith",
+          "url": "https://github.com/john-smith"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/john-smith-rpg-kuso/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "john-smith-rpg-kuso",
+          "title": "クソゲー作ったよ！",
+          "languages": [
+            "ja"
+          ],
+          "nsfw": false
+        }
+      ],
+      "externalLinks": [
+        {
+          "url": "https://github.com/john-smith/rpg-kuso",
+          "type": "source",
+          "label": "GitHub — john-smith/rpg-kuso"
+        },
+        {
+          "url": "https://webrpg.org/john-smith-rpg-kuso/",
+          "type": "official",
+          "label": "webrpg.org mirror"
+        }
+      ],
+      "contentAdvisory": {
+        "nsfw": false
+      },
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/john-smith/rpg-kuso",
+          "https://webrpg.org/john-smith-rpg-kuso/"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 1,
+      "assessedAt": "2026-11-19",
+      "assessmentSources": [
+        "https://github.com/john-smith/rpg-kuso",
+        "https://webrpg.org/john-smith-rpg-kuso/"
+      ],
+      "assessmentNote": "No external traces found (web search for the Japanese title and repo name returns nothing beyond GitHub/webrpg; repo created 2019-03-03, 1 star, 2 forks); in-repo data is a complete timed micro-game (3 maps / 33 events / 70 dialogue lines, win branch 'ミッションコンプリート！' vs timer game-over), not an empty shell; rating blank; popularity 1."
+    },
+    "shiyu-to-fushigi-no-gakuen": {
+      "schemaVersion": 1,
+      "slug": "shiyu-to-fushigi-no-gakuen",
+      "originalTitle": "シユと不思議の学園",
+      "translatedTitles": {
+        "zh-Hans": "希尤与不可思议的学园",
+        "en": "Shiyu and the Mysterious Academy"
+      },
+      "aliases": {
+        "en": [
+          "Siyu to Husigi no Gakuen"
+        ]
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "中文汉化版日式学园 RPG：乡下转学生希尤编入杰斯学园，与同级生尤伊娜、后辈梅露等人结伴，在宿舍、教室、旧校舍与异世界迷宫中冒险；魔杖事故让他不断缩小，在同学们的胸前口袋、乳腺深处等地展开微缩冒险。100 张地图、4340 行对白，含多场明确的性服务场景。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "A Simplified Chinese localization of a Japanese school RPG: Shiyu, a transfer student from the countryside, enrolls at Jace Academy and adventures with classmates Yuina and Mel through dorms, classrooms, the old school building and otherworldly dungeons. A magic wand keeps shrinking him, sending him on tiny adventures inside classmates' breast pockets and elsewhere. 100 maps, 4,340 dialogue lines; contains explicit sexual service scenes.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "日本語フリーゲームの簡体字中国語ローカライズ。田舎からジェイス学園に編入してきたシユは、同級生のユイナや後輩のメルらとともに、寮や旧校舎、異世界ダンジョンを冒険する。杖の事故で何度も小さくなり、級友の胸ポケットや乳腺の奥などでミニチュアの冒険を繰り広げる。100マップ、4340行の台詞。明確な性的サービスシーンを含む。",
+          "editorialStatus": "draft"
+        }
+      },
+      "taxonomy": {
+        "genres": [
+          "rpg"
+        ],
+        "themes": [
+          "fantasy",
+          "slice-of-life"
+        ],
+        "mechanics": [
+          "turn-based-battles",
+          "shrinking"
+        ],
+        "contentType": "full-game"
+      },
+      "developers": [
+        {
+          "name": "yukopixiv79",
+          "url": "https://x.com/yukopixiv79"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/tw123777tw-SiyuToHusigiNoGakuen/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "tw123777tw-siyutohusiginogakuen",
+          "title": "シユと不思議の学園",
+          "languages": [
+            "zh-Hans",
+            "ja"
+          ],
+          "nsfw": true
+        }
+      ],
+      "externalLinks": [
+        {
+          "url": "https://github.com/tw123777tw/SiyuToHusigiNoGakuen",
+          "type": "source",
+          "label": "GitHub — tw123777tw/SiyuToHusigiNoGakuen (Chinese localization)"
+        },
+        {
+          "url": "https://webrpg.org/tw123777tw-SiyuToHusigiNoGakuen/",
+          "type": "official",
+          "label": "webrpg.org mirror"
+        },
+        {
+          "url": "https://x.com/yukopixiv79/status/1555752608731541507",
+          "type": "other",
+          "label": "Original game source post by yukopixiv79 (X)"
+        }
+      ],
+      "contentAdvisory": {
+        "nsfw": true,
+        "warnings": [
+          "sexual content, including explicit sexual service scenes and size/breast fetish themes"
+        ]
+      },
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/tw123777tw/SiyuToHusigiNoGakuen",
+          "https://webrpg.org/tw123777tw-SiyuToHusigiNoGakuen/",
+          "https://x.com/yukopixiv79/status/1555752608731541507"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 1,
+      "assessedAt": "2026-11-19",
+      "assessmentSources": [
+        "https://github.com/tw123777tw/SiyuToHusigiNoGakuen",
+        "https://webrpg.org/tw123777tw-SiyuToHusigiNoGakuen/",
+        "https://x.com/yukopixiv79/status/1555752608731541507"
+      ],
+      "assessmentNote": "No external traces found (Japanese title, repo name and Chinese title searches return nothing beyond GitHub/webrpg; repo 0 stars, created 2024-08-07 as a Chinese fan translation of X user yukopixiv79's Japanese game); in-repo data is substantial (100 maps / 642 events / 4,340 dialogue lines, 100 enemies / 200 troops); nsfw corrected false -> true on explicit in-repo sexual service scenes (see research notes); rating blank; popularity 1."
+    },
+    "tickle-fantasia": {
+      "schemaVersion": 1,
+      "slug": "tickle-fantasia",
+      "originalTitle": "ティクルファンタジア",
+      "translatedTitles": {
+        "zh-Hans": "挠痒幻想曲",
+        "en": "Tickle Fantasia"
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "日式 RPG Maker MZ 挠痒主题 RPG：「钥匙少女」克拉维斯与女仆波波露住在特内布拉森林深处的封魔之馆，与剑士莉莎一起穿越村庄、城镇与神灵大树，对抗哥布林、触手怪等魔物；战败会触发带快感责备警告的挠痒事件，另有回想画廊与休闲/挑战两种难度。48 张地图、7351 行地图对白、3916 行公共事件对白。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "A Japanese RPG Maker MZ tickling-fetish RPG: Clarvis, the 'key girl', lives with her maid Poporu in a sealed mansion deep in the Tenebra Forest, and travels with swordswoman Risha through villages, towns and the Divine Tree, fighting goblins, tentacle monsters and other foes. Defeat triggers tickle events flagged with a pleasure-torture content warning, and a recollection gallery replays scenes; casual and challenge difficulties. 48 maps, 7,351 map dialogue lines plus 3,916 Common Event lines.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "RPGツクールMZ製のくすぐりフェチRPG。「鍵の少女」クラヴィスはメイドのポポルとともにテネブラの森の奥の封魔の館に暮らし、剣士リーシャと村や町、神霊の大樹を巡ってゴブリンや触手魔物と戦う。敗北すると快楽責めの注意書き付きくすぐりイベントが発生し、回想ギャラリーやカジュアル／チャレンジの難易度選択もある。48マップ、地図台詞7351行＋コモンイベント3916行。",
+          "editorialStatus": "draft"
+        }
+      },
+      "taxonomy": {
+        "genres": [
+          "rpg"
+        ],
+        "themes": [
+          "fantasy"
+        ],
+        "mechanics": [
+          "tickle-battles",
+          "recollection-gallery",
+          "difficulty-select"
+        ],
+        "contentType": "full-game"
+      },
+      "developers": [
+        {
+          "name": "watatarutaru",
+          "url": "https://github.com/watatarutaru"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/watatarutaru-TickleFantasia/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "watatarutaru-ticklefantasia",
+          "title": "ティクルファンタジア",
+          "languages": [
+            "ja"
+          ],
+          "nsfw": true
+        }
+      ],
+      "externalLinks": [
+        {
+          "url": "https://github.com/watatarutaru/TickleFantasia",
+          "type": "source",
+          "label": "GitHub — watatarutaru/TickleFantasia"
+        },
+        {
+          "url": "https://webrpg.org/watatarutaru-TickleFantasia/",
+          "type": "official",
+          "label": "webrpg.org mirror"
+        }
+      ],
+      "contentAdvisory": {
+        "nsfw": true,
+        "warnings": [
+          "sexual content",
+          "tickle fetish, bondage, nudity and pleasure-torture defeat scenes"
+        ]
+      },
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/watatarutaru/TickleFantasia",
+          "https://webrpg.org/watatarutaru-TickleFantasia/"
+        ],
+        "qualityFlags": [
+          "description-unverified"
+        ]
+      },
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "popularity": 1,
+      "assessedAt": "2026-11-19",
+      "assessmentSources": [
+        "https://github.com/watatarutaru/TickleFantasia",
+        "https://webrpg.org/watatarutaru-TickleFantasia/"
+      ],
+      "assessmentNote": "No external traces found (Japanese title, 'TickleFantasia' and author searches return nothing beyond GitHub/webrpg; repo 1 star, 2 forks, description '20240120'); in-repo data is substantial (48 maps / 737 events / 7,351 map dialogue lines + 3,916 Common Event lines, 60 enemies / 50 troops, recollection gallery); nsfw true confirmed by in-repo erotic-event scenes; languages corrected [ja, en] -> [ja] (no English dialogue); rating blank; popularity 1."
     }
   }
 }

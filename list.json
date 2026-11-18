@@ -35374,20 +35374,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/tomoshibi06-abcv/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg",
-        "fantasy"
-      ],
-      "languages": [
-        "ja"
-      ],
-      "nsfw": false,
-      "originalTitle": "アビスケイブ",
+      "gameSlug": "abyss-cave",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
+      "nsfw": true,
       "reviewedAt": "2026-11-12",
-      "title": "ABYSS CAVE"
+      "reviewedSourceHeadSha": "de7179102088e4b68d5e3b1429311e165bdd1c62"
     }
   },
   {
@@ -35445,17 +35436,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/renrender0209-kinokonun/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "adventure"
-      ],
-      "languages": [
-        "ja"
-      ],
-      "nsfw": false,
+      "gameSlug": "kinokonun",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-12"
+      "nsfw": false,
+      "reviewedAt": "2026-11-12",
+      "reviewedSourceHeadSha": "e3c9530b8ecae8c4def14f9925fabec148bf9ec3"
     }
   },
   {
@@ -35546,21 +35531,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/SaveSub-SlaveTrader_EN/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "aliases": [
-        "Tickling Slave Trader",
-        "Tickling Slave Trader ~100 Days of Rebellion~"
-      ],
-      "genres": [
-        "rpg"
-      ],
-      "languages": [
-        "en"
-      ],
-      "nsfw": true,
+      "gameSlug": "tickling-slave-trader",
       "playable": true,
-      "popularity": 4,
-      "rating": 5,
-      "reviewedAt": "2026-11-12"
+      "nsfw": true,
+      "reviewedAt": "2026-11-12",
+      "reviewedSourceHeadSha": "a8100f94a7c7503bcfe0fc764f54e0203efd3dc9"
     }
   },
   {
@@ -35587,17 +35562,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/Ihatechickfila-Tickling-escape-2/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "adventure"
-      ],
-      "languages": [
-        "ja"
-      ],
-      "nsfw": true,
+      "gameSlug": "kusuguri-esukeepu-2",
       "playable": true,
-      "popularity": 3,
-      "rating": 5,
-      "reviewedAt": "2026-11-12"
+      "nsfw": true,
+      "reviewedAt": "2026-11-12",
+      "reviewedSourceHeadSha": "df10091031d1730ffbb67e3391e420d3fba55b0b"
     }
   },
   {
@@ -35624,20 +35593,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/SaveSub-Elise_Tickleland_EN/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "aliases": [
-        "Elise in Tickleland"
-      ],
-      "genres": [
-        "adventure"
-      ],
-      "languages": [
-        "en"
-      ],
-      "nsfw": true,
+      "gameSlug": "elise-in-tickleland",
       "playable": true,
-      "popularity": 3,
-      "rating": 5,
-      "reviewedAt": "2026-11-12"
+      "nsfw": true,
+      "reviewedAt": "2026-11-12",
+      "reviewedSourceHeadSha": "3663db6fa697575e96c24f597eebe13b8cca77c1"
     }
   },
   {
@@ -35664,18 +35624,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/john-smith-rpg-kuso/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "adventure",
-        "comedy"
-      ],
-      "languages": [
-        "ja"
-      ],
-      "nsfw": false,
+      "gameSlug": "kusoge-tsukutta-yo",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-12"
+      "nsfw": false,
+      "reviewedAt": "2026-11-12",
+      "reviewedSourceHeadSha": "b052bc27d3acbb4334060892dfd914df3bf9be51"
     }
   },
   {
@@ -35807,18 +35760,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/tw123777tw-SiyuToHusigiNoGakuen/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg"
-      ],
-      "languages": [
-        "zh-Hans",
-        "ja"
-      ],
-      "nsfw": false,
+      "gameSlug": "shiyu-to-fushigi-no-gakuen",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-12"
+      "nsfw": true,
+      "reviewedAt": "2026-11-12",
+      "reviewedSourceHeadSha": "fe76fe4f6cb1a92cbdf746bb83ed82493256fe82"
     }
   },
   {
@@ -35860,18 +35806,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/watatarutaru-TickleFantasia/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "minigame"
-      ],
-      "languages": [
-        "ja",
-        "en"
-      ],
-      "nsfw": true,
+      "gameSlug": "tickle-fantasia",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-12"
+      "nsfw": true,
+      "reviewedAt": "2026-11-12",
+      "reviewedSourceHeadSha": "61b097fe7cadfb3a648710fc36236573a94b98d9"
     }
   },
   {
@@ -36270,17 +36209,9 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/a12204002-RyujiAtsuta-Eboshi_web/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "other"
-      ],
-      "languages": [
-        "ja"
-      ],
-      "nsfw": false,
-      "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-12"
+      "playable": false,
+      "reviewedAt": "2026-11-12",
+      "nsfw": false
     }
   },
   {
@@ -36394,21 +36325,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/umaaji298-rituRPG/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "aliases": [
-        "りつねぇ！RPG"
-      ],
-      "genres": [
-        "rpg"
-      ],
-      "languages": [
-        "ja"
-      ],
-      "nsfw": false,
+      "gameSlug": "ritsune-rpg",
       "playable": true,
-      "popularity": 3,
-      "rating": 5,
+      "nsfw": false,
       "reviewedAt": "2026-11-12",
-      "title": "りつねぇ! RPG III NOCTURNE マニアクス"
+      "reviewedSourceHeadSha": "2d8dca9f1711d2c7ba0f79adb5bb00e6296c48ab"
     }
   },
   {
