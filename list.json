@@ -199,23 +199,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/Destiny236-Narcissuweb/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "aliases": [
-        "水仙"
-      ],
-      "genres": [
-        "visual-novel",
-        "drama"
-      ],
-      "languages": [
-        "zh-Hans"
-      ],
-      "nsfw": false,
-      "originalTitle": "ナルキッソス",
+      "gameSlug": "narcissu",
       "playable": true,
-      "popularity": 8,
-      "rating": 8,
+      "nsfw": false,
       "reviewedAt": "2026-11-07",
-      "title": "Narcissu"
+      "reviewedSourceHeadSha": "72d9cde2e6364d1d95219cd5446ba69c7086b854"
     }
   },
   {
@@ -261,20 +249,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/anglesgirl-Ambrosia/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg",
-        "fantasy"
-      ],
-      "languages": [
-        "zh-Hans"
-      ],
-      "nsfw": true,
-      "originalTitle": "アンブロシア",
+      "gameSlug": "ambrosia",
       "playable": true,
-      "popularity": 5,
-      "rating": 5,
+      "nsfw": true,
       "reviewedAt": "2026-11-07",
-      "title": "Ambrosia 永生之物"
+      "reviewedSourceHeadSha": "718ede5009c636246a8743de33cbc186104743f0"
     }
   },
   {
@@ -34735,9 +34714,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/WildCodeSchool-2022-03-js-laloupe-quadri-force-p2/ served an RPG Maker entry point and its startup resources",
     "meta": {
+      "gameSlug": "zelda-breath-of-the-wild-code-school",
+      "playable": true,
       "nsfw": false,
-      "playable": false,
-      "reviewedAt": "2026-11-12"
+      "reviewedAt": "2026-11-12",
+      "reviewedSourceHeadSha": "11d24e100d5325edeeda6b203c6be20d4b67e6b0"
     }
   },
   {
@@ -34799,18 +34780,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/Wolverinexxxxxz-Sat-Muhammed-Ali-Ture/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg",
-        "fantasy"
-      ],
-      "languages": [
-        "tr"
-      ],
-      "nsfw": false,
+      "gameSlug": "zindanlar-ve-zindanlar",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-12"
+      "nsfw": false,
+      "reviewedAt": "2026-11-12",
+      "reviewedSourceHeadSha": "b0dbc0df7cf5d4d8f7aa1434e6c4a889c191d6d0"
     }
   },
   {
@@ -34840,18 +34814,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/Tripletri-WizardGame/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "puzzle",
-        "educational"
-      ],
-      "languages": [
-        "ru"
-      ],
-      "nsfw": false,
+      "gameSlug": "volshebnik",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-12"
+      "nsfw": false,
+      "reviewedAt": "2026-11-12",
+      "reviewedSourceHeadSha": "534079166344ad3cd02ddfeb69f3c7dca03698cd"
     }
   },
   {
@@ -34878,16 +34845,9 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/Dalk12-DD/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg"
-      ],
-      "languages": [
-        "ru"
-      ],
-      "nsfw": false,
+      "gameSlug": "doroga-dotera",
       "playable": true,
-      "popularity": 2,
-      "rating": 4,
+      "nsfw": false,
       "reviewedAt": "2026-11-12"
     }
   },
@@ -34950,17 +34910,9 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/Boris12432-Afera-belika-alfa-1.0/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "adventure"
-      ],
-      "languages": [
-        "ru"
-      ],
-      "nsfw": false,
-      "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-12"
+      "playable": false,
+      "reviewedAt": "2026-11-12",
+      "nsfw": false
     }
   },
   {
@@ -34990,18 +34942,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/DocPainkiller-FargoHL/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg",
-        "fantasy"
-      ],
-      "languages": [
-        "ru"
-      ],
-      "nsfw": false,
+      "gameSlug": "fargo-zhizn-okhotnika",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-12"
+      "nsfw": false,
+      "reviewedAt": "2026-11-12",
+      "reviewedSourceHeadSha": "d575740bd7bc3c0cb1ba4fe3a519c207c63fb06c"
     }
   },
   {
@@ -35031,17 +34976,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/ELGHINN2512-CyberSchool/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "adventure"
-      ],
-      "languages": [
-        "ru"
-      ],
-      "nsfw": false,
+      "gameSlug": "shkola-kiberanalitiki",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "nsfw": false,
+      "reviewedAt": "2026-11-07",
+      "reviewedSourceHeadSha": "6e9355f4cf23d18ff9107cdce75d8354f6721447"
     }
   },
   {
@@ -35071,17 +35010,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/ELGHINN2512-testGame/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "adventure"
-      ],
-      "languages": [
-        "ru"
-      ],
-      "nsfw": false,
+      "gameSlug": "shkola-kiberanalitiki",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "nsfw": false,
+      "reviewedAt": "2026-11-07",
+      "reviewedSourceHeadSha": "07ee8bf32f05f2eaddad634b53286b79c048f9ab"
     }
   },
   {

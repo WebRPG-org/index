@@ -28121,6 +28121,679 @@
         "ja": "ザドレズ",
         "zh-Hans": "扎德雷兹"
       }
+    },
+    "zelda-breath-of-the-wild-code-school": {
+      "schemaVersion": 1,
+      "slug": "zelda-breath-of-the-wild-code-school",
+      "originalTitle": "Zelda Breath Of the Wild Code School",
+      "translatedTitles": {
+        "zh-Hans": "塞尔达传说：旷野之息编程学校",
+        "ja": "ゼルダの伝説 ブレス オブ ザ ワイルド コードスクール"
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "Wild Code School 学生制作的《塞尔达传说：旷野之息》同人 RPG：林克在第一洞窟醒来，获得希卡石板，挑战四个神殿以集齐模块，最终前往旧神殿。",
+          "overview": "玩家在第一洞窟醒来后前往海拉鲁，获得希卡石板，随后依次挑战四个神殿——玛·奥努、加·巴希夫、托米·索克、瓦·摩达伊——各获得一个模块（磁力、炸弹、制冰、时间停止），最后前往旧神殿从老人处获得翅膀。游戏含杠杆与水晶解谜、商店与战斗，敌人包括哥布林与树精。本作是 Wild Code School 学生的课程习作，与任天堂无关。结局与最终 Boss 未在数据中核实。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "A student-made Breath of the Wild fan RPG from Wild Code School: Link wakes in the First Cave, receives the Sheikah tablet, and clears four shrines to collect their modules before reaching the old temple.",
+          "overview": "After waking in the First Cave, the player travels to Hyrule, receives the Sheikah tablet, then clears four shrines — Ma'Ohnu, Ja'Bashif, Toumi'Soke and Wa'Modai — gaining one module each (magnetism, bombs, cryonis, stasis), and finally reaches the old temple where an old man grants wings. The game features lever and crystal puzzles, shops and battles against goblins and treants. A Wild Code School student project, not affiliated with Nintendo. No final boss or ending was found in the game data.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "Wild Code School の学生による『ゼルダの伝説 ブレス オブ ザ ワイルド』のファン RPG。リンクは最初の洞窟で目覚め、シーカーストーンを受け取り、4 つの祠を攻略してモジュールを集め、古い神殿を目指す。",
+          "overview": "最初の洞窟で目覚めたプレイヤーはハイラルへ向かい、シーカーストーンを受け取る。その後 4 つの祠——マ・オーヌ、ジャ・バシフ、トミ・ソーク、ワ・モダイ——を攻略し、それぞれモジュール（マグネキャッチ、リモコンバクダン、アイスメーカー、ビタロック）を入手し、最後に古い神殿で老人から翼をもらう。レバーとクリスタルの謎解き、店、ゴブリンやトレントとの戦闘がある。Wild Code School の学生プロジェクトで、任天堂とは無関係。ゲームデータ内に最終ボスやエンディングは確認できなかった。",
+          "editorialStatus": "draft"
+        }
+      },
+      "taxonomy": {
+        "genres": [
+          "rpg",
+          "puzzle"
+        ],
+        "themes": [
+          "fantasy"
+        ],
+        "mechanics": [
+          "lever puzzles",
+          "exploration"
+        ],
+        "contentType": "full-game"
+      },
+      "media": {
+        "cover": "https://webrpg.org/WildCodeSchool-2022-03-js-laloupe-quadri-force-p2/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "wildcodeschool-2022-03-js-laloupe-quadri-force-p2",
+          "title": "Zelda Breath Of the Wild Code School",
+          "languages": [
+            "fr",
+            "en"
+          ],
+          "nsfw": false,
+          "notes": "RPG Maker MZ build in Project3/; the repo also contains a separate React encyclopedia app (frontend/backend) that is not loaded by this entry."
+        }
+      ],
+      "externalLinks": [
+        {
+          "url": "https://github.com/WildCodeSchool/2022-03-js-laloupe-quadri-force-p2",
+          "type": "source",
+          "label": "Source repository"
+        },
+        {
+          "url": "https://webrpg.org/WildCodeSchool-2022-03-js-laloupe-quadri-force-p2/",
+          "type": "official",
+          "label": "Play — Zelda Breath Of the Wild Code School (WebRPG)"
+        }
+      ],
+      "contentAdvisory": {
+        "nsfw": false
+      },
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/WildCodeSchool/2022-03-js-laloupe-quadri-force-p2",
+          "https://webrpg.org/WildCodeSchool-2022-03-js-laloupe-quadri-force-p2/"
+        ]
+      },
+      "popularity": 1,
+      "assessedAt": "2026-11-19",
+      "assessmentSources": [
+        "https://github.com/WildCodeSchool/2022-03-js-laloupe-quadri-force-p2",
+        "https://webrpg.org/WildCodeSchool-2022-03-js-laloupe-quadri-force-p2/"
+      ],
+      "assessmentNote": "Batch 40 flip reversed: its reason ('repo is not a game, React encyclopedia') was wrong — Project3/ is a real 14-map RPG Maker MZ game (verified map by map) and the v1.1 technical result was playable:true. Quest arc verified (First Cave, Sheikah tablet, 4 shrines, wings at the old temple); no final boss or ending text found in the data. No external coverage found; popularity 1, rating left blank."
+    },
+    "zindanlar-ve-zindanlar": {
+      "schemaVersion": 1,
+      "slug": "zindanlar-ve-zindanlar",
+      "originalTitle": "Zindanlar ve Zindanlar",
+      "translatedTitles": {
+        "en": "Dungeons and Dungeons",
+        "zh-Hans": "地牢与地牢",
+        "ja": "ダンジョンとダンジョン"
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "《Zindanlar ve Zindanlar》是一款土耳其语 RPG Maker 角色扮演游戏：玩家在起始城镇购置武器与药剂后，进入三层地牢战斗、收集物品并升级。",
+          "overview": "玩家从起始城镇出发，可在铁匠铺购买武器、在法师店购买药剂；随后进入三层地牢，逐层战斗、升级，并用神秘钥匙打开通往下一层的门。离开地牢再进入时，怪物会重新出现。游戏是土耳其 Sorgun 职业学院系统分析与设计课程的项目，开发者为 Muhammed Ali Türe。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "Zindanlar ve Zindanlar is a Turkish-language RPG Maker role-playing game: the player buys weapons and potions in the starting town, then fights, collects items and levels up across a three-floor dungeon.",
+          "overview": "Starting from the home town, the player can buy weapons at the blacksmith and potions at the mage shop before entering the three-floor dungeon, fighting monsters, levelling up and using a mysterious key to open the way to the next floor. Monsters respawn when the player leaves the dungeon and re-enters. The game is a course project from Sorgun Vocational School (Systems Analysis and Design), developed by Muhammed Ali Türe.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "『Zindanlar ve Zindanlar』はトルコ語の RPG Maker 製ロールプレイングゲーム。プレイヤーは最初の町で武器やポーションを買い、三層のダンジョンで戦い、アイテムを集めてレベルを上げる。",
+          "overview": "プレイヤーは最初の町から出発し、鍛冶屋で武器を、魔法使いの店でポーションを買ってから、三層のダンジョンに入る。モンスターを倒してレベルを上げ、不思議な鍵で次の階への道を開く。ダンジョンを出て再び入るとモンスターが復活する。本作はトルコ・ソルグン職業学校のシステム分析と設計の授業プロジェクトで、開発者は Muhammed Ali Türe。",
+          "editorialStatus": "draft"
+        }
+      },
+      "taxonomy": {
+        "genres": [
+          "rpg"
+        ],
+        "themes": [
+          "fantasy"
+        ],
+        "mechanics": [
+          "dungeon-crawling",
+          "level-grinding",
+          "key-gated-progression",
+          "monster-respawn",
+          "shop"
+        ],
+        "contentType": "full-game"
+      },
+      "developers": [
+        {
+          "name": "Muhammed Ali Türe",
+          "url": "https://github.com/Wolverinexxxxxz"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/Wolverinexxxxxz-Sat-Muhammed-Ali-Ture/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "wolverinexxxxxz-sat-muhammed-ali-ture",
+          "title": "Zindanlar ve Zindanlar",
+          "languages": [
+            "tr"
+          ],
+          "nsfw": false
+        }
+      ],
+      "externalLinks": [
+        {
+          "url": "https://github.com/Wolverinexxxxxz/Sat-Muhammed-Ali-Ture",
+          "type": "source",
+          "label": "Source repository"
+        },
+        {
+          "url": "https://webrpg.org/Wolverinexxxxxz-Sat-Muhammed-Ali-Ture/",
+          "type": "official",
+          "label": "Play — Zindanlar ve Zindanlar (WebRPG)"
+        }
+      ],
+      "contentAdvisory": {
+        "nsfw": false
+      },
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/Wolverinexxxxxz/Sat-Muhammed-Ali-Ture",
+          "https://raw.githubusercontent.com/Wolverinexxxxxz/Sat-Muhammed-Ali-Ture/main/README.md"
+        ]
+      },
+      "popularity": 2,
+      "assessedAt": "2026-11-19",
+      "assessmentSources": [
+        "https://github.com/Wolverinexxxxxz/Sat-Muhammed-Ali-Ture",
+        "https://raw.githubusercontent.com/Wolverinexxxxxz/Sat-Muhammed-Ali-Ture/main/README.md"
+      ],
+      "assessmentNote": "No Steam/itch/media/community records found in web search (the same-named Zindanlar is an unrelated Turkish tabletop tool); the only sources are the GitHub repo and README, 0 stars / 2 forks. Translated titles are literal translations, no official translations exist."
+    },
+    "volshebnik": {
+      "schemaVersion": 1,
+      "slug": "volshebnik",
+      "originalTitle": "Волшебник",
+      "translatedTitles": {
+        "en": "The Wizard",
+        "zh-Hans": "巫师",
+        "ja": "ヴォルシェブニク"
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "乌拉尔联邦大学课程项目组 AT-01 制作的俄语教育解谜游戏，玩家扮演魔法学校的新生巫师，用物理与数学知识解开魔法谜题。",
+          "overview": "故事发生在魔法学校：宿舍、物理教研室、魔法主教室等 13 张地图，横跨两天的课程与任务。玩家在课堂上学习自然科学知识，再用物理定律施法推进剧情——例如计算融化冰块取出钥匙所需的能量、为骨架选出缺失的骨头。目标受众为 5–9 年级学生。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "A Russian educational puzzle game by UrFU course team AT-01: you play a novice wizard at a magic school, solving puzzles with physics and mathematics.",
+          "overview": "Set in a magic school — dormitory, physics department, main magic classroom and 10 more maps — across two days of lessons and quests. Lessons teach natural science, and magic follows the laws of physics: for example, calculating the energy needed to melt a block of ice to retrieve a key, or picking the missing bone for a skeleton. Aimed at school pupils in grades 5–9.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "ウルラル連邦大学の授業プロジェクトチーム AT-01 によるロシア語の教育パズルゲーム。魔法学校の新米魔法使いとなり、物理と数学の知識で魔法の謎を解く。",
+          "overview": "舞台は魔法学校。寮、物理学教室、魔法の主教室など 13 のマップで、2 日間の授業とクエストが展開する。授業で自然科学を学び、物理法則に基づいて魔法を使う。たとえば氷の中の鍵を取り出すのに必要なエネルギーを計算したり、骨格に足りない骨を選んだりする。対象は 5〜9 年生。",
+          "editorialStatus": "draft"
+        }
+      },
+      "taxonomy": {
+        "genres": [
+          "puzzle"
+        ],
+        "themes": [
+          "educational",
+          "fantasy"
+        ],
+        "mechanics": [
+          "physics-based puzzles"
+        ],
+        "contentType": "full-game"
+      },
+      "developers": [
+        {
+          "name": "AT-01"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/Tripletri-WizardGame/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "tripletri-wizardgame",
+          "title": "Волшебник",
+          "languages": [
+            "ru"
+          ],
+          "nsfw": false
+        }
+      ],
+      "externalLinks": [
+        {
+          "url": "https://github.com/Tripletri/WizardGame",
+          "type": "source",
+          "label": "Source repository"
+        },
+        {
+          "url": "https://webrpg.org/Tripletri-WizardGame/",
+          "type": "official",
+          "label": "Play — Волшебник (WebRPG)"
+        }
+      ],
+      "contentAdvisory": {
+        "nsfw": false
+      },
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/Tripletri/WizardGame",
+          "https://webrpg.org/Tripletri-WizardGame/"
+        ]
+      },
+      "popularity": 1,
+      "assessedAt": "2026-11-19",
+      "assessmentSources": [
+        "https://github.com/Tripletri/WizardGame",
+        "https://webrpg.org/Tripletri-WizardGame/"
+      ],
+      "assessmentNote": "Web search found no external coverage (no Steam/itch/wiki/reviews); only the GitHub repo (0 stars, 2 forks, UrFU course project, 2021) and the webrpg.org mirror — popularity 1, rating left blank. Translated titles are literal translations / transliteration, no official translations exist."
+    },
+    "doroga-dotera": {
+      "schemaVersion": 1,
+      "slug": "doroga-dotera",
+      "originalTitle": "Дорога Дотера",
+      "translatedTitles": {
+        "en": "The Road of a Dota Player",
+        "zh-Hans": "多塔玩家之路",
+        "ja": "ドローガ・ドテラ"
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "俄语 Dota 恶搞 RPG：森林之王偷走了全村的 MMR，英雄踏上夺回 MMR 的旅程。",
+          "overview": "起点是“单排草稿”村，一路经过低优先级、森林、森林之王的城堡、Boss 殿堂、纳粹地堡、“死亡平原”与“大深渊”。8 张地图、1826 行对白、57 场战斗，充斥 Dota 梗（Roshan、Chen、MMR、低分段嘲讽）与 JoJo 梗（Bites the Dust），对白含有大量俄语粗口。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "A Russian Dota-parody RPG: the Forest King has stolen the whole village's MMR, and the hero sets out to win it back.",
+          "overview": "The journey runs from Single Draft village through Low Priority, the forest, the Forest King's castle, the Boss Temple, a Nazi bunker, the Plain of Death and the Great Abyss. 8 maps, 1,826 dialogue lines and 57 battles, packed with Dota jokes (Roshan, Chen, MMR, low-rank trash talk) and a JoJo reference (Bites the Dust). Dialogue contains pervasive Russian profanity.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "ロシア語の Dota パロディ RPG。森の王に村の MMR をすべて奪われ、主人公はそれを取り戻す旅に出る。",
+          "overview": "「シングルドラフト」村を起点に、低優先度、森、森の王の城、ボス神殿、ナチスのバンカー、「死の平原」、「大深淵」へと進む。8 マップ、1826 行の台詞、57 回の戦闘。Roshan、Chen、MMR、低ランク煽りといった Dota ネタと、ジョジョのネタ（Bites the Dust）に満ち、台詞にはロシア語の罵倒語が頻出する。",
+          "editorialStatus": "draft"
+        }
+      },
+      "taxonomy": {
+        "genres": [
+          "rpg"
+        ],
+        "themes": [
+          "comedy",
+          "fantasy"
+        ],
+        "mechanics": [
+          "boss-rush"
+        ],
+        "contentType": "full-game"
+      },
+      "developers": [
+        {
+          "name": "Dalk12"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/Dalk12-DD/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "dalk12-dd",
+          "title": "Дорога Дотера",
+          "languages": [
+            "ru"
+          ],
+          "nsfw": false
+        }
+      ],
+      "externalLinks": [
+        {
+          "url": "https://webrpg.org/Dalk12-DD/",
+          "type": "official",
+          "label": "Play — Дорога Дотера (WebRPG)"
+        }
+      ],
+      "contentAdvisory": {
+        "nsfw": false,
+        "warnings": [
+          "strong language"
+        ]
+      },
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://webrpg.org/Dalk12-DD/"
+        ]
+      },
+      "popularity": 1,
+      "assessedAt": "2026-11-19",
+      "assessmentSources": [
+        "https://webrpg.org/Dalk12-DD/"
+      ],
+      "assessmentNote": "No external coverage found; the GitHub repo Dalk12/DD is deleted (API 404) and the game survives only on the webrpg.org mirror. In-game data shows a full Dota-parody RPG (8 maps, 1,826 dialogue lines, 57 battles). Dialogue contains pervasive Russian profanity but no sexual content — popularity 1, rating left blank. Translated titles are literal translations / transliteration, no official translations exist."
+    },
+    "fargo-zhizn-okhotnika": {
+      "schemaVersion": 1,
+      "slug": "fargo-zhizn-okhotnika",
+      "originalTitle": "Фарго: Жизнь Охотника",
+      "translatedTitles": {
+        "en": "Fargo: Life of a Hunter",
+        "zh-Hans": "法戈：猎人的一生",
+        "ja": "ファルゴ：ジーズニ・オホートニカ"
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "俄语 RPG：年轻猎人法戈在雪原北方山谷的成长故事。",
+          "overview": "父母早逝的法戈由祖父阿维翁——北方最大聚居地扎济米亚的创始人——抚养长大。与忠实的朋友一起走遍北方山谷的每个角落，钓鱼、砍树、采浆果，调查暮光森林夜晚出现的神秘亮光，了解家族的历史。20 张地图、835 行对白，含昼夜系统。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "A Russian RPG: the coming-of-age story of Fargo, a young hunter in the snowy Northern Valley.",
+          "overview": "Orphaned young, Fargo was raised by his grandfather Avion the Hunter, founder of Zazimya, the largest settlement in the snowy northern lands. With loyal friends he travels every corner of the Northern Valley — fishing, chopping wood, gathering berries — investigating the mysterious lights that appeared at night in the Twilight Forest, and learning his family's history. 20 maps, 835 dialogue lines, with a day-and-night system.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "ロシア語 RPG。雪原の北の谷で育つ若き猟師ファルゴの成長物語。",
+          "overview": "幼くして両親を失ったファルゴは、雪原の北部最大の集落ザジミヤの創設者である祖父アヴィオン・ハンターに育てられた。忠実な友と共に北の谷の隅々を巡り、釣りや薪割り、ベリー摘みをしながら、トワイライトの森に夜現れる謎の光を調べ、家族の歴史を知っていく。20 マップ、835 行の台詞、昼夜システム付き。",
+          "editorialStatus": "draft"
+        }
+      },
+      "taxonomy": {
+        "genres": [
+          "rpg"
+        ],
+        "themes": [
+          "slice-of-life"
+        ],
+        "mechanics": [
+          "fishing",
+          "day-night cycle"
+        ],
+        "contentType": "full-game"
+      },
+      "developers": [
+        {
+          "name": "DocPainkiller"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/DocPainkiller-FargoHL/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "docpainkiller-fargohl",
+          "title": "Фарго: Жизнь Охотника",
+          "languages": [
+            "ru"
+          ],
+          "nsfw": false
+        }
+      ],
+      "externalLinks": [
+        {
+          "url": "https://github.com/DocPainkiller/FargoHL",
+          "type": "source",
+          "label": "Source repository"
+        },
+        {
+          "url": "https://webrpg.org/DocPainkiller-FargoHL/",
+          "type": "official",
+          "label": "Play — Фарго: Жизнь Охотника (WebRPG)"
+        }
+      ],
+      "contentAdvisory": {
+        "nsfw": false
+      },
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/DocPainkiller/FargoHL",
+          "https://webrpg.org/DocPainkiller-FargoHL/"
+        ]
+      },
+      "popularity": 1,
+      "assessedAt": "2026-11-19",
+      "assessmentSources": [
+        "https://github.com/DocPainkiller/FargoHL",
+        "https://webrpg.org/DocPainkiller-FargoHL/"
+      ],
+      "assessmentNote": "No external coverage found; only the GitHub repo (0 stars, 2 forks, 2020-2022) and the webrpg.org mirror — popularity 1, rating left blank. Translated titles are literal translations / transliteration, no official translations exist."
+    },
+    "shkola-kiberanalitiki": {
+      "schemaVersion": 1,
+      "slug": "shkola-kiberanalitiki",
+      "originalTitle": "Школа Кибераналитики",
+      "translatedTitles": {
+        "zh-Hans": "网络分析学校",
+        "en": "School of Cyber Analytics",
+        "ja": "シュコーラ・キベラナリティキ"
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "俄语教育向对话游戏：玩家来到网络分析学校，与计算机取证、开源情报、逆向工程三位专家交谈，获取密码与旗标以解锁外部学习平台上的任务。",
+          "overview": "游戏只有一张地图。玩家在学校里走访三位专家：取证专家、开源情报专家和逆向工程专家，对话中包含选择分支；专家会给出秘密代码，玩家凭代码在外部平台解锁对应任务，完成任务可获得胜点与推荐信，对白还提到平台上有揭示“这个世界本身秘密”的隐藏任务。游戏内未发现结局标志。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "A Russian-language educational dialogue game: the player visits a school of cyber analytics, talks to three experts — computer forensics, OSINT and reverse engineering — and receives secret codes to unlock tasks on an external learning platform.",
+          "overview": "The game has a single map. The player walks around the school, talks to the three experts through branching dialogue, collects secret codes to unlock tasks on an external platform, earns victory points and a recommendation letter; the dialogue hints at hidden tasks revealing the secrets of the world itself. No ending was found in the game data.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "ロシア語の教育系対話ゲーム。プレイヤーはサイバーアナリティクス学校を訪れ、フォレンジック、OSINT、リバースエンジニアリングの3人の専門家と会話し、外部の学習プラットフォームの課題を解放するための秘密コードを受け取る。",
+          "overview": "マップは1枚のみ。分岐のある対話で3人の専門家と話し、秘密コードを入手して外部プラットフォームの課題を解放し、勝利ポイントと推薦状を得る。対話にはこの世界の秘密を明かす隠し課題への言及がある。ゲームデータ内にエンディングは確認できなかった。",
+          "editorialStatus": "draft"
+        }
+      },
+      "taxonomy": {
+        "genres": [
+          "adventure"
+        ],
+        "themes": [
+          "educational"
+        ],
+        "mechanics": [
+          "branching dialogue",
+          "password/flag-gated tasks"
+        ],
+        "contentType": "full-game"
+      },
+      "developers": [
+        {
+          "name": "ELGHINN2512"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/ELGHINN2512-CyberSchool/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "elghinn2512-cyberschool",
+          "title": "Школа Кибераналитики",
+          "languages": [
+            "ru"
+          ],
+          "nsfw": false
+        },
+        {
+          "type": "internal",
+          "id": "elghinn2512-testgame",
+          "title": "Школа Кибераналитики",
+          "languages": [
+            "ru"
+          ],
+          "nsfw": false,
+          "notes": "Test copy of the same build (game data files byte-identical to the CyberSchool fork)."
+        }
+      ],
+      "externalLinks": [
+        {
+          "url": "https://github.com/ELGHINN2512/CyberSchool",
+          "type": "source",
+          "label": "Source repository (CyberSchool)"
+        },
+        {
+          "url": "https://github.com/ELGHINN2512/testGame",
+          "type": "source",
+          "label": "Source repository (testGame)"
+        },
+        {
+          "url": "https://webrpg.org/ELGHINN2512-CyberSchool/",
+          "type": "official",
+          "label": "Play — Школа Кибераналитики (WebRPG)"
+        }
+      ],
+      "contentAdvisory": {
+        "nsfw": false
+      },
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/ELGHINN2512/CyberSchool",
+          "https://github.com/ELGHINN2512/testGame"
+        ]
+      },
+      "popularity": 1,
+      "assessedAt": "2026-11-19",
+      "assessmentSources": [
+        "https://github.com/ELGHINN2512/CyberSchool",
+        "https://github.com/ELGHINN2512/testGame"
+      ],
+      "assessmentNote": "Web search 2026-11-19 found no external coverage of 'Школа Кибераналитики' beyond the author's own GitHub forks; both forks' Map002/System/MapInfos are byte-identical, so one game with two instances; rating left blank (no reputation evidence), popularity 1 (no spread beyond the author's own repos). No ending was found in the game data. Translated titles are literal translations / transliteration, no official translations exist."
+    },
+    "ambrosia": {
+      "schemaVersion": 1,
+      "slug": "ambrosia",
+      "originalTitle": "アンブロシア",
+      "translatedTitles": {
+        "zh-Hans": "永生之物",
+        "en": "Ambrosia"
+      },
+      "aliases": {
+        "zh-Hans": [
+          "Ambrosia 永生之物"
+        ]
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "日语成人 RPG《アンブロシア》的中文汉化魔改版：见习神官弗洛德前往偏远岛屿管理旧神殿，为救出被抓走的朋友而寻找传说宝藏。",
+          "overview": "玩家扮演侍奉光明之神的见习神官弗洛德，因卷入丑闻被派往偏远岛屿瑟贝尔斯管理旧神殿、传播信仰；结交魔物女性朋友后朋友被抓走，为救出她须找到散落在岛上的传说宝藏。玩法为开放式奇幻 RPG，可按任意顺序探索迷宫、接受岛民委托、经营神殿，有多个结局。本作为日语成人向作品，含大量成人内容与回想场景；本实例为云心汉化组汉化、呆毛阿卜魔改的中文版。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "A Japanese adult RPG in a Chinese fan-translated, modded edition: apprentice priestess Flode travels to a remote island to run an old shrine and search for legendary treasures to rescue her captured friend.",
+          "overview": "Flode, an apprentice priestess serving the God of Light, is sent to the remote island of Cerbes to manage an old shrine and spread the faith. After befriending a monster woman who is then captured, she must find the legendary treasures scattered across the island to free her. An open-ended fantasy RPG with dungeons in any order, quests and shrine management, and multiple endings. The original is an adult title with extensive adult content and a recollection room; this instance is a Chinese fan translation by 云心汉化组 with mods by 呆毛阿卜.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "日本語アダルトRPG『アンブロシア』の中国語ファン翻訳・改変版。見習い神官フローデが辺境の島で古い神殿を管理し、囚われた友人を救うため伝説の宝を探す。",
+          "overview": "光の神に仕える見習い神官フローデは、騒動に巻き込まれ辺境の島セルベスへ送られ、古い神殿の管理と布教を任される。魔物の女性と親しくなるが彼女が囚われ、救出のため島に散らばる伝説の宝を探すことになる。順不同で挑めるダンジョン、クエスト、神殿経営を備えたオープンエンドのファンタジーRPGで、複数のエンディングがある。原作は成人向け作品で、成人シーンと回想部屋を含む。本インスタンスは云心汉化组による中国語翻訳に呆毛阿卜の改変を加えたもの。",
+          "editorialStatus": "draft"
+        }
+      },
+      "taxonomy": {
+        "genres": [
+          "rpg"
+        ],
+        "themes": [
+          "fantasy"
+        ],
+        "mechanics": [
+          "shrine management",
+          "turn-based battles",
+          "open-ended dungeon exploration",
+          "questing",
+          "dice checks"
+        ],
+        "contentType": "full-game"
+      },
+      "developers": [
+        {
+          "name": "しもばしら工房"
+        }
+      ],
+      "publishers": [
+        {
+          "name": "Kagura Games"
+        }
+      ],
+      "release": {
+        "date": "2021-01-29",
+        "originalPlatforms": [
+          "Windows"
+        ]
+      },
+      "media": {
+        "cover": "https://webrpg.org/anglesgirl-Ambrosia/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "anglesgirl-ambrosia",
+          "title": "Ambrosia 永生之物1.2",
+          "languages": [
+            "zh-Hans"
+          ],
+          "nsfw": true,
+          "version": "1.2",
+          "notes": "云心汉化组中文汉化 + 呆毛阿卜魔改（新增回想与追加内容）；系统/地图名有日文残留。"
+        }
+      ],
+      "externalLinks": [
+        {
+          "url": "https://store.steampowered.com/app/1078350/Ambrosia/",
+          "type": "store",
+          "label": "Steam — Ambrosia"
+        },
+        {
+          "url": "https://www.gog.com/pl/game/ambrosia",
+          "type": "store",
+          "label": "GOG — Ambrosia"
+        },
+        {
+          "url": "https://www.metacritic.com/game/ambrosia-2021/",
+          "type": "other",
+          "label": "Metacritic — Ambrosia (2021)"
+        },
+        {
+          "url": "https://yoruno-atelier.com/articles/doujin-rpg-guide/",
+          "type": "other",
+          "label": "ヨルノアトリエ — 同人エロRPGおすすめ12選"
+        },
+        {
+          "url": "https://webrpg.org/anglesgirl-Ambrosia/",
+          "type": "official",
+          "label": "Play — Ambrosia 永生之物1.2 (WebRPG)"
+        }
+      ],
+      "contentAdvisory": {
+        "nsfw": true,
+        "warnings": [
+          "adult sexual content"
+        ],
+        "officialAgeRating": "R18"
+      },
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://store.steampowered.com/app/1078350/Ambrosia/",
+          "https://www.gog.com/pl/game/ambrosia",
+          "https://yoruno-atelier.com/articles/doujin-rpg-guide/",
+          "https://www.metacritic.com/game/ambrosia-2021/"
+        ]
+      },
+      "rating": 9,
+      "popularity": 6,
+      "assessedAt": "2026-11-19",
+      "assessmentSources": [
+        "https://store.steampowered.com/app/1078350/Ambrosia/",
+        "https://www.gog.com/pl/game/ambrosia",
+        "https://yoruno-atelier.com/articles/doujin-rpg-guide/",
+        "https://eautid.com/category/%e3%81%97%e3%82%82%e3%81%b0%e3%81%97%e3%82%89%e5%b7%a5%e6%88%bf/",
+        "https://www.metacritic.com/game/ambrosia-2021/"
+      ],
+      "assessmentNote": "FANZA original (d_149280, しもばしら工房) rated 4.89/5 from 45 reviews (2026-11-16); English Steam/GOG release by Kagura Games (Jan 2021) confirms the same title, story and developer; the Chinese instance is a fan translation + mod with no separate reputation evidence, so both scores reflect the original. Release date is the Kagura English release (2021-01-29); FANZA original release date unverified."
     }
   }
 }
