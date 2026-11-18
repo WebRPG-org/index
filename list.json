@@ -3126,17 +3126,9 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/Kevin28576-rpgmv-great-escape/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "adventure"
-      ],
-      "languages": [
-        "zh-Hant"
-      ],
-      "nsfw": false,
-      "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "playable": false,
+      "reviewedAt": "2026-11-07",
+      "nsfw": false
     }
   },
   {
@@ -3184,18 +3176,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/arisuYurika-threenights/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "adventure",
-        "horror"
-      ],
-      "languages": [
-        "zh-Hans"
-      ],
-      "nsfw": false,
+      "gameSlug": "san-ye-tan",
       "playable": true,
-      "popularity": 3,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "nsfw": false,
+      "reviewedAt": "2026-11-07",
+      "reviewedSourceHeadSha": "3529832df4da7df89f39e6a374f2f58e8f43e088"
     }
   },
   {
@@ -3222,18 +3207,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/arisuYurika-threenights2/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "adventure",
-        "horror"
-      ],
-      "languages": [
-        "zh-Hans"
-      ],
-      "nsfw": false,
+      "gameSlug": "san-ye-tan-2",
       "playable": true,
-      "popularity": 3,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "nsfw": false,
+      "reviewedAt": "2026-11-07",
+      "reviewedSourceHeadSha": "d20807e09a19fb8dbe5a10d49a8a89cfce30adcf"
     }
   },
   {
@@ -3337,19 +3315,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/thomazli-shanghai/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg",
-        "drama"
-      ],
-      "languages": [
-        "zh-Hans",
-        "en"
-      ],
-      "nsfw": false,
+      "gameSlug": "shanghai",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "nsfw": false,
+      "reviewedAt": "2026-11-07",
+      "reviewedSourceHeadSha": "17f73c617e4cbad89cc1df2bb326b4cc2c1b22e3"
     }
   },
   {
@@ -3982,18 +3952,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/MrXiyi666-WanShenjieGame/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg",
-        "fantasy"
-      ],
-      "languages": [
-        "zh-Hans"
-      ],
-      "nsfw": false,
+      "gameSlug": "wanshenjie-shenzuo",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "nsfw": false,
+      "reviewedAt": "2026-11-07",
+      "reviewedSourceHeadSha": "194f75d32a3b98f7f505acd54275b8c2477ce2c7"
     }
   },
   {
@@ -4627,18 +4590,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/etxian-heroland/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg",
-        "fantasy"
-      ],
-      "languages": [
-        "zh-Hans"
-      ],
-      "nsfw": false,
+      "gameSlug": "yong-zhe-da-lu",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "nsfw": false,
+      "reviewedAt": "2026-11-07",
+      "reviewedSourceHeadSha": "f0b0baf4ac9322c67dbbfec803ab90136b550d02"
     }
   },
   {
@@ -35915,16 +35871,8 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/oden-neetles/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg"
-      ],
-      "languages": [
-        "ja"
-      ],
+      "playable": false,
       "nsfw": false,
-      "playable": true,
-      "popularity": 2,
-      "rating": 4,
       "reviewedAt": "2026-11-12"
     }
   },
@@ -35976,18 +35924,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/akanetr-Bounty_Hunter_3/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg"
-      ],
-      "languages": [
-        "ja",
-        "en"
-      ],
-      "nsfw": true,
+      "gameSlug": "bounty-hunter-3",
       "playable": true,
-      "popularity": 3,
-      "rating": 5,
-      "reviewedAt": "2026-11-12"
+      "nsfw": true,
+      "reviewedAt": "2026-11-12",
+      "reviewedSourceHeadSha": "57ab26c8a6faff88e5e562999a04ea19bcd24b47"
     }
   },
   {
@@ -36140,16 +36081,8 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/oden-Bremen/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "adventure"
-      ],
-      "languages": [
-        "ja"
-      ],
+      "playable": false,
       "nsfw": false,
-      "playable": true,
-      "popularity": 2,
-      "rating": 5,
       "reviewedAt": "2026-11-12"
     }
   },
@@ -36268,18 +36201,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/Cicini-melancholianna/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "adventure"
-      ],
-      "languages": [
-        "ja",
-        "en"
-      ],
-      "nsfw": false,
+      "gameSlug": "melancholianna",
       "playable": true,
-      "popularity": 6,
-      "rating": 5,
-      "reviewedAt": "2026-11-12"
+      "nsfw": true,
+      "reviewedAt": "2026-11-12",
+      "reviewedSourceHeadSha": "98685f94f061aea7bceaf0bba99c224a33b66813"
     }
   },
   {
@@ -36356,17 +36282,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/chorako666-obake/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg"
-      ],
-      "languages": [
-        "ja"
-      ],
-      "nsfw": false,
+      "gameSlug": "rinku-wa-2-kai-kuma",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-12"
+      "nsfw": false,
+      "reviewedAt": "2026-11-12",
+      "reviewedSourceHeadSha": "607cda13c9fa4b927bd3bafa957732cf029a5cb9"
     }
   },
   {

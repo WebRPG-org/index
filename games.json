@@ -29650,6 +29650,751 @@
         "https://webrpg.org/watatarutaru-TickleFantasia/"
       ],
       "assessmentNote": "No external traces found (Japanese title, 'TickleFantasia' and author searches return nothing beyond GitHub/webrpg; repo 1 star, 2 forks, description '20240120'); in-repo data is substantial (48 maps / 737 events / 7,351 map dialogue lines + 3,916 Common Event lines, 60 enemies / 50 troops, recollection gallery); nsfw true confirmed by in-repo erotic-event scenes; languages corrected [ja, en] -> [ja] (no English dialogue); rating blank; popularity 1."
+    },
+    "bounty-hunter-3": {
+      "schemaVersion": 1,
+      "slug": "bounty-hunter-3",
+      "originalTitle": "バウンティハンター3",
+      "translatedTitles": {
+        "zh-Hans": "赏金猎人3",
+        "en": "Bounty Hunter 3"
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "《バウンティハンター3》是一部成人向赏金猎人 RPG：女主角米娜来到最东端的城镇萨普雷斯，成为赏金猎人，领取通缉令、追捕十一名手配犯。本条目对白为英文版。",
+          "overview": "玩家在 11 个地区自由探索，向署长领取手配书后调查并捕获取通缉犯，同时收集枪械零件、经营店铺与不动产、打工赚钱。游戏包含昼夜与天气变化的时间系统、枪械射击战斗、赌场与射击场，以及与三名女主角的好感度与同居系统。本作含有明确的性内容、卖春系统与可重复观看的回想房间。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "Bounty Hunter 3 is an adult bounty-hunter RPG: Mina, a female bounty hunter, arrives in Suppress, the easternmost town, takes on wanted posters and hunts down eleven wanted criminals. The dialogue in this entry is in English.",
+          "overview": "Players explore 11 districts, pick up wanted posters from the chief, investigate and capture fugitives, collect gun parts, and run shops and real estate while taking part-time jobs. The game features a day/night and weather time system, gun-based shooting combat, a casino and shooting range, and an intimacy and cohabitation system with three heroines. It contains explicit sexual content, a prostitution system and a recollection room for replaying scenes.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "『バウンティハンター3』はアダルトな賞金稼ぎRPGです。女性賞金稼ぎのミナは最東端の町サプレスにやって来て、手配書を受け取り、11人の手配犯を追います。本項目の台詞は英語版です。",
+          "overview": "11の地区を自由に探索し、署長から手配書を受け取って手配犯を調査・捕獲しながら、ガンパーツを集め、店舗や不動産を経営し、アルバイトで稼ぎます。昼夜・天候の時間システム、銃による射撃戦闘、カジノや射撃場、3人のヒロインとの親密度・同居システムを備えています。明確な性的な内容、売春システム、シーンを繰り返し見ることができる回想部屋を含みます。",
+          "editorialStatus": "draft"
+        }
+      },
+      "taxonomy": {
+        "genres": [
+          "rpg",
+          "simulation"
+        ],
+        "themes": [
+          "fantasy",
+          "romance"
+        ],
+        "mechanics": [
+          "bounty-hunting",
+          "gun-combat",
+          "time-management",
+          "business-management",
+          "dating",
+          "casino",
+          "recollection-room"
+        ],
+        "contentType": "full-game"
+      },
+      "media": {
+        "cover": "https://webrpg.org/akanetr-Bounty_Hunter_3/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "akanetr-bounty-hunter-3",
+          "title": "バウンティハンター3",
+          "languages": [
+            "en"
+          ],
+          "nsfw": true,
+          "notes": "Dialogue is in English (translated); System locale remains ja_JP and switch/variable names are untranslated."
+        }
+      ],
+      "relations": [],
+      "externalLinks": [
+        {
+          "url": "https://github.com/akanetr/Bounty_Hunter_3",
+          "type": "source",
+          "label": "GitHub source"
+        }
+      ],
+      "contentAdvisory": {
+        "nsfw": true,
+        "warnings": [
+          "sexual content",
+          "prostitution",
+          "non-consensual sexual content"
+        ]
+      },
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/akanetr/Bounty_Hunter_3"
+        ],
+        "qualityFlags": [
+          "original-author-unknown"
+        ]
+      },
+      "popularity": 2,
+      "assessedAt": "2026-11-19",
+      "assessmentSources": [
+        "https://github.com/akanetr/Bounty_Hunter_3"
+      ],
+      "assessmentNote": "No Steam/itch/DLsite/wiki/review coverage found; only the 2-star GitHub repo itself, so rating is left blank and popularity is 2."
+    },
+    "melancholianna": {
+      "schemaVersion": 1,
+      "slug": "melancholianna",
+      "originalTitle": "メランコリアンナ -MELANCHOLIANNA-",
+      "translatedTitles": {
+        "zh-Hans": "忧郁的安娜",
+        "en": "Melancholianna"
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "《メランコリアンナ -MELANCHOLIANNA-》是 Cicini 以 RPG Maker MV 制作的恐怖脱出冒险游戏：玩家在多层设施中探索，解开钥匙、火柴、撬棍、铁锤、炸药与药品等连锁谜题，躲避蜘蛛、触手、地面之手与储物柜怪物的袭击，目标是拿到出口钥匙逃出去。",
+          "overview": "游戏共有 48 张地图、667 个事件，流程围绕多层设施（地下 1 階、1 階、地下 2 階、2 階）展开：收集道具、破解暗証番号、制作炸药炸开通道，在蝴蝶存档点休整。败北会触发 H 场景，全作共 8 个 H 场景（子蜘蛛、亲蜘蛛、壁穴、天井触手、地面手、储物柜怪物、淫兽窟、巨大生物），可在回想房间重温。对白极少，叙事主要靠画面与动画推进。本作含有明确的性内容。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "Melancholianna is a horror escape adventure made with RPG Maker MV by Cicini: players explore a multi-floor facility, solving chained puzzles with keys, matches, a crowbar, a hammer, explosives and chemicals, evading spiders, tentacles, ground hands and locker monsters to reach the exit.",
+          "overview": "The game spans 48 maps and 667 events across basement and upper floors (B1, 1F, B2, 2F): collecting items, cracking passcodes, crafting explosives to blast paths open, and resting at butterfly save points. Defeat triggers H scenes — 8 in total (child spider, parent spider, wall hole, ceiling tentacle, ground hand, locker monster, lust-beast cave, giant creature) — replayable in a recollection room. Dialogue is minimal; the story is told mostly through visuals and animation. The game contains explicit sexual content.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "『メランコリアンナ -MELANCHOLIANNA-』はCiciniによるRPGツクールMV製のホラー脱出アドベンチャーゲームです。複数フロアの施設を探索し、鍵、マッチ、バール、ハンマー、爆弾、薬品などを使った連鎖パズルを解き、蜘蛛、触手、地面の手、ロッカーの怪物から逃れながら、出口の鍵を手に入れて脱出を目指します。",
+          "overview": "48マップ・667イベントで構成され、地下1階・1階・地下2階・2階を行き来しながらアイテムを集め、暗証番号を解き、爆弾を作って道を切り開き、蝶のセーブポイントで休みます。敗北するとHシーンが発生し、全8シーン（子蜘蛛、親蜘蛛、壁穴、天井触手、地面手、ロッカーモンスター、淫獣窟、巨大生物）は回想部屋で再見できます。台詞は少なく、物語は主に映像とアニメーションで語られます。性的な内容を含みます。",
+          "editorialStatus": "draft"
+        }
+      },
+      "taxonomy": {
+        "genres": [
+          "adventure",
+          "puzzle"
+        ],
+        "themes": [
+          "horror",
+          "mystery"
+        ],
+        "mechanics": [
+          "escape",
+          "recollection-room",
+          "defeat-scenes"
+        ],
+        "contentType": "full-game"
+      },
+      "developers": [
+        {
+          "name": "Cicini"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/Cicini-melancholianna/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "cicini-melancholianna",
+          "title": "メランコリアンナ -MELANCHOLIANNA-",
+          "languages": [
+            "ja",
+            "en"
+          ],
+          "nsfw": true
+        }
+      ],
+      "relations": [],
+      "externalLinks": [
+        {
+          "url": "https://github.com/Cicini/melancholianna",
+          "type": "source",
+          "label": "GitHub source"
+        },
+        {
+          "url": "https://melancholianna.pages.dev",
+          "type": "official",
+          "label": "Alternate official site (Pages)"
+        }
+      ],
+      "contentAdvisory": {
+        "nsfw": true,
+        "warnings": [
+          "sexual content",
+          "tentacle and monster sexual content",
+          "horror themes"
+        ]
+      },
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/Cicini/melancholianna",
+          "https://melancholianna.pages.dev"
+        ],
+        "qualityFlags": [
+          "author-unverified",
+          "english-dialogue-unverified"
+        ]
+      },
+      "popularity": 5,
+      "assessedAt": "2026-11-19",
+      "assessmentSources": [
+        "https://github.com/Cicini/melancholianna",
+        "https://melancholianna.pages.dev"
+      ],
+      "assessmentNote": "GitHub repo has 60 stars and 23 forks plus an alternate Pages site, but no Steam/itch/DLsite/wiki/review coverage and no review scores, so rating is left blank and popularity is 5."
+    },
+    "rinku-wa-2-kai-kuma": {
+      "schemaVersion": 1,
+      "slug": "rinku-wa-2-kai-kuma",
+      "originalTitle": "リンクは２階クマ",
+      "translatedTitles": {
+        "zh-Hans": "林克是二楼的熊",
+        "en": "Rinku wa 2-kai Kuma"
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "《リンクは２階クマ》是一部只有两层楼舞台的短篇冒险小品：玩家可以借用熟睡房客的身体，替人跑腿帮忙——摘叶子、送咖啡与酒、招待客人，事后再把身体归还。",
+          "overview": "游戏的核心机制是“借用身体”：对熟睡的房客选择借用或不借，借到身体后完成各种日常委托，重要道具还可以在现实世界中使用。流程短小但完整，内置帮助书最后写着“谢谢游玩！目前还没有续篇”。本作于 2025 年 5 月 19 日发布。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "Rinku wa 2-kai Kuma is a short adventure vignette set in a two-storey house: players borrow the bodies of sleeping lodgers to run errands for them — picking leaves, delivering coffee and drinks, entertaining guests — and return the bodies afterwards.",
+          "overview": "The core mechanic is body-borrowing: choose whether to borrow a soundly sleeping lodger's body, complete everyday requests with it, and decide when to give it back. Items can mostly be equipped, and key items work in the real world. Short but complete, the in-game help book ends with 'Thanks for playing! There is no continuation yet.' Released on 2025-05-19.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "『リンクは２階クマ』は2階建ての小さな家を舞台にした短編アドベンチャーです。ぐっすり眠る宿泊人の身体を借りて、葉っぱを摘んだり、コーヒーやお酒を届けたりとお手伝いをし、あとで身体を返します。",
+          "overview": "中心となる仕組みは「身体を借りる」こと。眠る宿泊人に「お借りする」か「お借りしない」かを選び、借りた身体で日常の頼みごとをこなし、「身体をお返しする」こともできます。手に入れたものは大体装備でき、大事なものは現実世界で使えます。短いながら完結した作品で、ゲーム内のヘルプには「遊んでくれてありがとう！続きはまだ無いよ」と書かれています。2025年5月19日公開。",
+          "editorialStatus": "draft"
+        }
+      },
+      "taxonomy": {
+        "genres": [
+          "adventure"
+        ],
+        "themes": [
+          "fantasy",
+          "slice-of-life"
+        ],
+        "mechanics": [
+          "body-borrowing"
+        ],
+        "contentType": "full-game"
+      },
+      "developers": [
+        {
+          "name": "chorako666"
+        }
+      ],
+      "release": {
+        "date": "2025-05-19"
+      },
+      "media": {
+        "cover": "https://webrpg.org/chorako666-obake/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "chorako666-obake",
+          "title": "リンクは２階クマ",
+          "languages": [
+            "ja"
+          ],
+          "nsfw": false
+        }
+      ],
+      "relations": [],
+      "externalLinks": [
+        {
+          "url": "https://github.com/chorako666/obake",
+          "type": "source",
+          "label": "GitHub source"
+        }
+      ],
+      "contentAdvisory": {
+        "nsfw": false,
+        "warnings": []
+      },
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/chorako666/obake"
+        ],
+        "qualityFlags": [
+          "title-meaning-unverified"
+        ]
+      },
+      "popularity": 1,
+      "assessedAt": "2026-11-19",
+      "assessmentSources": [
+        "https://github.com/chorako666/obake"
+      ],
+      "assessmentNote": "No Steam/itch/wiki/review coverage found; only the 0-star GitHub repo itself, so rating is left blank and popularity is 1."
+    },
+    "wanshenjie-shenzuo": {
+      "schemaVersion": 1,
+      "slug": "wanshenjie-shenzuo",
+      "originalTitle": "万神劫•神座",
+      "translatedTitles": {
+        "en": "Wanshenjie Shenzuo",
+        "ja": "バンシンゴウ・シンザ"
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "《万神劫•神座》是一款 RPG Maker MZ 制作的挂机 RPG：玩家在新手村、归元城、天神城等城镇接取任务，收集材料、讨伐哥布林与灰狼，挑战定时开启的副本，用魔石与成长装备不断变强。",
+          "overview": "游戏围绕挂机循环展开：城镇中有连续的任务链（收集 10 个铁矿石、帮村民抢回被哥布林抢走的粮食、清除黑暗森林的灰狼、讨伐魔物“爆熊”），奖励为魔石与成长装备（如战魂刀提升攻击）。副本每小时开启一次，神秘领域按日期轮换（黑暗森林、世外桃源、碧澜湾、花海畔）。作者自研了一套 Fun_* 插件（战斗核心、地图核心、任务窗口、成长装备、日期判定等）支撑这套系统。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "Wanshenjie Shenzuo is an idle RPG made with RPG Maker MZ: players take quests in towns such as the Novice Village, Guiyuan City and Celestial City, gather materials, fight goblins and grey wolves, challenge dungeons that open once an hour, and grow stronger with magic stones and growth equipment.",
+          "overview": "The game runs on an idle loop: towns offer chained quests (collect 10 iron ores, retrieve grain stolen by goblins, clear the grey wolves of the Dark Forest, defeat the monster Bao Xiong), rewarding magic stones and growth gear such as the War Soul Blade (+5% attack). Dungeons open hourly, and the Mysterious Realm rotates by date (Dark Forest, Paradise, Bilang Bay, Flower Shore). The author built a custom Fun_* plugin suite (battle core, map core, quest window, equipment growth, date checks) to run the system.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "『万神劫•神座』はRPGツクールMZ製の放置RPGです。初心者村、帰元城、天神城などの町でクエストを受け、素材を集め、ゴブリンや灰狼を討伐し、1時間ごとに開くダンジョンに挑み、魔石と成長装備で強くなります。",
+          "overview": "放置を軸にしたループで進行します。町には連続クエストがあり（鉄鉱石10個の収集、ゴブリンに奪われた食料の奪還、暗黒森林の灰狼の討伐、魔物「爆熊」の討伐）、報酬として魔石と成長装備（戦魂刀の攻撃力+5%など）が得られます。ダンジョンは1時間ごとに開き、神秘領域は日付で切り替わります（黑暗森林、世外桃源、碧澜湾、花海畔）。作者は戦闘コア、マップコア、クエストウィンドウ、成長装備、日付判定などを含む自作Fun_*プラグイン群でこのシステムを支えています。",
+          "editorialStatus": "draft"
+        }
+      },
+      "taxonomy": {
+        "genres": [
+          "rpg"
+        ],
+        "themes": [
+          "fantasy"
+        ],
+        "mechanics": [
+          "idle",
+          "auto-battle",
+          "equipment-growth"
+        ],
+        "contentType": "full-game"
+      },
+      "developers": [
+        {
+          "name": "MrXiyi666"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/MrXiyi666-WanShenjieGame/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "mrxiyi666-wanshenjiegame",
+          "title": "万神劫•神座",
+          "languages": [
+            "zh-Hans"
+          ],
+          "nsfw": false
+        }
+      ],
+      "relations": [],
+      "externalLinks": [
+        {
+          "url": "https://github.com/MrXiyi666/WanShenjieGame",
+          "type": "source",
+          "label": "GitHub source"
+        }
+      ],
+      "contentAdvisory": {
+        "nsfw": false,
+        "warnings": []
+      },
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/MrXiyi666/WanShenjieGame"
+        ],
+        "qualityFlags": [
+          "eleven-empty-maps"
+        ]
+      },
+      "popularity": 1,
+      "assessedAt": "2026-11-19",
+      "assessmentSources": [
+        "https://github.com/MrXiyi666/WanShenjieGame"
+      ],
+      "assessmentNote": "No Steam/itch/wiki/review coverage found; only the 0-star GitHub repo itself, so rating is left blank and popularity is 1."
+    },
+    "san-ye-tan": {
+      "schemaVersion": 1,
+      "slug": "san-ye-tan",
+      "originalTitle": "三夜谈",
+      "translatedTitles": {
+        "en": "Tales of Three Nights",
+        "ja": "三夜談"
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "《三夜谈》第一章是 arisuYurika 个人开发的《最终幻想 7》同人恐怖小游戏：19 岁的克劳德独自来到陌生的都市工作，因价格极低租住了克雷森特公寓，却在三个夜晚里遭遇一连串怪事。",
+          "overview": "公寓的主人是 28 岁的萨菲罗斯——克雷森特现任家主兼高级司教。玩家在三个夜晚中探索公寓：电话线被人剪断、电梯流血、墙壁出现血手印、镜中浮现萨菲罗斯的身影，还要解开对称房间的密码、图书室的镜面反转与限时拼图，逐步揭开十四年前离奇失踪的上任家主露克蕾西亚与生物学家宝条、杰诺瓦细胞的秘密。本作含有 BL 向关系线，作者自注“直男慎玩”。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "Tales of Three Nights: Chapter 1 is a solo-developed Final Fantasy VII fan horror game by arisuYurika: 19-year-old Cloud moves to a strange city for work and rents a suspiciously cheap room in the Crescent Apartment, where strange things happen over three nights.",
+          "overview": "The apartment's owner is 28-year-old Sephiroth, current head of the Crescent family and a senior priest. Across three nights players explore the apartment: a phone line cut by someone, a bleeding elevator, bloody handprints on the walls, Sephiroth appearing in mirrors, plus the symmetric room's passcode, the library's mirror inversion and timed puzzles — gradually uncovering the secret of Lucrecia, the former head who vanished fourteen years ago, the biologist Hojo, and the Jenova cells. The game has a BL romance thread; the author warns 'straight guys beware'.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "『三夜談』第一章はarisuYurikaによる個人開発の『ファイナルファンタジーVII』二次創作ホラーゲームです。19歳のクラウドは見知らぬ都市で働くため格安のクレセントアパートを借りますが、三つの夜のあいだに次々と怪事に見舞われます。",
+          "overview": "アパートの主人は28歳のセフィロス。クレセント家の現当主であり上級司教でもあります。プレイヤーは三夜にわたってアパートを探索します。切断された電話線、血を流すエレベーター、壁の血の手形、鏡の中のセフィロス、対称の部屋の暗証番号、図書室の鏡面反転、制限時間付きパズルなどを解きながら、14年前に失踪した前当主ルクレツィア、生物学者・宝条、ジェノバ細胞の秘密に迫ります。BL要素を含み、作者は「直男慎玩（ストレートの人は注意）」と記しています。",
+          "editorialStatus": "draft"
+        }
+      },
+      "taxonomy": {
+        "genres": [
+          "adventure"
+        ],
+        "themes": [
+          "horror",
+          "mystery",
+          "romance"
+        ],
+        "mechanics": [
+          "exploration",
+          "puzzle-solving"
+        ],
+        "contentType": "full-game"
+      },
+      "developers": [
+        {
+          "name": "arisuYurika"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/arisuYurika-threenights/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "arisuyurika-threenights",
+          "title": "三夜谈",
+          "languages": [
+            "zh-Hans"
+          ],
+          "nsfw": false
+        }
+      ],
+      "relations": [
+        {
+          "gameId": "san-ye-tan-2",
+          "type": "same-series"
+        }
+      ],
+      "externalLinks": [
+        {
+          "url": "https://github.com/arisuYurika/threenights",
+          "type": "source",
+          "label": "GitHub source"
+        },
+        {
+          "url": "https://337319179.lofter.com/post/1d06ee3c_2b66e9c0f",
+          "type": "official",
+          "label": "Download post (Lofter)"
+        }
+      ],
+      "contentAdvisory": {
+        "nsfw": false,
+        "warnings": [
+          "horror themes",
+          "blood"
+        ]
+      },
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/arisuYurika/threenights",
+          "https://337319179.lofter.com/post/1d06ee3c_2b66e9c0f"
+        ],
+        "qualityFlags": [
+          "fan-work-ff7",
+          "character-bios-from-chapter-2"
+        ]
+      },
+      "popularity": 2,
+      "assessedAt": "2026-11-19",
+      "assessmentSources": [
+        "https://github.com/arisuYurika/threenights",
+        "https://337319179.lofter.com/post/1d06ee3c_2b66e9c0f"
+      ],
+      "assessmentNote": "Repo has 7 stars and 3 forks and a Lofter download post, but no Steam/itch/wiki/review coverage and no review scores, so rating is left blank and popularity is 2."
+    },
+    "san-ye-tan-2": {
+      "schemaVersion": 1,
+      "slug": "san-ye-tan-2",
+      "originalTitle": "三夜谈第二章",
+      "translatedTitles": {
+        "en": "Tales of Three Nights: Chapter 2",
+        "ja": "三夜談第二章"
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "《三夜谈》第二章是 arisuYurika 个人开发的《最终幻想 7》同人恐怖小游戏的续篇：克劳德在克雷森特公寓的遭遇继续展开，新增收容区域、地下二层、墓室与天台，并有一条 BE（坏结局）路线。",
+          "overview": "第二章延续第一章的故事，在原有公寓场景之外加入收容区域与收容室、地下二层、墓室深处与天台等新区域，以及图书室（里世界）与图书左室谜题。医生向克劳德解释杰诺瓦细胞的真相——以葡萄树与枝子作比，并提到“你的那条腿现在不也在 32 号收容室满地蹦跶吗？”；游戏中还有四段被篡改的圣经教义，构成邪教布道线。BE 路线中露克蕾西亚在大厅出现。本作含有 BL 向关系线。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "Tales of Three Nights: Chapter 2 is the sequel to arisuYurika's solo-developed Final Fantasy VII fan horror game: Cloud's ordeal in the Crescent Apartment continues, adding a containment area, basement level 2, a tomb and a rooftop, plus a bad-ending (BE) route.",
+          "overview": "Chapter 2 continues the story with new areas beyond the original apartment: the containment area and its cells, basement level 2, the tomb and its depths, and the rooftop, along with the library's inner world and the left library room puzzle. A doctor explains the truth about the Jenova cells to Cloud — using the vine-and-branches metaphor — and remarks that his leg is now hopping around in containment room 32; four twisted Bible doctrines form a cult-preaching thread. In the BE route, Lucrecia appears in the hall. The game has a BL romance thread.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "『三夜談』第二章はarisuYurikaによる個人開発の『ファイナルファンタジーVII』二次創作ホラーゲームの続編です。クレセントアパートでのクラウドの受難が続き、収容区域、地下2階、墓室、屋上が加わり、バッドエンド（BE）ルートも用意されています。",
+          "overview": "第二章は元の屋敷の場面に加え、収容区域と収容室、地下2階、墓室とその奥、屋上などの新エリアや、図書室（裏世界）と図書左室のパズルが登場します。医師はクラウドにジェノバ細胞の真実を説明します。ブドウの木と枝のたとえを用い、「君の脚は今も32号収容室で跳ね回っている」と語ります。改変された聖書の教義が4つ登場し、カルト布教の筋をなします。BEルートではルクレツィアがホールに現れます。BL要素を含みます。",
+          "editorialStatus": "draft"
+        }
+      },
+      "taxonomy": {
+        "genres": [
+          "adventure"
+        ],
+        "themes": [
+          "horror",
+          "mystery",
+          "romance"
+        ],
+        "mechanics": [
+          "exploration",
+          "puzzle-solving"
+        ],
+        "contentType": "full-game"
+      },
+      "developers": [
+        {
+          "name": "arisuYurika"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/arisuYurika-threenights2/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "arisuyurika-threenights2",
+          "title": "三夜谈",
+          "languages": [
+            "zh-Hans"
+          ],
+          "nsfw": false
+        }
+      ],
+      "relations": [
+        {
+          "gameId": "san-ye-tan",
+          "type": "same-series"
+        }
+      ],
+      "externalLinks": [
+        {
+          "url": "https://github.com/arisuYurika/threenights2",
+          "type": "source",
+          "label": "GitHub source"
+        }
+      ],
+      "contentAdvisory": {
+        "nsfw": false,
+        "warnings": [
+          "horror themes",
+          "blood"
+        ]
+      },
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/arisuYurika/threenights2"
+        ],
+        "qualityFlags": [
+          "fan-work-ff7",
+          "nsfw-keyword-unlocated"
+        ]
+      },
+      "popularity": 1,
+      "assessedAt": "2026-11-19",
+      "assessmentSources": [
+        "https://github.com/arisuYurika/threenights2"
+      ],
+      "assessmentNote": "Repo has 0 stars and 2 forks and no external coverage found, so rating is left blank and popularity is 1."
+    },
+    "shanghai": {
+      "schemaVersion": 1,
+      "slug": "shanghai",
+      "originalTitle": "上海",
+      "translatedTitles": {
+        "en": "Shanghai",
+        "ja": "上海"
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "《上海》是一款以民国上海文化为题材的探索 RPG：道观弟子在师父步高失踪五年后，凭一张字迹潦草的字条来到斯文里，穿行于旗袍店、百乐门、兰心大戏院、大世界与红十字会之间，寻找师父的下落。",
+          "overview": "玩家在 1920 年代的上海街巷中探索，与皮匠、旗袍店主等人对话，解开日记密码、完成旗袍店待客等任务，逐步拼凑师父失踪的真相：五年前槐树遭雷劈之夜，师父留下一张字条后消失在后山；师父旧居里民国十一年六月的日历与玉兰花图案留下了新的线索。本作附有一整套上海近代文化调研文档。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "Shanghai is an exploration RPG about Republican-era Shanghai culture: five years after his master Bu Gao vanished, a Taoist disciple follows a scribbled note to Siwenli and searches for him through a qipao shop, the Paramount Ballroom, the Lyceum Theatre, the Great World and the Red Cross.",
+          "overview": "Players explore 1920s Shanghai streets, talk to a cobbler, a qipao shopkeeper and others, unlock a diary with a password and serve customers at the qipao shop, piecing together the truth: on the night a locust tree was struck by lightning five years ago, the master left a note and vanished into the back mountain; his old home holds new clues in a June 1922 calendar and a magnolia pattern. The project includes a full set of research notes on modern Shanghai culture.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "『上海』は民国期の上海文化を題材にした探索RPGです。師匠の歩高が行方不明になって5年後、道観の弟子は走り書きのメモを手がかりに斯文里へやって来て、旗袍店、百楽門、蘭心大劇院、大世界、紅十字会などを巡りながら師匠の行方を追います。",
+          "overview": "1920年代の上海の街並みを探索し、靴職人や旗袍店の主人などと会話し、日記のパスワードを解いたり旗袍店で客をもてなしたりしながら、師匠失踪の真相に迫ります。5年前、槐の木に落雷した夜、師匠はメモを残して裏山へ消えました。師匠の旧居に残る民国11年6月のカレンダーと木蘭の模様が新たな手がかりとなります。プロジェクトには上海近代文化に関する調査資料一式が付属しています。",
+          "editorialStatus": "draft"
+        }
+      },
+      "taxonomy": {
+        "genres": [
+          "adventure",
+          "rpg"
+        ],
+        "themes": [
+          "drama",
+          "mystery",
+          "slice-of-life"
+        ],
+        "mechanics": [
+          "exploration",
+          "investigation",
+          "mini-games"
+        ],
+        "contentType": "full-game"
+      },
+      "developers": [
+        {
+          "name": "thomazli",
+          "url": "https://github.com/thomazli/shanghai"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/thomazli-shanghai/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "thomazli-shanghai",
+          "title": "上海",
+          "languages": [
+            "zh-Hans"
+          ],
+          "nsfw": false,
+          "notes": "All story dialogue is Chinese. System locale is en_US and the SRD Translation Engine translates menu commands only (Translations.json msg is empty); the earlier 'en' language tag is corrected to zh-Hans only."
+        }
+      ],
+      "relations": [],
+      "externalLinks": [
+        {
+          "url": "https://github.com/thomazli/shanghai",
+          "type": "source",
+          "label": "GitHub source"
+        }
+      ],
+      "contentAdvisory": {
+        "nsfw": false
+      },
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/thomazli/shanghai"
+        ],
+        "qualityFlags": [
+          "no-ending-found"
+        ]
+      },
+      "popularity": 1,
+      "assessedAt": "2026-11-19",
+      "assessmentSources": [
+        "https://github.com/thomazli/shanghai"
+      ],
+      "assessmentNote": "Only the GitHub repo itself (0 stars, 2 forks, 1 watcher; created 2022-01-21); no Steam/itch/wiki/review coverage, so rating is left blank and popularity is 1."
+    },
+    "yong-zhe-da-lu": {
+      "schemaVersion": 1,
+      "slug": "yong-zhe-da-lu",
+      "originalTitle": "勇者大陆",
+      "translatedTitles": {
+        "en": "Yongzhe Dalu",
+        "ja": "勇者大陸"
+      },
+      "introductions": {
+        "zh-Hans": {
+          "summary": "《勇者大陆》是一部生活化喜剧探索小品：在勇者大陆东南方、水雾森林旁的白虹镇，睡相最差的少年巴拿拿被自称“良知”的声音叫醒，接到的第一个任务是——让油条去买一点点奶茶。",
+          "overview": "玩家扮演巴拿拿，在白虹镇里自由探索：串访油条、ET、晚报等人的家，摆弄钢琴、电视、电话与各家的绿植，钓鱼、看路牌，在商店街的路障前止步。本作没有战斗，以大量生活化物件互动与谐音冷笑话见长；任务钩子没有后续，游戏也没有结局，是一部 2017 年的学生实验作品。",
+          "editorialStatus": "draft"
+        },
+        "en": {
+          "summary": "Yongzhe Dalu is a slice-of-life comedy exploration vignette: in Baihong Town, beside the Misty Forest in the southeast of the Hero Continent, Banana — the town's worst sleeper — is woken by a voice calling itself his Conscience, whose first quest is to send Youtiao out to buy bubble tea from Yidiandian.",
+          "overview": "Players control Banana and wander freely around Baihong Town: visiting the homes of Youtiao, ET and Wanbao, fiddling with pianos, televisions, telephones and houseplants, fishing, and reading signposts, stopping at the roadblock on the shopping street. There is no combat; the game leans on everyday object interactions and pun-filled humour. The quest hook has no follow-up and the game has no ending — a 2017 student experiment.",
+          "editorialStatus": "draft"
+        },
+        "ja": {
+          "summary": "『勇者大陸』は生活感あふれるコメディ探索小品です。勇者大陸の南東、水霧森林のそばにある白虹鎮で、町一番の寝相の悪さを誇る少年バナナが「良知」と名乗る声に起こされ、最初の任務を与えられます——油条に一点点のタピオカミルクティーを買いに行かせること。",
+          "overview": "プレイヤーはバナナとなり、白虹鎮を自由に歩き回ります。油条、ET、晩報らの家を訪ね、ピアノやテレビ、電話、観葉植物などをいじり、釣りをし、標識を読み、商店街のバリケードの前で足を止めます。戦闘はなく、日常的なオブジェクトとのやり取りと駄洒落のユーモアが中心です。クエストの続きはなく、エンディングもない、2017年の学生実験作品です。",
+          "editorialStatus": "draft"
+        }
+      },
+      "taxonomy": {
+        "genres": [
+          "adventure"
+        ],
+        "themes": [
+          "fantasy",
+          "comedy",
+          "slice-of-life"
+        ],
+        "mechanics": [
+          "exploration",
+          "object-interaction",
+          "fishing"
+        ],
+        "contentType": "prototype"
+      },
+      "developers": [
+        {
+          "name": "etxian",
+          "url": "https://github.com/etxian/heroland"
+        }
+      ],
+      "media": {
+        "cover": "https://webrpg.org/etxian-heroland/cover.png"
+      },
+      "instances": [
+        {
+          "type": "internal",
+          "id": "etxian-heroland",
+          "title": "勇者大陆",
+          "languages": [
+            "zh-Hans"
+          ],
+          "nsfw": false
+        }
+      ],
+      "relations": [],
+      "externalLinks": [
+        {
+          "url": "https://github.com/etxian/heroland",
+          "type": "source",
+          "label": "GitHub source"
+        }
+      ],
+      "contentAdvisory": {
+        "nsfw": false
+      },
+      "editorial": {
+        "status": "draft",
+        "sources": [
+          "https://github.com/etxian/heroland"
+        ],
+        "qualityFlags": [
+          "unfinished-no-ending",
+          "quest-hook-unresolvable"
+        ]
+      },
+      "popularity": 1,
+      "assessedAt": "2026-11-19",
+      "assessmentSources": [
+        "https://github.com/etxian/heroland"
+      ],
+      "assessmentNote": "Only the GitHub repo itself (0 stars, 2 forks, 4 watchers; all 13 commits are test commits from three days in June 2017); the title collides with unrelated games (Braveland Heroes, Hero's Land MMO, Nintendo Heroland) but none of them is this game, so rating is left blank and popularity is 1."
     }
   }
 }
