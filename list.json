@@ -23444,9 +23444,8 @@
     "meta": {
       "nsfw": false,
       "playable": false,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-08"
+      "reviewedAt": "2026-11-08",
+      "reviewedSourceHeadSha": "5b6fbf082a2c02748f997619471f69e5e56aa028"
     }
   },
   {
@@ -24316,12 +24315,10 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/oliverokeefe-rpg-maker-scratchpad/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "template"
-      ],
       "nsfw": false,
-      "playable": true,
-      "reviewedAt": "2026-11-07"
+      "playable": false,
+      "reviewedAt": "2026-11-07",
+      "reviewedSourceHeadSha": "1e198642affc53282ccc09ea4d17bc27d0038dd5"
     }
   },
   {
@@ -24381,12 +24378,10 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/RedPillPhil-testeroni/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "template"
-      ],
       "nsfw": false,
       "playable": false,
-      "reviewedAt": "2026-11-07"
+      "reviewedAt": "2026-11-07",
+      "reviewedSourceHeadSha": "a2f486ef1caefe87b932c9393d487722b9387992"
     }
   },
   {
@@ -24463,12 +24458,10 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/Safmica-rpg_maker_test/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "template"
-      ],
       "nsfw": false,
       "playable": false,
-      "reviewedAt": "2026-11-07"
+      "reviewedAt": "2026-11-07",
+      "reviewedSourceHeadSha": "6f86800ca1392db89890e224b38bcfd4b3451dcd"
     }
   },
   {
@@ -24594,12 +24587,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/yan-0929-yyy-RPG-Maker/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "template"
-      ],
+      "gameSlug": "rpg-maker",
       "nsfw": false,
       "playable": true,
-      "reviewedAt": "2026-11-07"
+      "reviewedAt": "2026-11-07",
+      "reviewedSourceHeadSha": "b06c7e194b5d5be042a26a5d25b2fafcc37c7f61"
     }
   },
   {
@@ -24663,9 +24655,8 @@
     "meta": {
       "nsfw": false,
       "playable": false,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-08"
+      "reviewedAt": "2026-11-08",
+      "reviewedSourceHeadSha": "66ddd29df16ffa63f406131fd3b4f2fe9875c97a"
     }
   },
   {
@@ -24695,13 +24686,10 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/LiXiaYu-MVMota/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "template"
-      ],
       "nsfw": false,
-      "playable": true,
+      "playable": false,
       "reviewedAt": "2026-11-08",
-      "title": "MVMota"
+      "reviewedSourceHeadSha": "92db15e275cc909d85d9d4ad9dac4c4fda926908"
     }
   },
   {
@@ -24731,14 +24719,10 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/31madA-LIYAB-Prime/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg"
-      ],
       "nsfw": false,
       "playable": false,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "reviewedAt": "2026-11-07",
+      "reviewedSourceHeadSha": "df3b6c8a3f1a8ff6fdbea4a44055439bc97de0a7"
     }
   },
   {
@@ -24866,14 +24850,10 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/mattieFM-idkGame/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg"
-      ],
       "nsfw": false,
       "playable": false,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "reviewedAt": "2026-11-07",
+      "reviewedSourceHeadSha": "90e63668e506a4f42d1ea1d7db5cfdb344821ec0"
     }
   },
   {
@@ -24927,12 +24907,10 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/sinonymousx-rpgMakerTest/ served an RPG Maker entry point and its startup resources",
     "meta": {
+      "nsfw": false,
+      "playable": false,
       "reviewedAt": "2026-11-07",
-      "playable": true,
-      "genres": [
-        "template"
-      ],
-      "nsfw": false
+      "reviewedSourceHeadSha": "cb5a757cf851ab1d4f396143bd233c1f98dfabd7"
     }
   },
   {

@@ -35611,6 +35611,80 @@
         "ja": "緋月仙行録",
         "zh-Hans": "绯月仙行录"
       }
+    },
+    "rpg-maker": {
+      "assessedAt": "2026-11-20",
+      "assessmentNote": "Web search 2026-11-20 found no reviews, store pages or community discussion: GitHub island (0 stars, single commit 2025-07-20). Popularity 1 for no evidence of spread; rating left blank (no reputation evidence).",
+      "assessmentSources": [
+        "https://github.com/yan-0929-yyy/RPG-Maker"
+      ],
+      "contentAdvisory": {
+        "nsfw": false
+      },
+      "developers": [
+        {
+          "name": "yan-0929-yyy",
+          "url": "https://github.com/yan-0929-yyy"
+        }
+      ],
+      "editorial": {
+        "reviewedAt": "2026-11-20",
+        "sources": [
+          "https://github.com/yan-0929-yyy/RPG-Maker"
+        ],
+        "status": "draft"
+      },
+      "externalLinks": [
+        {
+          "label": "Source repository",
+          "type": "source",
+          "url": "https://github.com/yan-0929-yyy/RPG-Maker"
+        }
+      ],
+      "instances": [
+        {
+          "id": "yan-0929-yyy-rpg-maker",
+          "languages": [
+            "zh-Hant"
+          ],
+          "nsfw": false,
+          "title": "Project1",
+          "type": "internal"
+        }
+      ],
+      "introductions": {
+        "en": {
+          "editorialStatus": "draft",
+          "overview": "A personal practice project by yan-0929-yyy. Thin but structurally complete: 12 maps linked by 23 transfer events into one explorable world, 67 events and 35 lines of dialogue, mostly item-inspection text and battle events, with a near-default MV database.",
+          "summary": "A small amateur RPG made with RPG Maker MV: explore a 12-map world of town, mansion, forest, ruins and villa, inspect objects and fight battles."
+        },
+        "ja": {
+          "editorialStatus": "draft",
+          "overview": "yan-0929-yyyによる個人習作。内容は薄いが構造は完整で、23個の転送イベントで結ばれた12マップ、67イベント・35行の台詞を備え、アイテム調査テキストと戦闘イベントが中心。データベースはほぼMVデフォルト。",
+          "summary": "RPGツクールMVで作られたアマチュアの小品RPG。町・屋敷・森・遺跡・別墅からなる12マップの世界を探索し、物を調べ、戦闘する。"
+        },
+        "zh-Hans": {
+          "editorialStatus": "draft",
+          "overview": "作者 yan-0929-yyy 的个人习作，内容单薄但结构完整：12 张地图以 23 个传送事件连成一个可探索的世界，67 个事件、35 行对白，以物品调查文本与战斗事件为主，数据库基本沿用 MV 默认内容。",
+          "summary": "一部用 RPG Maker MV 制作的业余小品 RPG：玩家在由城镇、大厦、森林、遗迹与别墅连成的 12 张地图间探索，调查物品、触发战斗。"
+        }
+      },
+      "media": {
+        "cover": "https://webrpg.org/yan-0929-yyy-RPG-Maker/cover.png"
+      },
+      "originalTitle": "Project1",
+      "popularity": 1,
+      "schemaVersion": 1,
+      "slug": "rpg-maker",
+      "taxonomy": {
+        "contentType": "full-game",
+        "genres": [
+          "rpg"
+        ],
+        "themes": [
+          "fantasy"
+        ]
+      }
     }
   }
 }
