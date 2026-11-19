@@ -1175,18 +1175,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/lisachouHC-drdresapre/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "adventure",
-        "puzzle"
-      ],
-      "languages": [
-        "zh-Hant"
-      ],
-      "nsfw": false,
+      "gameSlug": "deladela-escape",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "nsfw": false,
+      "reviewedAt": "2026-11-07",
+      "reviewedSourceHeadSha": "df27ec68311ddb7c290452bb4eee2dd7840d5582"
     }
   },
   {
@@ -1213,18 +1206,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/lisachouHC-drdrescape_V2/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "adventure",
-        "puzzle"
-      ],
-      "languages": [
-        "zh-Hant"
-      ],
-      "nsfw": false,
+      "gameSlug": "deladela-escape",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "nsfw": false,
+      "reviewedAt": "2026-11-07",
+      "reviewedSourceHeadSha": "58f8c23d2156fa22c959ef7ea650e3164760340a"
     }
   },
   {
@@ -1595,18 +1581,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/myueqf-myueqf.github.io/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "visual-novel",
-        "fantasy"
-      ],
-      "languages": [
-        "zh-Hans"
-      ],
-      "nsfw": false,
+      "gameSlug": "guihuan",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "nsfw": false,
+      "reviewedAt": "2026-11-07",
+      "reviewedSourceHeadSha": "42fd70da1c589421976b23624368ef4d11ab4c07"
     }
   },
   {
@@ -2162,18 +2141,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/kata235-MV01/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "adventure",
-        "horror"
-      ],
-      "languages": [
-        "ja"
-      ],
-      "nsfw": false,
+      "gameSlug": "rouka-de-onigokko",
       "playable": true,
-      "popularity": 3,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "nsfw": false,
+      "reviewedAt": "2026-11-07",
+      "reviewedSourceHeadSha": "76c2a471af770e097dd65a72b0fd8ec3d4a10d4d"
     }
   },
   {
@@ -3304,19 +3276,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/eric0308a-Game_shao_cao_zhi/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "adventure",
-        "slice-of-life"
-      ],
-      "languages": [
-        "zh-Hant"
-      ],
-      "nsfw": false,
+      "gameSlug": "shaonu-shacaozhi",
       "playable": true,
-      "popularity": 4,
-      "rating": 5,
+      "nsfw": true,
       "reviewedAt": "2026-11-07",
-      "title": "少女莎草紙"
+      "reviewedSourceHeadSha": "fd57980e3018f60835e9273ab7b5cc91fc447886"
     }
   },
   {
@@ -4090,17 +4054,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/cara-ko-RPG/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg"
-      ],
-      "languages": [
-        "zh-Hant"
-      ],
-      "nsfw": false,
+      "gameSlug": "xiao-bu-rpg",
       "playable": true,
-      "popularity": 2,
-      "rating": 4,
-      "reviewedAt": "2026-11-07"
+      "nsfw": false,
+      "reviewedAt": "2026-11-07",
+      "reviewedSourceHeadSha": "0fc5d294674e8799decbeccc9f73afa28e13347e"
     }
   },
   {
@@ -4127,16 +4085,8 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/aDarkMaker-HXK-RPG/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg"
-      ],
-      "languages": [
-        "zh-Hans"
-      ],
+      "playable": false,
       "nsfw": false,
-      "playable": true,
-      "popularity": 2,
-      "rating": 3,
       "reviewedAt": "2026-11-07"
     }
   },
@@ -4231,18 +4181,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/MitochondriaCN-Yanbernunk-2077/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg",
-        "sci-fi"
-      ],
-      "languages": [
-        "zh-Hans"
-      ],
-      "nsfw": false,
+      "gameSlug": "yanbernunk-2077",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "nsfw": false,
+      "reviewedAt": "2026-11-07",
+      "reviewedSourceHeadSha": "80bb890c69f91e11bca3b4150c74a48c566d3463"
     }
   },
   {
@@ -4272,17 +4215,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/KokitaPC-kokitapc.github.io/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "puzzle"
-      ],
-      "languages": [
-        "ja"
-      ],
-      "nsfw": false,
+      "gameSlug": "iwa-darake-no-yakata-kara-no-dasshutsu",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "nsfw": false,
+      "reviewedAt": "2026-11-07",
+      "reviewedSourceHeadSha": "c54c9f1b083da975c068319e20305c467f474236"
     }
   },
   {
@@ -4323,18 +4260,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/CNFrestone-RPGTCYX/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg",
-        "fantasy"
-      ],
-      "languages": [
-        "ja"
-      ],
-      "nsfw": true,
+      "gameSlug": "yousei-kusuguri-dasshutsu-yuugi",
       "playable": true,
-      "popularity": 3,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "nsfw": true,
+      "reviewedAt": "2026-11-07",
+      "reviewedSourceHeadSha": "89fab3dfd681c79dc9a220e13225ecc4c2018969"
     }
   },
   {
@@ -4517,24 +4447,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/kotpot197-melancholianna/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "aliases": [
-        "MELANCHOLIANNA",
-        "忧郁的安娜"
-      ],
-      "genres": [
-        "puzzle",
-        "horror"
-      ],
-      "languages": [
-        "zh-Hans"
-      ],
-      "nsfw": true,
-      "originalTitle": "メランコリアンナ -MELANCHOLIANNA-",
+      "gameSlug": "melancholianna",
       "playable": true,
-      "popularity": 4,
-      "rating": 5,
+      "nsfw": true,
       "reviewedAt": "2026-11-07",
-      "title": "忧郁的安娜"
+      "reviewedSourceHeadSha": "69d4e2dbeb23fc08a93bd7ab3050eba284781cd9"
     }
   },
   {

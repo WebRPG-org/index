@@ -29802,6 +29802,16 @@
             "en"
           ],
           "nsfw": true
+        },
+        {
+          "id": "kotpot197-melancholianna",
+          "languages": [
+            "zh-Hans"
+          ],
+          "notes": "中文汉化版（巴比伦汉化组）",
+          "nsfw": true,
+          "title": "忧郁的安娜",
+          "type": "internal"
         }
       ],
       "relations": [],
@@ -29815,6 +29825,11 @@
           "url": "https://melancholianna.pages.dev",
           "type": "official",
           "label": "Alternate official site (Pages)"
+        },
+        {
+          "label": "GitHub source (Chinese localization)",
+          "type": "source",
+          "url": "https://github.com/kotpot197/melancholianna"
         }
       ],
       "contentAdvisory": {
@@ -29829,7 +29844,8 @@
         "status": "draft",
         "sources": [
           "https://github.com/Cicini/melancholianna",
-          "https://melancholianna.pages.dev"
+          "https://melancholianna.pages.dev",
+          "https://github.com/kotpot197/melancholianna"
         ],
         "qualityFlags": [
           "author-unverified",
@@ -29842,7 +29858,7 @@
         "https://github.com/Cicini/melancholianna",
         "https://melancholianna.pages.dev"
       ],
-      "assessmentNote": "GitHub repo has 60 stars and 23 forks plus an alternate Pages site, but no Steam/itch/DLsite/wiki/review coverage and no review scores, so rating is left blank and popularity is 5."
+      "assessmentNote": "GitHub repo has 60 stars and 23 forks plus an alternate Pages site, but no Steam/itch/DLsite/wiki/review coverage and no review scores, so rating is left blank and popularity is 5. Chinese localization instance (kotpot197, Babylon localization group) added via Migration Batch 45."
     },
     "rinku-wa-2-kai-kuma": {
       "schemaVersion": 1,
@@ -31335,6 +31351,756 @@
       "translatedTitles": {
         "en": "Yunyan",
         "ja": "雲煙"
+      }
+    },
+    "xiao-bu-rpg": {
+      "assessedAt": "2026-11-19",
+      "assessmentNote": "No Steam/itch/wiki/review/community coverage found; the only evidence is the GitHub repo itself (0 stars, 3 forks, 124 commits). No reputation evidence, so rating is left blank.",
+      "assessmentSources": [
+        "https://github.com/cara-ko/-RPG"
+      ],
+      "contentAdvisory": {
+        "nsfw": false
+      },
+      "developers": [
+        {
+          "name": "cara-ko",
+          "url": "https://github.com/cara-ko"
+        }
+      ],
+      "editorial": {
+        "qualityFlags": [
+          "description-unverified"
+        ],
+        "sources": [
+          "https://github.com/cara-ko/-RPG"
+        ],
+        "status": "draft"
+      },
+      "externalLinks": [
+        {
+          "label": "GitHub — cara-ko/-RPG",
+          "type": "source",
+          "url": "https://github.com/cara-ko/-RPG"
+        }
+      ],
+      "instances": [
+        {
+          "id": "cara-ko-rpg",
+          "languages": [
+            "zh-Hant"
+          ],
+          "nsfw": false,
+          "title": "小布RPG",
+          "type": "internal"
+        }
+      ],
+      "introductions": {
+        "en": {
+          "editorialStatus": "draft",
+          "overview": "A Traditional Chinese role-playing game made with RPG Maker MZ. The prologue and Chapter 1 are complete: Xiao Bu leaves home, visits the village chief and a friend, discovers a bird, chases after fragments and revisits memories, then travels to the fairy house, the butterfly forest and the goblin plaza; butterfly-catching events and multi-character story threads are included. Chapter 2 maps are still placeholders.",
+          "summary": "A story-driven RPG in Traditional Chinese, following Xiao Bu and Aiwei on an adventure through their village and the forest."
+        },
+        "ja": {
+          "editorialStatus": "draft",
+          "overview": "RPGツクールMZで制作された繁体字中国語のロールプレイングゲーム。序章と第1章が完成している。シャオ・ブーが家を出て村長の家や友人の家を訪れ、小鳥を見つけて追いかけ、欠片を追い、思い出をたどり、妖精の家、蝶の森、ゴブリンの広場へ向かう。蝶捕りなどのイベントや複数キャラクターの物語も含む。第2章のマップはまだ仮置きである。",
+          "summary": "繁体字中国語のストーリー重視RPG。主人公シャオ・ブーとアウェイが村と森を舞台に冒険する。"
+        },
+        "zh-Hans": {
+          "editorialStatus": "draft",
+          "overview": "RPG Maker MZ 制作的繁体中文角色扮演游戏。序章与第一章内容完整：小布离家出发，经历村长家、朋友家、发现小鸟、追逐碎片、回忆等剧情，前往妖精之家与蝴蝶之森、哥布林广场；另有捉蝴蝶等玩法事件与多角色剧情线。第二章地图尚为占位。",
+          "summary": "繁体中文剧情向 RPG，主角小布与艾薇在村庄与森林中展开冒险。"
+        }
+      },
+      "media": {
+        "cover": "https://webrpg.org/cara-ko-RPG/cover.png"
+      },
+      "originalTitle": "小布RPG",
+      "popularity": 2,
+      "schemaVersion": 1,
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "slug": "xiao-bu-rpg",
+      "taxonomy": {
+        "contentType": "full-game",
+        "genres": [
+          "rpg",
+          "adventure"
+        ],
+        "themes": [
+          "fantasy"
+        ]
+      },
+      "translatedTitles": {
+        "en": "Xiao Bu RPG △",
+        "ja": "シャオ・ブーRPG △"
+      }
+    },
+    "yousei-kusuguri-dasshutsu-yuugi": {
+      "assessedAt": "2026-11-19",
+      "assessmentNote": "No Steam/DLsite page or review found; evidence of spread is a Chinese resource-site listing with an AI Chinese localization (697 views) plus 2 GitHub forks. No reputation evidence, so rating is left blank.",
+      "assessmentSources": [
+        "https://www.131400.best/ms-MY/p/636364",
+        "https://github.com/CNFrestone/RPGTCYX"
+      ],
+      "contentAdvisory": {
+        "nsfw": true,
+        "warnings": [
+          "sexual content",
+          "tickle fetish themes"
+        ]
+      },
+      "developers": [
+        {
+          "name": "すずぐすり"
+        }
+      ],
+      "editorial": {
+        "qualityFlags": [
+          "description-unverified"
+        ],
+        "sources": [
+          "https://github.com/CNFrestone/RPGTCYX",
+          "https://www.131400.best/ms-MY/p/636364"
+        ],
+        "status": "draft"
+      },
+      "externalLinks": [
+        {
+          "label": "GitHub — CNFrestone/RPGTCYX",
+          "type": "source",
+          "url": "https://github.com/CNFrestone/RPGTCYX"
+        }
+      ],
+      "instances": [
+        {
+          "id": "cnfrestone-rpgtcyx",
+          "languages": [
+            "ja"
+          ],
+          "nsfw": true,
+          "title": "妖精くすぐり脱出遊戯",
+          "type": "internal"
+        }
+      ],
+      "introductions": {
+        "en": {
+          "editorialStatus": "draft",
+          "overview": "An exploration RPG released on 2020-08-30 by Suzugusuri. The player guides the fairy Plumir through a trap-filled dungeon, sneaking past enemies and solving puzzles; it features over 40 tickle scenes, and running out of HP sends the player back to the last rest stop instead of a game over. Boss battles, EASY/NORMAL/HARD/NO MERCY difficulties and a recollection gallery are included.",
+          "summary": "An adult-oriented tickle-themed escape RPG starring the fairy Plumir, who must dodge enemies and traps and solve puzzles to escape the dungeon."
+        },
+        "ja": {
+          "editorialStatus": "draft",
+          "overview": "2020年8月30日にすずぐすりが発表した探索RPG。罠だらけのダンジョンを潜行し、敵を避けて謎を解く。40種以上のくすぐりシーンを収録し、HPが尽きてもゲームオーバーにはならず、最後に訪れた休憩所へ戻される。ボス戦、EASY/NORMAL/HARD/NO MERCYの難易度、回想モードを備える。",
+          "summary": "くすぐりをテーマにした成人向け脱出RPG。妖精の主人公プルミールを操作し、敵や罠を避けながら謎を解いて脱出を目指す。"
+        },
+        "zh-Hans": {
+          "editorialStatus": "draft",
+          "overview": "2020 年 8 月 30 日由 すずぐすり 发售的探索 RPG。玩家操控妖精普卢米尔，在陷阱地牢中潜行、躲避敌人并解谜；游戏含 40 种以上的挠痒场景，HP 耗尽时不 Game Over，而是被传送回最近的休息站；另有 Boss 战、EASY/NORMAL/HARD/NO MERCY 难度与回想模式。",
+          "summary": "以挠痒为主题的成人向脱出 RPG，主角妖精普卢米尔需躲避敌人与陷阱、解开谜题逃出地牢。"
+        }
+      },
+      "media": {
+        "cover": "https://webrpg.org/CNFrestone-RPGTCYX/cover.png"
+      },
+      "originalTitle": "妖精くすぐり脱出遊戯",
+      "popularity": 3,
+      "release": {
+        "date": "2020-08-30",
+        "originalPlatforms": [
+          "Windows"
+        ]
+      },
+      "schemaVersion": 1,
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "slug": "yousei-kusuguri-dasshutsu-yuugi",
+      "taxonomy": {
+        "contentType": "full-game",
+        "genres": [
+          "rpg",
+          "adventure",
+          "puzzle"
+        ],
+        "themes": [
+          "fantasy"
+        ]
+      },
+      "translatedTitles": {
+        "en": "Yousei Kusuguri Dasshutsu Yuugi △",
+        "zh-Hans": "妖精搔痒脱出游戏"
+      }
+    },
+    "iwa-darake-no-yakata-kara-no-dasshutsu": {
+      "assessedAt": "2026-11-19",
+      "assessmentNote": "Web search found only the author's high-school PC club site and its culture-festival diary (exhibited in 2025, played by many visitors); no Steam/itch/media reviews, so rating is left blank; popularity 2.",
+      "assessmentSources": [
+        "https://github.com/KokitaPC/kokitapc.github.io",
+        "https://raw.githubusercontent.com/KokitaPC/kokitapc.github.io/main/game/rock/data/System.json",
+        "https://raw.githubusercontent.com/KokitaPC/kokitapc.github.io/main/diary/2025/2025_9_30.html"
+      ],
+      "contentAdvisory": {
+        "nsfw": false
+      },
+      "developers": [
+        {
+          "name": "小金井北高校パソコン部",
+          "url": "https://kokitapc.github.io/"
+        }
+      ],
+      "editorial": {
+        "qualityFlags": [
+          "description-unverified"
+        ],
+        "sources": [
+          "https://github.com/KokitaPC/kokitapc.github.io",
+          "https://raw.githubusercontent.com/KokitaPC/kokitapc.github.io/main/game/rock/data/System.json",
+          "https://raw.githubusercontent.com/KokitaPC/kokitapc.github.io/main/game/rock/data/MapInfos.json",
+          "https://raw.githubusercontent.com/KokitaPC/kokitapc.github.io/main/diary/2025/2025_9_30.html"
+        ],
+        "status": "draft"
+      },
+      "externalLinks": [
+        {
+          "label": "小金井北高校パソコン部 (author's site)",
+          "type": "official",
+          "url": "https://kokitapc.github.io/"
+        },
+        {
+          "label": "GitHub — KokitaPC/kokitapc.github.io",
+          "type": "source",
+          "url": "https://github.com/KokitaPC/kokitapc.github.io"
+        }
+      ],
+      "instances": [
+        {
+          "id": "kokitapc-kokitapc-github-io",
+          "languages": [
+            "ja"
+          ],
+          "nsfw": false,
+          "title": "岩だらけの館からの脱出",
+          "type": "internal"
+        }
+      ],
+      "introductions": {
+        "en": {
+          "editorialStatus": "draft",
+          "overview": "An RPG Maker MZ escape puzzle game by the Koganei Kita High School PC club, exhibited and played by many visitors at the 2025 school culture festival. Push rocks to open doors and escape the rock-filled mansion across 9 rooms, with a hard mode and timer (countdown/count-up) challenges. The English title is a Hepburn romaji transliteration of the Japanese original; no official Chinese title exists.",
+          "summary": "An escape puzzle game made by a high-school PC club for their culture festival: push rocks to open doors and escape a rock-filled mansion; 9 rooms, with a hard mode and timer challenges."
+        },
+        "ja": {
+          "editorialStatus": "draft",
+          "overview": "小金井北高校パソコン部制作のRPGツクールMZ製脱出パズルゲーム。2025年度の文化祭で展示され、多くの来場者に遊ばれた。岩だらけの館で岩を押して扉を開け、全9部屋からの脱出を目指す。ハードモードとタイマー（カウントダウン／カウントアップ）チャレンジがある。英語タイトルは日本語原題のヘボン式ローマ字表記。公式の中国語タイトルはない。",
+          "summary": "高校パソコン部が文化祭のために制作した脱出パズルゲーム。岩を押して扉を開け、岩だらけの館から脱出する。全9部屋、ハードモードとタイマーチャレンジ付き。"
+        },
+        "zh-Hans": {
+          "editorialStatus": "draft",
+          "overview": "小金井北高中电脑部制作的 RPG Maker MZ 脱出解谜游戏，曾在 2025 年度文化祭展出、供多人试玩。玩家在满是岩石的馆舍中推动岩石、打开一扇扇房门逃出，全 9 间房；另有困难模式与计时（倒计时/正计时）挑战。英文标题为日文原名的 Hepburn 罗马音音译；无官方中文译名。",
+          "summary": "高中电脑部为文化祭制作的脱出解谜游戏：推动岩石打开房门，逃出满是岩石的馆舍；共 9 间房，含困难模式与计时挑战。"
+        }
+      },
+      "media": {
+        "cover": "https://webrpg.org/KokitaPC-kokitapc.github.io/cover.png"
+      },
+      "originalTitle": "岩だらけの館からの脱出",
+      "popularity": 2,
+      "schemaVersion": 1,
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "slug": "iwa-darake-no-yakata-kara-no-dasshutsu",
+      "taxonomy": {
+        "contentType": "full-game",
+        "genres": [
+          "puzzle"
+        ],
+        "mechanics": [
+          "rock-pushing",
+          "timer"
+        ],
+        "themes": []
+      },
+      "translatedTitles": {
+        "en": "Iwa Darake no Yakata kara no Dasshutsu"
+      }
+    },
+    "rouka-de-onigokko": {
+      "assessedAt": "2026-11-19",
+      "assessmentNote": "Web search found no Steam/itch/media records; only the GitHub repository (8 stars, 3 forks, created 2017), so no reputation evidence exists and rating is left blank; popularity 2.",
+      "assessmentSources": [
+        "https://github.com/kata235/MV01",
+        "https://raw.githubusercontent.com/kata235/MV01/master/data/System.json",
+        "https://raw.githubusercontent.com/kata235/MV01/master/data/MapInfos.json"
+      ],
+      "contentAdvisory": {
+        "nsfw": false
+      },
+      "developers": [
+        {
+          "name": "kata235"
+        }
+      ],
+      "editorial": {
+        "qualityFlags": [
+          "description-unverified"
+        ],
+        "sources": [
+          "https://github.com/kata235/MV01",
+          "https://raw.githubusercontent.com/kata235/MV01/master/data/System.json",
+          "https://raw.githubusercontent.com/kata235/MV01/master/data/MapInfos.json"
+        ],
+        "status": "draft"
+      },
+      "externalLinks": [
+        {
+          "label": "GitHub — kata235/MV01",
+          "type": "source",
+          "url": "https://github.com/kata235/MV01"
+        }
+      ],
+      "instances": [
+        {
+          "id": "kata235-mv01",
+          "languages": [
+            "ja"
+          ],
+          "nsfw": false,
+          "title": "廊下で鬼ごっこ！",
+          "type": "internal"
+        }
+      ],
+      "introductions": {
+        "en": {
+          "editorialStatus": "draft",
+          "overview": "A small-scale RPG Maker MV horror chase game. Flee the oni through the hallways of a three-floor building: stamina runs out and leaves you exhausted, getting caught adds to the dead and injured counts, and you can dash at any time. Includes a tutorial stage, bonus images, and record systems for cumulative kills and points earned. The English title is a Hepburn romaji transliteration of the Japanese original; no official Chinese title exists.",
+          "summary": "A horror chase game of tag in a three-floor hallway: flee the oni, manage stamina, and chase stage progress and score records."
+        },
+        "ja": {
+          "editorialStatus": "draft",
+          "overview": "RPGツクールMV製の小規模ホラー追走ゲーム。3階建ての廊下で鬼から逃げる。スタミナが切れると疲労し、捕まると死者・負傷者の記録が増える。常時ダッシュ可能。チュートリアル、おまけ画像、累積殺害数や取得ポイントの記録システムを備える。英語タイトルは日本語原題のヘボン式ローマ字表記。公式の中国語タイトルはない。",
+          "summary": "3階建ての廊下で鬼と鬼ごっこをするホラー追走ゲーム。鬼から逃げ、スタミナを管理し、ステージ進行とスコア記録に挑む。"
+        },
+        "zh-Hans": {
+          "editorialStatus": "draft",
+          "overview": "RPG Maker MV 制作的小体量恐怖追逐游戏。玩家在三层楼的走廊里躲避鬼的追赶：体力耗尽会疲劳、被抓住会增加死者与负伤者计数，可随时冲刺；另有教学关、奖励图与累计击杀数、取得点数等记录系统。英文标题为日文原名的 Hepburn 罗马音音译；无官方中文译名。",
+          "summary": "在三层楼的走廊里与鬼玩捉迷藏的恐怖追逐游戏：躲避鬼的追赶、管理体力，挑战阶段推进与分数记录。"
+        }
+      },
+      "media": {
+        "cover": "https://webrpg.org/kata235-MV01/cover.png"
+      },
+      "originalTitle": "廊下で鬼ごっこ！",
+      "popularity": 2,
+      "schemaVersion": 1,
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "slug": "rouka-de-onigokko",
+      "taxonomy": {
+        "contentType": "full-game",
+        "genres": [
+          "adventure"
+        ],
+        "mechanics": [
+          "chase",
+          "stamina"
+        ],
+        "themes": [
+          "horror"
+        ]
+      },
+      "translatedTitles": {
+        "en": "Rouka de Onigokko"
+      }
+    },
+    "shaonu-shacaozhi": {
+      "assessedAt": "2026-11-19",
+      "assessmentNote": "Steam (Madsug, 2023-05-31, $4.99) and TapTap both list the game; a Razer store mirror reports a 56% Steam score (mixed reception) and no professional reviews were found, hence rating 5; Steam + TapTap distribution and RMAsia curator coverage support popularity 4.",
+      "assessmentSources": [
+        "https://store.steampowered.com/app/1745260/",
+        "https://www.taptap.io/tw/app/310057",
+        "https://deals.razer.com/games/girls-cairo-papyrus",
+        "https://github.com/eric0308a/Game_shao_cao_zhi",
+        "https://raw.githubusercontent.com/eric0308a/Game_shao_cao_zhi/main/data/System.json"
+      ],
+      "contentAdvisory": {
+        "nsfw": true,
+        "warnings": [
+          "R18 adult content: H events and CG recollection",
+          "Steam mature-content note mentions nudity and suggestive themes"
+        ]
+      },
+      "developers": [
+        {
+          "name": "Madsug"
+        }
+      ],
+      "editorial": {
+        "qualityFlags": [
+          "description-unverified"
+        ],
+        "sources": [
+          "https://store.steampowered.com/app/1745260/",
+          "https://www.taptap.io/tw/app/310057",
+          "https://github.com/eric0308a/Game_shao_cao_zhi",
+          "https://raw.githubusercontent.com/eric0308a/Game_shao_cao_zhi/main/data/System.json",
+          "https://raw.githubusercontent.com/eric0308a/Game_shao_cao_zhi/main/data/MapInfos.json"
+        ],
+        "status": "draft"
+      },
+      "externalLinks": [
+        {
+          "label": "Steam — Girls Cairo Papyrus",
+          "type": "store",
+          "url": "https://store.steampowered.com/app/1745260/"
+        },
+        {
+          "label": "TapTap — 少女莎草紙",
+          "type": "store",
+          "url": "https://www.taptap.io/tw/app/310057"
+        },
+        {
+          "label": "GitHub — eric0308a/Game_shao_cao_zhi (web build source)",
+          "type": "source",
+          "url": "https://github.com/eric0308a/Game_shao_cao_zhi"
+        }
+      ],
+      "instances": [
+        {
+          "id": "eric0308a-game-shao-cao-zhi",
+          "languages": [
+            "zh-Hant"
+          ],
+          "nsfw": true,
+          "title": "少女莎草紙",
+          "type": "internal"
+        }
+      ],
+      "introductions": {
+        "en": {
+          "editorialStatus": "draft",
+          "overview": "You are Amun, a newbie housekeeper on an island, who receives word that the Lady is coming to vacation at your workplace. She is active, playful and curious, and her pranks have made many butlers before you quit. This time she is up for an adventure in the island's caves and tombs: pass the trials and you may be promoted to a proper butler, fail and you are fired on the spot. Under the judgment of house manager Ai and with the help (and pranks) of the twin maids, you take on assignments such as fishing for food, cheering on dance performances and doing laundry, growing closer to the Lady as mysterious ancient creatures set challenges for you. The game ships in R18, streaming and Steam versions; the web build's data includes H events and CG recollection content.",
+          "summary": "Play as a newbie butler serving a young Lady on vacation at an island mansion, passing her trials under the watch of the house manager and twin maids; a 200,000-character story, dozens of mini-games and an Egyptian-themed world, with R18 adult content."
+        },
+        "ja": {
+          "editorialStatus": "draft",
+          "overview": "プレイヤーは島で働く新米執事アモン。お嬢様がバカンスに来るという知らせが届く。聡明で好奇心旺盛、いたずら好きなお嬢様のせいで、これまで多くの執事が辞めていった。今回は無人の洞窟と遺跡の探索に挑み、試練に合格すれば正執事に昇格、失敗すれば即解雇。執事長アイと双子のメイドの監視（と妨害）のもと、釣りでの食料調達、ダンスの応援、散らかった服の回収などの任務をこなし、お嬢様との距離を縮めていく。島に現れる謎の古代生物が様々な関門を設ける。R18版、配信版、Steam版があり、ウェブ版のデータにはHイベントとCG回想の内容が含まれる。",
+          "summary": "新米執事となり、島の豪邸にバカンスに来たお嬢様に仕え、執事長と双子のメイドの監視のもと試練に挑む。20万字の物語、数十種のミニゲーム、エジプト文化の世界観。R18の成人向け内容を含む。"
+        },
+        "zh-Hans": {
+          "editorialStatus": "draft",
+          "overview": "玩家扮演新手管家阿蒙，收到大小姐要来工作的岛上度假的通知。大小姐聪明好奇又爱捣蛋，此前已气走不少管家；这次除了度假，还要探索岛上的无人洞窟与遗迹。通过试炼即可升为正职管家，表现不好则会被开除。在大总管爱伊与两位双胞胎女仆的监督（与捣乱）下，玩家接取钓鱼筹备食物、跳舞时加油、收集散落衣服等任务，与大小姐渐渐亲近，同时岛上出现的神秘古代生物会设下许多关卡考验玩家。游戏分 R18 版、配信版与 Steam 版；网页版数据中包含 H 事件与 CG 回想内容。",
+          "summary": "扮演新手管家，在海岛豪宅中侍奉来度假的大小姐，在大总管与双胞胎女仆的监督下通过试炼；二十万字剧情、数十种小游戏与埃及文化世界观，并含 R18 成人内容。"
+        }
+      },
+      "media": {
+        "cover": "https://webrpg.org/eric0308a-Game_shao_cao_zhi/cover.png"
+      },
+      "originalTitle": "少女莎草紙",
+      "popularity": 4,
+      "publishers": [
+        {
+          "name": "Madsug"
+        }
+      ],
+      "rating": 5,
+      "release": {
+        "date": "2023-05-31",
+        "originalPlatforms": [
+          "Windows",
+          "Web"
+        ]
+      },
+      "schemaVersion": 1,
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "slug": "shaonu-shacaozhi",
+      "taxonomy": {
+        "contentType": "full-game",
+        "genres": [
+          "adventure"
+        ],
+        "themes": [
+          "comedy",
+          "fantasy",
+          "romance",
+          "slice-of-life"
+        ]
+      },
+      "translatedTitles": {
+        "en": "Girls Cairo Papyrus",
+        "zh-Hans": "少女莎草纸"
+      }
+    },
+    "yanbernunk-2077": {
+      "assessedAt": "2026-11-19",
+      "assessmentNote": "Web search found no external records at all (Yanbernunk appears only in the repository name); only the GitHub repository (0 stars, 2 forks), so no reputation evidence exists and rating is left blank; popularity 1.",
+      "assessmentSources": [
+        "https://github.com/MitochondriaCN/Yanbernunk-2077",
+        "https://raw.githubusercontent.com/MitochondriaCN/Yanbernunk-2077/main/data/System.json",
+        "https://raw.githubusercontent.com/MitochondriaCN/Yanbernunk-2077/main/data/MapInfos.json"
+      ],
+      "contentAdvisory": {
+        "nsfw": false
+      },
+      "developers": [
+        {
+          "name": "MitochondriaCN"
+        }
+      ],
+      "editorial": {
+        "qualityFlags": [
+          "description-unverified"
+        ],
+        "sources": [
+          "https://github.com/MitochondriaCN/Yanbernunk-2077",
+          "https://raw.githubusercontent.com/MitochondriaCN/Yanbernunk-2077/main/data/System.json",
+          "https://raw.githubusercontent.com/MitochondriaCN/Yanbernunk-2077/main/data/MapInfos.json"
+        ],
+        "status": "draft"
+      },
+      "externalLinks": [
+        {
+          "label": "GitHub — MitochondriaCN/Yanbernunk-2077",
+          "type": "source",
+          "url": "https://github.com/MitochondriaCN/Yanbernunk-2077"
+        }
+      ],
+      "instances": [
+        {
+          "id": "mitochondriacn-yanbernunk-2077",
+          "languages": [
+            "zh-Hans"
+          ],
+          "nsfw": false,
+          "title": "延博楠克2077",
+          "type": "internal"
+        }
+      ],
+      "introductions": {
+        "en": {
+          "editorialStatus": "draft",
+          "overview": "An RPG Maker MV campus RPG. Its 17 maps cover the school, shopping district, item shop, inn, weapon and armor shops, classrooms, computer lab, basketball court, photography club and training ground; story switches involve characters such as Huyan, Lao Fu and a gang leader, and campus incidents including a club leak, basketball-court clues and catching cheaters, plus a cheat-code variable. The English name Yanbernunk 2077 is the author's own (see repository name); no official Japanese title exists.",
+          "summary": "A campus RPG set in the year 2077: explore the school, shopping district, basketball court and training ground, drawn into campus incidents involving Huyan, Lao Fu and others."
+        },
+        "ja": {
+          "editorialStatus": "draft",
+          "overview": "RPGツクールMV製の学園RPG。17マップが学校、商業区、道具屋、旅館、武器屋、防具屋、教室、コンピュータ室、バスケットコート、写真部、訓練場をカバーする。呼延、老付、混混大哥などのキャラクターや、部員のリーク、バスケットコートの手がかり、浮気現場の目撃といった学園イベントがスイッチに記録され、チートコードの変数もある。英語名Yanbernunk 2077は作者自身の命名（リポジトリ名参照）。公式の日本語タイトルはない。",
+          "summary": "2077年の学園を舞台にしたRPG。学校、商業区、バスケットコート、訓練場を探索し、呼延や老付らをめぐる学園の事件に巻き込まれる。"
+        },
+        "zh-Hans": {
+          "editorialStatus": "draft",
+          "overview": "RPG Maker MV 制作的校园题材 RPG。17 张地图覆盖学校、商业区、道具商店、旅馆、武器屋、防具屋、教室、计算机机房、篮球场、摄影社与训练场；剧情开关涉及呼延、老付、混混大哥等角色与社员泄密、篮球场线索、捉奸等校园事件，并设有作弊码。英文名 Yanbernunk 2077 为作者自取（见仓库名）；无官方日文译名。",
+          "summary": "以 2077 年的校园为舞台的 RPG：探索学校、商业区、篮球场与训练场，卷入呼延、老付等人的校园事件。"
+        }
+      },
+      "media": {
+        "cover": "https://webrpg.org/MitochondriaCN-Yanbernunk-2077/cover.png"
+      },
+      "originalTitle": "延博楠克2077",
+      "popularity": 1,
+      "schemaVersion": 1,
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "slug": "yanbernunk-2077",
+      "taxonomy": {
+        "contentType": "full-game",
+        "genres": [
+          "rpg"
+        ],
+        "themes": [
+          "sci-fi",
+          "comedy",
+          "slice-of-life"
+        ]
+      },
+      "translatedTitles": {
+        "en": "Yanbernunk 2077"
+      }
+    },
+    "deladela-escape": {
+      "assessedAt": "2026-11-19",
+      "assessmentNote": "Web search 2026-11-19 found no coverage of this game at all (only unrelated escape games); the only sources are the author's two repos. Old 2/5 scores not carried over, rating left blank, popularity 1.",
+      "assessmentSources": [
+        "https://github.com/lisachouHC/drdresapre",
+        "https://github.com/lisachouHC/drdrescape_V2"
+      ],
+      "contentAdvisory": {
+        "nsfw": false
+      },
+      "developers": [
+        {
+          "name": "lisachouHC"
+        }
+      ],
+      "editorial": {
+        "qualityFlags": [
+          "no-external-coverage",
+          "content-depth-unverified"
+        ],
+        "sources": [
+          "https://github.com/lisachouHC/drdresapre",
+          "https://github.com/lisachouHC/drdrescape_V2"
+        ],
+        "status": "draft"
+      },
+      "externalLinks": [
+        {
+          "label": "GitHub source (drdresapre)",
+          "type": "source",
+          "url": "https://github.com/lisachouHC/drdresapre"
+        },
+        {
+          "label": "GitHub source (drdrescape_V2)",
+          "type": "source",
+          "url": "https://github.com/lisachouHC/drdrescape_V2"
+        }
+      ],
+      "instances": [
+        {
+          "id": "lisachouhc-drdresapre",
+          "languages": [
+            "zh-Hant"
+          ],
+          "nsfw": false,
+          "title": "德拉德拉escape",
+          "type": "internal"
+        },
+        {
+          "id": "lisachouhc-drdrescape-v2",
+          "languages": [
+            "zh-Hant"
+          ],
+          "notes": "V2；仓库自述为不对外开放版本",
+          "nsfw": false,
+          "title": "德拉德拉escape",
+          "type": "internal"
+        }
+      ],
+      "introductions": {
+        "en": {
+          "editorialStatus": "draft",
+          "overview": "The author published two versions in December 2023 (drdresapre, then drdrescape_V2, described in its repo as a version not open to the public); both share the same file structure and character data files, so they are treated as old and new versions of one game. No official site, store page or review was found beyond the repositories themselves; story and gameplay details remain unverified.",
+          "summary": "Deladela Escape is a Traditional Chinese adventure/puzzle web game made with RPG Maker MV by lisachouHC."
+        },
+        "ja": {
+          "editorialStatus": "draft",
+          "overview": "作者は 2023 年 12 月に drdresapre と drdrescape_V2 の 2 バージョンを公開した（V2 のリポジトリには「不對外開放版本」とある）。両者はファイル構成とキャラクターデータが一致するため、同一ゲームの新旧バージョンとみなす。リポジトリ以外に公式サイト・ストアページ・レビューは見つからなかった。ストーリーやゲームプレイの詳細は未確認。",
+          "summary": "『Deladela Escape』（德拉德拉escape）は、lisachouHC による RPGツクールMV製の繁体字中国語アドベンチャー／パズル・ウェブゲーム。"
+        },
+        "zh-Hans": {
+          "editorialStatus": "draft",
+          "overview": "作者于 2023 年 12 月先后发布 drdresapre 与 drdrescape_V2 两个版本（V2 仓库自述为不对外开放版本）；两版文件结构与角色数据文件一致，视为同一游戏的新旧版本。除仓库本身外未找到官网、商店页或评测，剧情与玩法细节待核查。",
+          "summary": "《德拉德拉escape》是 lisachouHC 以 RPG Maker MV 制作的繁体中文冒险解谜网页游戏。"
+        }
+      },
+      "media": {
+        "cover": "https://webrpg.org/lisachouHC-drdresapre/cover.png"
+      },
+      "originalTitle": "德拉德拉escape",
+      "popularity": 1,
+      "schemaVersion": 1,
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "slug": "deladela-escape",
+      "taxonomy": {
+        "contentType": "full-game",
+        "genres": [
+          "adventure",
+          "puzzle"
+        ],
+        "themes": []
+      },
+      "translatedTitles": {
+        "en": "Deladela Escape"
+      }
+    },
+    "guihuan": {
+      "assessedAt": "2026-11-19",
+      "assessmentNote": "Web search 2026-11-19 found no coverage beyond the author's own repo/personal site: no Steam/itch/wiki/review hits for this 归还 (search only returns unrelated games named Return/溯); old 2/5 scores not carried over, rating left blank, popularity 1.",
+      "assessmentSources": [
+        "https://github.com/myueqf/myueqf.github.io"
+      ],
+      "contentAdvisory": {
+        "nsfw": false
+      },
+      "developers": [
+        {
+          "name": "myueqf"
+        }
+      ],
+      "editorial": {
+        "qualityFlags": [
+          "no-external-coverage",
+          "content-depth-unverified"
+        ],
+        "sources": [
+          "https://github.com/myueqf/myueqf.github.io"
+        ],
+        "status": "draft"
+      },
+      "externalLinks": [
+        {
+          "label": "GitHub source (author's personal site)",
+          "type": "source",
+          "url": "https://github.com/myueqf/myueqf.github.io"
+        }
+      ],
+      "instances": [
+        {
+          "id": "myueqf-myueqf-github-io",
+          "languages": [
+            "zh-Hans"
+          ],
+          "nsfw": false,
+          "title": "归还",
+          "type": "internal"
+        }
+      ],
+      "introductions": {
+        "en": {
+          "editorialStatus": "draft",
+          "overview": "Almost no public information exists: the author's repository is a personal site (明月清风の小窝) with the game under app/归还/; beyond the index's old visual-novel/fantasy classification and its verified playability record, no official description, store page or review was found. Story and gameplay details remain unverified.",
+          "summary": "Guihuan is a Chinese-language web game made with RPG Maker MZ by myueqf, hosted on the author's personal site."
+        },
+        "ja": {
+          "editorialStatus": "draft",
+          "overview": "公開情報はほとんどない。作者のリポジトリは個人サイト（明月清风の小窝）で、ゲームは app/归还/ に置かれている。旧インデックスのビジュアルノベル／ファンタジー分類と動作確認の記録以外、公式紹介・ストアページ・レビューは見つからなかった。ストーリーやゲームプレイの詳細は未確認。",
+          "summary": "Guihuan（归还）は myueqf による RPGツクールMZ製の中国語ウェブゲームで、作者の個人サイトで公開されている。"
+        },
+        "zh-Hans": {
+          "editorialStatus": "draft",
+          "overview": "目前公开信息极少：作者仓库为个人网站（明月清风の小窝），游戏位于 app/归还/ 目录；除旧版索引的视觉小说/幻想分类与实测可玩记录外，未找到官网介绍、商店页或评测，剧情与玩法细节待核查。",
+          "summary": "《归还》是 myueqf 以 RPG Maker MZ 制作的中文网页游戏，部署于作者个人网站。"
+        }
+      },
+      "media": {
+        "cover": null
+      },
+      "originalTitle": "归还",
+      "popularity": 1,
+      "schemaVersion": 1,
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "slug": "guihuan",
+      "taxonomy": {
+        "contentType": "full-game",
+        "genres": [
+          "visual-novel"
+        ],
+        "themes": [
+          "fantasy"
+        ]
+      },
+      "translatedTitles": {
+        "en": "Guihuan"
       }
     }
   }
