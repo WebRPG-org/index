@@ -867,18 +867,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/mandy321555-rpg/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "minigame",
-        "educational"
-      ],
-      "languages": [
-        "zh-Hant"
-      ],
-      "nsfw": false,
+      "gameSlug": "qi-hou-zhi-shi-da-tiao-zhan",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "nsfw": false,
+      "reviewedAt": "2026-11-07",
+      "reviewedSourceHeadSha": "95401e2eb3395aeca4c38bab605e640abdbc2ad8"
     }
   },
   {
@@ -908,19 +901,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/shuangboxu-Harry-Potter-Game/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg",
-        "fantasy"
-      ],
-      "languages": [
-        "zh-Hans"
-      ],
-      "nsfw": false,
+      "gameSlug": "huo-ge-wo-ci-lue-duo-ji-yuan",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
+      "nsfw": false,
       "reviewedAt": "2026-11-07",
-      "title": "霍格沃茨：掠夺纪元"
+      "reviewedSourceHeadSha": "3ad3075616d96091fb1b756e4cee823bac449801"
     }
   },
   {
@@ -1057,19 +1042,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/cdgaming-cdgaming.github.io/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg"
-      ],
-      "languages": [
-        "en"
-      ],
-      "nsfw": false,
-      "originalTitle": "純真無知娘の修学旅行物語",
+      "gameSlug": "junshin-muchi-musume-no-shuugaku-ryokou-monogatari",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
+      "nsfw": true,
       "reviewedAt": "2026-11-07",
-      "title": "BROWSER ONLINE"
+      "reviewedSourceHeadSha": "481fa9652269518eac0638eaa4d81c3e4fbb2a05"
     }
   },
   {
@@ -1418,18 +1395,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/kotpot197-FuranToZaininNoSima/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg",
-        "fantasy"
-      ],
-      "languages": [
-        "zh-Hans"
-      ],
-      "nsfw": false,
+      "gameSlug": "furan-to-zainin-no-shima",
       "playable": true,
-      "popularity": 3,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "nsfw": true,
+      "reviewedAt": "2026-11-07",
+      "reviewedSourceHeadSha": "3e83ab1e59e4091eb91f4ef645ab47351c3bc454"
     }
   },
   {
@@ -1698,17 +1668,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/say-hanabi-dev-hanabi-rpg-game-dev/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "adventure"
-      ],
-      "languages": [
-        "zh-Hans"
-      ],
-      "nsfw": false,
+      "gameSlug": "huahuo-lianjie",
       "playable": true,
-      "popularity": 3,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "nsfw": false,
+      "reviewedAt": "2026-11-07",
+      "reviewedSourceHeadSha": "bd14958be351685de2f3a26c54332ecf500edb3b"
     }
   },
   {
@@ -1735,17 +1699,9 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/say-hanabi-dev-hanabi-rpg-game-frontend/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "adventure"
-      ],
-      "languages": [
-        "zh-Hans"
-      ],
-      "nsfw": false,
       "playable": false,
-      "popularity": 3,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "reviewedAt": "2026-11-07",
+      "nsfw": false
     }
   },
   {
@@ -1864,17 +1820,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/AnthonyTonyZ-rougedemo/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "reviewedAt": "2026-11-07",
+      "gameSlug": "huangtan-qiyu",
       "playable": true,
-      "rating": 5,
-      "popularity": 2,
-      "genres": [
-        "rpg"
-      ],
       "nsfw": false,
-      "languages": [
-        "zh-Hans"
-      ]
+      "reviewedAt": "2026-11-07",
+      "reviewedSourceHeadSha": "d77b8b1f020e8d5778c0bc13bfe23df1c262e69c"
     }
   },
   {
@@ -2074,18 +2024,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/430230562-kerman-s-dream/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "reviewedAt": "2026-11-07",
+      "gameSlug": "ke-yan-gou-zhi-meng",
       "playable": true,
-      "rating": 5,
-      "popularity": 2,
-      "genres": [
-        "adventure",
-        "slice-of-life"
-      ],
-      "nsfw": false,
-      "languages": [
-        "zh-Hans"
-      ]
+      "nsfw": true,
+      "reviewedAt": "2026-11-07",
+      "reviewedSourceHeadSha": "21780a46c51b2de3a4cff3b7152c8bb00bd5b033"
     }
   },
   {
@@ -2217,18 +2160,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/hefsjgaeiK-hefsjgaeiK.github.io/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "adventure",
-        "sci-fi"
-      ],
-      "languages": [
-        "zh-Hans"
-      ],
-      "nsfw": false,
+      "gameSlug": "lvhzhou-jihua",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "nsfw": false,
+      "reviewedAt": "2026-11-07",
+      "reviewedSourceHeadSha": "2913e6305698c449c1bcc01ac9a962e4d93805cc"
     }
   },
   {
@@ -2355,18 +2291,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/easychen-GameDemo/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "reviewedAt": "2026-11-07",
+      "gameSlug": "mengmao-shiyou-qianduan-ke",
       "playable": true,
-      "rating": 5,
-      "popularity": 3,
-      "genres": [
-        "adventure",
-        "slice-of-life"
-      ],
       "nsfw": false,
-      "languages": [
-        "zh-Hans"
-      ]
+      "reviewedAt": "2026-11-07",
+      "reviewedSourceHeadSha": "dfbb34c400bd6c63344ad1acc29efd6db381beac"
     }
   },
   {
@@ -3524,20 +3453,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/joshika39-rpg-camp-game/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "aliases": [
-        "subarashii sekai de"
-      ],
-      "genres": [
-        "rpg"
-      ],
-      "languages": [
-        "ja"
-      ],
-      "nsfw": false,
+      "gameSlug": "subarashii-sekai-de",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "nsfw": false,
+      "reviewedAt": "2026-11-07",
+      "reviewedSourceHeadSha": "6a74ce289df2e1875b69f3468e23b45cc8fded80"
     }
   },
   {
@@ -3564,20 +3484,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/lsc-jh-rpg-maker/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "aliases": [
-        "subarashii sekai de"
-      ],
-      "genres": [
-        "rpg"
-      ],
-      "languages": [
-        "ja"
-      ],
-      "nsfw": false,
+      "gameSlug": "subarashii-sekai-de",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "nsfw": false,
+      "reviewedAt": "2026-11-07",
+      "reviewedSourceHeadSha": "87f5c6c6aa30c5b12d9d464439552f079b4e62be"
     }
   },
   {

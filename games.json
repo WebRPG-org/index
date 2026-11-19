@@ -33142,6 +33142,969 @@
         "ja": "シャオポンヨウチーチンシュウジアイピエン",
         "zh-Hans": "小朋友齐倾数之i篇"
       }
+    },
+    "huo-ge-wo-ci-lue-duo-ji-yuan": {
+      "assessedAt": "2026-11-19",
+      "assessmentNote": "No Steam/itch/wiki/review/community coverage found for 霍格沃茨：掠夺纪元; the only evidence is the GitHub repo itself (0 stars, 2 forks, 4 commits) plus its README describing a NORTH LAKE group project. No reputation evidence, so rating is left blank.",
+      "assessmentSources": [
+        "https://github.com/shuangboxu/Harry-Potter-Game"
+      ],
+      "contentAdvisory": {
+        "nsfw": false
+      },
+      "developers": [
+        {
+          "name": "NORTH LAKE"
+        }
+      ],
+      "editorial": {
+        "qualityFlags": [
+          "description-unverified"
+        ],
+        "sources": [
+          "https://github.com/shuangboxu/Harry-Potter-Game"
+        ],
+        "status": "draft"
+      },
+      "externalLinks": [
+        {
+          "label": "GitHub — shuangboxu/Harry-Potter-Game",
+          "type": "source",
+          "url": "https://github.com/shuangboxu/Harry-Potter-Game"
+        }
+      ],
+      "instances": [
+        {
+          "id": "shuangboxu-harry-potter-game",
+          "languages": [
+            "zh-Hans"
+          ],
+          "nsfw": false,
+          "title": "霍格沃茨：掠夺纪元",
+          "type": "internal"
+        }
+      ],
+      "introductions": {
+        "en": {
+          "editorialStatus": "draft",
+          "overview": "A Harry Potter fan game by the NORTH LAKE team, set in the Marauders era: you play James Potter at Hogwarts, alongside Sirius Black, Remus Lupin, Peter Pettigrew and Lily Evans. The story branches (switches for branch 1/2 and multiple story nodes) across 25 maps — dormitories, the Great Hall, the Headmaster's office, Hogsmeade and the Shrieking Shack passage — with an ending switch and a completion message. Built as a group project (game design, programming, level design, audio and writing).",
+          "summary": "A Chinese Harry Potter fan RPG: play James Potter in the Marauders era at Hogwarts, in an original branching story."
+        },
+        "ja": {
+          "editorialStatus": "draft",
+          "overview": "NORTH LAKEチームによるハリー・ポッターのファンゲーム。忍びの地図の時代を舞台に、主人公ジェームズ・ポッターとしてホグワーツで過ごす。シリウス・ブラック、リーマス・ルーピン、ピーター・ペティグリュー、リリー・エバンスらと共に、分岐のある物語（分岐スイッチと複数のストーリーノード）を進める。寮、大広間、校長室、ホグズミード、叫びの屋敷への抜け道など全25マップに結末スイッチとクリア演出を備える。グループ制作のプロジェクト。",
+          "summary": "中国語のハリー・ポッターファンRPG。忍びの地図の時代のジェームズ・ポッターとなり、ホグワーツで分岐のあるオリジナルストーリーを進める。"
+        },
+        "zh-Hans": {
+          "editorialStatus": "draft",
+          "overview": "NORTH LAKE 小组制作的哈利·波特同人游戏，背景为掠夺者时代：玩家扮演詹姆·波特，在霍格沃茨与小天狼星布莱克、莱姆斯·卢平、小矮星彼得、莉莉·伊万斯等人经历一段原创剧情。剧情有多分支（分支 1/2 开关与多个剧情节点），场景覆盖宿舍、大休息室、礼堂、校长室、霍格莫德村与打人柳—尖叫棚屋密道共 25 张地图，设有结局开关与完结演出。由多人小组协作完成，涵盖策划、程序、关卡、音效与剧情文本。",
+          "summary": "中文哈利·波特同人 RPG：玩家扮演掠夺者时代的詹姆·波特，在霍格沃茨经历一段原创分支剧情。"
+        }
+      },
+      "media": {
+        "cover": "https://webrpg.org/shuangboxu-Harry-Potter-Game/cover.png"
+      },
+      "originalTitle": "霍格沃茨：掠夺纪元",
+      "popularity": 2,
+      "schemaVersion": 1,
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "slug": "huo-ge-wo-ci-lue-duo-ji-yuan",
+      "taxonomy": {
+        "contentType": "full-game",
+        "genres": [
+          "rpg"
+        ],
+        "mechanics": [
+          "branching story",
+          "multiple endings"
+        ],
+        "themes": [
+          "fantasy"
+        ]
+      },
+      "translatedTitles": {
+        "en": "Hogwarts: Age of Plunder △",
+        "ja": "ホゥオグゥオウォツー・リュエドゥオジーユエン △"
+      }
+    },
+    "junshin-muchi-musume-no-shuugaku-ryokou-monogatari": {
+      "aliases": {
+        "en": [
+          "BROWSER ONLINE"
+        ]
+      },
+      "assessedAt": "2026-11-19",
+      "assessmentNote": "No Steam/itch/wiki/review/community coverage found for 純真無知娘の修学旅行物語; the only evidence is the GitHub repo itself (0 stars, 2 forks, 125 commits). No reputation evidence, so rating is left blank.",
+      "assessmentSources": [
+        "https://github.com/cdgaming/cdgaming.github.io"
+      ],
+      "contentAdvisory": {
+        "nsfw": true,
+        "warnings": [
+          "explicit sexual content"
+        ]
+      },
+      "developers": [
+        {
+          "name": "cdgaming",
+          "url": "https://github.com/cdgaming"
+        }
+      ],
+      "editorial": {
+        "qualityFlags": [
+          "description-unverified"
+        ],
+        "sources": [
+          "https://github.com/cdgaming/cdgaming.github.io"
+        ],
+        "status": "draft"
+      },
+      "externalLinks": [
+        {
+          "label": "GitHub — cdgaming/cdgaming.github.io",
+          "type": "source",
+          "url": "https://github.com/cdgaming/cdgaming.github.io"
+        }
+      ],
+      "instances": [
+        {
+          "id": "cdgaming-cdgaming-github-io",
+          "languages": [
+            "ja"
+          ],
+          "nsfw": true,
+          "title": "純真無知娘の修学旅行物語",
+          "type": "internal"
+        }
+      ],
+      "introductions": {
+        "en": {
+          "editorialStatus": "draft",
+          "overview": "A Japanese RPG about a school trip to a ryokan inn. The protagonist travels by bus with classmates — among them Keiko, an innocent girl who barely understands sexual matters, and Kiri-nee — and spends three days at the inn, with routes A/B/C/D, multiple endings, and an online lobby with chat (BROWSER ONLINE). The game is large: 160 maps and about 14,675 dialogue lines. It contains explicit sexual content and dialogue.",
+          "summary": "A Japanese school-trip RPG: three days at a hot-spring inn with an innocent classmate, branching routes and multiple endings."
+        },
+        "ja": {
+          "editorialStatus": "draft",
+          "overview": "修学旅行で旅館に泊まる日本語RPG。主人公はバスでクラスメイトたちと旅館へ向かい、性的なことをほとんど知らない純真な少女けーこやキリ姉らと3日間を過ごす。A/B/C/Dルートと複数エンディング、チャット付きのオンラインロビー（BROWSER ONLINE）を備える。全160マップ・約14,675行の台詞を持つ大規模な作品で、明確な性描写と性的な台詞を含む。",
+          "summary": "日本語の修学旅行RPG。純真な同級生と温泉旅館で過ごす3日間を描き、分岐ルートと複数エンディングを持つ。"
+        },
+        "zh-Hans": {
+          "editorialStatus": "draft",
+          "overview": "日语修学旅行 RPG：主角与同班同学乘车前往旅馆，与对性事几乎一无所知的纯真少女惠子（けーこ）、桐姐（キリ姉）等人在旅馆度过三天；设有 A/B/C/D 多条路线与多个结局，以及带聊天的在线大厅（BROWSER ONLINE）。体量很大：160 张地图、约 14,675 行对白。本作含有明确的性内容与性描写对白。",
+          "summary": "日语修学旅行 RPG：与纯真的同班女生在温泉旅馆度过三天，多路线、多结局。"
+        }
+      },
+      "media": {
+        "cover": "https://webrpg.org/cdgaming-cdgaming.github.io/cover.png"
+      },
+      "originalTitle": "純真無知娘の修学旅行物語",
+      "popularity": 2,
+      "schemaVersion": 1,
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "slug": "junshin-muchi-musume-no-shuugaku-ryokou-monogatari",
+      "taxonomy": {
+        "contentType": "full-game",
+        "genres": [
+          "rpg"
+        ],
+        "mechanics": [
+          "branching routes",
+          "multiple endings",
+          "online chat"
+        ],
+        "themes": [
+          "romance",
+          "slice-of-life"
+        ]
+      },
+      "translatedTitles": {
+        "en": "Junshin Muchi Musume no Shuugaku Ryokou Monogatari △",
+        "zh-Hans": "纯真无知娘的修学旅行物语 △"
+      }
+    },
+    "ke-yan-gou-zhi-meng": {
+      "assessedAt": "2026-11-19",
+      "assessmentNote": "Web search for 科研狗之梦 found only an unrelated Steam game (Yet Another Research Dog); no Steam/itch/wiki/review/community coverage of this game. The only evidence is the GitHub repo itself (2 stars, 2 forks, 22 commits). No reputation evidence, so rating is left blank.",
+      "assessmentSources": [
+        "https://github.com/430230562/kerman-s-dream"
+      ],
+      "contentAdvisory": {
+        "nsfw": true,
+        "warnings": [
+          "explicit sexual content"
+        ]
+      },
+      "developers": [
+        {
+          "name": "430230562",
+          "url": "https://github.com/430230562"
+        }
+      ],
+      "editorial": {
+        "qualityFlags": [
+          "description-unverified"
+        ],
+        "sources": [
+          "https://github.com/430230562/kerman-s-dream"
+        ],
+        "status": "draft"
+      },
+      "externalLinks": [
+        {
+          "label": "GitHub — 430230562/kerman-s-dream",
+          "type": "source",
+          "url": "https://github.com/430230562/kerman-s-dream"
+        }
+      ],
+      "instances": [
+        {
+          "id": "430230562-kerman-s-dream",
+          "languages": [
+            "zh-Hans"
+          ],
+          "nsfw": true,
+          "title": "科研狗之梦",
+          "type": "internal",
+          "version": "pre demo"
+        }
+      ],
+      "introductions": {
+        "en": {
+          "editorialStatus": "draft",
+          "overview": "A pre-demo: a talented researcher is shrunk after being noticed by a god and taken in by a cat-girl, who needs environmental data from inside giant women's bodies — so the tiny protagonist explores body-interior maps (mouth, stomach, intestines, womb, breasts) to collect samples. Systems include a day/time clock, a sanity value, shops and sample synthesis. About 1,005 dialogue lines across 64 maps (many still empty placeholders). It contains explicit sexual content and dialogue.",
+          "summary": "A Chinese pre-demo adventure: a shrunken researcher collects data inside giant women's bodies, with day/time and sanity systems."
+        },
+        "ja": {
+          "editorialStatus": "draft",
+          "overview": "プレデモ。優秀な研究者は神の目に留まって小さくなり、猫の少女に拾われる。猫は巨大な女性の体内環境データを必要としており、小さくなった主人公は口・胃・腸・子宮・乳房などの体内マップを探索してサンプルを集める。昼夜・時間、san値、ショップ、サンプル合成のシステムを備える。全64マップ・約1,005行の台詞（未使用の空マップも多い）。明確な性描写と性的な台詞を含む。",
+          "summary": "中国語のプレデモ・アドベンチャー。縮んだ研究者が巨大な女性の体内でデータを集める。昼夜とsan値のシステム付き。"
+        },
+        "zh-Hans": {
+          "editorialStatus": "draft",
+          "overview": "pre demo：主角因科研能力出众被神看中后穿越缩小，被猫猫收养；猫猫急需巨娘体内的环境数据，喜欢钻进别人体内的主角便进入口、胃、肠、子宫、乳腺等体内地图采集样本。系统包括时刻/天数、理智（san）值、商店与样本合成。共 64 张地图、约 1,005 行对白（其中不少是未使用的空白占位地图）。本作含有明确的性内容与性描写对白。",
+          "summary": "中文 pre demo 冒险游戏：缩小后的科研人员进入巨娘体内采集环境数据，带时刻与理智值系统。"
+        }
+      },
+      "media": {
+        "cover": "https://webrpg.org/430230562-kerman-s-dream/cover.png"
+      },
+      "originalTitle": "科研狗之梦",
+      "popularity": 2,
+      "schemaVersion": 1,
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "slug": "ke-yan-gou-zhi-meng",
+      "taxonomy": {
+        "contentType": "demo",
+        "genres": [
+          "adventure"
+        ],
+        "mechanics": [
+          "data collection",
+          "day/time system",
+          "sanity system"
+        ],
+        "themes": [
+          "slice-of-life"
+        ]
+      },
+      "translatedTitles": {
+        "en": "Ke Yan Gou Zhi Meng △",
+        "ja": "ケーヤンゴウヂーメン △"
+      }
+    },
+    "qi-hou-zhi-shi-da-tiao-zhan": {
+      "aliases": {
+        "zh-Hant": [
+          "畢專測試"
+        ]
+      },
+      "assessedAt": "2026-11-19",
+      "assessmentNote": "No Steam/itch/wiki/review/community coverage found for 氣候知識大挑戰; the only evidence is the GitHub repo itself (0 stars, 2 forks, 13 commits). No reputation evidence, so rating is left blank.",
+      "assessmentSources": [
+        "https://github.com/mandy321555/rpg"
+      ],
+      "contentAdvisory": {
+        "nsfw": false
+      },
+      "developers": [
+        {
+          "name": "mandy321555",
+          "url": "https://github.com/mandy321555"
+        }
+      ],
+      "editorial": {
+        "qualityFlags": [
+          "description-unverified"
+        ],
+        "sources": [
+          "https://github.com/mandy321555/rpg"
+        ],
+        "status": "draft"
+      },
+      "externalLinks": [
+        {
+          "label": "GitHub — mandy321555/rpg",
+          "type": "source",
+          "url": "https://github.com/mandy321555/rpg"
+        }
+      ],
+      "instances": [
+        {
+          "id": "mandy321555-rpg",
+          "languages": [
+            "zh-Hant"
+          ],
+          "nsfw": false,
+          "title": "氣候知識大挑戰",
+          "type": "internal",
+          "version": "合作版"
+        }
+      ],
+      "introductions": {
+        "en": {
+          "editorialStatus": "draft",
+          "overview": "A Traditional Chinese co-op educational minigame collection (a graduation project, 畢專）: two players (A and B) take on the Climate Knowledge Challenge together across three levels — a library quiz on climate change (IPCC, climate refugees, Tuvalu), a push-box puzzle, and a minesweeper stage. Each level records time and mistakes, and results can be checked at the oil lamp in the house. About 202 dialogue lines across 8 maps.",
+          "summary": "A Traditional Chinese co-op educational minigame: two players clear a climate quiz, a push-box stage and a minesweeper stage."
+        },
+        "ja": {
+          "editorialStatus": "draft",
+          "overview": "繁体字中国語の協力型教育ミニゲーム集（卒業制作・畢專）。2人のプレイヤー（AとB）が「気候知識大挑戦」に挑む。全3ステージ：図書館での気候変動クイズ（IPCC、気候難民、ツバル）、箱押しパズル、地雷ステージ。各ステージは時間とミス回数を記録し、家のランプで結果を確認できる。全8マップ・約202行の台詞。",
+          "summary": "繁体字中国語の協力型教育ミニゲーム。2人で気候クイズ・箱押し・地雷ステージに挑む。"
+        },
+        "zh-Hans": {
+          "editorialStatus": "draft",
+          "overview": "繁体中文双人合作教育小游戏合集（毕业专题，畢專）：两名玩家（A、B）合作挑战“气候知识大挑战”，共三关——图书馆气候知识问答（IPCC、气候难民、图瓦卢）、推箱子、地雷关；每关记录用时与错误次数，通关后可在屋内油灯处查看纪录。共 8 张地图、约 202 行对白。",
+          "summary": "繁体中文双人合作教育小游戏：两人合作通关气候问答、推箱子与地雷三关。"
+        }
+      },
+      "media": {
+        "cover": "https://webrpg.org/mandy321555-rpg/cover.png"
+      },
+      "originalTitle": "氣候知識大挑戰",
+      "popularity": 2,
+      "schemaVersion": 1,
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "slug": "qi-hou-zhi-shi-da-tiao-zhan",
+      "taxonomy": {
+        "contentType": "full-game",
+        "genres": [
+          "minigame"
+        ],
+        "mechanics": [
+          "quiz",
+          "push-box puzzle",
+          "minesweeper",
+          "co-op play",
+          "timed challenge"
+        ],
+        "themes": [
+          "educational"
+        ]
+      },
+      "translatedTitles": {
+        "en": "Qi Hou Zhi Shi Da Tiao Zhan △",
+        "ja": "チーホウチーシーダーティアオヂャン △",
+        "zh-Hans": "气候知识大挑战"
+      }
+    },
+    "furan-to-zainin-no-shima": {
+      "assessedAt": "2026-11-19",
+      "assessmentNote": "DLsite R18 RPG (RJ202510); /hgg2d/ Game of the Week in June 2018 with above-average production values noted; Chinese and Korean translations exist and Chinese download posts still appear in 2026; no professional reviews found, so rating 6 reflects community reception and content scale (332 maps, ~48k dialogue lines, branching routes); popularity 5.",
+      "assessmentSources": [
+        "https://migames.org/52580.html",
+        "https://github.com/kotpot197/FuranToZaininNoSima",
+        "https://raw.githubusercontent.com/kotpot197/FuranToZaininNoSima/main/data/System.json",
+        "https://raw.githubusercontent.com/kotpot197/FuranToZaininNoSima/main/data/MapInfos.json",
+        "https://pastebin.com/kG6i19AW"
+      ],
+      "contentAdvisory": {
+        "nsfw": true,
+        "officialAgeRating": "R18 (DLsite maniax)",
+        "warnings": [
+          "Explicit sexual content: prostitution and sexual training routes, humiliation-oriented H scenes, sexual content with coercion themes",
+          "H-scene recollection gallery (recollection room)"
+        ]
+      },
+      "editorial": {
+        "qualityFlags": [
+          "description-unverified",
+          "developer-unverified",
+          "release-date-unverified"
+        ],
+        "sources": [
+          "https://migames.org/52580.html",
+          "https://github.com/kotpot197/FuranToZaininNoSima",
+          "https://raw.githubusercontent.com/kotpot197/FuranToZaininNoSima/main/data/System.json",
+          "https://raw.githubusercontent.com/kotpot197/FuranToZaininNoSima/main/data/MapInfos.json",
+          "https://pastebin.com/kG6i19AW"
+        ],
+        "status": "draft"
+      },
+      "externalLinks": [
+        {
+          "label": "DLsite — フランと罪人の島 (RJ202510)",
+          "type": "store",
+          "url": "https://www.dlsite.com/maniax/work/=/product_id/RJ202510.html"
+        },
+        {
+          "label": "GitHub — kotpot197/FuranToZaininNoSima (Chinese translation)",
+          "type": "source",
+          "url": "https://github.com/kotpot197/FuranToZaininNoSima"
+        }
+      ],
+      "instances": [
+        {
+          "id": "kotpot197-furantozaininnosima",
+          "languages": [
+            "zh-Hans"
+          ],
+          "nsfw": true,
+          "title": "芙兰与罪人之岛",
+          "type": "internal"
+        }
+      ],
+      "introductions": {
+        "en": {
+          "editorialStatus": "draft",
+          "overview": "A classic story-driven RPG in which the young knight Fran arrives on an island where criminals are exiled, in pursuit of offenders. The original is an R18 title sold on DLsite (RJ202510). The story branches in the middle of the game: different routes develop differently, especially in the tendencies of the H scenes, which are mostly humiliation-oriented; after clearing the game you can return to the branch point. The game is large: 332 maps, 5,219 events, about 48,096 dialogue lines, and 462 battles, including arena, brothel, and recollection-room content across its routes. This web instance is kotpot197's Chinese translation (in-game dialogue is Chinese; map names and switches remain Japanese), titled '芙兰与罪人之岛 ver1.03'. The game contains explicit sexual content and sexual-coercion themes; not suitable for minors. This description is unreviewed.",
+          "summary": "A story-driven RPG: the young knight Fran follows criminals to an island where convicts are exiled, with branching mid-game routes, multiple endings, and a scene-recollection room. Contains explicit adult content."
+        },
+        "ja": {
+          "editorialStatus": "draft",
+          "overview": "罪人を追って罪人の流刑地である島にやって来た若き女騎士フランを主人公とする正統派ストーリーRPG。原作は DLsite で販売された R18 作品（RJ202510）。中盤で分岐し、ルートによって物語の展開が異なり、特に H シーンの傾向が変化する。凌辱寄りの内容が多く、クリア後は分岐点に戻ることができる。規模は大きく、マップ 332 枚、イベント 5219 個、台詞およそ 48096 行、戦闘 462 回。闘技場、娼館、回想部屋など各ルートの内容を含む。本ウェブ版は kotpot197 による中国語翻訳版（ゲーム内台詞は中国語、マップ名とスイッチは日本語のまま）で、タイトルは「芙兰与罪人之岛 ver1.03」。明確な性的内容と性的強制のテーマを含むため未成年には不適切。この紹介文は未査読。",
+          "summary": "罪人を追って罪人の流刑地である島にやって来た若き女騎士フランの正統派ストーリーRPG。中盤分岐ルート、複数エンディング、回想部屋を備える。明確なアダルトコンテンツを含む。"
+        },
+        "zh-Hans": {
+          "editorialStatus": "draft",
+          "overview": "少女骑士芙兰为追寻罪犯来到罪犯流放之岛的正统剧情 RPG。原作为 DLsite 发售的 R18 作品（RJ202510）。中盘出现分歧，不同路线故事发展不同，特别是 H 场景的倾向会发生变化，凌辱向较多；通关后可以回到分歧点重新选择。游戏规模很大：332 张地图、5219 个事件、约 48096 行对白、462 场战斗，含竞技场、妓院、回忆室（回想）等多条路线内容。本网页版为 kotpot197 制作的中文汉化版（游戏内对白为中文，地图名与开关保留日文），游戏标题为「芙兰与罪人之岛 ver1.03」。本作含有明确的性内容与性胁迫题材，未成年人不宜，介绍未审核。",
+          "summary": "少女骑士芙兰追寻罪犯来到罪犯流放之岛的正统剧情 RPG：中盘分歧路线、多结局与回想房间，含明确的成人内容。"
+        }
+      },
+      "media": {
+        "cover": "https://webrpg.org/kotpot197-FuranToZaininNoSima/cover.png"
+      },
+      "originalTitle": "フランと罪人の島",
+      "popularity": 5,
+      "rating": 6,
+      "schemaVersion": 1,
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "slug": "furan-to-zainin-no-shima",
+      "taxonomy": {
+        "contentType": "full-game",
+        "genres": [
+          "rpg"
+        ],
+        "mechanics": [
+          "branching-routes",
+          "multiple-endings",
+          "scene-recollection"
+        ],
+        "themes": [
+          "fantasy",
+          "drama"
+        ]
+      },
+      "translatedTitles": {
+        "en": "Fran and the Island of Sinners",
+        "zh-Hans": "芙兰与罪人之岛"
+      }
+    },
+    "lvhzhou-jihua": {
+      "assessedAt": "2026-11-19",
+      "assessmentNote": "Steam store page (app 1168840, 'Project Oasis') confirms the same story, characters and second run; no review scores or professional reviews were found, so rating is left blank; popularity 3 for a commercial Steam release with no measurable buzz (GitHub 0 stars, no media coverage).",
+      "assessmentSources": [
+        "https://store.steampowered.com/app/1168840?l=english&utm_source=SRec",
+        "https://github.com/hefsjgaeiK/hefsjgaeiK.github.io",
+        "https://raw.githubusercontent.com/hefsjgaeiK/hefsjgaeiK.github.io/main/data/System.json",
+        "https://raw.githubusercontent.com/hefsjgaeiK/hefsjgaeiK.github.io/main/data/MapInfos.json"
+      ],
+      "contentAdvisory": {
+        "nsfw": false
+      },
+      "editorial": {
+        "qualityFlags": [
+          "description-unverified",
+          "developer-unverified",
+          "release-date-unverified"
+        ],
+        "sources": [
+          "https://store.steampowered.com/app/1168840?l=english&utm_source=SRec",
+          "https://github.com/hefsjgaeiK/hefsjgaeiK.github.io",
+          "https://raw.githubusercontent.com/hefsjgaeiK/hefsjgaeiK.github.io/main/data/System.json",
+          "https://raw.githubusercontent.com/hefsjgaeiK/hefsjgaeiK.github.io/main/data/MapInfos.json"
+        ],
+        "status": "draft"
+      },
+      "externalLinks": [
+        {
+          "label": "Steam — Project Oasis",
+          "type": "store",
+          "url": "https://store.steampowered.com/app/1168840?l=english&utm_source=SRec"
+        },
+        {
+          "label": "GitHub — hefsjgaeiK/hefsjgaeiK.github.io",
+          "type": "source",
+          "url": "https://github.com/hefsjgaeiK/hefsjgaeiK.github.io"
+        }
+      ],
+      "instances": [
+        {
+          "id": "hefsjgaeik-hefsjgaeik-github-io",
+          "languages": [
+            "zh-Hans"
+          ],
+          "nsfw": false,
+          "title": "绿洲计划",
+          "type": "internal"
+        }
+      ],
+      "introductions": {
+        "en": {
+          "editorialStatus": "draft",
+          "overview": "A Chinese sci-fi story role-playing game, released on Steam as Project Oasis (app 1168840). In the distant Promie galaxy, every 3,000 years the comet called the Star of Hope chooses a child and makes them a Son of the Stars; after the planet Bluestar stopped spinning, Astell wakes in an underground city having slept for 3,000 years, and meets Mizi, the other protagonist, who was raised from childhood by the artificial intelligence Yun. Together they search for reactor parts to restart the planet's core, learning the past of the Sons of the Stars and the true purpose of the reactor built by Garfield — the GARD AI that talks to them is in fact Garfield's consciousness uploaded to a computer. Gameplay is story exploration, puzzle-solving, and quick-time events, with shadow-creature encounters, choices, multiple endings, and a second run (the Steam page says to 'look for hope and answers in the second run'). The game has 94 maps, 1,396 events, and about 8,108 dialogue lines, and uses MV3D 3D mode, dynamic lighting, and minimap plugins. The in-game author room says this is a solo-developed, crowdfunded work; the author's name is unverified, and this description is unreviewed.",
+          "summary": "A Chinese sci-fi story RPG: Astell, awake after sleeping 3,000 years, joins Mizi to find reactor parts and restart the stalled planet Bluestar."
+        },
+        "ja": {
+          "editorialStatus": "draft",
+          "overview": "中国のSFストーリー・ロールプレイングゲーム。Steam では Project Oasis（app 1168840）として配信されている。遠いプロミー銀河では 3000 年に一度、「希望の星」と呼ばれる彗星が子どもを選び「星の子」が生まれる。惑星ブルースターが自転を止めた後、3000 年眠っていたアステル（ASTELL）が地下都市で目覚め、人工知能「雲」に育てられたもう一人の主人公ミズィ（米子／Mizi）と出会う。二人は原子炉の部品を探しながら、星の子の過去とガーフィールドが原子炉を作った本当の目的を知る。語りかけてくる GARD AI の正体は、コンピュータに意識をアップロードしたガーフィールド自身だった。ゲームプレイはストーリー探索、謎解き、QTE が中心で、影の生物との遭遇、選択と決断、複数エンディング、二周目（Steam 紹介文は「二周目で希望と答えを探そう」と締めくくられる）がある。マップ 94 枚、イベント 1396 個、台詞およそ 8108 行。MV3D の 3D モード、動的ライティング、ミニマップなどのプラグインを使用。ゲーム内の作者部屋の謝辞によれば個人開発・クラウドファンディングによる作品で、作者名は未確認。この紹介文は未査読。",
+          "summary": "中国のSFストーリーRPG。3000年の眠りから目覚めたアステルがミズィとともに原子炉の部品を探し、回転を止めた惑星ブルースターを再起動させる。"
+        },
+        "zh-Hans": {
+          "editorialStatus": "draft",
+          "overview": "国产科幻剧情角色扮演游戏，Steam 商店名为 Project Oasis（app 1168840）。故事发生在遥远的普罗米星系：每三千年，希望之星彗星会选中一名孩子赐予希望之星，诞生「星之子」；蓝色星球停止自转后，沉睡了三千年的艾斯（ASTELL）在地下城醒来，与从小由人工智能「云」抚养长大的另一名主角米子（Mizi）相遇，两人一起寻找反应堆零件，逐步揭开星之子的过去与加菲尔德建造反应堆的真正用途——与两人对话的 GARD AI 其实就是加菲尔德上传到电脑中的意识。玩法以剧情探索、解谜与 QTE 为主，含影子生物遭遇、选择与抉择、多结局与二周目（Steam 介绍称“在二周目寻找希望与答案”）。游戏共 94 张地图、1396 个事件、约 8108 行对白，使用 MV3D 三维模式、动态光照与小地图等插件。作者房间的致谢对白表明这是单人开发、众筹支持的作品，作者姓名未核实，介绍未审核。",
+          "summary": "国产科幻剧情 RPG：沉睡三千年后醒来的艾斯与米子一起寻找反应堆零件，重启停转的蓝色星球。"
+        }
+      },
+      "media": {
+        "cover": "https://webrpg.org/hefsjgaeiK-hefsjgaeiK.github.io/cover.png"
+      },
+      "originalTitle": "绿洲计划",
+      "popularity": 3,
+      "schemaVersion": 1,
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "slug": "lvhzhou-jihua",
+      "taxonomy": {
+        "contentType": "full-game",
+        "genres": [
+          "adventure"
+        ],
+        "mechanics": [
+          "puzzle-solving",
+          "quick-time-events",
+          "new-game-plus"
+        ],
+        "themes": [
+          "sci-fi"
+        ]
+      },
+      "translatedTitles": {
+        "en": "Project Oasis"
+      }
+    },
+    "subarashii-sekai-de": {
+      "aliases": {
+        "en": [
+          "Subarashii Sekai de"
+        ]
+      },
+      "assessedAt": "2026-11-19",
+      "assessmentNote": "No Steam/itch/media records found; only the two GitHub repositories (0 stars each), so no reputation evidence exists and rating is left blank; popularity 1.",
+      "assessmentSources": [
+        "https://github.com/joshika39/rpg-camp-game",
+        "https://github.com/lsc-jh/rpg-maker",
+        "https://raw.githubusercontent.com/joshika39/rpg-camp-game/master/data/System.json",
+        "https://raw.githubusercontent.com/joshika39/rpg-camp-game/master/data/MapInfos.json"
+      ],
+      "contentAdvisory": {
+        "nsfw": false
+      },
+      "developers": [
+        {
+          "name": "joshika39",
+          "url": "https://github.com/joshika39"
+        }
+      ],
+      "editorial": {
+        "qualityFlags": [
+          "description-unverified",
+          "small-scope-camp-project",
+          "ending-unverified"
+        ],
+        "sources": [
+          "https://github.com/joshika39/rpg-camp-game",
+          "https://github.com/lsc-jh/rpg-maker",
+          "https://raw.githubusercontent.com/joshika39/rpg-camp-game/master/data/System.json",
+          "https://raw.githubusercontent.com/joshika39/rpg-camp-game/master/data/MapInfos.json"
+        ],
+        "status": "draft"
+      },
+      "instances": [
+        {
+          "id": "joshika39-rpg-camp-game",
+          "languages": [
+            "ja"
+          ],
+          "nsfw": false,
+          "title": "素晴らしい世界で",
+          "type": "internal"
+        },
+        {
+          "id": "lsc-jh-rpg-maker",
+          "languages": [
+            "ja"
+          ],
+          "notes": "Game files under josh/ subdirectory; near-identical copy of the joshika39 instance (Map006 unpainted with no transfer event; one extra empty Map008).",
+          "nsfw": false,
+          "title": "素晴らしい世界で",
+          "type": "internal"
+        }
+      ],
+      "introductions": {
+        "en": {
+          "editorialStatus": "draft",
+          "overview": "A small role-playing game made by joshika39 with RPG Maker MV during a Logiscool summer camp. An opening line says an anonymous wanderer arrived in the world of Eternia; the player then crosses a 120x80 overworld to visit 7 maps — the starting town and its inn, the fantasy forest, and the dragon's lair — talking to townspeople, buying supplies, meeting slimes in the forest, and fighting one scripted battle in the lair. Enemies are bats, slimes, orcs, and a minotaur (the orc and minotaur troops are defined in the database but never referenced by any event); items include the 'wonderful tea' (素晴らしいお茶). The two web instances (joshika39 and lsc-jh) are near-identical copies of the same game: apart from the title screen and a few tile strokes they are byte-identical, except the lsc-jh copy has an unpainted Map006 with no transfer event and one extra empty map. The game is very small and no ending was verified; this description is unreviewed.",
+          "summary": "A small Japanese RPG made at a Logiscool summer camp: a wanderer arrives in the world of Eternia and explores its town, forest, and dragon's lair."
+        },
+        "ja": {
+          "editorialStatus": "draft",
+          "overview": "joshika39 が Logiscool サマーキャンプで RPGツクールMV を用いて制作した小規模なロールプレイングゲーム。オープニングには「An anonym wanderer arrived to the world of Eternia」（原文ママ）と表示され、プレイヤーは 120×80 のワールドマップを移動して、始まりの街と宿屋、幻想的の森、ドラゴンの巣窟など 7 枚のマップを巡る。町人との会話、宿屋での買い物、森でのスライムとのランダムエンカウント、巣窟でのスクリプト戦闘がある。敵はこうもり、スライム、オーク、ミノタウロス（オークとミノタウロスはデータベースに定義のみでイベントからは参照されていない）。アイテムには「素晴らしいお茶」がある。2 つのウェブ版（joshika39 と lsc-jh）は同一ゲームのほぼ同一のコピーで、タイトル画面と一部のタイルを除きバイト単位で一致する。lsc-jh 版は Map006 が未描画で転送イベントがなく、空の Map008 が 1 枚多い。規模は小さく、エンディングの有無は未確認。この紹介文は未査読。",
+          "summary": "Logiscool サマーキャンプで制作された小規模な日本語RPG。流浪者が永遠の地エテルニアに辿り着き、街・森・ドラゴンの巣窟を巡る。"
+        },
+        "zh-Hans": {
+          "editorialStatus": "draft",
+          "overview": "joshika39 在 Logiscool 夏令营期间用 RPG Maker MV 制作的小型角色扮演游戏。开场文字写道，一名匿名的流浪者来到了永恒之地艾特尼亚（原文如此）；玩家在 120×80 的大地图上行动，前往始まりの街与宿屋、幻想的の森、ドラゴンの巣窟等 7 张地图，与镇民对话、购买补给，在森林中遭遇史莱姆，在龙窟中进行一场脚本战斗。登场敌人有蝙蝠、史莱姆、兽人与牛头人（兽人与牛头人仅定义了数据，未在任何事件中引用），道具包括「素晴らしいお茶」。两个网页实例（joshika39 与 lsc-jh）是同一游戏近乎相同的副本：除标题画面与少量地形笔触外完全一致，后者的 Map006 未绘制且无传送事件，并多一张空地图。本作体量很小，未核实是否存在结局，介绍未审核。",
+          "summary": "Logiscool 夏令营制作的小型日式 RPG：流浪者来到永恒之地艾特尼亚，在城镇、森林与巨龙巢穴间冒险。"
+        }
+      },
+      "media": {
+        "cover": "https://webrpg.org/joshika39-rpg-camp-game/cover.png"
+      },
+      "originalTitle": "素晴らしい世界で",
+      "popularity": 1,
+      "schemaVersion": 1,
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "slug": "subarashii-sekai-de",
+      "taxonomy": {
+        "contentType": "full-game",
+        "genres": [
+          "rpg"
+        ],
+        "mechanics": [
+          "exploration",
+          "turn-based-battle"
+        ],
+        "themes": [
+          "fantasy"
+        ]
+      },
+      "translatedTitles": {
+        "en": "Subarashii Sekai de △",
+        "zh-Hans": "在美好的世界"
+      }
+    },
+    "huahuo-lianjie": {
+      "assessedAt": "2026-11-19",
+      "assessmentNote": "Web search 2026-11-19 found no coverage beyond the author's own repos (no Steam/itch/wiki/review hits for 花火链接); the game itself is verified substantive from its data (53 maps, 1,001 events, ~1,963 dialogue lines). Old 3/5 scores not carried over; rating left blank, popularity 2.",
+      "assessmentSources": [
+        "https://github.com/say-hanabi-dev/hanabi-rpg-game-dev",
+        "https://github.com/say-hanabi-dev/hanabi-rpg-game-frontend"
+      ],
+      "contentAdvisory": {
+        "nsfw": false
+      },
+      "developers": [
+        {
+          "name": "say-hanabi-dev"
+        }
+      ],
+      "editorial": {
+        "qualityFlags": [
+          "no-external-coverage"
+        ],
+        "sources": [
+          "https://github.com/say-hanabi-dev/hanabi-rpg-game-dev",
+          "https://github.com/say-hanabi-dev/hanabi-rpg-game-frontend"
+        ],
+        "status": "draft"
+      },
+      "externalLinks": [
+        {
+          "label": "GitHub source (dev build)",
+          "type": "source",
+          "url": "https://github.com/say-hanabi-dev/hanabi-rpg-game-dev"
+        },
+        {
+          "label": "GitHub source (earlier frontend snapshot, same game)",
+          "type": "source",
+          "url": "https://github.com/say-hanabi-dev/hanabi-rpg-game-frontend"
+        }
+      ],
+      "instances": [
+        {
+          "id": "say-hanabi-dev-hanabi-rpg-game-dev",
+          "languages": [
+            "zh-Hans"
+          ],
+          "notes": "同一游戏的较新构建；hanabi-rpg-game-frontend 仓库为同一游戏的较早快照（地图/开关/角色数据相同，仅缺钓鱼系统），旧实测 playable false，不链接",
+          "nsfw": false,
+          "title": "花火链接",
+          "type": "internal"
+        }
+      ],
+      "introductions": {
+        "en": {
+          "editorialStatus": "draft",
+          "overview": "The opening presents a reincarnation setup: the protagonist is hit by a truck and wakes in a white light. The game has 53 maps, 1,001 events and about 1,963 dialogue lines, with eight tower floors (1-1 to 8-1), hidden stages, boss fights, 18 skill lines, shops, an alchemy room, a farm, a casino, fishing and a cat companion, plus modern-life maps (school classroom, apartment). No external coverage or reviews were found; this summary is based on the repository data only.",
+          "summary": "Huahuo Lianjie is a Chinese tower-climbing RPG made with RPG Maker MV by say-hanabi-dev: protagonist Harold wakes up after a truck accident and takes on an eight-floor spire with hidden stages."
+        },
+        "ja": {
+          "editorialStatus": "draft",
+          "overview": "オープニングは転生もの：主人公はトラックにはねられ、白い光の中で目覚める。53 マップ、1001 イベント、約 1963 行のセリフがあり、8 層の塔（1-1〜8-1）、隠しステージ、ボス戦、18 本のスキルライン、商店、錬金部屋、農田、カジノ、釣り、猫の仲間などのシステムに加え、学校の教室やアパートといった現代生活のマップもある。外部の報道やレビューは見つかっておらず、本紹介はリポジトリのデータのみに基づく。",
+          "summary": "『花火链接』（Huahuo Lianjie）は say-hanabi-dev による RPGツクールMV製の中国語タワークライミングRPG。主人公ハロルドはトラック事故の後目覚め、8 層の尖塔と隠しステージに挑む。"
+        },
+        "zh-Hans": {
+          "editorialStatus": "draft",
+          "overview": "开场白交代转生开局：主角被泥头车撞后在白光中醒来。游戏共有 53 张地图、1001 个事件、约 1963 行对白，含八层塔（1-1 至 8-1）、隐藏关、Boss 战、18 条技能线、商店、炼金房、农田、赌场、钓鱼与猫咪伙伴等系统；另有学校教室、公寓等现代生活地图。无任何外部报道或评测，介绍仅依据仓库数据整理。",
+          "summary": "《花火链接》是 say-hanabi-dev 以 RPG Maker MV 制作的中文塔爬式角色扮演游戏：主角哈罗尔德遭遇泥头车事故后醒来，挑战一座八层尖塔与隐藏关卡。"
+        }
+      },
+      "media": {
+        "cover": "https://webrpg.org/say-hanabi-dev-hanabi-rpg-game-dev/cover.png"
+      },
+      "originalTitle": "花火链接",
+      "popularity": 2,
+      "release": {
+        "date": "2022-02-25",
+        "originalPlatforms": [
+          "web"
+        ]
+      },
+      "schemaVersion": 1,
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "slug": "huahuo-lianjie",
+      "taxonomy": {
+        "contentType": "full-game",
+        "genres": [
+          "rpg"
+        ],
+        "mechanics": [
+          "tower-climbing",
+          "skill-tree",
+          "alchemy",
+          "farming",
+          "casino",
+          "fishing"
+        ],
+        "themes": [
+          "fantasy"
+        ]
+      },
+      "translatedTitles": {
+        "en": "Huahuo Lianjie"
+      }
+    },
+    "huangtan-qiyu": {
+      "assessedAt": "2026-11-19",
+      "assessmentNote": "Web search 2026-11-19 found no coverage beyond the author's own repo (no Steam/itch/wiki/review hits for 荒滩奇遇 / rougedemo); the demo itself is verified substantive from its data (11 maps, elemental system, random loot, boss room). Old 2/5 scores not carried over; rating left blank, popularity 1.",
+      "assessmentSources": [
+        "https://github.com/AnthonyTonyZ/rougedemo"
+      ],
+      "contentAdvisory": {
+        "nsfw": false
+      },
+      "developers": [
+        {
+          "name": "AnthonyTonyZ"
+        }
+      ],
+      "editorial": {
+        "qualityFlags": [
+          "no-external-coverage"
+        ],
+        "sources": [
+          "https://github.com/AnthonyTonyZ/rougedemo"
+        ],
+        "status": "draft"
+      },
+      "externalLinks": [
+        {
+          "label": "GitHub source",
+          "type": "source",
+          "url": "https://github.com/AnthonyTonyZ/rougedemo"
+        }
+      ],
+      "instances": [
+        {
+          "id": "anthonytonyz-rougedemo",
+          "languages": [
+            "zh-Hans"
+          ],
+          "nsfw": false,
+          "title": "荒滩奇遇",
+          "type": "internal"
+        }
+      ],
+      "introductions": {
+        "en": {
+          "editorialStatus": "draft",
+          "overview": "The opening frames the player as an adventurer undergoing a sword saint's trial. The game has 11 maps — a starting room, common rooms, stone/ice/cursed/lava caves, a chest room and a boss room — built around exploring rooms, opening chests and random item drops, with an elemental affinity system (physical/wind/earth/fire/ice/lightning/water/light/dark) and 20 enemies, 20 weapons and 20 skills. Dialogue is only about 79 lines, mostly system prompts, with very little story. The repo is named rougedemo: a small-scale demo. No external coverage was found; this summary is based on the repository data only.",
+          "summary": "Huangtan Qiyu is a small Chinese rogue-like dungeon crawler made with RPG Maker MV by AnthonyTonyZ: a sword saint's trainee explores the barren beach, opening random-loot chests in caves and facing a boss."
+        },
+        "ja": {
+          "editorialStatus": "draft",
+          "overview": "オープニングでは、プレイヤーは剣聖の試練を受ける冒険者。11 マップ（初期部屋、普通部屋、石洞、氷洞、呪われた山洞、溶岩洞、宝箱部屋、ボス部屋）で構成され、部屋の探索、宝箱開け、ランダムドロップが中心。属性相性システム（物理/風/土/炎/氷/雷/水/光/闇）と敵 20 体、武器 20、スキル 20 がある。セリフは約 79 行で、ほとんどがシステム文言で物語はごくわずか。リポジトリ名は rougedemo で、小規模なデモである。外部の報道は見つかっておらず、本紹介はリポジトリのデータのみに基づく。",
+          "summary": "『荒滩奇遇』（Huangtan Qiyu）は AnthonyTonyZ による RPGツクールMV製の中国語ローグライク・ダンジョン探索ミニゲーム。剣聖の試練を受ける冒険者が荒れ地を探索し、ランダムドロップの宝箱を開けてボスに挑む。"
+        },
+        "zh-Hans": {
+          "editorialStatus": "draft",
+          "overview": "开场交代玩家是接受剑圣历练的冒险者。游戏共有 11 张地图：初始房、普通房、石洞、冰洞、被诅咒的山洞、熔岩洞、宝箱房与 Boss 房；玩法以探索房间、开宝箱、随机掉落为主，另有元素相克系统（物理/风/土/炎/冰/雷/水/光/暗）与 20 名敌人、20 件武器、20 个技能。对白仅约 79 行，以系统提示为主，剧情极少。仓库名为 rougedemo，属内容量较小的 demo。无任何外部报道，介绍仅依据仓库数据整理。",
+          "summary": "《荒滩奇遇》是 AnthonyTonyZ 以 RPG Maker MV 制作的中文 Rogue-like 地牢探索小游戏：剑圣的历练来到荒滩地段，探索随机宝箱的洞窟，挑战 Boss。"
+        }
+      },
+      "media": {
+        "cover": null
+      },
+      "originalTitle": "荒滩奇遇",
+      "popularity": 1,
+      "release": {
+        "date": "2024-07-13",
+        "originalPlatforms": [
+          "web"
+        ]
+      },
+      "schemaVersion": 1,
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "slug": "huangtan-qiyu",
+      "taxonomy": {
+        "contentType": "demo",
+        "genres": [
+          "rpg"
+        ],
+        "mechanics": [
+          "roguelike",
+          "procedural-rooms",
+          "random-loot",
+          "elemental-affinities"
+        ],
+        "themes": [
+          "fantasy"
+        ]
+      },
+      "translatedTitles": {
+        "en": "Huangtan Qiyu"
+      }
+    },
+    "mengmao-shiyou-qianduan-ke": {
+      "assessedAt": "2026-11-19",
+      "assessmentNote": "Web search 2026-11-19 found no coverage beyond the author's own repo (no Steam/itch/wiki/review hits for 萌猫·室友·前端课 / GameDemo); the trial itself is verified substantive from its data (12 maps, 102 events, ~616 dialogue lines, complete trial arc with ending screen). Old 3/5 scores not carried over; rating left blank, popularity 2.",
+      "assessmentSources": [
+        "https://github.com/easychen/GameDemo"
+      ],
+      "contentAdvisory": {
+        "nsfw": false
+      },
+      "developers": [
+        {
+          "name": "easychen"
+        }
+      ],
+      "editorial": {
+        "qualityFlags": [
+          "no-external-coverage",
+          "trial-content-only"
+        ],
+        "sources": [
+          "https://github.com/easychen/GameDemo"
+        ],
+        "status": "draft"
+      },
+      "externalLinks": [
+        {
+          "label": "GitHub source",
+          "type": "source",
+          "url": "https://github.com/easychen/GameDemo"
+        }
+      ],
+      "instances": [
+        {
+          "id": "easychen-gamedemo",
+          "languages": [
+            "zh-Hans"
+          ],
+          "notes": "游戏数据位于仓库 docs/ 子目录（index.html 与 data/ 均在 docs/ 下）；仓库描述称其为前端课程演示游戏，但内容为有完整试玩流程的教育冒险游戏，非模板/插件演示，故按 contentType demo 保留",
+          "nsfw": false,
+          "title": "萌猫·室友·前端课",
+          "type": "internal"
+        }
+      ],
+      "introductions": {
+        "en": {
+          "editorialStatus": "draft",
+          "overview": "The protagonist wants to become a programmer; his roommate Kaka claims to be a cat robot from the future. The game has 12 maps, 102 events and about 616 dialogue lines, set at home, school classrooms and corridors, a church, Sugar Cube City and the Box World; gameplay turns front-end/network lessons into in-game exams (1-1 to 1-8) and packet-decoding puzzles (UDP packets, IP, MAC addresses, ports). This entry is the trial version: the home map ends with 'the trial story ends here; Season 1 is on presale at s1.ftqq.com', a link that is now unreachable. The repo description also calls it a demo game for front-end courses. No external coverage was found; this summary is based on the repository data only.",
+          "summary": "Mengmao Shiyou Qianduan Ke is a Chinese educational adventure game trial by easychen, made with RPG Maker MV: an aspiring programmer lives with Kaka, a cat-shaped robot roommate from the future, learning front-end and networking through classes, exams and puzzles."
+        },
+        "ja": {
+          "editorialStatus": "draft",
+          "overview": "主人公はプログラマーを志し、ルームメイトの可卡は未来から来た猫型ロボットを自称する。12 マップ、102 イベント、約 616 行のセリフがあり、舞台は家、学校の教室と廊下、教会、方糖城、箱子世界。フロントエンド/ネットワークの授業内容がゲーム内の試験（1-1〜1-8）やパケット解読パズル（UDP パケット、IP、MAC アドレス、ポート）になっている。本項目は体験版で、家のマップの末尾に「試玩部分の物語はここまで。第 1 季の完全版は s1.ftqq.com で予約販売中」と明記されているが、そのリンクは現在アクセスできない。リポジトリの説明にもフロントエンド講座用のデモゲームとある。外部の報道は見つかっておらず、本紹介はリポジトリのデータのみに基づく。",
+          "summary": "『萌猫·室友·前端课』（Mengmao Shiyou Qianduan Ke）は easychen による RPGツクールMV製の中国語教育アドベンチャーゲームの体験版。プログラマーを目指す主人公が、未来から来た猫型ロボットのルームメイト・可卡と暮らし、授業や試験、謎解きを通してフロントエンドとネットワークを学ぶ。"
+        },
+        "zh-Hans": {
+          "editorialStatus": "draft",
+          "overview": "主角立志成为程序员，室友是一只自称来自未来的猫型机器人可卡。游戏共有 12 张地图、102 个事件、约 616 行对白，场景含家、学校教室与走廊、教堂、方糖城与箱子世界；玩法是将前端/网络课程内容做成游戏内考试（1-1 至 1-8）与解包谜题（UDP 数据包、IP、MAC 地址、端口）。本条目为试玩版：家地图结尾明言“试玩部分的剧情就到这里，第 1 季的完整版正在 s1.ftqq.com 预售”，该预售链接现已无法访问。仓库描述亦称其为前端课程演示游戏。无任何外部报道，介绍仅依据仓库数据整理。",
+          "summary": "《萌猫·室友·前端课》是 easychen 以 RPG Maker MV 制作的中文教育冒险游戏试玩版：想成为程序员的主角与来自未来的猫型机器人室友可卡同住，在上课、考试与解谜中学习前端与网络知识。"
+        }
+      },
+      "media": {
+        "cover": "https://webrpg.org/easychen-GameDemo/cover.png"
+      },
+      "originalTitle": "萌猫·室友·前端课",
+      "popularity": 2,
+      "release": {
+        "date": "2019-07-22",
+        "originalPlatforms": [
+          "web"
+        ]
+      },
+      "schemaVersion": 1,
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "slug": "mengmao-shiyou-qianduan-ke",
+      "taxonomy": {
+        "contentType": "demo",
+        "genres": [
+          "adventure"
+        ],
+        "mechanics": [
+          "quiz-exams",
+          "network-puzzles"
+        ],
+        "themes": [
+          "slice-of-life",
+          "educational"
+        ]
+      },
+      "translatedTitles": {
+        "en": "Mengmao Shiyou Qianduan Ke"
+      }
     }
   }
 }
