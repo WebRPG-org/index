@@ -1686,21 +1686,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/xlanwux-TravelInDoomWithYou/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "aliases": [
-        "Journey to the End with You"
-      ],
-      "genres": [
-        "adventure",
-        "drama"
-      ],
-      "languages": [
-        "zh-Hans"
-      ],
-      "nsfw": false,
+      "gameSlug": "he-ni-zai-mo-ri-de-lu-xing",
       "playable": true,
-      "popularity": 3,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "nsfw": false,
+      "reviewedAt": "2026-11-07",
+      "reviewedSourceHeadSha": "efb351870cc9968f37abb75b1c20adcb7d324ea3"
     }
   },
   {
@@ -1825,18 +1815,8 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/miracleyoo-HCRS-Online/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg",
-        "simulation",
-        "slice-of-life"
-      ],
-      "languages": [
-        "zh-Hans"
-      ],
-      "nsfw": false,
       "playable": false,
-      "popularity": 6,
-      "rating": 7,
+      "nsfw": false,
       "reviewedAt": "2026-11-07"
     }
   },
@@ -1864,19 +1844,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/miracleyoo-Hua-Cai-Ren-Sheng/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg",
-        "simulation",
-        "slice-of-life"
-      ],
-      "languages": [
-        "zh-Hans"
-      ],
-      "nsfw": false,
+      "gameSlug": "hua-cai-ren-sheng",
       "playable": true,
-      "popularity": 6,
-      "rating": 7,
-      "reviewedAt": "2026-11-07"
+      "nsfw": false,
+      "reviewedAt": "2026-11-07",
+      "reviewedSourceHeadSha": "98ec229944624636f9f8130309a8f9aa831e16de"
     }
   },
   {
@@ -2007,18 +1979,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/cyberocean-web-polaris/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg",
-        "slice-of-life"
-      ],
-      "languages": [
-        "zh-Hant"
-      ],
-      "nsfw": false,
+      "gameSlug": "polaris",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "nsfw": false,
+      "reviewedAt": "2026-11-07",
+      "reviewedSourceHeadSha": "58819c6a1d29dd216803b057e7a6d3a2e4b95d5a"
     }
   },
   {
@@ -3067,18 +3032,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/lzk716088-prisoner/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg",
-        "drama"
-      ],
-      "languages": [
-        "zh-Hant"
-      ],
-      "nsfw": false,
+      "gameSlug": "qiu-tu",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "nsfw": false,
+      "reviewedAt": "2026-11-07",
+      "reviewedSourceHeadSha": "22ff691efd08e510580ba04f162b255f701524bb"
     }
   },
   {
@@ -3590,22 +3548,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/gfdgd-xi-siyemuxu-online/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "aliases": [
-        "四叶苜蓿",
-        "siyemuxu"
-      ],
-      "genres": [
-        "rpg",
-        "fantasy"
-      ],
-      "languages": [
-        "zh-Hans"
-      ],
-      "nsfw": false,
+      "gameSlug": "si-ye-mu-xu-2",
       "playable": true,
-      "popularity": 3,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "nsfw": false,
+      "reviewedAt": "2026-11-07",
+      "reviewedSourceHeadSha": "0306aaecb1899b0e3f8255dfe3a4abe980e5123d"
     }
   },
   {
@@ -3635,22 +3582,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/GuilhermeLemos14-FabulousBeasts/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "aliases": [
-        "四叶苜蓿",
-        "siyemuxu"
-      ],
-      "genres": [
-        "rpg",
-        "fantasy"
-      ],
-      "languages": [
-        "zh-Hans"
-      ],
-      "nsfw": false,
+      "gameSlug": "si-ye-mu-xu-2",
       "playable": true,
-      "popularity": 3,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "nsfw": false,
+      "reviewedAt": "2026-11-07",
+      "reviewedSourceHeadSha": "4ffe09f1e649d6a302be731d03946e1e6f1fae21"
     }
   },
   {
@@ -3799,19 +3735,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/kotpot197-game/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg",
-        "fantasy"
-      ],
-      "languages": [
-        "zh-Hans"
-      ],
-      "nsfw": false,
+      "gameSlug": "yun-yan",
       "playable": true,
-      "popularity": 3,
-      "rating": 5,
+      "nsfw": false,
       "reviewedAt": "2026-11-07",
-      "title": "云烟"
+      "reviewedSourceHeadSha": "665b57ddbfd47ade5e59f03a96eb12b7665c9b51"
     }
   },
   {
@@ -3838,18 +3766,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/zenhanyin-RPGmakerdemo/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "reviewedAt": "2026-11-07",
+      "gameSlug": "tian-xia-wang-shi",
       "playable": true,
-      "rating": 5,
-      "popularity": 2,
-      "genres": [
-        "rpg",
-        "fantasy"
-      ],
       "nsfw": false,
-      "languages": [
-        "zh-Hans"
-      ]
+      "reviewedAt": "2026-11-07",
+      "reviewedSourceHeadSha": "393b255f9bfec55b92de8ba2d8054cdca3cfea17"
     }
   },
   {
@@ -3910,19 +3831,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/Starktomy-tunshi/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg",
-        "fantasy"
-      ],
-      "languages": [
-        "zh-Hans"
-      ],
-      "nsfw": false,
+      "gameSlug": "tun-shi-tian-di",
       "playable": true,
-      "popularity": 4,
-      "rating": 5,
+      "nsfw": false,
       "reviewedAt": "2026-11-07",
-      "title": "吞食天地二合一"
+      "reviewedSourceHeadSha": "a417ac693ae6ad00dd601d47026b7c875509bb98"
     }
   },
   {
@@ -3986,17 +3899,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/mingpnyy-rpgmaker-mv/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg"
-      ],
-      "languages": [
-        "zh-Hant"
-      ],
-      "nsfw": false,
+      "gameSlug": "wei-zai-dan-xi",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "nsfw": false,
+      "reviewedAt": "2026-11-07",
+      "reviewedSourceHeadSha": "eb7e9afd26578c6e8db37560f551154486d21917"
     }
   },
   {
@@ -4023,22 +3930,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/sGxOxDs-No-One-Betray/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "aliases": [
-        "No One Betray"
-      ],
-      "genres": [
-        "adventure",
-        "horror"
-      ],
-      "languages": [
-        "zh-Hant"
-      ],
-      "nsfw": false,
-      "originalTitle": "No One Betray",
+      "gameSlug": "wu-ren-bei-pan",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "nsfw": false,
+      "reviewedAt": "2026-11-07",
+      "reviewedSourceHeadSha": "ce856a09224f2d29ec02a3b62fa988c38519bdfb"
     }
   },
   {

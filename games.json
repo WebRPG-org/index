@@ -30395,6 +30395,947 @@
         "https://github.com/etxian/heroland"
       ],
       "assessmentNote": "Only the GitHub repo itself (0 stars, 2 forks, 4 watchers; all 13 commits are test commits from three days in June 2017); the title collides with unrelated games (Braveland Heroes, Hero's Land MMO, Nintendo Heroland) but none of them is this game, so rating is left blank and popularity is 1."
+    },
+    "hua-cai-ren-sheng": {
+      "assessedAt": "2026-11-19",
+      "assessmentNote": "66 stars on the online repo plus a 2018 HUST first prize and Bilibili promo videos, but no Steam/itch/wiki/review scores, so rating is left blank and popularity is 5.",
+      "assessmentSources": [
+        "https://github.com/miracleyoo/HCRS-Online",
+        "https://github.com/miracleyoo/Hua-Cai-Ren-Sheng"
+      ],
+      "contentAdvisory": {
+        "nsfw": false
+      },
+      "developers": [
+        {
+          "name": "Dian 团队 707 工作组",
+          "url": "https://github.com/miracleyoo/HCRS-Online"
+        }
+      ],
+      "editorial": {
+        "qualityFlags": [
+          "release-date-from-repo-creation",
+          "online-version-not-playable"
+        ],
+        "sources": [
+          "https://github.com/miracleyoo/Hua-Cai-Ren-Sheng",
+          "https://github.com/miracleyoo/HCRS-Online"
+        ],
+        "status": "draft"
+      },
+      "externalLinks": [
+        {
+          "label": "GitHub source (original repo)",
+          "type": "source",
+          "url": "https://github.com/miracleyoo/Hua-Cai-Ren-Sheng"
+        },
+        {
+          "label": "GitHub source (online edition)",
+          "type": "source",
+          "url": "https://github.com/miracleyoo/HCRS-Online"
+        },
+        {
+          "label": "Promo video (Bilibili)",
+          "type": "official",
+          "url": "https://www.bilibili.com/video/av25150711/"
+        },
+        {
+          "label": "Developer intro video (Bilibili)",
+          "type": "official",
+          "url": "https://www.bilibili.com/video/av25115108/"
+        }
+      ],
+      "instances": [
+        {
+          "id": "miracleyoo-hua-cai-ren-sheng",
+          "languages": [
+            "zh-Hans"
+          ],
+          "notes": "Online version (miracleyoo/HCRS-Online, 12 maps incl. StartupBranch) is a later expanded build of the same game but was not playable in the v1.1 review, so it is not listed as an instance.",
+          "nsfw": false,
+          "title": "华彩人生",
+          "type": "internal"
+        }
+      ],
+      "introductions": {
+        "en": {
+          "editorialStatus": "draft",
+          "overview": "Starting as a freshman stepping through the campus gates, players face one choice after another: 7 branches — light music, tennis, top student, company, gaming, startup and more — each covering different campus landmarks, from art buildings and stadiums to lecture halls and labs. Combat uses MOG ChronoEngine's real-time map battles, and the game models a campus bus system (stops matching the real ones), canteens that restore MP, a campus clinic that restores HP, internet cafes and KTV, plus many NPCs and easter eggs introducing the buildings. Its core motto is 'don't study, and you're done for' — hanging out in net cafes or playing PUBG leads down the underachiever route. The online edition (HCRS-Online) is a later expanded build of the same game, adding a startup branch, Qiming College and workplace maps.",
+          "summary": "Hua Cai Ren Sheng is a campus-simulation RPG made by the Dian Team's 707 Working Group at Huazhong University of Science and Technology: players take the role of a freshman arriving at HUST, exploring a hand-drawn campus map across 7 story branches — classes, battles, canteens and campus buses. It won first prize in HUST's 2018 'Tell the HUST Story Well' competition."
+        },
+        "ja": {
+          "editorialStatus": "draft",
+          "overview": "新入生としてキャンパスの門をくぐるところから始まり、次々と選択を迫られます。軽音楽、テニス、優等生、会社、ゲーム、起業など7つのルートはそれぞれ異なるキャンパスの名所を巡ります。戦闘は MOG ChronoEngine によるマップ上のリアルタイムバトルで、実際の停留所に即した校内バスシステム、MPを回復する食堂、HPを回復する校医院、ネットカフェやカラオケなどのキャンパスシステムを備え、建物や遊び方を紹介するNPCやイースターエッグも多数あります。「勉強しなければ、終わり」というのがゲームの核であり、ネットカフェやカラオケに入り浸ると落ちこぼれルートへ進みます。オンライン版（HCRS-Online）は同じゲームの後期拡張版で、起業ルートや啓明学院、職場のマップが追加されています。",
+          "summary": "『華彩人生』は華中科技大学 Dian チーム 707 ワーキンググループが制作したキャンパスシミュレーションRPGです。華科に入学した新入生となり、手描きのキャンパスマップを自由に探索し、7つのルートで大学生活を体験します——授業、バトル、食堂、校内バス。2018年の華中科技大学「講好華中大故事」で一等賞を受賞しました。"
+        },
+        "zh-Hans": {
+          "editorialStatus": "draft",
+          "overview": "玩家从踏进校门的新生开始，面临一个又一个选择：轻音乐、网球、学霸、公司、游戏、创业等 7 条支线各有侧重，覆盖艺术建筑、体育场馆、教学楼、实验室等校园地标。战斗采用 MOG ChronoEngine 的地图即时战斗；游戏配有校车系统（站点按真实站点设置）、食堂回蓝、校医院回血、网吧与 KTV 等校园系统，另有大量介绍建筑与玩法的 NPC 与彩蛋。游戏内核是“不学习，就凉凉”——常混网吧、KTV 或开黑吃鸡，就会走上学渣线。在线版（HCRS-Online）是同一游戏的后期扩展版，另有创业分支、启明学院与工作场景等地图。",
+          "summary": "《华彩人生》是华中科技大学 Dian 团队 707 工作组制作的校园模拟 RPG：玩家扮演一名即将入学华科的新生，在手绘校园地图上自由探索，沿 7 条支线体验大学生活——上课、打怪、逛食堂、坐校车。本作曾获 2018 年华中科技大学“讲好华中大故事”一等奖。"
+        }
+      },
+      "media": {
+        "cover": "https://webrpg.org/miracleyoo-Hua-Cai-Ren-Sheng/cover.png"
+      },
+      "originalTitle": "华彩人生",
+      "popularity": 5,
+      "relations": [],
+      "release": {
+        "date": "2018-06-16"
+      },
+      "schemaVersion": 1,
+      "slug": "hua-cai-ren-sheng",
+      "taxonomy": {
+        "contentType": "full-game",
+        "genres": [
+          "rpg",
+          "simulation"
+        ],
+        "mechanics": [
+          "action-battle",
+          "branching-routes",
+          "exploration",
+          "campus-simulation"
+        ],
+        "themes": [
+          "slice-of-life"
+        ]
+      },
+      "translatedTitles": {
+        "en": "Hua Cai Ren Sheng",
+        "ja": "華彩人生"
+      }
+    },
+    "tun-shi-tian-di": {
+      "aliases": {
+        "zh-Hans": [
+          "吞食天地二合一"
+        ]
+      },
+      "assessedAt": "2026-11-19",
+      "assessmentNote": "No Steam/itch/wiki/review coverage found for this fan remake (search hits are all the unrelated commercial 吞食天地M / 吞食天地2 Reborn); only the 0-star GitHub repo itself, so rating is left blank and popularity is 1.",
+      "assessmentSources": [
+        "https://github.com/Starktomy/tunshi"
+      ],
+      "contentAdvisory": {
+        "nsfw": false
+      },
+      "developers": [
+        {
+          "name": "Starktomy",
+          "url": "https://github.com/Starktomy/tunshi"
+        }
+      ],
+      "editorial": {
+        "qualityFlags": [
+          "fan-remake-of-capcom-tenchi-wo-kurau",
+          "release-date-unknown",
+          "english-title-is-originals-title"
+        ],
+        "sources": [
+          "https://github.com/Starktomy/tunshi"
+        ],
+        "status": "draft"
+      },
+      "externalLinks": [
+        {
+          "label": "GitHub source",
+          "type": "source",
+          "url": "https://github.com/Starktomy/tunshi"
+        }
+      ],
+      "instances": [
+        {
+          "id": "starktomy-tunshi",
+          "languages": [
+            "zh-Hans"
+          ],
+          "notes": "Fan remake of Capcom's Tenchi wo Kurau I & II; in-game text states the free version is complete with no multi-playthrough story.",
+          "nsfw": false,
+          "title": "吞食天地",
+          "type": "internal"
+        }
+      ],
+      "introductions": {
+        "en": {
+          "editorialStatus": "draft",
+          "overview": "The game opens by declaring itself a combined remake of Tenchi wo Kurau I & II, 'from the Yellow Turban Rebellion to unifying the land,' beginning with the oath of Liu Bei, Guan Yu and Zhang Fei in the Peach Garden and retracing Xuzhou, Hulao Pass, Red Cliffs, the conquest of Shu, Zhuge Liang's northern campaigns and Jiang Wei's expeditions. Systems include turn-based battles, party management, equipment synthesis (the stone furnace), a bestiary and New Game+ inheritance (playthroughs 2–7); bosses such as Hua Xiong and Lu Bu carry level caps — exceed them and the boss grows stronger. In-game text confirms the free version has 'no multi-playthrough story; everything is complete.' Community QQ group 668452392.",
+          "summary": "Tunshi Tiandi is Starktomy's RPG Maker MV remake combining the two classic Famicom Tenchi wo Kurau games: from the Yellow Turban Rebellion and the Oath of the Peach Garden, it follows Liu Bei's rise all the way to unifying the land. This free version is complete, with a New Game+ system and level-capped bosses."
+        },
+        "ja": {
+          "editorialStatus": "draft",
+          "overview": "ゲームは冒頭で「吞食天地二合一重置版、黄巾の乱から天下統一まで」と宣言し、桃園で義兄弟の契りを結ぶ劉備・関羽・張飛から始まり、徐州、虎牢関、赤壁、入蜀、六出祁山、姜維の北伐といった三国志の道程をたどります。ターン制バトル、パーティ管理、装備合成（練石炉）、図鑑、周回引き継ぎ（ニューゲーム+、2周目から7周目）などのシステムを備え、温酒斬華雄や三英戦呂布などのボスにはレベル上限があり、上限を超えるとボスが強化されます。ゲーム内のテキストは、無料版には「多周目剧情はなく、全部完結」と明記しています。交流用QQグループ 668452392。",
+          "summary": "『天地を喰らう』はStarktomyによるRPGツクールMV製のファミコン版『天地を喰らう』I・II合体リメイクです。黄巾の乱と桃園の誓いから始まり、劉備の立身出世をたどって天下統一まで描きます。無料版は完結しており、周回プレイやレベル制限ボスの仕組みを備えています。"
+        },
+        "zh-Hans": {
+          "editorialStatus": "draft",
+          "overview": "游戏开场即声明“吞食天地二合一重置版，从黄巾起义到一统天下”，以刘备、关羽、张飞桃园结义起笔，重走徐州、虎牢关、赤壁、入川、六出祁山、姜维北伐等三国历程。系统包括回合制战斗、队伍管理、装备合成（练石炉）、图鉴与多周目继承（New Game+，二至七周目内容）；第二章温酒斩华雄、三英战吕布等 Boss 设有等级上限，超限则 Boss 变强。游戏内文本确认免费版“没有多周目剧情，全部完结”。QQ 交流群 668452392。",
+          "summary": "《吞食天地》是 Starktomy 以 RPG Maker MV 制作的 FC 经典《吞食天地》一、二代合集重制版：从黄巾起义、桃园三结义开始，沿刘备创业之路一路打到一统天下。本作为免费完整版，含多周目系统与等级压制 Boss 机制。"
+        }
+      },
+      "media": {
+        "cover": "https://webrpg.org/Starktomy-tunshi/cover.png"
+      },
+      "originalTitle": "吞食天地",
+      "popularity": 1,
+      "relations": [],
+      "schemaVersion": 1,
+      "slug": "tun-shi-tian-di",
+      "taxonomy": {
+        "contentType": "full-game",
+        "genres": [
+          "rpg"
+        ],
+        "mechanics": [
+          "turn-based-battle",
+          "party-management",
+          "new-game-plus",
+          "equipment-synthesis"
+        ],
+        "themes": [
+          "fantasy"
+        ]
+      },
+      "translatedTitles": {
+        "en": "Destiny of an Emperor",
+        "ja": "天地を喰らう"
+      }
+    },
+    "wei-zai-dan-xi": {
+      "assessedAt": "2026-11-19",
+      "assessmentNote": "No Steam/itch/wiki/review coverage found; only the 0-star GitHub repo itself (created 2026-05-18), so rating is left blank and popularity is 1.",
+      "assessmentSources": [
+        "https://github.com/mingpnyy/rpgmaker-mv"
+      ],
+      "contentAdvisory": {
+        "nsfw": false
+      },
+      "developers": [
+        {
+          "name": "mingpnyy",
+          "url": "https://github.com/mingpnyy/rpgmaker-mv"
+        }
+      ],
+      "editorial": {
+        "qualityFlags": [
+          "release-date-unknown",
+          "title-pun-on-wei-zai-dan-xi"
+        ],
+        "sources": [
+          "https://github.com/mingpnyy/rpgmaker-mv"
+        ],
+        "status": "draft"
+      },
+      "externalLinks": [
+        {
+          "label": "GitHub source",
+          "type": "source",
+          "url": "https://github.com/mingpnyy/rpgmaker-mv"
+        }
+      ],
+      "instances": [
+        {
+          "id": "mingpnyy-rpgmaker-mv",
+          "languages": [
+            "zh-Hant"
+          ],
+          "nsfw": false,
+          "title": "危在旦汐",
+          "type": "internal"
+        }
+      ],
+      "introductions": {
+        "en": {
+          "editorialStatus": "draft",
+          "overview": "The protagonist wakes on the beach to find their companions missing and only one boat that needs power to start. Players explore the coast, flee a pursuing monster, and search the laboratory and power plant for clues: three research reports explain tidal power — a high tide roughly every 12 hours, predictable in advance — and a quiz tests the difference between spring tide and high tide. After starting four generators, the incoming high tide gives the boat enough power, and the protagonist escapes the island to bring the tidal-power data back to headquarters. The title is a pun on the idiom 危在旦夕 ('in imminent danger') with 汐, 'tide'.",
+          "summary": "Wei Zai Dan Xi is a short educational adventure about tidal power: a researcher wakes up on a deserted island beach with their companions gone, and the only escape boat needs electricity to run. While a monster gives chase, players explore the lab and power plant, learn how tides work, start the generators, and sail away on the high tide."
+        },
+        "ja": {
+          "editorialStatus": "draft",
+          "overview": "主人公は浜辺で目覚め、仲間が消え、電力がなければ動かない船だけが残されていることに気づきます。海岸を探索し、怪物の追跡から逃れながら、実験室と発電所で手がかりを探します。3つの研究報告が潮力発電の仕組みを解説します——約12時間ごとに満潮が訪れ、時刻は事前に予測できます。さらに「大潮と満潮の違い」を問うクイズもあります。4台の発電機を起動すると、大潮の到来で船に十分な電力が供給され、主人公は潮力発電の資料を本部へ持ち帰るため島を脱出します。タイトルは成語「危在旦夕」（危機一髪）と「汐」（潮）の言葉遊びです。",
+          "summary": "『危在旦汐』は潮力発電をテーマにした短編の教育アドベンチャーです。研究員が無人島の浜辺で目覚めると、仲間の姿はなく、唯一の脱出船は電力を必要としていました。怪物の追跡をかわしながら実験室と発電所を探索し、潮汐の仕組みを学び、発電機を起動して満潮に乗って島を脱出します。"
+        },
+        "zh-Hans": {
+          "editorialStatus": "draft",
+          "overview": "主角在海滩上醒来，发现同伴都不见了，只剩一艘需要电力才能发动的船。玩家沿海岸探索，躲避怪兽的追赶，进入实验室与发电厂搜集线索：三份研究报告讲解潮汐发电的规律——约每 12 小时出现一次高潮，时间可预先推算；一道选择题考查“大潮 vs 高潮”的区别。启动四台发电机后，大潮来临时船只获得足够电力，主角乘船离开无人岛，并要把潮汐发电资料带回实验总部。标题“危在旦汐”是成语“危在旦夕”与“汐”（潮汐）的双关。",
+          "summary": "《危在旦汐》是一部以潮汐发电为主题的科普冒险短篇：研究员在无人岛的海滩上醒来，同伴不知所踪，唯一的逃生船需要电力发动。玩家要在怪兽的追赶下探索实验室与发电厂、读懂潮汐规律，启动发电机，趁大潮来临乘船离开。"
+        }
+      },
+      "media": {
+        "cover": "https://webrpg.org/mingpnyy-rpgmaker-mv/cover.png"
+      },
+      "originalTitle": "危在旦汐",
+      "popularity": 1,
+      "relations": [],
+      "schemaVersion": 1,
+      "slug": "wei-zai-dan-xi",
+      "taxonomy": {
+        "contentType": "full-game",
+        "genres": [
+          "adventure"
+        ],
+        "mechanics": [
+          "exploration",
+          "quiz",
+          "escape"
+        ],
+        "themes": [
+          "educational"
+        ]
+      },
+      "translatedTitles": {
+        "en": "Wei Zai Dan Xi"
+      }
+    },
+    "he-ni-zai-mo-ri-de-lu-xing": {
+      "aliases": {
+        "en": [
+          "Journey to the End with You"
+        ]
+      },
+      "assessedAt": "2026-11-19",
+      "assessmentNote": "Repo has 4 stars, 2 forks and 2 releases with a full README, but no Steam/itch/wiki/review coverage and no review scores, so rating is left blank and popularity is 2.",
+      "assessmentSources": [
+        "https://github.com/xlanwux/TravelInDoomWithYou"
+      ],
+      "contentAdvisory": {
+        "nsfw": false,
+        "warnings": []
+      },
+      "developers": [
+        {
+          "name": "xlanwux"
+        }
+      ],
+      "editorial": {
+        "qualityFlags": [
+          "three-empty-maps"
+        ],
+        "sources": [
+          "https://github.com/xlanwux/TravelInDoomWithYou"
+        ],
+        "status": "draft"
+      },
+      "externalLinks": [
+        {
+          "label": "GitHub source",
+          "type": "source",
+          "url": "https://github.com/xlanwux/TravelInDoomWithYou"
+        },
+        {
+          "label": "Download releases",
+          "type": "other",
+          "url": "https://github.com/xlanwux/TravelInDoomWithYou/releases"
+        }
+      ],
+      "instances": [
+        {
+          "id": "xlanwux-travelindoomwithyou",
+          "languages": [
+            "zh-Hans"
+          ],
+          "nsfw": false,
+          "title": "和你在末日的旅行",
+          "type": "internal"
+        }
+      ],
+      "introductions": {
+        "en": {
+          "editorialStatus": "draft",
+          "overview": "Players follow Koroni's perspective on a journey through ruins, crossing faith, hallucination and memory in search of the sea said to symbolise 'hope'. The game is light on combat and heavy on narrative: dialogue, story and puzzle-solving lead, with a camp-defence battle segment that can be skipped, portraying two girls growing from misunderstanding to understanding, from loneliness to connection, at the end of the world. It is developer xlanwux's first self-made RPG Maker MV game.",
+          "summary": "Travel in Doom with You is a post-apocalyptic story-driven exploration game: whenever night falls, people mysteriously vanish — rumoured to have turned into monsters — and human civilisation collapses. Nagisa decides to set out in search of the sea, and Koroni, locked in a basement for three years, accepts her invitation and steps out of her closed world."
+        },
+        "ja": {
+          "editorialStatus": "draft",
+          "overview": "プレイヤーは少女・可洛妮の視点で廃墟を進み、信仰・幻覚・記憶が交錯する旅のなかで「希望」の象徴とされる海を探します。戦闘は弱く、物語が中心の作りで、会話・ストーリー・謎解きが主軸となり、スキップ可能なキャンプ防衛戦もあります。終末の世界で、二人の少女が誤解から理解へ、孤独からつながりへと成長する姿を描きます。開発者 xlanwux が個人で制作した初めてのRPGツクールMV作品です。",
+          "summary": "『和你在末日的旅行』は終末を舞台にしたストーリー重視の探索ゲームです。夜になると人々が謎の失踪を遂げ、怪物になったという噂が流れ、人類文明は崩壊しました。少女・潮見渚は海を探す旅に出ることを決意し、地下室に3年間閉じ込められていた可洛妮はその誘いを受け、閉ざされた世界から外へ踏み出します。"
+        },
+        "zh-Hans": {
+          "editorialStatus": "draft",
+          "overview": "玩家跟随少女可洛妮的视角，穿越废墟，在信仰、幻觉与记忆交织的旅程中寻找传说中象征“希望”的大海。游戏采用弱战斗、重叙事的玩法：以对话、剧情与解谜为主，途中有营地保卫战等战斗段（可跳过），描绘末世中两位少女从误解到理解、从孤独到连接的情感成长。这是开发者 xlanwux 个人尝试制作的第一款 RPG Maker MV 游戏。",
+          "summary": "《和你在末日的旅行》是一款末日剧情向探索游戏：每当夜幕降临，总有人神秘消失，传言他们变成了怪物，人类文明随之崩溃。少女潮见渚决定踏上寻找大海的旅程，被关在地下室三年的可洛妮接受邀请，与她一起走出封闭的世界。"
+        }
+      },
+      "media": {
+        "cover": "https://webrpg.org/xlanwux-TravelInDoomWithYou/cover.png"
+      },
+      "originalTitle": "和你在末日的旅行",
+      "popularity": 2,
+      "relations": [],
+      "schemaVersion": 1,
+      "slug": "he-ni-zai-mo-ri-de-lu-xing",
+      "taxonomy": {
+        "contentType": "full-game",
+        "genres": [
+          "adventure"
+        ],
+        "mechanics": [
+          "dialogue-driven",
+          "puzzle-solving",
+          "exploration"
+        ],
+        "themes": [
+          "drama",
+          "sci-fi"
+        ]
+      },
+      "translatedTitles": {
+        "en": "Travel in Doom with You"
+      }
+    },
+    "qiu-tu": {
+      "assessedAt": "2026-11-19",
+      "assessmentNote": "No Steam/itch/wiki/review coverage found; only the 0-star GitHub repo itself, so rating is left blank and popularity is 1.",
+      "assessmentSources": [
+        "https://github.com/lzk716088/prisoner"
+      ],
+      "contentAdvisory": {
+        "nsfw": false,
+        "warnings": []
+      },
+      "developers": [
+        {
+          "name": "lzk716088"
+        }
+      ],
+      "editorial": {
+        "qualityFlags": [
+          "author-unverified",
+          "generic-title"
+        ],
+        "sources": [
+          "https://github.com/lzk716088/prisoner"
+        ],
+        "status": "draft"
+      },
+      "externalLinks": [
+        {
+          "label": "GitHub source",
+          "type": "source",
+          "url": "https://github.com/lzk716088/prisoner"
+        }
+      ],
+      "instances": [
+        {
+          "id": "lzk716088-prisoner",
+          "languages": [
+            "zh-Hant"
+          ],
+          "nsfw": false,
+          "title": "囚徒",
+          "type": "internal"
+        }
+      ],
+      "introductions": {
+        "en": {
+          "editorialStatus": "draft",
+          "overview": "Every step of the escape is hands-on: stolen spoons become a makeshift pry bar, and once the cell door is open, players deal with fellow inmates such as Prisoner 107 and Prisoner 001 — triggering their storylines, trading secrets, and defeating them in battle — then clear six timed quiz challenges, open the warden's office, and defeat the final boss, the 'Supreme Lord'. The game spans 8 maps, 323 lines of dialogue, 6 battles and 37 choices: short but complete.",
+          "summary": "Prisoner is a prison-escape RPG: players take the role of an inmate who steals a spoon from the canteen every day, spends time crafting a homemade pry bar, forces the cell door open, and moves between the cell, canteen, passage, dark room and offices to break out."
+        },
+        "ja": {
+          "editorialStatus": "draft",
+          "overview": "脱獄の一歩一歩は自分の手で進めます。盗んだスプーンで自作バールを作り、扉を開けた後は囚人107や囚人001といった囚人たちと関わります。ストーリーを進めたり、秘密と引き換えに取引したり、戦って倒したりします。さらに6問の時間制限クイズに挑み、典獄長の事務室を開けて、最終ボス「無上之主」を倒します。全8マップ・323行の台詞・6回の戦闘・37の選択肢で、短いながら完結した作品です。",
+          "summary": "『囚徒』は脱獄RPGです。プレイヤーは囚人となり、毎日食堂からスプーンを1本ずつ盗み、手間をかけて自作のバールを作り、独房の扉をこじ開け、独房・食堂・通路・暗室・事務室を行き来しながら脱獄を目指します。"
+        },
+        "zh-Hans": {
+          "editorialStatus": "draft",
+          "overview": "越狱的每一步都要自己动手：偷来的汤匙攒成自制撬棍，撬开牢门后与罪犯 107、罪犯 001 等囚犯打交道——触发剧情、用秘密做交易、击败对手；还要通过 6 道计时问答挑战，最终打开典狱长办公室，击败最终 Boss“无上之主”。全作共 8 张地图、323 行对白、6 场战斗与 37 个选择分支，短小但流程完整。",
+          "summary": "《囚徒》是一款监狱逃脱 RPG：玩家扮演一名囚犯，每天从食堂偷一支汤匙，耗时自制撬棍撬开牢门，在牢房、食堂、通道、暗室与办公室之间活动，设法逃出监狱。"
+        }
+      },
+      "media": {
+        "cover": "https://webrpg.org/lzk716088-prisoner/cover.png"
+      },
+      "originalTitle": "囚徒",
+      "popularity": 1,
+      "relations": [],
+      "schemaVersion": 1,
+      "slug": "qiu-tu",
+      "taxonomy": {
+        "contentType": "full-game",
+        "genres": [
+          "rpg"
+        ],
+        "mechanics": [
+          "escape",
+          "quiz",
+          "boss-battles"
+        ],
+        "themes": [
+          "drama"
+        ]
+      },
+      "translatedTitles": {
+        "en": "Prisoner"
+      }
+    },
+    "si-ye-mu-xu-2": {
+      "aliases": {
+        "en": [
+          "Four-leaf Alfalfa-Chapter 2",
+          "siyemuxu"
+        ],
+        "zh-Hans": [
+          "四叶苜蓿"
+        ]
+      },
+      "assessedAt": "2026-11-19",
+      "assessmentNote": "No Steam/itch/wiki/review coverage of the game itself, but the Chinese original has its own deployment domain and an English fan translation exists in a separate repo, so rating is left blank and popularity is 3.",
+      "assessmentSources": [
+        "https://github.com/gfdgd-xi/siyemuxu-online",
+        "https://github.com/MikaelBelanger/FabulousBeasts",
+        "http://siyemuxu.gfdgdxi.top/"
+      ],
+      "contentAdvisory": {
+        "nsfw": false,
+        "warnings": []
+      },
+      "developers": [
+        {
+          "name": "小猫Giovanni"
+        }
+      ],
+      "editorial": {
+        "qualityFlags": [
+          "fan-work-fabulous-beasts",
+          "chapter-1-not-in-registry"
+        ],
+        "sources": [
+          "https://github.com/gfdgd-xi/siyemuxu-online",
+          "https://github.com/MikaelBelanger/FabulousBeasts"
+        ],
+        "status": "draft"
+      },
+      "externalLinks": [
+        {
+          "label": "GitHub source (Chinese original web version)",
+          "type": "source",
+          "url": "https://github.com/gfdgd-xi/siyemuxu-online"
+        },
+        {
+          "label": "GitHub source (English fan translation)",
+          "type": "source",
+          "url": "https://github.com/MikaelBelanger/FabulousBeasts"
+        },
+        {
+          "label": "Chinese web version site",
+          "type": "official",
+          "url": "http://siyemuxu.gfdgdxi.top/"
+        }
+      ],
+      "instances": [
+        {
+          "id": "gfdgd-xi-siyemuxu-online",
+          "languages": [
+            "zh-Hans"
+          ],
+          "nsfw": false,
+          "title": "四叶苜蓿-第二章",
+          "type": "internal"
+        },
+        {
+          "id": "guilhermelemos14-fabulousbeasts",
+          "languages": [
+            "en"
+          ],
+          "notes": "English fan translation; in-game title 'Four-leaf Alfalfa-Chapter 2'.",
+          "nsfw": false,
+          "title": "四叶苜蓿-第二章",
+          "type": "internal"
+        }
+      ],
+      "introductions": {
+        "en": {
+          "editorialStatus": "draft",
+          "overview": "Murong Xuechuan was once one of the divine beasts of the Colorful Cloud Mountains; ten years after descending to the mortal world, she makes a living running an antique shop. Chapter 2 begins at the shop and travels through the prison (interrogation room, infirmary, warden's office, Taotie), the Colorful Cloud Mountains and the Flowing Feather Trail, the lighthouse and the crystallisation chamber, snowy cliffs, snowfields and the snow-country train, the sacred tree and the sky cracks, the mountain temple and the plum-blossom crossroads, and finally the long snowy night. Divine beasts along the way include Taotie, Dangkang and Jinjiao. The chapter spans 127 maps and 6,844 lines of dialogue. The original game is by Xiao Mao Giovanni; this entry includes both the Chinese original and an English fan translation.",
+          "summary": "Four-Leaf Clover: Chapter 2 is a fan-made RPG based on Fabulous Beasts (You Shou Yan): Murong Xuechuan, a fox spirit who has achieved enlightenment, left her homeland of the Colorful Cloud Mountains ten years ago and now runs an antique shop in the human world. The chapter opens with everyday life at the shop before sweeping into an adventure through a prison, Taotie, a lighthouse and snowy mountains."
+        },
+        "ja": {
+          "editorialStatus": "draft",
+          "overview": "慕容雪川はかつて彩雲山脈の神獣の一員でした。下界に降りて十年、古董店を営んで生計を立てています。第二章は古董店から始まり、監獄（尋問室・医務室・監獄長室・饕餮）、彩雲山脈と落羽小径、灯台と結晶室、雪崖・雪原・雪国列車、神樹と天空の裂け目、山神廟と梅花路口を経て、長い雪の夜へと至ります。登場する神獣には饕餮・当康・金角などがいます。全127マップ・6844行の台詞という大ボリュームの完結した章です。原作ゲームの作者は小猫Giovanniで、本項目には中国語原版と英語ファン翻訳版の両インスタンスを収録しています。",
+          "summary": "『四葉苜蓿』第二章は『有獣焉』の二次創作RPGです。主人公・慕容雪川は修行を積んだ狐の精で、故郷の彩雲山脈を離れて十年、人間界で古董店を営んでいます。本章は古董店の日常から始まり、監獄・饕餮・灯台・雪山へと続く冒険へと展開します。"
+        },
+        "zh-Hans": {
+          "editorialStatus": "draft",
+          "overview": "慕容雪川本是彩云山脉的神兽之一，十年前下凡，在人间开古董店谋生。第二章从古董店开场，历经监狱（审讯室、医务室、监狱长室、饕餮）、彩云山脉与落羽小径、灯塔与结晶室、雪崖雪原与雪国列车、神树与天空裂缝、山神庙与梅花路口，最终来到长雪夜。途中登场的神兽包括饕餮、当康、金角等。全作共 127 张地图、6844 行对白，是体量很大的完整章节。原游戏作者为小猫Giovanni；本条目同时收录中文原版与英文粉丝翻译版两个实例。",
+          "summary": "《四叶苜蓿》第二章是《有兽焉》的同人 RPG：主角慕容雪川是一只修炼得道的狐狸精，离开故乡彩云山脉十年后在人间开了一家古董店；本章从古董店的日常开场，卷入监狱、饕餮、灯塔与雪山的冒险。"
+        }
+      },
+      "media": {
+        "cover": "https://webrpg.org/gfdgd-xi-siyemuxu-online/cover.png"
+      },
+      "originalTitle": "四叶苜蓿-第二章",
+      "popularity": 3,
+      "relations": [],
+      "schemaVersion": 1,
+      "slug": "si-ye-mu-xu-2",
+      "taxonomy": {
+        "contentType": "full-game",
+        "genres": [
+          "rpg"
+        ],
+        "mechanics": [
+          "exploration",
+          "puzzle-solving"
+        ],
+        "themes": [
+          "fantasy"
+        ]
+      },
+      "translatedTitles": {
+        "en": "Four-Leaf Clover: Chapter 2",
+        "ja": "四葉苜蓿第二章"
+      }
+    },
+    "wu-ren-bei-pan": {
+      "assessedAt": "2026-11-19",
+      "assessmentNote": "No Steam/itch/wiki/review coverage found; only the 0-star GitHub repo itself, so rating is left blank and popularity is 1.",
+      "assessmentSources": [
+        "https://github.com/sGxOxDs/No-One-Betray",
+        "https://webrpg.org/sGxOxDs-No-One-Betray/"
+      ],
+      "contentAdvisory": {
+        "nsfw": false,
+        "warnings": [
+          "horror themes"
+        ]
+      },
+      "developers": [
+        {
+          "name": "sGxOxDs"
+        }
+      ],
+      "editorial": {
+        "qualityFlags": [
+          "author-unverified",
+          "four-empty-maps"
+        ],
+        "sources": [
+          "https://github.com/sGxOxDs/No-One-Betray"
+        ],
+        "status": "draft"
+      },
+      "externalLinks": [
+        {
+          "label": "GitHub source",
+          "type": "source",
+          "url": "https://github.com/sGxOxDs/No-One-Betray"
+        }
+      ],
+      "instances": [
+        {
+          "id": "sgxoxds-no-one-betray",
+          "languages": [
+            "zh-Hant"
+          ],
+          "nsfw": false,
+          "title": "吾人背叛",
+          "type": "internal"
+        }
+      ],
+      "introductions": {
+        "en": {
+          "editorialStatus": "draft",
+          "overview": "The game follows a cult member's misadventures: forest exploration and chapter-by-chapter progress, including a Shoggoth battle in chapter four. In the ending, Goudan wakes in a shady hospital to find a doctor has taken one of his kidneys; he sells the second for travel fare, returns to find the cult's cathedral stripped bare down to the floor tiles, and ends up opening a small restaurant that grows in three years into the nationwide chain 'R'lyeh Seafood City'. Across 16 maps and 570 lines of dialogue, the horror shell wraps an outright comedy.",
+          "summary": "No One Betray is a Cthulhu parody horror adventure: players take the role of Goudan, a member of the Carcosa cult, travelling with companions Sangou and Aoguan Hai through a cabin and the forest, facing unspeakable monsters across a prologue, five chapters and an ending."
+        },
+        "ja": {
+          "editorialStatus": "draft",
+          "overview": "教団員の受難を描く物語で、森の探索と章立ての進行、第四章では修格斯との戦いがあります。終章では、狗蛋は一連の災難の末に目覚めると、闇医者に腎臓を一つ取られていたことに気づきます。もう一つの腎臓を売って旅費を稼ぎ帰ると、総教の大聖堂は床タイルまで剥がされて無人になっており、結局自ら小さな食堂を開くことに。三年後、それは全国チェーンの巨大飲食グループ「拉萊耶海鮮城」へと成長します。16マップ・570行の台詞で、ホラーの皮を被った徹底したコメディです。",
+          "summary": "『吾人背叛』はクトゥルフ・パロディのホラーアドベンチャーです。カルコサ教団の一員である狗蛋となり、仲間の三狗や奧觀海とともに小屋と森を進み、名状しがたい怪物に立ち向かいながら、序章・五章・終章を辿ります。"
+        },
+        "zh-Hans": {
+          "editorialStatus": "draft",
+          "overview": "游戏围绕教团成员的遭遇展开：森林探索、章节推进，第四章还有一场修格斯之战。终章里狗蛋在一连串灾难后醒来，发现黑心医院擅自取走了他一条腰子；他又卖掉第二颗肾换旅费回家，却发现总教大教堂早已人去楼空、连地砖都被挖走，最后只好自己创业开小餐馆，三年后竟发展成连锁全国的巨型餐饮集团“拉莱耶海鲜城”。全作共 16 张地图、570 行对白，恐怖外壳下是彻底的恶搞喜剧。",
+          "summary": "《吾人背叛》是一部克苏鲁恶搞恐怖冒险游戏：玩家扮演卡尔克萨教团的成员狗蛋，与同伴三狗、奥观海在小木屋与森林中穿行，对抗不可名状的怪物，经历序章、五章剧情与终章。"
+        }
+      },
+      "media": {
+        "cover": "https://webrpg.org/sGxOxDs-No-One-Betray/cover.png"
+      },
+      "originalTitle": "吾人背叛",
+      "popularity": 1,
+      "relations": [],
+      "schemaVersion": 1,
+      "slug": "wu-ren-bei-pan",
+      "taxonomy": {
+        "contentType": "full-game",
+        "genres": [
+          "adventure"
+        ],
+        "mechanics": [
+          "exploration",
+          "boss-battle"
+        ],
+        "themes": [
+          "horror",
+          "comedy"
+        ]
+      },
+      "translatedTitles": {
+        "en": "No One Betray"
+      }
+    },
+    "polaris": {
+      "assessedAt": "2026-11-19",
+      "assessmentNote": "Only the GitHub repo itself (0 stars, 3 forks, 0 watchers; created 2024-06-13); no Steam/itch/wiki/review coverage, so rating is left blank and popularity is 1.",
+      "assessmentSources": [
+        "https://github.com/cyberocean-web/polaris"
+      ],
+      "contentAdvisory": {
+        "nsfw": false
+      },
+      "developers": [
+        {
+          "name": "cyberocean-web",
+          "url": "https://github.com/cyberocean-web/polaris"
+        }
+      ],
+      "editorial": {
+        "qualityFlags": [
+          "one-empty-floor"
+        ],
+        "sources": [
+          "https://github.com/cyberocean-web/polaris"
+        ],
+        "status": "draft"
+      },
+      "externalLinks": [
+        {
+          "label": "GitHub source",
+          "type": "source",
+          "url": "https://github.com/cyberocean-web/polaris"
+        }
+      ],
+      "instances": [
+        {
+          "id": "cyberocean-web-polaris",
+          "languages": [
+            "zh-Hant"
+          ],
+          "notes": "Dialogue is colloquial Cantonese written in Traditional Chinese.",
+          "nsfw": false,
+          "title": "基元之星",
+          "type": "internal"
+        }
+      ],
+      "introductions": {
+        "en": {
+          "editorialStatus": "draft",
+          "overview": "Players explore the school — classrooms, the library, the kitchen, the AI Inno Lab and the corridors across five floors — solving puzzles about book counts, sheet music and passwords, and taking flight training with instructor Davis: fly the plane along the correct route to the destination, and start over if you stray. There is no combat; the game leans on exploration, puzzles and self-aware meta humour, and ends on the card 'Polaris shines at night, Pursue your dream with light.' Dialogue is colloquial Cantonese in Traditional Chinese.",
+          "summary": "Polaris is a Cantonese school adventure game: Xiaoyuan wakes up on the school playground to find she has become a pixel sprite and even her speech pops up in dialogue boxes; trapped in a 'mind chamber' themed on the true meaning of work, she must be rescued by the 'Jiyuan people'."
+        },
+        "ja": {
+          "editorialStatus": "draft",
+          "overview": "プレイヤーは教室、図書館、キッチン、AIイノベーションラボ、5つの階の廊下を探索し、図書の数や楽譜、パスワードなどの謎を解き、デイビス教官の飛行訓練を受けます。飛行機に乗って正しいルートで目的地まで飛び、間違えれば最初からやり直しです。戦闘はなく、探索とパズル、自虐的なメタユーモアが中心で、エンディングカードには「Polaris shines at night, Pursue your dream with light.」と書かれています。セリフは繁体字の広東語口語です。",
+          "summary": "『基元之星』は広東語の学園アドベンチャーゲームです。小原は学校のグラウンドで目覚めると、自分がドット絵のキャラクターになっており、話すたびにセリフウィンドウが表示されることに気づきます。「仕事の真髄」をテーマにした心霊密室に閉じ込められた小原を、「基元人」が救い出すことになります。"
+        },
+        "zh-Hans": {
+          "editorialStatus": "draft",
+          "overview": "玩家在校园里探索——教室、图书馆、厨房、AI 创新实验室与各层走廊，解开图书数目、乐谱、密码等谜题，还要接受戴维斯教官的飞行训练：坐上飞机沿正确路线飞抵目的地，飞错就要从头再来。游戏没有战斗，以探索、解谜与元幽默见长；结局卡片上写着“Polaris shines at night, Pursue your dream with light.”。对白为粤语口语（繁体字）。",
+          "summary": "《基元之星》是一部粤语校园冒险游戏：小原在学校操场醒来，发现自己变成了像素小人，连说话都会弹出对话框；她被困在以「工作的真谛」为题的心靈密室里，而「基元人」受邀进入密室救她出来。"
+        }
+      },
+      "media": {
+        "cover": "https://webrpg.org/cyberocean-web-polaris/cover.png"
+      },
+      "originalTitle": "基元之星",
+      "popularity": 1,
+      "relations": [],
+      "schemaVersion": 1,
+      "slug": "polaris",
+      "taxonomy": {
+        "contentType": "full-game",
+        "genres": [
+          "adventure"
+        ],
+        "mechanics": [
+          "exploration",
+          "puzzle-solving",
+          "flying-minigame"
+        ],
+        "themes": [
+          "slice-of-life",
+          "comedy",
+          "mystery"
+        ]
+      },
+      "translatedTitles": {
+        "en": "Polaris"
+      }
+    },
+    "tian-xia-wang-shi": {
+      "assessedAt": "2026-11-19",
+      "assessmentNote": "Only the GitHub repo itself (0 stars, 2 forks, 0 watchers; created 2019-06-03); the title collides with an unrelated Steam game (Past Events of the Three Kingdoms) but none of the hits is this game, so rating is left blank and popularity is 1.",
+      "assessmentSources": [
+        "https://github.com/zenhanyin/RPGmakerdemo"
+      ],
+      "contentAdvisory": {
+        "nsfw": false
+      },
+      "developers": [
+        {
+          "name": "zenhanyin",
+          "url": "https://github.com/zenhanyin/RPGmakerdemo"
+        }
+      ],
+      "editorial": {
+        "qualityFlags": [
+          "unfinished-no-ending"
+        ],
+        "sources": [
+          "https://github.com/zenhanyin/RPGmakerdemo"
+        ],
+        "status": "draft"
+      },
+      "externalLinks": [
+        {
+          "label": "GitHub source",
+          "type": "source",
+          "url": "https://github.com/zenhanyin/RPGmakerdemo"
+        }
+      ],
+      "instances": [
+        {
+          "id": "zenhanyin-rpgmakerdemo",
+          "languages": [
+            "zh-Hans"
+          ],
+          "nsfw": false,
+          "title": "天下往事",
+          "type": "internal"
+        }
+      ],
+      "introductions": {
+        "en": {
+          "editorialStatus": "draft",
+          "overview": "The prologue unfolds on Mount Kunlun: Dijun, transformed into a Kunlun spirit bird, perches on Siqiu's shoulder while the Ten Witches debate at Spirit Mountain, where the clear qi of the world gathers; after the deification reincarnation, the story moves to the mortal realm — the plaza, inn and tavern of Rihui, and the tunnels, temple square and witch-doctor bureau of Qiongsang City — involving the Xuanhua envoy, the White Emperor Shaohao and Yang Jian's reincarnation. Gameplay covers exploration, turn-based battles, job changing and treasure hunting. Only the prologue and Chapter 1 exist so far, with no ending written yet.",
+          "summary": "Tianxia Wangshi is an RPG set in ancient Chinese mythology: on Mount Kunlun, Siqiu travels with Dijun, who has taken the form of a Kunlun spirit bird, through the debates of the Ten Witches and a deification reincarnation, before descending to the mortal world for Chapter 1 in Rihui and Qiongsang."
+        },
+        "ja": {
+          "editorialStatus": "draft",
+          "overview": "序章は崑崙の玉山が舞台です。帝俊は崑崙の霊鳥に化身して司秋の肩に止まり、十巫が霊山で論道します。玉山は清気が集まる場所です。封神転生ののち、物語は人間界へ——日晷の広場、旅館、酒館、窮桑王城の地下道、神殿広場、巫医署を巡り、玄華使者、白帝少昊、楊戩の転生が関わってきます。探索、ターンバトル、転職、宝箱探しが楽しめます。現在は序章と第一章のみで、エンディングはまだ書かれていません。",
+          "summary": "『天下往事』は古代中国神話を背景にしたRPGです。崑崙の玉山の上で、司秋は霊鳥に化身した帝俊とともに旅し、十巫の論道と封神転生を経て、人間界へ降り、日晷と窮桑王城で第一章を展開します。"
+        },
+        "zh-Hans": {
+          "editorialStatus": "draft",
+          "overview": "序章发生在昆仑玉山：帝俊化作昆仑灵鸟落在司秋肩上，十巫在灵山论道，玉山是清气聚集之地；封神转世之后，故事来到人间——日晷的广场、旅店与酒馆，穷桑王城的地道、神殿与巫医署，涉及玄华使者、白帝少昊与杨戬转世。玩法包括探索、回合战斗、转职与宝箱寻宝。本作目前只有序章与第一章，尚未写出结局。",
+          "summary": "《天下往事》是一部以上古神话为背景的 RPG：昆仑玉山之上，司秋与化作灵鸟的帝俊同行，经历十巫论道与封神转世，随后下到人间，在日晷与穷桑王城展开第一章。"
+        }
+      },
+      "media": {
+        "cover": "https://webrpg.org/zenhanyin-RPGmakerdemo/cover.png"
+      },
+      "originalTitle": "天下往事",
+      "popularity": 1,
+      "relations": [],
+      "schemaVersion": 1,
+      "slug": "tian-xia-wang-shi",
+      "taxonomy": {
+        "contentType": "prototype",
+        "genres": [
+          "rpg"
+        ],
+        "mechanics": [
+          "exploration",
+          "turn-based-battles",
+          "job-change",
+          "treasure-hunting"
+        ],
+        "themes": [
+          "fantasy",
+          "drama"
+        ]
+      },
+      "translatedTitles": {
+        "en": "Tianxia Wangshi"
+      }
+    },
+    "yun-yan": {
+      "assessedAt": "2026-11-19",
+      "assessmentNote": "Only the multi-game portal repo itself (2 stars, 2 forks, 2 watchers for the whole repo, not this game); no Steam/itch/wiki/review coverage for Yunyan, so rating is left blank and popularity is 1.",
+      "assessmentSources": [
+        "https://github.com/kotpot197/game"
+      ],
+      "contentAdvisory": {
+        "nsfw": false
+      },
+      "editorial": {
+        "qualityFlags": [
+          "thin-content",
+          "no-ending-found",
+          "blank-map",
+          "original-author-unknown",
+          "list-title-mismatch"
+        ],
+        "sources": [
+          "https://github.com/kotpot197/game"
+        ],
+        "status": "draft"
+      },
+      "externalLinks": [
+        {
+          "label": "GitHub source (multi-game portal repo; this game is rpg/)",
+          "type": "source",
+          "url": "https://github.com/kotpot197/game"
+        }
+      ],
+      "instances": [
+        {
+          "id": "kotpot197-game-c0b3119f",
+          "languages": [
+            "zh-Hans"
+          ],
+          "notes": "List title '天罚重启' is a mislabel: the deployed game is Yunyan (rpg/ in the repo); '天罚重启' is a different game in the same repo (tfcq/) and is not deployed under this entry.",
+          "nsfw": false,
+          "title": "云烟",
+          "type": "internal"
+        }
+      ],
+      "introductions": {
+        "en": {
+          "editorialStatus": "draft",
+          "overview": "Players control Yunyan and explore the village, church, town and mountains: the Adventurers' Guild offers quests — first defeat the Phoenix Warrior deep in the forest, whose electric attacks have been injuring adventurers, and claim a 500G reward with the special Molotov it drops; then head to the eastern mountains to catch the old man ambushing miners, burning down the fallen tree that blocks the road. There is also an inn, loot pickups and an invitation to party up with Nanako, but the game holds only two quests and no ending — a very thin demo.",
+          "summary": "Yunyan is a bite-size isekai adventure: Yunyan, a shrine maiden about to debut as a VTuber, is hit by a truck and reincarnated into another world, where Father Grigori points her to the Adventurers' Guild and its first quest — slay the Phoenix Warrior."
+        },
+        "ja": {
+          "editorialStatus": "draft",
+          "overview": "プレイヤーは雲煙となり、村、教会、町、山間を探索します。冒険者ギルドでは依頼を受けられます。まず森林の奥で冒険者を電撃で傷つけるフェニックス戦士を討伐し、ドロップする特製火炎瓶を手がかりに500Gの報酬を受け取ります。次に東の山脈で鉱夫を襲う老人を捕らえに行きますが、道は倒木に塞がれており、火で焼くことができます。宿屋での宿泊、アイテム拾得、奈々子からのパーティーの誘いもありますが、依頼は2つだけでエンディングはなく、内容の薄いデモです。",
+          "summary": "『雲煙』は小さな異世界アドベンチャーです。VTuberとしてデビューするはずだった巫女の雲煙は、トラックに轢かれて異世界に転生し、グリゴリ神父に導かれて冒険者ギルドへ。最初の依頼はフェニックス戦士の討伐です。"
+        },
+        "zh-Hans": {
+          "editorialStatus": "draft",
+          "overview": "玩家扮演云烟，在村庄、教堂、小镇与山区之间探索：冒险者协会里可以接委托——先讨伐森林深处用电击伤人的凤凰战士，凭掉落的特制燃烧瓶领 500G 报酬，再去东边山脉缉拿袭击矿工的老者（去路被倒下的巨树挡住，可以用火烧掉）。另有旅店住宿、拾取与奈奈子组队邀请等内容，整体只有两段委托、无结局，是一部内容很薄的 demo。",
+          "summary": "《云烟》是一部异世界冒险小品：准备出道做虚拟主播的巫女云烟被卡车撞后穿越到异世界，在神父格里高利的指引下去往冒险者协会，接下讨伐凤凰战士的委托。"
+        }
+      },
+      "media": {
+        "cover": "https://webrpg.org/kotpot197-game/cover.png"
+      },
+      "originalTitle": "云烟",
+      "popularity": 1,
+      "relations": [],
+      "schemaVersion": 1,
+      "slug": "yun-yan",
+      "taxonomy": {
+        "contentType": "demo",
+        "genres": [
+          "rpg"
+        ],
+        "mechanics": [
+          "exploration",
+          "turn-based-battles",
+          "questing"
+        ],
+        "themes": [
+          "fantasy",
+          "comedy"
+        ]
+      },
+      "translatedTitles": {
+        "en": "Yunyan",
+        "ja": "雲煙"
+      }
     }
   }
 }
