@@ -32884,6 +32884,264 @@
       "translatedTitles": {
         "en": "Jianmie Chuanshuo"
       }
+    },
+    "sigil": {
+      "assessedAt": "2026-11-19",
+      "assessmentNote": "itch.io 5.0/5 from 10 ratings; unanimous praise, ~4h across both routes, two endings. Reviewers are largely the creators' friends/playtesters, so the small sample is biased — rating 8 reflects strong but thin evidence. Popularity 3: itch-only presence, 10 ratings.",
+      "assessmentSources": [
+        "https://mik-shida.itch.io/sigil"
+      ],
+      "contentAdvisory": {
+        "nsfw": true,
+        "warnings": [
+          "sexual content"
+        ]
+      },
+      "developers": [
+        {
+          "name": "MIK SHIDA"
+        }
+      ],
+      "editorial": {
+        "qualityFlags": [
+          "description-unverified"
+        ],
+        "sources": [
+          "https://mik-shida.itch.io/sigil",
+          "https://github.com/MikiShida/sigilbeta"
+        ],
+        "status": "draft"
+      },
+      "externalLinks": [
+        {
+          "label": "itch.io — SIGIL: A Zheani Experience (free)",
+          "type": "store",
+          "url": "https://mik-shida.itch.io/sigil"
+        }
+      ],
+      "instances": [
+        {
+          "id": "mikishida-sigilbeta",
+          "languages": [
+            "en"
+          ],
+          "nsfw": true,
+          "title": "SIGIL",
+          "type": "internal"
+        }
+      ],
+      "introductions": {
+        "en": {
+          "editorialStatus": "draft",
+          "overview": "You wake in a photo-style bedroom and a sigil card draws you into a spirit world split between Apollo and Diony. Reviews praise the art, soundtrack and atmosphere; the Diony route is sexually explicit. The browser version titles itself 'SIGIL BETA'.",
+          "summary": "A free point-and-click adventure set in the spiritual realms of Diony and Apollo: two routes, two endings, about four hours across both paths."
+        },
+        "ja": {
+          "editorialStatus": "draft",
+          "overview": "写真風の寝室で目覚めた主人公は、シジルのカードに導かれてアポロンとディオニューソスの二つの精神世界へ入る。レビューはアート、サウンドトラック、雰囲気を称賛している。ディオニューソスのルートには性的な内容が含まれる。ブラウザ版のタイトル画面には「SIGIL BETA」と表示される。",
+          "summary": "ディオニューソスとアポロンの精神世界を舞台にした無料ポイント＆クリック・アドベンチャー。二つのルートと二つの結末があり、両ルートで約4時間。"
+        },
+        "zh-Hans": {
+          "editorialStatus": "draft",
+          "overview": "玩家在照片风格的卧室中醒来，一张符印卡片把人带入分裂于阿波罗与狄俄尼索斯两界的精神世界。评论称赞画面、配乐与氛围；狄俄尼索斯路线含明确性内容。浏览器版标题画面自称“SIGIL BETA”。",
+          "summary": "一部免费点选冒险游戏，背景是酒神狄俄尼索斯与太阳神阿波罗的精神世界：双路线、双结局，两条路线约 4 小时。"
+        }
+      },
+      "media": {
+        "cover": "https://webrpg.org/MikiShida-sigilbeta/cover.png"
+      },
+      "originalTitle": "SIGIL",
+      "popularity": 3,
+      "rating": 8,
+      "schemaVersion": 1,
+      "slug": "sigil",
+      "taxonomy": {
+        "contentType": "full-game",
+        "genres": [
+          "adventure"
+        ],
+        "mechanics": [
+          "point-and-click"
+        ],
+        "themes": [
+          "fantasy",
+          "drama"
+        ]
+      },
+      "translatedTitles": {
+        "ja": "シジル",
+        "zh-Hans": "西吉尔"
+      }
+    },
+    "tales-of-old": {
+      "aliases": {
+        "en": [
+          "Tales of Nova"
+        ]
+      },
+      "assessedAt": "2026-11-19",
+      "assessmentNote": "No Steam/itch/media record found (web search 2026-11-19); 0 stars / 1 fork on GitHub; popularity 2 reflects no evidence of spread. Rating left blank: no reputation evidence.",
+      "assessmentSources": [
+        "https://github.com/hidayy21/rpg_talesofnova",
+        "https://webrpg.org/hidayy21-rpg_talesofnova/"
+      ],
+      "contentAdvisory": {
+        "nsfw": "unknown"
+      },
+      "developers": [
+        {
+          "name": "hidayy21"
+        }
+      ],
+      "editorial": {
+        "qualityFlags": [
+          "description-unverified"
+        ],
+        "sources": [
+          "https://github.com/hidayy21/rpg_talesofnova",
+          "https://webrpg.org/hidayy21-rpg_talesofnova/"
+        ],
+        "status": "draft"
+      },
+      "externalLinks": [
+        {
+          "label": "Source repository (GitHub)",
+          "type": "source",
+          "url": "https://github.com/hidayy21/rpg_talesofnova"
+        }
+      ],
+      "instances": [
+        {
+          "id": "hidayy21-rpg-talesofnova",
+          "languages": [
+            "en"
+          ],
+          "title": "Tales of Old",
+          "type": "internal"
+        }
+      ],
+      "introductions": {
+        "en": {
+          "editorialStatus": "draft",
+          "overview": "The project is developed as 'Tales of Nova' (the kingdom is Nova) while the in-game title reads 'Tales of Old'. The opening map is freely explorable with a day/time display; the world spans 74 maps including the Royal Magic Academy, Frosthollow and Lilydale. Actively developed since October 2026.",
+          "summary": "An English fantasy RPG in the Royal Kingdom of Nova: you are KAEL, a Shadow Wizard, starting at Villa Bloodrose on Day 1, with quests, pets and an encyclopedia to fill."
+        },
+        "ja": {
+          "editorialStatus": "draft",
+          "overview": "開発上のプロジェクト名は「Tales of Nova」（王国の名がノヴァ）だが、ゲーム内のタイトルは「Tales of Old」。開始マップは昼夜・日時表示付きで自由に探索でき、世界は王立魔法学院、フロストホロウ、リリーデールなど全74マップからなる。2026年10月から継続開発中。",
+          "summary": "ノヴァ王国を舞台にした英語ファンタジー RPG。シャドウ・ウィザードの KAEL となり、初日はヴィラ・ブラッドローズから出発し、クエスト、ペット、図鑑を進めていく。"
+        },
+        "zh-Hans": {
+          "editorialStatus": "draft",
+          "overview": "项目以“Tales of Nova”为名开发（王国即诺瓦），游戏内标题为“Tales of Old”。开场地图可自由探索，带日期/时间显示；世界共 74 张地图，包括皇家魔法学院、霜谷与莉莉谷等地。自 2026 年 10 月起持续开发中。",
+          "summary": "一部英文奇幻 RPG，舞台是诺瓦王国：玩家扮演影法师 KAEL，从血玫瑰别墅出发，带着任务、宠物与图鉴系统展开冒险。"
+        }
+      },
+      "media": {
+        "cover": "https://webrpg.org/hidayy21-rpg_talesofnova/cover.png"
+      },
+      "originalTitle": "Tales of Old",
+      "popularity": 2,
+      "schemaVersion": 1,
+      "slug": "tales-of-old",
+      "taxonomy": {
+        "contentType": "full-game",
+        "genres": [
+          "rpg"
+        ],
+        "themes": [
+          "fantasy"
+        ]
+      },
+      "translatedTitles": {
+        "ja": "テイルズ・オブ・オールド",
+        "zh-Hans": "古老传说"
+      }
+    },
+    "xiao-peng-you-qi-qing-shu-zhi-i-pian": {
+      "assessedAt": "2026-11-19",
+      "assessmentNote": "No Steam/itch/media record found (web search 2026-11-19); 0 stars / 1 fork on GitHub; popularity 2 reflects no evidence of spread. Rating left blank: no reputation evidence. Japanese title is a katakana transliteration of the pinyin; English title is a meaning translation, not official.",
+      "assessmentSources": [
+        "https://github.com/CTPcomputer/MathRPG-complex_number_i-",
+        "https://webrpg.org/CTPcomputer-MathRPG-complex_number_i/"
+      ],
+      "contentAdvisory": {
+        "nsfw": false
+      },
+      "developers": [
+        {
+          "name": "CTPcomputer"
+        }
+      ],
+      "editorial": {
+        "qualityFlags": [
+          "description-unverified"
+        ],
+        "sources": [
+          "https://github.com/CTPcomputer/MathRPG-complex_number_i-",
+          "https://webrpg.org/CTPcomputer-MathRPG-complex_number_i/"
+        ],
+        "status": "draft"
+      },
+      "externalLinks": [
+        {
+          "label": "Source repository (GitHub)",
+          "type": "source",
+          "url": "https://github.com/CTPcomputer/MathRPG-complex_number_i-"
+        }
+      ],
+      "instances": [
+        {
+          "id": "ctpcomputer-mathrpg-complex-number-i",
+          "languages": [
+            "zh-Hant"
+          ],
+          "nsfw": false,
+          "title": "小朋友齊傾數之i篇",
+          "type": "internal"
+        }
+      ],
+      "introductions": {
+        "en": {
+          "editorialStatus": "draft",
+          "overview": "The game opens with an ancient computer waking from dust; the player enters the math world on easy or hard mode. An old TV in the starting room opens a GeoGebra graphing calculator, and the first-quadrant map has NPC lessons and coordinate questions. No battles appeared in the first 10 minutes; the content is dialogue, events and math quizzes.",
+          "summary": "A Traditional Chinese math RPG for Form 4 students: explore a computer world while reviewing straight-line equations, quadratic equations and imaginary numbers through dialogue, events and coordinate quizzes."
+        },
+        "ja": {
+          "editorialStatus": "draft",
+          "overview": "埃に埋もれた古いコンピュータが目覚めるところから始まり、イージー/ハードモードで数学の世界に入る。開始地点の部屋の古いテレビからは GeoGebra のグラフ計算機が開き、第一象限のマップでは NPC の授業と座標クイズがある。最初の約10分間に戦闘はなく、内容は会話・イベント・数学クイズが中心。",
+          "summary": "中四（高校1年生相当）の生徒向けの繁体字中国語数学 RPG。コンピュータの世界を探索しながら、直線の方程式・二次方程式・虚数を会話、イベント、座標クイズで復習する。"
+        },
+        "zh-Hans": {
+          "editorialStatus": "draft",
+          "overview": "游戏以一台尘封中苏醒的古老电脑开场，玩家在容易/困难模式中进入数学世界；起始房间的旧电视可以打开 GeoGebra 图形计算器，第一象限地图上有 NPC 教学与坐标问答。开场约 10 分钟未见战斗，内容以对白、事件与数学问答为主。",
+          "summary": "一部面向中四学生的繁体中文数学 RPG：在电脑世界里复习直线方程、二次方程与虚数，边探索边做坐标问答。"
+        }
+      },
+      "media": {
+        "cover": "https://webrpg.org/CTPcomputer-MathRPG-complex_number_i/cover.png"
+      },
+      "originalTitle": "小朋友齊傾數之i篇",
+      "popularity": 2,
+      "schemaVersion": 1,
+      "slug": "xiao-peng-you-qi-qing-shu-zhi-i-pian",
+      "taxonomy": {
+        "contentType": "full-game",
+        "genres": [
+          "rpg"
+        ],
+        "mechanics": [
+          "quiz"
+        ],
+        "themes": [
+          "educational"
+        ]
+      },
+      "translatedTitles": {
+        "en": "Kids Chatting Numbers: The Chapter of i",
+        "ja": "シャオポンヨウチーチンシュウジアイピエン",
+        "zh-Hans": "小朋友齐倾数之i篇"
+      }
     }
   }
 }

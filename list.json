@@ -4052,7 +4052,14 @@
     "sourceRepo": "CTPcomputer/MathRPG-complex_number_i-",
     "sourceDefaultBranch": "main",
     "sourceHeadSha": "39c281f9758e9ae4d1881b538d5effbbce4345dc",
-    "processedHeadSha": "d499a6e32108c7e96e51b0b63df3e13fd0ebd41d"
+    "processedHeadSha": "d499a6e32108c7e96e51b0b63df3e13fd0ebd41d",
+    "meta": {
+      "gameSlug": "xiao-peng-you-qi-qing-shu-zhi-i-pian",
+      "nsfw": false,
+      "playable": true,
+      "reviewedAt": "2026-11-19",
+      "reviewedSourceHeadSha": "39c281f9758e9ae4d1881b538d5effbbce4345dc"
+    }
   },
   {
     "id": "92o524-campus-introduction5",
@@ -25484,7 +25491,12 @@
     "validationScore": 108,
     "totalSize": 90589,
     "dataSize": 706420,
-    "syncedFromSource": true
+    "syncedFromSource": true,
+    "meta": {
+      "playable": false,
+      "reviewedAt": "2026-11-19",
+      "reviewedSourceHeadSha": "280eaf189e40efd2887e28f4597e763bff6f0276"
+    }
   },
   {
     "id": "tranlamphuduc-kltn-da22ttd-tranlamphuduc-xaydunggamehanhdongnhapvai2dthoigianthucvoicochechiendauvaai-rpgmakermv",
@@ -26684,7 +26696,12 @@
     "sourceRepo": "Intruder0404/RecursionParadox",
     "sourceDefaultBranch": "master",
     "sourceHeadSha": "69c14d2f03b24f3a19e70b33cdb62ad649e78a12",
-    "processedHeadSha": "49f481befb9c9abc469d5699ff1658d9773e44da"
+    "processedHeadSha": "49f481befb9c9abc469d5699ff1658d9773e44da",
+    "meta": {
+      "playable": false,
+      "reviewedAt": "2026-11-19",
+      "reviewedSourceHeadSha": "69c14d2f03b24f3a19e70b33cdb62ad649e78a12"
+    }
   },
   {
     "id": "framormar-rpg-adventure-windows",
@@ -29034,7 +29051,14 @@
     "sourceRepo": "MikiShida/sigilbeta",
     "sourceDefaultBranch": "main",
     "sourceHeadSha": "b5d3916391aba1de23547ee72d32eace890865ee",
-    "processedHeadSha": "24948eb8a19aa18f4e45352d5aa0142c534a1f43"
+    "processedHeadSha": "24948eb8a19aa18f4e45352d5aa0142c534a1f43",
+    "meta": {
+      "gameSlug": "sigil",
+      "nsfw": true,
+      "playable": true,
+      "reviewedAt": "2026-11-19",
+      "reviewedSourceHeadSha": "b5d3916391aba1de23547ee72d32eace890865ee"
+    }
   },
   {
     "id": "deeeland0ohio-sigma-games-2ca86c86",
@@ -30174,7 +30198,13 @@
     "sourceRepo": "hidayy21/rpg_talesofnova",
     "sourceDefaultBranch": "main",
     "sourceHeadSha": "197a45d5fdb0d27b68d53777d0195ce6c8e31740",
-    "processedHeadSha": "488a77a806f016ead24c77e52dd26aa6a320013f"
+    "processedHeadSha": "488a77a806f016ead24c77e52dd26aa6a320013f",
+    "meta": {
+      "gameSlug": "tales-of-old",
+      "playable": true,
+      "reviewedAt": "2026-11-19",
+      "reviewedSourceHeadSha": "197a45d5fdb0d27b68d53777d0195ce6c8e31740"
+    }
   },
   {
     "id": "excel-top",
@@ -34009,7 +34039,12 @@
     "sourceRepo": "ScarCampFire/tosky",
     "sourceDefaultBranch": "master",
     "sourceHeadSha": "406ef95fdf2498b79855a003af7b444fcaa1b3b8",
-    "processedHeadSha": "e9297e5db52507ec7970221804f517a061f27ba5"
+    "processedHeadSha": "e9297e5db52507ec7970221804f517a061f27ba5",
+    "meta": {
+      "playable": false,
+      "reviewedAt": "2026-11-19",
+      "reviewedSourceHeadSha": "406ef95fdf2498b79855a003af7b444fcaa1b3b8"
+    }
   },
   {
     "id": "eymc-group-workstudy",
