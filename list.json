@@ -20457,16 +20457,9 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/sunset513-ncu-fresh-map-draft/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "aliases": [
-        "NCU Frech 2024"
-      ],
-      "genres": [
-        "template"
-      ],
       "nsfw": false,
-      "playable": true,
-      "reviewedAt": "2026-11-08",
-      "title": "2024 新生知識網"
+      "playable": false,
+      "reviewedAt": "2026-11-08"
     }
   },
   {
@@ -20496,11 +20489,8 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/katai5plate-rpgmz-newgame-lite/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "template"
-      ],
       "nsfw": false,
-      "playable": true,
+      "playable": false,
       "reviewedAt": "2026-11-08"
     }
   },
@@ -20531,11 +20521,8 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/katai5plate-rpgmv-newgame-lite/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "template"
-      ],
       "nsfw": false,
-      "playable": true,
+      "playable": false,
       "reviewedAt": "2026-11-08"
     }
   },
@@ -20876,22 +20863,9 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/0x736f6d657468696e67-new_layers/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "reviewedAt": "2026-11-07",
-      "playable": false,
-      "rating": 9,
-      "popularity": 10,
-      "aliases": [
-        "omori"
-      ],
-      "genres": [
-        "rpg",
-        "horror",
-        "drama"
-      ],
       "nsfw": false,
-      "languages": [
-        "en"
-      ]
+      "playable": false,
+      "reviewedAt": "2026-11-07"
     }
   },
   {
@@ -21151,21 +21125,8 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/duong1234-li-HeroMOD/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "aliases": [
-        "omori"
-      ],
-      "genres": [
-        "rpg",
-        "horror",
-        "drama"
-      ],
-      "languages": [
-        "en"
-      ],
       "nsfw": false,
       "playable": false,
-      "popularity": 10,
-      "rating": 9,
       "reviewedAt": "2026-11-07"
     }
   },
@@ -21632,21 +21593,8 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/Neoexm-Kuakin/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "aliases": [
-        "omori"
-      ],
-      "genres": [
-        "rpg",
-        "horror",
-        "drama"
-      ],
-      "languages": [
-        "en"
-      ],
       "nsfw": false,
       "playable": false,
-      "popularity": 10,
-      "rating": 9,
       "reviewedAt": "2026-11-07"
     }
   },
@@ -21708,21 +21656,8 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/NotReallyRx-omori/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "aliases": [
-        "omori"
-      ],
-      "genres": [
-        "rpg",
-        "horror",
-        "drama"
-      ],
-      "languages": [
-        "en"
-      ],
       "nsfw": false,
       "playable": false,
-      "popularity": 10,
-      "rating": 9,
       "reviewedAt": "2026-11-07"
     }
   },
@@ -21887,21 +21822,8 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/starsnail-tokimori/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "aliases": [
-        "omori"
-      ],
-      "genres": [
-        "rpg",
-        "horror",
-        "drama"
-      ],
-      "languages": [
-        "en"
-      ],
       "nsfw": false,
       "playable": false,
-      "popularity": 10,
-      "rating": 9,
       "reviewedAt": "2026-11-07"
     }
   },
@@ -22188,8 +22110,6 @@
     "meta": {
       "nsfw": false,
       "playable": false,
-      "popularity": 2,
-      "rating": 5,
       "reviewedAt": "2026-11-08"
     },
     "reachable": true,
@@ -22361,11 +22281,8 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/Tiny-Country-Games-Orthographic/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "template"
-      ],
       "nsfw": false,
-      "playable": true,
+      "playable": false,
       "reviewedAt": "2026-11-07"
     }
   },
@@ -22396,16 +22313,8 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/jpmendezf-osianndventures/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg"
-      ],
-      "languages": [
-        "en"
-      ],
       "nsfw": false,
       "playable": false,
-      "popularity": 2,
-      "rating": 5,
       "reviewedAt": "2026-11-08"
     }
   },
@@ -22660,8 +22569,6 @@
     "meta": {
       "nsfw": false,
       "playable": false,
-      "popularity": 2,
-      "rating": 5,
       "reviewedAt": "2026-11-08"
     }
   },
@@ -22742,9 +22649,6 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/U-K-L-ContentSupportExamples/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "template"
-      ],
       "nsfw": false,
       "playable": false,
       "reviewedAt": "2026-11-07"
@@ -22777,14 +22681,8 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/U-K-L-RPGAME-Patreon-Example/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "template"
-      ],
-      "languages": [
-        "en"
-      ],
       "nsfw": false,
-      "playable": true,
+      "playable": false,
       "reviewedAt": "2026-11-07"
     }
   },
@@ -22815,8 +22713,6 @@
     "meta": {
       "nsfw": false,
       "playable": false,
-      "popularity": 2,
-      "rating": 5,
       "reviewedAt": "2026-11-08"
     }
   },
