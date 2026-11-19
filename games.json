@@ -32102,6 +32102,788 @@
       "translatedTitles": {
         "en": "Guihuan"
       }
+    },
+    "kenkyuujo-to-jukko-no-kikai-tachi-saikou-no-kumiawase-wo-sagase": {
+      "aliases": {
+        "ja": [
+          "最高の組み合わせを探せ！"
+        ]
+      },
+      "assessedAt": "2026-11-19",
+      "assessmentNote": "No Steam/itch/wiki/review/community coverage found; the only evidence is the GitHub repo itself (0 stars, 2 forks, 19 commits). No reputation evidence, so rating is left blank.",
+      "assessmentSources": [
+        "https://github.com/IsekaiAgile/laboratory"
+      ],
+      "contentAdvisory": {
+        "nsfw": false
+      },
+      "developers": [
+        {
+          "name": "むとうゆうぎ",
+          "url": "https://github.com/IsekaiAgile"
+        }
+      ],
+      "editorial": {
+        "qualityFlags": [
+          "description-unverified"
+        ],
+        "sources": [
+          "https://github.com/IsekaiAgile/laboratory"
+        ],
+        "status": "draft"
+      },
+      "externalLinks": [
+        {
+          "label": "GitHub — IsekaiAgile/laboratory",
+          "type": "source",
+          "url": "https://github.com/IsekaiAgile/laboratory"
+        }
+      ],
+      "instances": [
+        {
+          "id": "isekaiagile-laboratory",
+          "languages": [
+            "ja"
+          ],
+          "nsfw": false,
+          "title": "最高の組み合わせを探せ！",
+          "type": "internal"
+        }
+      ],
+      "introductions": {
+        "en": {
+          "editorialStatus": "draft",
+          "overview": "Ten machines sit in the laboratory; place them in order and press the button to score their combined \"spec\" value. A hidden best order yields higher scores, so you experiment, review the results and try again, with Critical/Great/Good ratings, bonus points, a result screen and a rearrange option. Includes a credits roll. An official spin-off of \"Isekai Agile\" by Mutou Yuugi.",
+          "summary": "A Japanese puzzle game: you are a researcher at the \"A.G.O.M Laboratory\" who must arrange 10 machines into the best possible combination."
+        },
+        "ja": {
+          "editorialStatus": "draft",
+          "overview": "研究所にある10台の機械を順番に配置し、ボタンを押すと「スペック」値で評価される。より高くなる「良い順番」が存在し、試して振り返りながら最適な並びを探す。Critical/Great/Good評価やボーナス得点、結果表示、配置し直し機能を備え、クレジットも収録。「異世界アジャイル」の公式スピンオフ作品で、作者はむとうゆうぎ。",
+          "summary": "日本語のパズルゲーム。「A.G.O.M 研究所」の研究員となり、10台の機械を最良の組み合わせに並べる。"
+        },
+        "zh-Hans": {
+          "editorialStatus": "draft",
+          "overview": "研究所里有 10 台机器，玩家按顺序配置它们，按下按钮后按“规格值”评分；存在能让分数更高的“最佳顺序”，可通过反复尝试与复盘摸索；另有 Critical/Great/Good 评价与加分、结果展示与重排功能，并附制作人员名单。本作是「異世界アジャイル」的官方衍生作品，作者为むとうゆうぎ。",
+          "summary": "日语解谜游戏：玩家是“A.G.O.M 研究所”的研究员，要把 10 台机器排成最佳组合。"
+        }
+      },
+      "media": {
+        "cover": "https://webrpg.org/IsekaiAgile-laboratory/cover.png"
+      },
+      "originalTitle": "研究所と10個の機械たち ～最高の組み合わせを探せ！～",
+      "popularity": 2,
+      "schemaVersion": 1,
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "slug": "kenkyuujo-to-jukko-no-kikai-tachi-saikou-no-kumiawase-wo-sagase",
+      "taxonomy": {
+        "contentType": "full-game",
+        "genres": [
+          "puzzle"
+        ],
+        "mechanics": [
+          "machine arrangement",
+          "score optimization"
+        ],
+        "themes": [
+          "sci-fi"
+        ]
+      },
+      "translatedTitles": {
+        "en": "Kenkyuujo to Jukko no Kikai-tachi ～ Saikou no Kumiawase wo Sagase △"
+      }
+    },
+    "shu-xue-su-shi-dian": {
+      "assessedAt": "2026-11-19",
+      "assessmentNote": "No Steam/itch/wiki/review/community coverage found; the only evidence is the GitHub repo itself (0 stars, 2 forks, 20 commits). No reputation evidence, so rating is left blank.",
+      "assessmentSources": [
+        "https://github.com/tychouhaha/ZK_restaurant"
+      ],
+      "contentAdvisory": {
+        "nsfw": false
+      },
+      "developers": [
+        {
+          "name": "tychouhaha",
+          "url": "https://github.com/tychouhaha"
+        }
+      ],
+      "editorial": {
+        "qualityFlags": [
+          "description-unverified"
+        ],
+        "sources": [
+          "https://github.com/tychouhaha/ZK_restaurant"
+        ],
+        "status": "draft"
+      },
+      "externalLinks": [
+        {
+          "label": "GitHub — tychouhaha/ZK_restaurant",
+          "type": "source",
+          "url": "https://github.com/tychouhaha/ZK_restaurant"
+        }
+      ],
+      "instances": [
+        {
+          "id": "tychouhaha-zk-restaurant",
+          "languages": [
+            "zh-Hant"
+          ],
+          "nsfw": false,
+          "title": "數學速食店",
+          "type": "internal"
+        }
+      ],
+      "introductions": {
+        "en": {
+          "editorialStatus": "draft",
+          "overview": "Within a 5-minute timer, serve four customers (including a red-haired and a blonde customer). Each order specifies a base, a main part and a seasoning — the multiplicand, multiplier and product — and you enter numbers following multiplication-table rules (11–19 times tables, three-digit numbers times 11, two-digit numbers times 99, and more). Correct dishes raise customer satisfaction; the game ends when time runs out and scores you on satisfaction. Four groups take turns with separate scores, making it suited to classroom use.",
+          "summary": "A Traditional Chinese math simulation game: you play a waiter in a fast-food restaurant, serving customers by solving multiplication problems."
+        },
+        "ja": {
+          "editorialStatus": "draft",
+          "overview": "5分の制限時間内に赤髪や金髪など4人の客を接客する。注文は「基底」「主体」「調味」で示され、それぞれ被乗数・乗数・積に対応し、11～19の掛け算、3桁×11、2桁×99などの九九の法則に沿って数字を入力して料理を作る。正しい料理は顧客満足度を上げ、時間切れで満足度により評価される。4グループの交代制スコアがあり、授業での利用を想定している。",
+          "summary": "繁体字中国語の数学シミュレーションゲーム。ファストフード店の店員となり、掛け算で料理を作って客に提供する。"
+        },
+        "zh-Hans": {
+          "editorialStatus": "draft",
+          "overview": "5 分钟计时内接待红发、金发等 4 位顾客；顾客点单指定基底、主体与调味，分别对应被乘数、乘数与乘积，玩家按 11～19 乘法、三位数乘 11、二位数乘 99 等乘法表规则输入数字配餐；送对食物提升顾客满意度，送错则不加分；时间到按满意度结算；另有 4 组轮流计分，适合课堂分组使用。",
+          "summary": "繁体中文数学模拟游戏：玩家在速食店担任服务生，用乘法口诀为顾客配餐。"
+        }
+      },
+      "media": {
+        "cover": "https://webrpg.org/tychouhaha-ZK_restaurant/cover.png"
+      },
+      "originalTitle": "數學速食店",
+      "popularity": 2,
+      "schemaVersion": 1,
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "slug": "shu-xue-su-shi-dian",
+      "taxonomy": {
+        "contentType": "full-game",
+        "genres": [
+          "simulation"
+        ],
+        "themes": [
+          "educational"
+        ]
+      },
+      "translatedTitles": {
+        "en": "Shu Xue Su Shi Dian △",
+        "ja": "シュウシュエ・スーシーディエン △",
+        "zh-Hans": "数学速食店"
+      }
+    },
+    "tougebu-e-ikou-taikenban": {
+      "assessedAt": "2026-11-19",
+      "assessmentNote": "No Steam/itch/wiki/review/community coverage found; the only evidence is the GitHub repo itself (0 stars, 2 forks, 1 commit) plus its own description of a Comiket 92 distribution. No reputation evidence, so rating is left blank.",
+      "assessmentSources": [
+        "https://github.com/YuukiOgino/ProjectTogebuTraial"
+      ],
+      "contentAdvisory": {
+        "nsfw": false
+      },
+      "developers": [
+        {
+          "name": "関東ゲーム制作部"
+        },
+        {
+          "name": "荻野雄季",
+          "url": "https://github.com/YuukiOgino"
+        }
+      ],
+      "editorial": {
+        "qualityFlags": [
+          "description-unverified"
+        ],
+        "sources": [
+          "https://github.com/YuukiOgino/ProjectTogebuTraial"
+        ],
+        "status": "draft"
+      },
+      "externalLinks": [
+        {
+          "label": "GitHub — YuukiOgino/ProjectTogebuTraial",
+          "type": "source",
+          "url": "https://github.com/YuukiOgino/ProjectTogebuTraial"
+        }
+      ],
+      "instances": [
+        {
+          "id": "yuukiogino-projecttogebutraial",
+          "languages": [
+            "ja"
+          ],
+          "nsfw": false,
+          "title": "東ゲ部へ行こう！ 体験版",
+          "type": "internal",
+          "version": "ver0.1"
+        }
+      ],
+      "introductions": {
+        "en": {
+          "editorialStatus": "draft",
+          "overview": "A trial version (ver0.1) distributed at Comiket 92 in 2017 by the Kanto Game Production Club, with scenario, graphics and programming all by Yuuki Ogino. The protagonist, an aspiring creator from Gunma, is guided by a mysterious figure in the \"Creator Room\" and heads to the club in Kayabacho, Tokyo, where he meets fellow creators including the self-styled genius Takahashi Soujiro and Nemoto Kazuka. Features exploration around Tokyo Station and Ueno, battles and shops, and ends with a staff roll.",
+          "summary": "A Japanese adventure game trial version: a boy who dreams of becoming a god among game creators travels to Tokyo to visit the game-making club \"Tougebu\"."
+        },
+        "ja": {
+          "editorialStatus": "draft",
+          "overview": "2017年のC92で頒布された体験版（ver0.1）で、関東ゲーム制作部制作、シナリオ・グラフィック・プログラムはすべて荻野雄季。群馬から来たクリエイターの卵である主人公は、「クリエイタールーム」で謎の案内人に導かれ、茅場町の東ゲ部を訪れて自称・世界を変えるゲームクリエイターの高橋創治郎（天条院創疾）や根本和華らと出会う。東京駅・上野駅周辺の探索、戦闘やショップを備え、クリア後にスタッフロールが流れる。",
+          "summary": "日本語のアドベンチャーゲーム体験版。ゲームクリエイターの神を目指す少年が東京へ向かい、ゲーム制作部「東ゲ部」を訪れる。"
+        },
+        "zh-Hans": {
+          "editorialStatus": "draft",
+          "overview": "2017 年 C92 发售的体验版（ver0.1），由关东游戏制作部制作，荻野雄季一人包办剧本、美术与程序。主角是从群马来到东京的游戏制作学徒，在“创造者房间”受神秘向导指引，前往茅场町的东游部，结识自称世界级游戏制作人的高桥创治郎与根本和华等人；包含东京站、上野站一带的探索、战斗与商店，通关后有制作人员名单。",
+          "summary": "日语冒险游戏体验版：立志成为游戏制作人之神的少年前往东京，造访游戏制作部“东游部”。"
+        }
+      },
+      "media": {
+        "cover": "https://webrpg.org/YuukiOgino-ProjectTogebuTraial/cover.png"
+      },
+      "originalTitle": "東ゲ部へ行こう！ 体験版",
+      "popularity": 2,
+      "release": {
+        "date": "2017-08-12",
+        "originalPlatforms": [
+          "Windows"
+        ]
+      },
+      "schemaVersion": 1,
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "slug": "tougebu-e-ikou-taikenban",
+      "taxonomy": {
+        "contentType": "demo",
+        "genres": [
+          "adventure"
+        ],
+        "themes": [
+          "slice-of-life",
+          "comedy"
+        ]
+      },
+      "translatedTitles": {
+        "en": "Tougebu e Ikou! Taikenban △"
+      }
+    },
+    "morimiya-chugakko-juuransha-jiken": {
+      "assessedAt": "2026-11-19",
+      "assessmentNote": "Web search found no Steam/itch/media records; only the GitHub repository (17 stars, 2 forks, created 2018) and its readme, so no reputation evidence exists and rating is left blank; popularity 3.",
+      "assessmentSources": [
+        "https://github.com/kata235/MV02",
+        "https://raw.githubusercontent.com/kata235/MV02/master/data/System.json",
+        "https://raw.githubusercontent.com/kata235/MV02/master/data/MapInfos.json",
+        "https://raw.githubusercontent.com/kata235/MV02/master/data/Map002.json"
+      ],
+      "contentAdvisory": {
+        "nsfw": false,
+        "warnings": [
+          "School shooting theme: the player attacks a fictional junior high school and kills students and teachers",
+          "Graphic gun violence; the game states its content is fiction and unrelated to any real person, group, or incident"
+        ]
+      },
+      "developers": [
+        {
+          "name": "エリック",
+          "url": "https://twitter.com/eric806359"
+        }
+      ],
+      "editorial": {
+        "qualityFlags": [
+          "description-unverified"
+        ],
+        "sources": [
+          "https://github.com/kata235/MV02",
+          "https://raw.githubusercontent.com/kata235/MV02/master/data/System.json",
+          "https://raw.githubusercontent.com/kata235/MV02/master/data/MapInfos.json",
+          "https://raw.githubusercontent.com/kata235/MV02/master/data/Map002.json"
+        ],
+        "status": "draft"
+      },
+      "externalLinks": [
+        {
+          "label": "GitHub — kata235/MV02",
+          "type": "source",
+          "url": "https://github.com/kata235/MV02"
+        }
+      ],
+      "instances": [
+        {
+          "id": "kata235-mv02",
+          "languages": [
+            "ja"
+          ],
+          "nsfw": false,
+          "title": "森宮中学校銃乱射事件",
+          "type": "internal"
+        }
+      ],
+      "introductions": {
+        "en": {
+          "editorialStatus": "draft",
+          "overview": "An RPG Maker MV shooting action game by Eric (エリック), released 2018-12-13. The player controls the perpetrator (加害者) attacking the fictional Morimiya Junior High School: after a tutorial, you leave home and assault the school, earning SP from the number of people killed to buy new guns and skills. Systems include shooting, aiming down sights, reloading, pipe bombs, stamina, police and ambulance sirens, lockdowns, announcements, and student evacuation progress; endings include arrest (確保END) and death (死亡END), plus accomplice events. The game's own readme states its content is fiction, unrelated to any real person, group, or incident, and asks that it only be played by people who can enjoy it as fiction. The English title is a Hepburn romaji transliteration of the Japanese original; the Chinese title is a simplified-character conversion of the same title.",
+          "summary": "A school-shooting action game: play as the perpetrator attacking a fictional junior high school, earning SP from kills to buy guns and skills, with arrest and death endings."
+        },
+        "ja": {
+          "editorialStatus": "draft",
+          "overview": "エリック（Eric）作、2018年12月13日公開のRPGツクールMV製シューティングアクションゲーム。プレイヤーは加害者を操作し、架空の森宮中学校を襲撃する。チュートリアルを終えて家から外に出ると学校への襲撃が可能になり、死者の数に応じてSPを得て新しい銃やスキルを購入できる。射撃、照準（ADS）、リロード、パイプ爆弾、スタミナ、警察・救急サイレン、ロックダウン、アナウンス、生徒避難進行度などのシステムを備え、確保END・死亡ENDなどの複数エンディングと共犯イベントがある。readmeには内容がフィクションであり実在の人物・団体・事件とは一切関係ないこと、フィクションとして楽しめる方のみプレイしてほしいことが明記されている。英語タイトルは日本語原題のヘボン式ローマ字表記。中国語タイトルは原題の簡体字変換。",
+          "summary": "架空の中学校を襲撃する銃撃アクションゲーム。加害者を操作し、殺害数で得たSPで銃やスキルを購入する。確保END・死亡ENDなどの複数エンディングがある。"
+        },
+        "zh-Hans": {
+          "editorialStatus": "draft",
+          "overview": "Eric（エリック）制作、2018 年 12 月 13 日发布的 RPG Maker MV 射击动作游戏。玩家扮演加害者，袭击虚构的森宫中学：完成教程后从家中外出即可发动袭击，按死者人数获得 SP，用于购买新枪与技能。系统包括射击、瞄准、装弹、管状炸弹、体力、警察与救护车警笛、封锁、广播与学生疏散进度；结局包括被捕结局（確保 END）与死亡结局（死亡 END），另有共犯事件。作者在 readme 中声明内容纯属虚构，与任何真实人物、团体、事件无关，仅供能将其当作虚构来享受的人游玩。英文标题为日文原名的 Hepburn 罗马音音译；中文标题为原题的简体字转换。",
+          "summary": "以校园枪击为题材的射击动作游戏：扮演加害者袭击虚构的森宫中学，用击杀所得 SP 购买枪支与技能，有被捕与死亡等多个结局。"
+        }
+      },
+      "media": {
+        "cover": "https://webrpg.org/kata235-MV02/cover.png"
+      },
+      "originalTitle": "森宮中学校銃乱射事件",
+      "popularity": 3,
+      "release": {
+        "date": "2018-12-13",
+        "originalPlatforms": [
+          "Windows"
+        ]
+      },
+      "schemaVersion": 1,
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "slug": "morimiya-chugakko-juuransha-jiken",
+      "taxonomy": {
+        "contentType": "full-game",
+        "genres": [
+          "adventure"
+        ],
+        "mechanics": [
+          "aim-down-sights",
+          "bomb-throwing",
+          "reload",
+          "shooting",
+          "stamina"
+        ],
+        "themes": [
+          "drama",
+          "horror"
+        ]
+      },
+      "translatedTitles": {
+        "en": "Morimiya Chugakko Juuransha Jiken",
+        "zh-Hans": "森宫中学校铳乱射事件"
+      }
+    },
+    "touhou-isouhu": {
+      "assessedAt": "2026-11-19",
+      "assessmentNote": "The original game by FantasticCreative won the Niconico Indie Game Festival Newcomer Award 2019 and reached 100,000 plays on Game Atsumaru (service ended 2023); the web instance is an unmodified browser port. No professional reviews were found, so rating 6 reflects the award plus the scale of content (379 maps, 13 playable characters); popularity 5.",
+      "assessmentSources": [
+        "https://touhouisouhu.amebaownd.com/",
+        "https://github.com/cbginoshoo/Touhou_Isouhu",
+        "https://raw.githubusercontent.com/cbginoshoo/Touhou_Isouhu/main/data/System.json",
+        "https://raw.githubusercontent.com/cbginoshoo/Touhou_Isouhu/main/data/MapInfos.json",
+        "https://raw.githubusercontent.com/cbginoshoo/Touhou_Isouhu/main/data/Actors.json"
+      ],
+      "contentAdvisory": {
+        "nsfw": false
+      },
+      "developers": [
+        {
+          "name": "FantasticCreative",
+          "url": "https://touhouisouhu.amebaownd.com/"
+        }
+      ],
+      "editorial": {
+        "qualityFlags": [
+          "description-unverified"
+        ],
+        "sources": [
+          "https://touhouisouhu.amebaownd.com/",
+          "https://github.com/cbginoshoo/Touhou_Isouhu",
+          "https://raw.githubusercontent.com/cbginoshoo/Touhou_Isouhu/main/data/System.json",
+          "https://raw.githubusercontent.com/cbginoshoo/Touhou_Isouhu/main/data/MapInfos.json",
+          "https://raw.githubusercontent.com/cbginoshoo/Touhou_Isouhu/main/data/Actors.json"
+        ],
+        "status": "draft"
+      },
+      "externalLinks": [
+        {
+          "label": "東方異想符 — official site (FantasticCreative)",
+          "type": "official",
+          "url": "https://touhouisouhu.amebaownd.com/"
+        },
+        {
+          "label": "GitHub — cbginoshoo/Touhou_Isouhu (browser port source)",
+          "type": "source",
+          "url": "https://github.com/cbginoshoo/Touhou_Isouhu"
+        }
+      ],
+      "instances": [
+        {
+          "id": "cbginoshoo-touhou-isouhu",
+          "languages": [
+            "ja"
+          ],
+          "nsfw": false,
+          "title": "東方異想符",
+          "type": "internal"
+        }
+      ],
+      "introductions": {
+        "en": {
+          "editorialStatus": "draft",
+          "overview": "A Touhou Project fan RPG by FantasticCreative, a secondary creation based on ZUN's Touhou Project and unrelated to the official games. The main story takes Reimu, Marisa, and 11 other playable characters across Gensokyo — Hakurei Shrine, the Human Village, the Scarlet Devil Mansion, Eientei, the Palace of the Earth Spirits, Makai, and more — fighting fake copies of familiar faces, with rank battles (ranks 1–10), gacha card collection, sub-quests, and post-clear content. The original won the Niconico Indie Game Festival Newcomer Award 2019, reached 100,000 plays on Game Atsumaru, and was updated to v2.2.1 in 2020. This web instance is an unmodified browser port by cbginoshoo, made after Game Atsumaru shut down on 2023-06-28 so the game could still be played without a Windows machine. The English title is a Hepburn romaji transliteration of the Japanese original; the Chinese title is a simplified-character conversion of the same title.",
+          "summary": "A Touhou Project fan RPG: 13 playable characters investigate an incident across Gensokyo, with rank battles, gacha card collection, sub-quests, and post-clear content. Winner of the Niconico Indie Game Festival Newcomer Award 2019; this web build is an unmodified browser port made after Game Atsumaru shut down."
+        },
+        "ja": {
+          "editorialStatus": "draft",
+          "overview": "FantasticCreative作の東方Project二次創作RPG。ZUN原作の東方Projectを題材にした同人ゲームで、公式作品とは無関係。霊夢・魔理沙ら13人のプレイアブルキャラクターとともに、博麗神社、人里、紅魔館、永遠亭、地霊殿、魔界など幻想郷各地を巡り、偽物たちと戦うメインストーリーに加え、ランク戦（ランク1～10）、ガチャによるカード収集、サブクエスト、クリア後コンテンツを備える。原作はニコニコ自作ゲームフェス新人賞2019を受賞し、ゲームアツマールで10万プレイを記録、2020年にver2.2.1まで更新された。このウェブ版は、2023年6月28日のゲームアツマール終了後にcbginoshooが制作した無改変のブラウザ移植版で、Windows機がなくても遊べるようにしたもの。英語タイトルは日本語原題のヘボン式ローマ字表記。中国語タイトルは原題の簡体字変換。",
+          "summary": "東方Projectの二次創作RPG。霊夢・魔理沙ら13人のプレイアブルキャラクターで幻想郷各地を巡る。ランク戦、ガチャによるカード収集、サブクエスト、クリア後コンテンツを備える。ニコニコ自作ゲームフェス新人賞2019受賞作。ゲームアツマール終了後に作られた無改変のブラウザ移植版。"
+        },
+        "zh-Hans": {
+          "editorialStatus": "draft",
+          "overview": "FantasticCreative 制作的东方 Project 同人 RPG，取材自 ZUN 的东方 Project，与官方作品无关。玩家与灵梦、魔理沙等 13 名可操作角色一起巡游幻想乡——博丽神社、人里、红魔馆、永远亭、地灵殿、魔界等地，对抗各路伪装者；除主线外还有段位战（1–10 段）、抽卡收集、支线任务与通关后内容。原作获 2019 年 Niconico 自制游戏节新人奖，在游戏阿特玛尔平台累计 10 万次游玩，2020 年更新至 v2.2.1。本网页版是 cbginoshoo 在游戏阿特玛尔于 2023 年 6 月 28 日停运后制作的无改动浏览器移植版，目的是让没有 Windows 电脑的玩家也能游玩。英文标题为日文原名的 Hepburn 罗马音音译；中文标题为原题的简体字转换。",
+          "summary": "东方 Project 同人 RPG：与灵梦、魔理沙等 13 名可操作角色巡游幻想乡调查异变，含段位战、抽卡收集、支线任务与通关后内容。获 2019 年 Niconico 自制游戏节新人奖；本网页版是游戏阿特玛尔停运后制作的无改动浏览器移植版。"
+        }
+      },
+      "media": {
+        "cover": "https://webrpg.org/cbginoshoo-Touhou_Isouhu/cover.png"
+      },
+      "originalTitle": "東方異想符",
+      "popularity": 5,
+      "rating": 6,
+      "release": {
+        "date": "2018-10-14",
+        "originalPlatforms": [
+          "Web",
+          "Windows"
+        ]
+      },
+      "schemaVersion": 1,
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "slug": "touhou-isouhu",
+      "taxonomy": {
+        "contentType": "full-game",
+        "genres": [
+          "rpg"
+        ],
+        "mechanics": [
+          "gacha",
+          "rank-battles"
+        ],
+        "themes": [
+          "fantasy"
+        ]
+      },
+      "translatedTitles": {
+        "en": "Touhou Isouhu",
+        "zh-Hans": "东方异想符"
+      }
+    },
+    "xiaoyuan-jieshao": {
+      "assessedAt": "2026-11-19",
+      "assessmentNote": "Web search found no external records; only the GitHub repository (0 stars, 2 forks, 63 commits), so no reputation evidence exists and rating is left blank; popularity 1.",
+      "assessmentSources": [
+        "https://github.com/92O524/Campus-introduction5",
+        "https://raw.githubusercontent.com/92O524/Campus-introduction5/main/data/System.json",
+        "https://raw.githubusercontent.com/92O524/Campus-introduction5/main/data/MapInfos.json",
+        "https://raw.githubusercontent.com/92O524/Campus-introduction5/main/data/Map008.json"
+      ],
+      "contentAdvisory": {
+        "nsfw": false
+      },
+      "developers": [
+        {
+          "name": "92O524",
+          "url": "https://github.com/92O524"
+        }
+      ],
+      "editorial": {
+        "qualityFlags": [
+          "description-unverified"
+        ],
+        "sources": [
+          "https://github.com/92O524/Campus-introduction5",
+          "https://raw.githubusercontent.com/92O524/Campus-introduction5/main/data/System.json",
+          "https://raw.githubusercontent.com/92O524/Campus-introduction5/main/data/MapInfos.json",
+          "https://raw.githubusercontent.com/92O524/Campus-introduction5/main/data/Map008.json"
+        ],
+        "status": "draft"
+      },
+      "externalLinks": [
+        {
+          "label": "GitHub — 92O524/Campus-introduction5",
+          "type": "source",
+          "url": "https://github.com/92O524/Campus-introduction5"
+        }
+      ],
+      "instances": [
+        {
+          "id": "92o524-campus-introduction5",
+          "languages": [
+            "zh-Hant"
+          ],
+          "nsfw": false,
+          "title": "校園介紹",
+          "type": "internal"
+        }
+      ],
+      "introductions": {
+        "en": {
+          "editorialStatus": "draft",
+          "overview": "An educational interactive campus tour of Ming Chi University of Technology (明志科技大學) in Taiwan, made with RPG Maker MZ as a student project. Playing as the Credit Hunter (學分獵人), you follow a guide NPC around campus — the general building, dormitories, teaching building, and the electronics department's labs — then take quizzes on course content (calculus derivatives, DC circuits, Python, embedded systems) with answers and explanations, explore the computer-science and microelectronics modules, and finish with an explanation of the junior-year internship (大三實習). The English name Campus Introduction is the author's own (see repository name); no official Japanese title exists.",
+          "summary": "An interactive campus tour of Ming Chi University of Technology: follow a guide around campus, visit the electronics department's labs, and take course quizzes with answers and explanations, ending with a junior-year internship introduction."
+        },
+        "ja": {
+          "editorialStatus": "draft",
+          "overview": "台湾の明志科技大學（明志科技大学）の教育用インタラクティブ・キャンパスツアー。RPGツクールMZ製の学生プロジェクト。プレイヤーは「學分獵人」（単位ハンター）となり、ガイドNPCとともに総合大楼、寮、教学大楼、電子系の実験室などキャンパスを巡る。微積分の微分、直流回路、Python、組み込みシステムなどの講義内容に関するクイズに答え（解答と解説付き）、資工（コンピュータサイエンス）モジュールと微電子モジュールを探索し、最後に3年次のインターンシップ（大三實習）の説明を受ける。英語名Campus Introductionは作者自身の命名（リポジトリ名参照）。公式の日本語タイトルはない。",
+          "summary": "明志科技大學のインタラクティブ・キャンパスツアー。ガイドとともにキャンパスを巡り、電子系の実験室を訪れ、講義内容のクイズに挑戦し、3年次のインターンシップ紹介で締めくくる。"
+        },
+        "zh-Hans": {
+          "editorialStatus": "draft",
+          "overview": "以 RPG Maker MZ 制作的明志科技大学（台湾新北泰山）教育互动校园导览，系学生课程作品。玩家扮演「學分獵人」，跟随向导 NPC 参观校园——综合大楼、宿舍、教学大楼与电子系实习教室、实验室；随后参加课程测验（微积分求导、直流电路计算、Python 输出、嵌入式系统等，均附答案与解析），探索资工模组与微电子模组，最后由大三实习解说收尾。英文名 Campus Introduction 为作者自取（见仓库名）；无官方日文译名。",
+          "summary": "明志科技大学的互动校园导览：跟随向导参观校园与电子系实验室，参加附答案解析的课程测验，最后了解大三实习安排。"
+        }
+      },
+      "media": {
+        "cover": "https://webrpg.org/92O524-Campus-introduction5/cover.png"
+      },
+      "originalTitle": "校園介紹",
+      "popularity": 1,
+      "schemaVersion": 1,
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "slug": "xiaoyuan-jieshao",
+      "taxonomy": {
+        "contentType": "full-game",
+        "genres": [
+          "adventure"
+        ],
+        "mechanics": [
+          "guided-tour",
+          "quiz"
+        ],
+        "themes": [
+          "educational"
+        ]
+      },
+      "translatedTitles": {
+        "en": "Campus Introduction",
+        "zh-Hans": "校园介绍"
+      }
+    },
+    "bikini-armour-explorers": {
+      "assessedAt": "2026-11-19",
+      "assessmentNote": "Steam Mixed — 68% of 154 user reviews positive (2026-11-19); commercial release by Kiralice Sha / OTAKU Plan, 2022-02-04, $15.99. Rating 6 reflects mixed reception; popularity 5.",
+      "assessmentSources": [
+        "https://store.steampowered.com/app/1738520/Bikini_Armour_Explorers/",
+        "https://github.com/kotpot197/BikiniArmor"
+      ],
+      "contentAdvisory": {
+        "nsfw": true,
+        "warnings": [
+          "explicit sexual content",
+          "nudity",
+          "non-consensual sexual content in defeat scenes",
+          "fetish content"
+        ]
+      },
+      "developers": [
+        {
+          "name": "Kiralice Sha"
+        }
+      ],
+      "editorial": {
+        "qualityFlags": [
+          "op-screen-trial-text-leftover"
+        ],
+        "sources": [
+          "https://store.steampowered.com/app/1738520/Bikini_Armour_Explorers/",
+          "https://github.com/kotpot197/BikiniArmor"
+        ],
+        "status": "draft"
+      },
+      "externalLinks": [
+        {
+          "label": "Steam",
+          "type": "store",
+          "url": "https://store.steampowered.com/app/1738520/Bikini_Armour_Explorers/"
+        },
+        {
+          "label": "GitHub source (Chinese version)",
+          "type": "source",
+          "url": "https://github.com/kotpot197/BikiniArmor"
+        }
+      ],
+      "instances": [
+        {
+          "id": "kotpot197-bikiniarmor",
+          "languages": [
+            "zh-Hans"
+          ],
+          "notes": "中文版（对白为简体中文，开关/变量名保留日文）；标题中的 ■F5：回主界面读档 为操作提示，已略去；OP 画面仍残留试玩版文案，内容实为完整版",
+          "nsfw": true,
+          "title": "比基尼铠甲探险队完整版",
+          "type": "internal"
+        }
+      ],
+      "introductions": {
+        "en": {
+          "editorialStatus": "draft",
+          "overview": "Per Steam: a classic J-RPG with beautiful graphics, minigames and multiple endings, following Pienetta with Pristia, Papuririka and Poanna. The repo data is large — 136 maps, 1,317 switches, 797 variables — including a recollection room (241 recollection slots) and multiple endings (ship, imprisonment, succubus and more). The game contains explicit sexual content: defeat triggers H scenes replayable in the recollection room, and Steam's mature-content note warns of nudity and sexually suggestive scenes not suitable for minors. Steam reviews are Mixed (68% of 154 positive). Note: the opening screen still carries leftover trial-version text although the content is the full game; flagged for verification.",
+          "summary": "Bikini Armour Explorers is a Japanese fantasy RPG by Kiralice Sha, published by OTAKU Plan: Pienetta, a weapon store's daughter, sets out on an adventure with three companions after finding an old map. This entry covers the Chinese version hosted by kotpot197."
+        },
+        "ja": {
+          "editorialStatus": "draft",
+          "overview": "Steam の紹介によれば、クラシックな J-RPG で、美しいグラフィック、ミニゲーム、マルチエンディングが特徴。ピエネッタとプリスティア、パプリリカ、ポアンナの 4 人が旅をする。リポジトリの規模は大きく、136 マップ、スイッチ 1317、変数 797 で、回想部屋（241 スロット）と複数のエンディング（船、監禁、サキュバスなど）を含む。敗北で H シーンが発生し、回想部屋で再見できるなど、明確な性的内容を含む。Steam の成熟コンテンツ注記も、裸体や性的な示唆を含むシーンがあり未成年には不適切としている。Steam レビューは Mixed（154 件中 68% が好評）。なお、オープニング画面には体験版の文言が残っているが、内容は完全版である。",
+          "summary": "『ビキニアーマー探検隊』（Bikini Armour Explorers）は Kiralice Sha 制作・OTAKU Plan 発売のファンタジーRPG。武器屋の娘ピエネッタが古地図をきっかけに 3 人の仲間と冒険に出る。本項目は kotpot197 が公開する中国語版。"
+        },
+        "zh-Hans": {
+          "editorialStatus": "draft",
+          "overview": "Steam 官方介绍：经典日式 RPG，精美画面、小游戏与多结局；主角皮涅妲（武器店之女）与普里丝缇亚、帕普莉莉卡、波安娜三位同伴同行。仓库数据规模庞大：136 张地图、1317 个开关、797 个变量，含回想房间（241 个回想槽）与多个结局（乘船、监禁、魅魔等）。本作含有明确的性内容：败北触发 H 场景，可在回想房间重温；Steam 成熟内容说明亦提示有裸露与性暗示场景，未成年人不宜。Steam 评价为 Mixed（154 篇评测中 68% 好评）。另注意：开场画面仍残留试玩版文案，内容实为完整版，属本地化残留，待核查。",
+          "summary": "《比基尼铠甲探险队》（Bikini Armour Explorers）是 Kiralice Sha 制作、OTAKU Plan 发行的日式奇幻角色扮演游戏：武器店之女皮涅妲因一张古地图，与三位同伴踏上冒险。本条目为 kotpot197 托管的中文版。"
+        }
+      },
+      "media": {
+        "cover": "https://webrpg.org/kotpot197-BikiniArmor/cover.png"
+      },
+      "originalTitle": "ビキニアーマー探検隊",
+      "popularity": 5,
+      "publishers": [
+        {
+          "name": "OTAKU Plan"
+        }
+      ],
+      "rating": 6,
+      "release": {
+        "date": "2022-02-04",
+        "originalPlatforms": [
+          "Windows"
+        ]
+      },
+      "schemaVersion": 1,
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "slug": "bikini-armour-explorers",
+      "taxonomy": {
+        "contentType": "full-game",
+        "genres": [
+          "rpg"
+        ],
+        "mechanics": [
+          "multiple-endings",
+          "recollection-room",
+          "minigames"
+        ],
+        "themes": [
+          "fantasy"
+        ]
+      },
+      "translatedTitles": {
+        "en": "Bikini Armour Explorers",
+        "zh-Hans": "比基尼铠甲探险队"
+      }
+    },
+    "jianmie-chuanshuo": {
+      "assessedAt": "2026-11-19",
+      "assessmentNote": "Web search 2026-11-19 found no coverage beyond the author's own repo (no Steam/itch/wiki/review hits for 歼灭传说); the game itself is verified substantive from its data (35 maps, full scrolling-text prologue, 30 level-100 bosses). Old 2/5 scores not carried over; rating left blank, popularity 1.",
+      "assessmentSources": [
+        "https://github.com/MrXiyi666/DestroyGame"
+      ],
+      "contentAdvisory": {
+        "nsfw": false
+      },
+      "developers": [
+        {
+          "name": "MrXiyi666"
+        }
+      ],
+      "editorial": {
+        "qualityFlags": [
+          "no-external-coverage"
+        ],
+        "sources": [
+          "https://github.com/MrXiyi666/DestroyGame"
+        ],
+        "status": "draft"
+      },
+      "externalLinks": [
+        {
+          "label": "GitHub source",
+          "type": "source",
+          "url": "https://github.com/MrXiyi666/DestroyGame"
+        }
+      ],
+      "instances": [
+        {
+          "id": "mrxiyi666-destroygame",
+          "languages": [
+            "zh-Hans"
+          ],
+          "notes": "Android 工程内嵌的 MZ 游戏（app/src/main/assets/game/）；同作者 LegendOfTheBrave 仓库含同一份游戏数据（System.json 完全相同），疑似重复托管",
+          "nsfw": false,
+          "title": "歼灭传说",
+          "type": "internal"
+        }
+      ],
+      "introductions": {
+        "en": {
+          "editorialStatus": "draft",
+          "overview": "A scrolling-text prologue sets up the world: the Demon God and the God of Light fight over the human realm, and humanity resists with spiritual power. The game has 35 maps (homestead, gathering place, spirit-arts and martial-arts academies, a world map and boss areas), 30 level-100 boss enemies (including the Goblin Chief, the Necromancer General and the Asaga chief), 50 skills, 100 weapons and 100 armor entries — the armor slots are pets (mouse, mutant Pikachu, thunderbird and more), with a pet shop — plus hunger, waterfall training and random map pickups. No public description beyond the prologue and repo data was found; story and gameplay details remain unverified.",
+          "summary": "Jianmie Chuanshuo is a Chinese-language fantasy RPG made with RPG Maker MZ by MrXiyi666, shipped inside an Android project."
+        },
+        "ja": {
+          "editorialStatus": "draft",
+          "overview": "スクロールテキストのプロローグで世界観が語られる。魔神と光明神が人間界をめぐって争い、人類は霊力で抗う。35 マップ（家園、聚集地、霊術学院、武技学院、ワールドマップとボスエリア）、レベル 100 のボス敵 30 体（ゴブリン頭領、死霊将軍、阿煞伽首領など）、スキル 50、武器 100、防具 100（防具欄はペットで、ペットショップもある）、飢餓値、滝修行、マップランダム拾得などのシステムがある。プロローグとリポジトリのデータ以外に公開情報はなく、詳細は未確認。",
+          "summary": "『歼灭传说』（Jianmie Chuanshuo）は、MrXiyi666 による RPGツクールMZ製の中国語ファンタジーRPGで、Android プロジェクトに内包されて公開されている。"
+        },
+        "zh-Hans": {
+          "editorialStatus": "draft",
+          "overview": "开场以滚动字幕交代世界观：魔神与光明神争夺人间，人类以灵力抗争。游戏共有 35 张地图（家园、聚集地、灵术学院、武技学院、世界地图及多个 Boss 区域），30 个 100 级 Boss 敌人（含哥布林头领、死灵将军、阿煞伽首领等），50 个技能、100 件武器与 100 件防具（防具栏实为宠物，如小白鼠、变异皮卡丘、雷鸟等，另有宠物店），并有饥饿值、瀑布修炼、地图随机拾取等系统。剧情与玩法细节除开场白与仓库数据外无其他公开来源，待核查。",
+          "summary": "《歼灭传说》是 MrXiyi666 以 RPG Maker MZ 制作的中文奇幻角色扮演游戏，嵌在一个 Android 工程内发布。"
+        }
+      },
+      "media": {
+        "cover": "https://webrpg.org/MrXiyi666-DestroyGame/cover.png"
+      },
+      "originalTitle": "歼灭传说",
+      "popularity": 1,
+      "release": {
+        "date": "2025-05-01",
+        "originalPlatforms": [
+          "Android",
+          "web"
+        ]
+      },
+      "schemaVersion": 1,
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "slug": "jianmie-chuanshuo",
+      "taxonomy": {
+        "contentType": "full-game",
+        "genres": [
+          "rpg"
+        ],
+        "mechanics": [
+          "hunger-system",
+          "pet-system"
+        ],
+        "themes": [
+          "fantasy"
+        ]
+      },
+      "translatedTitles": {
+        "en": "Jianmie Chuanshuo"
+      }
     }
   }
 }

@@ -797,19 +797,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/kotpot197-BikiniArmor/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg",
-        "fantasy"
-      ],
-      "languages": [
-        "zh-Hans"
-      ],
-      "nsfw": false,
+      "gameSlug": "bikini-armour-explorers",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
+      "nsfw": true,
       "reviewedAt": "2026-11-07",
-      "title": "比基尼铠甲探险队 Bikini Armour Explorers"
+      "reviewedSourceHeadSha": "c45f0abe5a43ff5fc2a0ebcb2fa7f965a0ff57b2"
     }
   },
   {
@@ -1266,18 +1258,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/cbginoshoo-Touhou_Isouhu/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg",
-        "fantasy"
-      ],
-      "languages": [
-        "ja"
-      ],
-      "nsfw": false,
+      "gameSlug": "touhou-isouhu",
       "playable": true,
-      "popularity": 3,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "nsfw": false,
+      "reviewedAt": "2026-11-07",
+      "reviewedSourceHeadSha": "7a9ffc922edc69b4f71b5e43ad5f19915f3f4a22"
     }
   },
   {
@@ -1304,18 +1289,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/YuukiOgino-ProjectTogebuTraial/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "adventure",
-        "slice-of-life"
-      ],
-      "languages": [
-        "ja"
-      ],
-      "nsfw": false,
+      "gameSlug": "tougebu-e-ikou-taikenban",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "nsfw": false,
+      "reviewedAt": "2026-11-07",
+      "reviewedSourceHeadSha": "3b6a7f194c97ed91110ac83cb18c83e7d1a8bb3a"
     },
     "lastCheckError": "The planned job produced no result; checkout, token creation, processing, or artifact upload failed.",
     "consecutiveFailures": 1,
@@ -1992,18 +1970,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/MrXiyi666-DestroyGame/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg",
-        "fantasy"
-      ],
-      "languages": [
-        "zh-Hans"
-      ],
-      "nsfw": false,
+      "gameSlug": "jianmie-chuanshuo",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "nsfw": false,
+      "reviewedAt": "2026-11-07",
+      "reviewedSourceHeadSha": "964bba6a9fc336736871433886bcb53e78357414"
     }
   },
   {
@@ -3168,19 +3139,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/kata235-MV02/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "visual-novel",
-        "drama",
-        "horror"
-      ],
-      "languages": [
-        "ja"
-      ],
-      "nsfw": false,
+      "gameSlug": "morimiya-chugakko-juuransha-jiken",
       "playable": true,
-      "popularity": 3,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "nsfw": false,
+      "reviewedAt": "2026-11-07",
+      "reviewedSourceHeadSha": "c32e67a9dd1dcb4474cf486eb1b720d5c08b4342"
     }
   },
   {
@@ -3436,18 +3399,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/tychouhaha-ZK_restaurant/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "simulation",
-        "educational"
-      ],
-      "languages": [
-        "zh-Hant"
-      ],
-      "nsfw": false,
+      "gameSlug": "shu-xue-su-shi-dian",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "nsfw": false,
+      "reviewedAt": "2026-11-07",
+      "reviewedSourceHeadSha": "d492bb64802384ac3dd1606f4003605e7ffa883f"
     }
   },
   {
@@ -3474,17 +3430,8 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/numanicloud-ImmortalFairy/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg",
-        "fantasy"
-      ],
-      "languages": [
-        "ja"
-      ],
+      "playable": false,
       "nsfw": false,
-      "playable": true,
-      "popularity": 2,
-      "rating": 5,
       "reviewedAt": "2026-11-07"
     }
   },
@@ -3944,17 +3891,8 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/realquantumcookie-WulinWaiZhuan/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg",
-        "fantasy"
-      ],
-      "languages": [
-        "zh-Hans"
-      ],
+      "playable": false,
       "nsfw": false,
-      "playable": true,
-      "popularity": 2,
-      "rating": 3,
       "reviewedAt": "2026-11-07"
     }
   },
@@ -4143,18 +4081,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/92O524-Campus-introduction5/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "adventure",
-        "educational"
-      ],
-      "languages": [
-        "zh-Hant"
-      ],
-      "nsfw": false,
+      "gameSlug": "xiaoyuan-jieshao",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "nsfw": false,
+      "reviewedAt": "2026-11-07",
+      "reviewedSourceHeadSha": "d8fb51322e04e0d97b2a967ca8c369c2e762e733"
     }
   },
   {
@@ -4782,18 +4713,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/IsekaiAgile-laboratory/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "puzzle"
-      ],
-      "languages": [
-        "ja"
-      ],
-      "nsfw": false,
+      "gameSlug": "kenkyuujo-to-jukko-no-kikai-tachi-saikou-no-kumiawase-wo-sagase",
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
+      "nsfw": false,
       "reviewedAt": "2026-11-07",
-      "title": "研究所と10個の機械たち ～最高の組み合わせを探せ！～"
+      "reviewedSourceHeadSha": "ca8d82caa78d62b0d145ac481e8683432d497d73"
     }
   },
   {
