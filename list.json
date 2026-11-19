@@ -50,19 +50,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/lishi19990812-mlsy041/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg",
-        "fantasy"
-      ],
-      "languages": [
-        "zh-Hans"
-      ],
-      "nsfw": true,
+      "gameSlug": "fei-yue-xian-xing-lu",
       "playable": true,
-      "popularity": 6,
-      "rating": 5,
+      "nsfw": true,
       "reviewedAt": "2026-11-07",
-      "title": "绯色修仙录"
+      "reviewedSourceHeadSha": "92e51f041207cd1d73178015932930131ff746d7"
     }
   },
   {
@@ -92,12 +84,9 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/katai5plate-Demoscene-2017/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "reviewedAt": "2026-11-07",
+      "nsfw": false,
       "playable": false,
-      "genres": [
-        "template"
-      ],
-      "nsfw": false
+      "reviewedAt": "2026-11-07"
     }
   },
   {
@@ -556,13 +545,8 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/tsuji-eiji-RPG_Maker/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg"
-      ],
       "nsfw": false,
       "playable": false,
-      "popularity": 2,
-      "rating": 5,
       "reviewedAt": "2026-11-07"
     }
   },
@@ -4736,16 +4720,8 @@
     "reachable": false,
     "reachabilityDetail": "https://webrpg.org/MettaSeven-Abby-Rayshine/js/rpg_objects.js responded with HTTP 503",
     "meta": {
-      "genres": [
-        "rpg"
-      ],
-      "languages": [
-        "en"
-      ],
       "nsfw": false,
       "playable": false,
-      "popularity": 2,
-      "rating": 5,
       "reviewedAt": "2026-11-07"
     }
   },
@@ -4881,17 +4857,9 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/FrostyToast37-frostytoast37.github.io/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "reviewedAt": "2026-11-07",
-      "playable": false,
-      "rating": 5,
-      "popularity": 3,
-      "genres": [
-        "rpg"
-      ],
       "nsfw": false,
-      "languages": [
-        "en"
-      ]
+      "playable": false,
+      "reviewedAt": "2026-11-07"
     }
   },
   {
@@ -5001,14 +4969,8 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/AILab-FOI-AIWorld/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg",
-        "experimental"
-      ],
       "nsfw": false,
       "playable": false,
-      "popularity": 2,
-      "rating": 5,
       "reviewedAt": "2026-11-07"
     }
   },
@@ -5107,17 +5069,8 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/KONDO-Yuuki-alteReal/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg",
-        "fantasy"
-      ],
-      "languages": [
-        "ja"
-      ],
       "nsfw": false,
       "playable": false,
-      "popularity": 2,
-      "rating": 5,
       "reviewedAt": "2026-11-07"
     }
   },
@@ -5300,14 +5253,8 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/FlamerL13-andy_is_sick_mod_conversion_public/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "adventure",
-        "horror"
-      ],
       "nsfw": false,
       "playable": false,
-      "popularity": 3,
-      "rating": 5,
       "reviewedAt": "2026-11-07"
     }
   },
@@ -5372,11 +5319,8 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/RexGit-Animated-Enemies/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "template"
-      ],
       "nsfw": false,
-      "playable": true,
+      "playable": false,
       "reviewedAt": "2026-11-07"
     }
   },
@@ -5407,9 +5351,6 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/caiofov-AnimationGenerator-Dataset-PROPOR2024/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "template"
-      ],
       "nsfw": false,
       "playable": false,
       "reviewedAt": "2026-11-07"

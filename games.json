@@ -35494,6 +35494,123 @@
         "ja": "音大生メーカー",
         "zh-Hans": "音乐生制造者"
       }
+    },
+    "fei-yue-xian-xing-lu": {
+      "aliases": {
+        "zh-Hans": [
+          "绯色修仙录",
+          "绯月修仙录",
+          "绯月修行录",
+          "绯月修仙传"
+        ]
+      },
+      "assessedAt": "2026-11-19",
+      "assessmentNote": "Steam 480 条评测仅 55% 好评（Mixed，SteamDB）；有 Steam 商店页、多个中文搬运/攻略站转载与多版本流程攻略，但无主流媒体评测，知名度限于中文成人 RPG 圈内。",
+      "assessmentSources": [
+        "https://store.steampowered.com/app/4048300/",
+        "https://steamdb.info/app/4048300/",
+        "https://www.vikacg.cc/p/637943",
+        "https://game.75gm.cn/fyxxl-147946.html"
+      ],
+      "contentAdvisory": {
+        "nsfw": true,
+        "warnings": [
+          "adult-sexual-content",
+          "nudity"
+        ]
+      },
+      "developers": [
+        {
+          "name": "月光草"
+        }
+      ],
+      "editorial": {
+        "status": "draft"
+      },
+      "externalLinks": [
+        {
+          "label": "Steam",
+          "type": "store",
+          "url": "https://store.steampowered.com/app/4048300/"
+        },
+        {
+          "label": "SteamDB",
+          "type": "other",
+          "url": "https://steamdb.info/app/4048300/"
+        },
+        {
+          "label": "Discord",
+          "type": "community",
+          "url": "https://discord.gg/RjDf75Ttd"
+        }
+      ],
+      "instances": [
+        {
+          "id": "lishi19990812-mlsy041",
+          "languages": [
+            "zh-Hans"
+          ],
+          "nsfw": true,
+          "title": "绯色修仙录",
+          "type": "internal",
+          "version": "V0.4143"
+        }
+      ],
+      "introductions": {
+        "en": {
+          "editorialStatus": "draft",
+          "summary": "A dark cultivation RPG about Shangguan Xiyue, a fallen princess of the Six Zhou Kingdoms who sets out on a path of revenge and cultivation after her kingdom falls. Players train in seclusion, break through cultivation realms, brew elixirs, and take on 30+ side quests, with 100+ adult scenes. Chinese language only."
+        },
+        "ja": {
+          "editorialStatus": "draft",
+          "summary": "亡国の公主・上官曦月となり、復讐と修仙の道を歩むダークな修仙RPG。閉関修行や境界突破、錬丹、30以上のサブクエストを進めながら、100以上のHシーンが用意されている。中国語のみ対応。"
+        },
+        "zh-Hans": {
+          "editorialStatus": "draft",
+          "summary": "黑暗宿命与情欲交织的修仙 RPG。玩家扮演六周国亡国的公主上官曦月，在国破家亡后踏上复仇与修仙的漫长旅程，在残酷的修仙界中抉择道心、力量或沉沦。游戏包含修仙境界突破、闭关修炼、炼丹、30 余种支线任务与 100 余张 H 场景，全程中文。"
+        }
+      },
+      "media": {
+        "cover": "https://webrpg.org/lishi19990812-mlsy041/cover.png"
+      },
+      "originalTitle": "緋月仙行錄",
+      "popularity": 6,
+      "publishers": [
+        {
+          "name": "Mango Party"
+        }
+      ],
+      "rating": 5,
+      "release": {
+        "date": "2026-05-01",
+        "originalPlatforms": [
+          "Windows"
+        ]
+      },
+      "schemaVersion": 1,
+      "slug": "fei-yue-xian-xing-lu",
+      "taxonomy": {
+        "contentType": "full-game",
+        "genres": [
+          "rpg",
+          "adventure"
+        ],
+        "mechanics": [
+          "cultivation",
+          "alchemy-crafting",
+          "quest-system"
+        ],
+        "themes": [
+          "fantasy",
+          "drama",
+          "romance"
+        ]
+      },
+      "translatedTitles": {
+        "en": "Feiyue",
+        "ja": "緋月仙行録",
+        "zh-Hans": "绯月仙行录"
+      }
     }
   }
 }
