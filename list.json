@@ -11495,15 +11495,9 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/ttoonnaa-DQ3Remake/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg",
-        "fantasy"
-      ],
-      "nsfw": false,
       "playable": false,
-      "popularity": 4,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "reviewedAt": "2026-11-07",
+      "nsfw": false
     }
   },
   {
@@ -11699,17 +11693,9 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/HappyFP-DreamsDestiny/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg"
-      ],
-      "languages": [
-        "en"
-      ],
-      "nsfw": false,
       "playable": false,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "reviewedAt": "2026-11-07",
+      "nsfw": false
     }
   },
   {
@@ -11871,15 +11857,9 @@
     "reachable": false,
     "reachabilityDetail": "https://webrpg.org/andrewharn-Dwellers-Empty-Path-Plus/data/MapInfos.json responded with HTTP 503",
     "meta": {
-      "genres": [
-        "rpg",
-        "horror"
-      ],
-      "nsfw": false,
       "playable": false,
-      "popularity": 7,
-      "rating": 7,
-      "reviewedAt": "2026-11-07"
+      "reviewedAt": "2026-11-07",
+      "nsfw": false
     }
   },
   {
@@ -11960,18 +11940,9 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/horke-root-EchoOfDespire/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg",
-        "fantasy"
-      ],
-      "languages": [
-        "en"
-      ],
-      "nsfw": false,
       "playable": false,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "reviewedAt": "2026-11-07",
+      "nsfw": false
     }
   },
   {
@@ -12310,11 +12281,8 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/dariusstrasel-RMMV_EngineDemo/ served an RPG Maker entry point and its startup resources",
     "meta": {
+      "playable": false,
       "reviewedAt": "2026-11-07",
-      "playable": true,
-      "genres": [
-        "template"
-      ],
       "nsfw": false
     }
   },
@@ -12597,14 +12565,9 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/katai5plate-rpgmv-game-kanban/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg"
-      ],
-      "nsfw": false,
       "playable": false,
-      "popularity": 3,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "reviewedAt": "2026-11-07",
+      "nsfw": false
     }
   },
   {
@@ -12634,15 +12597,9 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/ovate-RMMV-Skit-System/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "template"
-      ],
-      "languages": [
-        "en"
-      ],
-      "nsfw": false,
-      "playable": true,
-      "reviewedAt": "2026-11-07"
+      "playable": false,
+      "reviewedAt": "2026-11-07",
+      "nsfw": false
     }
   },
   {
@@ -12769,18 +12726,9 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/tomoshibi06-FairyMaze/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg",
-        "fantasy"
-      ],
-      "languages": [
-        "ja"
-      ],
-      "nsfw": false,
       "playable": false,
-      "popularity": 4,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "reviewedAt": "2026-11-07",
+      "nsfw": true
     }
   },
   {
@@ -13396,15 +13344,9 @@
     "reachabilityDetail": "https://webrpg.org/paisuygoda-ff5likedata/ served an RPG Maker entry point and its startup resources",
     "processedHeadSha": "460e5ae12fb7d6365a1e74d409df26b48ccaa7b2",
     "meta": {
-      "genres": [
-        "rpg",
-        "fantasy"
-      ],
-      "nsfw": false,
       "playable": false,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "reviewedAt": "2026-11-07",
+      "nsfw": false
     }
   },
   {
@@ -13539,15 +13481,9 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/sombriks-foo-bar-tales/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "template"
-      ],
-      "languages": [
-        "pt"
-      ],
-      "nsfw": false,
-      "playable": true,
-      "reviewedAt": "2026-11-07"
+      "playable": false,
+      "reviewedAt": "2026-11-07",
+      "nsfw": false
     }
   },
   {
