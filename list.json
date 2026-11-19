@@ -5825,18 +5825,9 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/GenGames-66JamSubmissions/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg",
-        "comedy"
-      ],
-      "languages": [
-        "en"
-      ],
-      "nsfw": false,
       "playable": false,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "reviewedAt": "2026-11-07",
+      "nsfw": false
     }
   },
   {
@@ -5866,14 +5857,9 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/MaxWin-Studios-balintataw/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg"
-      ],
-      "nsfw": false,
       "playable": false,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "reviewedAt": "2026-11-07",
+      "nsfw": false
     }
   },
   {
@@ -6203,14 +6189,9 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/NephiGinnett-Bijou/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg"
-      ],
-      "nsfw": false,
       "playable": false,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "reviewedAt": "2026-11-07",
+      "nsfw": true
     }
   },
   {
@@ -6240,15 +6221,9 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/salaxios-Sonar.js/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "template"
-      ],
-      "languages": [
-        "en"
-      ],
-      "nsfw": false,
-      "playable": true,
-      "reviewedAt": "2026-11-07"
+      "playable": false,
+      "reviewedAt": "2026-11-07",
+      "nsfw": false
     }
   },
   {
@@ -7670,18 +7645,9 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/AzureAlexis-AnimaSola-BB/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg",
-        "drama"
-      ],
-      "languages": [
-        "en"
-      ],
-      "nsfw": false,
       "playable": false,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "reviewedAt": "2026-11-07",
+      "nsfw": false
     }
   },
   {
@@ -7779,16 +7745,9 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/HashakGik-BulletHell-RMMV/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "template"
-      ],
-      "languages": [
-        "en",
-        "it"
-      ],
-      "nsfw": false,
-      "playable": true,
-      "reviewedAt": "2026-11-07"
+      "playable": false,
+      "reviewedAt": "2026-11-07",
+      "nsfw": false
     }
   },
   {
@@ -8215,14 +8174,9 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/GyoannZ-works/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "minigame"
-      ],
-      "nsfw": false,
       "playable": false,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "reviewedAt": "2026-11-07",
+      "nsfw": false
     }
   },
   {
@@ -8501,18 +8455,9 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/yutom3-UCI-CKI-RPGMMO/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg",
-        "educational"
-      ],
-      "languages": [
-        "en"
-      ],
-      "nsfw": false,
       "playable": false,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "reviewedAt": "2026-11-07",
+      "nsfw": false
     }
   },
   {
@@ -8540,15 +8485,9 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/AzelMe-Star-Destiny/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "template"
-      ],
-      "languages": [
-        "fr"
-      ],
-      "nsfw": false,
       "playable": false,
-      "reviewedAt": "2026-11-07"
+      "reviewedAt": "2026-11-07",
+      "nsfw": false
     }
   },
   {
@@ -8578,18 +8517,9 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/Sonata-chan-clubecaixao/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg",
-        "romance"
-      ],
-      "languages": [
-        "pt"
-      ],
-      "nsfw": false,
       "playable": false,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "reviewedAt": "2026-11-07",
+      "nsfw": false
     }
   },
   {
