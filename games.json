@@ -34920,6 +34920,580 @@
       "translatedTitles": {
         "en": "Tower of Sorcerer 2018"
       }
+    },
+    "mo-ta-mv": {
+      "assessedAt": "2026-11-19",
+      "assessmentNote": "网搜无针对本作的评测或讨论；GitHub 仓库 0 star、2 fork，2019 年创建后未更新；无口碑与传播证据，popularity 取 1，rating 留空。",
+      "assessmentSources": [
+        "https://github.com/pieworkplace/mota-mv",
+        "https://webrpg.org/pieworkplace-mota-mv/",
+        "https://zh.wikipedia.org/wiki/%E9%AD%94%E5%A1%94%E6%B8%B8%E6%88%8F"
+      ],
+      "contentAdvisory": {
+        "nsfw": false
+      },
+      "developers": [
+        {
+          "name": "pieworkplace",
+          "url": "https://github.com/pieworkplace"
+        }
+      ],
+      "editorial": {
+        "sources": [
+          "https://github.com/pieworkplace/mota-mv",
+          "https://webrpg.org/pieworkplace-mota-mv/"
+        ],
+        "status": "draft"
+      },
+      "externalLinks": [
+        {
+          "label": "GitHub 仓库",
+          "type": "source",
+          "url": "https://github.com/pieworkplace/mota-mv"
+        }
+      ],
+      "instances": [
+        {
+          "id": "pieworkplace-mota-mv",
+          "languages": [
+            "zh-Hans"
+          ],
+          "nsfw": false,
+          "title": "魔塔 MV",
+          "type": "internal"
+        }
+      ],
+      "introductions": {
+        "en": {
+          "editorialStatus": "draft",
+          "summary": "You play the hero climbing a 28-floor magic tower (floors 0–27): fixed-number battles against 66 monster types including slimes, bats and skeletons, keys and doors, gems and healing items, and tools such as the wall-breaking pickaxe, the Mind Mirror and the Feather to solve its mechanisms. A hidden floor and a side quest to collect four jeweled hoes add extra routes. There is no story campaign or final boss, and the stairs at the top loop back to lower floors."
+        },
+        "ja": {
+          "editorialStatus": "draft",
+          "summary": "勇者となり、28層の魔塔（0～27階）を登る固定数値パズルRPG。スライム、コウモリ、ガイコツなど66種のモンスターと戦い、鍵で扉を開け、宝石や回復アイテムを集めながら、破壁ツルハシ、心鏡、飛羽などの道具で仕掛けを解いていく。隠し階や宝石のクワ4本集めのサブ要素もある。ストーリーやラスボスはなく、最上階の階段は下層へループする。"
+        },
+        "zh-Hans": {
+          "editorialStatus": "draft",
+          "summary": "玩家扮演勇者，登上 28 层魔塔（0–27 层）：与史莱姆、蝙蝠、骷髅等 66 种怪物进行固定数值战斗，用钥匙开门、收集宝石与血瓶，并用破墙镐、心镜、飞羽等道具解开机关；另有隐藏楼层与集齐 4 把宝石锄头的支线。没有剧情主线与最终 Boss，登顶后楼梯会循环回低层。"
+        }
+      },
+      "media": {
+        "cover": "https://webrpg.org/pieworkplace-mota-mv/cover.png"
+      },
+      "originalTitle": "魔塔 MV",
+      "popularity": 1,
+      "schemaVersion": 1,
+      "slug": "mo-ta-mv",
+      "taxonomy": {
+        "contentType": "full-game",
+        "genres": [
+          "puzzle"
+        ],
+        "mechanics": [
+          "fixed-number-battles",
+          "tower-climbing"
+        ],
+        "themes": [
+          "fantasy"
+        ]
+      },
+      "translatedTitles": {
+        "en": "Magic Tower MV"
+      }
+    },
+    "mahou-shoujo-mio": {
+      "assessedAt": "2026-11-19",
+      "assessmentNote": "网搜无针对本作的评测或讨论；GitHub 仓库 2 star、2 fork；无口碑与传播证据，popularity 取 1，rating 留空。",
+      "assessmentSources": [
+        "https://github.com/tomoshibi06/mio",
+        "https://webrpg.org/tomoshibi06-mio/"
+      ],
+      "contentAdvisory": {
+        "nsfw": true,
+        "warnings": [
+          "fetish content: tickling and wetting themes"
+        ]
+      },
+      "developers": [
+        {
+          "name": "tomoshibi06",
+          "url": "https://github.com/tomoshibi06"
+        }
+      ],
+      "editorial": {
+        "sources": [
+          "https://github.com/tomoshibi06/mio",
+          "https://webrpg.org/tomoshibi06-mio/"
+        ],
+        "status": "draft"
+      },
+      "externalLinks": [
+        {
+          "label": "GitHub 仓库",
+          "type": "source",
+          "url": "https://github.com/tomoshibi06/mio"
+        }
+      ],
+      "instances": [
+        {
+          "id": "tomoshibi06-mio",
+          "languages": [
+            "ja"
+          ],
+          "nsfw": true,
+          "title": "魔法少女ミオ",
+          "type": "internal"
+        }
+      ],
+      "introductions": {
+        "en": {
+          "editorialStatus": "draft",
+          "summary": "A turn-based RPG starring Mio, a magical girl fighting an army of demons. Their leader Chaos discovers that tickling is strangely effective against her, and builds four boss battles around that weakness: the Tentacle Tower, the Slime Girl, the Metal Washer and the Chaos Spider. After defeating the bosses, a recollection room lets you replay each boss battle and its defeat scene."
+        },
+        "ja": {
+          "editorialStatus": "draft",
+          "summary": "魔法少女ミオが魔人軍団と戦うターン制RPG。敵の首領ケイオスは、くすぐりがミオに異常に効くことを発見し、その弱点を突く4体のボス（テンタワー、スライムガール、メタルウォッシャー、カオススパイダー）を仕向ける。ボス撃破後は回想の部屋で各ボス戦と敗北シーンを振り返ることができる。"
+        },
+        "zh-Hans": {
+          "editorialStatus": "draft",
+          "summary": "魔法少女澪与魔人军团战斗的回合制 RPG。敌方首领凯奥斯发现挠痒对澪异常有效，便围绕这一弱点设下四场 Boss 战：触手塔、史莱姆少女、金属清洗者与混沌蜘蛛。击败 Boss 后，可在回想房间重温各 Boss 战与败北场景。"
+        }
+      },
+      "media": {
+        "cover": "https://webrpg.org/tomoshibi06-mio/cover.png"
+      },
+      "originalTitle": "魔法少女ミオ",
+      "popularity": 1,
+      "schemaVersion": 1,
+      "slug": "mahou-shoujo-mio",
+      "taxonomy": {
+        "contentType": "full-game",
+        "genres": [
+          "rpg"
+        ],
+        "mechanics": [
+          "turn-based-battles"
+        ],
+        "themes": [
+          "comedy",
+          "fantasy"
+        ]
+      },
+      "translatedTitles": {
+        "en": "Magical Girl Mio",
+        "zh-Hans": "魔法少女澪"
+      }
+    },
+    "magical-girl-celesphonia": {
+      "assessedAt": "2026-11-19",
+      "assessmentNote": "Steam 3230 条评价、96% 好评（Overwhelmingly Positive，Steambase 96/100）；GameFAQs 3.83/5（9 人）、平均 46.7 小时；Steam 顶级评测称完成度高但战斗重复、剧情平淡。",
+      "assessmentSources": [
+        "https://store.steampowered.com/app/1786790/Magical_Girl_Celesphonia/",
+        "https://steambase.io/games/magical-girl-celesphonia/reviews",
+        "https://gamefaqs.gamespot.com/pc/345113-magical-girl-celesphonia/stats"
+      ],
+      "contentAdvisory": {
+        "nsfw": true,
+        "warnings": [
+          "adult content: sexual scenes, hypnosis, tentacle, defeat scenes, corruption/fallen endings"
+        ]
+      },
+      "developers": [
+        {
+          "name": "しもばしら工房"
+        }
+      ],
+      "editorial": {
+        "sources": [
+          "https://store.steampowered.com/app/1786790/Magical_Girl_Celesphonia/",
+          "https://steambase.io/games/magical-girl-celesphonia/reviews",
+          "https://github.com/NeonNoirU/mfsnclx",
+          "https://webrpg.org/Kyouka8234-Magical-Girl-Celesphonia/"
+        ],
+        "status": "draft"
+      },
+      "externalLinks": [
+        {
+          "label": "Steam 商店页",
+          "type": "store",
+          "url": "https://store.steampowered.com/app/1786790/Magical_Girl_Celesphonia/"
+        },
+        {
+          "label": "GitHub 仓库（转载）",
+          "type": "source",
+          "url": "https://github.com/NeonNoirU/mfsnclx"
+        }
+      ],
+      "instances": [
+        {
+          "id": "kyouka8234-magical-girl-celesphonia",
+          "languages": [
+            "zh-Hans"
+          ],
+          "nsfw": true,
+          "title": "魔法少女苍蓝星",
+          "type": "internal"
+        }
+      ],
+      "introductions": {
+        "en": {
+          "editorialStatus": "draft",
+          "summary": "Amane is an ordinary woman living in a big Japanese city where young women keep disappearing — kidnapped by monsters called monstrums. When they attack her one night, her magic book offers her a contract: become Magical Girl Celesphonia. She investigates monstrum appearances across the city while working, training and living her daily life, racing the enemy's growing domination. Multiple endings, with New Game+ carrying over levels and knowledge. An adult RPG with sexual scenes, hypnosis, tentacles, defeat scenes and corruption/fallen endings (the Steam release by Kagura Games is the all-ages version)."
+        },
+        "ja": {
+          "editorialStatus": "draft",
+          "summary": "日本の大都市に暮らす普通の女性・天音。少女の失踪事件の裏にはモンストルムと呼ばれる怪物の存在があった。帰り道で襲われた天音は、手にした魔導書と契約を結び、魔法少女セレスフォニアとなる。街で調査や戦闘、バイトや生活をこなしながら敵の侵攻を食い止める。マルチエンディングで、New Game+による引き継ぎプレイも可能。Hシーン、催眠、触手、敗北、堕落エンドなどを含むアダルトRPG（Steam版はKagura Gamesによる全年齢版）。"
+        },
+        "zh-Hans": {
+          "editorialStatus": "draft",
+          "summary": "天音是生活在日本大城市的普通女性，少女接连失踪的背后是被称为 monstrum 的怪物；危急之时，手中的魔导书与她订立契约，她成为魔法少女苍蓝星，在城市中调查、战斗、打工与生活，阻止敌人的侵蚀。多结局，可 New Game+ 继承重开。本作为成人向 RPG：含 H 场景、催眠、触手、战败、堕落结局等内容（Steam 版为 Kagura Games 发行的全年龄版）。"
+        }
+      },
+      "media": {
+        "cover": "https://webrpg.org/Kyouka8234-Magical-Girl-Celesphonia/cover.png"
+      },
+      "originalTitle": "魔法少女セレスフォニア",
+      "popularity": 8,
+      "publishers": [
+        {
+          "name": "Kagura Games"
+        }
+      ],
+      "rating": 8,
+      "schemaVersion": 1,
+      "slug": "magical-girl-celesphonia",
+      "taxonomy": {
+        "contentType": "full-game",
+        "genres": [
+          "rpg"
+        ],
+        "mechanics": [
+          "multiple-endings",
+          "new-game-plus",
+          "time-management",
+          "turn-based-battles"
+        ],
+        "themes": [
+          "drama",
+          "fantasy"
+        ]
+      },
+      "translatedTitles": {
+        "en": "Magical Girl Celesphonia",
+        "zh-Hans": "魔法少女苍蓝星"
+      },
+      "aliases": {
+        "zh-Hans": [
+          "魔法少女天穹法妮雅"
+        ]
+      }
+    },
+    "ma-shu-gan-qian-ren": {
+      "assessedAt": "2026-11-19",
+      "assessmentNote": "网搜未找到任何评测、讨论或商店页，仅有 GitHub 仓库（1 star）与 webrpg 镜像；无口碑证据，知名度极低。",
+      "assessmentSources": [
+        "https://github.com/whiterrabbit3672/touhou-GhostFairy-do-people",
+        "https://webrpg.org/whiterrabbit3672-touhou-ghostfairy-do-people/"
+      ],
+      "contentAdvisory": {
+        "nsfw": false
+      },
+      "developers": [
+        {
+          "name": "三无麻薯游戏工作室"
+        }
+      ],
+      "editorial": {
+        "sources": [
+          "https://github.com/whiterrabbit3672/touhou-GhostFairy-do-people",
+          "https://webrpg.org/whiterrabbit3672-touhou-ghostfairy-do-people/"
+        ],
+        "status": "draft"
+      },
+      "externalLinks": [
+        {
+          "label": "GitHub 仓库",
+          "type": "source",
+          "url": "https://github.com/whiterrabbit3672/touhou-GhostFairy-do-people"
+        }
+      ],
+      "instances": [
+        {
+          "id": "whiterrabbit3672-touhou-ghostfairy-do-people",
+          "languages": [
+            "zh-Hans"
+          ],
+          "nsfw": false,
+          "title": "麻薯干千人",
+          "type": "internal"
+        }
+      ],
+      "introductions": {
+        "en": {
+          "editorialStatus": "draft",
+          "summary": "You play as Daiyousei, a Touhou Project fan character, living in Mashu Village with friends such as Rabbit and Hyacinth. A mysterious woman searching for her son's killer draws the party into a youkai kamikakushi (spiriting-away) mystery. A comedic fan-made RPG with turn-based battles; the current v1.4 demo ends after the chocolate-pie demon drives off in a tank."
+        },
+        "ja": {
+          "editorialStatus": "draft",
+          "summary": "東方Projectの二次創作RPG。大妖精となり、兎や風信子ら仲間とともに麻薯村で暮らす中、息子を殺した犯人を探す謎の女性が現れ、妖怪の神隠しの謎に巻き込まれていく。ターン制バトルを備えたコメディ調のファンゲームで、現行の v1.4 デモ版はチョコレートパイの悪魔が戦車を運転して去るところで終了する。"
+        },
+        "zh-Hans": {
+          "editorialStatus": "draft",
+          "summary": "玩家扮演东方 Project 同人角色大妖精，与兔子、风信子等同伴生活在麻薯村；一名寻找杀子凶手的神秘女子出现，众人由此卷入妖怪神隐之谜。回合制战斗的喜剧向同人 RPG；当前为 v1.4 试玩版，流程在巧克力派恶魔开走坦克后结束。"
+        }
+      },
+      "media": {
+        "cover": "https://webrpg.org/whiterrabbit3672-touhou-GhostFairy-do-people/cover.png"
+      },
+      "originalTitle": "麻薯干千人",
+      "popularity": 1,
+      "schemaVersion": 1,
+      "slug": "ma-shu-gan-qian-ren",
+      "taxonomy": {
+        "contentType": "demo",
+        "genres": [
+          "rpg"
+        ],
+        "mechanics": [
+          "turn-based-battles"
+        ],
+        "themes": [
+          "fantasy",
+          "comedy"
+        ]
+      },
+      "translatedTitles": {
+        "en": "Touhou GhostFairy do People"
+      }
+    },
+    "guchul-jakjeon-1930": {
+      "assessedAt": "2026-11-19",
+      "assessmentNote": "网搜未找到任何评测、讨论或商店页（同名结果均为无关的 1930 年代题材作品），仅有 GitHub 仓库与 webrpg 镜像；无口碑证据，知名度极低。",
+      "assessmentSources": [
+        "https://github.com/gorani777/1930",
+        "https://webrpg.org/gorani777-1930/"
+      ],
+      "contentAdvisory": {
+        "nsfw": false
+      },
+      "editorial": {
+        "sources": [
+          "https://github.com/gorani777/1930",
+          "https://webrpg.org/gorani777-1930/"
+        ],
+        "status": "draft"
+      },
+      "externalLinks": [
+        {
+          "label": "GitHub 仓库",
+          "type": "source",
+          "url": "https://github.com/gorani777/1930"
+        }
+      ],
+      "instances": [
+        {
+          "id": "gorani777-1930",
+          "languages": [
+            "ko"
+          ],
+          "nsfw": false,
+          "title": "구출 작전 1930",
+          "type": "internal"
+        }
+      ],
+      "introductions": {
+        "en": {
+          "editorialStatus": "draft",
+          "summary": "Gyeongseong (colonial Seoul), 1930. An independence activist infiltrates a prison to rescue four Uiyeoldan independence fighters and assassinate the warden. There is no direct combat: dodge patrolling policemen — touching one ends the game — search glowing bookshelves for prisoners' keys, and rescuing the wrong person adds more people to find. Normal and hard modes; Happy and Hidden endings."
+        },
+        "ja": {
+          "editorialStatus": "draft",
+          "summary": "1930年、日本統治下の京城。独立運動家となり刑務所に潜入し、義烈団の独立闘士4人を救出し、所長を暗殺する。直接の戦闘はなく、巡査を避けながら光る本棚を探して囚人の鍵を見つけ、間違った人物を救うと救出対象が増える。ノーマル／ハードの2難易度、Happy・Hiddenの2つのエンディングがある。"
+        },
+        "zh-Hans": {
+          "editorialStatus": "draft",
+          "summary": "1930年，日据时期的京城。一名独立运动者潜入监狱，任务是救出四名义烈团独立斗士并刺杀监狱所长。没有正面战斗：躲避巡逻警察（碰到即游戏结束）、翻找发光的书架寻找囚犯钥匙，救错人会增加营救目标；有普通/困难两种难度与 Happy、Hidden 两种结局。"
+        }
+      },
+      "media": {
+        "cover": "https://webrpg.org/gorani777-1930/cover.png"
+      },
+      "originalTitle": "구출 작전 1930",
+      "popularity": 1,
+      "schemaVersion": 1,
+      "slug": "guchul-jakjeon-1930",
+      "taxonomy": {
+        "contentType": "full-game",
+        "genres": [
+          "adventure"
+        ],
+        "mechanics": [
+          "stealth",
+          "multiple-endings"
+        ],
+        "themes": [
+          "drama"
+        ]
+      },
+      "translatedTitles": {
+        "en": "Rescue Operation 1930",
+        "ja": "救出作戦1930",
+        "zh-Hans": "1930营救行动"
+      }
+    },
+    "gwinong-raipeu": {
+      "assessedAt": "2026-11-19",
+      "assessmentNote": "网搜未找到任何评测或讨论（同名结果均为无关的农场游戏，其中一篇评测的是另一款成人向英文游戏 Country Life Survival RPG，与本作无关），仅有 GitHub 仓库与 webrpg 镜像；无口碑证据，知名度极低。",
+      "assessmentSources": [
+        "https://github.com/ServerMana/Country-Life",
+        "https://webrpg.org/ServerMana-Country-Life/"
+      ],
+      "contentAdvisory": {
+        "nsfw": false
+      },
+      "editorial": {
+        "sources": [
+          "https://github.com/ServerMana/Country-Life",
+          "https://webrpg.org/ServerMana-Country-Life/"
+        ],
+        "status": "draft"
+      },
+      "externalLinks": [
+        {
+          "label": "GitHub 仓库",
+          "type": "source",
+          "url": "https://github.com/ServerMana/Country-Life"
+        }
+      ],
+      "instances": [
+        {
+          "id": "servermana-country-life",
+          "languages": [
+            "ko"
+          ],
+          "nsfw": false,
+          "title": "귀농 라이프",
+          "type": "internal"
+        }
+      ],
+      "introductions": {
+        "en": {
+          "editorialStatus": "draft",
+          "summary": "After reincarnating in another world, the protagonist settles into a farming life with a woman: plant, water and harvest wheat, barley, corn, turnips and pumpkins on a day/night and seasonal cycle, cook bread and cookies, and brew beer. An in-game note says only the farming feature is implemented so far; at the end you may choose to forget everything and fall asleep, or refuse."
+        },
+        "ja": {
+          "editorialStatus": "draft",
+          "summary": "異世界転生した主人公が、女性とともに帰農生活を送る。昼夜と季節のサイクルの中で小麦・大麦・トウモロコシ・カブ・カボチャを植えて育て、パンやクッキーを作り、ビールを醸造する。ゲーム内の注記によれば現時点では農作業機能のみ実装済み。結末では、すべてを忘れて眠りにつくか、拒むかを選ぶ。"
+        },
+        "zh-Hans": {
+          "editorialStatus": "draft",
+          "summary": "主角在异世界转生后，与一名女子一起过起归农生活：按日夜与季节种田——播种、浇水、收获小麦、大麦、玉米、芜菁与南瓜，烹饪面包曲奇、酿造啤酒。游戏内说明目前仅实现了种田功能；结尾可选择就此忘却一切沉沉睡去，或拒绝。"
+        }
+      },
+      "media": {
+        "cover": "https://webrpg.org/ServerMana-Country-Life/cover.png"
+      },
+      "originalTitle": "귀농 라이프",
+      "popularity": 1,
+      "schemaVersion": 1,
+      "slug": "gwinong-raipeu",
+      "taxonomy": {
+        "contentType": "prototype",
+        "genres": [
+          "simulation"
+        ],
+        "mechanics": [
+          "farming",
+          "day-night-cycle",
+          "cooking"
+        ],
+        "themes": [
+          "slice-of-life",
+          "fantasy"
+        ]
+      },
+      "translatedTitles": {
+        "en": "Country Life",
+        "ja": "帰農ライフ",
+        "zh-Hans": "归农生活"
+      }
+    },
+    "eumdaesaeng-meikeo": {
+      "assessedAt": "2026-11-19",
+      "assessmentNote": "网搜未找到任何评测、讨论或商店页，仅有 GitHub 个人站仓库与 webrpg 镜像；无口碑证据，知名度极低。",
+      "assessmentSources": [
+        "https://github.com/llb1026/llb1026.github.io",
+        "https://webrpg.org/llb1026-llb1026-github-io/"
+      ],
+      "contentAdvisory": {
+        "nsfw": false
+      },
+      "editorial": {
+        "sources": [
+          "https://github.com/llb1026/llb1026.github.io",
+          "https://webrpg.org/llb1026-llb1026-github-io/"
+        ],
+        "status": "draft"
+      },
+      "externalLinks": [
+        {
+          "label": "GitHub 仓库（个人站）",
+          "type": "source",
+          "url": "https://github.com/llb1026/llb1026.github.io"
+        }
+      ],
+      "instances": [
+        {
+          "id": "llb1026-llb1026-github-io",
+          "languages": [
+            "ko"
+          ],
+          "nsfw": false,
+          "title": "음대생메이커",
+          "type": "internal"
+        }
+      ],
+      "introductions": {
+        "en": {
+          "editorialStatus": "draft",
+          "summary": "After dreaming of playing Beethoven's Violin Sonata No. 5, 'Spring,' the protagonist decides to enter a music college and play in an orchestra. Practice violin, take lessons from teachers, enter competitions, and face the entrance practical exam; six endings depend on the teacher route taken and whether you succeed."
+        },
+        "ja": {
+          "editorialStatus": "draft",
+          "summary": "ベートーヴェンのヴァイオリン・ソナタ第5番「春」を夢で演奏した主人公は、音大に入学しオーケストラの舞台に立つことを決意する。日々の練習やレッスン、コンクールを重ねて実力を高め、入試実技に挑む。選んだ教師や成否によって6種類のエンディングに分岐する。"
+        },
+        "zh-Hans": {
+          "editorialStatus": "draft",
+          "summary": "主人公在梦中演奏贝多芬《春天》小提琴奏鸣曲，醒来后决心考入音乐学院、登上管弦乐团的舞台。通过日常练习、教师课程与比赛提升实力，迎接入学实技考试；按所选老师与成败走向六种不同结局。"
+        }
+      },
+      "media": {
+        "cover": "https://webrpg.org/llb1026-llb1026.github.io/cover.png"
+      },
+      "originalTitle": "음대생메이커",
+      "popularity": 1,
+      "schemaVersion": 1,
+      "slug": "eumdaesaeng-meikeo",
+      "taxonomy": {
+        "contentType": "full-game",
+        "genres": [
+          "simulation"
+        ],
+        "mechanics": [
+          "multiple-endings",
+          "stat-raising",
+          "turn-based-battles"
+        ],
+        "themes": [
+          "educational",
+          "slice-of-life"
+        ]
+      },
+      "translatedTitles": {
+        "en": "Music College Student Maker",
+        "ja": "音大生メーカー",
+        "zh-Hans": "音乐生制造者"
+      }
     }
   }
 }

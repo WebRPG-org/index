@@ -1825,16 +1825,8 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/grayblackannihilation-goldenmap/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "other"
-      ],
-      "languages": [
-        "zh-Hant"
-      ],
       "nsfw": false,
-      "playable": true,
-      "popularity": 2,
-      "rating": 5,
+      "playable": false,
       "reviewedAt": "2026-11-07"
     }
   },
@@ -2188,19 +2180,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/whiterrabbit3672-touhou-GhostFairy-do-people/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg",
-        "fantasy"
-      ],
-      "languages": [
-        "zh-Hans"
-      ],
+      "gameSlug": "ma-shu-gan-qian-ren",
       "nsfw": false,
       "playable": true,
-      "popularity": 3,
-      "rating": 5,
       "reviewedAt": "2026-11-07",
-      "title": "麻薯干！千！ ~touhou GhostFairydopeople"
+      "reviewedSourceHeadSha": "87535bdc569268f955a4d172a73717060551192b"
     }
   },
   {
@@ -2365,23 +2349,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/Kyouka8234-Magical-Girl-Celesphonia/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "aliases": [
-        "Magical Girl Celesphonia",
-        "魔法少女天穹法妮雅"
-      ],
-      "genres": [
-        "rpg",
-        "fantasy"
-      ],
-      "languages": [
-        "zh-Hans"
-      ],
+      "gameSlug": "magical-girl-celesphonia",
       "nsfw": true,
-      "originalTitle": "魔法少女 セレスフォニア",
       "playable": true,
-      "popularity": 7,
-      "rating": 7,
-      "reviewedAt": "2026-11-07"
+      "reviewedAt": "2026-11-07",
+      "reviewedSourceHeadSha": "2d567e81bd309b29e9efa51dbad5361d4d7c3296"
     }
   },
   {
@@ -2411,18 +2383,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/tomoshibi06-mio/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg",
-        "fantasy"
-      ],
-      "languages": [
-        "ja"
-      ],
-      "nsfw": false,
+      "gameSlug": "mahou-shoujo-mio",
+      "nsfw": true,
       "playable": true,
-      "popularity": 3,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "reviewedAt": "2026-11-07",
+      "reviewedSourceHeadSha": "a9f69a8f3eac3c86c93fd9320cd2cdb41fa4481d"
     }
   },
   {
@@ -2549,18 +2514,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/pieworkplace-mota-mv/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "puzzle",
-        "fantasy"
-      ],
-      "languages": [
-        "zh-Hans"
-      ],
+      "gameSlug": "mo-ta-mv",
       "nsfw": false,
       "playable": true,
-      "popularity": 3,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "reviewedAt": "2026-11-07",
+      "reviewedSourceHeadSha": "13439360b7de13c6f5a52c950e164d09ad982ccc"
     }
   },
   {
@@ -34642,17 +34600,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/gorani777-1930/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg"
-      ],
-      "languages": [
-        "ko"
-      ],
+      "gameSlug": "guchul-jakjeon-1930",
       "nsfw": false,
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-12"
+      "reviewedAt": "2026-11-12",
+      "reviewedSourceHeadSha": "0e7e0169726f6aa25d1a074ddc3f8eb3afed291f"
     }
   },
   {
@@ -34682,18 +34634,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/ServerMana-Country-Life/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "simulation",
-        "slice-of-life"
-      ],
-      "languages": [
-        "ko"
-      ],
+      "gameSlug": "gwinong-raipeu",
       "nsfw": false,
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-12"
+      "reviewedAt": "2026-11-12",
+      "reviewedSourceHeadSha": "2c10fc06ee3158666217fe4afbe824edf9a6a240"
     }
   },
   {
@@ -34761,16 +34706,8 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/GYHGwangju-Sinacs_RhythmQTE/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "minigame"
-      ],
-      "languages": [
-        "ko"
-      ],
       "nsfw": false,
-      "playable": true,
-      "popularity": 2,
-      "rating": 3,
+      "playable": false,
       "reviewedAt": "2026-11-12"
     }
   },
@@ -34801,18 +34738,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/llb1026-llb1026.github.io/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "simulation",
-        "slice-of-life"
-      ],
-      "languages": [
-        "ko"
-      ],
+      "gameSlug": "eumdaesaeng-meikeo",
       "nsfw": false,
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-12"
+      "reviewedAt": "2026-11-12",
+      "reviewedSourceHeadSha": "98a27e302631d72b2b9c8bfc6b61b4c621a54de3"
     }
   },
   {
@@ -34842,16 +34772,8 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/painh-sparrow/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg"
-      ],
-      "languages": [
-        "ko"
-      ],
       "nsfw": false,
-      "playable": true,
-      "popularity": 2,
-      "rating": 5,
+      "playable": false,
       "reviewedAt": "2026-11-12"
     }
   },
