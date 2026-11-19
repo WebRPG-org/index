@@ -19745,18 +19745,10 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/NguyenDacLiem-monad/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg",
-        "fantasy"
-      ],
-      "languages": [
-        "en"
-      ],
-      "nsfw": false,
       "playable": false,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-08"
+      "reviewedAt": "2026-11-08",
+      "nsfw": false,
+      "reviewedSourceHeadSha": "330416132b2e33d418ba07ba5c60fbd2a240e46b"
     }
   },
   {
@@ -19820,12 +19812,10 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/Synrec-Monster-Capture-MZ/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "template"
-      ],
-      "nsfw": false,
       "playable": false,
-      "reviewedAt": "2026-11-08"
+      "reviewedAt": "2026-11-08",
+      "nsfw": false,
+      "reviewedSourceHeadSha": "5d3657d83a5002bd32bb510e507f401246252581"
     }
   },
   {
@@ -19870,14 +19860,10 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/jackdarker-MoonWood/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg"
-      ],
-      "nsfw": false,
       "playable": false,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-08"
+      "reviewedAt": "2026-11-08",
+      "nsfw": true,
+      "reviewedSourceHeadSha": "452bb26747eb19bb6b70d1fc6f878972ce71298f"
     }
   },
   {
@@ -20078,12 +20064,10 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/xuyanwen2012-RMMV-Battle-System-JS/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "template"
-      ],
+      "playable": false,
+      "reviewedAt": "2026-11-08",
       "nsfw": false,
-      "playable": true,
-      "reviewedAt": "2026-11-08"
+      "reviewedSourceHeadSha": "22287bd9670806a47f7ca6ec0681f57f30b1aed4"
     }
   },
   {
@@ -20113,12 +20097,10 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/Electravirus-MV3D/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "template"
-      ],
+      "playable": false,
+      "reviewedAt": "2026-11-08",
       "nsfw": false,
-      "playable": true,
-      "reviewedAt": "2026-11-08"
+      "reviewedSourceHeadSha": "0a6cde6b7691dbd8319dec7c69ac3a0250b78e38"
     }
   },
   {
@@ -20145,12 +20127,10 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/pieworkplace-mota-mv-2/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "template"
-      ],
+      "playable": false,
+      "reviewedAt": "2026-11-08",
       "nsfw": false,
-      "playable": true,
-      "reviewedAt": "2026-11-08"
+      "reviewedSourceHeadSha": "c014c022a369ab70a8cdcc20ec4a049c66852862"
     }
   },
   {
@@ -20177,12 +20157,10 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/pieworkplace-mota-mv-template/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "template"
-      ],
-      "nsfw": false,
       "playable": false,
-      "reviewedAt": "2026-11-07"
+      "reviewedAt": "2026-11-07",
+      "nsfw": false,
+      "reviewedSourceHeadSha": "dec6d0152e10ef73527f9f3bfeb9c4ca4cc82091"
     }
   },
   {
@@ -20210,12 +20188,10 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/katai5plate-mvblackout/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "template"
-      ],
-      "nsfw": false,
       "playable": false,
-      "reviewedAt": "2026-11-08"
+      "reviewedAt": "2026-11-08",
+      "nsfw": false,
+      "reviewedSourceHeadSha": "bff19dd29cf64979af8fb413c6482bec05959658"
     }
   },
   {
@@ -20269,17 +20245,10 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/kdmmanapul-testing-lfg/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg"
-      ],
-      "languages": [
-        "ko"
-      ],
-      "nsfw": false,
       "playable": false,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "reviewedAt": "2026-11-07",
+      "nsfw": false,
+      "reviewedSourceHeadSha": "7997e4f4b9000690c3c5687a0b4b3c4c1a2abf78"
     }
   },
   {
@@ -20373,12 +20342,10 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/IceMasterT-MZ3D-Project/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "template"
-      ],
-      "nsfw": false,
       "playable": false,
-      "reviewedAt": "2026-11-08"
+      "reviewedAt": "2026-11-08",
+      "nsfw": false,
+      "reviewedSourceHeadSha": "ab46192a4d8ced9fdc9932af49daa1c3a256b43e"
     }
   },
   {
@@ -20408,12 +20375,10 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/Dai696-MZPlus/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "template"
-      ],
+      "playable": false,
+      "reviewedAt": "2026-11-08",
       "nsfw": false,
-      "playable": true,
-      "reviewedAt": "2026-11-08"
+      "reviewedSourceHeadSha": "b1a9afc1960906694f12ab5fd7739fe37f3dc3dc"
     }
   },
   {
