@@ -27901,6 +27901,19 @@
     }
   },
   {
+    "id": "cri-middleware-ssplayerforweb",
+    "title": "SampleProject",
+    "repo": "https://github.com/cri-middleware/SSPlayerForWeb",
+    "owner": "cri-middleware",
+    "name": "SSPlayerForWeb",
+    "engine": "RPG Maker MZ",
+    "status": "indexed",
+    "discoveredAt": "2026-11-18T20:00:08.263Z",
+    "source": "github-code-search",
+    "sourcePath": "examples/rmmz-example/SampleProject/index.html",
+    "plannedForkName": "cri-middleware-SSPlayerForWeb"
+  },
+  {
     "id": "spritestudio-ss6playerforweb",
     "title": "SampleProject",
     "repo": "https://github.com/SpriteStudio/SS6PlayerForWeb",
