@@ -26816,15 +26816,10 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/TheWhiteCanvas-SaintSeiya_RMMV/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg",
-        "fantasy"
-      ],
       "nsfw": false,
       "playable": false,
-      "popularity": 3,
-      "rating": 5,
-      "reviewedAt": "2026-11-08"
+      "reviewedAt": "2026-11-08",
+      "reviewedSourceHeadSha": "6f7130cbe0597d717dd89bdc280c21d323a52b23"
     }
   },
   {
@@ -26854,14 +26849,10 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/JaeGyoon-Hero-raising/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg"
-      ],
       "nsfw": false,
       "playable": false,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-08"
+      "reviewedAt": "2026-11-08",
+      "reviewedSourceHeadSha": "add2436560fa4086af2e6ca086decea88b567936"
     }
   },
   {
@@ -26921,12 +26912,10 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/LoLoSenPai-AOB/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "template"
-      ],
       "nsfw": false,
       "playable": false,
-      "reviewedAt": "2026-11-07"
+      "reviewedAt": "2026-11-07",
+      "reviewedSourceHeadSha": "7b71bb3dd2fabf12d56776db7ebe6b41bb684527"
     }
   },
   {
@@ -26956,12 +26945,10 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/takushisato-futakobusan/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "template"
-      ],
       "nsfw": false,
       "playable": false,
-      "reviewedAt": "2026-11-07"
+      "reviewedAt": "2026-11-07",
+      "reviewedSourceHeadSha": "bdac0fb24b35fc85f676f4f1128ba5bbea0cd4f9"
     }
   },
   {
@@ -27013,12 +27000,10 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/SpriteStudio-SS6PlayerForWeb/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "template"
-      ],
       "nsfw": false,
       "playable": false,
-      "reviewedAt": "2026-11-07"
+      "reviewedAt": "2026-11-07",
+      "reviewedSourceHeadSha": "934a920553694836a3fd96bef75e84e02c63feb4"
     }
   },
   {
@@ -27046,12 +27031,10 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/suppayami-yami-engine-delta/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "template"
-      ],
       "nsfw": false,
       "playable": false,
-      "reviewedAt": "2026-11-07"
+      "reviewedAt": "2026-11-07",
+      "reviewedSourceHeadSha": "73b7ef29ae019173ca32f0a0e79849fc5678f25c"
     }
   },
   {
@@ -27167,15 +27150,10 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/TarifEKhan-Scene-of-the-crime/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "adventure",
-        "mystery"
-      ],
       "nsfw": false,
       "playable": false,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-08"
+      "reviewedAt": "2026-11-08",
+      "reviewedSourceHeadSha": "d199a241708b1b663e4c50c3ba3930e5bba34c93"
     }
   },
   {
@@ -27339,15 +27317,10 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/KimHanWol-RPGMaker-ProjectSU/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "template"
-      ],
-      "languages": [
-        "ko"
-      ],
       "nsfw": false,
-      "playable": true,
-      "reviewedAt": "2026-11-12"
+      "playable": false,
+      "reviewedAt": "2026-11-12",
+      "reviewedSourceHeadSha": "16d46f00266596fc29cba53a71fb8008e322fae6"
     }
   },
   {
@@ -27411,12 +27384,10 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/zkrejcov-rmmv-plugins/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "template"
-      ],
       "nsfw": false,
-      "playable": true,
-      "reviewedAt": "2026-11-07"
+      "playable": false,
+      "reviewedAt": "2026-11-07",
+      "reviewedSourceHeadSha": "9ac4726262ab5af1eca81475f50da96a2f2a2ce9"
     }
   },
   {
@@ -27578,17 +27549,10 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/AAK581-blokkat-arabicblockchain-developer-bootcamp-graduation-project/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "adventure"
-      ],
-      "languages": [
-        "en"
-      ],
       "nsfw": false,
       "playable": false,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "reviewedAt": "2026-11-07",
+      "reviewedSourceHeadSha": "b1ae76532ac742502b023daaa1b78a92a09f656a"
     }
   },
   {
@@ -27616,17 +27580,10 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/AAK581-rpg-game-sepolia-cats/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "adventure"
-      ],
-      "languages": [
-        "en"
-      ],
       "nsfw": false,
       "playable": false,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "reviewedAt": "2026-11-07",
+      "reviewedSourceHeadSha": "1b287722340c10a585228fdb87b557884c975e3d"
     }
   },
   {
@@ -27654,17 +27611,10 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/AAK581-testnet-cats-dapp/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "adventure"
-      ],
-      "languages": [
-        "en"
-      ],
       "nsfw": false,
       "playable": false,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "reviewedAt": "2026-11-07",
+      "reviewedSourceHeadSha": "a18b4bf83ae0652cca89c5608015c24b012d48ed"
     }
   },
   {
