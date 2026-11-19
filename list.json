@@ -26168,13 +26168,8 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/johnqwq-secret-escape/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "puzzle"
-      ],
       "nsfw": false,
       "playable": false,
-      "popularity": 2,
-      "rating": 5,
       "reviewedAt": "2026-11-08"
     }
   },
@@ -26205,9 +26200,6 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/SirMcPotato-RMMV-MMO-webkit/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "template"
-      ],
       "nsfw": false,
       "playable": false,
       "reviewedAt": "2026-11-08"
@@ -26257,11 +26249,8 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/Cronus23-tenComandments/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "template"
-      ],
       "nsfw": false,
-      "playable": true,
+      "playable": false,
       "reviewedAt": "2026-11-07"
     }
   },
@@ -26292,11 +26281,8 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/kdipippo-RPG-Maker-MV-Starter-Template/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "template"
-      ],
       "nsfw": false,
-      "playable": true,
+      "playable": false,
       "reviewedAt": "2026-11-07"
     }
   },
@@ -26327,11 +26313,8 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/syberorange-dsefv/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "template"
-      ],
       "nsfw": false,
-      "playable": true,
+      "playable": false,
       "reviewedAt": "2026-11-07"
     }
   },
@@ -26362,9 +26345,6 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/Alekevin12-RMMZ-PLUS/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "template"
-      ],
       "nsfw": false,
       "playable": false,
       "reviewedAt": "2026-11-08"
@@ -26527,13 +26507,8 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/CJTan0503-RPGFantasy/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg"
-      ],
       "nsfw": false,
       "playable": false,
-      "popularity": 2,
-      "rating": 5,
       "reviewedAt": "2026-11-08"
     }
   },
@@ -26564,11 +26539,8 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/a2937-RPG-Maker-MV-Test-Template/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "template"
-      ],
       "nsfw": false,
-      "playable": true,
+      "playable": false,
       "reviewedAt": "2026-11-07"
     }
   },
@@ -26666,13 +26638,8 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/h4cander-RPGMakerH4/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg"
-      ],
       "nsfw": false,
       "playable": false,
-      "popularity": 2,
-      "rating": 5,
       "reviewedAt": "2026-11-08"
     }
   },
@@ -26701,13 +26668,8 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/peq42-RPG-Battle-Royal/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg"
-      ],
       "nsfw": false,
       "playable": false,
-      "popularity": 2,
-      "rating": 5,
       "reviewedAt": "2026-11-08"
     }
   },
@@ -26759,11 +26721,8 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/oden-RMMV/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "template"
-      ],
       "nsfw": false,
-      "playable": true,
+      "playable": false,
       "reviewedAt": "2026-11-07"
     }
   },
@@ -26791,11 +26750,8 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/hikko624-RPG_maker_MV_KC3_LT/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "template"
-      ],
       "nsfw": false,
-      "playable": true,
+      "playable": false,
       "reviewedAt": "2026-11-08"
     }
   },
