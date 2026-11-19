@@ -27678,12 +27678,10 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/ArturllVale-esarmmv/game.html served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "template"
-      ],
       "nsfw": false,
       "playable": false,
-      "reviewedAt": "2026-11-12"
+      "reviewedAt": "2026-11-12",
+      "reviewedSourceHeadSha": "f94403a9640aca184a3ddd1f799ac83863ae612f"
     }
   },
   {
@@ -27813,15 +27811,10 @@
     "processedHeadSha": "4591cce3b596246679c8f8c2b4e051228416c76a",
     "syncedFromSource": true,
     "meta": {
-      "genres": [
-        "template"
-      ],
-      "languages": [
-        "en"
-      ],
       "nsfw": false,
       "playable": false,
-      "reviewedAt": "2026-11-12"
+      "reviewedAt": "2026-11-12",
+      "reviewedSourceHeadSha": "3d1552075da32d928bf95378bcc6a49811ecda4a"
     }
   },
   {
@@ -27919,14 +27912,10 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/FF-NET-shunjiheights/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg"
-      ],
       "nsfw": false,
       "playable": false,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "reviewedAt": "2026-11-07",
+      "reviewedSourceHeadSha": "45631c328f5c24a61b64111f65ad5050b376e854"
     }
   },
   {
@@ -27956,14 +27945,10 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/FF-NET-shunjiheights2/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg"
-      ],
       "nsfw": false,
       "playable": false,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "reviewedAt": "2026-11-07",
+      "reviewedSourceHeadSha": "165cd05c3550f00814b6a78223c1b668c4de2a6f"
     }
   },
   {
@@ -27993,15 +27978,10 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/jahmezz-20minutesgamedev/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "template"
-      ],
-      "languages": [
-        "en"
-      ],
       "nsfw": false,
       "playable": false,
-      "reviewedAt": "2026-11-12"
+      "reviewedAt": "2026-11-12",
+      "reviewedSourceHeadSha": "e7f54b1f7682e7b2299956c198543661e8aa2696"
     }
   },
   {
@@ -28128,12 +28108,10 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/biud436-CefMV/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "template"
-      ],
       "nsfw": false,
       "playable": false,
-      "reviewedAt": "2026-11-12"
+      "reviewedAt": "2026-11-12",
+      "reviewedSourceHeadSha": "d1c295c922ab49fc930924b79c6c7e24d63681db"
     }
   },
   {
@@ -28163,17 +28141,10 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/overhillgames-singdemov2v12/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "aliases": [
-        "Sing"
-      ],
-      "genres": [
-        "rpg"
-      ],
       "nsfw": false,
       "playable": false,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "reviewedAt": "2026-11-07",
+      "reviewedSourceHeadSha": "2000bba92d00ae660a0159cc2c4a6cbd0d15025d"
     }
   },
   {
@@ -28565,12 +28536,10 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/FrogboyMV-Health/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "template"
-      ],
       "nsfw": false,
-      "playable": true,
-      "reviewedAt": "2026-11-12"
+      "playable": false,
+      "reviewedAt": "2026-11-12",
+      "reviewedSourceHeadSha": "517577bc8fad60744c0a7dce064588407abe53b6"
     }
   },
   {
@@ -28851,14 +28820,10 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/Zikanforum-Stir/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "other"
-      ],
       "nsfw": false,
       "playable": false,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-12"
+      "reviewedAt": "2026-11-12",
+      "reviewedSourceHeadSha": "594efc916d681982070bf508906854403a7e085e"
     }
   },
   {
@@ -28888,12 +28853,10 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/stl1988-stl1988.github.io/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "template"
-      ],
       "nsfw": false,
-      "playable": true,
-      "reviewedAt": "2026-11-07"
+      "playable": false,
+      "reviewedAt": "2026-11-07",
+      "reviewedSourceHeadSha": "867c988edac32f670cb8449b209d7bd5964ab705"
     }
   },
   {
@@ -28954,17 +28917,8 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/html-online-game-summer-memories/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "simulation",
-        "romance"
-      ],
-      "languages": [
-        "en"
-      ],
       "nsfw": true,
       "playable": false,
-      "popularity": 4,
-      "rating": 5,
       "reviewedAt": "2026-11-12"
     }
   },
