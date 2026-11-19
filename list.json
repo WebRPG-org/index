@@ -8549,15 +8549,9 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/MdderUofA-cmput250_Lab/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "template"
-      ],
-      "languages": [
-        "en"
-      ],
-      "nsfw": false,
-      "playable": true,
-      "reviewedAt": "2026-11-07"
+      "playable": false,
+      "reviewedAt": "2026-11-07",
+      "nsfw": false
     }
   },
   {
@@ -8587,16 +8581,9 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/AltinGame-CMPUT250/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "template"
-      ],
-      "languages": [
-        "en"
-      ],
-      "nsfw": false,
       "playable": false,
       "reviewedAt": "2026-11-07",
-      "title": "MIND INTO MATTER"
+      "nsfw": false
     }
   },
   {
@@ -8859,15 +8846,9 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/GullamAlmuzadid-Pengembangan_Game/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "simulation",
-        "slice-of-life"
-      ],
-      "nsfw": false,
       "playable": false,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "reviewedAt": "2026-11-07",
+      "nsfw": false
     }
   },
   {
@@ -8897,15 +8878,9 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/GullamAlmuzadid-PG_CollegeLive/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "simulation",
-        "slice-of-life"
-      ],
-      "nsfw": false,
       "playable": false,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "reviewedAt": "2026-11-07",
+      "nsfw": false
     }
   },
   {
@@ -9001,14 +8976,9 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/blairwilcox-Colosseum/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg"
-      ],
-      "nsfw": false,
       "playable": false,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "reviewedAt": "2026-11-07",
+      "nsfw": false
     }
   },
   {
@@ -9072,11 +9042,8 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/ImaginaryVillain-community_lights/ served an RPG Maker entry point and its startup resources",
     "meta": {
+      "playable": false,
       "reviewedAt": "2026-11-07",
-      "playable": true,
-      "genres": [
-        "template"
-      ],
       "nsfw": false
     }
   },
@@ -9105,11 +9072,8 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/comuns-rpgmaker-comuns-master-demo/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "reviewedAt": "2026-11-07",
       "playable": false,
-      "genres": [
-        "template"
-      ],
+      "reviewedAt": "2026-11-07",
       "nsfw": false
     }
   },
@@ -9881,14 +9845,9 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/JacotPlus-TurboPlus_Studios-RPGMaker/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg"
-      ],
-      "nsfw": false,
       "playable": false,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "reviewedAt": "2026-11-07",
+      "nsfw": false
     }
   },
   {
@@ -10847,11 +10806,8 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/furkkurt-Kurt-s-Plugins-Demo-Project/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "reviewedAt": "2026-11-07",
       "playable": false,
-      "genres": [
-        "template"
-      ],
+      "reviewedAt": "2026-11-07",
       "nsfw": false
     }
   },
@@ -10982,17 +10938,9 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/Orang9-Destiny-Project/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg"
-      ],
-      "languages": [
-        "en"
-      ],
-      "nsfw": false,
       "playable": false,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "reviewedAt": "2026-11-07",
+      "nsfw": false
     }
   },
   {
@@ -11194,16 +11142,9 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/ovate-RMMV-Dice/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "template"
-      ],
-      "languages": [
-        "en",
-        "ja"
-      ],
-      "nsfw": false,
-      "playable": true,
-      "reviewedAt": "2026-11-07"
+      "playable": false,
+      "reviewedAt": "2026-11-07",
+      "nsfw": false
     }
   },
   {
