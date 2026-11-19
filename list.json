@@ -25047,12 +25047,10 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/cafel176-EventConditionPro/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "template"
-      ],
       "nsfw": false,
-      "playable": true,
-      "reviewedAt": "2026-11-08"
+      "playable": false,
+      "reviewedAt": "2026-11-08",
+      "reviewedSourceHeadSha": "d526614af2da60f91175d1e7866680796f146527"
     }
   },
   {
@@ -25102,9 +25100,8 @@
     "meta": {
       "nsfw": false,
       "playable": false,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-08"
+      "reviewedAt": "2026-11-08",
+      "reviewedSourceHeadSha": "a00a0332f472e30372381ffd88f7148b277ac032"
     }
   },
   {
@@ -25168,12 +25165,10 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/Monroees-LaChambre/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "template"
-      ],
       "nsfw": false,
       "playable": false,
-      "reviewedAt": "2026-11-07"
+      "reviewedAt": "2026-11-07",
+      "reviewedSourceHeadSha": "43e66a964048ade84eb91219d1bd182e871faddb"
     }
   },
   {
@@ -25479,12 +25474,10 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/HashakGik-Raycasting-RMMV/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "template"
-      ],
       "nsfw": false,
-      "playable": true,
-      "reviewedAt": "2026-11-08"
+      "playable": false,
+      "reviewedAt": "2026-11-08",
+      "reviewedSourceHeadSha": "1786198c238697512e5cb096d65c7e6c79427893"
     }
   },
   {
@@ -25640,15 +25633,10 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/saintclairlima-ReachUp/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "languages": [
-        "pt"
-      ],
       "nsfw": false,
       "playable": false,
-      "popularity": 2,
-      "rating": 5,
       "reviewedAt": "2026-11-08",
-      "title": "Reaching Higher"
+      "reviewedSourceHeadSha": "69c551cc8625086d21a5bca64e219d96d3e7b49b"
     }
   },
   {
@@ -25778,12 +25766,10 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/rinne-grid-tkoolmz_plugin_RecollectionModeMZ/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "template"
-      ],
       "nsfw": false,
       "playable": false,
-      "reviewedAt": "2026-11-07"
+      "reviewedAt": "2026-11-07",
+      "reviewedSourceHeadSha": "ff92be6cf425a82f197757f25a2bbccd613032d4"
     }
   },
   {
@@ -25868,9 +25854,8 @@
     "meta": {
       "nsfw": false,
       "playable": false,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-08"
+      "reviewedAt": "2026-11-08",
+      "reviewedSourceHeadSha": "fd011692970770b3e2f4919f27fa8d6ee0baf49e"
     }
   },
   {
@@ -26004,9 +25989,8 @@
     "meta": {
       "nsfw": false,
       "playable": false,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-08"
+      "reviewedAt": "2026-11-08",
+      "reviewedSourceHeadSha": "67f3200b55c41cb6f6c04cf186ebcf1b29d11324"
     }
   },
   {
@@ -26090,9 +26074,8 @@
     "meta": {
       "nsfw": false,
       "playable": false,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-08"
+      "reviewedAt": "2026-11-08",
+      "reviewedSourceHeadSha": "010ba6240ed85a849bf18924b0ccba081d6394f8"
     }
   },
   {
@@ -26156,14 +26139,10 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/yoshikizh-rpgmaker-world/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg"
-      ],
       "nsfw": false,
       "playable": false,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-08"
+      "reviewedAt": "2026-11-08",
+      "reviewedSourceHeadSha": "c9494d969739070af9cedd2be1c0ae8714163078"
     }
   },
   {
