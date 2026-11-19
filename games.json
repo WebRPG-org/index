@@ -34105,6 +34105,821 @@
       "translatedTitles": {
         "en": "Mengmao Shiyou Qianduan Ke"
       }
+    },
+    "qing-ba-zhe-ge-dan-gao-wan-cheng": {
+      "assessedAt": "2026-11-19",
+      "assessmentNote": "网搜未找到任何评测、讨论或商店页，仅有 GitHub 转载仓库与 webrpg 镜像；无口碑证据，知名度极低。",
+      "assessmentSources": [
+        "https://github.com/tw123777tw/pdlsdyzzh",
+        "https://webrpg.org/tw123777tw-pdlsdyzzh/"
+      ],
+      "contentAdvisory": {
+        "nsfw": true,
+        "warnings": [
+          "fetish content: shrinking/giantess and crushing themes"
+        ]
+      },
+      "developers": [
+        {
+          "name": "水菌"
+        }
+      ],
+      "editorial": {
+        "sources": [
+          "https://github.com/tw123777tw/pdlsdyzzh",
+          "https://webrpg.org/tw123777tw-pdlsdyzzh/"
+        ],
+        "status": "draft"
+      },
+      "externalLinks": [
+        {
+          "label": "GitHub 仓库（转载）",
+          "type": "source",
+          "url": "https://github.com/tw123777tw/pdlsdyzzh"
+        }
+      ],
+      "instances": [
+        {
+          "id": "tw123777tw-pdlsdyzzh-9cbba636",
+          "languages": [
+            "zh-Hans"
+          ],
+          "nsfw": true,
+          "title": "请把这个蛋糕完成",
+          "type": "internal"
+        }
+      ],
+      "introductions": {
+        "en": {
+          "editorialStatus": "draft",
+          "summary": "You play as Ruo Ke'er, shrunk to the size of a bug inside the home of two girls, Eleya and Na. Dodge being stepped on or caught while trying to finish baking a cake; most mistakes end in a (usually fatal) teasing death. Multiple endings."
+        },
+        "ja": {
+          "editorialStatus": "draft",
+          "summary": "虫ほどに小さくなった若柯尔となり、少女エレヤとナーの家で生き延びながら、ケーキを完成させることを目指す。踏みつけや捕獲を避けなければならず、失敗すれば死に至る結末も多い。マルチエンディング。"
+        },
+        "zh-Hans": {
+          "editorialStatus": "draft",
+          "summary": "玩家扮演被缩小成虫子大小的若柯尔，在少女埃蕾娅与娜的家中求生：一边躲避踩踏、捕捉与各种致命陷阱，一边设法完成一个蛋糕。多结局，失败往往以被踩死等死法告终。"
+        }
+      },
+      "media": {
+        "cover": "https://webrpg.org/tw123777tw-pdlsdyzzh/cover.png"
+      },
+      "originalTitle": "请把这个蛋糕完成",
+      "popularity": 1,
+      "schemaVersion": 1,
+      "slug": "qing-ba-zhe-ge-dan-gao-wan-cheng",
+      "taxonomy": {
+        "contentType": "full-game",
+        "genres": [
+          "adventure"
+        ],
+        "mechanics": [
+          "evasion",
+          "multiple-endings"
+        ],
+        "themes": [
+          "comedy",
+          "fantasy"
+        ]
+      },
+      "translatedTitles": {
+        "en": "Finish the cake!"
+      }
+    },
+    "fu-xue-zhi-xia": {
+      "assessedAt": "2026-11-19",
+      "assessmentNote": "网搜未找到任何评测或讨论（同名结果均为无关游戏《覆雪之上》），仅有 GitHub 仓库与 webrpg 镜像；无口碑证据，知名度极低。",
+      "assessmentSources": [
+        "https://github.com/lzk716088/beneath-the-snow",
+        "https://webrpg.org/lzk716088-beneath-the-snow/"
+      ],
+      "contentAdvisory": {
+        "nsfw": false
+      },
+      "editorial": {
+        "sources": [
+          "https://github.com/lzk716088/beneath-the-snow",
+          "https://webrpg.org/lzk716088-beneath-the-snow/"
+        ],
+        "status": "draft"
+      },
+      "externalLinks": [
+        {
+          "label": "GitHub 仓库",
+          "type": "source",
+          "url": "https://github.com/lzk716088/beneath-the-snow"
+        }
+      ],
+      "instances": [
+        {
+          "id": "lzk716088-beneath-the-snow",
+          "languages": [
+            "zh-Hant"
+          ],
+          "nsfw": false,
+          "title": "覆雪之下",
+          "type": "internal"
+        }
+      ],
+      "introductions": {
+        "en": {
+          "editorialStatus": "draft",
+          "summary": "In a snowbound village, siblings Miya and Otto fight to free the spirits sealed by the Xuanguang Tianzun and restore life to the land. Otto falls in the final battle, and Miya carries his wish — and his soul stone — through to the ending."
+        },
+        "ja": {
+          "editorialStatus": "draft",
+          "summary": "雪に覆われた村で、兄妹の米雅と奧托は、玄光天尊に封印された精霊を解放し、大地に生気を取り戻すために戦う。兄は決戦で命を落とし、妹は兄の願いと魂の石を胸に結末を迎える。"
+        },
+        "zh-Hans": {
+          "editorialStatus": "draft",
+          "summary": "风雪笼罩的村庄中，兄妹米雅与奥托为解放被玄光天尊封印的精灵、恢复大地的生机而战；哥哥在与玄光天尊的决战中牺牲，妹妹带着他的心愿与灵魂石完成最后的战斗，迎来结局。"
+        }
+      },
+      "media": {
+        "cover": "https://webrpg.org/lzk716088-beneath-the-snow/cover.png"
+      },
+      "originalTitle": "覆雪之下",
+      "popularity": 1,
+      "schemaVersion": 1,
+      "slug": "fu-xue-zhi-xia",
+      "taxonomy": {
+        "contentType": "full-game",
+        "genres": [
+          "rpg"
+        ],
+        "mechanics": [
+          "turn-based-battles"
+        ],
+        "themes": [
+          "fantasy",
+          "drama"
+        ]
+      },
+      "translatedTitles": {
+        "en": "Beneath the Snow"
+      }
+    },
+    "nakamura-no-boken": {
+      "assessedAt": "2026-11-19",
+      "assessmentNote": "网搜未找到任何评测或讨论（同名结果均为声优中村悠一等人，无关），仅有 GitHub 仓库与 webrpg 镜像；无口碑证据，知名度极低。",
+      "assessmentSources": [
+        "https://github.com/shunufy/shunufy.github.io",
+        "https://webrpg.org/shunufy-shunufy.github.io/"
+      ],
+      "contentAdvisory": {
+        "nsfw": false
+      },
+      "editorial": {
+        "sources": [
+          "https://github.com/shunufy/shunufy.github.io",
+          "https://webrpg.org/shunufy-shunufy.github.io/"
+        ],
+        "status": "draft"
+      },
+      "externalLinks": [
+        {
+          "label": "GitHub 仓库",
+          "type": "source",
+          "url": "https://github.com/shunufy/shunufy.github.io"
+        }
+      ],
+      "instances": [
+        {
+          "id": "shunufy-shunufy-github-io",
+          "languages": [
+            "ja"
+          ],
+          "nsfw": false,
+          "title": "中村の冒険",
+          "type": "internal"
+        }
+      ],
+      "introductions": {
+        "en": {
+          "editorialStatus": "draft",
+          "summary": "Nakamura, a young man living in the countryside, sets out on the day of the village festival and travels with companions such as Reed and Prissia through forests, mines and labyrinths to defeat the Demon King. The dialogue is full of Kansai dialect and deadpan jokes, with post-clear challenge content."
+        },
+        "ja": {
+          "editorialStatus": "draft",
+          "summary": "田舎に住む青年・中村は、村の祭りの日に旅立ち、リードやプリシアら仲間とともに森や鉱山、迷宮を越えて魔王討伐を目指す。関西弁とシュールな掛け合いが特徴で、クリア後の挑戦要素もある。"
+        },
+        "zh-Hans": {
+          "editorialStatus": "draft",
+          "summary": "乡下青年中村在村里的祭典之日启程，与利德、普莉西亚等同伴一起穿越森林、矿山与迷宫，讨伐魔王。对话多为关西方言与冷笑话，通关后还有挑战内容。"
+        }
+      },
+      "media": {
+        "cover": "https://webrpg.org/shunufy-shunufy.github.io/cover.png"
+      },
+      "originalTitle": "中村の冒険",
+      "popularity": 1,
+      "schemaVersion": 1,
+      "slug": "nakamura-no-boken",
+      "taxonomy": {
+        "contentType": "full-game",
+        "genres": [
+          "rpg"
+        ],
+        "mechanics": [
+          "turn-based-battles",
+          "random-encounters"
+        ],
+        "themes": [
+          "fantasy",
+          "comedy"
+        ]
+      },
+      "translatedTitles": {
+        "en": "Nakamura's Adventure",
+        "zh-Hans": "中村的冒险"
+      }
+    },
+    "tensei-shitara-tenchou-datta-ken": {
+      "assessedAt": "2026-11-19",
+      "assessmentNote": "网搜未找到 Steam/itch/媒体/评测等任何外部传播证据，仅有 GitHub 源码仓库（0 星，2023-08-05 创建）与 webrpg 镜像；无口碑证据，rating 留空，popularity 记 1。",
+      "assessmentSources": [
+        "https://github.com/teritaris/tenchou",
+        "https://webrpg.org/teritaris-tenchou/"
+      ],
+      "contentAdvisory": {
+        "nsfw": false
+      },
+      "developers": [
+        {
+          "name": "teritaris",
+          "url": "https://github.com/teritaris"
+        }
+      ],
+      "editorial": {
+        "status": "draft"
+      },
+      "externalLinks": [
+        {
+          "label": "GitHub 源码 — teritaris/tenchou",
+          "type": "source",
+          "url": "https://github.com/teritaris/tenchou"
+        }
+      ],
+      "instances": [
+        {
+          "id": "teritaris-tenchou",
+          "languages": [
+            "ja"
+          ],
+          "nsfw": false,
+          "title": "転生したら店長だった件",
+          "type": "internal"
+        }
+      ],
+      "introductions": {
+        "en": {
+          "editorialStatus": "draft",
+          "summary": "A management simulation in which the protagonist, reincarnated into a fantasy world after leaving a convenience store, runs a tavern and earns SHISU coins."
+        },
+        "ja": {
+          "editorialStatus": "draft",
+          "summary": "コンビニ帰りに異世界転生し、酒場の店長になった主人公が、SHISUコインを稼ぎながら店を切り盛りする経営シミュレーション。"
+        },
+        "zh-Hans": {
+          "editorialStatus": "draft",
+          "summary": "主角在便利店结账后转生到异世界，成为一间酒馆的店长，在剑与魔法的幻想世界里靠赚取 SHISU 金币经营酒馆的模拟经营游戏。"
+        }
+      },
+      "media": {
+        "cover": "https://webrpg.org/teritaris-tenchou/cover.png"
+      },
+      "originalTitle": "転生したら店長だった件",
+      "popularity": 1,
+      "schemaVersion": 1,
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "slug": "tensei-shitara-tenchou-datta-ken",
+      "taxonomy": {
+        "contentType": "full-game",
+        "genres": [
+          "simulation"
+        ],
+        "themes": [
+          "fantasy",
+          "slice-of-life"
+        ]
+      },
+      "translatedTitles": {
+        "en": "Reincarnated as a Shopkeeper",
+        "zh-Hans": "转生后成了店长这件事"
+      }
+    },
+    "meishi-dafuweng": {
+      "assessedAt": "2026-11-19",
+      "assessmentNote": "网搜“美食大富翁”只命中无关的大富翁类手游，无本作的 Steam/itch/媒体/评测记录；仅有 GitHub 源码仓库（0 星）与 webrpg 镜像；无口碑证据，rating 留空，popularity 记 1。",
+      "assessmentSources": [
+        "https://github.com/tychouhaha/ZK-game",
+        "https://webrpg.org/tychouhaha-ZK-game/"
+      ],
+      "contentAdvisory": {
+        "nsfw": false
+      },
+      "developers": [
+        {
+          "name": "tychouhaha",
+          "url": "https://github.com/tychouhaha"
+        }
+      ],
+      "editorial": {
+        "status": "draft"
+      },
+      "externalLinks": [
+        {
+          "label": "GitHub 源码 — tychouhaha/ZK-game",
+          "type": "source",
+          "url": "https://github.com/tychouhaha/ZK-game"
+        }
+      ],
+      "instances": [
+        {
+          "id": "tychouhaha-zk-game",
+          "languages": [
+            "zh-Hant"
+          ],
+          "nsfw": false,
+          "title": "美食大富翁",
+          "type": "internal"
+        }
+      ],
+      "introductions": {
+        "en": {
+          "editorialStatus": "draft",
+          "summary": "A Taiwanese-food board game for the classroom: three teams take turns rolling dice around the board, answering quiz questions about Taiwanese snacks, triggering event squares, and managing satiety and money until a champion is crowned."
+        },
+        "ja": {
+          "editorialStatus": "draft",
+          "summary": "台湾グルメをテーマにした3チーム制のボードゲーム。サイコロを振って進み、台湾の食べ物クイズに答えたりイベントマスを引いたりしながら、満腹度とお金をやりくりして優勝を決める授業用ゲーム。"
+        },
+        "zh-Hans": {
+          "editorialStatus": "draft",
+          "summary": "三支小队轮流掷骰子走棋盘的台湾美食桌游：回答台湾小吃问答题、触发事件格，在饱足度与金钱之间周旋，最后公布冠军的课堂游戏。"
+        }
+      },
+      "media": {
+        "cover": "https://webrpg.org/tychouhaha-ZK-game/cover.png"
+      },
+      "originalTitle": "美食大富翁",
+      "popularity": 1,
+      "schemaVersion": 1,
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "slug": "meishi-dafuweng",
+      "taxonomy": {
+        "contentType": "full-game",
+        "genres": [
+          "simulation"
+        ],
+        "themes": [
+          "educational",
+          "slice-of-life"
+        ]
+      },
+      "translatedTitles": {
+        "en": "Gourmet Monopoly"
+      }
+    },
+    "xian-meng-lu-jing": {
+      "assessedAt": "2026-11-19",
+      "assessmentNote": "网搜“闲梦鹿惊”只命中无关手游，无本作的 Steam/itch/媒体/评测记录；仅有 GitHub 源码仓库（0 星）与 webrpg 镜像；无口碑证据，rating 留空，popularity 记 1。",
+      "assessmentSources": [
+        "https://github.com/Cos3915/kksalldemo",
+        "https://webrpg.org/Cos3915-kksalldemo/"
+      ],
+      "contentAdvisory": {
+        "nsfw": false
+      },
+      "developers": [
+        {
+          "name": "Cos3915",
+          "url": "https://github.com/Cos3915"
+        }
+      ],
+      "editorial": {
+        "status": "draft"
+      },
+      "externalLinks": [
+        {
+          "label": "GitHub 源码 — Cos3915/kksalldemo",
+          "type": "source",
+          "url": "https://github.com/Cos3915/kksalldemo"
+        }
+      ],
+      "instances": [
+        {
+          "id": "cos3915-kksalldemo",
+          "languages": [
+            "zh-Hans"
+          ],
+          "nsfw": false,
+          "title": "闲梦鹿惊",
+          "type": "internal"
+        }
+      ],
+      "introductions": {
+        "en": {
+          "editorialStatus": "draft",
+          "summary": "A Naruto fan RPG starring Kakashi: he wakes in a dreamlike world, sneaks and disguises with dice checks, and advances the story through the snow town and the demon castle, with fishing and dating events along the way."
+        },
+        "ja": {
+          "editorialStatus": "draft",
+          "summary": "カカシを主人公とするNARUTOファンRPG。夢のような世界で目覚めたカカシが、サイコロ判定で潜入や変装をこなし、雪の町や魔王城で物語を進める。釣りやデートイベントもある。"
+        },
+        "zh-Hans": {
+          "editorialStatus": "draft",
+          "summary": "以旗木卡卡西为主角的火影忍者同人 RPG：卡卡西在梦境般的世界中醒来，掷骰检定潜行与乔装，在雪镇、魔王城等地推进剧情，还有钓鱼、约会等事件。"
+        }
+      },
+      "media": {
+        "cover": "https://webrpg.org/Cos3915-kksalldemo/cover.png"
+      },
+      "originalTitle": "闲梦鹿惊",
+      "popularity": 1,
+      "schemaVersion": 1,
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "slug": "xian-meng-lu-jing",
+      "taxonomy": {
+        "contentType": "demo",
+        "genres": [
+          "rpg"
+        ],
+        "themes": [
+          "fantasy",
+          "mystery",
+          "romance"
+        ]
+      },
+      "translatedTitles": {
+        "en": "Xian Meng Lu Jing"
+      }
+    },
+    "fangzai-ganzidian": {
+      "assessedAt": "2026-11-19",
+      "assessmentNote": "网搜“防災柑仔店”无本作的 Steam/itch/媒体/评测记录；仅有 GitHub 源码仓库（0 星，简介 RPG Maker Game for Education）与 webrpg 镜像；无口碑证据，rating 留空，popularity 记 1。",
+      "assessmentSources": [
+        "https://github.com/cyh0521/rpg",
+        "https://webrpg.org/cyh0521-rpg/"
+      ],
+      "contentAdvisory": {
+        "nsfw": false
+      },
+      "developers": [
+        {
+          "name": "cyh0521",
+          "url": "https://github.com/cyh0521"
+        }
+      ],
+      "editorial": {
+        "status": "draft"
+      },
+      "externalLinks": [
+        {
+          "label": "GitHub 源码 — cyh0521/rpg",
+          "type": "source",
+          "url": "https://github.com/cyh0521/rpg"
+        }
+      ],
+      "instances": [
+        {
+          "id": "cyh0521-rpg-e580416c",
+          "languages": [
+            "zh-Hant"
+          ],
+          "nsfw": false,
+          "title": "防災柑仔店",
+          "type": "internal"
+        }
+      ],
+      "introductions": {
+        "en": {
+          "editorialStatus": "draft",
+          "summary": "On National Disaster Prevention Day, high-school student Lin Haoran is tasked with picking ten items for an emergency kit from the shelves of a candy store and passing the shopkeeper's inspection to earn a disaster-kit master certificate; casual and 60-second timed modes included."
+        },
+        "ja": {
+          "editorialStatus": "draft",
+          "summary": "国家防災の日、高校生の林浩然は防災の先生から課題を受ける。駄菓子店の棚から避難バッグに入れるべき10品を選び、店主のチェックに合格して「防災避難包達人証書」を手に入れる教育アドベンチャー。のんびりモードと60秒タイムアタックがある。"
+        },
+        "zh-Hans": {
+          "editorialStatus": "draft",
+          "summary": "国家防灾日当天，高中生林浩然接到防灾老师的任务：到柑仔店里从货架上挑出十样适合放进避难包的物品，通过老婆婆的检查拿到防灾避难包达人证书；分休闲与 60 秒计时两种模式的教育冒险游戏。"
+        }
+      },
+      "media": {
+        "cover": "https://webrpg.org/cyh0521-rpg/cover.png"
+      },
+      "originalTitle": "防災柑仔店",
+      "popularity": 1,
+      "schemaVersion": 1,
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "slug": "fangzai-ganzidian",
+      "taxonomy": {
+        "contentType": "full-game",
+        "genres": [
+          "adventure"
+        ],
+        "themes": [
+          "educational"
+        ]
+      },
+      "translatedTitles": {
+        "en": "Disaster Prevention Candy Store",
+        "ja": "防災駄菓子店",
+        "zh-Hans": "防灾柑仔店"
+      }
+    },
+    "aooni2016": {
+      "aliases": {
+        "en": [
+          "Ao Oni",
+          "Aoni"
+        ],
+        "ja": [
+          "青鬼"
+        ],
+        "zh-Hans": [
+          "青鬼"
+        ]
+      },
+      "assessedAt": "2026-11-19",
+      "assessmentNote": "评分针对青鬼2016（2016年12月 AndApp 浏览器版，Ver.6.23 内容加救出友人/联动追加要素）；未找到针对 2016 版的独立评测，分数依据原作口碑——系列实况播放超 5000 万、有小说/电影/动画改编；2016 版单论知名度低于原作，故 popularity 取 7 而非系列整体的 9。",
+      "assessmentSources": [
+        "https://ja.wikipedia.org/wiki/%E9%9D%92%E9%AC%BC2016",
+        "https://zh.wikipedia.org/wiki/%E9%9D%92%E9%AC%BC",
+        "https://w.atwiki.jp/aniwotawiki/pages/16942.html"
+      ],
+      "contentAdvisory": {
+        "nsfw": false
+      },
+      "developers": [
+        {
+          "name": "noprops"
+        }
+      ],
+      "editorial": {
+        "sources": [
+          "https://ja.wikipedia.org/wiki/%E9%9D%92%E9%AC%BC2016",
+          "https://zh.wikipedia.org/wiki/%E9%9D%92%E9%AC%BC",
+          "https://w.atwiki.jp/aniwotawiki/pages/16942.html"
+        ],
+        "status": "draft"
+      },
+      "externalLinks": [
+        {
+          "label": "Wikipedia (ja) — 青鬼2016",
+          "type": "wiki",
+          "url": "https://ja.wikipedia.org/wiki/%E9%9D%92%E9%AC%BC2016"
+        },
+        {
+          "label": "Wikipedia (zh) — 青鬼",
+          "type": "wiki",
+          "url": "https://zh.wikipedia.org/wiki/%E9%9D%92%E9%AC%BC"
+        }
+      ],
+      "instances": [
+        {
+          "id": "aooni2016-aooni2016-github-io",
+          "languages": [
+            "ja"
+          ],
+          "nsfw": false,
+          "title": "青鬼2016",
+          "type": "internal"
+        },
+        {
+          "id": "renrender0209-aooni",
+          "languages": [
+            "ja"
+          ],
+          "nsfw": false,
+          "title": "青鬼2016",
+          "type": "internal"
+        },
+        {
+          "id": "riyoway-aooni2016-restored",
+          "languages": [
+            "ja"
+          ],
+          "nsfw": false,
+          "title": "青鬼2016",
+          "type": "internal"
+        }
+      ],
+      "introductions": {
+        "en": {
+          "editorialStatus": "draft",
+          "summary": "A 2016 browser remake of noprops' free horror game Ao Oni, released on AndApp in December 2016. Based on version 6.23, it adds scenarios to rescue three friends and crossover content; players solve puzzles and evade the blue demon inside a mansion."
+        },
+        "ja": {
+          "editorialStatus": "draft",
+          "summary": "nopropsのフリーゲーム『青鬼』の2016年ブラウザ版リメイク。2016年12月にAndAppで公開。Ver.6.23をベースに友人3人の救出やコラボシナリオを追加。青い怪物が徘徊する洋館で謎を解き、追跡をかわして脱出を目指すホラーゲーム。"
+        },
+        "zh-Hans": {
+          "editorialStatus": "draft",
+          "summary": "《青鬼》的 2016 年浏览器重制版，2016 年 12 月在 AndApp 发布，内容以 Ver.6.23 为基础，追加了救出三位友人的剧情与联动场景。玩家在青色怪物出没的洋馆中解谜、躲避追击，设法逃脱。"
+        }
+      },
+      "media": {
+        "cover": "https://webrpg.org/Aooni2016-Aooni2016.github.io/cover.png"
+      },
+      "originalTitle": "青鬼2016",
+      "popularity": 7,
+      "rating": 7,
+      "schemaVersion": 1,
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "slug": "aooni2016",
+      "taxonomy": {
+        "contentType": "full-game",
+        "genres": [
+          "adventure",
+          "puzzle"
+        ],
+        "themes": [
+          "horror"
+        ]
+      },
+      "translatedTitles": {
+        "en": "Ao Oni 2016"
+      }
+    },
+    "magic-sword": {
+      "assessedAt": "2026-11-19",
+      "assessmentNote": "两次网搜（魔剣ルシェフリード / ルシェフリード）均无任何评测、提及或商店页，仅见 GitHub 原仓库与 fork（0 star）；无传播证据，popularity 取 1；无口碑证据，rating 留空。",
+      "assessmentSources": [
+        "https://github.com/BearCubGamer/MagicSword",
+        "https://github.com/TKLNinja/MagicSword"
+      ],
+      "contentAdvisory": {
+        "nsfw": true,
+        "warnings": [
+          "tickle fetish (くすぐり) scenes",
+          "non-consensual nudity and bondage"
+        ]
+      },
+      "developers": [
+        {
+          "name": "BearCubGamer",
+          "url": "https://github.com/BearCubGamer"
+        }
+      ],
+      "editorial": {
+        "sources": [
+          "https://github.com/BearCubGamer/MagicSword",
+          "https://github.com/TKLNinja/MagicSword"
+        ],
+        "status": "draft"
+      },
+      "externalLinks": [
+        {
+          "label": "Source repository (BearCubGamer/MagicSword)",
+          "type": "source",
+          "url": "https://github.com/BearCubGamer/MagicSword"
+        }
+      ],
+      "instances": [
+        {
+          "id": "tklninja-magicsword",
+          "languages": [
+            "ja"
+          ],
+          "nsfw": true,
+          "title": "魔剣ルシェフリード",
+          "type": "internal"
+        }
+      ],
+      "introductions": {
+        "en": {
+          "editorialStatus": "draft",
+          "summary": "A Japanese fantasy RPG made with RPG Maker MV, spanning 114 maps. The adventure travels through places such as the black city of Zenix and scorching beaches, and includes tickle-fetish scenes in which a parent and child are taken to a demon's dwelling and tormented while bound."
+        },
+        "ja": {
+          "editorialStatus": "draft",
+          "summary": "RPGツクールMV製の日本語ファンタジーRPG。全114マップ。黒の街ゼニキスや灼熱ビーチなどを巡る冒険を描き、親子が悪魔の住処へ連行され、拘束されたままくすぐりの責めを受ける場面など、くすぐりフェティッシュ要素を含む。"
+        },
+        "zh-Hans": {
+          "editorialStatus": "draft",
+          "summary": "RPG Maker MV 制作的日语幻想 RPG，全 114 张地图。冒险途经黑之街泽尼基斯、灼热海滩等地；包含亲子被带往恶魔居所、在捆绑状态下遭受挠痒折磨的くすぐり恋物场景。"
+        }
+      },
+      "media": {
+        "cover": "https://webrpg.org/TKLNinja-MagicSword/cover.png"
+      },
+      "originalTitle": "魔剣ルシェフリード",
+      "popularity": 1,
+      "schemaVersion": 1,
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "slug": "magic-sword",
+      "taxonomy": {
+        "contentType": "full-game",
+        "genres": [
+          "rpg"
+        ],
+        "themes": [
+          "fantasy"
+        ]
+      },
+      "translatedTitles": {
+        "en": "Magic Sword",
+        "zh-Hans": "魔剑鲁谢弗里德"
+      }
+    },
+    "tower-of-sorcerer-2018": {
+      "assessedAt": "2026-11-19",
+      "assessmentNote": "网搜无针对本作的评测或提及；GitHub 仓库 0 star、2 fork；维基仅介绍魔塔类型通史，非本作口碑；无传播与口碑证据，popularity 取 1，rating 留空。",
+      "assessmentSources": [
+        "https://github.com/pieworkplace/Tower-of-Sorcerer-2018",
+        "https://zh.wikipedia.org/wiki/%E9%AD%94%E5%A1%94%E6%B8%B8%E6%88%8F"
+      ],
+      "contentAdvisory": {
+        "nsfw": false
+      },
+      "developers": [
+        {
+          "name": "pieworkplace",
+          "url": "https://github.com/pieworkplace"
+        }
+      ],
+      "editorial": {
+        "sources": [
+          "https://github.com/pieworkplace/Tower-of-Sorcerer-2018",
+          "https://zh.wikipedia.org/wiki/%E9%AD%94%E5%A1%94%E6%B8%B8%E6%88%8F"
+        ],
+        "status": "draft"
+      },
+      "externalLinks": [
+        {
+          "label": "Source repository (pieworkplace/Tower-of-Sorcerer-2018)",
+          "type": "source",
+          "url": "https://github.com/pieworkplace/Tower-of-Sorcerer-2018"
+        },
+        {
+          "label": "Wikipedia (zh) — 魔塔游戏（类型通史）",
+          "type": "wiki",
+          "url": "https://zh.wikipedia.org/wiki/%E9%AD%94%E5%A1%94%E6%B8%B8%E6%88%8F"
+        }
+      ],
+      "instances": [
+        {
+          "id": "pieworkplace-tower-of-sorcerer-2018",
+          "languages": [
+            "zh-Hans"
+          ],
+          "nsfw": false,
+          "title": "魔塔 2018",
+          "type": "internal"
+        }
+      ],
+      "introductions": {
+        "en": {
+          "editorialStatus": "draft",
+          "summary": "The 2018 version of Tower of Sorcerer, a fixed-number puzzle RPG made with RPG Maker MV. The hero climbs an 8-floor tower (floors 0–7), fighting monsters, opening doors and collecting items to rescue the princess held in the tower."
+        },
+        "ja": {
+          "editorialStatus": "draft",
+          "summary": "『魔塔』の2018年版。RPG Maker MV製の固定数値パズルRPG。勇者が8層の塔（0～7階）を登り、モンスターを倒し、鍵で扉を開け、アイテムを集めて塔に囚われた姫を救出する。"
+        },
+        "zh-Hans": {
+          "editorialStatus": "draft",
+          "summary": "2018 年版《魔塔》，RPG Maker MV 制作的固定数值解谜 RPG。勇士攀登 8 层魔塔（0–7 层），击败怪物、开门取钥、收集道具，目标是救出被困塔中的公主。"
+        }
+      },
+      "media": {
+        "cover": "https://webrpg.org/pieworkplace-Tower-of-Sorcerer-2018/cover.png"
+      },
+      "originalTitle": "魔塔 2018",
+      "popularity": 1,
+      "schemaVersion": 1,
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "slug": "tower-of-sorcerer-2018",
+      "taxonomy": {
+        "contentType": "full-game",
+        "genres": [
+          "puzzle"
+        ],
+        "themes": [
+          "fantasy"
+        ]
+      },
+      "translatedTitles": {
+        "en": "Tower of Sorcerer 2018"
+      }
     }
   }
 }

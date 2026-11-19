@@ -756,21 +756,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/tw123777tw-pdlsdyzzh/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "aliases": [
-        "Finish the cake!"
-      ],
-      "genres": [
-        "visual-novel"
-      ],
-      "languages": [
-        "zh-Hans"
-      ],
-      "nsfw": false,
+      "gameSlug": "qing-ba-zhe-ge-dan-gao-wan-cheng",
+      "nsfw": true,
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
       "reviewedAt": "2026-11-07",
-      "title": "请把这个蛋糕完成"
+      "reviewedSourceHeadSha": "e31dc3633ef40d9d7d48f88edee0fc7ebee3978f"
     }
   },
   {
@@ -1357,18 +1347,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/cyh0521-rpg/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "adventure",
-        "educational"
-      ],
-      "languages": [
-        "zh-Hant"
-      ],
+      "gameSlug": "fangzai-ganzidian",
       "nsfw": false,
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "reviewedAt": "2026-11-07",
+      "reviewedSourceHeadSha": "75028318bebb6d0d1212434d7c464b61da068c2d"
     }
   },
   {
@@ -1426,18 +1409,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/lzk716088-beneath-the-snow/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg",
-        "fantasy"
-      ],
-      "languages": [
-        "zh-Hant"
-      ],
+      "gameSlug": "fu-xue-zhi-xia",
       "nsfw": false,
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "reviewedAt": "2026-11-07",
+      "reviewedSourceHeadSha": "e21a13fdcce7382affa8d4152ed68beb1723f9ba"
     }
   },
   {
@@ -2511,18 +2487,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/TKLNinja-MagicSword/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg",
-        "fantasy"
-      ],
-      "languages": [
-        "ja"
-      ],
-      "nsfw": false,
+      "gameSlug": "magic-sword",
+      "nsfw": true,
       "playable": true,
-      "popularity": 3,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "reviewedAt": "2026-11-07",
+      "reviewedSourceHeadSha": "e612d701f165fe1a9357c769e295cf6a31f56035"
     }
   },
   {
@@ -2549,18 +2518,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/pieworkplace-Tower-of-Sorcerer-2018/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "puzzle",
-        "fantasy"
-      ],
-      "languages": [
-        "zh-Hans"
-      ],
+      "gameSlug": "tower-of-sorcerer-2018",
       "nsfw": false,
       "playable": true,
-      "popularity": 3,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "reviewedAt": "2026-11-07",
+      "reviewedSourceHeadSha": "298d4b96037116ceaf6e9d6719d576451e0b9454"
     }
   },
   {
@@ -2646,19 +2608,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/shunufy-shunufy.github.io/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "adventure",
-        "slice-of-life"
-      ],
-      "languages": [
-        "ja"
-      ],
+      "gameSlug": "nakamura-no-boken",
       "nsfw": false,
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
       "reviewedAt": "2026-11-07",
-      "title": "中村の冒険"
+      "reviewedSourceHeadSha": "85d96e303c7a5e589e6e2c580d77a83cd3b5e0da"
     }
   },
   {
@@ -2713,24 +2667,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/Aooni2016-Aooni2016.github.io/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "reviewedAt": "2026-11-07",
-      "playable": true,
-      "rating": 7,
-      "popularity": 8,
-      "originalTitle": "青鬼",
-      "aliases": [
-        "ao oni",
-        "aoni"
-      ],
-      "genres": [
-        "adventure",
-        "horror",
-        "puzzle"
-      ],
+      "gameSlug": "aooni2016",
       "nsfw": false,
-      "languages": [
-        "ja"
-      ]
+      "playable": true,
+      "reviewedAt": "2026-11-07",
+      "reviewedSourceHeadSha": "bbbb66ee7cead633939708cc23069485f334fc57"
     }
   },
   {
@@ -2757,24 +2698,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/renrender0209-aooni/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "aliases": [
-        "ao oni",
-        "aoni"
-      ],
-      "genres": [
-        "adventure",
-        "horror",
-        "puzzle"
-      ],
-      "languages": [
-        "ja"
-      ],
+      "gameSlug": "aooni2016",
       "nsfw": false,
-      "originalTitle": "青鬼",
       "playable": true,
-      "popularity": 8,
-      "rating": 7,
-      "reviewedAt": "2026-11-07"
+      "reviewedAt": "2026-11-07",
+      "reviewedSourceHeadSha": "b6124d947e753cfddc8fc3c2db346c8f11288c45"
     }
   },
   {
@@ -2804,24 +2732,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/Riyoway-aooni2016-restored/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "aliases": [
-        "ao oni",
-        "aoni"
-      ],
-      "genres": [
-        "adventure",
-        "horror",
-        "puzzle"
-      ],
-      "languages": [
-        "ja"
-      ],
+      "gameSlug": "aooni2016",
       "nsfw": false,
-      "originalTitle": "青鬼",
       "playable": true,
-      "popularity": 8,
-      "rating": 7,
-      "reviewedAt": "2026-11-07"
+      "reviewedAt": "2026-11-07",
+      "reviewedSourceHeadSha": "3b3f773039bcf8b42ce0d1bb1eb87709fa093a16"
     }
   },
   {
@@ -3860,20 +3775,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/Cos3915-kksalldemo/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "reviewedAt": "2026-11-07",
-      "playable": true,
-      "rating": 5,
-      "popularity": 2,
-      "genres": [
-        "rpg",
-        "fantasy",
-        "mystery",
-        "romance"
-      ],
+      "gameSlug": "xian-meng-lu-jing",
       "nsfw": false,
-      "languages": [
-        "zh-Hans"
-      ]
+      "playable": true,
+      "reviewedAt": "2026-11-07",
+      "reviewedSourceHeadSha": "35c868ac5bbb7edb06f20699ebfbe08444632326"
     }
   },
   {
@@ -4349,18 +4255,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/tychouhaha-ZK-game/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "simulation"
-      ],
-      "languages": [
-        "zh-Hant"
-      ],
+      "gameSlug": "meishi-dafuweng",
       "nsfw": false,
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
       "reviewedAt": "2026-11-07",
-      "title": "美食大富翁"
+      "reviewedSourceHeadSha": "60cd3981389a4849933eaa3dfeee66dc3c152fb2"
     }
   },
   {
@@ -4590,18 +4489,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/teritaris-tenchou/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "simulation",
-        "fantasy"
-      ],
-      "languages": [
-        "ja"
-      ],
+      "gameSlug": "tensei-shitara-tenchou-datta-ken",
       "nsfw": false,
       "playable": true,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "reviewedAt": "2026-11-07",
+      "reviewedSourceHeadSha": "a91917531912a9eca61dc4743582e629ac13e4c6"
     }
   },
   {
