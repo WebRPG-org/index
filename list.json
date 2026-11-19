@@ -22741,12 +22741,10 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/Hectovargas-repositorioZELDA/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "template"
-      ],
-      "nsfw": false,
       "playable": false,
-      "reviewedAt": "2026-11-07"
+      "reviewedAt": "2026-11-07",
+      "nsfw": false,
+      "reviewedSourceHeadSha": "4cf83f7450e538e3419992e02194beefab042449"
     }
   },
   {
@@ -22774,14 +22772,10 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/saluji-tsot/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "adventure"
-      ],
-      "nsfw": false,
       "playable": false,
-      "popularity": 1,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "reviewedAt": "2026-11-07",
+      "nsfw": false,
+      "reviewedSourceHeadSha": "b9ef43ed903c4c7ef18c64ff0ff779bc94c59313"
     }
   },
   {
@@ -23006,17 +23000,10 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/AAK581-Polkadot-Cats-Game/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "adventure"
-      ],
-      "languages": [
-        "en"
-      ],
-      "nsfw": false,
       "playable": false,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-08"
+      "reviewedAt": "2026-11-08",
+      "nsfw": false,
+      "reviewedSourceHeadSha": "95f7ecfa3c619a3013b754a688d8e334c735b52c"
     }
   },
   {
@@ -23044,12 +23031,10 @@
     "sourceHeadSha": "ddc188b175f8f884d1c1a8472bac9b546a9f27da",
     "processedHeadSha": "f1efe219033ee8eff6e9443123513e8ef1d861fa",
     "meta": {
-      "genres": [
-        "template"
-      ],
-      "nsfw": false,
       "playable": false,
-      "reviewedAt": "2026-11-08"
+      "reviewedAt": "2026-11-08",
+      "nsfw": false,
+      "reviewedSourceHeadSha": "ddc188b175f8f884d1c1a8472bac9b546a9f27da"
     },
     "verificationDeferred": true,
     "syncedFromSource": true
@@ -23293,11 +23278,10 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/Rownowaga-rownowaga.github.io/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "nsfw": false,
       "playable": false,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-08"
+      "reviewedAt": "2026-11-08",
+      "nsfw": false,
+      "reviewedSourceHeadSha": "c1ac815fa75c5e2d35d8345c0740c0a7bd7abfc9"
     }
   },
   {
@@ -23361,18 +23345,10 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/amarillonmc-pj_Spaceship/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg"
-      ],
-      "languages": [
-        "zh-Hans",
-        "en"
-      ],
-      "nsfw": false,
       "playable": false,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-08"
+      "reviewedAt": "2026-11-08",
+      "nsfw": false,
+      "reviewedSourceHeadSha": "4c8e58b4f1c7e24f959a036aac3c6cb40417a176"
     }
   },
   {
@@ -23402,11 +23378,10 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/Beeveelutions-Project-Starmans/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "nsfw": false,
       "playable": false,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-08"
+      "reviewedAt": "2026-11-08",
+      "nsfw": false,
+      "reviewedSourceHeadSha": "d4c63fed66fc3a1c65d4ce2ba100136d947cf72a"
     }
   },
   {
@@ -23434,11 +23409,10 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/moonyoulove-Project-Tiny/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "nsfw": false,
       "playable": false,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-08"
+      "reviewedAt": "2026-11-08",
+      "nsfw": false,
+      "reviewedSourceHeadSha": "676e7e9b59d14c2b623057e5f164f36668703356"
     }
   },
   {
@@ -23500,12 +23474,10 @@
     "sourceHeadSha": "4eb6ff140cd65af80c1dbcc4898a7330fe511c9a",
     "processedHeadSha": "bba8b7b8b2af94d97dfd7ce37299590dfa3d98f9",
     "meta": {
-      "genres": [
-        "template"
-      ],
+      "playable": false,
+      "reviewedAt": "2026-11-08",
       "nsfw": false,
-      "playable": true,
-      "reviewedAt": "2026-11-08"
+      "reviewedSourceHeadSha": "4eb6ff140cd65af80c1dbcc4898a7330fe511c9a"
     },
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/gil9red-RPG-Maker-MZ-Foo/ served an RPG Maker entry point and its startup resources"
@@ -23540,12 +23512,10 @@
     "consecutiveFailures": 2,
     "lastFailedAt": "2026-11-10T17:00:55.217Z",
     "meta": {
-      "genres": [
-        "template"
-      ],
-      "nsfw": false,
       "playable": false,
-      "reviewedAt": "2026-11-07"
+      "reviewedAt": "2026-11-07",
+      "nsfw": false,
+      "reviewedSourceHeadSha": "930e86e59dce0dcc92a1d063eb7041548f7a9f9a"
     }
   },
   {
@@ -23609,12 +23579,10 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/affonsoamendola-oldprojects/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "template"
-      ],
+      "playable": false,
+      "reviewedAt": "2026-11-07",
       "nsfw": false,
-      "playable": true,
-      "reviewedAt": "2026-11-07"
+      "reviewedSourceHeadSha": "996469b2fddda324685a8bb2e17c27391e7c31ae"
     }
   },
   {
