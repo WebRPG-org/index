@@ -23709,11 +23709,8 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/blueslime0107-RPG-Maker-Html/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "template"
-      ],
       "nsfw": false,
-      "playable": true,
+      "playable": false,
       "reviewedAt": "2026-11-07"
     }
   },
@@ -23776,12 +23773,10 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/chibibaku-rmmv-webhost/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "template"
-      ],
       "nsfw": false,
-      "playable": true,
-      "reviewedAt": "2026-11-07"
+      "playable": false,
+      "reviewedAt": "2026-11-07",
+      "reviewedSourceHeadSha": "dbab18e17ed7b552052bc17de77a8d774f741f08"
     }
   },
   {
@@ -23919,12 +23914,10 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/ElDoig-Wamai/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "template"
-      ],
       "nsfw": false,
-      "playable": true,
-      "reviewedAt": "2026-11-07"
+      "playable": false,
+      "reviewedAt": "2026-11-07",
+      "reviewedSourceHeadSha": "7e7e44568067ba54fa48095f6ab02a57b1f7bcfa"
     }
   },
   {
@@ -23954,12 +23947,10 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/eslym-rmmz-cordova/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "template"
-      ],
       "nsfw": false,
-      "playable": true,
-      "reviewedAt": "2026-11-07"
+      "playable": false,
+      "reviewedAt": "2026-11-07",
+      "reviewedSourceHeadSha": "70ac8e23134ef8619f978160e0156664603579d2"
     }
   },
   {
@@ -23987,18 +23978,10 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/Fernando-Simaoo-The_Legend_of_Brick/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg",
-        "educational"
-      ],
-      "languages": [
-        "pt"
-      ],
       "nsfw": false,
       "playable": false,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "reviewedAt": "2026-11-07",
+      "reviewedSourceHeadSha": "e51600dc19e9f5cf8ededf2e386d1e36fee7d4f1"
     }
   },
   {
@@ -24094,12 +24077,10 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/gzqyl-rpgemu/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "template"
-      ],
       "nsfw": false,
-      "playable": true,
-      "reviewedAt": "2026-11-07"
+      "playable": false,
+      "reviewedAt": "2026-11-07",
+      "reviewedSourceHeadSha": "ba9c760aa453a237fdba2ac1dd3030666254e1a5"
     }
   },
   {
@@ -24129,12 +24110,10 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/gzqyl-RPGEmu-MZ/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "template"
-      ],
       "nsfw": false,
-      "playable": true,
-      "reviewedAt": "2026-11-07"
+      "playable": false,
+      "reviewedAt": "2026-11-07",
+      "reviewedSourceHeadSha": "99079d4048d1b6cf776f652a65ebd05914127e45"
     }
   },
   {
@@ -24206,12 +24185,10 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/kyubuns-rpg_maker_test/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "template"
-      ],
       "nsfw": false,
-      "playable": true,
-      "reviewedAt": "2026-11-07"
+      "playable": false,
+      "reviewedAt": "2026-11-07",
+      "reviewedSourceHeadSha": "c528c513c5a4c8fb024a2c7a4d10969f6531edf2"
     }
   },
   {
@@ -24241,12 +24218,10 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/LiveBacteria-GPTales-InteractiveNPC/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "template"
-      ],
       "nsfw": false,
-      "playable": true,
-      "reviewedAt": "2026-11-07"
+      "playable": false,
+      "reviewedAt": "2026-11-07",
+      "reviewedSourceHeadSha": "f6bc177363eef2b77208c98a470723f1d0c22a7d"
     }
   },
   {
@@ -24308,12 +24283,10 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/manaten-rpgclitest/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "template"
-      ],
       "nsfw": false,
       "playable": false,
-      "reviewedAt": "2026-11-07"
+      "reviewedAt": "2026-11-07",
+      "reviewedSourceHeadSha": "d9f59b3244f89383f433ca24112192c8895d07a8"
     }
   },
   {
