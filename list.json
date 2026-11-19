@@ -18764,12 +18764,10 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/XMandarava-Plugins4RMMV/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "template"
-      ],
-      "nsfw": false,
       "playable": false,
-      "reviewedAt": "2026-11-07"
+      "reviewedAt": "2026-11-07",
+      "nsfw": false,
+      "reviewedSourceHeadSha": "c5909adbf237441da520122e975e4ce17d40727f"
     }
   },
   {
@@ -18872,12 +18870,10 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/watchmedash-mojazer/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "template"
-      ],
+      "playable": false,
+      "reviewedAt": "2026-11-08",
       "nsfw": false,
-      "playable": true,
-      "reviewedAt": "2026-11-08"
+      "reviewedSourceHeadSha": "ba02dc75328b629de6a7a6d9052793468440bedc"
     }
   },
   {
@@ -19243,12 +19239,10 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/REALmyenemy-MEMZ_InstanceActors/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "template"
-      ],
+      "playable": false,
+      "reviewedAt": "2026-11-07",
       "nsfw": false,
-      "playable": true,
-      "reviewedAt": "2026-11-07"
+      "reviewedSourceHeadSha": "f12e08b48d8b27b219d8b3b604c512d1d5391a87"
     }
   },
   {
@@ -19308,14 +19302,10 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/SaiguruNagula-ik5/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg"
-      ],
-      "nsfw": false,
       "playable": false,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-08"
+      "reviewedAt": "2026-11-08",
+      "nsfw": false,
+      "reviewedSourceHeadSha": "d192886d29ad9a17fc7ed10daa0250ae10e7a331"
     }
   },
   {
@@ -19343,15 +19333,10 @@
     "processedHeadSha": "032cb5a68eb6c5a57945bb3c3157d933c5fdfa46",
     "coverPath": "cover.png",
     "meta": {
-      "genres": [
-        "rpg",
-        "sci-fi"
-      ],
-      "nsfw": false,
       "playable": false,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-08"
+      "reviewedAt": "2026-11-08",
+      "nsfw": false,
+      "reviewedSourceHeadSha": "acf0bdb5d816ad2e19dd560d184cb74e970d63fc"
     },
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/JefroB-MegaEarth2049/ served an RPG Maker entry point and its startup resources"
@@ -19541,12 +19526,10 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/m2wasabi-milkcocoa-adv-20151203/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "template"
-      ],
+      "playable": false,
+      "reviewedAt": "2026-11-08",
       "nsfw": false,
-      "playable": true,
-      "reviewedAt": "2026-11-08"
+      "reviewedSourceHeadSha": "3623fc55cabcaf17d872350ab2b9d01d2aaa60d2"
     }
   },
   {
@@ -19633,12 +19616,10 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/clone1018-mv-mmo-test/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "template"
-      ],
+      "playable": false,
+      "reviewedAt": "2026-11-07",
       "nsfw": false,
-      "playable": true,
-      "reviewedAt": "2026-11-07"
+      "reviewedSourceHeadSha": "fb79983db77bed254cfcb11e3ad183550bdf7ec1"
     }
   },
   {
@@ -19668,12 +19649,10 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/RPGCosmos-Example-MMO/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "template"
-      ],
+      "playable": false,
+      "reviewedAt": "2026-11-08",
       "nsfw": false,
-      "playable": true,
-      "reviewedAt": "2026-11-08"
+      "reviewedSourceHeadSha": "07828424284328691ac1a2cbd43d24310e0bc4ad"
     }
   },
   {
@@ -19703,12 +19682,10 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/jpmendezf-MY-MMORPG/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "template"
-      ],
-      "nsfw": false,
       "playable": false,
-      "reviewedAt": "2026-11-08"
+      "reviewedAt": "2026-11-08",
+      "nsfw": false,
+      "reviewedSourceHeadSha": "7ed34b0a62ba5f9b4037b34668883ac61a7eb174"
     }
   },
   {
@@ -19735,12 +19712,10 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/kyubuns-MMOM/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "template"
-      ],
-      "nsfw": false,
       "playable": false,
-      "reviewedAt": "2026-11-08"
+      "reviewedAt": "2026-11-08",
+      "nsfw": false,
+      "reviewedSourceHeadSha": "50d53a3c3936bb1d55fc42bffb29589927495ed3"
     }
   },
   {
