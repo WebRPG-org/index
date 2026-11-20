@@ -7238,6 +7238,19 @@
     "invalidReason": "Repository has 2766 HTML files, exceeding the 500 file limit."
   },
   {
+    "id": "whoisgannix-games-gannix",
+    "title": "BLOODMONEY!",
+    "repo": "https://github.com/whoisgannix/games-gannix",
+    "owner": "whoisgannix",
+    "name": "games-gannix",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "discoveredAt": "2026-11-20T19:38:32.775Z",
+    "source": "github-code-search",
+    "sourcePath": "clbloodmoney.html",
+    "plannedForkName": "whoisgannix-games-gannix"
+  },
+  {
     "id": "whosrogo-kronos-v1",
     "title": "BLOODMONEY!",
     "repo": "https://github.com/whosrogo/Kronos-V1",
