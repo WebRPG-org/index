@@ -2018,15 +2018,10 @@
     "verificationDeferred": true,
     "syncedFromSource": true,
     "meta": {
-      "genres": [
-        "rpg",
-        "fantasy"
-      ],
       "nsfw": false,
       "playable": false,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "reviewedAt": "2026-11-07",
+      "reviewedSourceHeadSha": "123e64685c3c90c7e4f6844accab21b82b155309"
     }
   },
   {
@@ -2323,15 +2318,10 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/kinami0331-mh2023-archived/mota.html served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "puzzle",
-        "fantasy"
-      ],
       "nsfw": false,
       "playable": false,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "reviewedAt": "2026-11-07",
+      "reviewedSourceHeadSha": "865f14602f33c1be5af1893e51cc5c65ff860b93"
     }
   },
   {
@@ -33646,17 +33636,10 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/Ciart-KnightDream-Old/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg"
-      ],
-      "languages": [
-        "ko"
-      ],
       "nsfw": false,
       "playable": false,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-12"
+      "reviewedAt": "2026-11-12",
+      "reviewedSourceHeadSha": "a9dc2f325d957e015be2e799af1d692e133df2ce"
     }
   },
   {
@@ -33784,9 +33767,8 @@
     "meta": {
       "nsfw": false,
       "playable": false,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-12"
+      "reviewedAt": "2026-11-12",
+      "reviewedSourceHeadSha": "159ec9a1e1d4363c92417f1b0b2da423288ee691"
     }
   },
   {
