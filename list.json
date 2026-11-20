@@ -4224,23 +4224,10 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/blacktunes-hiiro-rpg/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "aliases": [
-        "hiiro",
-        "梦樱高校"
-      ],
-      "genres": [
-        "rpg",
-        "slice-of-life"
-      ],
-      "languages": [
-        "en",
-        "zh-Hans"
-      ],
       "nsfw": false,
       "playable": false,
-      "popularity": 5,
-      "rating": 6,
-      "reviewedAt": "2026-11-07"
+      "reviewedAt": "2026-11-07",
+      "reviewedSourceHeadSha": "80dccaec3e1dc7d6ce318088dd6ee2e0facbb604"
     }
   },
   {
@@ -34226,14 +34213,10 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/watatarutaru-Kochobus/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg"
-      ],
-      "nsfw": false,
+      "nsfw": true,
       "playable": false,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-12"
+      "reviewedAt": "2026-11-12",
+      "reviewedSourceHeadSha": "e3e29d180620bdd84eaa85e9c115bb41988e1265"
     }
   },
   {
@@ -34260,12 +34243,10 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/triacontane-NovelGameSample/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "template"
-      ],
       "nsfw": false,
-      "playable": true,
-      "reviewedAt": "2026-11-07"
+      "playable": false,
+      "reviewedAt": "2026-11-07",
+      "reviewedSourceHeadSha": "44214fb8f093b1f44d225777a4a7342053042b4d"
     }
   },
   {
@@ -34406,12 +34387,10 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/munokura-DQ-like-Sample-MZ/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "template"
-      ],
       "nsfw": false,
       "playable": false,
-      "reviewedAt": "2026-11-07"
+      "reviewedAt": "2026-11-07",
+      "reviewedSourceHeadSha": "0e60bc95f89caad301af22bd70e294aa2383c6c0"
     }
   },
   {
@@ -34436,12 +34415,10 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/munokura-DQ-like-Sample-MV/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "template"
-      ],
       "nsfw": false,
-      "playable": true,
-      "reviewedAt": "2026-11-07"
+      "playable": false,
+      "reviewedAt": "2026-11-07",
+      "reviewedSourceHeadSha": "5742c526c13cc28fa4209b3d53cc77a92afe9f2a"
     }
   },
   {
@@ -34597,12 +34574,10 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/AlecYawata-TkoolMV_PluginCommandBook/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "template"
-      ],
       "nsfw": false,
-      "playable": true,
-      "reviewedAt": "2026-11-07"
+      "playable": false,
+      "reviewedAt": "2026-11-07",
+      "reviewedSourceHeadSha": "b4333fde6f2ea64d22b7de2f4b1f10fdad6876df"
     }
   },
   {
@@ -34629,12 +34604,10 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/krmbn0576-rpgmakermv/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "template"
-      ],
       "nsfw": false,
-      "playable": true,
-      "reviewedAt": "2026-11-07"
+      "playable": false,
+      "reviewedAt": "2026-11-07",
+      "reviewedSourceHeadSha": "6b952ac8f282ee93cfa23a8b096436720a6ec6ba"
     }
   },
   {
@@ -34709,14 +34682,10 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/katai5plate-rpgmv_overflow/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg"
-      ],
       "nsfw": false,
       "playable": false,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-12"
+      "reviewedAt": "2026-11-12",
+      "reviewedSourceHeadSha": "ddd60b93da50f5c8beb01e87153259f894df9b27"
     }
   },
   {
@@ -34770,12 +34739,10 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/triacontane-LoadingTest/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "template"
-      ],
       "nsfw": false,
-      "playable": true,
-      "reviewedAt": "2026-11-12"
+      "playable": false,
+      "reviewedAt": "2026-11-12",
+      "reviewedSourceHeadSha": "c0d681eb12bdb5b4feee7fd6d8f117634892790e"
     }
   },
   {
@@ -34917,14 +34884,10 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/irebachan-page/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg"
-      ],
       "nsfw": false,
       "playable": false,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-12"
+      "reviewedAt": "2026-11-12",
+      "reviewedSourceHeadSha": "d25b8331ff61df833f2f0210e52032773fa6a093"
     }
   }
 ]
