@@ -35685,6 +35685,78 @@
           "fantasy"
         ]
       }
+    },
+    "urrezko-kaiola-terminal-1": {
+      "assessedAt": "2026-11-20",
+      "assessmentNote": "No external traces (0 stars, no Steam/itch/media); verified from game data at sourceHeadSha: 10 maps / 354 events / 243 dialogue lines, chapter Boss (Clone Monster) and '{{{End of Chapter}}}' text, Phone common event, four protagonist routes in-repo (this entry is the Aintzane route); old genres [template] was a mislabel — no 'template' string anywhere in game data, repo description is 'Chapter One.'; reclassified from slim-only to migrate in Batch 69. nsfw false — only keyword hit is 'rape' as a substring of 'Grape Juice'.",
+      "assessmentSources": [
+        "https://github.com/UrrezkoKaiola/terminal1",
+        "https://webrpg.org/UrrezkoKaiola-terminal1/"
+      ],
+      "contentAdvisory": {
+        "nsfw": false
+      },
+      "developers": [
+        {
+          "name": "Urrezko Kaiola",
+          "url": "https://github.com/UrrezkoKaiola"
+        }
+      ],
+      "editorial": {
+        "qualityFlags": [
+          "description-unverified"
+        ],
+        "sources": [
+          "https://github.com/UrrezkoKaiola/terminal1",
+          "https://webrpg.org/UrrezkoKaiola-terminal1/"
+        ],
+        "status": "draft"
+      },
+      "instances": [
+        {
+          "id": "urrezkokaiola-terminal1",
+          "languages": [
+            "en"
+          ],
+          "nsfw": false,
+          "title": "Urrezko-Kaiola-Terminal-1",
+          "type": "internal"
+        }
+      ],
+      "introductions": {
+        "en": {
+          "editorialStatus": "draft",
+          "summary": "A story-driven RPG chapter one: four protagonists each have their own route (this entry is the Aintzane route), travelling from the terminal through the VoidPath, forests and waterways to a cave, defeating the Clone Monster to reach the chapter ending; a phone system and meta-narrative jokes run throughout. 10 maps, 354 events."
+        },
+        "ja": {
+          "editorialStatus": "draft",
+          "summary": "物語主導の RPG 第 1 章。4 人の主人公それぞれにルートがあり（本エントリは Aintzane ルート）、ターミナルからヴォイドパスを抜け、森や水路を経て洞窟へ向かい、クローンモンスターを倒して章の結末を迎える。電話システムとメタ的なユーモアが特徴。10 マップ・354 イベント。"
+        },
+        "zh-Hans": {
+          "editorialStatus": "draft",
+          "summary": "剧情主导的 RPG 第一章：四位主角各有自己的路线（本条目为 Aintzane 路线），从终端出发，穿过虚空小径、森林与水道，抵达洞窟击败克隆怪物，迎来章节结局；电话系统与元叙事玩笑贯穿始终。10 张地图、354 个事件。"
+        }
+      },
+      "media": {
+        "cover": "https://webrpg.org/UrrezkoKaiola-terminal1/cover.png"
+      },
+      "originalTitle": "Urrezko-Kaiola-Terminal-1",
+      "popularity": 1,
+      "schemaVersion": 1,
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "slug": "urrezko-kaiola-terminal-1",
+      "taxonomy": {
+        "contentType": "full-game",
+        "genres": [
+          "rpg"
+        ],
+        "themes": [
+          "fantasy",
+          "comedy"
+        ]
+      }
     }
   }
 }

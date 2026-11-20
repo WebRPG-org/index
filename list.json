@@ -29096,14 +29096,10 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/MartinBenes-Demo-Taborska/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "adventure"
-      ],
       "nsfw": false,
       "playable": false,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "reviewedAt": "2026-11-07",
+      "reviewedSourceHeadSha": "fcdb84b90fe064caaa67fecc5961f57cd1a106b5"
     }
   },
   {
@@ -31320,9 +31316,8 @@
     "meta": {
       "nsfw": false,
       "playable": false,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-12"
+      "reviewedAt": "2026-11-12",
+      "reviewedSourceHeadSha": "e9994d6b379955efb799edf21a1a64d964f518d4"
     }
   },
   {
@@ -31585,12 +31580,10 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/Darlos9D-TurnBasedStrategy/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "template"
-      ],
       "nsfw": false,
-      "playable": true,
-      "reviewedAt": "2026-11-12"
+      "playable": false,
+      "reviewedAt": "2026-11-12",
+      "reviewedSourceHeadSha": "0e89e04a355cc6077ad8c75b5b00c9f86fb0d156"
     }
   },
   {
@@ -31620,12 +31613,10 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/briancain-tutorial-test/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "template"
-      ],
       "nsfw": false,
-      "playable": true,
-      "reviewedAt": "2026-11-07"
+      "playable": false,
+      "reviewedAt": "2026-11-07",
+      "reviewedSourceHeadSha": "22d3fc546f4b53f41e1e73415b50a457ff1f70b3"
     }
   },
   {
@@ -31691,9 +31682,8 @@
     "meta": {
       "nsfw": false,
       "playable": false,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-12"
+      "reviewedAt": "2026-11-12",
+      "reviewedSourceHeadSha": "8d6ac48398aa9d824ad26ceba52fcc71b496cdea"
     }
   },
   {
@@ -31941,12 +31931,11 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/UrrezkoKaiola-terminal1/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "template"
-      ],
+      "gameSlug": "urrezko-kaiola-terminal-1",
       "nsfw": false,
       "playable": true,
-      "reviewedAt": "2026-11-12"
+      "reviewedAt": "2026-11-12",
+      "reviewedSourceHeadSha": "23fad1cbcf7685e6918f8badc402f4be065637e4"
     }
   },
   {
@@ -32174,9 +32163,8 @@
     "meta": {
       "nsfw": false,
       "playable": false,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-12"
+      "reviewedAt": "2026-11-12",
+      "reviewedSourceHeadSha": "41a57e7552c034a2ef694a4c399add9bc011e309"
     }
   },
   {
@@ -32206,14 +32194,10 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/ojoh1993-SCP_OOPArt/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "languages": [
-        "ko"
-      ],
       "nsfw": false,
       "playable": false,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-12"
+      "reviewedAt": "2026-11-12",
+      "reviewedSourceHeadSha": "44f29d735762ba1a840a51b037844bb67d8eb889"
     }
   },
   {
@@ -32596,15 +32580,10 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/Ledouzy-WaccHorror2/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg",
-        "horror"
-      ],
       "nsfw": false,
       "playable": false,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-12"
+      "reviewedAt": "2026-11-12",
+      "reviewedSourceHeadSha": "cb4325cb66d2ad132b2ea2cdcb9f046348090e65"
     }
   },
   {
@@ -32714,14 +32693,10 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/aewol09-wcn/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg"
-      ],
       "nsfw": false,
       "playable": false,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-12"
+      "reviewedAt": "2026-11-12",
+      "reviewedSourceHeadSha": "11dbea5ff7ef0f9711131353f72eeb70a3af25c2"
     }
   },
   {
