@@ -700,14 +700,10 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/huanggaole-huanggaole.github.io/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg"
-      ],
       "nsfw": false,
       "playable": false,
-      "popularity": 3,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "reviewedAt": "2026-11-07",
+      "reviewedSourceHeadSha": "fa2e024535d3b6ee41d8eb6149064669c4306954"
     }
   },
   {
@@ -1045,15 +1041,10 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/isao0926-RPG-Maker-mzz/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg",
-        "fantasy"
-      ],
       "nsfw": false,
       "playable": false,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "reviewedAt": "2026-11-07",
+      "reviewedSourceHeadSha": "740811c0297d73c5915c012a4778f2ed21fdc088"
     }
   },
   {
@@ -1081,12 +1072,10 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/tylike-AI.Labs/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "template"
-      ],
       "nsfw": false,
       "playable": false,
-      "reviewedAt": "2026-11-07"
+      "reviewedAt": "2026-11-07",
+      "reviewedSourceHeadSha": "c9acf4eddac71de5e884ddd866f4f67a2018e490"
     }
   },
   {
@@ -1291,15 +1280,10 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/bill42362-mortals-journey-rmmz/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg",
-        "fantasy"
-      ],
       "nsfw": false,
       "playable": false,
-      "popularity": 3,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "reviewedAt": "2026-11-07",
+      "reviewedSourceHeadSha": "66a1073d463f475065e01dd6cc737b150fc9d4c8"
     }
   },
   {
@@ -1417,14 +1401,10 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/yinshi91-game/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg"
-      ],
       "nsfw": false,
       "playable": false,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "reviewedAt": "2026-11-07",
+      "reviewedSourceHeadSha": "f777aacfedd46b8779a7e21ccf41d33293b5db52"
     }
   },
   {
@@ -1449,14 +1429,10 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/yinshi91-game_3/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg"
-      ],
       "nsfw": false,
       "playable": false,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "reviewedAt": "2026-11-07",
+      "reviewedSourceHeadSha": "f64402a49573592ba310f08ccf3772f7e49a1fa5"
     }
   },
   {
@@ -1743,14 +1719,10 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/q3226257-rpg-game/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg"
-      ],
       "nsfw": false,
       "playable": false,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "reviewedAt": "2026-11-07",
+      "reviewedSourceHeadSha": "00662cf565cc0d11f17b070a075c375072f3b55f"
     }
   },
   {
@@ -1934,14 +1906,10 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/zhuobinggang-decision_maker-RPG-game/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "adventure"
-      ],
       "nsfw": false,
       "playable": false,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "reviewedAt": "2026-11-07",
+      "reviewedSourceHeadSha": "9baeb96da6aadb0af88fd715c485a63c03391554"
     }
   },
   {
@@ -2190,20 +2158,10 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/kotpot197-rabbit/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg",
-        "puzzle",
-        "sci-fi"
-      ],
-      "languages": [
-        "zh-Hans"
-      ],
       "nsfw": true,
       "playable": false,
-      "popularity": 7,
-      "rating": 7,
       "reviewedAt": "2026-11-07",
-      "title": "梅卡妮可 ―兔子与水星之谣―"
+      "reviewedSourceHeadSha": "fc7f08110b735c5d3bb3e199db73aa27a8bc8119"
     }
   },
   {
@@ -2294,14 +2252,10 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/klsdf-Get-Free-JavaScript-Learning-Materials/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg"
-      ],
       "nsfw": false,
       "playable": false,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "reviewedAt": "2026-11-07",
+      "reviewedSourceHeadSha": "57dcaf399f82af4a90c9a02c4d66929bc14a3ec3"
     }
   },
   {
@@ -3146,14 +3100,10 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/Cloudy0717-WorldsGreatestMercenary/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg"
-      ],
       "nsfw": false,
       "playable": false,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "reviewedAt": "2026-11-07",
+      "reviewedSourceHeadSha": "f24d69bce08b22718c41453acebeacfd2a3081e7"
     }
   },
   {
