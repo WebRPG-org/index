@@ -151,14 +151,10 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/TimirlanKenji-Phantasma/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg"
-      ],
-      "nsfw": false,
+      "nsfw": true,
       "playable": false,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "reviewedAt": "2026-11-07",
+      "reviewedSourceHeadSha": "aea08b2cd92f5318df79eddd790ab15201fa4f8a"
     }
   },
   {
@@ -340,12 +336,10 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/Chino-541-Saikou-no-Ramen-Damashi/ served an RPG Maker entry point and its startup resources",
     "meta": {
+      "nsfw": false,
+      "playable": false,
       "reviewedAt": "2026-11-07",
-      "playable": true,
-      "genres": [
-        "template"
-      ],
-      "nsfw": false
+      "reviewedSourceHeadSha": "cbe53d0960295bb75e163646357be47d61b0e3e1"
     }
   },
   {
@@ -32726,14 +32720,10 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/juhonamnam-web-game-presentation/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg"
-      ],
       "nsfw": false,
       "playable": false,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-12"
+      "reviewedAt": "2026-11-12",
+      "reviewedSourceHeadSha": "331d4e5ea2f5001c1dfa8ce5f215c5785735465d"
     }
   },
   {
@@ -32910,17 +32900,10 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/emay6-WhatLiesBeneath/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "adventure"
-      ],
-      "languages": [
-        "en"
-      ],
       "nsfw": false,
       "playable": false,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-12"
+      "reviewedAt": "2026-11-12",
+      "reviewedSourceHeadSha": "01ae7c2f6c36a6e3b7303bdad87eab95af113dc5"
     }
   },
   {
@@ -33050,17 +33033,10 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/AvianJay-Discord-Bot-Explore-Game/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg"
-      ],
-      "languages": [
-        "zh-Hant"
-      ],
       "nsfw": false,
       "playable": false,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-12"
+      "reviewedAt": "2026-11-12",
+      "reviewedSourceHeadSha": "171714df955417704de3c5ae4514dd468e26912d"
     }
   },
   {
@@ -33124,18 +33100,10 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/brunolcarli-yggdrasilMMO/index2.html served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg"
-      ],
-      "languages": [
-        "en",
-        "pt"
-      ],
       "nsfw": false,
       "playable": false,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-12"
+      "reviewedAt": "2026-11-12",
+      "reviewedSourceHeadSha": "883441f8c3ffdf3f059f876839ceaea96eb65dc1"
     }
   },
   {
@@ -33691,20 +33659,10 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/kangana1024-demorpggame/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "aliases": [
-        "Adventure in a Dangerous Land"
-      ],
-      "genres": [
-        "rpg"
-      ],
-      "languages": [
-        "th"
-      ],
       "nsfw": false,
       "playable": false,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "reviewedAt": "2026-11-07",
+      "reviewedSourceHeadSha": "a874a84b7da9a877b6c9e1c0bf497db214971ef5"
     }
   },
   {
@@ -34018,11 +33976,10 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/renrender0209-kawaiihakowaseru/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "nsfw": false,
+      "nsfw": true,
       "playable": false,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-12"
+      "reviewedAt": "2026-11-12",
+      "reviewedSourceHeadSha": "5c3036d18e21be8dceafebaed20dc977b842ff8e"
     }
   },
   {
@@ -34112,12 +34069,10 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/unagiootoro-QuestSystemSample/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "template"
-      ],
       "nsfw": false,
       "playable": false,
-      "reviewedAt": "2026-11-07"
+      "reviewedAt": "2026-11-07",
+      "reviewedSourceHeadSha": "f2fb7a4ee5e82fca6cee0981f420532d33432838"
     }
   },
   {
@@ -34612,21 +34567,10 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/CatBread00-www/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "aliases": [
-        "Haramase! Mini elf forest."
-      ],
-      "genres": [
-        "rpg"
-      ],
-      "languages": [
-        "ja",
-        "en"
-      ],
       "nsfw": true,
       "playable": false,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-12"
+      "reviewedAt": "2026-11-12",
+      "reviewedSourceHeadSha": "5652b3a3bd982f5ea59a8daa684ce995685e8a41"
     }
   },
   {
