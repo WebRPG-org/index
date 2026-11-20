@@ -1349,7 +1349,7 @@
         }
       },
       "media": {
-        "cover": null
+        "cover": "https://cdn.jsdelivr.net/gh/webrpg-org/images@main/menhera-chan-ie-kara-no-dasshutsu.png"
       },
       "originalTitle": "メンヘラちゃん家からの脱出",
       "popularity": 4,
@@ -2002,7 +2002,7 @@
         }
       ],
       "media": {
-        "cover": null
+        "cover": "https://cdn.jsdelivr.net/gh/webrpg-org/images@main/as-aventuras-de-um-gerente-de-projetos.png"
       },
       "instances": [
         {
@@ -4304,7 +4304,7 @@
         }
       ],
       "media": {
-        "cover": null
+        "cover": "https://cdn.jsdelivr.net/gh/webrpg-org/images@main/tsugunohi.jpg"
       },
       "instances": [
         {
@@ -7338,7 +7338,7 @@
         }
       ],
       "media": {
-        "cover": null
+        "cover": "https://cdn.jsdelivr.net/gh/webrpg-org/images@main/dragon-warrior.jpg"
       },
       "instances": [
         {
@@ -9574,7 +9574,7 @@
         }
       ],
       "media": {
-        "cover": null
+        "cover": "https://cdn.jsdelivr.net/gh/webrpg-org/images@main/for-the-world.jpg"
       },
       "instances": [
         {
@@ -23688,7 +23688,7 @@
         }
       ],
       "media": {
-        "cover": null
+        "cover": "https://cdn.jsdelivr.net/gh/webrpg-org/images@main/the-legend-of-kenshen.png"
       },
       "instances": [
         {
@@ -27321,7 +27321,7 @@
         }
       },
       "media": {
-        "cover": null
+        "cover": "https://cdn.jsdelivr.net/gh/webrpg-org/images@main/what-happened-here.png"
       },
       "originalTitle": "What Happened Here!",
       "popularity": 3,
@@ -28093,7 +28093,7 @@
         }
       },
       "media": {
-        "cover": null
+        "cover": "https://cdn.jsdelivr.net/gh/webrpg-org/images@main/zadrez.png"
       },
       "originalTitle": "Zadrez",
       "popularity": 2,
@@ -32103,7 +32103,7 @@
         }
       },
       "media": {
-        "cover": null
+        "cover": "https://cdn.jsdelivr.net/gh/webrpg-org/images@main/guihuan.png"
       },
       "originalTitle": "归还",
       "popularity": 1,
@@ -35919,6 +35919,9 @@
           "https://steamdb.info/app/2645190/",
           "https://niklasnotes.com/dashboard/game/12364/agnostic_requiem"
         ]
+      },
+      "media": {
+        "cover": "https://cdn.jsdelivr.net/gh/webrpg-org/images@main/agnostic-requiem.jpg"
       }
     },
     "suzu-memory": {
@@ -36215,6 +36218,9 @@
           "https://www.kaguragames.com/product/fox-girls-never-play-dirty/?add_to_wishlist=127&_wpnonce=4aeac1311c",
           "https://pixelsalad.org/game/fox-girls-never-play-dirty/8c7c86b78e"
         ]
+      },
+      "media": {
+        "cover": "https://cdn.jsdelivr.net/gh/webrpg-org/images@main/fox-girls-never-play-dirty.jpg"
       }
     },
     "living-with-sister-monochrome-fantasy": {
@@ -36335,6 +36341,9 @@
           "https://hgamer.tw/zh-TW/games/imouto-no-sora",
           "https://www.gog.com/zh/game/living_with_sister_monochrome_fantasy_unrated"
         ]
+      },
+      "media": {
+        "cover": "https://cdn.jsdelivr.net/gh/webrpg-org/images@main/living-with-sister-monochrome-fantasy.jpg"
       }
     },
     "ark-of-artemis": {
@@ -36443,6 +36452,9 @@
           "https://store.steampowered.com/app/1572340/Ark_of_Artemis/?curator_clanid=28359939",
           "https://moegirl.icu/zh-my/%E4%B9%90%E5%9B%AD%E7%9A%84%E9%98%BF%E5%B0%94%E5%BF%92%E5%BC%A5%E6%96%AF"
         ]
+      },
+      "media": {
+        "cover": "https://cdn.jsdelivr.net/gh/webrpg-org/images@main/ark-of-artemis.jpg"
       }
     },
     "leafsinger": {
@@ -36632,6 +36644,9 @@
           "https://everygamemade.com/video-game/pray-game.html",
           "https://www.vikacg.com/p/310488"
         ]
+      },
+      "media": {
+        "cover": "https://cdn.jsdelivr.net/gh/webrpg-org/images@main/praygame.jpg"
       }
     },
     "praygame-last-story": {
@@ -36722,6 +36737,9 @@
         "sources": [
           "https://store.steampowered.com/app/1551530/Pray_Game/"
         ]
+      },
+      "media": {
+        "cover": "https://cdn.jsdelivr.net/gh/webrpg-org/images@main/praygame-last-story.jpg"
       }
     },
     "explorers-of-the-abyss": {
@@ -36836,6 +36854,9 @@
           "https://steamdb.info/app/1211830/",
           "https://www.metacritic.com/game/explorers-of-the-abyss/"
         ]
+      },
+      "media": {
+        "cover": "https://cdn.jsdelivr.net/gh/webrpg-org/images@main/explorers-of-the-abyss.jpg"
       }
     },
     "belial-red": {
@@ -36946,6 +36967,9 @@
         "en": "Belial Red",
         "ja": "ベリアル・レッド",
         "zh-Hans": "亡国少女谢莉尔"
+      },
+      "media": {
+        "cover": "https://cdn.jsdelivr.net/gh/webrpg-org/images@main/belial-red.jpg"
       }
     },
     "enatus-radi": {
@@ -37047,6 +37071,9 @@
         "en": "Enatus Radi",
         "ja": "エナトス・レディ ー英雄の記録と少女の記憶ー",
         "zh-Hans": "埃那托斯-转世英雄与失忆少女-"
+      },
+      "media": {
+        "cover": "https://cdn.jsdelivr.net/gh/webrpg-org/images@main/enatus-radi.jpg"
       }
     },
     "haitenai-rpg": {
@@ -37154,6 +37181,9 @@
         "en": "HAITENAI RPG",
         "ja": "はいてないRPG",
         "zh-Hans": "传承勇者成名录~不穿胖次的世界"
+      },
+      "media": {
+        "cover": "https://cdn.jsdelivr.net/gh/webrpg-org/images@main/haitenai-rpg.jpg"
       }
     },
     "lian-yu-zuihou-qiri": {
@@ -37341,6 +37371,9 @@
         "en": "MECHANICA: A Ballad of the Rabbit and Mercury",
         "ja": "MECHANICA――うさぎと水星のバラッド――",
         "zh-Hans": "梅卡妮可~兔子与水星之谣"
+      },
+      "media": {
+        "cover": "https://cdn.jsdelivr.net/gh/webrpg-org/images@main/mechanica.jpg"
       }
     },
     "nun-and-lights-unreachable-forest": {
@@ -37454,6 +37487,9 @@
         "en": "Nun and Light's Unreachable Forest",
         "ja": "シスターと光の届かぬ森",
         "zh-Hans": "修女和光无法触及的森林"
+      },
+      "media": {
+        "cover": "https://cdn.jsdelivr.net/gh/webrpg-org/images@main/nun-and-lights-unreachable-forest.jpg"
       }
     },
     "shoujo-no-ikiru-michi-reikon-zan": {
@@ -37552,6 +37588,9 @@
         "en": "The Girl's Road to Survival — Reikon Mountain",
         "ja": "少女の生きる道-霊魂山-",
         "zh-Hans": "少女的求生之路"
+      },
+      "media": {
+        "cover": "https://cdn.jsdelivr.net/gh/webrpg-org/images@main/shoujo-no-ikiru-michi-reikon-zan.jpg"
       }
     },
     "unyielding-succubus-princess-of-arrogance": {
@@ -37655,6 +37694,9 @@
         "en": "Unyielding Succubus Princess of Arrogance",
         "ja": "高飛車レイナは屈しない",
         "zh-Hans": "高傲的蕾娜绝不屈服"
+      },
+      "media": {
+        "cover": "https://cdn.jsdelivr.net/gh/webrpg-org/images@main/unyielding-succubus-princess-of-arrogance.jpg"
       }
     },
     "usamimi-adventure": {
@@ -37761,6 +37803,9 @@
         "en": "Usamimi Adventure",
         "ja": "うさみみボウケンタン～セクハラしながら世界を救え～",
         "zh-Hans": "兔耳冒险谭"
+      },
+      "media": {
+        "cover": "https://cdn.jsdelivr.net/gh/webrpg-org/images@main/usamimi-adventure.jpg"
       }
     },
     "vilne-mereto": {
@@ -37864,6 +37909,9 @@
         "en": "Vilne Mereto",
         "ja": "ヴィルネーメレト",
         "zh-Hans": "命中注定的召唤术"
+      },
+      "media": {
+        "cover": "https://cdn.jsdelivr.net/gh/webrpg-org/images@main/vilne-mereto.jpg"
       }
     },
     "arukemo-kemomimi-arukemisuto": {
@@ -37965,6 +38013,9 @@
         "en": "Arukemo: Kemomimi Alchemist",
         "ja": "あるけも～ケモミミアルケミスト～",
         "zh-Hans": "兽耳工房~亚妮雅的炼金工房"
+      },
+      "media": {
+        "cover": "https://cdn.jsdelivr.net/gh/webrpg-org/images@main/arukemo-kemomimi-arukemisuto.jpg"
       }
     },
     "cursed-armor": {
@@ -38083,6 +38134,9 @@
         "en": "Cursed Armor",
         "ja": "呪いの鎧",
         "zh-Hans": "诅咒铠甲"
+      },
+      "media": {
+        "cover": "https://cdn.jsdelivr.net/gh/webrpg-org/images@main/cursed-armor.jpg"
       }
     },
     "exorcist-charlotte": {
@@ -38192,6 +38246,9 @@
         "en": "Exorcist Charlotte",
         "ja": "祓魔少女シャルロット",
         "zh-Hans": "驱魔少女夏洛特"
+      },
+      "media": {
+        "cover": "https://cdn.jsdelivr.net/gh/webrpg-org/images@main/exorcist-charlotte.jpg"
       }
     },
     "kris-and-the-city-of-pleasure": {
@@ -38303,6 +38360,9 @@
         "en": "Kris and the Pleasure Town",
         "ja": "クリスと遊楽の街",
         "zh-Hans": "克莉丝与游乐之街"
+      },
+      "media": {
+        "cover": "https://cdn.jsdelivr.net/gh/webrpg-org/images@main/kris-and-the-city-of-pleasure.jpg"
       }
     },
     "kuren-kishou-kuoruta-emerodo-eg": {
@@ -38416,6 +38476,9 @@
         "en": "Kuren Kishou Quarta Emerald EG",
         "ja": "駆錬輝晶 クォルタ エメロード EG",
         "zh-Hans": "驱炼辉晶 克尔塔 祖母绿 EG"
+      },
+      "media": {
+        "cover": "https://cdn.jsdelivr.net/gh/webrpg-org/images@main/kuren-kishou-kuoruta-emerodo-eg.jpg"
       }
     },
     "luna-to-inyoku-no-haito": {
@@ -38527,6 +38590,9 @@
         "en": "Luna and the Ruined City of Lust",
         "ja": "ルナと淫欲の廃都",
         "zh-Hans": "露娜与淫欲的废都"
+      },
+      "media": {
+        "cover": "https://cdn.jsdelivr.net/gh/webrpg-org/images@main/luna-to-inyoku-no-haito.jpg"
       }
     },
     "magical-girl-noble-rose": {
@@ -38644,6 +38710,9 @@
         "en": "Magical Girl Noble Rose",
         "ja": "魔法少女ノーブル・ローズ",
         "zh-Hans": "魔法少女诺布尔·劳斯"
+      },
+      "media": {
+        "cover": "https://cdn.jsdelivr.net/gh/webrpg-org/images@main/magical-girl-noble-rose.jpg"
       }
     },
     "senpai-to-fushigi-na-dungeon": {
@@ -38750,6 +38819,9 @@
         "en": "Senpai and the Mysterious Dungeon",
         "ja": "先輩と不思議なダンジョン",
         "zh-Hans": "前辈和不可思议的迷宫"
+      },
+      "media": {
+        "cover": "https://cdn.jsdelivr.net/gh/webrpg-org/images@main/senpai-to-fushigi-na-dungeon.jpg"
       }
     },
     "taimashi-chan-ga-h-na-itazura-sarechau-rpg": {
@@ -38848,6 +38920,9 @@
         "en": "The Exorcist Girl Gets Naughty Pranks RPG",
         "ja": "退魔師ちゃんがHな悪戯されちゃうRPG",
         "zh-Hans": "被Ｈ惡作劇所侵擾的退魔師小姐"
+      },
+      "media": {
+        "cover": "https://cdn.jsdelivr.net/gh/webrpg-org/images@main/taimashi-chan-ga-h-na-itazura-sarechau-rpg.jpg"
       }
     },
     "tensai-taimashi-wa-shokushu-youma-nanka-ni-kutsushinai": {
@@ -38955,6 +39030,9 @@
         "en": "The Genius Exorcist Will Not Yield to Tentacle Demons",
         "ja": "天才退魔師は触手妖魔なんかに屈しない",
         "zh-Hans": "天才退魔师不会对触手妖魔屈服"
+      },
+      "media": {
+        "cover": "https://cdn.jsdelivr.net/gh/webrpg-org/images@main/tensai-taimashi-wa-shokushu-youma-nanka-ni-kutsushinai.jpg"
       }
     },
     "cursed-armor-2": {
@@ -39079,7 +39157,10 @@
         "https://steamdata.gg/app/3276280/unknown",
         "https://www.vikacg.com/ja-JP/p/646369"
       ],
-      "assessmentNote": "Steam Very Positive: 262 reviews, 85.5% positive (Steamdata), 4,597 followers and a Unicorn Ranch DLC; Chinese sources call it a masterpiece on par with Fallen Goddesses. Rating 8 and popularity 7 reflect the original Steam release; the mirror is the official Chinese edition."
+      "assessmentNote": "Steam Very Positive: 262 reviews, 85.5% positive (Steamdata), 4,597 followers and a Unicorn Ranch DLC; Chinese sources call it a masterpiece on par with Fallen Goddesses. Rating 8 and popularity 7 reflect the original Steam release; the mirror is the official Chinese edition.",
+      "media": {
+        "cover": "https://cdn.jsdelivr.net/gh/webrpg-org/images@main/cursed-armor-2.jpg"
+      }
     },
     "maid-life": {
       "schemaVersion": 1,
@@ -39185,7 +39266,10 @@
         "https://www.vikacg.com/p/66522",
         "https://baiyeacg.cc/17426.html"
       ],
-      "assessmentNote": "Over 8,000 copies sold by early 2021 per Chinese sources, with wide Chinese mirror coverage; no review-score evidence found, so rating is left blank."
+      "assessmentNote": "Over 8,000 copies sold by early 2021 per Chinese sources, with wide Chinese mirror coverage; no review-score evidence found, so rating is left blank.",
+      "media": {
+        "cover": "https://cdn.jsdelivr.net/gh/webrpg-org/images@main/maid-life.jpg"
+      }
     },
     "nightmare-hunter": {
       "schemaVersion": 1,
@@ -39287,7 +39371,10 @@
       "assessmentSources": [
         "https://store.steampowered.com/app/1990590/Nightmare_Hunter/"
       ],
-      "assessmentNote": "Steam Very Positive (131 reviews); curator review 8/10. Japanese original title not verified — the Japanese title given is a katakana transliteration of the English Steam title."
+      "assessmentNote": "Steam Very Positive (131 reviews); curator review 8/10. Japanese original title not verified — the Japanese title given is a katakana transliteration of the English Steam title.",
+      "media": {
+        "cover": "https://cdn.jsdelivr.net/gh/webrpg-org/images@main/nightmare-hunter.jpg"
+      }
     },
     "lovecraft-locker-tentacle-lust": {
       "schemaVersion": 1,
@@ -39408,7 +39495,10 @@
         "https://gamingpleasure.com/game/lovecraft-locker-tentacle-lust-breach-strange-girl-studios",
         "https://www.patreon.com/kosmosgames/posts/lovecraft-locker-85353911"
       ],
-      "assessmentNote": "Well-known adult indie title with itch.io release, a Steam series (Tentacle Office demo) and MobyGames listing; RAWG notes most raters rated it 'Exceptional' but with no usable score, so rating is left blank."
+      "assessmentNote": "Well-known adult indie title with itch.io release, a Steam series (Tentacle Office demo) and MobyGames listing; RAWG notes most raters rated it 'Exceptional' but with no usable score, so rating is left blank.",
+      "media": {
+        "cover": "https://cdn.jsdelivr.net/gh/webrpg-org/images@main/lovecraft-locker-tentacle-lust.png"
+      }
     },
     "riko-no-fushigi-na-otsukai": {
       "schemaVersion": 1,
@@ -39508,7 +39598,10 @@
         "https://www.i-like-seen.com/contents/d_319612/",
         "https://manga-raw.net/d_319612/"
       ],
-      "assessmentNote": "FANZA release (D_319612) with a paid DLC and review-site coverage — genuine mid-tier spread evidence for a 5; no aggregate review score found, so rating is left blank. English title is a literal translation of the Japanese title."
+      "assessmentNote": "FANZA release (D_319612) with a paid DLC and review-site coverage — genuine mid-tier spread evidence for a 5; no aggregate review score found, so rating is left blank. English title is a literal translation of the Japanese title.",
+      "media": {
+        "cover": "https://cdn.jsdelivr.net/gh/webrpg-org/images@main/riko-no-fushigi-na-otsukai.jpg"
+      }
     },
     "shiawase-na-neet-no-sodatekata": {
       "schemaVersion": 1,
@@ -39609,7 +39702,10 @@
         "https://games.hnt.co.jp/10202516918/",
         "https://bangumi.tv/game/list/914737/collect"
       ],
-      "assessmentNote": "DLsite R18 title with a complete edition and Bangumi/2DFan listings — genuine mid-tier spread evidence for a 5; no review-score evidence found, so rating is left blank. English title is a literal translation of the Japanese title."
+      "assessmentNote": "DLsite R18 title with a complete edition and Bangumi/2DFan listings — genuine mid-tier spread evidence for a 5; no review-score evidence found, so rating is left blank. English title is a literal translation of the Japanese title.",
+      "media": {
+        "cover": "https://cdn.jsdelivr.net/gh/webrpg-org/images@main/shiawase-na-neet-no-sodatekata.jpg"
+      }
     },
     "fiel-to-ero-trap-dungeon": {
       "schemaVersion": 1,
@@ -39708,7 +39804,10 @@
         "https://rpg-doujin.blog.jp/archives/2020-04.html?p=4",
         "https://www.vikacg.com/p/39102"
       ],
-      "assessmentNote": "DLsite R18 release (RJ284758) with Chinese mirror coverage since 2020 — genuine mid-tier spread evidence for a 5; no review-score evidence found, so rating is left blank. English title is a literal translation of the Japanese title."
+      "assessmentNote": "DLsite R18 release (RJ284758) with Chinese mirror coverage since 2020 — genuine mid-tier spread evidence for a 5; no review-score evidence found, so rating is left blank. English title is a literal translation of the Japanese title.",
+      "media": {
+        "cover": "https://cdn.jsdelivr.net/gh/webrpg-org/images@main/fiel-to-ero-trap-dungeon.jpg"
+      }
     },
     "from-frontier": {
       "schemaVersion": 1,
@@ -39807,7 +39906,10 @@
       "assessmentSources": [
         "https://store.steampowered.com/app/1348180/From_Frontier/"
       ],
-      "assessmentNote": "Steam release since 2020 in OTAKU Plan bundles, with multiple recommending curator reviews including a 7/10 score. Japanese original title not verified — the Japanese title given is a katakana transliteration of the English Steam title."
+      "assessmentNote": "Steam release since 2020 in OTAKU Plan bundles, with multiple recommending curator reviews including a 7/10 score. Japanese original title not verified — the Japanese title given is a katakana transliteration of the English Steam title.",
+      "media": {
+        "cover": "https://cdn.jsdelivr.net/gh/webrpg-org/images@main/from-frontier.jpg"
+      }
     },
     "densha-chikan-click-game": {
       "schemaVersion": 1,
@@ -39911,7 +40013,10 @@
         "https://hgame-plaza.jp/quest/rj01745149/",
         "https://games.hnt.co.jp/10202517515/"
       ],
-      "assessmentNote": "Released 2026-10-29 with only 3 DLsite reviews (4.33/5, too few for a rating); no spread evidence beyond DLsite listings, so popularity 4. Identity note: Amemei title does not appear as an official title anywhere; matched to 電車痴漢クリックゲーム on premise alone — highly probable, not confirmed."
+      "assessmentNote": "Released 2026-10-29 with only 3 DLsite reviews (4.33/5, too few for a rating); no spread evidence beyond DLsite listings, so popularity 4. Identity note: Amemei title does not appear as an official title anywhere; matched to 電車痴漢クリックゲーム on premise alone — highly probable, not confirmed.",
+      "media": {
+        "cover": "https://cdn.jsdelivr.net/gh/webrpg-org/images@main/densha-chikan-click-game.jpg"
+      }
     },
     "ochiyuku-seiken-no-hime-kishi-tirute": {
       "schemaVersion": 1,
@@ -40015,7 +40120,10 @@
         "https://www.vikacg.com/p/514363",
         "https://www.mhh1.com/846239.html"
       ],
-      "assessmentNote": "DLsite R18 release (RJ01136672) with multiple Chinese mirror posts — genuine mid-tier spread evidence for a 5; no review-score evidence found, so rating is left blank. English title is a literal translation of the Japanese title."
+      "assessmentNote": "DLsite R18 release (RJ01136672) with multiple Chinese mirror posts — genuine mid-tier spread evidence for a 5; no review-score evidence found, so rating is left blank. English title is a literal translation of the Japanese title.",
+      "media": {
+        "cover": "https://cdn.jsdelivr.net/gh/webrpg-org/images@main/ochiyuku-seiken-no-hime-kishi-tirute.jpg"
+      }
     },
     "and-the-hero-was-never-seen-again": {
       "assessedAt": "2026-11-21",
@@ -40122,6 +40230,9 @@
       "translatedTitles": {
         "en": "And the Hero Was Never Seen Again",
         "zh-Hans": "此后，勇者不知所踪"
+      },
+      "media": {
+        "cover": "https://cdn.jsdelivr.net/gh/webrpg-org/images@main/and-the-hero-was-never-seen-again.jpg"
       }
     },
     "kozues-strange-journey-2": {
@@ -40229,6 +40340,9 @@
       "translatedTitles": {
         "en": "Kozue's Strange Journey 2",
         "zh-Hans": "少女异闻录～白鹭白百合的华丽日常～"
+      },
+      "media": {
+        "cover": "https://cdn.jsdelivr.net/gh/webrpg-org/images@main/kozues-strange-journey-2.jpg"
       }
     },
     "meiyou-moli-de-meimo-aimili-jiang": {
@@ -40332,6 +40446,9 @@
       "translatedTitles": {
         "en": "Emily Has Run Out of SP",
         "zh-Hans": "没有魔力的魅魔艾米莉酱"
+      },
+      "media": {
+        "cover": "https://cdn.jsdelivr.net/gh/webrpg-org/images@main/meiyou-moli-de-meimo-aimili-jiang.jpg"
       }
     },
     "nebel-geisterjager": {
@@ -40452,6 +40569,9 @@
       "translatedTitles": {
         "en": "Nebel Geisterjäger",
         "zh-Hans": "零号羔羊"
+      },
+      "media": {
+        "cover": "https://cdn.jsdelivr.net/gh/webrpg-org/images@main/nebel-geisterjager.jpg"
       }
     },
     "piaohu-buding-de-xiaoxiao-monv": {
@@ -40625,6 +40745,9 @@
       "translatedTitles": {
         "en": "The Song of Star Night",
         "zh-Hans": "星月之歌"
+      },
+      "media": {
+        "cover": "https://cdn.jsdelivr.net/gh/webrpg-org/images@main/the-song-of-star-night.jpg"
       }
     },
     "the-star-of-the-night-2": {
@@ -40732,6 +40855,9 @@
       "translatedTitles": {
         "en": "The Star of the Night 2",
         "zh-Hans": "星月之歌 2"
+      },
+      "media": {
+        "cover": "https://cdn.jsdelivr.net/gh/webrpg-org/images@main/the-star-of-the-night-2.jpg"
       }
     },
     "the-succubus-trap-island": {
@@ -40836,6 +40962,9 @@
       "translatedTitles": {
         "en": "The Succubus Trap Island",
         "zh-Hans": "淫魔的陷阱岛"
+      },
+      "media": {
+        "cover": "https://cdn.jsdelivr.net/gh/webrpg-org/images@main/the-succubus-trap-island.jpg"
       }
     },
     "winter-memories": {
@@ -40953,6 +41082,9 @@
         "en": "Winter Memories",
         "ja": "ウィンターメモリーズ",
         "zh-Hans": "冬日狂想曲"
+      },
+      "media": {
+        "cover": "https://cdn.jsdelivr.net/gh/webrpg-org/images@main/winter-memories.jpg"
       }
     },
     "yishijie-hougong-huanxiangqu": {
@@ -41061,6 +41193,9 @@
       "translatedTitles": {
         "en": "Isekai Harem Fantasia",
         "zh-Hans": "异世界后宫 ☆ 幻想曲"
+      },
+      "media": {
+        "cover": "https://cdn.jsdelivr.net/gh/webrpg-org/images@main/yishijie-hougong-huanxiangqu.jpg"
       }
     },
     "alice-in-the-nightmare-land": {
@@ -41164,6 +41299,9 @@
         "en": "Alice in the Nightmare Land",
         "ja": "夢獄の国のアリス",
         "zh-Hans": "梦狱之国的爱丽丝"
+      },
+      "media": {
+        "cover": "https://cdn.jsdelivr.net/gh/webrpg-org/images@main/alice-in-the-nightmare-land.jpg"
       }
     },
     "akari-to-ingoku-miya-no-shinen": {
@@ -41264,6 +41402,9 @@
         "en": "Akari and the Abyss of the Lewd Hell Palace",
         "ja": "アカリと淫獄宮の深淵",
         "zh-Hans": "亚香里与地狱宫的深渊"
+      },
+      "media": {
+        "cover": "https://cdn.jsdelivr.net/gh/webrpg-org/images@main/akari-to-ingoku-miya-no-shinen.jpg"
       }
     },
     "breakthrough-seven-blue-flesh-pots": {
@@ -41370,6 +41511,9 @@
         "en": "Breakthrough - Seven Blue Flesh Pots",
         "ja": "ブレイクスルー-碧き七つの肉壺-",
         "zh-Hans": "碧藍之七肉壺"
+      },
+      "media": {
+        "cover": "https://cdn.jsdelivr.net/gh/webrpg-org/images@main/breakthrough-seven-blue-flesh-pots.jpg"
       }
     },
     "flash-cycling": {
@@ -41465,6 +41609,9 @@
         "en": "FlashCycling",
         "ja": "FlashCycling～自転車露出主義～",
         "zh-Hans": "闪烁骑行～自行车露出主义～"
+      },
+      "media": {
+        "cover": "https://cdn.jsdelivr.net/gh/webrpg-org/images@main/flash-cycling.jpg"
       }
     },
     "kinky-dungeon": {
@@ -41668,6 +41815,9 @@
         "en": "Nursery Slime",
         "ja": "nursery Slime ～スライム娘と奇妙な日常～",
         "zh-Hans": "与史莱姆少女的奇妙日常"
+      },
+      "media": {
+        "cover": "https://cdn.jsdelivr.net/gh/webrpg-org/images@main/nursery-slime.jpg"
       }
     },
     "princess-synergy": {
@@ -41772,6 +41922,9 @@
         "en": "Princess Synergy",
         "ja": "プリンセスシナジー",
         "zh-Hans": "公主协同效应"
+      },
+      "media": {
+        "cover": "https://cdn.jsdelivr.net/gh/webrpg-org/images@main/princess-synergy.jpg"
       }
     },
     "qing-se-he-zi-se-bao-shi": {
@@ -41929,6 +42082,9 @@
         "en": "Arena Stripper RPG",
         "ja": "闘技場の引ん剥き職人RPG",
         "zh-Hans": "斗技场的职业爆衣者"
+      },
+      "media": {
+        "cover": "https://cdn.jsdelivr.net/gh/webrpg-org/images@main/tougijou-no-hinmuki-shokunin-rpg.jpg"
       }
     },
     "yorozu-no-gakuen-roshutsu-seikatsu": {
@@ -42022,6 +42178,9 @@
         "en": "Yorozu's School Exhibitionism Life ~Fox Exhibitionism~",
         "ja": "よろずの学園露出生活~Fox Exhibitionism~",
         "zh-Hans": "万代的校园露出生活"
+      },
+      "media": {
+        "cover": "https://cdn.jsdelivr.net/gh/webrpg-org/images@main/yorozu-no-gakuen-roshutsu-seikatsu.jpg"
       }
     },
     "bakunyu-dorei-no-kakumeitan": {
@@ -42083,6 +42242,9 @@
         "en": "The Revolutionary Tale of the Busty Slave",
         "ja": "爆乳奴隷の革命譚",
         "zh-Hans": "爆乳奴隶的革命谭"
+      },
+      "media": {
+        "cover": "https://cdn.jsdelivr.net/gh/webrpg-org/images@main/bakunyu-dorei-no-kakumeitan.jpg"
       }
     },
     "cage-of-tentacles": {
@@ -42184,6 +42346,9 @@
         "en": "Cage of Tentacles",
         "ja": "Cage of Tentacles 〜苗床快楽地獄の触手監獄〜",
         "zh-Hans": "Cage of Tentacles ～苗床快乐地狱的触手监狱～"
+      },
+      "media": {
+        "cover": "https://cdn.jsdelivr.net/gh/webrpg-org/images@main/cage-of-tentacles.jpg"
       }
     },
     "koakuma-megaki-imouto": {
@@ -42303,6 +42468,9 @@
         "en": "Little Devil Mesugaki Stepsister: Sweet Teasing Trap, Then Downfall",
         "ja": "小悪魔メ○ガキ義妹♡甘々挑発エロトラップ、そして陥落",
         "zh-Hans": "小恶魔雌小鬼义妹♡甜蜜沦陷"
+      },
+      "media": {
+        "cover": "https://cdn.jsdelivr.net/gh/webrpg-org/images@main/koakuma-megaki-imouto.png"
       }
     },
     "koneko-wo-shitsukeru-21-no-hoho": {
@@ -42492,6 +42660,9 @@
         "en": "Moonlight Cornelia",
         "ja": "月紅神姫コーネリア",
         "zh-Hans": "月红神姬科内莉亚"
+      },
+      "media": {
+        "cover": "https://cdn.jsdelivr.net/gh/webrpg-org/images@main/moonlight-cornelia.jpg"
       }
     },
     "netorase-tsuma-chokyo": {
@@ -42594,6 +42765,9 @@
         "en": "Training My Cuckolded Wife: Letting Other Men Hold Her, Corrupting Her With My Fingers",
         "ja": "寝取らせ妻調教 〜他の男に抱かせて、俺の指で堕とす〜",
         "zh-Hans": "堕落人妻~背着丈夫的 NTR"
+      },
+      "media": {
+        "cover": "https://cdn.jsdelivr.net/gh/webrpg-org/images@main/netorase-tsuma-chokyo.jpg"
       }
     },
     "night-bloom": {
@@ -42684,6 +42858,9 @@
         "en": "Night Bloom",
         "ja": "ナイトブルーム",
         "zh-Hans": "夜幕之花"
+      },
+      "media": {
+        "cover": "https://cdn.jsdelivr.net/gh/webrpg-org/images@main/night-bloom.jpg"
       }
     },
     "seira": {
@@ -42791,6 +42968,9 @@
         "en": "Master, May Seira Serve You With Dreamlike Lovey-Dovey Devotion?",
         "ja": "ご主人様、セイラに夢みたいないちゃラブご奉仕させていただけますか",
         "zh-Hans": "为主人献上圣罗的甜蜜侍奉"
+      },
+      "media": {
+        "cover": "https://cdn.jsdelivr.net/gh/webrpg-org/images@main/seira.jpg"
       }
     },
     "the-curse-of-kubel": {
@@ -42902,6 +43082,9 @@
         "en": "The Curse of Kubel",
         "ja": "クベルの首枷病",
         "zh-Hans": "库贝尔的枷锁"
+      },
+      "media": {
+        "cover": "https://cdn.jsdelivr.net/gh/webrpg-org/images@main/the-curse-of-kubel.jpg"
       }
     },
     "violated-princess": {
@@ -43005,6 +43188,9 @@
         "en": "Violated Princess",
         "ja": "Violated Princess",
         "zh-Hans": "受辱公主"
+      },
+      "media": {
+        "cover": "https://cdn.jsdelivr.net/gh/webrpg-org/images@main/violated-princess.jpg"
       }
     },
     "emo-diteer": {
@@ -43138,7 +43324,10 @@
       },
       "popularity": 5,
       "assessedAt": "2026-11-21",
-      "assessmentNote": "有 NamuWiki 英文条目与 2002 年 Gamepia 杂志介绍的中档传播证据，rating 无聚合评分证据故留空。"
+      "assessmentNote": "有 NamuWiki 英文条目与 2002 年 Gamepia 杂志介绍的中档传播证据，rating 无聚合评分证据故留空。",
+      "media": {
+        "cover": "https://cdn.jsdelivr.net/gh/webrpg-org/images@main/yuki-no-tokeru-koro-ni.jpg"
+      }
     },
     "the-worlds-egg-for-those-who-dream": {
       "schemaVersion": 1,
@@ -43244,7 +43433,10 @@
       },
       "popularity": 5,
       "assessedAt": "2026-11-21",
-      "assessmentNote": "Steam 与 GOG 双平台发售、Steam Deck Verified，另有 Steam 社区长评；仅有一篇社区评测给 7/10，无聚合评分证据，rating 留空。"
+      "assessmentNote": "Steam 与 GOG 双平台发售、Steam Deck Verified，另有 Steam 社区长评；仅有一篇社区评测给 7/10，无聚合评分证据，rating 留空。",
+      "media": {
+        "cover": "https://cdn.jsdelivr.net/gh/webrpg-org/images@main/the-worlds-egg-for-those-who-dream.jpg"
+      }
     },
     "lock-or-order": {
       "schemaVersion": 1,
@@ -43404,7 +43596,10 @@
       },
       "popularity": 6,
       "assessedAt": "2026-11-21",
-      "assessmentNote": "2026 年 10 月 Steam 新作，中文资源站称“爆款 RPG”，Steam 社区有详细好评；无聚合评分证据，rating 留空。"
+      "assessmentNote": "2026 年 10 月 Steam 新作，中文资源站称“爆款 RPG”，Steam 社区有详细好评；无聚合评分证据，rating 留空。",
+      "media": {
+        "cover": "https://cdn.jsdelivr.net/gh/webrpg-org/images@main/do-disciplinary-committee-members-dream-of-succubi.jpg"
+      }
     },
     "broke-alchemist-emmas-debt-repayment-plan": {
       "schemaVersion": 1,
@@ -43501,7 +43696,10 @@
       },
       "popularity": 6,
       "assessedAt": "2026-11-21",
-      "assessmentNote": "Steam 发售、RAWG 有收录，中文资源站称“爆款 RPG”；无聚合评分证据，rating 留空。"
+      "assessmentNote": "Steam 发售、RAWG 有收录，中文资源站称“爆款 RPG”；无聚合评分证据，rating 留空。",
+      "media": {
+        "cover": "https://cdn.jsdelivr.net/gh/webrpg-org/images@main/broke-alchemist-emmas-debt-repayment-plan.jpg"
+      }
     },
     "melfias-azure-and-crimson-verge": {
       "schemaVersion": 1,
@@ -43601,7 +43799,10 @@
       },
       "popularity": 6,
       "assessedAt": "2026-11-21",
-      "assessmentNote": "Steam 发售、MobyGames 有收录，另有西班牙语与中文汉化传播，Steam 社区有详细好评；无聚合评分证据，rating 留空。"
+      "assessmentNote": "Steam 发售、MobyGames 有收录，另有西班牙语与中文汉化传播，Steam 社区有详细好评；无聚合评分证据，rating 留空。",
+      "media": {
+        "cover": "https://cdn.jsdelivr.net/gh/webrpg-org/images@main/melfias-azure-and-crimson-verge.jpg"
+      }
     },
     "nightmare-knight-sacred-maiden-fallen-magic": {
       "schemaVersion": 1,
@@ -43709,7 +43910,10 @@
         "https://gamebrain.co/game/nightmare-knight-sacred-maiden-fallen-magic",
         "https://store.steampowered.com/app/2630020/Nightmare_Knight_Sacred_Maiden__Fallen_Magic/?snr=1_1056_4_franchise_1057&curator_clanid=38391122"
       ],
-      "assessmentNote": "GameBrain 87% 观众分（113 篇评测），Steam 有多篇鉴赏家好评；87% 折算为 rating 8。"
+      "assessmentNote": "GameBrain 87% 观众分（113 篇评测），Steam 有多篇鉴赏家好评；87% 折算为 rating 8。",
+      "media": {
+        "cover": "https://cdn.jsdelivr.net/gh/webrpg-org/images@main/nightmare-knight-sacred-maiden-fallen-magic.jpg"
+      }
     },
     "please-subscribe-magical-revantia-channel": {
       "schemaVersion": 1,
@@ -43803,7 +44007,10 @@
       },
       "popularity": 6,
       "assessedAt": "2026-11-21",
-      "assessmentNote": "Steam 发售、GameFAQs 有收录，Steam 社区有详细好评，中文资源站多家转载并称“精品 RPG”；无聚合评分证据，rating 留空。"
+      "assessmentNote": "Steam 发售、GameFAQs 有收录，Steam 社区有详细好评，中文资源站多家转载并称“精品 RPG”；无聚合评分证据，rating 留空。",
+      "media": {
+        "cover": "https://cdn.jsdelivr.net/gh/webrpg-org/images@main/please-subscribe-magical-revantia-channel.jpg"
+      }
     },
     "the-diary-of-the-cheating-young-married-woman-yuka": {
       "schemaVersion": 1,
@@ -43887,7 +44094,10 @@
       },
       "popularity": 5,
       "assessedAt": "2026-11-21",
-      "assessmentNote": "DLsite 上架（RJ250852，1100 日元）且有同人ラボ价格追踪的中档传播证据；无评分证据，rating 留空；日文原标题未确认。"
+      "assessmentNote": "DLsite 上架（RJ250852，1100 日元）且有同人ラボ价格追踪的中档传播证据；无评分证据，rating 留空；日文原标题未确认。",
+      "media": {
+        "cover": "https://cdn.jsdelivr.net/gh/webrpg-org/images@main/the-diary-of-the-cheating-young-married-woman-yuka.jpg"
+      }
     },
     "a-night-filled-with-the-sound-of-rain": {
       "aliases": {
@@ -44008,6 +44218,9 @@
       "translatedTitles": {
         "en": "A Night Filled With the Sound of Rain",
         "zh-Hans": "雨夜迷醉时"
+      },
+      "media": {
+        "cover": "https://cdn.jsdelivr.net/gh/webrpg-org/images@main/a-night-filled-with-the-sound-of-rain.jpg"
       }
     },
     "cowgirl-maid-milk-cafe": {
@@ -44128,6 +44341,9 @@
         "en": "Cowgirl Maid Milk Cafe",
         "ja": "牛娘メイドのミルクカフェ",
         "zh-Hans": "牛娘咖啡馆"
+      },
+      "media": {
+        "cover": "https://cdn.jsdelivr.net/gh/webrpg-org/images@main/cowgirl-maid-milk-cafe.jpg"
       }
     },
     "ore-no-sugata-ga-toumei-ni": {
@@ -44238,6 +44454,9 @@
         "en": "Ore no Sugata ga, Toumei ni!? Fukashi no Kusuri to Suuki na Unmei",
         "ja": "俺の姿が、透明に!? 不可視の薬と数奇な運命",
         "zh-Hans": "我的身体变得透明！？隐形药与坎坷的命运"
+      },
+      "media": {
+        "cover": "https://cdn.jsdelivr.net/gh/webrpg-org/images@main/ore-no-sugata-ga-toumei-ni.webp"
       }
     },
     "purorachirisuto-kyosuke-r": {
@@ -44356,6 +44575,9 @@
         "en": "Ghost Tales of Another World",
         "ja": "異世界鬼譚",
         "zh-Hans": "异世界鬼谭"
+      },
+      "media": {
+        "cover": "https://cdn.jsdelivr.net/gh/webrpg-org/images@main/yi-shi-jie-gui-tan.jpg"
       }
     },
     "atri": {
@@ -44476,6 +44698,9 @@
         "en": "ATRI -My Dear Moments-",
         "ja": "ATRI -My Dear Moments-",
         "zh-Hans": "ATRI -我挚爱的时光-"
+      },
+      "media": {
+        "cover": "https://cdn.jsdelivr.net/gh/webrpg-org/images@main/atri.jpg"
       }
     },
     "clannad": {
@@ -44588,6 +44813,9 @@
         "en": "CLANNAD",
         "ja": "CLANNAD",
         "zh-Hans": "CLANNAD"
+      },
+      "media": {
+        "cover": "https://cdn.jsdelivr.net/gh/webrpg-org/images@main/clannad.jpg"
       }
     },
     "eden": {
@@ -44706,6 +44934,9 @@
         "en": "eden*",
         "ja": "eden*",
         "zh-Hans": "eden*"
+      },
+      "media": {
+        "cover": "https://cdn.jsdelivr.net/gh/webrpg-org/images@main/eden.jpg"
       }
     },
     "hokenshitsu-no-sensee-to-gosorori-no-koi": {
@@ -44813,6 +45044,9 @@
         "en": "The School Nurse and the Goth-Loli School Doctor",
         "ja": "保健室のセンセーとゴスロリの校医",
         "zh-Hans": "保健室的老师与哥特萝莉的校医"
+      },
+      "media": {
+        "cover": "https://cdn.jsdelivr.net/gh/webrpg-org/images@main/hokenshitsu-no-sensee-to-gosorori-no-koi.jpg"
       }
     },
     "hokenshitsu-no-sensee-to-koakuma-na-kaicho": {
@@ -44920,6 +45154,9 @@
         "en": "The School Nurse and the Little-Devil Student Council President",
         "ja": "保健室のセンセーと小悪魔な会長",
         "zh-Hans": "保健室的老师与恶魔般的会长"
+      },
+      "media": {
+        "cover": "https://cdn.jsdelivr.net/gh/webrpg-org/images@main/hokenshitsu-no-sensee-to-koakuma-na-kaicho.webp"
       }
     },
     "hokenshitsu-no-sensee-to-shabondama-chudoku-no-joshu": {
@@ -45027,6 +45264,9 @@
         "en": "The School Nurse and the Assistant Addicted to Soap Bubbles",
         "ja": "保健室のセンセーとシャボン玉中毒の助手",
         "zh-Hans": "保健室的老师与沉迷吹泡泡的助手"
+      },
+      "media": {
+        "cover": "https://cdn.jsdelivr.net/gh/webrpg-org/images@main/hokenshitsu-no-sensee-to-shabondama-chudoku-no-joshu.png"
       }
     },
     "kimi-to-kanojo-to-kanojo-no-koi": {
@@ -45148,6 +45388,9 @@
         "en": "YOU and ME and HER: A Love Story",
         "ja": "君と彼女と彼女の恋。",
         "zh-Hans": "君与彼女与彼女之恋"
+      },
+      "media": {
+        "cover": "https://cdn.jsdelivr.net/gh/webrpg-org/images@main/kimi-to-kanojo-to-kanojo-no-koi.jpg"
       }
     },
     "natsuzora-no-peruseusu": {
@@ -45388,6 +45631,9 @@
         "en": "NinNinDays",
         "ja": "忍々Days",
         "zh-Hans": "忍忍Days"
+      },
+      "media": {
+        "cover": "https://cdn.jsdelivr.net/gh/webrpg-org/images@main/ninnindays.jpg"
       }
     },
     "ninnindays2": {
@@ -45503,6 +45749,9 @@
         "en": "NinNinDays2",
         "ja": "忍々Days2",
         "zh-Hans": "忍忍Days2"
+      },
+      "media": {
+        "cover": "https://cdn.jsdelivr.net/gh/webrpg-org/images@main/ninnindays2.jpg"
       }
     },
     "princess-princess": {
@@ -45615,6 +45864,9 @@
         "en": "Princess x Princess",
         "ja": "Princess×Princess",
         "zh-Hans": "Princess×Princess"
+      },
+      "media": {
+        "cover": "https://cdn.jsdelivr.net/gh/webrpg-org/images@main/princess-princess.png"
       }
     },
     "adabana-odd-tales": {
@@ -45736,6 +45988,9 @@
         "en": "Adabana Odd Tales",
         "ja": "徒花異譚",
         "zh-Hans": "徒花异谭"
+      },
+      "media": {
+        "cover": "https://cdn.jsdelivr.net/gh/webrpg-org/images@main/adabana-odd-tales.jpg"
       }
     },
     "daitoshokan-no-hitsujikai": {
@@ -45846,6 +46101,9 @@
         "en": "A Good Librarian Like a Good Shepherd",
         "ja": "大図書館の羊飼い",
         "zh-Hans": "大图书馆的牧羊人"
+      },
+      "media": {
+        "cover": "https://cdn.jsdelivr.net/gh/webrpg-org/images@main/daitoshokan-no-hitsujikai.jpg"
       }
     },
     "hamidashi-creative": {
@@ -45959,6 +46217,9 @@
         "en": "Hamidashi Creative",
         "ja": "常軌脱離Creative",
         "zh-Hans": "常轨脱离Creative"
+      },
+      "media": {
+        "cover": "https://cdn.jsdelivr.net/gh/webrpg-org/images@main/hamidashi-creative.jpg"
       }
     },
     "hamidashi-creative-totsu": {
@@ -46061,6 +46322,9 @@
         "en": "Hamidashi Creative Totsu",
         "ja": "常軌脱離Creative凸",
         "zh-Hans": "常轨脱离Creative凸"
+      },
+      "media": {
+        "cover": "https://cdn.jsdelivr.net/gh/webrpg-org/images@main/hamidashi-creative-totsu.jpg"
       }
     },
     "imouto-choukyou-nikki": {
@@ -46173,6 +46437,9 @@
         "en": "Sister's Training Diary",
         "ja": "妹調教日記",
         "zh-Hans": "妹调教日记"
+      },
+      "media": {
+        "cover": "https://cdn.jsdelivr.net/gh/webrpg-org/images@main/imouto-choukyou-nikki.jpg"
       }
     },
     "imouto-choukyou-nikki-fd": {
@@ -46269,6 +46536,9 @@
         "en": "Sister's Training Diary √happy end & another",
         "ja": "妹調教日記√happy end & another",
         "zh-Hans": "妹调教日记 fd"
+      },
+      "media": {
+        "cover": "https://cdn.jsdelivr.net/gh/webrpg-org/images@main/imouto-choukyou-nikki-fd.jpg"
       }
     },
     "josou-sanmyaku": {
@@ -46379,6 +46649,9 @@
         "en": "Tomgirls of the Mountains",
         "ja": "女装山脈",
         "zh-Hans": "女装山脉"
+      },
+      "media": {
+        "cover": "https://cdn.jsdelivr.net/gh/webrpg-org/images@main/josou-sanmyaku.png"
       }
     },
     "otome-riron-to-sono-shuhen-ecole-de-paris": {
@@ -46503,6 +46776,9 @@
         "en": "Otome Riron to Sono Shuuhen -Ecole de Paris-",
         "ja": "乙女理論とその周辺 -Ecole de Paris-",
         "zh-Hans": "少女理论及其周边"
+      },
+      "media": {
+        "cover": "https://cdn.jsdelivr.net/gh/webrpg-org/images@main/otome-riron-to-sono-shuhen-ecole-de-paris.jpg"
       }
     },
     "teaching-feeling": {
@@ -46627,6 +46903,9 @@
         "en": "Teaching Feeling",
         "ja": "Teaching Feeling -傷肌少女との生活-",
         "zh-Hans": "希尔薇"
+      },
+      "media": {
+        "cover": "https://cdn.jsdelivr.net/gh/webrpg-org/images@main/teaching-feeling.jpg"
       }
     },
     "xiao-xiao-de-aiqing-gongyu": {
@@ -46677,6 +46956,9 @@
       "translatedTitles": {
         "en": "Xiao Xiao de Aiqing Gongyu",
         "zh-Hans": "小小的爱情公寓"
+      },
+      "media": {
+        "cover": "https://cdn.jsdelivr.net/gh/webrpg-org/images@main/xiao-xiao-de-aiqing-gongyu.webp"
       }
     },
     "dare-ga-koroshita-komadori-o": {
@@ -46765,6 +47047,9 @@
         "en": "Who Killed Cock Robin",
         "ja": "誰が殺したコマドリを",
         "zh-Hans": "是谁杀了知更鸟"
+      },
+      "media": {
+        "cover": "https://cdn.jsdelivr.net/gh/webrpg-org/images@main/dare-ga-koroshita-komadori-o.webp"
       }
     },
     "hoshizora-e-kakaru-hashi": {
@@ -46871,6 +47156,9 @@
         "en": "A Bridge to the Starry Skies",
         "ja": "星空へ架かる橋",
         "zh-Hans": "架向星空之桥"
+      },
+      "media": {
+        "cover": "https://cdn.jsdelivr.net/gh/webrpg-org/images@main/hoshizora-e-kakaru-hashi.jpg"
       }
     },
     "niito-to-tenshi-to-ecchi-na-kazoku": {
@@ -46980,6 +47268,9 @@
         "en": "A Perverted Family of a NEET and an Angel",
         "ja": "にーとと天使とえっちな家族",
         "zh-Hans": "死宅天使"
+      },
+      "media": {
+        "cover": "https://cdn.jsdelivr.net/gh/webrpg-org/images@main/niito-to-tenshi-to-ecchi-na-kazoku.jpg"
       }
     },
     "nukitashi": {
@@ -47106,6 +47397,9 @@
         "en": "Nukitashi",
         "ja": "抜きゲーみたいな島に住んでる貧乳はどうすりゃいいですか？",
         "zh-Hans": "拔作岛"
+      },
+      "media": {
+        "cover": "https://cdn.jsdelivr.net/gh/webrpg-org/images@main/nukitashi.jpg"
       }
     },
     "nukitashi-2": {
@@ -47234,6 +47528,9 @@
         "en": "Nukitashi 2",
         "ja": "抜きゲーみたいな島に住んでる貧乳はどうすりゃいいですか？2",
         "zh-Hans": "拔作岛 2"
+      },
+      "media": {
+        "cover": "https://cdn.jsdelivr.net/gh/webrpg-org/images@main/nukitashi-2.jpg"
       }
     },
     "qingrenjie-xiaojuchang": {
@@ -47292,6 +47589,9 @@
       "translatedTitles": {
         "en": "Valentine Mini Theater",
         "zh-Hans": "情人节小剧场"
+      },
+      "media": {
+        "cover": "https://cdn.jsdelivr.net/gh/webrpg-org/images@main/qingrenjie-xiaojuchang.webp"
       }
     },
     "raspberry-cube": {
@@ -47399,6 +47699,9 @@
         "en": "Raspberry Cube",
         "ja": "ラズベリーキューブ",
         "zh-Hans": "树莓立方体"
+      },
+      "media": {
+        "cover": "https://cdn.jsdelivr.net/gh/webrpg-org/images@main/raspberry-cube.jpg"
       }
     },
     "sakura-no-toki": {
@@ -47516,6 +47819,9 @@
         "en": "Sakura no Toki",
         "ja": "サクラノ刻－櫻の森の下を歩む－",
         "zh-Hans": "樱之刻"
+      },
+      "media": {
+        "cover": "https://cdn.jsdelivr.net/gh/webrpg-org/images@main/sakura-no-toki.webp"
       }
     },
     "sakura-no-uta": {
@@ -47645,6 +47951,9 @@
         "en": "Sakura no Uta",
         "ja": "サクラノ詩－櫻の森の上を舞う－",
         "zh-Hans": "樱之诗"
+      },
+      "media": {
+        "cover": "https://cdn.jsdelivr.net/gh/webrpg-org/images@main/sakura-no-uta.jpg"
       }
     },
     "stella-of-the-end": {
@@ -47766,6 +48075,9 @@
         "en": "Stella of the End",
         "ja": "終のステラ",
         "zh-Hans": "星之终途"
+      },
+      "media": {
+        "cover": "https://cdn.jsdelivr.net/gh/webrpg-org/images@main/stella-of-the-end.jpg"
       }
     },
     "stella-of-the-end-diary-of-a-faint-hope": {
@@ -47873,6 +48185,9 @@
         "en": "Stella of the End: Diary of a Faint Hope",
         "ja": "終のステラ Diary of a Faint Hope",
         "zh-Hans": "星之旅途 后日谈"
+      },
+      "media": {
+        "cover": "https://cdn.jsdelivr.net/gh/webrpg-org/images@main/stella-of-the-end-diary-of-a-faint-hope.jpg"
       }
     },
     "aiyoku-no-eustia": {
@@ -47984,6 +48299,9 @@
         "en": "Aiyoku no Eustia",
         "ja": "穢翼のユースティア",
         "zh-Hans": "秽翼的尤斯蒂娅"
+      },
+      "media": {
+        "cover": "https://cdn.jsdelivr.net/gh/webrpg-org/images@main/aiyoku-no-eustia.jpg"
       }
     },
     "amaemi-longing-for-you": {
@@ -48090,6 +48408,9 @@
         "en": "Amaemi: Longing for you",
         "ja": "アマエミ -longing for you-",
         "zh-Hans": "绘缘蜜恋"
+      },
+      "media": {
+        "cover": "https://cdn.jsdelivr.net/gh/webrpg-org/images@main/amaemi-longing-for-you.png"
       }
     },
     "amanatsu": {
@@ -48197,6 +48518,9 @@
         "en": "AMANATSU",
         "ja": "アマナツ",
         "zh-Hans": "甜蜜夏日"
+      },
+      "media": {
+        "cover": "https://cdn.jsdelivr.net/gh/webrpg-org/images@main/amanatsu.jpg"
       }
     },
     "imo-oka": {
@@ -48302,6 +48626,9 @@
         "en": "Imo Oka",
         "ja": "いもおか",
         "zh-Hans": "妹妹母亲～母性萝莉"
+      },
+      "media": {
+        "cover": "https://cdn.jsdelivr.net/gh/webrpg-org/images@main/imo-oka.jpg"
       }
     },
     "nekomiko": {
@@ -48409,6 +48736,9 @@
         "en": "NekoMiko",
         "ja": "ねこみこ",
         "zh-Hans": "神社里的猫巫女"
+      },
+      "media": {
+        "cover": "https://cdn.jsdelivr.net/gh/webrpg-org/images@main/nekomiko.jpg"
       }
     },
     "real-anime-situation-2": {
@@ -48523,6 +48853,9 @@
         "en": "Real Anime Situation! 2",
         "ja": "リアルエロゲシチュエーション！2",
         "zh-Hans": "真实动漫情境体验 2"
+      },
+      "media": {
+        "cover": "https://cdn.jsdelivr.net/gh/webrpg-org/images@main/real-anime-situation-2.jpg"
       }
     },
     "saya-no-uta": {
@@ -48635,6 +48968,9 @@
         "en": "The Song of Saya",
         "ja": "沙耶の唄",
         "zh-Hans": "沙耶之歌"
+      },
+      "media": {
+        "cover": "https://cdn.jsdelivr.net/gh/webrpg-org/images@main/saya-no-uta.jpg"
       }
     },
     "sore-wa-maichiru-sakura-no-you-ni": {
@@ -48751,6 +49087,9 @@
         "en": "Cherry Petals Fall Like Teardrops",
         "ja": "それは舞い散る桜のように",
         "zh-Hans": "繁花落舞恋如樱"
+      },
+      "media": {
+        "cover": "https://cdn.jsdelivr.net/gh/webrpg-org/images@main/sore-wa-maichiru-sakura-no-you-ni.jpg"
       }
     },
     "soreyori-no-zensoushi": {
@@ -48848,6 +49187,9 @@
         "en": "Soreyori no Zensoushi",
         "ja": "ソレヨリノ前奏詩",
         "zh-Hans": "永不落幕的前奏诗"
+      },
+      "media": {
+        "cover": "https://cdn.jsdelivr.net/gh/webrpg-org/images@main/soreyori-no-zensoushi.jpg"
       }
     },
     "the-expression-amrilato": {
@@ -48954,6 +49296,9 @@
         "en": "The Expression Amrilato",
         "ja": "ことのはアムリラート",
         "zh-Hans": "爱语"
+      },
+      "media": {
+        "cover": "https://cdn.jsdelivr.net/gh/webrpg-org/images@main/the-expression-amrilato.jpg"
       }
     },
     "wonderful-everyday": {
@@ -49071,6 +49416,9 @@
         "en": "Wonderful Everyday",
         "ja": "素晴らしき日々 ～不連続存在～",
         "zh-Hans": "素晴日"
+      },
+      "media": {
+        "cover": "https://cdn.jsdelivr.net/gh/webrpg-org/images@main/wonderful-everyday.jpg"
       }
     },
     "asuka-san-wa-nabinai": {
@@ -49181,6 +49529,9 @@
         "en": "Asuka-san wa Nabinai",
         "ja": "アスカさんはなびかない",
         "zh-Hans": "飞鸟会长不肯认输"
+      },
+      "media": {
+        "cover": "https://cdn.jsdelivr.net/gh/webrpg-org/images@main/asuka-san-wa-nabinai.png"
       }
     },
     "kara-no-shojo-the-second-episode": {
@@ -49309,6 +49660,9 @@
         "en": "Kara no Shojo - The Second Episode",
         "ja": "虚ノ少女",
         "zh-Hans": "虚之少女"
+      },
+      "media": {
+        "cover": "https://cdn.jsdelivr.net/gh/webrpg-org/images@main/kara-no-shojo-the-second-episode.jpg"
       }
     },
     "kono-aozora-ni-yakusoku-o": {
@@ -49424,6 +49778,9 @@
         "en": "Kono Aozora ni Yakusoku o",
         "ja": "この青空に約束を―",
         "zh-Hans": "青空下的约定"
+      },
+      "media": {
+        "cover": "https://cdn.jsdelivr.net/gh/webrpg-org/images@main/kono-aozora-ni-yakusoku-o.jpg"
       }
     },
     "nora-to-oujo-to-noraneko-heart": {
@@ -49553,6 +49910,9 @@
         "en": "The Princess, the Stray Cat, and Matters of the Heart",
         "ja": "ノラと皇女と野良猫ハート",
         "zh-Hans": "野良与皇女与流浪猫之心"
+      },
+      "media": {
+        "cover": "https://cdn.jsdelivr.net/gh/webrpg-org/images@main/nora-to-oujo-to-noraneko-heart.jpg"
       }
     },
     "nora-to-oujo-to-noraneko-heart-2": {
@@ -49680,6 +50040,9 @@
         "en": "The Princess, the Stray Cat, and Matters of the Heart 2",
         "ja": "ノラと皇女と野良猫ハート2",
         "zh-Hans": "野良与皇女与流浪猫之心 2"
+      },
+      "media": {
+        "cover": "https://cdn.jsdelivr.net/gh/webrpg-org/images@main/nora-to-oujo-to-noraneko-heart-2.jpg"
       }
     },
     "tsuki-ni-yorisou-otome-no-sahou": {
@@ -49800,6 +50163,9 @@
         "en": "Tsuki ni Yorisou Otome no Sahou",
         "ja": "月に寄りそう乙女の作法",
         "zh-Hans": "近月少女的礼仪"
+      },
+      "media": {
+        "cover": "https://cdn.jsdelivr.net/gh/webrpg-org/images@main/tsuki-ni-yorisou-otome-no-sahou.jpg"
       }
     },
     "yosuga-no-sora": {
@@ -49915,6 +50281,9 @@
         "en": "Yosuga no Sora",
         "ja": "ヨスガノソラ",
         "zh-Hans": "缘之空"
+      },
+      "media": {
+        "cover": "https://cdn.jsdelivr.net/gh/webrpg-org/images@main/yosuga-no-sora.jpg"
       }
     }
   }
