@@ -26973,7 +26973,12 @@
     "sourceRepo": "cri-middleware/SSPlayerForWeb",
     "sourceDefaultBranch": "main",
     "sourceHeadSha": "d1888e00aad70fe06701bfd71470922d553cf3bd",
-    "processedHeadSha": "ef6e900ae4c527cc140f94186a2771af179a8739"
+    "processedHeadSha": "ef6e900ae4c527cc140f94186a2771af179a8739",
+    "meta": {
+      "playable": false,
+      "reviewedAt": "2026-11-20",
+      "reviewedSourceHeadSha": "d1888e00aad70fe06701bfd71470922d553cf3bd"
+    }
   },
   {
     "id": "spritestudio-ss6playerforweb",
