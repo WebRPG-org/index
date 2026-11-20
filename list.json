@@ -29017,18 +29017,10 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/AILab-FOI-svjetovi-znanja/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg",
-        "educational"
-      ],
-      "languages": [
-        "hr"
-      ],
       "nsfw": false,
       "playable": false,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-12"
+      "reviewedAt": "2026-11-12",
+      "reviewedSourceHeadSha": "bc697b0239f397cc0f83b8ed152903aa388e188a"
     }
   },
   {
@@ -29228,14 +29220,10 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/TeamCstudios-TeamCStudiosAdventure-Exploration/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "other"
-      ],
       "nsfw": false,
       "playable": false,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-12"
+      "reviewedAt": "2026-11-12",
+      "reviewedSourceHeadSha": "bd99cf14183eb29da2301f542114771310224d1f"
     }
   },
   {
@@ -29323,9 +29311,8 @@
     "meta": {
       "nsfw": false,
       "playable": false,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-12"
+      "reviewedAt": "2026-11-12",
+      "reviewedSourceHeadSha": "239aa675db1767af74fb3c5f5af0fd15df89c616"
     }
   },
   {
@@ -29413,12 +29400,10 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/Corddt-RPG_Maker_toAndroid/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "template"
-      ],
       "nsfw": false,
-      "playable": true,
-      "reviewedAt": "2026-11-07"
+      "playable": false,
+      "reviewedAt": "2026-11-07",
+      "reviewedSourceHeadSha": "2905740242aab15edcd0ae9b5b6842c5f1f4cb85"
     }
   },
   {
@@ -29480,12 +29465,10 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/SpikeSpieg-el-rpgTest/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "template"
-      ],
       "nsfw": false,
       "playable": false,
-      "reviewedAt": "2026-11-07"
+      "reviewedAt": "2026-11-07",
+      "reviewedSourceHeadSha": "62d85c0b042e016f8fdf17028f1db2d15aa18734"
     }
   },
   {
@@ -29636,12 +29619,10 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/Kittenception-kbfkwfkwbfwk/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "template"
-      ],
       "nsfw": false,
       "playable": false,
-      "reviewedAt": "2026-11-07"
+      "reviewedAt": "2026-11-07",
+      "reviewedSourceHeadSha": "813d878b1dc9c457a09c0b30dcd9c332b5070987"
     }
   },
   {
@@ -29737,15 +29718,10 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/hzj199710-rpgMakerP1/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "template"
-      ],
-      "languages": [
-        "zh-Hans"
-      ],
       "nsfw": false,
-      "playable": true,
-      "reviewedAt": "2026-11-12"
+      "playable": false,
+      "reviewedAt": "2026-11-12",
+      "reviewedSourceHeadSha": "1c2cae76af03e2849b5a287eea44e4aef7b96853"
     }
   },
   {
@@ -29775,15 +29751,10 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/bigren0615-rpgMakerMV-CustomMainMenuLearning/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "template"
-      ],
-      "languages": [
-        "zh-Hant"
-      ],
       "nsfw": false,
-      "playable": true,
-      "reviewedAt": "2026-11-12"
+      "playable": false,
+      "reviewedAt": "2026-11-12",
+      "reviewedSourceHeadSha": "2d1acac69e017649ee20bc7280f2a647f1ae9475"
     }
   },
   {
@@ -29813,9 +29784,8 @@
     "meta": {
       "nsfw": false,
       "playable": false,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-12"
+      "reviewedAt": "2026-11-12",
+      "reviewedSourceHeadSha": "682dda48ebc8e1f39accef3c32c6ca34da026ccb"
     }
   },
   {
@@ -29845,15 +29815,10 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/bywuuu-lecWeb/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "template"
-      ],
-      "languages": [
-        "zh-Hans"
-      ],
       "nsfw": false,
-      "playable": true,
-      "reviewedAt": "2026-11-12"
+      "playable": false,
+      "reviewedAt": "2026-11-12",
+      "reviewedSourceHeadSha": "6f734719ac159f5608605fd66eccca87485093a7"
     }
   },
   {
