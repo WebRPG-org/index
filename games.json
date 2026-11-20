@@ -36525,6 +36525,9 @@
           "https://cy.acgycy.cc/page/285?orderby=favorite",
           "https://www.mcy009.blog/archives/category/zxyx/zaixianslg?by=rand"
         ]
+      },
+      "media": {
+        "cover": "https://cdn.jsdelivr.net/gh/webrpg-org/images@main/leafsinger.png"
       }
     },
     "praygame": {
@@ -37252,6 +37255,9 @@
       "translatedTitles": {
         "en": "Ren and the Last Seven Days",
         "zh-Hans": "莲与最后七日"
+      },
+      "media": {
+        "cover": "https://cdn.jsdelivr.net/gh/webrpg-org/images@main/lian-yu-zuihou-qiri.png"
       }
     },
     "mechanica": {
@@ -40631,6 +40637,9 @@
       "translatedTitles": {
         "en": "The Fickle Little Witch",
         "zh-Hans": "飘忽不定的小小魔女"
+      },
+      "media": {
+        "cover": "https://cdn.jsdelivr.net/gh/webrpg-org/images@main/piaohu-buding-de-xiaoxiao-monv.jpg"
       }
     },
     "the-song-of-star-night": {
@@ -41714,6 +41723,9 @@
       },
       "translatedTitles": {
         "en": "Kinky Dungeon"
+      },
+      "media": {
+        "cover": "https://cdn.jsdelivr.net/gh/webrpg-org/images@main/kinky-dungeon.png"
       }
     },
     "nursery-slime": {
@@ -41976,6 +41988,9 @@
         "en": "Blue and Purple Gems",
         "ja": "青色と紫色の宝石",
         "zh-Hans": "青色和紫色宝石"
+      },
+      "media": {
+        "cover": "https://cdn.jsdelivr.net/gh/webrpg-org/images@main/qing-se-he-zi-se-bao-shi.png"
       }
     },
     "tougijou-no-hinmuki-shokunin-rpg": {
@@ -42555,6 +42570,9 @@
         "en": "21 Ways to Train a Kitten",
         "ja": "子猫をしつける21の方法",
         "zh-Hans": "调教小猫的21种方法"
+      },
+      "media": {
+        "cover": "https://cdn.jsdelivr.net/gh/webrpg-org/images@main/koneko-wo-shitsukeru-21-no-hoho.png"
       }
     },
     "moonlight-cornelia": {
@@ -43241,7 +43259,10 @@
       },
       "popularity": 4,
       "assessedAt": "2026-11-21",
-      "assessmentNote": "多次中/日/英网搜均未找到原作的任何资料（Steam/DLsite/VNDB/资源站皆无），按规则给 4 分，rating 留空，nsfw 未确认故省略。"
+      "assessmentNote": "多次中/日/英网搜均未找到原作的任何资料（Steam/DLsite/VNDB/资源站皆无），按规则给 4 分，rating 留空，nsfw 未确认故省略。",
+      "media": {
+        "cover": "https://cdn.jsdelivr.net/gh/webrpg-org/images@main/emo-diteer.png"
+      }
     },
     "yuki-no-tokeru-koro-ni": {
       "schemaVersion": 1,
@@ -45504,6 +45525,9 @@
         "en": "Perseus of the Summer Sky",
         "ja": "夏空のペルセウス",
         "zh-Hans": "夏空的英仙座"
+      },
+      "media": {
+        "cover": "https://cdn.jsdelivr.net/gh/webrpg-org/images@main/natsuzora-no-peruseusu.jpg"
       }
     },
     "ninnindays": {
