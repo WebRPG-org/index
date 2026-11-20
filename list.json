@@ -793,14 +793,10 @@
     "processedHeadSha": "621337a2b226ca132ef2b31a1cf5a85619fabc59",
     "coverPath": "cover.png",
     "meta": {
-      "genres": [
-        "rpg"
-      ],
       "nsfw": false,
       "playable": false,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "reviewedAt": "2026-11-07",
+      "reviewedSourceHeadSha": "feb711436c3195a1e7a9eadd774de50a404fcc06"
     },
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/michaelpig0912-michaelpig0912.github.io/game.html served an RPG Maker entry point and its startup resources"
@@ -897,15 +893,10 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/RabiMew-RabiMew.github.io/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "template"
-      ],
-      "languages": [
-        "zh-Hans"
-      ],
       "nsfw": false,
-      "playable": true,
-      "reviewedAt": "2026-11-07"
+      "playable": false,
+      "reviewedAt": "2026-11-07",
+      "reviewedSourceHeadSha": "ed263ec8f17674225f069160180e6336c0e73541"
     }
   },
   {
@@ -956,15 +947,10 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/Laplace321-FFXIVFanGame/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "template"
-      ],
-      "languages": [
-        "zh-Hans"
-      ],
       "nsfw": false,
-      "playable": true,
-      "reviewedAt": "2026-11-07"
+      "playable": false,
+      "reviewedAt": "2026-11-07",
+      "reviewedSourceHeadSha": "79afcf1b91075419ef4e676318a429f829b80593"
     }
   },
   {
@@ -1491,18 +1477,10 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/Formidi-KanzideGo/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "minigame",
-        "educational"
-      ],
-      "languages": [
-        "ja"
-      ],
       "nsfw": false,
       "playable": false,
-      "popularity": 8,
-      "rating": 7,
-      "reviewedAt": "2026-11-07"
+      "reviewedAt": "2026-11-07",
+      "reviewedSourceHeadSha": "b5295b37c9de7fccbb02398c93a2eadb544d9e79"
     }
   },
   {
@@ -2217,15 +2195,10 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/MagicalYuto-Secret-Funeral/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg",
-        "horror"
-      ],
       "nsfw": false,
       "playable": false,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "reviewedAt": "2026-11-07",
+      "reviewedSourceHeadSha": "a9b860f167bb7ac2197efff47f8b6f19fef608c3"
     }
   },
   {
@@ -2905,18 +2878,10 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/takuantoono-kn1.30/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg",
-        "fantasy"
-      ],
-      "languages": [
-        "ja"
-      ],
       "nsfw": false,
       "playable": false,
-      "popularity": 3,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "reviewedAt": "2026-11-07",
+      "reviewedSourceHeadSha": "1d6a6bf38a6efb4e5c3102fd4fe12710e5d17bd1"
     }
   },
   {
@@ -3005,12 +2970,10 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/sydomo-MiyoiPluginsTestDemo/ served an RPG Maker entry point and its startup resources",
     "meta": {
+      "nsfw": false,
+      "playable": false,
       "reviewedAt": "2026-11-07",
-      "playable": true,
-      "genres": [
-        "template"
-      ],
-      "nsfw": false
+      "reviewedSourceHeadSha": "0a553bdb146c5bf6125cb51f556239f8b6289e04"
     }
   },
   {
@@ -3936,14 +3899,10 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/ddCeka-faraway-celesphia/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg"
-      ],
-      "nsfw": false,
+      "nsfw": true,
       "playable": false,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "reviewedAt": "2026-11-07",
+      "reviewedSourceHeadSha": "5557827a9158f4c494d0233e6e0925198a8cea86"
     }
   },
   {
@@ -3987,14 +3946,10 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/teritaris-kakeyokonnectMZ/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg"
-      ],
       "nsfw": false,
       "playable": false,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "reviewedAt": "2026-11-07",
+      "reviewedSourceHeadSha": "a103933e27e0ffcbde9deef58f793ff1cd2b5c9a"
     }
   },
   {
@@ -4024,14 +3979,10 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/teritaris-tenxym/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "rpg"
-      ],
       "nsfw": false,
       "playable": false,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-07"
+      "reviewedAt": "2026-11-07",
+      "reviewedSourceHeadSha": "f3d7d358ca1379a8288c8d7ea78d3606ef2e7179"
     }
   },
   {
@@ -4278,12 +4229,10 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/munokura-Sword-Floor-MV-sample/ served an RPG Maker entry point and its startup resources",
     "meta": {
+      "nsfw": false,
+      "playable": false,
       "reviewedAt": "2026-11-07",
-      "playable": true,
-      "genres": [
-        "template"
-      ],
-      "nsfw": false
+      "reviewedSourceHeadSha": "56b3b4be91f7c3eb53f23c525cca76a4a3c641dd"
     }
   },
   {
