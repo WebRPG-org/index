@@ -29848,15 +29848,10 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/koohdev-chronicles/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "template"
-      ],
-      "languages": [
-        "en"
-      ],
       "nsfw": false,
-      "playable": true,
-      "reviewedAt": "2026-11-12"
+      "playable": false,
+      "reviewedAt": "2026-11-12",
+      "reviewedSourceHeadSha": "edb68432468bb531d4940782c8668e19c81a26f8"
     }
   },
   {
@@ -29886,12 +29881,10 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/koohdev-chronicles-demo/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "template"
-      ],
       "nsfw": false,
       "playable": false,
-      "reviewedAt": "2026-11-07"
+      "reviewedAt": "2026-11-07",
+      "reviewedSourceHeadSha": "a4eeca3ce822ee84b5e23046c2f4d1710f5025d4"
     }
   },
   {
@@ -30038,18 +30031,10 @@
     "sourceHeadSha": "2dde9f791ea66ad97e54cb3030d966a020f1d3e4",
     "processedHeadSha": "8cfb6de479a0c0e1fb88eac4421229e59caa9ff8",
     "meta": {
-      "genres": [
-        "adventure",
-        "horror"
-      ],
-      "languages": [
-        "en"
-      ],
       "nsfw": true,
       "playable": false,
-      "popularity": 9,
-      "rating": 8,
-      "reviewedAt": "2026-11-07"
+      "reviewedAt": "2026-11-07",
+      "reviewedSourceHeadSha": "2dde9f791ea66ad97e54cb3030d966a020f1d3e4"
     },
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/aminegold0-ios-port-TCOAAL/ served an RPG Maker entry point and its startup resources"
@@ -30117,18 +30102,10 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/Suhukk-bbb/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "adventure",
-        "horror"
-      ],
-      "languages": [
-        "en"
-      ],
       "nsfw": true,
       "playable": false,
-      "popularity": 9,
-      "rating": 8,
-      "reviewedAt": "2026-11-07"
+      "reviewedAt": "2026-11-07",
+      "reviewedSourceHeadSha": "aa4de8f48accf2dc0d211b40f127eecef48c87d4"
     }
   },
   {
@@ -30196,12 +30173,10 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/PaulStubbs-TheCorporateLadder/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "template"
-      ],
       "nsfw": false,
-      "playable": true,
-      "reviewedAt": "2026-11-12"
+      "playable": false,
+      "reviewedAt": "2026-11-12",
+      "reviewedSourceHeadSha": "4dc5ba0f2f44ebcf28bc6deabd1d158bf1cdf369"
     }
   },
   {
@@ -30802,9 +30777,8 @@
     "meta": {
       "nsfw": false,
       "playable": false,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-12"
+      "reviewedAt": "2026-11-12",
+      "reviewedSourceHeadSha": "019571597b5f29e3aa1cef5ba87b0107d2847cdd"
     }
   },
   {
@@ -30900,9 +30874,8 @@
     "meta": {
       "nsfw": false,
       "playable": false,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-12"
+      "reviewedAt": "2026-11-12",
+      "reviewedSourceHeadSha": "9047f4aa6bf662719fa15b5d9fd0393111ea75da"
     }
   },
   {
@@ -30990,18 +30963,10 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/st651102064101-design-The-game-The-Late-Riser/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "aliases": [
-        "The Late-Riser"
-      ],
-      "languages": [
-        "th"
-      ],
       "nsfw": false,
       "playable": false,
-      "popularity": 2,
-      "rating": 5,
       "reviewedAt": "2026-11-12",
-      "title": "ไอหนุ่มตื่นสาย"
+      "reviewedSourceHeadSha": "77f10ae7810cd4756d029126f52ed21e50a6b134"
     }
   },
   {
@@ -31033,9 +30998,8 @@
     "meta": {
       "nsfw": false,
       "playable": false,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-12"
+      "reviewedAt": "2026-11-12",
+      "reviewedSourceHeadSha": "29b625a70d1d4f189814b41ca44112415e702b94"
     }
   },
   {
@@ -31067,9 +31031,8 @@
     "meta": {
       "nsfw": false,
       "playable": false,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-12"
+      "reviewedAt": "2026-11-12",
+      "reviewedSourceHeadSha": "473a50aec3afbc118b7832da51835383722d72d5"
     }
   },
   {
@@ -31099,14 +31062,10 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/StebPleb-ThisIsNiceGame/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "languages": [
-        "en"
-      ],
       "nsfw": false,
       "playable": false,
-      "popularity": 2,
-      "rating": 5,
-      "reviewedAt": "2026-11-12"
+      "reviewedAt": "2026-11-12",
+      "reviewedSourceHeadSha": "c8f40c62af58cff21d326dbeb06f400cba5ab474"
     }
   },
   {
@@ -31154,12 +31113,10 @@
     "reachable": true,
     "reachabilityDetail": "https://webrpg.org/valkyrieproject001-test01/ served an RPG Maker entry point and its startup resources",
     "meta": {
-      "genres": [
-        "template"
-      ],
       "nsfw": false,
-      "playable": true,
-      "reviewedAt": "2026-11-07"
+      "playable": false,
+      "reviewedAt": "2026-11-07",
+      "reviewedSourceHeadSha": "9872e100e51070a872a0eea12d1948c2f74fcb0f"
     }
   },
   {
