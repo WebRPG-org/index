@@ -140,6 +140,7 @@ test("flattening a nested game cannot inject the old landing page", async (t) =>
 
 test("game registry enriches only the main game entry and leaves other HTML without SEO", async (t) => {
   const files = gameFiles({ engine: "RPG Maker MV" });
+  files["index.html"] = files["index.html"].replace("</html>", "<body></body></html>");
   files["bonus.html"] = '<html><head><title>Bonus</title><script src="js/rpg_core.js"></script></head><body>Bonus</body></html>';
   const w = await workspace(t, [entry], { files });
   await w.write("games.json", { registryVersion: 1, games: { demo: {
@@ -157,6 +158,7 @@ test("game registry enriches only the main game entry and leaves other HTML with
   assert.equal(result.seoStatus, "enhanced");
   assert.equal(result.seoGameSlug, "demo");
   assert.equal(result.seoHtmlLanguage, "zh-Hans");
+  assert.equal(result.shellStatus, "enhanced");
   const main = snapshot.files["index.html"];
   assert.match(main, /<html lang="zh-Hans">/);
   assert.match(main, /<title>Demo 中文版 \| WebRPG<\/title>/);
@@ -164,6 +166,11 @@ test("game registry enriches only the main game entry and leaves other HTML with
   assert.match(main, /href="https:\/\/webrpg.org\/Alice-game\/"/);
   assert.match(main, /en\/game\/demo\/#game/);
   assert.ok(main.includes(analytics));
+  assert.match(main, /id="webrpg-shell"/);
+  assert.match(main, /id="webrpg-touch-controls"/);
+  assert.match(main, /href="https:\/\/webrpg.org\/zh-Hans\/game\/demo\//);
+  assert.match(main, /src="https:\/\/webrpg.org\/tookit\/shell.js"/);
+  assert.match(main, /href="https:\/\/webrpg.org\/tookit\/shell.css"/);
   assert.equal(snapshot.files["bonus.html"], files["bonus.html"]);
   assert.ok(!snapshot.files["bonus.html"].includes("WebRPG SEO:START"));
 });

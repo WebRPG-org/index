@@ -5,6 +5,7 @@ import path from "node:path";
 import { getForkNames, sourceKey } from "./repo-identity.mjs";
 import { detectRpgMakerProject, flattenEntries, getStartupScripts, looksLikeRpgMakerEntry, resolveRepoReference, runtimeFiles, DATABASE_FILES, validateEntry } from "./rpgmaker-project.mjs";
 import { buildInstanceIndex, enhanceGameEntryHTML } from "./game-page-seo.mjs";
+import { injectGameShell } from "./game-shell-html.mjs";
 
 const apiBase = "https://api.github.com";
 const token = process.env.WEBRPG_APP_TOKEN || process.env.GITHUB_TOKEN || "";
@@ -452,6 +453,12 @@ async function run() {
       result.seoGameSlug = seo.gameSlug || undefined;
       result.seoHtmlLanguage = seo.htmlLanguage;
       result.seoMetaLanguage = seo.metaLanguage;
+      const shell = injectGameShell(updated, { entry, match: gameMatch });
+      updated = shell.html;
+      result.shellStatus = shell.status;
+      if (!["enhanced", "unchanged"].includes(shell.status)) {
+        console.log("[shell] Entry unchanged: " + shell.status);
+      }
       if (seo.status !== "enhanced" && seo.status !== "unchanged") {
         console.log("[seo] Entry unchanged: " + seo.status);
       }
