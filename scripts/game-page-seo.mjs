@@ -74,17 +74,55 @@ function getTitle(entry, match, head, savedTitle = "") {
   return candidate ? candidate.replace(/\s*[|｜]\s*WebRPG\s*$/i, "").trim() + " | WebRPG" : "";
 }
 
+const DESCRIPTION_LIMITS = { en: 170, "zh-Hans": 110, ja: 125 };
+
+// Use complete sentences or clauses instead of blindly cutting a game summary
+// mid-word/mid-sentence. If no meaningful boundary fits, keep the original
+// summary rather than emit an awkward or misleading fragment.
+function summarizeForMeta(summary, available, lang) {
+  if (summary.length <= available) return summary;
+  const minimum = Math.min(Math.floor(available * .4), lang === "en" ? 48 : 27);
+  const chooseBoundary = (pattern) => {
+    let best = "";
+    for (const match of summary.matchAll(pattern)) {
+      const end = match.index + match[0].length;
+      const candidate = tidy(summary.slice(0, end));
+      if (candidate.length >= minimum && candidate.length <= available) best = candidate;
+    }
+    return best;
+  };
+  const sentence = chooseBoundary(lang === "en" ? /[.!?](?=\s|$)/g : /[。！？.!?]/g);
+  if (sentence) return sentence;
+  const clause = chooseBoundary(lang === "en" ? /[;:](?=\s|$)|,(?=\s)/g : /[；：，、]/g);
+  if (!clause) return summary;
+  return lang === "en" ? clause.replace(/[,;:]$/, ".") : clause.replace(/[，、；：]$/, "。");
+}
+
+function optimizeMetaDescription(summary, title, lang) {
+  if (!title || PLACEHOLDER.test(title)) return summary;
+  const prefix = lang === "zh-Hans"
+    ? `在 WebRPG 在线游玩《${title}》。`
+    : lang === "ja"
+      ? `「${title}」をWebRPGでブラウザーからプレイ。`
+      : `Play ${title} online in your browser on WebRPG.`;
+  // The existing summary remains the source of all game-specific claims.
+  // A length target is a soft preference, not a reason to damage the copy.
+  const available = (DESCRIPTION_LIMITS[lang] || DESCRIPTION_LIMITS.en) - prefix.length - 1;
+  const excerpt = available >= 40 ? summarizeForMeta(summary, available, lang) : summary;
+  return `${prefix} ${excerpt}`;
+}
+
 function getDescription(game, lang, baseTitle, engine) {
   if (game) {
     for (const locale of [...new Set([lang, "en", "ja", "zh-Hans"])]) {
       const summary = tidy(game.introductions?.[locale]?.summary);
       if (summary && !/^(?:tbd|todo|lorem ipsum|待补充|暂无介绍)$/i.test(summary)) {
-        return { text: summary, lang: locale };
+        return { text: optimizeMetaDescription(summary, baseTitle, locale), lang: locale };
       }
     }
   }
   if (!baseTitle || PLACEHOLDER.test(baseTitle)) return { text: "", lang: "en" };
-  return { text: `Play ${baseTitle} in your browser on WebRPG. A ${tidy(engine) || "RPG Maker"} game.`, lang: "en" };
+  return { text: `Play ${baseTitle} online in your browser on WebRPG. A ${tidy(engine) || "RPG Maker"} game.`, lang: "en" };
 }
 
 // Safe/idempotent: only touches <html lang>, <head> metadata, never game scripts or visible layout.

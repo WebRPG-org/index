@@ -45,7 +45,7 @@ test("Chinese game has localized title, description and actual gameplay language
   assert.equal(result.status, "enhanced");
   assert.match(result.html, /<html lang="zh-Hans">/);
   assert.match(result.html, /<title>Narcissu（中文版） \| WebRPG<\/title>/);
-  assert.match(result.html, /content="关于生命与死亡的视觉小说。"/);
+  assert.match(result.html, /content="在 WebRPG 在线游玩《Narcissu（中文版）》。 关于生命与死亡的视觉小说。"/);
   assert.match(result.html, /content="zh_CN"/);
   assert.match(result.html, /href="https:\/\/webrpg.org\/Narcissu\/"/);
   assert.match(result.html, /https:\/\/webrpg.org\/en\/game\/narcissu\/#game/);
@@ -59,7 +59,7 @@ test("Chinese game has localized title, description and actual gameplay language
 test("Other-language game is not mislabelled as English", () => {
   const result = apply("narcissu-pt");
   assert.match(result.html, /<html lang="pt">/);
-  assert.match(result.html, /content="A visual novel about life and death\."/);
+  assert.match(result.html, /content="Play Narcissu Português online in your browser on WebRPG. A visual novel about life and death\."/);
   assert.doesNotMatch(result.html, /property="og:locale"/);
   assert.match(result.html, /<title>Narcissu Português \| WebRPG<\/title>/);
 });
@@ -68,7 +68,7 @@ test("Multi-language without confirmed default language gets und; existing suppo
   assert.match(apply("narcissu-multi").html, /<html lang="und">/);
   const explicit = apply("narcissu-multi", html.replace("<html>", '<html lang="ja">'));
   assert.match(explicit.html, /<html lang="ja">/);
-  assert.match(explicit.html, /content="ナルキッソスの物語。"/);
+  assert.match(explicit.html, /content="「Narcissu International」をWebRPGでブラウザーからプレイ。 ナルキッソスの物語。"/);
 });
 
 test("Repeated injection is byte-identical including unknown games", () => {
@@ -122,6 +122,43 @@ test("Invalid URLs, invalid markers or missing head are not mutated", () => {
   const broken = html.replace("</head>", `${SEO_START}<title>X</title></head>`);
   assert.equal(apply("narcissu-zh", broken).status, "invalid-managed-markers");
   assert.equal((apply("narcissu-zh").html.match(new RegExp(SEO_END, "g")) || []).length, 1);
+});
+
+test("Long English summaries use an intact sentence while preserving search intent", () => {
+  const game = structuredClone(registry.games.narcissu);
+  const sentence = "A fantasy RPG set in a mysterious town where two travelers search for a lost friend.";
+  game.introductions.en.summary = sentence + " The story continues across ancient ruins, hidden valleys, and many dangerous encounters with unusual characters.";
+  const result = apply("narcissu-pt", html, { match: { slug: "narcissu", game, instance: registry.games.narcissu.instances[1] } });
+  const meta = result.html.match(/<meta name="description" content="([^"]+)">/)[1];
+  assert.ok(meta.startsWith("Play Narcissu Português online in your browser on WebRPG."));
+  assert.ok(meta.endsWith(sentence));
+  assert.ok(meta.length <= 170);
+  assert.ok(!meta.includes("The story continues"));
+  const graph = JSON.parse(result.html.split('<script type="application/ld+json">')[1].split("</script>")[0]);
+  assert.equal(graph.description, meta);
+  assert.ok(result.html.includes(`<meta property="og:description" content="${meta}">`));
+});
+
+test("Chinese SEO excerpts preserve complete clauses rather than cutting words", () => {
+  const game = structuredClone(registry.games.narcissu);
+  const sentence = "讲述两名旅人在一座神秘的古城相遇并寻找失落记忆的奇幻冒险故事。";
+  game.introductions["zh-Hans"].summary = sentence + "之后他们必须穿越危机四伏的森林和地牢，面对未知的敌人与艰难抉择，最终发现古城隐藏多年的秘密。".repeat(3);
+  const result = apply("narcissu-zh", html, { match: { slug: "narcissu", game, instance: registry.games.narcissu.instances[0] } });
+  const meta = result.html.match(/<meta name="description" content="([^"]+)">/)[1];
+  assert.match(meta, /^在 WebRPG 在线游玩《Narcissu（中文版）》/);
+  assert.ok(meta.includes(sentence));
+  assert.ok(meta.endsWith("。"));
+  assert.ok(meta.length <= 110);
+});
+
+test("When no meaningful boundary exists, the original summary stays intact", () => {
+  const game = structuredClone(registry.games.narcissu);
+  const longUnpunctuated = ("A mysterious adventure with a long original introduction ").repeat(5).trim();
+  game.introductions.en.summary = longUnpunctuated;
+  const result = apply("narcissu-pt", html, { match: { slug: "narcissu", game, instance: registry.games.narcissu.instances[1] } });
+  const meta = result.html.match(/<meta name="description" content="([^"]+)">/)[1];
+  assert.ok(meta.endsWith(longUnpunctuated));
+  assert.ok(meta.includes("Play Narcissu Português online"));
 });
 
 test("Original viewport, game scripts and all body markup are preserved exactly", () => {

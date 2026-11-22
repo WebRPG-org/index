@@ -160,7 +160,7 @@ test("game registry enriches only the main game entry and leaves other HTML with
   const main = snapshot.files["index.html"];
   assert.match(main, /<html lang="zh-Hans">/);
   assert.match(main, /<title>Demo 中文版 \| WebRPG<\/title>/);
-  assert.match(main, /content="中文游戏简介。"/);
+  assert.match(main, /content="在 WebRPG 在线游玩《Demo 中文版》。 中文游戏简介。"/);
   assert.match(main, /href="https:\/\/webrpg.org\/Alice-game\/"/);
   assert.match(main, /en\/game\/demo\/#game/);
   assert.ok(main.includes(analytics));

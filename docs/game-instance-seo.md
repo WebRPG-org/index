@@ -17,7 +17,7 @@
 
 ## 元信息
 - Title：实际实例标题 | WebRPG。不会擅自翻译或制造不存在的版本名。
-- Description：优先选适用语言的真实介绍；没有中文、日文或英文对应简介时，优先使用英文；不因 draft 或简介较短阻止索引。
+- Description：优先选适用语言的真实介绍；在独立的 Meta Description 中加入该实例的「在线浏览器游玩」信息，按语言使用自然的短句模板，而不是修改 games.json 中的作品简介。没有对应语言简介时回退英文，不因 draft 或简介较短阻止索引。英文约 170 字符、简体中文约 110 字符、日文约 125 字符为软目标；较长简介优先截取完整句子或有意义的分句，找不到可靠边界就保留原始简介，不生硬截断、伪造玩法或堆砌关键词。Open Graph 与 JSON-LD 使用同一描述。
 - Canonical：实例真实的游玩入口，保留大小写及类似 game.html 的深层入口；绝不统一 canonical 到作品介绍页。
 - Open Graph：站点、标题、简介、规范地址和有效 HTTPS 封面；仅在语言匹配时输出对应 locale。
 - JSON-LD：WebPage，包含真实的 inLanguage。已识别的 Game 引用 Astro 详情页的稳定 VideoGame 实体；没有可靠映射不做关联。单一实际运行页不伪造 hreflang。
@@ -35,4 +35,4 @@
 运行：
 - node --check scripts/game-page-seo.mjs
 - node --check scripts/process-fork-repo.mjs
-- node --test tests
+- node --test tests/*.test.mjs
