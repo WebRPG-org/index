@@ -169,8 +169,8 @@ test("game registry enriches only the main game entry and leaves other HTML with
   assert.match(main, /id="webrpg-shell"/);
   assert.match(main, /id="webrpg-touch-controls"/);
   assert.match(main, /href="https:\/\/webrpg.org\/zh-Hans\/game\/demo\//);
-  assert.match(main, /src="https:\/\/webrpg.org\/tookit\/shell.js"/);
-  assert.match(main, /href="https:\/\/webrpg.org\/tookit\/shell.css"/);
+  assert.match(main, /src="https:\/\/cdn.jsdelivr.net\/gh\/WebRPG-org\/toolkit@v1\.0\.0\/shell.js"/);
+  assert.match(main, /href="https:\/\/cdn.jsdelivr.net\/gh\/WebRPG-org\/toolkit@v1\.0\.0\/shell.css"/);
   assert.equal(snapshot.files["bonus.html"], files["bonus.html"]);
   assert.ok(!snapshot.files["bonus.html"].includes("WebRPG SEO:START"));
 });

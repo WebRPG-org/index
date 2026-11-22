@@ -1,7 +1,7 @@
 # WebRPG 游戏运行页 SEO 注入规范
 
 ## 范围与数据来源
-本功能仅增强经过验证的 RPG Maker 游戏入口 HTML；不修改 games.json、list.json、游戏脚本、Canvas、可见布局或任何生产仓库，Toolkit 的 CSS/JS 独立托管于 WebRPG-org/tookit；准备流程同时注入公共资源引用和原生导航。
+本功能仅增强经过验证的 RPG Maker 游戏入口 HTML；不修改 games.json、list.json、游戏脚本、Canvas、可见布局或任何生产仓库，Toolkit 的 CSS/JS 独立托管于 WebRPG-org/toolkit；准备流程同时注入公共资源引用和原生导航。
 
 - 读取 Index 本地工作副本的 games.json，按内部实例 ID 精确匹配 list.json 的 entry.id，避免根据标题猜测作品归属。
 - 找到唯一匹配时，使用实例标题和 Game 对应的摘要、封面、Slug。
@@ -40,9 +40,9 @@
 ## Game Shell 注入（与 SEO 共用一次入口写入）
 
 - 只对 detection.entryPath 增强。其他 HTML 仍沿用 InsightFlare 注入，不复制 SEO 或菜单。
-- Index 生成原生 details 悬浮球、真实的主页/详情链接，以及可选的虚拟按键 HTML；公共资源由 WebRPG-org/tookit 维护：
-  - https://webrpg.org/tookit/shell.css
-  - https://webrpg.org/tookit/shell.js
+- Index 生成原生 details 悬浮球、真实的主页/详情链接，以及可选的虚拟按键 HTML；公共资源由 WebRPG-org/toolkit 维护：
+  - https://cdn.jsdelivr.net/gh/WebRPG-org/toolkit@v1.0.0/shell.css
+  - https://cdn.jsdelivr.net/gh/WebRPG-org/toolkit@v1.0.0/shell.js
 - CSS 在 Head 中同步加载，经典 JS 紧跟 Body 起始处的悬浮球结构运行。没有框架、不包装 Canvas、不插入 Header/Footer。
 - 游戏详情导航依照实际 HTML 主语言，在 en、ja、zh-Hans 中选取；其他语言使用英文详情链接。无可信 Game 关联则只保留主页链接。
 - 使用 WebRPG Shell Head / WebRPG Shell 两组独立标记，保证重复准备不重复插入，损坏标记保守跳过。

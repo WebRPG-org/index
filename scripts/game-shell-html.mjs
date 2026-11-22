@@ -3,8 +3,8 @@ export const SHELL_HEAD_START = "<!-- WebRPG Shell Head:START -->";
 export const SHELL_HEAD_END = "<!-- WebRPG Shell Head:END -->";
 export const SHELL_BODY_START = "<!-- WebRPG Shell:START -->";
 export const SHELL_BODY_END = "<!-- WebRPG Shell:END -->";
-export const SHELL_CSS_URL = "https://webrpg.org/tookit/shell.css";
-export const SHELL_JS_URL = "https://webrpg.org/tookit/shell.js";
+export const SHELL_CSS_URL = "https://cdn.jsdelivr.net/gh/WebRPG-org/toolkit@v1.0.0/shell.css";
+export const SHELL_JS_URL = "https://cdn.jsdelivr.net/gh/WebRPG-org/toolkit@v1.0.0/shell.js";
 const LOGO_URL = "https://webrpg.org/assets/logo.png";
 const HOME_URL = "https://webrpg.org/";
 const SLUG = /^[a-z0-9][a-z0-9-]*$/i;
@@ -54,7 +54,7 @@ function buildShell({ title, gameSlug, instanceId, detailLocale }) {
     ? navLink("https://webrpg.org/"+detailLocale+"/game/"+encodeURIComponent(gameSlug)+"/",DETAIL_ICON,"Game details") : "";
   return '<details id="webrpg-shell" data-phase="intro" data-menu-direction="down"'+
     ' data-game="'+escapeHtml(gameSlug||"")+'" data-instance="'+escapeHtml(instanceId||"")+'"'+
-    ' style="position:fixed;top:calc(env(safe-area-inset-top,0px) + 16px);left:calc(50% - 91px);z-index:2147483000">'+
+    '>'+
     '<summary aria-label="Open WebRPG menu" title="WebRPG">'+
     '<span class="wr-logo"><img src="'+LOGO_URL+'" alt="" decoding="sync">'+
     '<span class="wr-logo-fallback" aria-hidden="true">WR</span></span>'+
