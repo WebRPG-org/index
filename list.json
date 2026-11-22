@@ -10053,6 +10053,19 @@
     "validationScore": 0
   },
   {
+    "id": "diegutd-boop-dogs",
+    "title": "DEAD PLATE",
+    "repo": "https://github.com/diegutd-boop/dogs",
+    "owner": "diegutd-boop",
+    "name": "dogs",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "discoveredAt": "2026-11-22T19:03:56.196Z",
+    "source": "github-code-search",
+    "sourcePath": "games/dead-plate/index.html",
+    "plannedForkName": "diegutd-boop-dogs"
+  },
+  {
     "id": "drunkenkermit-kermit-rtpk-network-v2",
     "title": "DEAD PLATE",
     "repo": "https://github.com/DrunkenKermit/Kermit-RTPK-Network-V2",
@@ -24912,6 +24925,19 @@
     "syncedFromSource": true,
     "invalidReason": "No RPG Maker MV/MZ HTML entry point loading js/main.js was found.",
     "deletedAt": "2026-09-19T03:25:09.251Z"
+  },
+  {
+    "id": "skylily3-rpg-makers",
+    "title": "Project3",
+    "repo": "https://github.com/Skylily3/RPG_Makers",
+    "owner": "Skylily3",
+    "name": "RPG_Makers",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "discoveredAt": "2026-11-22T19:03:56.196Z",
+    "source": "github-code-search",
+    "sourcePath": "game_MV/index.html",
+    "plannedForkName": "Skylily3-RPG_Makers"
   },
   {
     "id": "supshag-yaxnlw",
