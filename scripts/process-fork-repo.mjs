@@ -4,6 +4,7 @@ import path from "node:path";
 
 import { getForkNames, sourceKey } from "./repo-identity.mjs";
 import { detectRpgMakerProject, flattenEntries, getStartupScripts, looksLikeRpgMakerEntry, resolveRepoReference, runtimeFiles, DATABASE_FILES, validateEntry } from "./rpgmaker-project.mjs";
+import { buildInstanceIndex, enhanceGameEntryHTML } from "./game-page-seo.mjs";
 
 const apiBase = "https://api.github.com";
 const token = process.env.WEBRPG_APP_TOKEN || process.env.GITHUB_TOKEN || "";
@@ -127,6 +128,18 @@ async function run() {
   }
   result.entryId = entry.id;
   result.indexedSource = sourceKey(entry);
+  // The registry is an immutable, read-only input from the same Index checkout.
+  // Uncatalogued forks still get conservative SEO without an invented Game link.
+  const registry = await fs.readFile("games.json", "utf8").then(JSON.parse).catch((error) => {
+    if (error.code === "ENOENT") return null;
+    throw error;
+  });
+  const instanceIndex = buildInstanceIndex(registry);
+  const gameMatch = instanceIndex.get(entry.id) || null;
+  if (instanceIndex.has(entry.id) && !gameMatch) {
+    console.log("[seo] Ambiguous instance ID; skipping Game relationship");
+  }
+
   if (entry && entry.status === "hidden") {
     result.status = "hidden";
     result.invalidReason = "Manually hidden via list.json.";
@@ -424,7 +437,25 @@ async function run() {
       continue;
     }
 
-    const updated = injectScript(original, scriptTag, scriptNeedle);
+    let updated = injectScript(original, scriptTag, scriptNeedle);
+    if (filePath === detection.entryPath) {
+      const seo = enhanceGameEntryHTML(updated, {
+        entry,
+        match: gameMatch,
+        playUrl: result.pagesUrl,
+        siteOrigin,
+        engine: detection.engine,
+        coverUrl: result.cover,
+      });
+      updated = seo.html;
+      result.seoStatus = seo.status;
+      result.seoGameSlug = seo.gameSlug || undefined;
+      result.seoHtmlLanguage = seo.htmlLanguage;
+      result.seoMetaLanguage = seo.metaLanguage;
+      if (seo.status !== "enhanced" && seo.status !== "unchanged") {
+        console.log("[seo] Entry unchanged: " + seo.status);
+      }
+    }
     if (updated !== original) {
       updates.set(filePath, updated);
     }

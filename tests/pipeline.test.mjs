@@ -8,12 +8,13 @@ import { promisify } from "node:util";
 import { execFile } from "node:child_process";
 
 import { getForkNames } from "../scripts/repo-identity.mjs";
+import { enhanceGameEntryHTML } from "../scripts/game-page-seo.mjs";
 import { normalizeList } from "../scripts/normalize-list.mjs";
 import { DATABASE_FILES, detectRpgMakerProject, flattenEntries, runtimeFiles } from "../scripts/rpgmaker-project.mjs";
 
 const exec = promisify(execFile);
 const root = fileURLToPath(new URL("../", import.meta.url));
-const preload = fileURLToPath(new URL("helpers/mock-fetch.mjs", import.meta.url));
+const preload = new URL("helpers/mock-fetch.mjs", import.meta.url).href;
 const analytics = '<script defer src="https://insight.ravelloh.com/script.js?siteId=5ace6623-f51b-4571-8f60-e0473ea3317b"></script>';
 const entry = { id: "alice-game", title: "Game", owner: "Alice", name: "game", repo: "https://github.com/Alice/game", status: "indexed", forkName: "Alice-game" };
 
@@ -22,7 +23,12 @@ function gameFiles({ engine = "RPG Maker MV", prefix = "", entryName = "index.ht
   const html = `<html>\n<head>\n<title>Game</title>\n${(engine === "RPG Maker MZ" ? ["js/main.js"] : runtime).map((name) => `<script src="${name}"></script>`).join("\n")}\n${prepared ? analytics : ""}\n</head>\n</html>`;
   const files = Object.fromEntries(runtime.concat(DATABASE_FILES).map((name) => [prefix + name, name.endsWith(".json") ? "{}" : "// runtime"]));
   files[prefix + "js/main.js"] = engine === "RPG Maker MZ" ? `const scriptUrls = ${JSON.stringify(runtime.filter((name) => name !== "js/main.js"))};` : "SceneManager.run(Scene_Boot);";
-  files[prefix + entryName] = html;
+  // "prepared" means both analytics and the newly introduced SEO are already present.
+  files[prefix + entryName] = prepared
+    ? enhanceGameEntryHTML(html, {
+      entry, playUrl: "https://webrpg.org/Alice-game/" + (entryName === "index.html" ? "" : entryName), engine,
+    }).html
+    : html;
   return files;
 }
 
@@ -130,6 +136,36 @@ test("flattening a nested game cannot inject the old landing page", async (t) =>
   assert.ok(snapshot.files["index.html"].includes(analytics));
   assert.equal(snapshot.files["README.md"], files["README.md"]);
   assert.equal(result.verificationDeferred, true);
+});
+
+test("game registry enriches only the main game entry and leaves other HTML without SEO", async (t) => {
+  const files = gameFiles({ engine: "RPG Maker MV" });
+  files["bonus.html"] = '<html><head><title>Bonus</title><script src="js/rpg_core.js"></script></head><body>Bonus</body></html>';
+  const w = await workspace(t, [entry], { files });
+  await w.write("games.json", { registryVersion: 1, games: { demo: {
+    originalTitle: "デモゲーム",
+    introductions: {
+      en: { summary: "English fallback." },
+      "zh-Hans": { summary: "中文游戏简介。" },
+      ja: { summary: "日本語の紹介。" },
+    },
+    instances: [{ id: entry.id, type: "internal", title: "Demo 中文版", languages: ["zh-Hans"] }],
+  } } });
+  const { snapshot } = await w.run("process-fork-repo.mjs");
+  const result = await w.read("workflow-results/Alice-game.json");
+  assert.equal(result.status, "verified", result.error);
+  assert.equal(result.seoStatus, "enhanced");
+  assert.equal(result.seoGameSlug, "demo");
+  assert.equal(result.seoHtmlLanguage, "zh-Hans");
+  const main = snapshot.files["index.html"];
+  assert.match(main, /<html lang="zh-Hans">/);
+  assert.match(main, /<title>Demo 中文版 \| WebRPG<\/title>/);
+  assert.match(main, /content="中文游戏简介。"/);
+  assert.match(main, /href="https:\/\/webrpg.org\/Alice-game\/"/);
+  assert.match(main, /en\/game\/demo\/#game/);
+  assert.ok(main.includes(analytics));
+  assert.equal(snapshot.files["bonus.html"], files["bonus.html"]);
+  assert.ok(!snapshot.files["bonus.html"].includes("WebRPG SEO:START"));
 });
 
 test("nested game receives analytics even without an old root page", async (t) => {
