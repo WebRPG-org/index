@@ -8,13 +8,13 @@ const match={slug:"narcissu",instance:{title:"Narcissu 中文版"}};
 test("injects one no-framework shell before the original game DOM",()=>{
   const r=injectGameShell(raw,{entry,match});
   assert.equal(r.status,"enhanced");
-  assert.match(r.html,/cdn\.jsdelivr\.net\/gh\/WebRPG-org\/toolkit@v1\.0\.0\/shell\.css/);
+  assert.match(r.html,/cdn\.jsdelivr\.net\/gh\/WebRPG-org\/toolkit@v1\.0\.1\/shell\.css/);
   assert.match(r.html,/<details id="webrpg-shell"/);
   assert.doesNotMatch(r.html, /<details id="webrpg-shell"[^>]*style=/);
   assert.match(r.html,/https:\/\/webrpg\.org\/ja\/game\/narcissu\//);
-  assert.match(r.html,/<script src="https:\/\/cdn\.jsdelivr\.net\/gh\/WebRPG-org\/toolkit@v1\.0\.0\/shell\.js"><\/script>/);
+  assert.match(r.html,/<script src="https:\/\/cdn\.jsdelivr\.net\/gh\/WebRPG-org\/toolkit@v1\.0\.1\/shell\.js"><\/script>/);
   assert.ok(r.html.indexOf('id="webrpg-shell"')<r.html.indexOf('<script src="js/main.js">'));
-  assert.ok(r.html.indexOf('toolkit@v1.0.0/shell.js')<r.html.indexOf('<script src="js/main.js">'));
+  assert.ok(r.html.indexOf('toolkit@v1.0.1/shell.js')<r.html.indexOf('<script src="js/main.js">'));
   assert.equal((r.html.match(/id="webrpg-shell"/g)||[]).length,1);
   assert.equal((r.html.match(/id="webrpg-touch-controls"/g)||[]).length,1);
   assert.match(r.html,/<body class="rpg">/);

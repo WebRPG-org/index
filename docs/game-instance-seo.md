@@ -41,8 +41,8 @@
 
 - 只对 detection.entryPath 增强。其他 HTML 仍沿用 InsightFlare 注入，不复制 SEO 或菜单。
 - Index 生成原生 details 悬浮球、真实的主页/详情链接，以及可选的虚拟按键 HTML；公共资源由 WebRPG-org/toolkit 维护：
-  - https://cdn.jsdelivr.net/gh/WebRPG-org/toolkit@v1.0.0/shell.css
-  - https://cdn.jsdelivr.net/gh/WebRPG-org/toolkit@v1.0.0/shell.js
+  - https://cdn.jsdelivr.net/gh/WebRPG-org/toolkit@v1.0.1/shell.css
+  - https://cdn.jsdelivr.net/gh/WebRPG-org/toolkit@v1.0.1/shell.js
 - CSS 在 Head 中同步加载，经典 JS 紧跟 Body 起始处的悬浮球结构运行。没有框架、不包装 Canvas、不插入 Header/Footer。
 - 游戏详情导航依照实际 HTML 主语言，在 en、ja、zh-Hans 中选取；其他语言使用英文详情链接。无可信 Game 关联则只保留主页链接。
 - 使用 WebRPG Shell Head / WebRPG Shell 两组独立标记，保证重复准备不重复插入，损坏标记保守跳过。
