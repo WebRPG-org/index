@@ -6981,6 +6981,19 @@
     "validationScore": 45
   },
   {
+    "id": "nick088official-bloodmoney-web-port",
+    "title": "BLOODMONEY!",
+    "repo": "https://github.com/Nick088Official/BLOODMONEY-Web-Port",
+    "owner": "Nick088Official",
+    "name": "BLOODMONEY-Web-Port",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "discoveredAt": "2026-11-25T03:56:48.934Z",
+    "source": "github-code-search",
+    "sourcePath": "www/index.html",
+    "plannedForkName": "Nick088Official-BLOODMONEY-Web-Port"
+  },
+  {
     "id": "novafriendly-novav3w",
     "title": "BLOODMONEY!",
     "repo": "https://github.com/Novafriendly/novav3w",
@@ -11769,6 +11782,19 @@
       "reviewedAt": "2026-11-07",
       "nsfw": false
     }
+  },
+  {
+    "id": "nick088official-dwellers-empty-path-web-port",
+    "title": "Dwellers Empty Path",
+    "repo": "https://github.com/Nick088Official/Dwellers-Empty-Path-Web-Port",
+    "owner": "Nick088Official",
+    "name": "Dwellers-Empty-Path-Web-Port",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "discoveredAt": "2026-11-25T03:56:48.934Z",
+    "source": "github-code-search",
+    "sourcePath": "www/index.html",
+    "plannedForkName": "Nick088Official-Dwellers-Empty-Path-Web-Port"
   },
   {
     "id": "chruscikszef-dzzt-android",
@@ -18805,6 +18831,19 @@
       "reviewedAt": "2026-11-08",
       "reviewedSourceHeadSha": "b54bac65b4becb08c7cc74c76f84ab2c78a5fb12"
     }
+  },
+  {
+    "id": "nick088official-married-in-red-web-port",
+    "title": "MARRIED IN RED",
+    "repo": "https://github.com/Nick088Official/Married-in-Red-Web-Port",
+    "owner": "Nick088Official",
+    "name": "Married-in-Red-Web-Port",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "discoveredAt": "2026-11-25T03:56:48.934Z",
+    "source": "github-code-search",
+    "sourcePath": "www/index.html",
+    "plannedForkName": "Nick088Official-Married-in-Red-Web-Port"
   },
   {
     "id": "literallycat-marsbarsthegamewebedition",
