@@ -15871,6 +15871,19 @@
     }
   },
   {
+    "id": "nick088official-human-expanditure-progran-web-port",
+    "title": "HUMAN EXPENDITURE PROGRAM",
+    "repo": "https://github.com/Nick088Official/Human-Expanditure-Progran-Web-Port",
+    "owner": "Nick088Official",
+    "name": "Human-Expanditure-Progran-Web-Port",
+    "engine": "RPG Maker MZ",
+    "status": "indexed",
+    "discoveredAt": "2026-11-25T03:56:48.934Z",
+    "source": "github-code-search",
+    "sourcePath": "RPGMakerMZ/index.html",
+    "plannedForkName": "Nick088Official-Human-Expanditure-Progran-Web-Port"
+  },
+  {
     "id": "franck-audiger-hunterevolutionjs",
     "title": "Hunter x Hunter Evolution",
     "repo": "https://github.com/franck-audiger/HunterEvolutionJS",
@@ -18846,7 +18859,6 @@
     "discoveredAt": "2026-11-25T03:56:48.934Z",
     "source": "github-code-search",
     "sourcePath": "www/index.html",
-    "plannedForkName": "Nick088Official-Married-in-Red-Web-Port",
     "checkedAt": "2026-11-25T04:06:49.559Z",
     "forkName": "Nick088Official-Married-in-Red-Web-Port",
     "lastCheckError": "GitHub API 502: Server Error",
