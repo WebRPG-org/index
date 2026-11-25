@@ -3,8 +3,8 @@ export const SHELL_HEAD_START = "<!-- WebRPG Shell Head:START -->";
 export const SHELL_HEAD_END = "<!-- WebRPG Shell Head:END -->";
 export const SHELL_BODY_START = "<!-- WebRPG Shell:START -->";
 export const SHELL_BODY_END = "<!-- WebRPG Shell:END -->";
-export const SHELL_CSS_URL = "https://cdn.jsdelivr.net/gh/WebRPG-org/toolkit@v1.0.1/shell.css";
-export const SHELL_JS_URL = "https://cdn.jsdelivr.net/gh/WebRPG-org/toolkit@v1.0.1/shell.js";
+export const SHELL_CSS_URL = "https://cdn.jsdelivr.net/gh/WebRPG-org/toolkit@v1.1.0/shell.css";
+export const SHELL_JS_URL = "https://cdn.jsdelivr.net/gh/WebRPG-org/toolkit@v1.1.0/shell.js";
 const LOGO_URL = "https://webrpg.org/assets/logo.png";
 const HOME_URL = "https://webrpg.org/";
 const SLUG = /^[a-z0-9][a-z0-9-]*$/i;
@@ -32,8 +32,8 @@ function actionIcon(id, iconSvg, label, mobile = false) {
   return '<button type="button" class="wr-action'+(mobile?' wr-mobile-tool':'')+'" data-wr-action="'+id+'" hidden title="'+label+'" aria-label="'+label+'" aria-pressed="false">'+
     iconSvg+'<span class="wr-sr-only" lang="en">'+label+'</span></button>';
 }
-function navLink(url, svg, label) {
-  return '<a class="wr-link" href="'+escapeHtml(url)+'" title="'+label+'" aria-label="'+label+'">'+svg+'<span class="wr-sr-only" lang="en">'+label+'</span></a>';
+function navLink(url, svg, label, destination) {
+  return '<a class="wr-link" data-wr-nav="'+destination+'" href="'+escapeHtml(url)+'" title="'+label+'" aria-label="'+label+'">'+svg+'<span class="wr-sr-only" lang="en">'+label+'</span></a>';
 }
 function controlButton(name, label, text) {
   return '<button type="button" class="wr-pad-key" data-wr-key="'+name+'" aria-label="'+escapeHtml(label)+
@@ -51,7 +51,7 @@ function buildControls() {
 }
 function buildShell({ title, gameSlug, instanceId, detailLocale }) {
   const detail = gameSlug && SLUG.test(gameSlug)
-    ? navLink("https://webrpg.org/"+detailLocale+"/game/"+encodeURIComponent(gameSlug)+"/",DETAIL_ICON,"Game details") : "";
+    ? navLink("https://webrpg.org/"+detailLocale+"/game/"+encodeURIComponent(gameSlug)+"/",DETAIL_ICON,"Game details","detail") : "";
   return '<details id="webrpg-shell" data-phase="intro" data-menu-direction="down"'+
     ' data-game="'+escapeHtml(gameSlug||"")+'" data-instance="'+escapeHtml(instanceId||"")+'"'+
     '>'+
@@ -60,7 +60,7 @@ function buildShell({ title, gameSlug, instanceId, detailLocale }) {
     '<span class="wr-logo-fallback" aria-hidden="true">WR</span></span>'+
     '<span class="wr-label"><strong>WebRPG</strong><small>'+escapeHtml(title||"Playing a game")+'</small></span></summary>'+
     '<nav class="wr-menu" aria-label="WebRPG game navigation">'+
-    navLink(HOME_URL,HOME_ICON,"WebRPG home")+detail+
+    navLink(HOME_URL,HOME_ICON,"WebRPG home","catalog")+detail+
     actionIcon("fullscreen",FULL_ICON,"Enter fullscreen")+
     actionIcon("rotation",ROTATE_ICON,"Request landscape",true)+
     actionIcon("gamepad",PAD_ICON,"Show virtual controls",true)+'</nav>'+
