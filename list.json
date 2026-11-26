@@ -5322,7 +5322,14 @@
     "sourceRepo": "tjsp-lalecrim/Arena",
     "sourceDefaultBranch": "main",
     "sourceHeadSha": "ed7ed68883080b18c2951799ea777db02531dbdd",
-    "processedHeadSha": "7f1b611da75219fa1f5556d6f34501a44d7081cd"
+    "processedHeadSha": "7f1b611da75219fa1f5556d6f34501a44d7081cd",
+    "meta": {
+      "gameSlug": "the-elder-scrolls-arena",
+      "nsfw": false,
+      "playable": true,
+      "reviewedAt": "2026-11-26",
+      "reviewedSourceHeadSha": "ed7ed68883080b18c2951799ea777db02531dbdd"
+    }
   },
   {
     "id": "imtomzizle-write-399-rpg-maker-game",
@@ -6987,7 +6994,14 @@
     "sourceRepo": "Nick088Official/BLOODMONEY-Web-Port",
     "sourceDefaultBranch": "main",
     "sourceHeadSha": "d266986bfa3c811bbcf432805ea2208bdb54305a",
-    "processedHeadSha": "0cb9e6d24ffa6fd8fd4f4960f9be26e4a05912bb"
+    "processedHeadSha": "0cb9e6d24ffa6fd8fd4f4960f9be26e4a05912bb",
+    "meta": {
+      "gameSlug": "bloodmoney",
+      "nsfw": true,
+      "playable": true,
+      "reviewedAt": "2026-11-26",
+      "reviewedSourceHeadSha": "d266986bfa3c811bbcf432805ea2208bdb54305a"
+    }
   },
   {
     "id": "novafriendly-novav3w",
@@ -11790,7 +11804,14 @@
     "sourceRepo": "Nick088Official/Dwellers-Empty-Path-Web-Port",
     "sourceDefaultBranch": "main",
     "sourceHeadSha": "15abb17ef27209a76c55ef65d78fb355f151f948",
-    "processedHeadSha": "9fad57451df8f94dcbf285cb3cf8bdf4b6cbf52d"
+    "processedHeadSha": "9fad57451df8f94dcbf285cb3cf8bdf4b6cbf52d",
+    "meta": {
+      "gameSlug": "dwellers-empty-path",
+      "nsfw": false,
+      "playable": true,
+      "reviewedAt": "2026-11-26",
+      "reviewedSourceHeadSha": "15abb17ef27209a76c55ef65d78fb355f151f948"
+    }
   },
   {
     "id": "chruscikszef-dzzt-android",
@@ -13394,7 +13415,12 @@
     "sourceRepo": "batnow94/All-FNaFb-Locations-MV",
     "sourceDefaultBranch": "main",
     "sourceHeadSha": "09c32f1a733e29b82c600b12c8798e685fa4c519",
-    "processedHeadSha": "bbb5b0391a10239937455f6dcfcdec16227d8a62"
+    "processedHeadSha": "bbb5b0391a10239937455f6dcfcdec16227d8a62",
+    "meta": {
+      "playable": false,
+      "reviewedAt": "2026-11-26",
+      "reviewedSourceHeadSha": "09c32f1a733e29b82c600b12c8798e685fa4c519"
+    }
   },
   {
     "id": "sombriks-foo-bar-tales",
@@ -15871,7 +15897,14 @@
     "sourceRepo": "Nick088Official/Human-Expanditure-Progran-Web-Port",
     "sourceDefaultBranch": "main",
     "sourceHeadSha": "f43074dde921605f1747d79d8c40c35a374288c8",
-    "processedHeadSha": "af2e93e59fc85728d8ec6b25f261a70c62f9158b"
+    "processedHeadSha": "af2e93e59fc85728d8ec6b25f261a70c62f9158b",
+    "meta": {
+      "gameSlug": "human-expenditure-program",
+      "nsfw": true,
+      "playable": true,
+      "reviewedAt": "2026-11-26",
+      "reviewedSourceHeadSha": "f43074dde921605f1747d79d8c40c35a374288c8"
+    }
   },
   {
     "id": "franck-audiger-hunterevolutionjs",
@@ -22664,7 +22697,12 @@
     "sourceRepo": "tinnt120899/pho-xo-bo",
     "sourceDefaultBranch": "main",
     "sourceHeadSha": "7b21c4dd71da198bfcfa9aac6a3c9ddd9cec3497",
-    "processedHeadSha": "fcc7c6c4dbda2bda19317f59ccde19cf4d468e4a"
+    "processedHeadSha": "fcc7c6c4dbda2bda19317f59ccde19cf4d468e4a",
+    "meta": {
+      "playable": false,
+      "reviewedAt": "2026-11-26",
+      "reviewedSourceHeadSha": "7b21c4dd71da198bfcfa9aac6a3c9ddd9cec3497"
+    }
   },
   {
     "id": "hectovargas-repositoriozelda",
@@ -26507,7 +26545,12 @@
     "cover": "https://webrpg.org/LoKiLyn-RPGMakerMV/cover.png",
     "validationScore": 108,
     "totalSize": 438181,
-    "dataSize": 2689516
+    "dataSize": 2689516,
+    "meta": {
+      "playable": false,
+      "reviewedAt": "2026-11-26",
+      "reviewedSourceHeadSha": "eab5823aa0fb09bfd925fa95411d9dbdc518f27e"
+    }
   },
   {
     "id": "eml17028-rpgmaker-horror-gamejam-24",

@@ -50313,6 +50313,392 @@
       "media": {
         "cover": "https://webrpg.org/images/yosuga-no-sora.jpg"
       }
+    },
+    "bloodmoney": {
+      "assessedAt": "2026-11-26",
+      "assessmentNote": "itch.io original by SHROOMYCHRIST, released 2025-08-03, RPG Maker MV psychological horror clicker: earn $25,000 for surgery by clicking Harvey Harvington, buying ever crueler tools; 3 endings, about 20-30 min. NamuWiki documents it; thehouse2 lists 9.4 from 26,000+ votes; many web mirrors and guides. Rating 8: strong concept and very positive reception, but a short single-mechanic clicker; popularity 8: viral 2025 indie hit, not mainstream breakout.",
+      "assessmentSources": [
+        "https://shroomychrist-studios.itch.io/bloodmoney",
+        "https://en.namu.wiki/w/BLOODMONEY!",
+        "https://thehouse2.org/bloodmoney"
+      ],
+      "contentAdvisory": {
+        "nsfw": true,
+        "warnings": [
+          "graphic violence"
+        ]
+      },
+      "developers": [
+        {
+          "name": "SHROOMYCHRIST"
+        }
+      ],
+      "editorial": {
+        "qualityFlags": [
+          "description-unverified"
+        ],
+        "sources": [
+          "https://shroomychrist-studios.itch.io/bloodmoney",
+          "https://en.namu.wiki/w/BLOODMONEY!",
+          "https://thehouse2.org/bloodmoney",
+          "https://github.com/Nick088Official/BLOODMONEY-Web-Port",
+          "https://webrpg.org/Nick088Official-BLOODMONEY-Web-Port/"
+        ],
+        "status": "draft"
+      },
+      "externalLinks": [
+        {
+          "label": "itch.io — BLOODMONEY! (free)",
+          "type": "store",
+          "url": "https://shroomychrist-studios.itch.io/bloodmoney"
+        }
+      ],
+      "instances": [
+        {
+          "id": "nick088official-bloodmoney-web-port",
+          "languages": [
+            "en"
+          ],
+          "nsfw": true,
+          "title": "BLOODMONEY!",
+          "type": "internal"
+        }
+      ],
+      "introductions": {
+        "en": {
+          "editorialStatus": "draft",
+          "overview": "SHROOMYCHRIST's RPG Maker MV game, released on itch.io in August 2025. Click Harvey Harvington to earn money and buy tools — feather, needle, hammer, scissors and worse — until you reach the $25,000 surgery goal. Three endings (good, bad, normal) in about 20–30 minutes; cute pastel art set against escalating violence.",
+          "summary": "A psychological horror clicker: desperate for $25,000 in surgery money, you take up a stranger's offer — $1 every time you click him, with crueler tools paying more."
+        },
+        "ja": {
+          "editorialStatus": "draft",
+          "overview": "SHROOMYCHRIST が 2025 年 8 月に itch.io で公開した RPG Maker MV 製ゲーム。ハーヴィーをクリックして金を稼ぎ、羽根、針、ハンマー、ハサミなどの道具を買い、手術費 25,000 ドルを目指す。3 つのエンディング、プレイ時間は約 20–30 分。パステル調の可愛らしい絵柄とエスカレートする暴力の対比が特徴。",
+          "summary": "心理ホラークリッカー。手術費 25,000 ドルが必要な主人公は、道端の男ハーヴィー・ハーヴィントンの提案を受ける——クリックするたびに 1 ドル、残酷な道具ほど高額になる。"
+        },
+        "zh-Hans": {
+          "editorialStatus": "draft",
+          "overview": "SHROOMYCHRIST 2025 年 8 月在 itch.io 发布的 RPG Maker MV 游戏。点击 Harvey 赚钱，购买羽毛、针、锤子、剪刀等工具，攒够 25,000 美元手术费即达目标，共有好、坏、普通 3 个结局，约 20–30 分钟。粉彩画风与逐渐升级的暴力形成反差。",
+          "summary": "一部心理恐怖点击游戏：你急需 25,000 美元做手术，路边摊主 Harvey Harvington 提出每点他一下就付你 1 美元——工具越残忍，报酬越高。"
+        }
+      },
+      "media": {
+        "cover": "https://webrpg.org/Nick088Official-BLOODMONEY-Web-Port/cover.png"
+      },
+      "originalTitle": "BLOODMONEY!",
+      "popularity": 8,
+      "rating": 8,
+      "relations": [
+        {
+          "gameId": "human-expenditure-program",
+          "type": "sequel"
+        }
+      ],
+      "release": {
+        "date": "2025-08-03",
+        "originalPlatforms": [
+          "Windows"
+        ]
+      },
+      "schemaVersion": 1,
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "slug": "bloodmoney",
+      "taxonomy": {
+        "contentType": "full-game",
+        "genres": [
+          "minigame"
+        ],
+        "themes": [
+          "horror",
+          "drama"
+        ]
+      }
+    },
+    "dwellers-empty-path": {
+      "assessedAt": "2026-11-26",
+      "assessmentNote": "Temmie Chang (lead artist of Undertale) original, released 2020-07-10 on itch.io, sequel to Escaped Chasm; music by Toby Fox and Camellia; documented on Wikipedia (Escaped Chasm / Temmie Chang). Rating 7 / popularity 7: acclaimed short exploration adventure with a real following (fan guides, anniversary coverage), but a small quiet game, not a breakout hit. Prior Batch 20 assessment (7/7 by reputation) now confirmed with web evidence.",
+      "assessmentSources": [
+        "https://tuyoki.itch.io/dwellers-empty-path",
+        "https://en.wikipedia.org/wiki/Escaped_Chasm",
+        "https://en.wikipedia.org/wiki/Temmie_Chang",
+        "https://undertale10thanniversary.com/dwellers-empty-path/"
+      ],
+      "contentAdvisory": {
+        "nsfw": false
+      },
+      "developers": [
+        {
+          "name": "Temmie Chang"
+        }
+      ],
+      "editorial": {
+        "qualityFlags": [
+          "description-unverified"
+        ],
+        "sources": [
+          "https://tuyoki.itch.io/dwellers-empty-path",
+          "https://en.wikipedia.org/wiki/Escaped_Chasm",
+          "https://en.wikipedia.org/wiki/Temmie_Chang",
+          "https://undertale10thanniversary.com/dwellers-empty-path/",
+          "https://github.com/Nick088Official/Dwellers-Empty-Path-Web-Port",
+          "https://webrpg.org/Nick088Official-Dwellers-Empty-Path-Web-Port/"
+        ],
+        "status": "draft"
+      },
+      "externalLinks": [
+        {
+          "label": "itch.io — Dweller's Empty Path (free)",
+          "type": "store",
+          "url": "https://tuyoki.itch.io/dwellers-empty-path"
+        }
+      ],
+      "instances": [
+        {
+          "id": "nick088official-dwellers-empty-path-web-port",
+          "languages": [
+            "en"
+          ],
+          "nsfw": false,
+          "title": "Dwellers Empty Path",
+          "type": "internal"
+        }
+      ],
+      "introductions": {
+        "en": {
+          "editorialStatus": "draft",
+          "overview": "A free RPG Maker game released on itch.io in July 2020. No traditional combat or equipment: the game is walking, talking and exploring — forests, villages and castle grounds, letters to deliver, objects to inspect, 31 illustrations and journal entries to find, and several endings. Music by Toby Fox and Camellia.",
+          "summary": "An exploration adventure by Temmie Chang, lead artist of Undertale, and sequel to Escaped Chasm. Yoki wakes from a nightmare and cannot fall back asleep, so she goes for a walk through the kingdom."
+        },
+        "ja": {
+          "editorialStatus": "draft",
+          "overview": "2020 年 7 月に itch.io で公開された無料の RPG Maker ゲーム。戦闘や装備はなく、歩く・話す・調べることが中心。森、村、城をめぐり、手紙を届け、31 枚のイラストと日記を集め、複数のエンディングへ。音楽は Toby Fox と Camellia。",
+          "summary": "『Undertale』のアーティスト Temmie Chang による探索アドベンチャー。『Escaped Chasm』の続編。悪夢から目覚めたヨキは眠れなくなり、王国を散歩に出かける。"
+        },
+        "zh-Hans": {
+          "editorialStatus": "draft",
+          "overview": "2020 年 7 月在 itch.io 发布的免费 RPG Maker 游戏。没有传统战斗与装备成长，玩法是探索与对话：在森林、村庄与城堡间走动、与居民交谈、送信、查看物品、收集 31 幅插画与日记，走向不同结局；音乐由 Toby Fox 与 Camellia 参与制作。",
+          "summary": "Temmie Chang（《传说之下》主美）的探索冒险游戏：《Escaped Chasm》的续作。Yoki 从噩梦中醒来无法再次入睡，于是出门散步，在王国中与人交谈、送信、收集插画。"
+        }
+      },
+      "media": {
+        "cover": "https://webrpg.org/Nick088Official-Dwellers-Empty-Path-Web-Port/cover.png"
+      },
+      "originalTitle": "Dweller's Empty Path",
+      "popularity": 7,
+      "rating": 7,
+      "release": {
+        "date": "2020-07-10",
+        "originalPlatforms": [
+          "Windows"
+        ]
+      },
+      "schemaVersion": 1,
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "slug": "dwellers-empty-path",
+      "taxonomy": {
+        "contentType": "full-game",
+        "genres": [
+          "adventure"
+        ],
+        "themes": [
+          "drama",
+          "fantasy",
+          "slice-of-life"
+        ]
+      }
+    },
+    "human-expenditure-program": {
+      "assessedAt": "2026-11-26",
+      "assessmentNote": "SHROOMYCHRIST horror visual novel, released 2025-09-12 on itch.io, sequel to BLOODMONEY!; about 30 min, 2 endings, 5 minigames; TV Tropes page; featured in GameZebo's November 2026 best horror games on itch.io. Rating 7 / popularity 7: well-received sequel riding BLOODMONEY!'s fame, but newer and less documented than the original.",
+      "assessmentSources": [
+        "https://shroomychrist-studios.itch.io/human-expenditure-program",
+        "https://tvtropes.org/pmwiki/pmwiki.php/Videogame/HumanExpenditureProgram",
+        "https://www.gamezebo.com/features/best-horror-games-on-itch-io/"
+      ],
+      "contentAdvisory": {
+        "nsfw": true,
+        "warnings": [
+          "psychological horror",
+          "violence"
+        ]
+      },
+      "developers": [
+        {
+          "name": "SHROOMYCHRIST"
+        }
+      ],
+      "editorial": {
+        "qualityFlags": [
+          "description-unverified"
+        ],
+        "sources": [
+          "https://shroomychrist-studios.itch.io/human-expenditure-program",
+          "https://tvtropes.org/pmwiki/pmwiki.php/Videogame/HumanExpenditureProgram",
+          "https://www.gamezebo.com/features/best-horror-games-on-itch-io/",
+          "https://github.com/Nick088Official/Human-Expanditure-Progran-Web-Port",
+          "https://webrpg.org/Nick088Official-Human-Expanditure-Progran-Web-Port/"
+        ],
+        "status": "draft"
+      },
+      "externalLinks": [
+        {
+          "label": "itch.io — HUMAN EXPENDITURE PROGRAM (free)",
+          "type": "store",
+          "url": "https://shroomychrist-studios.itch.io/human-expenditure-program"
+        }
+      ],
+      "instances": [
+        {
+          "id": "nick088official-human-expanditure-progran-web-port",
+          "languages": [
+            "en"
+          ],
+          "nsfw": true,
+          "title": "HUMAN EXPENDITURE PROGRAM",
+          "type": "internal"
+        }
+      ],
+      "introductions": {
+        "en": {
+          "editorialStatus": "draft",
+          "overview": "SHROOMYCHRIST's RPG Maker MZ game, released on itch.io in September 2025. You play Eun-Mi, tending to simulated Harvey — feeding him, playing with him, managing his food and mood meters — while hiding what happens to him each night. About 30 minutes, two endings, five minigames.",
+          "summary": "A horror visual novel sequel to BLOODMONEY!: programmer Eun-Mi Harvington has transferred her husband Harvey's consciousness into a simulation — caring for him like a virtual pet by day, sending him into the BLOODMONEY! simulation to be tormented for money by night, then wiping his memory."
+        },
+        "ja": {
+          "editorialStatus": "draft",
+          "overview": "SHROOMYCHRIST が 2025 年 9 月に itch.io で公開した RPG Maker MZ 製ゲーム。プレイヤーはウン・ミとなり、シミュレーションの中のハーヴィーに食事を与え、気分を管理し、ミニゲームで遊ぶ。約 30 分、2 つのエンディング、5 つのミニゲーム。",
+          "summary": "『BLOODMONEY!』の続編ホラービジュアルノベル。プログラマーのウン・ミ・ハーヴィントンは夫ハーヴィーの意識をシミュレーションに移し、昼はペットのように世話をし、夜は拷問シミュレーションで金を稼がせ、記憶を消す。"
+        },
+        "zh-Hans": {
+          "editorialStatus": "draft",
+          "overview": "SHROOMYCHRIST 2025 年 9 月在 itch.io 发布的 RPG Maker MZ 游戏。玩家扮演 Eun-Mi Harvington，照料模拟中的 Harvey（喂食、安抚、玩小游戏赚钱），同时掩盖夜里发生的折磨。约 30 分钟，2 个结局，穿插 5 个小游戏。",
+          "summary": "《BLOODMONEY!》的续作恐怖视觉小说：程序员 Eun-Mi 把丈夫 Harvey 的意识转入模拟程序，白天像养宠物一样照顾他，夜里却让他进入 BLOODMONEY! 的模拟中受折磨赚钱，再清除他的记忆。"
+        }
+      },
+      "media": {
+        "cover": "https://webrpg.org/Nick088Official-Human-Expanditure-Progran-Web-Port/cover.png"
+      },
+      "originalTitle": "HUMAN EXPENDITURE PROGRAM",
+      "popularity": 7,
+      "rating": 7,
+      "relations": [
+        {
+          "gameId": "bloodmoney",
+          "type": "prequel"
+        }
+      ],
+      "release": {
+        "date": "2025-09-12",
+        "originalPlatforms": [
+          "Windows"
+        ]
+      },
+      "schemaVersion": 1,
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "slug": "human-expenditure-program",
+      "taxonomy": {
+        "contentType": "full-game",
+        "genres": [
+          "visual-novel"
+        ],
+        "themes": [
+          "horror",
+          "drama"
+        ]
+      }
+    },
+    "the-elder-scrolls-arena": {
+      "aliases": {
+        "pt": [
+          "Arena"
+        ]
+      },
+      "assessedAt": "2026-11-26",
+      "assessmentNote": "Fan remake of Bethesda's The Elder Scrolls: Arena (1994), in active development (repo created 2026-10-25, pushed 2026-11-26); no Steam/itch/media record found (web search 2026-11-26); 1 star / 1 fork on GitHub; popularity 1 reflects no evidence of spread. Rating left blank: in-development remake, no reputation evidence. Title screen shows 'The Elder Scrolls Arena' with Portuguese menus; the opening (character creation, Ria Silmane's dream, ruby-key prison escape) follows the 1994 original.",
+      "assessmentSources": [
+        "https://github.com/tjsp-lalecrim/Arena",
+        "https://webrpg.org/tjsp-lalecrim-Arena/"
+      ],
+      "contentAdvisory": {
+        "nsfw": false
+      },
+      "developers": [
+        {
+          "name": "tjsp-lalecrim"
+        }
+      ],
+      "editorial": {
+        "qualityFlags": [
+          "description-unverified"
+        ],
+        "sources": [
+          "https://github.com/tjsp-lalecrim/Arena",
+          "https://webrpg.org/tjsp-lalecrim-Arena/"
+        ],
+        "status": "draft"
+      },
+      "externalLinks": [
+        {
+          "label": "Source repository (GitHub)",
+          "type": "source",
+          "url": "https://github.com/tjsp-lalecrim/Arena"
+        }
+      ],
+      "instances": [
+        {
+          "id": "tjsp-lalecrim-arena",
+          "languages": [
+            "pt"
+          ],
+          "nsfw": false,
+          "title": "Arena",
+          "type": "internal"
+        }
+      ],
+      "introductions": {
+        "en": {
+          "editorialStatus": "draft",
+          "overview": "A Brazilian fan project rebuilding the 1994 original in RPG Maker MV. Character creation offers Elder Scrolls races (Argonian and others); the opening follows the original — Ria Silmane's dream, the ruby key, the prison break. In active development, with further maps (Rihad, Stonekeep, Fang Lair) in the repository.",
+          "summary": "A fan remake of Bethesda's The Elder Scrolls: Arena (1994): you wake in an Imperial prison cell, and the ghost Ria Silmane guides you in a dream to the ruby key on the north wall — take it and escape."
+        },
+        "ja": {
+          "editorialStatus": "draft",
+          "overview": "ブラジルの開発者による RPG Maker MV でのリメイク。キャラクター作成ではアルゴニアンなどの種族を選べ、オープニングは原作通り——リア・シルメインの夢、ルビーの鍵、脱獄。開発中で、リポジトリにはリハード、ストーンキープなどのマップもある。",
+          "summary": "『The Elder Scrolls: Arena』（1994年）のファンリメイク。帝国の監獄の独房で目覚めた主人公は、幽霊リア・シルメインの夢の導きで北の壁のルビーの鍵を見つけ、脱獄を目指す。"
+        },
+        "zh-Hans": {
+          "editorialStatus": "draft",
+          "overview": "巴西开发者 tjsp-lalecrim 用 RPG Maker MV 重制的《上古卷轴》初代。角色创建可选亚龙人等种族与性别，开场按原作剧情展开：Ria Silmane 的梦境、红宝石钥匙、越狱。仍在开发中，仓库中还有 Rihad、Stonekeep 等多张地图。",
+          "summary": "《上古卷轴：竞技场》（1994）的粉丝重制版：玩家在帝国监狱的牢房中醒来，幽灵 Ria Silmane 在梦中指引你找到北墙上的红宝石钥匙，逃出牢房。"
+        }
+      },
+      "media": {
+        "cover": "https://webrpg.org/tjsp-lalecrim-Arena/cover.png"
+      },
+      "originalTitle": "The Elder Scrolls Arena",
+      "popularity": 1,
+      "schemaVersion": 1,
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "slug": "the-elder-scrolls-arena",
+      "taxonomy": {
+        "contentType": "demo",
+        "genres": [
+          "rpg"
+        ],
+        "themes": [
+          "fantasy"
+        ]
+      },
+      "translatedTitles": {
+        "zh-Hans": "上古卷轴：竞技场"
+      }
     }
   }
 }
