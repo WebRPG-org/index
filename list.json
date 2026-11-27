@@ -10507,6 +10507,19 @@
     "validationScore": 0
   },
   {
+    "id": "truffled-g",
+    "title": "DEAD PLATE",
+    "repo": "https://github.com/truffled/g",
+    "owner": "truffled",
+    "name": "g",
+    "engine": "RPG Maker MV",
+    "status": "indexed",
+    "discoveredAt": "2026-11-27T03:34:25.265Z",
+    "source": "github-code-search",
+    "sourcePath": "html/129.html",
+    "plannedForkName": "truffled-g"
+  },
+  {
     "id": "unblockableman-svg",
     "title": "DEAD PLATE",
     "repo": "https://github.com/UnblockableMan/svg",
@@ -22166,6 +22179,19 @@
     "dataSize": 0,
     "sourceRepo": "squanky1372/squanky1372.github.io",
     "invalidReason": "Repository has 638 HTML files, exceeding the 500 file limit."
+  },
+  {
+    "id": "enpitsulin-openmz",
+    "title": "Open MZ",
+    "repo": "https://github.com/enpitsuLin/openmz",
+    "owner": "enpitsuLin",
+    "name": "openmz",
+    "engine": "RPG Maker MZ",
+    "status": "indexed",
+    "discoveredAt": "2026-11-26T20:58:00.481Z",
+    "source": "github-code-search",
+    "sourcePath": "src/index.html",
+    "plannedForkName": "enpitsuLin-openmz"
   },
   {
     "id": "kayaphilliaiac-orangeblood",
