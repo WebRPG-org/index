@@ -10514,7 +10514,6 @@
     "discoveredAt": "2026-11-27T03:34:25.265Z",
     "source": "github-code-search",
     "sourcePath": "html/129.html",
-    "plannedForkName": "truffled-g",
     "checkedAt": "2026-11-27T03:42:41.083Z",
     "forkName": "truffled-g",
     "invalidReason": "Upstream repository size 100695062 KB exceeds the 8388608 KB limit."
@@ -22184,7 +22183,6 @@
     "discoveredAt": "2026-11-26T20:58:00.481Z",
     "source": "github-code-search",
     "sourcePath": "src/index.html",
-    "plannedForkName": "enpitsuLin-openmz",
     "checkedAt": "2026-11-27T03:42:45.918Z",
     "forkName": "enpitsuLin-openmz",
     "invalidReason": "Missing files: src/data/Actors.json, src/data/Classes.json, src/data/Skills.json, src/data/Items.json, src/data/Weapons.json, src/data/Armors.json, src/data/Enemies.json, src/data/Troops.json, src/data/States.json, src/data/Animations.json, src/data/Tilesets.json, src/data/CommonEvents.json, src/data/System.json, src/data/MapInfos.json",
