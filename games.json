@@ -50699,6 +50699,92 @@
       "translatedTitles": {
         "zh-Hans": "上古卷轴：竞技场"
       }
+    },
+    "127-ochevidets": {
+      "assessedAt": "2026-11-27",
+      "assessmentNote": "No external coverage found (web search 2026-11-27); GitHub repo 0 stars / 0 forks; no Steam/itch/wiki record. Rating left blank: no reputation evidence. Popularity 1: no evidence of spread. Source repo was renamed from 127-eyewitness-archive to 127-eyewitness after indexing (old URL 404s); deployment and README verified against the renamed repo.",
+      "assessmentSources": [
+        "https://github.com/MARKUHA-220/127-eyewitness"
+      ],
+      "contentAdvisory": {
+        "nsfw": "unknown"
+      },
+      "developers": [
+        {
+          "name": "MARKUHA-220",
+          "url": "https://github.com/MARKUHA-220"
+        }
+      ],
+      "editorial": {
+        "qualityFlags": [
+          "description-unverified"
+        ],
+        "reviewedAt": "2026-11-27",
+        "sources": [
+          "https://github.com/MARKUHA-220/127-eyewitness",
+          "https://webrpg.org/MARKUHA-220-127-eyewitness-archive/"
+        ],
+        "status": "draft"
+      },
+      "externalLinks": [
+        {
+          "label": "Source repository (GitHub)",
+          "type": "source",
+          "url": "https://github.com/MARKUHA-220/127-eyewitness"
+        }
+      ],
+      "instances": [
+        {
+          "id": "markuha-220-127-eyewitness-archive",
+          "languages": [
+            "ru"
+          ],
+          "title": "127 \"Очевидец\"",
+          "type": "internal"
+        }
+      ],
+      "introductions": {
+        "en": {
+          "editorialStatus": "draft",
+          "overview": "The second game in MARKUHA-220's '127' universe and a sequel to Первая кровь (First Blood), styled as a 'what if' take on another game (the author redacts its name) with the author's own content. In active development since April 2025 (update 0.7, August 2026): two zones expanded (factory and labs), new enemies, 20 new locations, a new melee weapon, a post-credits extra game and a mini DLC. The web build opens on a black-and-white hand-drawn title screen; starting a new game asks 'Вы новичёк или очевидец?' (Are you a newcomer or an eyewitness?) and leads into a movement-tutorial room. The deployment holds 82 maps: brain zones, TSC, the SSP colony, factory, labs, city, bar and sewers.",
+          "summary": "A Russian-language RPG Maker MV game set in the '127' universe, sequel to Первая кровь (First Blood), in development since April 2025. At the start you choose whether you are a newcomer or an eyewitness."
+        },
+        "ja": {
+          "editorialStatus": "draft",
+          "overview": "MARKUHA-220 の「127」ユニバース第 2 作で、『Первая кровь』（ファースト・ブラッド）の続編。別のゲームを「もしも」でアレンジした作品で、作者は元になったゲーム名を伏せ、独自のコンテンツを加えている。2025 年 4 月から開発中で、アップデート 0.7（2026 年 8 月）では工場と研究所の 2 ゾーン拡張、新たな敵、20 の新ロケーション、新しい近接武器、クリア後の追加ゲームとミニ DLC を追加。Web 版は白黒の手描き風タイトル画面から始まり、ニューゲームでは「Вы новичёк или очевидец?」（新人か、目撃者か）と問われ、移動チュートリアルの部屋へ進む。デプロイには 82 枚のマップがある。",
+          "summary": "「127」ユニバースを舞台にしたロシア語の RPG Maker MV 製ゲームで、『Первая кровь』の続編。2025 年 4 月から開発中。開始時に新人か目撃者かを選ぶ。"
+        },
+        "zh-Hans": {
+          "editorialStatus": "draft",
+          "overview": "MARKUHA-220「127」世界观的第二部作品，前作《Первая кровь》（First Blood）的续作。作者称其为对另一款游戏的“假如”式改编（原游戏名在 README 中被隐去），并加入了自己的原创内容。自 2025 年 4 月开发至今，0.7 版（2026 年 8 月）扩展了工厂与实验室两个区域，新增敌人、20 个新地点、新近战武器、通关后额外小游戏与迷你 DLC。网页版为黑白手绘风标题画面，开始新游戏时会问“Вы новичёк или очевидец？”（你是新人还是目击者？），随后进入移动教学房间。部署内共有 82 张地图：大脑区域、TSC、SSP 殖民地、工厂、实验室、城市、酒吧与下水道。",
+          "summary": "俄语 RPG Maker MV 游戏，设定在「127」世界观中，是《Первая кровь》的续作，自 2025 年 4 月起开发。开局需选择自己是新人还是目击者。"
+        }
+      },
+      "media": {
+        "cover": "https://webrpg.org/MARKUHA-220-127-eyewitness-archive/cover.png"
+      },
+      "originalTitle": "127 \"Очевидец\"",
+      "popularity": 1,
+      "schemaVersion": 1,
+      "seo": {
+        "indexPolicy": "auto"
+      },
+      "slug": "127-ochevidets",
+      "taxonomy": {
+        "contentType": "demo",
+        "genres": [
+          "rpg",
+          "adventure"
+        ],
+        "themes": [
+          "mystery"
+        ]
+      },
+      "translatedTitles": {
+        "en": "127 Eyewitness",
+        "ja": "127 目撃者",
+        "zh-Hans": "127 目击者"
+      }
     }
   }
 }

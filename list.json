@@ -381,7 +381,13 @@
     "sourceRepo": "MARKUHA-220/127-eyewitness-archive",
     "sourceDefaultBranch": "main",
     "sourceHeadSha": "e173e5fe707b8b243b6bdb15c2984ac514081419",
-    "processedHeadSha": "f0640f32d77a1e68243d2f2add840be94af316d2"
+    "processedHeadSha": "f0640f32d77a1e68243d2f2add840be94af316d2",
+    "meta": {
+      "gameSlug": "127-ochevidets",
+      "playable": true,
+      "reviewedAt": "2026-11-27",
+      "reviewedSourceHeadSha": "e173e5fe707b8b243b6bdb15c2984ac514081419"
+    }
   },
   {
     "id": "juliomeru-createapk",
