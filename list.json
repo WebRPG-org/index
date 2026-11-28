@@ -281,7 +281,7 @@
     "discoveredAt": "2026-09-16T10:53:30.292Z",
     "source": "github-code-search",
     "sourcePath": "public/cluaido_demo/index.html",
-    "checkedAt": "2026-11-20T11:05:23.612Z",
+    "checkedAt": "2026-11-28T01:17:38.109Z",
     "forkName": "Gamer-Tool-Studio-Gamer-Tool-Studio.github.io",
     "pagesUrl": "https://webrpg.org/Gamer-Tool-Studio-Gamer-Tool-Studio.github.io/",
     "entryPath": "index.html",
@@ -293,16 +293,15 @@
     "sourceRepo": "Gamer-Tool-Studio/Gamer-Tool-Studio.github.io",
     "sourceDefaultBranch": "master",
     "sourceHeadSha": "ecb85131c1eefb286f5b269f0947225cf9891a54",
-    "processedHeadSha": "f2170f28726c8ccb14b189ce4ba48d0f3bf02aa1",
-    "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/Gamer-Tool-Studio-Gamer-Tool-Studio.github.io/ served an RPG Maker entry point and its startup resources",
+    "processedHeadSha": "64b550e73b749f35f55c32752b6a85e56871c557",
     "meta": {
       "gameSlug": "cluaido",
       "playable": true,
       "nsfw": false,
       "reviewedAt": "2026-11-07",
       "reviewedSourceHeadSha": "ecb85131c1eefb286f5b269f0947225cf9891a54"
-    }
+    },
+    "verificationDeferred": true
   },
   {
     "id": "chino-541-saikou-no-ramen-damashi",
@@ -3002,7 +3001,7 @@
     "discoveredAt": "2026-09-16T10:53:30.292Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-11-20T02:12:26.175Z",
+    "checkedAt": "2026-11-28T01:17:22.245Z",
     "forkName": "Cloudy0717-WorldsGreatestMercenary",
     "pagesUrl": "https://webrpg.org/Cloudy0717-WorldsGreatestMercenary/",
     "entryPath": "index.html",
@@ -3014,15 +3013,14 @@
     "sourceRepo": "Cloudy0717/WorldsGreatestMercenary",
     "sourceDefaultBranch": "master",
     "sourceHeadSha": "f24d69bce08b22718c41453acebeacfd2a3081e7",
-    "processedHeadSha": "82fffd8f6db2382481e276629527ebb9c0247120",
-    "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/Cloudy0717-WorldsGreatestMercenary/ served an RPG Maker entry point and its startup resources",
+    "processedHeadSha": "1cbdd45115ab32af3756edd03af23dc9456d4fb5",
     "meta": {
       "nsfw": false,
       "playable": false,
       "reviewedAt": "2026-11-07",
       "reviewedSourceHeadSha": "f24d69bce08b22718c41453acebeacfd2a3081e7"
-    }
+    },
+    "verificationDeferred": true
   },
   {
     "id": "tychouhaha-zk-restaurant",
@@ -4416,7 +4414,7 @@
     "discoveredAt": "2026-07-16T23:57:27.055Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-11-20T02:12:03.526Z",
+    "checkedAt": "2026-11-28T01:16:54.190Z",
     "forkName": "EVAFG-A-stormy-story",
     "pagesUrl": "https://webrpg.org/EVAFG-A-stormy-story/",
     "entryPath": "index.html",
@@ -4428,14 +4426,13 @@
     "sourceRepo": "EVAFG/A-stormy-story",
     "sourceDefaultBranch": "main",
     "sourceHeadSha": "0c5456fce97f02735166572026426b6098dfc062",
-    "processedHeadSha": "b56f1f1e1dfd417d518d02a82ce369557ce313be",
-    "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/EVAFG-A-stormy-story/ served an RPG Maker entry point and its startup resources",
+    "processedHeadSha": "a36d7d18f8579461908587d34f57958f123aa78c",
     "meta": {
       "nsfw": false,
       "playable": false,
       "reviewedAt": "2026-11-07"
-    }
+    },
+    "verificationDeferred": true
   },
   {
     "id": "jeysser-a-torre",
@@ -4795,7 +4792,7 @@
     "discoveredAt": "2026-06-23T23:54:52.922Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-11-20T02:12:06.779Z",
+    "checkedAt": "2026-11-28T01:17:01.828Z",
     "forkName": "hacksider-Alpha-Chronicles",
     "pagesUrl": "https://webrpg.org/hacksider-Alpha-Chronicles/",
     "entryPath": "index.html",
@@ -4807,16 +4804,15 @@
     "sourceRepo": "hacksider/Alpha-Chronicles",
     "sourceDefaultBranch": "master",
     "sourceHeadSha": "a1266d7d65bfc2b7a1052527705aaaead431fdcb",
-    "processedHeadSha": "8395536f833064dd3dd779dc440ef05375beb1eb",
-    "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/hacksider-Alpha-Chronicles/ served an RPG Maker entry point and its startup resources",
+    "processedHeadSha": "f13a4300987fb9d7593aaf9104baeb0741611ca7",
     "meta": {
       "gameSlug": "alpha-chronicle",
       "nsfw": false,
       "playable": true,
       "reviewedAt": "2026-11-07",
       "reviewedSourceHeadSha": "a1266d7d65bfc2b7a1052527705aaaead431fdcb"
-    }
+    },
+    "verificationDeferred": true
   },
   {
     "id": "eduardomourar-easyrpg-web",
@@ -5630,7 +5626,7 @@
     "discoveredAt": "2026-06-23T23:54:52.922Z",
     "source": "github-code-search",
     "sourcePath": "Bagelocalypse - Brothers of Einstein/www/index.html",
-    "checkedAt": "2026-11-20T02:12:04.656Z",
+    "checkedAt": "2026-11-28T01:16:59.029Z",
     "forkName": "GenGames-66JamSubmissions",
     "pagesUrl": "https://webrpg.org/GenGames-66JamSubmissions/",
     "entryPath": "index.html",
@@ -5642,14 +5638,13 @@
     "sourceRepo": "GenGames/66JamSubmissions",
     "sourceDefaultBranch": "master",
     "sourceHeadSha": "b361fe1a6b5311e3d6604fbd68ce5bf76d4f75ae",
-    "processedHeadSha": "be30e5cb1ba1f3d350bf259c083889a5c0c829ba",
-    "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/GenGames-66JamSubmissions/ served an RPG Maker entry point and its startup resources",
+    "processedHeadSha": "7663d796722dad625649030fad33b47bb3315d0c",
     "meta": {
       "playable": false,
       "reviewedAt": "2026-11-07",
       "nsfw": false
-    }
+    },
+    "verificationDeferred": true
   },
   {
     "id": "maxwin-studios-balintataw",
@@ -7442,7 +7437,7 @@
     "discoveredAt": "2026-07-04T19:09:03.624Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-11-20T02:11:24.674Z",
+    "checkedAt": "2026-11-28T01:16:25.504Z",
     "forkName": "EC-Developer-Hub-broadwayyyy",
     "pagesUrl": "https://webrpg.org/EC-Developer-Hub-broadwayyyy/",
     "entryPath": "index.html",
@@ -7454,16 +7449,15 @@
     "sourceRepo": "EC-Developer-Hub/broadwayyyy",
     "sourceDefaultBranch": "main",
     "sourceHeadSha": "658992813a71ca315a55ee3a95eda47d66f36f67",
-    "processedHeadSha": "709e481807033c388d9f0dd4bc4e82f52a6c3439",
-    "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/EC-Developer-Hub-broadwayyyy/ served an RPG Maker entry point and its startup resources",
+    "processedHeadSha": "f801f46ed1f2761520f5ebd6ca08f98792e4f213",
     "meta": {
       "gameSlug": "semester-survival",
       "playable": true,
       "reviewedAt": "2026-11-07",
       "nsfw": false,
       "reviewedSourceHeadSha": "658992813a71ca315a55ee3a95eda47d66f36f67"
-    }
+    },
+    "verificationDeferred": true
   },
   {
     "id": "frogfrogforg-c0llage",
@@ -7867,7 +7861,7 @@
     "discoveredAt": "2026-06-23T23:54:52.922Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-11-20T02:10:17.810Z",
+    "checkedAt": "2026-11-28T01:15:24.856Z",
     "forkName": "cosmiccatacorn-ahjkjh",
     "pagesUrl": "https://webrpg.org/cosmiccatacorn-ahjkjh/",
     "entryPath": "index.html",
@@ -7878,17 +7872,16 @@
     "sourceRepo": "cosmiccatacorn/ahjkjh",
     "sourceDefaultBranch": "main",
     "sourceHeadSha": "ddf9bd600226401bb2dd0e6dfb8dbb9ad4a2085a",
-    "processedHeadSha": "d4455927be7c99b172beaaf89c49f15fcf8db3b9",
+    "processedHeadSha": "e1f59663853910d69bfe4c975b95917da31b2bac",
     "coverPath": "cover.png",
-    "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/cosmiccatacorn-ahjkjh/ served an RPG Maker entry point and its startup resources",
     "meta": {
       "gameSlug": "castillo-de-la-persona",
       "playable": true,
       "reviewedAt": "2026-11-07",
       "nsfw": false,
       "reviewedSourceHeadSha": "ddf9bd600226401bb2dd0e6dfb8dbb9ad4a2085a"
-    }
+    },
+    "verificationDeferred": true
   },
   {
     "id": "gelatolabs-catachresis",
@@ -8972,7 +8965,7 @@
     "discoveredAt": "2026-07-04T19:09:03.624Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-11-20T02:11:26.163Z",
+    "checkedAt": "2026-11-28T01:16:29.277Z",
     "forkName": "EC-Developer-Hub-conquesttttt",
     "pagesUrl": "https://webrpg.org/EC-Developer-Hub-conquesttttt/",
     "entryPath": "index.html",
@@ -8984,16 +8977,15 @@
     "sourceRepo": "EC-Developer-Hub/conquesttttt",
     "sourceDefaultBranch": "main",
     "sourceHeadSha": "e6c889fef4458d30b26b11612c9c1d166020fa9d",
-    "processedHeadSha": "7f7480ddfd4819014aad0e19cfadf4fde5cb3955",
-    "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/EC-Developer-Hub-conquesttttt/ served an RPG Maker entry point and its startup resources",
+    "processedHeadSha": "84e6263cf1bf8fdf237cfca7618db31537c65ff2",
     "meta": {
       "gameSlug": "conquesttttt",
       "playable": true,
       "reviewedAt": "2026-11-07",
       "nsfw": false,
       "reviewedSourceHeadSha": "e6c889fef4458d30b26b11612c9c1d166020fa9d"
-    }
+    },
+    "verificationDeferred": true
   },
   {
     "id": "masahirotanaka-cordova-final-quest",
@@ -11624,7 +11616,7 @@
     "discoveredAt": "2026-07-07T16:28:38.654Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-11-20T02:10:20.168Z",
+    "checkedAt": "2026-11-28T01:15:40.227Z",
     "forkName": "DSAF-Decompliations-OpenDSAF3",
     "pagesUrl": "https://webrpg.org/DSAF-Decompliations-OpenDSAF3/",
     "entryPath": "index.html",
@@ -11635,17 +11627,16 @@
     "sourceRepo": "DSAF-Decompliations/OpenDSAF3",
     "sourceDefaultBranch": "main",
     "sourceHeadSha": "86a3cd50931c3c4aeb9f9d455112c8ec1ef3a848",
-    "processedHeadSha": "af1b83ea2bc0f1eee4e730df4480d59e825877e7",
+    "processedHeadSha": "3ebc79ae90b8dab79e8e1a93e0a32dc5227fe924",
     "coverPath": "cover.png",
-    "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/DSAF-Decompliations-OpenDSAF3/ served an RPG Maker entry point and its startup resources",
     "meta": {
       "gameSlug": "dayshift-at-freddys-3",
       "playable": true,
       "reviewedAt": "2026-11-07",
       "nsfw": false,
       "reviewedSourceHeadSha": "86a3cd50931c3c4aeb9f9d455112c8ec1ef3a848"
-    }
+    },
+    "verificationDeferred": true
   },
   {
     "id": "mattmaomao-dual-escape-rpg",
@@ -13355,7 +13346,7 @@
     "discoveredAt": "2026-11-20T02:01:21.498Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-11-20T02:09:58.781Z",
+    "checkedAt": "2026-11-28T01:15:22.831Z",
     "forkName": "batnow94-All-FNaFb-Locations-MV",
     "pagesUrl": "https://webrpg.org/batnow94-All-FNaFb-Locations-MV/",
     "entryPath": "index.html",
@@ -13366,7 +13357,7 @@
     "sourceRepo": "batnow94/All-FNaFb-Locations-MV",
     "sourceDefaultBranch": "main",
     "sourceHeadSha": "09c32f1a733e29b82c600b12c8798e685fa4c519",
-    "processedHeadSha": "bbb5b0391a10239937455f6dcfcdec16227d8a62",
+    "processedHeadSha": "48f5a8c72084b1e6825150c02199de18468dc4ec",
     "meta": {
       "playable": false,
       "reviewedAt": "2026-11-26",
@@ -13896,7 +13887,7 @@
     "discoveredAt": "2026-06-23T23:54:52.922Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-11-20T02:12:21.708Z",
+    "checkedAt": "2026-11-28T01:17:07.631Z",
     "forkName": "h0ngliangli-Game-Name",
     "pagesUrl": "https://webrpg.org/h0ngliangli-Game-Name/",
     "entryPath": "index.html",
@@ -13908,14 +13899,13 @@
     "sourceRepo": "h0ngliangli/Game-Name",
     "sourceDefaultBranch": "main",
     "sourceHeadSha": "5c8894ed2548b28c23f4225c2aa409b7742c6d4f",
-    "processedHeadSha": "bba702e7122ed92c31e506b2cee6be3a9d55e78c",
-    "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/h0ngliangli-Game-Name/ served an RPG Maker entry point and its startup resources",
+    "processedHeadSha": "923ba21bfa165b2efd7230207406b7e95f922021",
     "meta": {
       "playable": false,
       "reviewedAt": "2026-11-07",
       "nsfw": false
-    }
+    },
+    "verificationDeferred": true
   },
   {
     "id": "fangbruce-rpg-game1",
@@ -16063,7 +16053,7 @@
     "discoveredAt": "2026-06-24T16:20:13.687Z",
     "source": "github-code-search",
     "sourcePath": "lookISAT/index.html",
-    "checkedAt": "2026-11-20T02:10:37.415Z",
+    "checkedAt": "2026-11-28T01:15:44.124Z",
     "forkName": "Donais04-ISATArchipelago",
     "pagesUrl": "https://webrpg.org/Donais04-ISATArchipelago/",
     "entryPath": "index.html",
@@ -16074,15 +16064,14 @@
     "sourceRepo": "Donais04/ISATArchipelago",
     "sourceDefaultBranch": "main",
     "sourceHeadSha": "95caca15f1d701cc5d851345420c352be516c0dc",
-    "processedHeadSha": "2ceb1abdfec5b3c7b97949de353107215e5e7569",
+    "processedHeadSha": "02952705fc08f1f49b75caa81e8dc7538eeb04e1",
     "coverPath": "cover.png",
-    "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/Donais04-ISATArchipelago/ served an RPG Maker entry point and its startup resources",
     "meta": {
       "playable": false,
       "nsfw": false,
       "reviewedAt": "2026-11-07"
-    }
+    },
+    "verificationDeferred": true
   },
   {
     "id": "obitocourage-commits-solid-dollop",
@@ -16368,7 +16357,7 @@
     "discoveredAt": "2026-06-23T23:54:52.922Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-11-20T02:10:41.506Z",
+    "checkedAt": "2026-11-28T01:15:57.386Z",
     "forkName": "dvancuyk-initial-fantasy",
     "pagesUrl": "https://webrpg.org/dvancuyk-initial-fantasy/",
     "entryPath": "index.html",
@@ -16379,17 +16368,16 @@
     "sourceRepo": "dvancuyk/initial-fantasy",
     "sourceDefaultBranch": "master",
     "sourceHeadSha": "736ae99178044264b0cf52ecdd2183bbbae6e1c7",
-    "processedHeadSha": "1ea23e03e4cbf954e1a4176bf1923e5fbb8dbdab",
+    "processedHeadSha": "e6d393625fef4e9143319e15a87e6166678ef368",
     "coverPath": "cover.png",
-    "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/dvancuyk-initial-fantasy/ served an RPG Maker entry point and its startup resources",
     "meta": {
       "gameSlug": "initial-fantasy",
       "playable": true,
       "nsfw": false,
       "reviewedAt": "2026-11-07",
       "reviewedSourceHeadSha": "736ae99178044264b0cf52ecdd2183bbbae6e1c7"
-    }
+    },
+    "verificationDeferred": true
   },
   {
     "id": "falconpilot-inquisitor-rpg-mv",
@@ -17177,7 +17165,7 @@
     "discoveredAt": "2026-09-16T10:53:30.292Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-11-20T02:12:52.473Z",
+    "checkedAt": "2026-11-28T01:17:29.077Z",
     "forkName": "flashdim-kins-chronicle",
     "pagesUrl": "https://webrpg.org/flashdim-kins-chronicle/",
     "entryPath": "index.html",
@@ -17189,16 +17177,15 @@
     "sourceRepo": "flashdim/kins-chronicle",
     "sourceDefaultBranch": "main",
     "sourceHeadSha": "f038a23594497807b0dbc2e7f379cb078d902a97",
-    "processedHeadSha": "89040d28f5b501b4680a5fa1633d23937cd6d29c",
-    "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/flashdim-kins-chronicle/ served an RPG Maker entry point and its startup resources",
+    "processedHeadSha": "54d6b04b5700d820bd16839d06da573d34d6785d",
     "meta": {
       "gameSlug": "kin-s-chronicle",
       "playable": true,
       "nsfw": false,
       "reviewedAt": "2026-11-07",
       "reviewedSourceHeadSha": "f038a23594497807b0dbc2e7f379cb078d902a97"
-    }
+    },
+    "verificationDeferred": true
   },
   {
     "id": "juridon-juridon-github-io",
@@ -17257,7 +17244,7 @@
     "discoveredAt": "2026-09-16T10:53:30.292Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-11-20T02:11:40.365Z",
+    "checkedAt": "2026-11-28T01:16:43.040Z",
     "forkName": "etg227-NEW-GAME",
     "pagesUrl": "https://webrpg.org/etg227-NEW-GAME/",
     "entryPath": "index.html",
@@ -17269,16 +17256,15 @@
     "sourceRepo": "etg227/k8s-isekai",
     "sourceDefaultBranch": "main",
     "sourceHeadSha": "a9e7bc15e14a692c0da06d269fccc7b0e568388c",
-    "processedHeadSha": "f32ed9bcdff043a94868e793b4343e1456dd6111",
-    "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/etg227-NEW-GAME/ served an RPG Maker entry point and its startup resources",
+    "processedHeadSha": "e5b4b0358da6ac14d29b741b1ea7af781af4a134",
     "meta": {
       "gameSlug": "kubernetes-isekai",
       "playable": true,
       "nsfw": false,
       "reviewedAt": "2026-11-07",
       "reviewedSourceHeadSha": "a9e7bc15e14a692c0da06d269fccc7b0e568388c"
-    }
+    },
+    "verificationDeferred": true
   },
   {
     "id": "etg227-new-game",
@@ -17343,7 +17329,7 @@
     "source": "github-code-search",
     "sourcePath": "index.html",
     "forkName": "heronat-SI28_Test",
-    "checkedAt": "2026-11-20T11:05:24.121Z",
+    "checkedAt": "2026-11-28T01:17:43.492Z",
     "pagesUrl": "https://webrpg.org/heronat-SI28_Test/",
     "entryPath": "index.html",
     "coverPath": "cover.png",
@@ -17354,16 +17340,15 @@
     "sourceRepo": "heronat/SI28_Test",
     "sourceDefaultBranch": "main",
     "sourceHeadSha": "092f29528fd7091905f64ddcfda6ef4d4a1f3bae",
-    "processedHeadSha": "82881e2207995557e6b2e26e717d915b9e467a1d",
-    "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/heronat-SI28_Test/ served an RPG Maker entry point and its startup resources",
+    "processedHeadSha": "dad24f28160aa35e58ccf92bea7aff42ef75b32f",
     "meta": {
       "gameSlug": "l-ombre-de-la-guerre",
       "playable": true,
       "nsfw": false,
       "reviewedAt": "2026-11-07",
       "reviewedSourceHeadSha": "092f29528fd7091905f64ddcfda6ef4d4a1f3bae"
-    }
+    },
+    "verificationDeferred": true
   },
   {
     "id": "ealiagay-rpg-web-game-vercel",
@@ -19469,7 +19454,7 @@
     "discoveredAt": "2026-06-23T23:54:52.922Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-11-20T02:10:12.872Z",
+    "checkedAt": "2026-11-28T01:15:24.609Z",
     "forkName": "clone1018-mv-mmo-test",
     "pagesUrl": "https://webrpg.org/clone1018-mv-mmo-test/",
     "entryPath": "index.html",
@@ -19480,16 +19465,15 @@
     "sourceRepo": "clone1018/mv-mmo-test",
     "sourceDefaultBranch": "master",
     "sourceHeadSha": "fb79983db77bed254cfcb11e3ad183550bdf7ec1",
-    "processedHeadSha": "41c184fe85dff178e8d91737b59c1fa0d2a303f9",
+    "processedHeadSha": "93103b8fe5f3de51a3aaff68a305480a85b0b82d",
     "coverPath": "cover.png",
-    "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/clone1018-mv-mmo-test/ served an RPG Maker entry point and its startup resources",
     "meta": {
       "playable": false,
       "reviewedAt": "2026-11-07",
       "nsfw": false,
       "reviewedSourceHeadSha": "fb79983db77bed254cfcb11e3ad183550bdf7ec1"
-    }
+    },
+    "verificationDeferred": true
   },
   {
     "id": "rpgcosmos-example-mmo",
@@ -22339,28 +22323,28 @@
     "discoveredAt": "2026-09-10T15:52:23.615Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-11-20T02:12:52.495Z",
+    "checkedAt": "2026-11-28T01:17:32.466Z",
     "forkName": "Harleythetech-CAPSTONE_PPV2",
     "pagesUrl": "https://webrpg.org/Harleythetech-CAPSTONE_PPV2/",
     "entryPath": "index.html",
     "validationScore": 108,
-    "totalSize": 391679,
-    "dataSize": 1253982,
+    "totalSize": 394170,
+    "dataSize": 1910052,
     "sourceRepo": "Harleythetech/PalarongPanlipunan",
     "sourceDefaultBranch": "main",
-    "sourceHeadSha": "1e697ef83739689160dca32c1919e8b687151655",
-    "processedHeadSha": "e9f2c65c020dc188821ec2540c6e031fa9fc4442",
+    "sourceHeadSha": "8e34a727758b71880e5cb5af2fd2e9d1de76993e",
+    "processedHeadSha": "46db3383585f14f252859343ce3b07bd182705a4",
     "coverPath": "cover.png",
     "cover": "https://webrpg.org/Harleythetech-CAPSTONE_PPV2/cover.png",
-    "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/Harleythetech-CAPSTONE_PPV2/ served an RPG Maker entry point and its startup resources",
     "meta": {
       "gameSlug": "palarong-panlipunan",
       "playable": true,
       "nsfw": false,
       "reviewedAt": "2026-11-08",
       "reviewedSourceHeadSha": "1e697ef83739689160dca32c1919e8b687151655"
-    }
+    },
+    "verificationDeferred": true,
+    "syncedFromSource": true
   },
   {
     "id": "cizz22-rpgmaker",
@@ -22373,7 +22357,7 @@
     "discoveredAt": "2026-09-16T10:53:30.292Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-11-20T02:12:26.741Z",
+    "checkedAt": "2026-11-28T01:17:27.268Z",
     "forkName": "Cizz22-rpgmaker",
     "pagesUrl": "https://webrpg.org/Cizz22-rpgmaker/",
     "entryPath": "index.html",
@@ -22385,16 +22369,15 @@
     "sourceRepo": "Cizz22/rpgmaker",
     "sourceDefaultBranch": "main",
     "sourceHeadSha": "209853276c2820f0aa3039a31d40e5b41b72a20e",
-    "processedHeadSha": "0d4eaac5dc6ccf7db497ed32f018bd7be7b06f6b",
-    "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/Cizz22-rpgmaker/ served an RPG Maker entry point and its startup resources",
+    "processedHeadSha": "4cffc5be44b6459d2391513c131c15712ce13554",
     "meta": {
       "gameSlug": "paling-rpg",
       "playable": true,
       "nsfw": false,
       "reviewedAt": "2026-11-08",
       "reviewedSourceHeadSha": "209853276c2820f0aa3039a31d40e5b41b72a20e"
-    }
+    },
+    "verificationDeferred": true
   },
   {
     "id": "binkalogi-pantiesia1-0",
@@ -22931,7 +22914,7 @@
     "discoveredAt": "2026-07-04T19:09:03.624Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-11-20T02:11:24.161Z",
+    "checkedAt": "2026-11-28T01:16:24.624Z",
     "forkName": "EC-Developer-Hub-powerrrr",
     "pagesUrl": "https://webrpg.org/EC-Developer-Hub-powerrrr/",
     "entryPath": "index.html",
@@ -22943,16 +22926,15 @@
     "sourceRepo": "EC-Developer-Hub/powerrrr",
     "sourceDefaultBranch": "main",
     "sourceHeadSha": "a96a950c0b5ca123a0ff52d876938c004d478496",
-    "processedHeadSha": "d4ceaa131071688c9551c8ff92dfb802b4e44a8c",
-    "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/EC-Developer-Hub-powerrrr/ served an RPG Maker entry point and its startup resources",
+    "processedHeadSha": "48d5099adb68ce5e89e6f2fc94040c50973cd0ae",
     "meta": {
       "gameSlug": "powerrrr",
       "playable": true,
       "nsfw": false,
       "reviewedAt": "2026-11-08",
       "reviewedSourceHeadSha": "a96a950c0b5ca123a0ff52d876938c004d478496"
-    }
+    },
+    "verificationDeferred": true
   },
   {
     "id": "leejh10003-preproduction-foglands",
@@ -23824,7 +23806,7 @@
     "discoveredAt": "2026-07-11T05:39:04.866Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-11-20T02:11:28.540Z",
+    "checkedAt": "2026-11-28T01:16:35.624Z",
     "forkName": "Fernando-Simaoo-The_Legend_of_Brick",
     "pagesUrl": "https://webrpg.org/Fernando-Simaoo-The_Legend_of_Brick/",
     "entryPath": "index.html",
@@ -23834,15 +23816,14 @@
     "sourceRepo": "Fernando-Simaoo/The_Legend_of_Brick",
     "sourceDefaultBranch": "master",
     "sourceHeadSha": "e51600dc19e9f5cf8ededf2e386d1e36fee7d4f1",
-    "processedHeadSha": "9216018730778b2e4ef33fc6456c79c3e0260ee6",
-    "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/Fernando-Simaoo-The_Legend_of_Brick/ served an RPG Maker entry point and its startup resources",
+    "processedHeadSha": "7a65d7d658d6cf907db5c30af989379759bb1a6b",
     "meta": {
       "nsfw": false,
       "playable": false,
       "reviewedAt": "2026-11-07",
       "reviewedSourceHeadSha": "e51600dc19e9f5cf8ededf2e386d1e36fee7d4f1"
-    }
+    },
+    "verificationDeferred": true
   },
   {
     "id": "fm-dev-rpg-game",
@@ -24976,7 +24957,7 @@
     "discoveredAt": "2026-09-16T10:53:30.292Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-11-20T02:11:00.536Z",
+    "checkedAt": "2026-11-28T01:16:00.585Z",
     "forkName": "Ananta-TI-Rpg-maker",
     "pagesUrl": "https://webrpg.org/Ananta-TI-Rpg-maker/",
     "entryPath": "index.html",
@@ -24988,16 +24969,15 @@
     "sourceRepo": "Ananta-TI/Rpg-maker",
     "sourceDefaultBranch": "main",
     "sourceHeadSha": "7da67ea7413142af7b207d3ff47e8c5df2791207",
-    "processedHeadSha": "0982d35bc65ac9345ae56bcc66513851dd0e26da",
-    "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/Ananta-TI-Rpg-maker/ served an RPG Maker entry point and its startup resources",
+    "processedHeadSha": "8ade5a76175b8b615946872bf5028246e643bbdc",
     "meta": {
       "gameSlug": "diponegoro-jejak-langkah-sang-pangeran",
       "playable": true,
       "nsfw": false,
       "reviewedAt": "2026-11-08",
       "reviewedSourceHeadSha": "7da67ea7413142af7b207d3ff47e8c5df2791207"
-    }
+    },
+    "verificationDeferred": true
   },
   {
     "id": "monroees-lachambre",
@@ -25687,7 +25667,7 @@
     "discoveredAt": "2026-06-23T23:54:52.922Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-11-20T02:12:23.399Z",
+    "checkedAt": "2026-11-28T01:17:12.770Z",
     "forkName": "habichta-ReinforcementLearningRPGMV",
     "pagesUrl": "https://webrpg.org/habichta-ReinforcementLearningRPGMV/",
     "entryPath": "index.html",
@@ -25697,15 +25677,14 @@
     "sourceRepo": "habichta/ReinforcementLearningRPGMV",
     "sourceDefaultBranch": "master",
     "sourceHeadSha": "fd011692970770b3e2f4919f27fa8d6ee0baf49e",
-    "processedHeadSha": "48ce06a51eb990e5e2aca6863c0d840b5f966281",
-    "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/habichta-ReinforcementLearningRPGMV/ served an RPG Maker entry point and its startup resources",
+    "processedHeadSha": "9e57445b65fd44abfa8d899b27caa3fffd652a3f",
     "meta": {
       "nsfw": false,
       "playable": false,
       "reviewedAt": "2026-11-08",
       "reviewedSourceHeadSha": "fd011692970770b3e2f4919f27fa8d6ee0baf49e"
-    }
+    },
+    "verificationDeferred": true
   },
   {
     "id": "brenoluna0-reliquias-de-fen",
@@ -26078,7 +26057,7 @@
     "discoveredAt": "2026-06-23T23:54:52.922Z",
     "source": "github-code-search",
     "sourcePath": "src/index.html",
-    "checkedAt": "2026-11-20T02:10:02.238Z",
+    "checkedAt": "2026-11-28T01:15:23.080Z",
     "forkName": "Cronus23-tenComandments",
     "pagesUrl": "https://webrpg.org/Cronus23-tenComandments/",
     "entryPath": "index.html",
@@ -26089,15 +26068,14 @@
     "sourceRepo": "Cronus23/tenComandments",
     "sourceDefaultBranch": "master",
     "sourceHeadSha": "376edd7ea474bf2ce9afc7a0e1fb4622e0201098",
-    "processedHeadSha": "e62c2cf376d3fbbe534dc7e4d1c2cce55727a6b9",
+    "processedHeadSha": "ce6b938358d3b8e4ec90933cd11118df32da13ef",
     "coverPath": "cover.png",
-    "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/Cronus23-tenComandments/ served an RPG Maker entry point and its startup resources",
     "meta": {
       "nsfw": false,
       "playable": false,
       "reviewedAt": "2026-11-07"
-    }
+    },
+    "verificationDeferred": true
   },
   {
     "id": "kdipippo-rpg-maker-mv-starter-template",
@@ -27654,7 +27632,7 @@
     "discoveredAt": "2026-07-04T19:09:03.624Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-11-20T02:11:05.130Z",
+    "checkedAt": "2026-11-28T01:16:05.378Z",
     "forkName": "EC-Developer-Hub-showdownnn",
     "pagesUrl": "https://webrpg.org/EC-Developer-Hub-showdownnn/",
     "entryPath": "index.html",
@@ -27666,16 +27644,15 @@
     "sourceRepo": "EC-Developer-Hub/showdownnn",
     "sourceDefaultBranch": "main",
     "sourceHeadSha": "ada12eb38140ffc4177695928acafb8d8213e9e1",
-    "processedHeadSha": "7b922ad64019e56156831e5ccb4f959e753722f6",
-    "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/EC-Developer-Hub-showdownnn/ served an RPG Maker entry point and its startup resources",
+    "processedHeadSha": "982a1213eeef0783db3babf9e27017e032ebfe96",
     "meta": {
       "gameSlug": "semester-survival",
       "playable": true,
       "nsfw": false,
       "reviewedAt": "2026-11-12",
       "reviewedSourceHeadSha": "ada12eb38140ffc4177695928acafb8d8213e9e1"
-    }
+    },
+    "verificationDeferred": true
   },
   {
     "id": "albondigaboy-juegos-creados",
@@ -28114,7 +28091,7 @@
     "discoveredAt": "2026-06-23T23:54:52.922Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-11-20T02:10:19.572Z",
+    "checkedAt": "2026-11-28T01:15:38.560Z",
     "forkName": "DOAmaster-GameOff2022TSS",
     "pagesUrl": "https://webrpg.org/DOAmaster-GameOff2022TSS/",
     "entryPath": "index.html",
@@ -28125,17 +28102,16 @@
     "sourceRepo": "DOAmaster/GameOff2022TSS",
     "sourceDefaultBranch": "main",
     "sourceHeadSha": "cbdc0f5edd7cf96276d68874c5b6df1171b43795",
-    "processedHeadSha": "235666a7c5f3cf024172fef5ec4ab862f197bf8a",
+    "processedHeadSha": "639bca673d36647d3955da259af648d8d327aaa5",
     "coverPath": "cover.png",
-    "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/DOAmaster-GameOff2022TSS/ served an RPG Maker entry point and its startup resources",
     "meta": {
       "gameSlug": "smut-summoner",
       "playable": true,
       "nsfw": true,
       "reviewedAt": "2026-11-12",
       "reviewedSourceHeadSha": "cbdc0f5edd7cf96276d68874c5b6df1171b43795"
-    }
+    },
+    "verificationDeferred": true
   },
   {
     "id": "fsworld009-rmmv-snake",
@@ -28536,7 +28512,7 @@
     "discoveredAt": "2026-06-30T05:01:43.738Z",
     "source": "github-code-search",
     "sourcePath": "Star Crystal/www/index.html",
-    "checkedAt": "2026-11-20T02:10:38.451Z",
+    "checkedAt": "2026-11-28T01:15:43.572Z",
     "forkName": "Dreafun-starcrystal",
     "pagesUrl": "https://webrpg.org/Dreafun-starcrystal/",
     "entryPath": "index.html",
@@ -28547,15 +28523,14 @@
     "sourceRepo": "Dreafun/starcrystal",
     "sourceDefaultBranch": "main",
     "sourceHeadSha": "3fcd0eb0f3d37b3f759707cf9b3ffa2f7d4f72ac",
-    "processedHeadSha": "e0e92a0d2d81cab50e9376c0ef3d5f808b2dc283",
+    "processedHeadSha": "36c913c0d0d5048f7e1fc1891f8ec43316ce0ef5",
     "coverPath": "cover.png",
-    "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/Dreafun-starcrystal/ served an RPG Maker entry point and its startup resources",
     "meta": {
       "playable": false,
       "nsfw": false,
       "reviewedAt": "2026-11-12"
-    }
+    },
+    "verificationDeferred": true
   },
   {
     "id": "teyplays-starfall-sanctuary",
@@ -29060,7 +29035,7 @@
     "discoveredAt": "2026-09-05T09:59:49.462Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-11-20T02:11:05.477Z",
+    "checkedAt": "2026-11-28T01:16:14.197Z",
     "forkName": "emowbaik-project-Tefa-B",
     "pagesUrl": "https://webrpg.org/emowbaik-project-Tefa-B/",
     "entryPath": "index.html",
@@ -29072,16 +29047,15 @@
     "sourceRepo": "emowbaik/project-Tefa-B",
     "sourceDefaultBranch": "master",
     "sourceHeadSha": "e3ded53650c034431924e069dd9749bf0e5f5836",
-    "processedHeadSha": "2b763c0f34d4ce04898aceda233304032622b320",
-    "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/emowbaik-project-Tefa-B/ served an RPG Maker entry point and its startup resources",
+    "processedHeadSha": "0b2840b9ff1833aae75ac9cc717f763035a6bebd",
     "meta": {
       "gameSlug": "tefa-b",
       "playable": true,
       "nsfw": false,
       "reviewedAt": "2026-11-12",
       "reviewedSourceHeadSha": "e3ded53650c034431924e069dd9749bf0e5f5836"
-    }
+    },
+    "verificationDeferred": true
   },
   {
     "id": "synystercola-ldjam44",
@@ -29467,7 +29441,7 @@
     "discoveredAt": "2026-09-16T10:53:30.292Z",
     "source": "github-code-search",
     "sourcePath": "Test01-Escape/index.html",
-    "checkedAt": "2026-11-20T02:11:06.533Z",
+    "checkedAt": "2026-11-28T01:16:16.422Z",
     "forkName": "94entertainment-rmmv",
     "pagesUrl": "https://webrpg.org/94entertainment-rmmv/",
     "entryPath": "index.html",
@@ -29479,14 +29453,13 @@
     "sourceRepo": "94entertainment/rmmv",
     "sourceDefaultBranch": "main",
     "sourceHeadSha": "657a03c400b50a9514d89360c895cfb7e803dd54",
-    "processedHeadSha": "9ef15cf0f20eceabe70463c87edb733bc780475a",
-    "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/94entertainment-rmmv/ served an RPG Maker entry point and its startup resources",
+    "processedHeadSha": "dee721fcf6106c058784e4a56ba9588f55acfaf5",
     "meta": {
       "playable": false,
       "nsfw": false,
       "reviewedAt": "2026-11-12"
-    }
+    },
+    "verificationDeferred": true
   },
   {
     "id": "hzj199710-rpgmakerp1",
@@ -31480,7 +31453,7 @@
     "discoveredAt": "2026-06-23T23:54:52.922Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-11-20T02:11:47.357Z",
+    "checkedAt": "2026-11-28T01:16:43.113Z",
     "forkName": "EpxStudio-Universe25",
     "pagesUrl": "https://webrpg.org/EpxStudio-Universe25/",
     "entryPath": "index.html",
@@ -31492,16 +31465,15 @@
     "sourceRepo": "EpxStudio/Universe25",
     "sourceDefaultBranch": "master",
     "sourceHeadSha": "3138e7f76bdf6ddeb93c6ecde72b25f6e7def74b",
-    "processedHeadSha": "30525f6100665ce720be7bcbc1fde0b3595e9da2",
-    "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/EpxStudio-Universe25/ served an RPG Maker entry point and its startup resources",
+    "processedHeadSha": "ba75288929e0f92e890d57549f56e3de3fc83ae2",
     "meta": {
       "gameSlug": "universe25",
       "playable": true,
       "nsfw": false,
       "reviewedAt": "2026-11-12",
       "reviewedSourceHeadSha": "3138e7f76bdf6ddeb93c6ecde72b25f6e7def74b"
-    }
+    },
+    "verificationDeferred": true
   },
   {
     "id": "bingletonbartos-bingletonbartos-github-io",
@@ -33469,7 +33441,7 @@
     "discoveredAt": "2026-06-23T23:54:52.922Z",
     "source": "github-code-search",
     "sourcePath": "index.html",
-    "checkedAt": "2026-11-20T02:11:47.700Z",
+    "checkedAt": "2026-11-28T01:16:47.084Z",
     "forkName": "GYHGwangju-Sinacs_RhythmQTE",
     "pagesUrl": "https://webrpg.org/GYHGwangju-Sinacs_RhythmQTE/",
     "entryPath": "index.html",
@@ -33479,14 +33451,13 @@
     "sourceRepo": "GYHGwangju/Sinacs_RhythmQTE",
     "sourceDefaultBranch": "main",
     "sourceHeadSha": "587441f2a4d67947b49095c9cc12782d9767e610",
-    "processedHeadSha": "235f49686d53895d34cf6b4bd2ed6e24e8bafd88",
-    "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/GYHGwangju-Sinacs_RhythmQTE/ served an RPG Maker entry point and its startup resources",
+    "processedHeadSha": "4e6564615838efaf8ddd9087c6a75259f1274b85",
     "meta": {
       "nsfw": false,
       "playable": false,
       "reviewedAt": "2026-11-12"
-    }
+    },
+    "verificationDeferred": true
   },
   {
     "id": "llb1026-llb1026-github-io",
@@ -34426,7 +34397,7 @@
     "name": "melancholianna",
     "engine": "RPG Maker MV",
     "status": "verified",
-    "checkedAt": "2026-11-20T02:10:42.899Z",
+    "checkedAt": "2026-11-28T01:15:58.189Z",
     "forkName": "Cicini-melancholianna",
     "pagesUrl": "https://webrpg.org/Cicini-melancholianna/",
     "entryPath": "index.html",
@@ -34438,16 +34409,15 @@
     "sourceRepo": "Cicini/melancholianna",
     "sourceDefaultBranch": "gh-pages",
     "sourceHeadSha": "98685f94f061aea7bceaf0bba99c224a33b66813",
-    "processedHeadSha": "54a0bdbbf75f87806b623b365b60f26aa07cff4e",
-    "reachable": true,
-    "reachabilityDetail": "https://webrpg.org/Cicini-melancholianna/ served an RPG Maker entry point and its startup resources",
+    "processedHeadSha": "5dcb76d145bf17edcf71de8edf8f703bf2f472dd",
     "meta": {
       "gameSlug": "melancholianna",
       "playable": true,
       "nsfw": true,
       "reviewedAt": "2026-11-12",
       "reviewedSourceHeadSha": "98685f94f061aea7bceaf0bba99c224a33b66813"
-    }
+    },
+    "verificationDeferred": true
   },
   {
     "id": "jyxjyx1234-misc-game-chs",
